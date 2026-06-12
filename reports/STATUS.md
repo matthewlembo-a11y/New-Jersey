@@ -1,8 +1,8 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T12:48:20+00:00_
+_Generated 2026-06-12T12:51:07+00:00_
 
-- Municipalities: **70/70**  (done: 65, in_progress: 0, blocked: 0, not_started: 5)
+- Municipalities: **70/70**  (done: 70, in_progress: 0, blocked: 0, not_started: 0)
 - Sites catalogued: **374**
 
 | # | Municipality | Status | Sites | Oblig. | Compliance | HEFSP | Last researched |
@@ -65,13 +65,13 @@ _Generated 2026-06-12T12:48:20+00:00_
 | 56 | Rutherford | done | 5 | 226 | DJ action filed | adopted | 2026-06-12T12:48:19+00:00 |
 | 57 | Saddle Brook | done | 4 | 321 | settled | adopted (amended) | 2026-06-12T12:48:19+00:00 |
 | 58 | Saddle River | done | 5 | 325 | DJ action filed; 3rd Round settlement with FSHC (June 9, 2020) | adopted | 2026-06-12T12:48:19+00:00 |
-| 59 | South Hackensack | complete | 3 | 181 | plan_adopted | adopted | 2026-06-12T12:48:19+00:00 |
+| 59 | South Hackensack | done | 3 | 181 | plan_adopted | adopted | 2026-06-12T12:48:19+00:00 |
 | 60 | Teaneck | done | 7 | 645 | certified | adopted (2026 amendment) | 2026-06-12T12:48:19+00:00 |
-| 61 | Tenafly | complete | 9 | 365 | plan_adopted | adopted | 2026-06-12T12:48:19+00:00 |
+| 61 | Tenafly | done | 9 | 365 | plan_adopted | adopted | 2026-06-12T12:48:19+00:00 |
 | 62 | Teterboro | done | 0 | 96 | prospective_satisfied_by_existing_units_no_new_construction | adopted | 2026-06-12T12:11:05+00:00 |
-| 63 | Upper Saddle River | complete | 5 | 233 | plan_adopted | adopted | 2026-06-12T12:48:19+00:00 |
-| 64 | Waldwick | complete | 9 | 183 | plan_adopted | adopted | 2026-06-12T12:48:19+00:00 |
-| 65 | Wallington | complete | 9 | 173 | plan_adopted | adopted | 2026-06-12T12:48:20+00:00 |
+| 63 | Upper Saddle River | done | 5 | 233 | plan_adopted | adopted | 2026-06-12T12:48:19+00:00 |
+| 64 | Waldwick | done | 9 | 183 | plan_adopted | adopted | 2026-06-12T12:48:19+00:00 |
+| 65 | Wallington | done | 9 | 173 | plan_adopted | adopted | 2026-06-12T12:48:20+00:00 |
 | 66 | Washington Township | done | 4 | 184 | compliant via RDP sites (AH-1 and AH-2 zones) plus prior-round credits and overlay zoning | adopted | 2026-06-12T12:48:20+00:00 |
 | 67 | Westwood | done | 4 | 254 | compliant via overlay zones and mandatory set-aside; unmet need acknowledged | adopted | 2026-06-12T12:48:20+00:00 |
 | 68 | Wood-Ridge | done | 2 | 147 | compliant via unmet need/credits mechanism | adopted | 2026-06-12T12:48:20+00:00 |
