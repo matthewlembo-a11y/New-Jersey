@@ -1,6 +1,6 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T12:04:32+00:00_
+_Generated 2026-06-12T12:11:05+00:00_
 
 - Municipalities: **70/70**  (done: 48, in_progress: 22, blocked: 0, not_started: 0)
 - Sites catalogued: **193**
@@ -12,7 +12,7 @@ _Generated 2026-06-12T12:04:32+00:00_
 | 3 | Bergenfield | in_progress | 4 |  | QUAM-exempt from prospective need; rehabilitation obligation status unclear | no fourth-round HEFSP found on library.njcourts.gov | 2026-06-12T03:22:07+00:00 |
 | 4 | Bogota | done | 1 | 111 | settled | adopted | 2026-06-12T03:22:07+00:00 |
 | 5 | Carlstadt | done | 5 | 1189 | plan_adopted_VLA | adopted | 2026-06-12T12:04:32+00:00 |
-| 6 | Cliffside Park | done | 0 | 150 | plan_adopted | adopted | 2026-06-12T03:35:42+00:00 |
+| 6 | Cliffside Park | done | 0 | 150 | urban_aid_rehab_only | adopted | 2026-06-12T12:08:53+00:00 |
 | 7 | Closter | done | 2 | 241 | settled | adopted | 2026-06-12T03:22:07+00:00 |
 | 8 | Cresskill | done | 1 | 155 | settled | adopted | 2026-06-12T03:22:07+00:00 |
 | 9 | Demarest | done | 3 |  | settled | adopted | 2026-06-12T03:22:07+00:00 |
@@ -27,7 +27,7 @@ _Generated 2026-06-12T12:04:32+00:00_
 | 18 | Fairview | in_progress | 2 | 117 | settled | adopted | 2026-06-12T03:22:07+00:00 |
 | 19 | Fort Lee | in_progress | 4 | 601 | settled | adopted | 2026-06-12T03:22:07+00:00 |
 | 20 | Franklin Lakes | done | 4 | 545 | settled | adopted | 2026-06-12T03:22:08+00:00 |
-| 21 | Garfield | done | 0 | 0 | plan_adopted | adopted | 2026-06-12T03:35:42+00:00 |
+| 21 | Garfield | done | 0 | 322 | urban_aid_rehab_only | adopted | 2026-06-12T12:08:53+00:00 |
 | 22 | Glen Rock | done | 5 | 201 | settled | adopted | 2026-06-12T03:22:08+00:00 |
 | 23 | Hackensack | done | 5 | 593 | settled | adopted | 2026-06-12T03:22:08+00:00 |
 | 24 | Harrington Park | done | 5 | 188 | settled | adopted | 2026-06-12T03:22:08+00:00 |
@@ -68,7 +68,7 @@ _Generated 2026-06-12T12:04:32+00:00_
 | 59 | South Hackensack | done | 2 | 181 | settled | adopted | 2026-06-12T03:26:49+00:00 |
 | 60 | Teaneck | in_progress | 4 | 645 | settled | adopted | 2026-06-12T03:26:49+00:00 |
 | 61 | Tenafly | done | 3 | 307 | settled | adopted | 2026-06-12T03:24:17+00:00 |
-| 62 | Teterboro | done | 0 |  | compliant | adopted | 2026-06-12T03:35:04+00:00 |
+| 62 | Teterboro | done | 0 | 96 | prospective_satisfied_by_existing_units_no_new_construction | adopted | 2026-06-12T12:11:05+00:00 |
 | 63 | Upper Saddle River | done | 4 |  | settled | adopted | 2026-06-12T03:24:18+00:00 |
 | 64 | Waldwick | done | 4 | 183 | settled | adopted | 2026-06-12T03:24:18+00:00 |
 | 65 | Wallington | done | 3 | 237 | settled | adopted | 2026-06-12T03:24:18+00:00 |
