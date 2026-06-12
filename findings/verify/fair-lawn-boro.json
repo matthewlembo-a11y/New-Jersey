@@ -1,0 +1,36 @@
+{
+  "municipality": "Fair Lawn",
+  "research_status": "blocked",
+  "obligation": {
+    "present_need": 65,
+    "prospective_need": 412,
+    "total_obligation": 477,
+    "rdp": null,
+    "unmet_need": null,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/fair-lawn-boro/FairLawnExhibitA.pdf?VersionId=20a5Vrf6aQT6_bEU2OZN73rornGPYEzu"
+  },
+  "compliance": {
+    "status": "pending",
+    "settlement_party": null,
+    "settlement_date": null,
+    "hefsp_status": "not-yet-filed (only resolution in court library)",
+    "hefsp_adopted_date": null,
+    "hefsp_url": null
+  },
+  "notes": "BLOCKED: The only document in the NJ Courts library for Fair Lawn is the January 21, 2025 Resolution No. 91-2025 (FairLawnExhibitA.pdf). This resolution declares a 412-unit Prospective Need and 65-unit Present Need, but explicitly states the Housing Element and Fair Share Plan will be adopted by the Planning Board no later than June 30, 2025, with implementing ordinances by March 15, 2026. No HEFSP has been filed with the NJ Courts library as of the scrape date. The DCA obligation (present_need=65, prospective_need=412) matches the resolution. The resolution notes Fair Lawn may seek a Vacant Land Adjustment (VLA) to reduce the prospective need to not below 25% = 103 units. The candidate snapshot referenced a 'Fair Lawn Avenue Site' with 352 total units and 20% set-aside, but this could not be verified from any official document. No site inventory can be confirmed without the actual HEFSP. Research is blocked pending HEFSP filing.",
+  "sources": [
+    {
+      "doc_type": "resolution",
+      "title": "Resolution No. 91-2025, Borough of Fair Lawn, January 21, 2025",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/fair-lawn-boro/FairLawnExhibitA.pdf?VersionId=20a5Vrf6aQT6_bEU2OZN73rornGPYEzu",
+      "excerpt": "The Borough of Fair Lawn declares that it has a 412-unit Prospective Need for the 4th Affordable Housing Round, as calculated by the DCA...The Borough of Fair Lawn declares that it has a 65 unit Present Need for the 4th Affordable Housing Round, as calculated by the DCA."
+    },
+    {
+      "doc_type": "DCA",
+      "title": "DCA Affordable Housing Obligations 2025-2035",
+      "url": "sources/dca_bergen_obligations.json",
+      "excerpt": "Fair Lawn borough: present_need=65, prospective_need=412, quam=0"
+    }
+  ],
+  "sites": []
+}

@@ -87,7 +87,7 @@
       "density": null,
       "total_units": 12,
       "affordable_units": 3,
-      "set_aside_pct": 25.0,
+      "set_aside_pct": 20.0,
       "tenure": "rental",
       "adoption_status": "adopted-ordinance (Appendix J)",
       "developer": null,
@@ -97,7 +97,7 @@
       "confidence": "high",
       "verification_status": "verified",
       "quote": "The second overlay shall allow for the development of a structure to include 12 one-bedroom age-restricted rental units. Not less than 20% (3 of the 12 units) of the units shall be deed restricted as affordable housing units and shall be UHAC compliant.",
-      "notes": "Alternative overlay on same parcel (Block 1710, Lot 38) as supportive housing overlay - only one will be built. The HEFSP says '20% (3 of the 12 units)' - mathematically that is 25% (3/12), but the HEFSP explicitly states '20%'. Using 25% as calculated ratio for set_aside_pct since 3/12=25% is arithmetically correct, but document states 20%. UHAC compliant. Same lot discrepancy as supportive overlay (summary says Lot 28, detailed text says Lot 38)."
+      "notes": "Alternative overlay on same parcel (Block 1710, Lot 38) as supportive housing overlay - only one will be built. The HEFSP states '20%' as the set-aside; the parenthetical '3 of the 12 units' is rounding up from 2.4 (20% x 12). UHAC compliant. Same lot discrepancy as supportive overlay (summary says Lot 28, detailed text says Lot 38)."
     },
     {
       "site_name": "Mayhill Apartments (Block 910, Lot 2) [Prior Round Credit]",

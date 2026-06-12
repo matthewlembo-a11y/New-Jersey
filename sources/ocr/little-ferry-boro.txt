@@ -1,0 +1,2502 @@
+SOURCE_URL: https://library.njcourts.gov/files/civil/affordable-housing/bergen/little-ferry-boro/4147.11LittleFerryAmendedHousingElementandFairSharePlan.pdf?VersionId=aADaL_xA9zBUEqBaHJ0SKeB4C2bVLqEG
+
+===== PAGE 1 =====
+ 
+ 
+L 
+ITTLE  
+F 
+ERRY  
+Housing 
+Element & Fair 
+Share Plan 
+b a 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 1 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 2 =====
+BER-L-000792-25
+06/01/2026 12:08:41 PM
+Pg2of42
+Trans ID: LCV20261453880
+1
+
+===== PAGE 3 =====
+Community Planning 
+Principals: 
+Land Development and Design 
+Joseph H. Burgis PP, AICP 
+Landscape Architecture 
+Edward Snieckus, Jr. PP, LLA, ASLA 
+ 
+David Novak PP, AICP  
+i 
+ 
+b a 
+B
+U
+R
+G
+I
+S 
+A S S O C I A T E S,  I N C. 
+ 
+ 
+ 
+ 
+Housing Element and 
+Fair Share Plan 
+ 
+Borough of Little Ferry 
+Bergen County, New Jersey 
+ 
+ 
+Prepared for the Borough of Little Ferry 
+Planning Board 
+BA# 4047.11 
+ 
+ 
+The original document was appropriately signed and sealed on February 17, 2026 in accordance 
+with Chapter 41 of Title 13 of the State Board of Professional Planners 
+ 
+This amended plan was approved by the Little Ferry Planning Board on March 4, 2026.  
+ 
+_______________________________ 
+ 
+Joseph H. Burgis, AICP, PP 
+ 
+Professional Planner #2450 
+ 
+ 
+_______________________________ 
+ 
+Chelsea L. Gleis, AICP, PP 
+ 
+Professional Planner #6224 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 3 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 4 =====
+ 
+ii 
+Members of the Borough of Little Ferry Zoning/Planning Board 
+Steven Gerard, Chairman 
+Marty Loesner, Vice-Chairman 
+Sabino Giannotte, Secretary 
+Stephen Lanum, Council Liaison 
+Lorenzo Migale 
+Gino Tessaro 
+Jose Curruchich 
+Purna Patel 
+Anita Kober, Alternate #1 
+Andrew Enrique, Alternate #2 
+Nabihah Azam Ghani, Alternate #3 
+ 
+Planning and Zoning Board Clerk 
+Bertha Sneyer 
+Planning Board Attorney 
+Brian T. Giblin, Esq. 
+ 
+Planning Board Engineer 
+Kenneth J. Job, PE 
+Job & Job Consulting Engineers 
+ 
+Planning Board Architect 
+Anthony Ioviono, AIA, PP, LEED 
+Arcari + Iovino Architects PC 
+ 
+Planning Board Planning Consultant 
+Joseph H. Burgis PP, AICP 
+Chelsea L. Gleis PP, AICP 
+Burgis Associates, Inc. 
+Planning Board Landscape Architect 
+John J. Sabol LLA 
+Neglia Group, LLC 
+ 
+Planning Board Traffic Engineer 
+Brian A. Intindola, PE, PP, CME, CPWN 
+Neglia Group, LLC 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 4 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 5 =====
+ 
+iii 
+Contents 
+Executive Summary ............................................................................................................................................ 1 
+Prior Round Obligation ................................................................................................................................ 1 
+Third Round Obligation ............................................................................................................................... 2 
+Fourth Round Obligation ............................................................................................................................ 2 
+Section 1: Introduction ..................................................................................................................................... 5 
+1.1: What is Affordable Housing? ............................................................................................................ 5 
+What is the History of Affordable Housing in New Jersey? .......................................................... 6 
+What is a Housing Element and Fair Share Plan? .............................................................................. 9 
+Section 2: Housing Element .......................................................................................................................... 11 
+2.1: Community Overview ......................................................................................................................... 12 
+2.2: Demographic and Population Data .............................................................................................. 14 
+Population Changes ............................................................................................................................... 14 
+Age Characteristics ................................................................................................................................. 15 
+Household Tenure and Occupancy .................................................................................................. 16 
+Average Household Size ....................................................................................................................... 16 
+Household Income .................................................................................................................................. 17 
+2.3: Inventory of Housing Stock ............................................................................................................. 18 
+Number of Dwelling Units ................................................................................................................... 18 
+Units in Structure for Occupied Units .............................................................................................. 19 
+Purchase and Rental Value of Housing Units ............................................................................... 19 
+Year Structure Built .................................................................................................................................. 21 
+Deficient Housing Units ........................................................................................................................ 22 
+2.4: Housing and Employment Projection .......................................................................................... 23 
+Recent Residential Development Activity ...................................................................................... 23 
+Covered Employment ............................................................................................................................ 23 
+Section 3: Fair Share Obligation .................................................................................................................. 25 
+3.1: Summary of Fair Share Obligation ................................................................................................ 25 
+3.2: Realistic Development Potential (RDP) ........................................................................................ 26 
+Prior Round RDP ...................................................................................................................................... 26 
+Third Round RDP ..................................................................................................................................... 26 
+Fourth Round RDP .................................................................................................................................. 26 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 5 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 6 =====
+ 
+iv 
+Section 4: Fair Share Plan ............................................................................................................................... 27 
+4.1: Prior Round Obligation ...................................................................................................................... 27 
+4.2: Third Round Obligation ..................................................................................................................... 28 
+4.3: Fourth Round Obligation .................................................................................................................. 29 
+75 & 87 Bergen Turnpike ..................................................................................................................... 30 
+21 Main Street ........................................................................................................................................... 31 
+250 Merhof Road ..................................................................................................................................... 32 
+220 & 230 Route 46................................................................................................................................ 33 
+Mandatory Set-Aside ............................................................................................................................. 34 
+4.4: Present Need Obligation .................................................................................................................. 34 
+4.5: Other Provisions ................................................................................................................................... 34 
+4.6: Consistency with State Planning Initiatives ............................................................................... 35 
+Multigenerational Family Housing Continuity Commission ................................................... 35 
+State Development and Redevelopment Plan ............................................................................. 35 
+4.7: Spending Plan Update ....................................................................................................................... 36 
+ 
+Appendices ............................................................................................................................................................... 
+A: January Resolution ...................................................................................................................................... 
+B-1: 250 Mehrhof Road (Regan Development – Osrey Point) ......................................................... 
+B-2: 220 & 230 US 46 Resolution ............................................................................................................... 
+B-3: Ordinance for 75 & 87 Bergen Turnpike and 21 Main Street ................................................ 
+C-1: Settlement Agreement with Fair Share Housing Center and Judgement ......................... 
+C-2: Agreement for Administrative Agent Services ............................................................................. 
+C-3: Affordable Housing Ordinance .......................................................................................................... 
+C-4: Development Fee Ordinance .............................................................................................................. 
+C-5: Municipal Affordable Housing Liaison ............................................................................................ 
+C-6: Affirmative Marketing Plan .................................................................................................................. 
+C-7: Rehabilitation Program Operating Manual ................................................................................... 
+C-8: Fourth Round Spending Plan .............................................................................................................. 
+C-9: Affordability Assistance Manual ........................................................................................................ 
+D: Governing Body Resolutions Endorsing HE&FSP & Adopting Manuals ............................... 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 6 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 7 =====
+ 
+~ 1 ~ 
+ 
+Executive Summary 
+The following 2025 Housing Element and Fair Share Plan (HE&FSP) of the Master 
+Plan has been prepared for the Borough of Little Ferry, Bergen County, New Jersey.  
+This plan is designed to outline the manner in which the Borough will address its affordable 
+housing obligations for the Fourth Round. As will be discussed in greater detail herein, 
+these obligations were derived from a variety of different sources including the Council on 
+Affordable Housing (COAH), a prior settlement agreement with Fair Share Housing Center 
+(FSHC), and most recently from calculations provided by the Department of Community 
+Affairs (DCA). 
+The Borough’s current and past affordable housing obligations are summarized as 
+follows: 
+Table 1: Historical Affordable Housing Obligation Summary 
+Category 
+Obligation 
+First & Second Round Obligation (1987-1999) 
+28 
+Third Round Obligation (1999-2025) 
+182 
+Fourth Round Obligation (2025-2035) 
+99 
+Present Need (Rehabilitation) Obligation 
+114 
+Prior Round Obligation 
+The Borough was assigned a Prior (First and Second) Round Obligation of twenty-eight (28) 
+affordable units. This Prior Round RDP was fully satisfied through the components 
+identified in Table 2 below.  
+Table 2: 1987-1999 Affordable Housing Components 
+Component 
+Affordable Units 
+Status 
+Caring House Group Home 
+4 
+Completed 
+Advance Housing Group Home 
+3 
+Completed 
+Royale Realty 
+2 
+Completed 
+Meridia/110 Bergen Turnpike 
+5 
+Completed 
+Regan Development Corp 
+7 
+Completed 
+Compliance Bonus 
+7 
+Completed 
+Total 
+28 
+Completed 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 7 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 8 =====
+ 
+~ 2 ~ 
+Third Round Obligation 
+Based upon a vacant land adjustment (VLA) approved by COAH as part of its Second Round 
+Substantive Certification, the Borough’s realistic development potential (RDP) was 
+established as zero. However, two of the proposed Third Round unmet need mechanisms 
+appeared to be moving forward. Therefore, the RDP was adjusted to thirty (30) affordable 
+units. 
+Per the Settlement Agreement signed with FSHC, in addition to the Borough’s Third Round 
+RDP of thirty (30) affordable units, it had a Prospective Need one hundred and eighty-two 
+(182) units. Therefore, the Borough had an Unmet Need of one hundred and fifty-two (152) 
+affordable units, of which it agreed to address a portion through the following mechanisms: 
+Table 3: Mechanisms for Third Round Unmet Need 
+Component 
+Units 
+Type 
+Bonuses 
+Total Credits 
+Status 
+Regan Development Corp. 
+Block 107, Lots 2.01 and 17; 
+Block 106.01, Lot 13.06 
+(23 of 85 units) 
+23 
+100% Affordable 
+Special-Needs 
+Rental 
+5 
+28 
+Completed 
+Meridia/110 Bergen Turnpike 
+Block 25, Lot 2 (2 of 15 units) 
+2 
+Inclusionary Rental 
+ 
+2 
+Completed 
+Total RDP 
+25 
+ 
+5 
+30 
+ 
+Surplus RDP 
+13 
+ 
+ 
+ 
+ 
+Regan Development Corp. 
+Block 107, Lots 2.01 and 17; 
+Block 106.01, Lot 13.06 
+(20 of 85 units; 31 to future) 
+20 
+100% Affordable Age 
+Restricted 
+Rental 
+ 
+20 
+Completed 
+Gilbert Manor/Nuckel 
+Block 14, Lot 10 
+11 
+Inclusionary Age-
+Restricted Rental 
+ 
+11 
+Owner Died 
+Litigation 
+ 
+Mandatory Set-Aside 
+ 
+ 
+ 
+ 
+Adopted 
+RF-A Riverfront Overlay Zone 
+ 
+Inclusionary Zoning 
+ 
+ 
+Adopted 
+Overlay Zone 1 
+ 
+Inclusionary Zoning 
+ 
+ 
+Redevelopment Area 
+Overlay Zone 2 
+ 
+Inclusionary Zoning 
+ 
+ 
+Not Yet Adopted 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+44 
+ 
+ 
+ 
+ 
+ 
+The status of each compliance mechanism is as follows: 
+1. The Regan Development is completed and rented.  
+2. The Meridia development has completed both Building A and Building B.  
+3. The Gilbert Manor property was the subject of the Nuckel Settlement Agreement 
+as part of the Third Round process. It was slated to be studied as an Area in Need 
+of Redevelopment. However, the property owner passed away, and the Borough is 
+currently in litigation with the Nuckel estate.  
+4. The RF-A Riverfront Overlay Zone was adopted as part of the First and Second 
+Round.  
+5. The previously proposed Overlay Zone 1 was not adopted as one of the two 
+properties in the zone was removed from consideration. The other property for the 
+proposed overlay is the subject of an Area in Need of Redevelopment Study.  
+6. The previously proposed Overlay Zone 2 is still being considered for adoption.  
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 8 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 9 =====
+ 
+~ 3 ~ 
+7. The proposed Mandatory Set-aside Ordinance has been adopted. The original 
+ordinance required an affordable housing set-aside in multi-family and attached 
+single family developments of 15 or more units. The revised ordinance requires 
+affordable housing components in developments of 5 or more units with a 20% 
+set-aside for both rental and owner.  
+ 
+Fourth Round Obligation 
+The DCA calculated a Fourth Round Obligation of ninety-nine (99) affordable units for the 
+Borough. Little Ferry accepted this calculation by way of Resolution #69 which was adopted 
+on January 30, 2025. That same resolution noted that the Borough reserved the right to 
+conduct a VLA analysis to determine its RDP. See Appendix A for a copy of this resolution. 
+However, the Borough is opting to not adjust its Fourth Round obligation of 99 units and 
+will meet it in its entirety. The components identified in Table 4 comprise seventy-five (75) 
+affordable units as well as 25 bonus credits for redevelopment resulting in a total number 
+of one hundred (100). 
+Table 4: Mechanisms for Fourth Round Prospective Need 
+Plan Component 
+Type 
+Units 
+Bonus 
+Status 
+75 & 87 Bergen Turnpike 
+Family Rental 
+13 
+ 
+Proposed 
+21 Main Street 
+Family Rental 
+27 
+ 
+Proposed 
+Regan Development Corp 
+Age-Restricted Rental 
+22 
+ 
+Complete 
+220 & 230 Route 46 
+Family Rental 
+13 
+ 
+Approved 
+Bonus Credits 
+Redevelopment 
+ 
+25 
+ 
+Updated Mandatory Set-Aside  
+20% of Five or More 
+Units 
+ 
+ 
+ 
+Total: 100 
+ 
+75 
+25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 9 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 10 =====
+ 
+~ 4 ~ 
+Accordingly, the remainder of the 2025 Housing Element and Fair Share Plan is divided 
+into the following sections: 
+ Section 1: Introduction 
+The first section of the 2025 HE&FSP provides an introduction to affordable 
+housing. It summarizes what affordable housing is, offers an overview of the 
+history of affordable housing in the state, and explains the role of a housing 
+element and fair share plan. 
+ Section 2: Housing Element 
+Section 2 contains the Housing Element for the Borough of Little Ferry. It offers 
+community overview of the Borough, as well as background information 
+regarding its population, housing, and employment characteristics. It also 
+provides projections of the Borough’s housing stock and employment.   
+ Section 3: Fair Share Obligation 
+Next, Section 3 provides an overview of the Borough’s fair share obligation. It 
+includes a brief history of the methodologies utilized to calculate affordable 
+housing obligations throughout the state. 
+ Section 4: Fair Share Plan 
+Finally, Section 4 details the manner in which the Borough has addressed its Prior 
+Round and Third Round Obligation as well as how it will address its Fourth Round 
+Obligation.  
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 10 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 11 =====
+ 
+~ 5 ~ 
+Section 1: Introduction 
+The following section provides an introduction to affordable housing. It summarizes what 
+affordable housing is, offers an overview of the history of affordable housing in the state, 
+and explains the role of a housing element and fair share plan. 
+1.1: What is Affordable Housing? 
+Affordable housing is income-restricted housing that is available for sale or for rent. 
+Typically, affordable housing is restricted to very-low, low-, and moderate-income 
+households. These categories are derived from median regional income limits established 
+for the state. New Jersey is delineated into six different affordable housing regions. Little 
+Ferry is located in Region 1 which includes Bergen, Hudson, Passaic, and Sussex Counties.  
+Moderate-Income 
+Households 
+Earn 80% of the region’s 
+median income 
+Low-Income Households 
+Earn 50% of the region’s 
+median income 
+Very Low-Income 
+Households 
+Earn 30% of the region’s 
+median income 
+Regional income limitations are updated every year, with different categories established 
+for varying household sizes. Table 5 identifies the 2024 regional income limits by household 
+size for Region 1. As shown, a three-person family with a total household income of no 
+greater than $86,697 could qualify for affordable housing in the Borough’s region. 
+Table 5: 2024 Affordable Housing Region 1 Income Limits by Household Size 
+Income Level 
+2 Person 
+3 Person 
+4 Person 
+5 Person 
+Median 
+$96,329 
+$108,371 
+$120,412 
+$130,045 
+Moderate 
+$77,064 
+$86,697 
+$96,329 
+$104,036 
+Low 
+$48,165 
+$54,185 
+$60,206 
+$65,022 
+Very-Low 
+$28,899 
+$32,511 
+$37,568 
+$39,013 
+One of the most common forms of affordable housing is inclusionary development, in 
+which a certain percentage of units within a multifamily development are reserved for 
+affordable housing. Affordable housing can be found in a variety of other forms, including 
+but not limited to: one hundred percent affordable housing developments, deed-restricted 
+accessory apartments, assisted living facilities, alternating arrangements such as supportive 
+housing or group homes, and age restricted housing. 
+ 
+80%
+50%
+30%
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 11 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 12 =====
+ 
+~ 6 ~ 
+What is the History of Affordable Housing in New Jersey? 
+The history of affordable housing in New Jersey can 
+be traced back to 1975, when the Supreme Court first 
+decided in So. Burlington Cty. NAACP v. Township of 
+Mount Laurel (known as Mount Laurel I) that every 
+developing municipality throughout New Jersey had 
+an affirmative obligation to provide for its fair share 
+of affordable housing. In a subsequent decision in 
+1983 (known as Mount Laurel II), the Court 
+acknowledged 
+that 
+the 
+vast 
+majority 
+of 
+municipalities had ignored their constitutional 
+obligation to provide affordable housing.  
+Accordingly, the Court refined this obligation to 
+establish that every municipality had an obligation, 
+although those within the growth area of the State 
+Development and Redevelopment Plan (SDRP) had a 
+greater obligation. The Court also called for the state 
+legislature to enact legislation that would save 
+municipalities from the burden of having the courts 
+determine their affordable housing needs. The result 
+of this decision was the adoption of the Fair Housing 
+Act in 1985 as well as the creation of the New Jersey 
+Council on Affordable Housing (COAH), which 
+became the state agency responsible for overseeing 
+the manner in which New Jersey’s municipalities 
+address their low and moderate income housing 
+needs. 
+COAH proceeded to adopt regulations for the First 
+Round obligation, which covered the years 1987 to 
+1993. It also established the Second Round housing-
+need numbers that cumulatively covered the years 
+1987 through 1999. Under both the First and Second 
+Rounds, COAH utilized what is commonly referred to 
+as the “Fair Share” methodology. 
+COAH utilized a different methodology, known as 
+“Growth Share,” beginning with its efforts to prepare 
+Third Round housing-need numbers. The Third 
+Round substantive and procedural rules were 
+adopted in 2004.  
+ 
+ 
+2015: Mount Laurel IV
+COAH defunct and moribund. All 
+affordable housing matters to be heard 
+by courts
+1986: Mount Laurel III
+Every municipality has an obligation if 
+any portion of municipality was within 
+the “Growth Share Area” of the State 
+Development and Redevelopment Plan
+1983: Mount Laurel II
+Every municipality has an obligation if 
+any portion of municipality was within 
+the “Growth Share Area” of the State 
+Development and Redevelopment Plan
+1975: Mount Laurel I
+Every developing municipality has an 
+affordable housing obligation
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 12 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 13 =====
+ 
+~ 7 ~ 
+However, these regulations were challenged and in 
+January 2007, the Appellate Division invalidated 
+various aspects of them and remanded considerable 
+portions of the rules to COAH with the directive to 
+adopt revised regulations. 
+In May 2008, COAH adopted revised Third Round 
+regulations which were published and became 
+effective on June 2, 2008. Coincident to this 
+adoption, COAH proposed amendments to the rules 
+they had just adopted, which subsequently went into 
+effect in October 2008. These 2008 rules and 
+regulations were subsequently challenged again, and 
+in an October 2010 decision the Appellate Division 
+invalidated the Growth Share methodology and also 
+indicated that COAH should adopt regulations 
+pursuant to the Fair Share methodology utilized in 
+Rounds One and Two. The Supreme Court affirmed 
+this decision in September 2013, which invalidated 
+much of the third iteration of the Third Round 
+regulations and sustained the invalidation of Growth 
+Share. As a result, the Court directed COAH to adopt 
+new regulations pursuant to the methodology 
+utilized in Rounds One and Two. 
+Deadlocked with a 3-3 vote, COAH failed to adopt 
+revised Third Round regulations in October 2014. Fair 
+Share Housing Center (FSHC), who was a party in 
+both the 2010 and 2013 cases, responded by filing a 
+motion in aid of litigants’ rights with the New Jersey 
+Supreme Court. The Court heard the motion in 
+January 2015 and issued its ruling on March 20, 2015. 
+The Court ruled that COAH was effectively 
+dysfunctional, and consequently returned jurisdiction of affordable housing issues back to 
+the trial courts where it had originally been prior to the creation of COAH in 1985. 
+This 2015 Court decision created a process in which municipalities may file a declaratory 
+judgment action seeking a declaration that their HE&FSP is constitutionally compliant and 
+receive temporary immunity from affordable housing builders’ remedy lawsuits while 
+preparing a new or revised HE&FSP to ensure their plan continues to affirmatively address 
+their local housing need as may be adjusted by new housing-need numbers promulgated 
+by the court or COAH 
+ 
+2024: A-4/S-50
+New Jersey adopts new legslation which 
+overhauls the FHA. COAH is elimianted, 
+and its duties are split between the DCA 
+and the AOC. 
+2018: Jacobson Decision
+Established methodology in Mercer 
+County for determining housing 
+obligation. Being utilized outside of 
+Mercer County for settlement purposes
+2017: Gap Period
+Finds that gap period (1999-2015) 
+generates an affordable housing 
+obligation
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 13 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 14 =====
+ 
+~ 8 ~ 
+Subsequently, the Supreme Court ruled on January 18, 2017 that municipalities are also 
+responsible for obligations accruing during the so-called “gap period,” the period of time 
+between 1999 and 2015. However, the Court stated that the gap obligation should be 
+calculated as a never-before calculated component of Present Need, which would serve to 
+capture Gap Period households that were presently in need of affordable housing as of the 
+date of the Present Need calculation (i.e. that were still income eligible, were not captured 
+as part of traditional present need, were still living in New Jersey and otherwise represented 
+a Present affordable housing need). 
+On March 20, 2024, the State of New Jersey adopted a package of affordable housing bills 
+which overhauled the Fair Housing Act. This legislation ultimately eliminated COAH and 
+split its duties and functions between the Department of Community Affairs (DCA) and the 
+Administrative Office of the Courts (AOC). 
+The DCA was designated by the legislation as the entity responsible for calculating the 
+state’s regional needs as well as each municipality’s present and prospective fair share 
+obligations pursuant to the Jacobson Decision. However, the legislation makes clear that 
+these numbers are advisory and that each municipality must set its own obligation number 
+utilizing the same methodology. Meanwhile, the Affordable Housing Dispute Resolution 
+Program (the “Program”) within the AOC is tasked to handle any disputes regarding 
+affordable housing obligations and plans. 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 14 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 15 =====
+ 
+~ 9 ~ 
+What is a Housing Element and Fair Share Plan? 
+A Housing Element and Fair Share Plan (HE&FSP) serves as the blueprint for how a 
+municipality will address its fair share of affordable housing. It is designed to help a 
+community broaden the accessibility of affordable housing.  
+While technically a discretionary component of a 
+municipal master plan, a HE&FSP is nevertheless an 
+effectively obligatory plan element. As established 
+by NJSA 40:55D-62.a of the Municipal Land Use Law 
+(MLUL), a municipality must have an adopted 
+HE&FSP in order to enact its zoning ordinance. Thus, 
+from a public policy perspective, a HE&FSP is an 
+essential community document. Moreover, without 
+a HE&FSP, a municipality may be susceptible to a builder’s remedy lawsuit in which a 
+developer could file suit to have a specific piece of property rezoned to permit housing at 
+higher densities than a municipality would otherwise allow, provided a certain percentage 
+of units are reserved as affordable. 
+The Fair Housing Act (FHA), which was adopted in 1985 and has been amended multiple 
+times since then, establishes the required components of a HE&FSP. These are summarized 
+as follows: 
+1. An inventory of the municipality’s housing stock by age, condition, purchase or 
+rental value, occupancy characteristics, and type, including the number of units 
+affordable to low- and moderate-income households and substandard housing 
+capable of being rehabilitated; 
+2. A projection of the municipality’s housing stock, including the probable future 
+construction of low- and moderate-income housing, for the next ten years, taking 
+into account, but not necessarily limited to, construction permits issued, approvals 
+of applications for development and probable residential development of lands; 
+3. An analysis of the municipality’s demographic characteristics, including but not 
+necessarily limited to, household size, income level and age; 
+4. An analysis of the existing and probable future employment characteristics of the 
+municipality; 
+5. A determination of the municipality’s present and prospective fair share for low- 
+and moderate-income housing and its capacity to accommodate its present and 
+prospective housing needs, including its fair share for low- and moderate-income 
+housing; 
+6. A consideration of the lands that are most appropriate for construction of low- and 
+moderate-income housing and the existing structures most appropriate for 
+conversion to, or rehabilitation for, low- and moderate-income housing, including 
+a consideration of lands of developers who have expressed a commitment to 
+provide low- and moderate-income housing; 
+The Municipal Land Use Law 
+(MLUL) is the enabling 
+legislation for municipal land 
+use and development, planning, 
+and zoning for the State of New 
+Jersey.  
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 15 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 16 =====
+ 
+~ 10 ~ 
+7. An analysis of the extent to which municipal ordinances and other local factors 
+advance or detract from the goal of preserving multigenerational family continuity 
+as expressed in the recommendations of the Multigenerational Family Housing 
+Continuity Commission; 
+8. For a municipality located within the jurisdiction of the Highlands Water Protection 
+and Planning Council, an analysis of compliance of the housing element with the 
+Highlands Regional Master Plan of lands in the Highlands Preservation Area, and 
+lands in the Highlands Planning Area for Highlands conforming municipalities; 
+9. An analysis of consistency with the State Development and Redevelopment Plan, 
+including water, wastewater, stormwater, and multi-modal transportation based on 
+guidance and technical assistance from the State Planning Commission. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 16 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 17 =====
+ 
+~ 11 ~ 
+Section 2: Housing Element 
+The following section provides the Housing Element for the Borough of Little Ferry. It offers 
+a community overview of the Borough, as well as background information regarding its 
+population, housing, and employment characteristics. It also provides projections of the 
+Borough’s housing stock and its employment. 
+ 
+1. United States Decennial 
+Census 
+The US Census is described in Article I, Section 2 
+of the Constitution of the United States, which 
+calls for an enumeration of the people every ten 
+years for the apportionment of seats in the 
+House of Representatives. Since the time of the 
+first Census conducted in 1790, it has become 
+the leading source of data about the nation’s 
+people and economy. Please note that all 
+incomes reported in the Census are adjusted for 
+inflation. 
+4. New Jersey Department of 
+Community Affairs (DCA) 
+The New Jersey Department of Community 
+Affairs is a governmental agency of the State 
+of New Jersey. Its function is to provide 
+administrative guidance, financial support, 
+and technical assistance to local 
+governments, community development 
+organizations, businesses, and individuals to 
+improve the quality of life in New Jersey. 
+ 
+2. American Community Survey 
+(ACS) 
+The American Community Survey is a 
+nationwide ongoing survey conducted by the 
+US Census Bureau. The ACS gathers information 
+previously contained only in the long form 
+version of the decennial census, such as age, 
+ancestry, educational attainment, income, 
+language proficiency, migration, disability, 
+employment, and housing characteristics. It 
+relies upon random sampling to provide 
+ongoing, monthly data collection. Please note 
+that all incomes reported in the ACS are 
+adjusted for inflation. 
+5. New Jersey Department of Labor 
+and Workforce Development 
+The New Jersey Department of Labor and 
+Workforce Development is a governmental 
+agency of the State of New Jersey. One of its 
+roles is to collect labor market information 
+regarding employment and wages 
+throughout the state.  
+ 
+3. New Jersey Department of Health 
+The New Jersey Department of Health is a 
+governmental agency of the State of New 
+Jersey. The department contains the Office of 
+Vital Statistics and Registry, which gathers data 
+regarding births, deaths, marriages, domestic 
+partnerships, and civil unions. 
+ 
+ 
+Information Regarding Data Sources 
+The information contained in Section 2.2 entitled “Demographic and Population Data,” 
+Section 2.3 entitled “Inventory of Housing Stock,” and Section 2.4 entitled “Housing and 
+Employment Projections” was obtained from a variety of publicly available data sources. 
+These are summarized below: 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 17 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 18 =====
+ 
+~ 12 ~ 
+2.1: Community Overview 
+The Borough of Little Ferry is located in the southeasterly portion of Bergen County. It is 
+bounded by six (6) municipalities, including: the City of Hackensack and the Township of 
+South Hackensack to the north; the Borough of Ridgefield and the Village of Ridgefield 
+Park to the east; and the Boroughs of Moonachie and Teterboro to west. 
+The Borough was established in 1894 and has a land area of approximately 1.67 square 
+miles. It is bounded to the east by the Hackensack River and was the site of a historic ferry 
+crossing since 1659. The Borough is essentially a fully developed community with very little 
+vacant land remaining for development. Additionally, much of the borough is within the 
+FEMA flood hazard area.  
+Regional access to the Borough is provided by several county and state roadways including 
+U.S. Route 46 (Sylvan Ave), Main Street, Redneck Ave, River Street, Bergen Turnpike and 
+Liberty Street. Little Ferry is also in close proximity to Interstate Highways 95 and 80.  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 18 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 19 =====
+BER-L-000792-25
+06/01/2026 12:08:41 PM
+Pg 19 of 42 Trans ID: LCV20261453880
+Map 1: Existing Land Use
+Tie
+(eee
+SS
+3
+= LEE SN \
+Hey)S23.
+te
+t a
+- T/p.
+.
+pore AAG
+Oo xo
+/
+~13~
+
+===== PAGE 20 =====
+ 
+~ 14 ~ 
+2.2: Demographic and Population Data 
+Analyzing demographic and population data is a necessary and integral step in planning 
+for the future needs of a community. As such, the following section outlines the 
+demographic changes experienced by the Borough of Little Ferry over the past several 
+decades. 
+Population Changes 
+The Borough experienced a rapid level of growth between 1900 and 1970, wherein its 
+population increased approximately 631% from 1,240 people in 1900 to 9,064 people in 
+1970. However, this rate of growth diminished after 1970 as the Borough began to 
+experience continued, but slower growth in population. Between 1970 and 2000, the 
+Borough’s population increased approximately 19%. Since that time, the population of 
+Little Ferry has slightly fluctuated between a low of 10,626 people and a high of 10,914 
+people. As indicated by the ACS, the Borough’s estimated 2023 population was 10,914 
+people. 
+Table 6: Population Growth, 1900-2023 
+Year 
+Population 
+Population Change 
+Percent Change 
+1900 
+1,240 
+-- 
+-- 
+1910 
+2,541 
+1301 
+104.9% 
+1920 
+2,715 
+174 
+6.8% 
+1930 
+4,155 
+1,440 
+53.0% 
+1940 
+4,545 
+390 
+9.4% 
+1950 
+4,955 
+410 
+9.0% 
+1960 
+6,175 
+1,220 
+24.6% 
+1970 
+9,064 
+2.889 
+46.8% 
+1980 
+9,399 
+335 
+3.7% 
+1990 
+9,989 
+590 
+6.3% 
+2000 
+10,800 
+811 
+8.1% 
+2010 
+10,626 
+-174 
+-1.6% 
+2020 
+10,987 
+361 
+3.4% 
+2023 
+10,914 
+-73 
+-0.7% 
+Source: US Census Bureau; 2023 American Community Survey Five-Year Estimate 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 20 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 21 =====
+ 
+~ 15 ~ 
+Age Characteristics 
+The median age of Little Ferry residents has been increasing in recent years from 37.4 in 
+2000 to 38.8 years in 2010 and 44.8 years in 2023. The Borough’s aging population is 
+particularly evident when analyzing those residents aged 65 and over. In 2000 and 2010, it 
+was estimated that approximately 12% of the Borough’s population was aged 65 and over. 
+By 2023, this percentage is estimated to have increased to 19.2%. The total number of 
+residents within this age cohort is also estimated to have increased 68% during that time 
+period. 
+Meanwhile, the percentage of the Borough’s population aged 19 years and younger 
+decreased between 2000 and 2023. In 2000, the population 19 years and younger was 
+approximately 22%. Similarly, in 2010, this number was estimated 21.3. However, by 2023, 
+this percentage is estimated to have decreased to 17.6%. Furthermore, the total number of 
+residents within this age cohort decreased by approximately 15.1% in that time period. 
+Table 7:  Age Characteristics, 2000-2023 
+2000 
+2010 
+2023 
+Age Group 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Under 5 
+687 
+6.4% 
+773 
+7.3% 
+412 
+3.8% 
+5-9 
+613 
+5.7% 
+572 
+5.4% 
+439 
+4.0% 
+10-14 
+574 
+5.3% 
+593 
+5.6% 
+378 
+3.5% 
+15-19 
+509 
+4.7% 
+318 
+3.0% 
+687 
+6.3% 
+20-24 
+603 
+5.6% 
+636 
+6.0% 
+675 
+6.2% 
+25-29 
+909 
+8.4% 
+689 
+6.5% 
+776 
+7.1% 
+30-34 
+1077 
+10.0% 
+954 
+9.0% 
+527 
+4.8% 
+35-39 
+1007 
+9.3% 
+911 
+8.6% 
+771 
+7.0% 
+40-44 
+930 
+8.6% 
+901 
+8.5% 
+853 
+7.8% 
+45-49 
+747 
+6.9% 
+816 
+7.7% 
+491 
+4.5% 
+50-54 
+732 
+6.8% 
+826 
+7.8% 
+1,011 
+9.2% 
+55-59 
+585 
+5.4% 
+646 
+6.1% 
+855 
+7.8% 
+60-64 
+485 
+4.5% 
+699 
+6.6% 
+969 
+8.9% 
+65-69 
+403 
+3.7% 
+254 
+2.4% 
+742 
+6.8% 
+70-74 
+371 
+3.4% 
+265 
+2.5% 
+573 
+5.2% 
+75-79 
+279 
+2.6% 
+318 
+3.0% 
+372 
+3.0% 
+80-84 
+156 
+1.4% 
+212 
+2.0% 
+96 
+0.9% 
+85 and older 
+133 
+1.2% 
+222 
+2.1% 
+360 
+3.3% 
+Total 
+10,800 
+10,602 
+10,942 
+Median Age (years) 
+ 
+37.4 
+38.8 
+44.8 
+Source: US Census Bureau; 2023 American Community Survey Five-Year Estimate 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 21 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 22 =====
+ 
+~ 16 ~ 
+Household Tenure and Occupancy 
+Historically, the majority of the Borough’s housing stock has been evenly split between 
+owner and renter-occupied. This has remained consistent over the past several years. In 
+2000, an estimated 2,345 units (53.7%) of all units were renter-occupied units. In 2010, that 
+number decreased slightly to 2,166 units (52.5%), and by 2023, the renter-occupied units 
+increased to an estimated 2,582 (56.9%). 
+Figure 1: Owner-Occupied and Renter-Occupied Units, 2000-2023 
+ 
+Source: US Census Bureau; 2023 American Community Survey Five-Year Estimate 
+Average Household Size 
+The Borough’s average household size has fluctuated since 2000. As per the 2023 ACS, it 
+is estimated that the average household size in the Borough was 2.41 people per unit.  
+Figure 2: Household Sizes, 1990-2023 
+ 
+Source: US Census Bureau; 2023 American Community Survey Five-Year Estimate 
+ 
+2,021
+1,962
+1,957
+2,345
+2,166
+2,582
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+5,000
+2000
+2010
+2023
+Owner-Occupied
+Renter-Occupied
+2.48
+2.57
+2.41
+2.3
+2.35
+2.4
+2.45
+2.5
+2.55
+2.6
+2000
+2010
+2023
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 22 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 23 =====
+ 
+~ 17 ~ 
+Household Income 
+Household incomes have increased throughout the Borough since 1999. This is evident 
+within all income levels, with the percentage of households making less than $100,000 per 
+year decreasing and the percentage of households making more than $100,000 per year 
+increasing. In 1999, households making more than $150,000 comprised approximately 3.2% 
+of the Borough. By 2023, this percentage is estimated to have increased to 26.5%. 
+Overall, the Borough’s median household income has historically been lower than median 
+household incomes recorded by both Bergen County and the State of New Jersey as a 
+whole. The Borough’s estimated median household income increased approximately 59.1% 
+between 1999 and 2023, which represents a lower rate than that experienced by the County 
+as a whole (78.9%). 
+Pursuant to the ACS, an estimated 8.5% of the Borough’s population reported an income 
+below the federal poverty line in 2023. This is above the County’s estimated rate of 6.6%. 
+Table 8: Household Incomes, 1999-2023 
+1999 
+2010 
+2023 
+Income Level 
+Households 
+Percent 
+Households 
+Percent 
+Households 
+Percent 
+Less than $10,000 
+188 
+4.3% 
+169 
+4.1% 
+127 
+2.8% 
+$10,000 to $14,999 
+224 
+5.1% 
+190 
+4.6% 
+100 
+2.2% 
+$15,000 to $24,999 
+345 
+7.9% 
+384 
+9.3% 
+354 
+7.8% 
+$25,000 to $34,999 
+552 
+12.7% 
+351 
+8.5% 
+295 
+6.5% 
+$35,000 to $49,999 
+870 
+20.0% 
+549 
+13.3% 
+527 
+11.6% 
+$50,000 to $74,999 
+959 
+22.0% 
+871 
+21.1% 
+813 
+17.9% 
+$75,000 to $99,999 
+501 
+11.5% 
+594 
+14.4% 
+400 
+8.8% 
+$100,000 to $149,999 
+578 
+13.3% 
+628 
+15.2% 
+717 
+15.8% 
+$150,000 to $199,999 
+104 
+2.4% 
+194 
+4.7% 
+708 
+15.6% 
+$200,000 or more 
+34 
+0.8% 
+198 
+4.8% 
+495 
+10.9% 
+Total 
+4,355 
+100.0% 
+4,128 
+100.0% 
+4,539 
+100.0% 
+Median Income 
+$49,958 
+$57,276 
+$79,476  
+Bergen County 
+$65,241 
+$81,708 
+$116,709  
+Source: US Census Bureau; 2010 and 2023 American Community Survey 5-Year Estimates. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 23 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 24 =====
+ 
+~ 18 ~ 
+2.3: Inventory of Housing Stock 
+The following section provides an inventory of the Borough’s housing stock. It inventories 
+several housing characteristics such as age, condition, purchase/rental value, and 
+occupancy. 
+Number of Dwelling Units 
+Since 2000, the Borough’s housing stock has experienced an estimated increase of 
+approximately 5.0%. As of 2023, there are an estimated 4,672 housing units in the Borough.  
+Figure 3: Housing Units, 2000-2023 
+ 
+Source: US Census Bureau, 2023 ACS Five-Year Estimate 
+ 
+ 
+4,449
+4,379
+4,672
+4,200
+4,250
+4,300
+4,350
+4,400
+4,450
+4,500
+4,550
+4,600
+4,650
+4,700
+2000
+2010
+2023
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 24 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 25 =====
+ 
+~ 19 ~ 
+Units in Structure for Occupied Units 
+Information regarding the number of dwelling units in different types of housing structures 
+provides insights into the types of housing which exist throughout the Borough. Thus, the 
+following table summarizes the unit-composition of the Borough’s structures since 2000. 
+The Borough’s housing stock has historically been comprised of detached and attached 
+single-family as well as two-family dwellings. This remained relatively consistent between 
+2000 and 2023, with the percentage of single-family dwellings increasing from 32.7% to 
+35.9%, and the two-unit dwellings decreasing from 20.7% to 16.7%. Those buildings with 
+ten to nineteen units represent the third largest housing category at 13.4%. Since 2000, the 
+housing category with the greatest increase has been those with five to nine units, which 
+experienced an increase of approximately 116.7%. 
+ Table 9: Units in Structure, 2000-2023 
+2000 
+2010 
+2023 
+Units in Structure 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Single Family, Detached 
+1,456 
+32.7% 
+1,603 
+36.6% 
+1,676 
+35.9% 
+Single Family, Attached 
+152 
+3.4% 
+176 
+4.0% 
+209 
+4.5% 
+2 Units 
+919 
+20.7% 
+652 
+14.9% 
+781 
+16.7% 
+3 to 4 Units 
+           332 
+7.5% 
+           243 
+5.5% 
+415 
+8.9% 
+5 to 9 Units 
+126 
+2.8% 
+229 
+5.2% 
+273 
+5.8% 
+10 to 19 Units 
+636 
+14.3% 
+592 
+13.5% 
+624 
+13.4% 
+20 to 49 
+463 
+10.4% 
+386 
+8.8% 
+363 
+7.8% 
+50 or more 
+365 
+8.2% 
+457 
+10.4% 
+331 
+7.1% 
+Other 
+0 
+0.0% 
+41 
+0.9% 
+0 
+0.0% 
+Total 
+4,449 
+100.0% 
+4,379 
+100.0% 
+4,672 
+100.0% 
+Source: US Census Bureau; 2010 and 2023 American Community Survey Five-Year Estimates. 
+Purchase and Rental Value of Housing Units 
+The following two tables identify purchase values and rental values for the specified owner-
+occupied and renter-occupied units in Little Ferry. 
+As shown in Table 10, the purchase values of the Borough’s owner-occupied housing stock 
+have typically exceeded those of the State of New Jersey but have been less than those of 
+Bergen County. However, in 2023, the median value in the Borough was also less than that 
+of the State of New Jersey. Over the past twenty-three years, the median value of the 
+Borough’s owner-occupied housing stock is estimated to have increased approximately 
+101.5%, from $192,800 in 2000 to $388,500 in 2023. This represents a lower percentage 
+increase than that of the County (145.8%) and the State (169.9%). 
+Until recently, the median contract rental value in the Borough has been higher than the 
+State of New Jersey but lower than Bergen County. However, the 2023 ACS estimates show 
+that the median contract rent for the Borough has now surpassed that of the County. Over 
+the past twenty-three years, the Borough’s median gross rent increased approximately 
+116.7%. This represents a higher percentage increase than that experienced by the County 
+(99.9%) and the State (99.8%). 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 25 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 26 =====
+ 
+~ 20 ~ 
+Table 10: Value of Owner-Occupied Units, 2000-2023 
+ 
+2000 
+2010 
+2023 
+Value Range 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Less than $50,000 
+0 
+0.0% 
+9 
+0.5% 
+27 
+1.4% 
+$50,000 to $99,999 
+9 
+0.7% 
+0 
+0.0% 
+70 
+3.6% 
+$100,000 to $149,999 
+130 
+9.4% 
+0 
+0.0% 
+8 
+0.4% 
+$150,000 to $199,999 
+631 
+45.7% 
+35 
+1.8% 
+49 
+2.5% 
+$200,000 to $299,999 
+532 
+38.5% 
+488 
+24.9% 
+          258 
+13.2% 
+$300,000 to $499,999 
+73 
+5.3% 
+1,066 
+54.3% 
+1080 
+55.2% 
+$500,000 to $999,999 
+0 
+0.0% 
+343 
+17.5% 
+458 
+23.4% 
+$1,000,000 or More 
+0 
+0.0% 
+21 
+1.1% 
+8 
+0.4% 
+Total 
+1,381 
+100.0% 
+1,962 
+100.0% 
+1,957 
+100.0% 
+Township Median Value 
+$192,800 
+$371,700 
+  
+$388,500  
+Bergen County Median Value 
+$250,300 
+$482,300 
+  
+$615,300  
+New Jersey Median Value 
+$170,800 
+ 
+$357,000 
+  
+$461,000  
+Source: US Census Bureau; 2010 and 2023 American Community Survey Five-Year Estimates. 
+Table 11: Specified Renter Occupied Housing Units by Rent, 2000-2023 
+ 
+2000 
+2010 
+2023 
+Value Range 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Less than $200 
+0 
+0.0% 
+51 
+0.0% 
+0 
+0.0% 
+$200 to $299 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+$300 to $499 
+84 
+3.6% 
+14 
+0.0% 
+14 
+0.6% 
+$500 to $749 
+609 
+26.1% 
+10 
+0.0% 
+54 
+2.1% 
+$750 to $999 
+984 
+42.1% 
+416 
+12.9% 
+55 
+2.2% 
+$1,000 to $1,499 
+587 
+25.1% 
+1,280 
+32.9% 
+608 
+23.9% 
+$1,500 to $1,999 
+17 
+0.7% 
+395 
+33.4% 
+903 
+35.6% 
+$2,000 or more 
+0 
+0.0% 
+0 
+0.0% 
+906 
+35.7% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+No Cash Rent 
+54 
+2.3% 
+0 
+0.0% 
+42 
+1.6% 
+Total 
+2,335 
+100.0% 
+2,166 
+100.0% 
+2,540 
+100.0% 
+Borough Median Value 
+$822  
+$1,172  
+$1,798  
+Bergen County Median Value 
+$872  
+$1,236  
+$1,743  
+New Jersey Median Value 
+$751  
+$1,092  
+$1,498  
+Source: US Census Bureau; 2010 and 2023 American Community Survey Five-Year Estimates. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 26 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 27 =====
+ 
+~ 21 ~ 
+Year Structure Built 
+The following figure identifies the years in which the Borough’s structures were built. As 
+shown, the Borough has an older housing stock with nearly half (46.1%) of all dwellings 
+constructed prior to 1960. Conversely, only 2.1% of the Borough’s housing stock is 
+estimated to have been constructed after 2000. 
+Figure 4: Year Structure Built 
+ 
+Source: 2023 American Community Survey Five-Year Estimates. 
+ 
+ 
+ 
+ 
+ 
+6
+0
+93
+134
+732
+636
+916
+902
+391
+862
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1,000
+Built 2020 or later
+Built 2010 to 2019
+Built 2000 to 2009
+Built 1990 to 1999
+Built 1980 to 1989
+Built 1970 to 1979
+Built 1960 to 1969
+Built 1950 to 1959
+Built 1940 to 1949
+Built 1939 or earlier
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 27 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 28 =====
+ 
+~ 22 ~ 
+Deficient Housing Units 
+Neither the Census nor the ACS classify housing units as deficient. However, the Fair 
+Housing Act defines a “deficient housing unit” as housing which: is over fifty years old and 
+overcrowded; lacks complete plumbing, or; lacks complete kitchen facilities.  
+Accordingly, the following tables are intended to provide insights into the extent to which 
+the Borough has deficient housing units. Table 12 examines the extent to which there is 
+overcrowding in the Borough’s housing stock. Overcrowding is typically associated with 
+housing units with more than one occupant per room. As shown, the estimated number of 
+owner-occupied housing units considered to be overcrowded is negligible. However, the 
+number of renter-occupied housing units considered to be overcrowded is 4.7%.  
+Table 12: Occupants Per Room (2023) 
+Occupants per Room 
+Owner-Occupied 
+Renter-Occupied 
+0.50 or Fewer 
+1,423 
+1,387 
+0.51 to 1.00 
+526 
+1,073 
+1.01 to 1.50 
+8 
+35 
+1.51 to 2.00 
+0 
+87 
+2.01 or More 
+0 
+0 
+Total 
+4,539 
+2,582 
+Source: 2023 American Community Survey Five-Year Estimates. 
+Table 13 identifies housing units with complete plumbing and kitchen facilities. As shown, 
+all occupied units in the Borough were identified as having complete plumbing facilities, 
+while all but 17 occupied units have complete kitchen facilities. 
+Table 13: Plumbing and Kitchen Facilities (2023) 
+ 
+Units with Complete Facilities 
+Units without Complete Facilities 
+Plumbing 
+4,539 
+0 
+Kitchen 
+4,522 
+17 
+Source: 2023 American Community Survey Five-Year Estimates. 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 28 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 29 =====
+ 
+~ 23 ~ 
+2.4: Housing and Employment Projection 
+The following section identifies the extent to which housing and economic development 
+have occurred in the community, which can assist in the determination of future residential 
+and employment projections. 
+Recent Residential Development Activity 
+One way of examining the stability of a community’s housing stock is by comparing the 
+number of residential building permits issued for new construction as well as demolition 
+permits issued every year. Since 2013, the Borough has annually issued an average of 28.4 
+and 1.0 building permits and demolition permits, respectively. This results in an average 
+positive net of 27.4 permits annually. This amount of growth is reflective of an increase in 
+the Borough’s development pattern with a consistent number of moderate construction of 
+one and two-family homes, along with an occasional larger multifamily development.  
+Table 14: Residential Building Permits and Demolition Permits 
+ 
+Building Permits 
+Demos 
+Net 
+Year 
+1 & 2 Family 
+Multifamily 
+Mixed Use 
+Total 
+2013 
+1 
+0 
+0 
+1 
+2 
+-1 
+2014 
+1 
+0 
+0 
+7 
+1 
+6 
+2015 
+0 
+0 
+0 
+0 
+3 
+-3 
+2016 
+5 
+0 
+0 
+5 
+0 
+5 
+2017 
+18 
+0 
+0 
+18 
+1 
+17 
+2018 
+1 
+0 
+0 
+1 
+1 
+0 
+2019 
+6 
+0 
+0 
+6 
+1 
+5 
+2020 
+14 
+0 
+0 
+14 
+2 
+12 
+2021 
+4 
+0 
+0 
+4 
+0 
+4 
+2022 
+1 
+249 
+0 
+250 
+0 
+250 
+2023 
+6 
+0 
+0 
+6 
+0 
+6 
+Total 
+57 
+249 
+6 
+312 
+17 
+3 
+Source: Department of Community Affairs 
+Covered Employment 
+Figure 5 and Figure 6 provide data on the Borough’s covered employment trends between 
+2004 and 2023, as reported by the New Jersey Department of Labor and Workforce 
+Development. “Covered employment” refers to any employment covered under the 
+Unemployment and Temporary Disability Benefits Law. Generally, nearly all employment in 
+the state is considered to be “covered employment.”  
+Figure 5 depicts the number of reported “employment units” within the Borough. An 
+“employment unit” is defined as an individual or organization which employs one or more 
+workers. As shown, the Borough experienced a fairly consistent loss of employment units 
+between 2003 and 2018. Since that time, however, the number of employment units has 
+increased. As of 2023, there were a reported 347 employment units in the Borough. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 29 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 30 =====
+ 
+~ 24 ~ 
+Similarly, employment levels have typically increased since 2004, although there have been 
+some dramatic fluctuations, namely dips in 2009-2011 and 2020. The 2020 dip may be 
+attributed to COVID-19 pandemic. Since that time, however, employment in the Borough 
+has increased. As of 2023, the Borough’s reported covered employment was 3,540 
+individuals. 
+Figure 5: Covered Employment Units, 2004-2023 
+ 
+Source: Department of Labor and Workforce Development  
+Figure 6: Covered Employment, 2004-2023 
+ 
+Source: Department of Labor and Workforce Development  
+339
+343
+334
+312
+308
+300
+310
+306
+305
+309
+311
+295
+287
+296
+292
+304
+318
+326
+331
+347
+0
+50
+100
+150
+200
+250
+300
+350
+400
+20042005200620072008200920102011201220132014201520162017201820192020202120222023
+3137
+3309
+3273
+3475
+3323
+3178
+3083
+3075
+3269
+3332
+3396
+3351
+3494
+3501
+3510
+3502
+3132
+3331
+3535
+3540
+2800
+2900
+3000
+3100
+3200
+3300
+3400
+3500
+3600
+20042005200620072008200920102011201220132014201520162017201820192020202120222023
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 30 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 31 =====
+ 
+~ 25 ~ 
+Section 3: Fair Share Obligation 
+The following section provides an overview of the Borough’s fair share obligation. It 
+includes a brief overview of the methodology utilized to calculate affordable housing 
+obligations throughout the state. 
+3.1: Summary of Fair Share Obligation 
+On March 20, 2024, the State of New Jersey adopted a package of affordable housing bills 
+which overhauled the Fair Housing Act (FHA). This legislation eliminated the Council on 
+Affordable Housing (COAH) and split its duties and functions between the Department of 
+Community Affairs (DCA) and the Administrative Office of the Courts (AOC). 
+The DCA was designated as the entity responsible for calculating the state’s regional needs. 
+NJSA 52:27D-304.2 establishes the methodology to be utilized by the DCA to determine 
+the state’s regional prospective needs of low- and moderate-income housing for the ten-
+year period spanning from July 1, 2025 to June 30, 2035. In summary, the projected 
+household change for this period is estimated by establishing the household change 
+experienced in each region between the most recent federal decennial census and the 
+second-most recent decennial census. This household change, if positive, is then divided 
+by 2.5 to estimate the number of low- and moderate-income homes needed to address 
+low- and moderate-income household change in the region for the next ten years. This 
+methodology resulted in a statewide prospective need of 84,698 low- and moderate-
+income units. 
+In addition to calculating each region’s need, the DCA was also designated as the entity 
+responsible for calculating each municipality’s present and prospective fair share 
+obligations. However, the FHA makes clear that these calculations are advisory and that 
+each municipality must set its own obligation number utilizing the same methodology. 
+On January 23, 2025, Little Ferry adopted Resolution #69 (see Appendix A) which accepted 
+the DCA’s present and prospective fair share obligation calculations for the Borough. These 
+obligations are summarized below. That same resolution also noted that the Borough 
+reserves the right to conduct a vacant land adjustment (VLA) to determine its realistic 
+development potential (RDP). This is discussed in greater detail in the next subsection. 
+Table 15: Summary of Fourth Round Obligation 
+Affordable Obligation 
+Units 
+Present (Rehabilitation Need) Obligation 
+114 
+Fourth Round Obligation (2025-2035) 
+99 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 31 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 32 =====
+ 
+~ 26 ~ 
+3.2: Realistic Development Potential (RDP) 
+The Borough of Little Ferry is a fully developed community and is therefore entitled to 
+adjust its obligation in accordance with a procedure set forth in the FHA. Specifically, NJSA 
+52:27D-310.1 permits municipalities perform a realistic development potential (RDP) 
+analysis by seeking a vacant land adjustment (VLA).  
+A RDP analysis is intended to determine which sites in a municipality are most likely to 
+develop for low- and moderate-income housing. Municipalities may present 
+documentation that eliminates a site or part of a site from its inventory of vacant land. Such 
+eliminating factors include: lands dedicated for public uses other than housing since 1997; 
+park lands or open space; vacant contiguous parcels in private ownership of a size which 
+would accommodate fewer than five housing units; historic and architecturally important 
+sites listed on the State Register of Historic Places or the National Register of Historic Places; 
+preserved architectural lands; sites designated for active recreation; and environmentally 
+sensitive lands. 
+Prior Round RDP 
+Based upon a vacant land adjustment (VLA) approved by COAH as part of its Second Round 
+Substantive Certification, the Borough’s realistic development potential (RDP) was 
+established as twenty-eight (28) affordable units.  
+Third Round RDP 
+A VLA was previously conducted for the Borough’s 2022 HE&FSP. This analysis identified 
+forty-seven vacant parcels. However, none of them were determined to qualify for 
+development. Therefore, the Borough’s realistic development potential (RDP) was 
+established as zero (0) affordable units but adjusted to thirty (30) based on current 
+development. 
+Fourth Round RDP 
+Although the Borough used a VLA in the Third Round, the Fourth Round obligation is not 
+being adjusted and shall be met in its entirety.  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 32 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 33 =====
+ 
+~ 27 ~ 
+Section 4: Fair Share Plan 
+The following Fair Share Plan outlines the components and mechanisms the Borough will 
+utilize to address its affordable housing obligations. These obligations are summarized as 
+follows: 
+Table 16: Affordable Housing Obligation Summary 
+Category 
+Obligation 
+Prior Round Obligation (1987-1999) 
+28 
+Third Round Obligation (1999-2025) 
+182 
+Fourth Round Obligation (2025-2035) 
+99 
+Present Need (Rehabilitation) Obligation 
+114 
+4.1: Prior Round Obligation 
+The Borough was assigned a Prior Round Obligation of twenty-eight (28) affordable units, 
+which was fully satisfied through the components identified in Table 18 below.  
+Table 17: 1987-2025 Affordable Housing Components 
+Component 
+Affordable Units 
+Status 
+Caring House Group Home 
+4 
+Completed 
+Advance Housing Group Home 
+3 
+Completed 
+Royale Realty 
+2 
+Completed 
+Meridia/110 Bergen Turnpike 
+5 
+Completed 
+Regan Development Corp 
+7 
+Completed 
+Compliance Bonus 
+7 
+Completed 
+Total 
+28 
+Completed 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 33 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 34 =====
+ 
+~ 28 ~ 
+4.2: Third Round Obligation 
+Pursuant to a Settlement Agreement signed with FSHC, the Borough had a Third Round 
+RDP of zero (0) affordable units, adjusted to thirty (30), and an Unmet Need of one hundred 
+and fifty-two (152) affordable units.  
+ 
+Table 18: Mechanisms for Third Round for Prospective Need 
+Component 
+Units 
+Type 
+Bonuses 
+Total Credits 
+Status 
+Regan Development Corp. 
+Block 107, Lots 2.01 and 17; 
+Block 106.01, Lot 13.06 
+(23 of 85 units) 
+23 
+100% Affordable 
+Special-Needs 
+Rental 
+5 
+28 
+Completed 
+Meridia/110 Bergen Turnpike 
+Block 25, Lot 2 (2 of 15 units) 
+2 
+Inclusionary Rental 
+ 
+2 
+Completed 
+Total RDP 
+25 
+ 
+5 
+30 
+ 
+Surplus RDP 
+13 
+ 
+ 
+ 
+ 
+Regan Development Corp. 
+Block 107, Lots 2.01 and 17; 
+Block 106.01, Lot 13.06 
+(20 of 85 units; 31 to future) 
+20 
+100% Affordable Age 
+Restricted 
+Rental 
+ 
+20 
+Completed 
+Gilbert Manor/Nuckel 
+Block 14, Lot 10 
+11 
+Inclusionary Age-
+Restricted Rental 
+ 
+11 
+Owner Died 
+Litigation 
+ 
+Mandatory Set-Aside 
+ 
+ 
+ 
+ 
+Adopted 
+RF-A Riverfront Overlay Zone 
+ 
+Inclusionary Zoning 
+ 
+ 
+Adopted 
+Overlay Zone 1 
+ 
+Inclusionary Zoning 
+ 
+ 
+Redevelopment Area 
+Overlay Zone 2 
+ 
+Inclusionary Zoning 
+ 
+ 
+Not Yet Adopted 
+ 
+ 
+ 
+ 
+ 
+ 
+Total 
+44 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 34 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 35 =====
+ 
+~ 29 ~ 
+4.3: Fourth Round Obligation 
+Little Ferry adopted Resolution #64 which establishes its affordable housing obligations for 
+the Fourth Round. A copy of this resolution can be found in Appendix A. As noted in that 
+resolution, the Borough accepted the DCA’s Fourth Round Obligation calculation of ninety-
+nine (99) affordable units. That same resolution also noted that the Borough reserved the 
+right to conduct a VLA to determine its RDP. 
+However, unlike in the Third Round, the Fourth Round obligation will not be adjusted and 
+will be met in its entirety through the components listed in Table 20 below.  
+As shown, these components comprise seventy-five (75) affordable units plus 25 bonus 
+credits for redevelopment, resulting in a total of one hundred (100). 
+The locations of these components are discussed in greater detail on the following pages. 
+Table 19: Mechanisms for Third Round Unmet Need 
+Plan Component 
+Type 
+Units 
+Bonus 
+Status 
+75&87 Bergen Turnpike 
+Family Rental 
+13 
+ 
+Proposed 
+21 Main Street 
+Family Rental 
+27 
+ 
+Proposed 
+Regan Development Corp 
+Age-Restricted Rental 
+22 
+ 
+Complete 
+220 & 230 Route 46 
+Family Rental 
+13 
+ 
+Approved 
+Bonus Credits 
+Redevelopment 
+ 
+25 
+ 
+Updated Mandatory Set-Aside  
+20% of Five or More 
+Units 
+ 
+ 
+ 
+Total: 100 
+ 
+75 
+25 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 35 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 36 =====
+ 
+~ 30 ~ 
+75 & 87 Bergen Turnpike 
+ 
+This development was part of the settlement agreement with Fair Share Housing Center. 
+The developer 75 Bergen Turnpike, LLC is planning to redevelop the property with a 65-
+unit multifamily apartment building, of which 20% or 13 units will be designated as 
+affordable. The Borough is in the process of adopting an ordinance for the properties at 75 
+& 87 Bergen Turnpike.  
+The site presents a realistic opportunity for the production of affordable housing as it is:  
+1. Approvable. The Borough Council has introduced an ordinance pertaining to the 
+properties that make up this site.    
+2. Available. The property is owned by a developer seeking to develop the site.  
+3. Developable. The site is located in a water and sewer service area.  
+4. Suitable. The site is located in close proximity to nearby commercial areas, other 
+multifamily developments and a major roadway. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 36 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 37 =====
+ 
+~ 31 ~ 
+21 Main Street 
+ 
+This development was part of the settlement agreement with Fair Share Housing Center. 
+The Borough is in the process of adopting an ordinance for the property at 21 Main Street. 
+The development will consist of a 135-unit multifamily apartment building, of which 20% 
+or 27 units will be designated as affordable.  
+The site presents a realistic opportunity for the production of affordable housing as it is:  
+5. Approvable. The Borough Council has introduced an ordinance pertaining to this 
+site.   
+6. Available. The property owner is working with a developer to construct the 
+building.   
+7. Developable. The site is located in a water and sewer service area.  
+8. Suitable. The site is located in close proximity to nearby commercial areas, other 
+multifamily developments and a major roadway. 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 37 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 38 =====
+ 
+~ 32 ~ 
+Regan Development Corp – Osprey Point Apartments – 250 Mehrhof Road 
+ 
+Map 3: 250 Mehrhof Road 
+Regan Development Corp constructed the Osprey Point Apartments at 250 Mehrhof Road. 
+This project comprises of 85 units, which are 100% affordable including 62 age-restricted 
+units and 23 special-needs units. Fifty-four of the units were credited towards the Third 
+Round RDP and Unmet Need, leaving 31 credits to apply towards the Fourth Round 
+Prospective Need.  
+This development has been completed and is presently occupied. 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 38 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 39 =====
+ 
+~ 33 ~ 
+Big A 46 Westbound LLC – 220 & 230 US Route 46 
+ 
+Map 4: 220 & 230 US Route 46 
+ 
+Big A 46 Westbound LLC filed an application and was approved by the Planning Board via 
+Resolution dated June 12, 2024 for an 86-unit multifamily apartment building, of which 
+15% or 13 units will be designated as affordable.  
+The site presents a realistic opportunity for the production of affordable housing as it is:  
+9. Approvable. The Borough Planning Board/Zoning Board has already approved an 
+application for the site.  
+10. Available. There are no known title issues which would prohibit the development 
+of this site.  
+11. Developable. The site is located in a water and sewer service area.  
+12. Suitable. The site is located in close proximity to nearby commercial areas and a 
+major roadway. 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 39 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 40 =====
+ 
+~ 34 ~ 
+Mandatory Set-Aside Ordinance 
+The Borough will adopt an updated ordinance requiring a mandatory affordable housing 
+set aside for all new single-family attached and multifamily residential development of 5 
+units or more. Both rental and for-sale developments will be required to implement a 
+20% set aside.  
+4.4: Present Need Obligation 
+Little Ferry was assigned a Present Need (Rehabilitation) Obligation of one hundred 
+fourteen (114) affordable units. The Borough will be conducting a structural conditions 
+survey to determine an on-the-ground estimate of the units in need of rehabilitation. The 
+Borough established a housing rehabilitation program under the Third-Round cycle and 
+will continue its program into the Fourth Round and partner with the Bergen County 
+Housing Rehabilitation Program.  
+4.5: Other Provisions 
+The following additional requirements are noted: 
+1. Fourth Round Bonuses. Fourth Round bonuses will be applied in accordance with 
+NJAC 52:27d-311.k. 
+2. Very-Low Income and Low-Income Units. At least fifty percent (50%) of the units 
+addressing the Fourth Round Obligation shall be affordable to very-low income 
+and low-income households with the remainder affordable to moderate-income 
+households. A minimum of thirteen percent (13%) of the affordable units will be 
+made available to very low income households, defined as households earning 
+thirty percent (30%) or less of the regional median income by household size. 
+3. Rental Component. At least twenty-five percent (25%) of the Fourth Round 
+Obligation shall be met through rental units, including at least half in rental units 
+available to families. 
+4. Families. At least half of the units addressing the Third Round RDP and unmet 
+need in total must be available to families. 
+5. Age-Restricted Cap. The Borough shall comply with the age-restricted cap of 
+thirty percent (30%) and will not request a waiver of this requirement. This shall 
+be understood to mean that in no circumstances may the municipality claim 
+credit towards its fair share obligation for age-restricted units that exceed thirty 
+percent (30%) of all units developed or planned to meet its cumulative Prior 
+Round, Third Round, and Fourth fair share obligations. 
+6. Development Fees. The Borough will continue to impose development fees as 
+permitted by COAH’s prior round rules. The funds generated by the collection of 
+development fees will be applied directly towards any activity approved by State 
+regulations for addressing the municipal fair share. It is recognized that the 
+Borough must devote at least thirty percent (30%) of the revenues collected from 
+development fees to render units more affordable, as per N.J.A.C. 5:93-8.16.M. 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 40 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 41 =====
+ 
+~ 35 ~ 
+ 
+4.6: Consistency with State Planning Initiatives 
+As noted in Section 1, a HE&FSP must also include: 
+ An analysis of the extent to which municipal ordinances and other local factors 
+advance or detract from the goal of preserving multigenerational family continuity 
+as expressed in the recommendations of the Multigenerational Family Housing 
+Continuity Commission, and; 
+ An analysis of consistency with the State Development and Redevelopment Plan, 
+including water, wastewater, stormwater, and multi-modal transportation based on 
+guidance and technical assistance from the State Planning Commission. 
+Accordingly, the following subsection analyzes the consistency of this HE&FSP to the 
+above referenced state planning initiatives. 
+Multigenerational Family Housing Continuity Commission 
+The Multigenerational Family Housing Continuity Commission was established by the State 
+of New Jersey in 2021. As noted in NJSA 52:27D-329.20, one of the primary duties of the 
+Commission is to “prepare and adopt recommendations on how State government, local 
+government, community organizations, private entities, and community members may 
+most effectively advance the goal of enabling senior citizens to reside at the homes of their 
+extended families, thereby preserving and enhancing multigenerational family continuity, 
+through the modification of State and local laws and policies in the areas of housing, land 
+use planning, parking and streetscape planning, and other relevant areas.” 
+As of the date of this HE&FSP, the Multigenerational Family Housing Continuity 
+Commission has not yet adopted any recommendations. 
+State Development and Redevelopment Plan 
+As established by NJSA 52:18A-200(f), the purpose of the State Development and 
+Redevelopment Plan (SDRP) is to “coordinate planning activities and establish Statewide 
+planning objectives in the following areas: land use, housing, economic development, 
+transportation, natural resource conservation, agriculture and farmland retention, 
+recreation, urban and suburban redevelopment, historic preservation, public facilities and 
+services, and intergovernmental coordination.” 
+As such, the SDRP establishes a number of goals and strategies related to a number of 
+different topics, including economic redevelopment. One such goal is to revitalize existing 
+urban centers by directing growth and development to those areas. Specifically, the SDRP 
+seeks to revitalize the State’s cities and towns by protecting, preserving, and developing 
+the valuable human and economic assets in cities, town, and other urban areas. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 41 of 42   Trans ID: LCV20261453880 
+
+===== PAGE 42 =====
+ 
+~ 36 ~ 
+As indicated by the SDRP’s Policy Map, the entirety of the Borough is located in the PA-1 
+Metropolitan Planning Area, wherein development and redevelopment is intended to be 
+directed. The intent of this Planning Area is to: 
+ Provide for much of the state’s future redevelopment; 
+ Revitalize cities and towns; 
+ Promote growth in compact forms; 
+ Stabilize older suburbs; 
+ Redesign areas of sprawl; and; 
+ Protect the character of existing stable communities. 
+Accordingly, this HE&FSP is consistent with the intents of the PA-. Specifically, it is designed 
+to encourage redevelopment and growth in a compact form, while also protecting the 
+character of the existing community. 
+ 
+4.7: Spending Plan 
+The Borough previously adopted a Development Fee Ordinance as Article 1500 of its 
+Land Use Regulations. The Borough will amend that ordinance to reflect current 
+regulations and Court oversight. The updated ordinance may be found in Appendix C-4.  
+The Borough also previously established an affordable housing trust fund into which it 
+has deposited development fees. The Spending Plan has been updated for the Fourth 
+Round and can be found in Appendix C-7.  
+                                                                                                                                                                                              
+BER-L-000792-25   06/01/2026 12:08:41 PM   Pg 42 of 42   Trans ID: LCV20261453880 

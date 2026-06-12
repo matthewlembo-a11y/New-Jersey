@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T12:15:56+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T12:20:19+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -10,45 +10,39 @@ _Obligation: 200 · Compliance: settled-with-FSHC; Consent Order with FSHC for 9
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 320 Franklin Turnpike Unmet Need Overlay | 320 Franklin Turnpike, Allendale, NJ |  |  |  | overlay | 12.0 |  |  |  |  |  | low | [doc](https://www.allendalenj.gov/media/oo3bpjem/housing-element-and-fair-share-plan-fraft-final-for-approval-6-5-25.pdf) |
-| 220 West Crescent Avenue Senior Rental | 220 West Crescent Avenue, Allendale, NJ |  |  |  | 100pct-affordable |  | 4 | 4 | 100.0% | rental |  | low | [doc](https://www.allendalenj.gov/media/oo3bpjem/housing-element-and-fair-share-plan-fraft-final-for-approval-6-5-25.pdf) |
 | Franklin Turnpike (Church of the Guardian Angel) Inclusionary Overlay Zone | 168 West Crescent Avenue area / Franklin Turnpike, Allendale, NJ | 1803 | 1 | 8.0 | inclusionary overlay | 12.0 |  | 19 | 20.0% |  | adopted-ordinance (existing from Round 3) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/allendale-boro/61725AllendaleHEFSPFinaladopted61625reducedPart1.pdf?VersionId=OS80HMqcQEJ9KXkqylWVs6qi4JkWPnvl) |
 | 98 Elm Street — Special Needs Unit Conversion | 98 Elm Street, Allendale, NJ | 1809 | 8 |  | 100% affordable special needs (conversion/rehabilitation) |  | 2 | 2 | 100.0% | rental | Consent Order with FSHC; rehabilitation underway | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/allendale-boro/61725AllendaleHEFSPFinaladopted61625reducedPart1.pdf?VersionId=OS80HMqcQEJ9KXkqylWVs6qi4JkWPnvl) |
 | Allendale Brook Estates — Extension of Deed Restriction Controls | Carriage Court / Trotters Lane, Allendale, NJ | 2101 | 9 |  | extension of affordability controls |  |  | 2 |  | sale | in-progress; Borough to exercise purchase rights under expiring deed restrictions | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/allendale-boro/61725AllendaleHEFSPFinaladopted61625reducedPart1.pdf?VersionId=OS80HMqcQEJ9KXkqylWVs6qi4JkWPnvl) |
-| Ramsey Golf Course (Ramsey Country Club) Inclusionary Overlay |  | 301 and 406 | 37 (Block 301) and 21.01 (Block 406) |  | overlay | 10.0 |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/34130382) |
 | Ramsey Golf & Country Club Inclusionary Overlay Zone |  | 301 and 406 | 37 (Block 301) and 21.01 (Block 406) | 14.3 | inclusionary overlay | 10.0 |  | 29 | 20.0% |  | adopted-ordinance (existing from Round 3) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/allendale-boro/61725AllendaleHEFSPFinaladopted61625reducedPart1.pdf?VersionId=OS80HMqcQEJ9KXkqylWVs6qi4JkWPnvl) |
-| Allendale Corporate Center Inclusionary Overlay |  | 702 | 14 |  | overlay | 26.0 |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/34130450) |
 | Allendale Corporate Center Inclusionary Overlay Zone | 90 Boroline Road, Allendale, NJ (northeast corner) | 702 | 14 and 15 | 15.1 | inclusionary overlay | 12.0 |  | 36 | 20.0% |  | Lot 14 existing adopted-ordinance; Lot 15 expansion proposed in Fourth Round HEFSP | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/allendale-boro/61725AllendaleHEFSPFinaladopted61625reducedPart1.pdf?VersionId=OS80HMqcQEJ9KXkqylWVs6qi4JkWPnvl) |
 
 ## Alpine (Borough)
 
-_Obligation: 117 · Compliance: settled · HEFSP: adopted 2025-06-24_
+_Obligation: 117 · Compliance: settled; mediation agreement with FSHC December 17, 2025; amended HEFSP adopted March 10, 2026 · HEFSP: adopted (original June 24, 2025; Amended HEFSP adopted March 10, 2026) 2025-06-24_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Sylco Site - Closter Dock Road (Townhouses) | Closter Dock Road, Alpine, NJ |  |  |  | inclusionary-rezoning |  | 40 | 8 | 20.0% | for-sale |  | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/alpine-boro/62625Alpine4thRoundHEFSP62425Adoptedwithappendices.pdf?VersionId=GtHT6t7iqBn2veBcdyliouEPdf4H9zff) |
-| Sylco Site - Group Home / Supportive Housing Apartments | Closter Dock Road, Alpine, NJ |  |  |  | group-home |  |  |  | 100.0% | rental |  | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/alpine-boro/62625Alpine4thRoundHEFSP62425Adoptedwithappendices.pdf?VersionId=GtHT6t7iqBn2veBcdyliouEPdf4H9zff) |
-| Accessory Apartment Program |  |  |  |  | accessory-apt |  | 4 | 4 | 100.0% | rental |  | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/alpine-boro/62625Alpine4thRoundHEFSP62425Adoptedwithappendices.pdf?VersionId=GtHT6t7iqBn2veBcdyliouEPdf4H9zff) |
-| Radio/Telecommunications Tower Site - Block 80 Overlay |  | 80 | 10 and 11 |  | overlay |  | 35 | 7 | 20.0% |  | adopted-ordinance | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/alpine-boro/62625Alpine4thRoundHEFSP62425Adoptedwithappendices.pdf?VersionId=GtHT6t7iqBn2veBcdyliouEPdf4H9zff) |
+| Existing 100% Affordable Site — Expansion (Route 9W) | Route 9W southerly portion, Alpine, NJ |  |  |  | 100% affordable (municipally-sponsored expansion) |  | 4 | 4 | 100.0% | rental | proposed; agreement with Bergen County United Way; contingent on septic capacity | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/alpine-boro/62625Alpine4thRoundHEFSP62425Adoptedwithappendices.pdf?VersionId=GtHT6t7iqBn2veBcdyliouEPdf4H9zff) |
 
 ## Bergenfield (Borough)
 
-_Compliance: QUAM-exempt from prospective need; rehabilitation obligation status unclear · HEFSP: no fourth-round HEFSP found on library.njcourts.gov_
+_Obligation: 36 · Compliance: settled; court-approved settlement with FSHC from prior rounds; QUAM=1 (prospective need 0) · HEFSP: adopted (Fourth Round plan with rehabilitation-only obligation)_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| B-1 AHO Affordable Housing Overlay Zone |  |  |  |  | overlay |  |  |  | 15.0% | rental | adopted-ordinance | medium | [doc](https://ecode360.com/36042774) |
-| B-2 AHO Affordable Housing Overlay Zone |  |  |  |  | overlay |  |  |  | 15.0% | rental | adopted-ordinance | medium | [doc](https://ecode360.com/36042774) |
-| AHO Affordable Housing Unmet Need Overlay Zone |  |  |  |  | overlay |  |  |  |  |  | adopted-ordinance | medium | [doc](https://ecode360.com/36042793) |
-| 51-59 Bedford Avenue Affordable Apartment | 51-59 Bedford Avenue, Bergenfield, NJ |  |  |  | 100pct-affordable |  | 1 | 1 | 100.0% | rental | approved | low | [doc](https://bergenfieldnj.gov/affordable-rentals-in-bergenfield/) |
+| Washington Avenue B-1/B-2 Overlay Zone | Washington Avenue corridor, Bergenfield, NJ |  |  |  | inclusionary overlay (Third Round Unmet Need continuation) |  |  |  |  |  | adopted-ordinance (Third Round; continued in Fourth Round) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/bergenfield-boro/PlBdReso2025HsgElementFSP.pdf?VersionId=JRMU8Cx7SmSZxYcAbuaGImf7Xsu5atz9) |
+| Foster Village Shopping Center Overlay Zone | Foster Village, Bergenfield, NJ | 351 | 8 |  | inclusionary overlay (Third Round Unmet Need continuation) |  |  |  |  |  | adopted-ordinance (Third Round; continued in Fourth Round) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/bergenfield-boro/PlBdReso2025HsgElementFSP.pdf?VersionId=JRMU8Cx7SmSZxYcAbuaGImf7Xsu5atz9) |
 
 ## Bogota (Borough)
 
-_Obligation: 111 · Compliance: settled · HEFSP: adopted 2025-06-17_
+_Obligation: 111 · Compliance: settled; 2016 FSHC settlement agreement; Fourth Round obligation reduced from DCA's 88 to 85 via NJBA settlement · HEFSP: adopted 2025-06-17_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| The Atwater (former Hess Site / River Club Redevelopment) | 1000 West Fort Lee Road, Bogota, NJ 07603 |  |  | 13.125 | redevelopment-area | 32.0 | 421 | 42 | 10.0% | rental | built | medium | [doc](https://jerseydigs.com/new-jersey-real-estate-bogota-river-club-238-west-fort-lee-road-approved/) |
+| West Fort Lee Road Redevelopment Area (The Atwater) — Prior Round/Third Round credit | 172, 229 and 250 West Fort Lee Road, Bogota, NJ | 3 and 72 | Lots 3, 4, 7, 8, 9 (Block 3); Lots 1, 2, 3, 4 (Block 72) | 13.125 | redevelopment area (prior round/Third Round compliance only) | 32.0 | 421 | 42 | 10.0% | rental | built and occupied | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/bogota-boro/61825BogotaAdoptedPlan6.17.25.pdf?VersionId=iwgH_0lyLTCPRF7lrwoIygYfZRWMj7e8) |
+| Silver Maple Gardens I and II — Extension of Affordability Controls | 348 and 354 Leonia Avenue, Bogota, NJ | 34 | 4.01 (Silver Maple Gardens I) and 2.01 (Silver Maple Gardens II) |  | extension of affordability controls (age-restricted 100% affordable) |  | 20 | 20 | 100.0% | rental | existing occupied; controls being extended | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/bogota-boro/61825BogotaAdoptedPlan6.17.25.pdf?VersionId=iwgH_0lyLTCPRF7lrwoIygYfZRWMj7e8) |
+| River Road Redevelopment Area — Unmet Need/Future | 300, 310 and 316 River Road, Bogota, NJ | 64.01 | 6.01, 6.02 and 7.01 | 0.372 | inclusionary overlay (mandatory set-aside) |  |  |  | 20.0% |  | area designated but no redevelopment plan yet prepared; site not yet redeveloped | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/bogota-boro/61825BogotaAdoptedPlan6.17.25.pdf?VersionId=iwgH_0lyLTCPRF7lrwoIygYfZRWMj7e8) |
+| The Gabriel | 51 Queen Anne Road, Bogota, NJ | 95 | 1.01 and 1.02 |  | inclusionary (as-of-right development under variance/rezoning) |  | 34 | 5 | 14.7% | rental | built and occupied (approved 2022, constructed) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/bogota-boro/61825BogotaAdoptedPlan6.17.25.pdf?VersionId=iwgH_0lyLTCPRF7lrwoIygYfZRWMj7e8) |
 
 ## Carlstadt (Borough)
 
@@ -64,20 +58,24 @@ _Obligation: 1189 · Compliance: plan_adopted_VLA · HEFSP: adopted 2025-06-30_
 
 ## Closter (Borough)
 
-_Obligation: 241 · Compliance: settled · HEFSP: adopted 2025-06-26_
+_Obligation: 257 · Compliance: settled; Compliance Order entered; FSHC settlement history; VLA approved with RDP=0 · HEFSP: adopted (Planning Board June 26, 2025; Governing Body endorsed June 26, 2025) 2025-06-26_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Village School Commons | 511 Durie Avenue, Closter, NJ |  |  |  | 100pct-affordable |  | 35 | 35 | 100.0% | rental | approved | medium | [doc](https://www.mastermindltd.com/projects/closter-village-school-commons/) |
-| Affordable Housing Overlay District - Commercial/Industrial Areas |  |  |  |  | overlay | 12.0 |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/7051698) |
+| Village School Commons (511 Durie Avenue) — Third Round RDP Site | 511 Durie Avenue, Closter, NJ | 1316 | 6 | 1.57 | 100% affordable (adaptive reuse/redevelopment) |  | 35 | 35 | 100.0% | rental | construction underway (asbestos abatement in progress as of June 2025) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/closter-boro/PlanningBdResolutionHEFSP.pdf?VersionId=THCHDrR.p9RB7lOkAHMd5Md647glECF4) |
+| District 4B New Overlay Zone | Industrial/commercial area near Homans Ave/Vervalen Street, Closter, NJ | 1601, 1603, 1604 | Lots 1-4, 6 and portion of Lot 5 (Block 1601); Blocks 1603 and 1604 in entirety | 22.0 | inclusionary overlay (new zone designation) | 14.0 | 308 | 61 | 20.0% |  | proposed in Fourth Round HEFSP; implementing ordinance (Appendix E) pending adoption | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/closter-boro/PlanningBdResolutionHEFSP.pdf?VersionId=THCHDrR.p9RB7lOkAHMd5Md647glECF4) |
+| District 3A Overlay Zone — Set-Aside Increase and Closter Commons Addition | Commercial/business district area, Closter, NJ | 1607 | 3, 3.01 to 3.33 (Closter Commons addition to District 3A); existing District 3A parcels TBD | 29.0 | inclusionary overlay (set-aside increase + new parcels) | 10.0 |  | 25 | 20.0% |  | proposed in Fourth Round HEFSP; implementing ordinance (Appendix E) pending adoption | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/closter-boro/PlanningBdResolutionHEFSP.pdf?VersionId=THCHDrR.p9RB7lOkAHMd5Md647glECF4) |
 
 ## Cresskill (Borough)
 
-_Obligation: 155 · Compliance: settled · HEFSP: adopted_
+_Obligation: 155 · Compliance: settled; prior Third Round settlement with FSHC; Final Unconditional Declaratory Judgment of Compliance and Repose entered; VLA approved RDP=0 · HEFSP: adopted (Planning Board approval May 13, 2025; filed May 15, 2025) 2025-05-13_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Block 181, Lot 1 - TR Zone Inclusionary Site |  | 181 | 1 |  | inclusionary-rezoning | 15.0 |  |  | 15.0% | rental | adopted-ordinance | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/CresskillHousingElementFairSharePlanEndorsedandSigned.pdf?VersionId=9vgOwyGNroV3HNw6sFmpQ2LXluWz6M8q) |
+| Downtown Commercial Zone — Upper Floor Residential Overlay | Downtown Cresskill (Central Business District, over 16 acres), Cresskill, NJ |  |  | 16.0 | inclusionary overlay (second and third floor apartments over commercial) | 15.0 |  |  | 15.0% | rental | adopted-ordinance (Third Round); continued in Fourth Round | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/HousingElementFairSharePlanexecutedandPBapproved.pdf?VersionId=Sf4EcIDzzRVkqRJ0nTmQRqwu3E.n4wwB) |
+| Accessory Apartment Program | Borough-wide, Cresskill, NJ |  |  |  | accessory apartment program |  | 9 | 9 | 100.0% | rental | adopted-ordinance (Ord. No. 18-22-1508A); program ongoing | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/HousingElementFairSharePlanexecutedandPBapproved.pdf?VersionId=Sf4EcIDzzRVkqRJ0nTmQRqwu3E.n4wwB) |
+| Crestron Electronics Site — Townhouse Residence Zone | 101 Broadway, Cresskill, NJ | 181 | 1 | 2.57 | inclusionary overlay (Townhouse Residence Zone) |  |  | 6 |  | rental (anticipated) | adopted-ordinance (Ord. No. 19-21-1503 A); site developed (Crestron Electronics occupying); development not yet commenced | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/HousingElementFairSharePlanexecutedandPBapproved.pdf?VersionId=Sf4EcIDzzRVkqRJ0nTmQRqwu3E.n4wwB) |
+| S&K Auto Site — Affordable Housing Site II Zone | 38 Broadway, Cresskill, NJ | 182 | 18-28 |  | inclusionary overlay (Affordable Housing Site II zone) | 15.0 |  |  | 15.0% | rental (anticipated based on market conditions) | adopted-ordinance (Ord. No. 18-23-1511 A); site not yet developed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/HousingElementFairSharePlanexecutedandPBapproved.pdf?VersionId=Sf4EcIDzzRVkqRJ0nTmQRqwu3E.n4wwB) |
 
 ## Demarest (Borough)
 
@@ -86,10 +84,8 @@ _Obligation: 100 · Compliance: settled · HEFSP: adopted 2026-02-04_
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Accessory Apartment Program |  |  |  |  | accessory apartment program |  |  |  |  | rental | ongoing | high | [doc](https://ecf.njcourts.gov/lib/BER/DEM001FourthRoundAmendedHEFSPADOPTED.pdf?VersionId=N7nd6OY1H.Gde9cgOyePugdN1HRVZDgx) |
-| 35 Knickerbocker Road Site | 35 Knickerbocker Road, Demarest, NJ |  |  |  | inclusionary-rezoning |  |  |  |  |  | proposed | low | [doc](https://demarestnj.gov/government/forms/planning-board/active-applications-1/active-joint-planning-board-applications/jpb-25-009-35-knickerbocker-rd/1925-engineering-plans-08-28-2025/file) |
 | 95 County Road | 95 County Road | 145 | 5 | 2.13 | inclusionary |  | 8 | 2 | 25.0% | rental | under construction | high | [doc](https://ecf.njcourts.gov/lib/BER/DEM001FourthRoundAmendedHEFSPADOPTED.pdf?VersionId=N7nd6OY1H.Gde9cgOyePugdN1HRVZDgx) |
 | 127 Hardenburgh Avenue (Bergen County United Way) | 127 Hardenburgh Avenue | 23 | 13 | 0.54 | 100% affordable |  | 17 | 17 | 100.0% | rental | approved, construction starts fall 2026 | high | [doc](https://ecf.njcourts.gov/lib/BER/DEM001FourthRoundAmendedHEFSPADOPTED.pdf?VersionId=N7nd6OY1H.Gde9cgOyePugdN1HRVZDgx) |
-| Downtown Rehabilitation/Redevelopment Area (Hardenburgh Avenue Area) | Hardenburgh Avenue corridor, Demarest, NJ 07627 | 23 | 9, 10, 12, 13, 14, 15, 16, 17.01, 17.02, 19, 20, 21, 23 (also Blocks 46 and 49.01) | 11.2 | redevelopment-area |  |  |  |  |  | adopted-ordinance | medium | [doc](https://demarestnj.gov/government/forms/clerk/public-notices/2042-notice-of-introduction-ordinance-no-1177-26-ordinance-of-the-borough-of-demarest-adopting-the-amended-redevelopment-plan-produced-by-colliers-engineering-on-behalf-of-the-borough-of-demarest/file) |
 | Downtown Rehabilitation Area Overlay | Downtown Demarest | 23, 46, 49, 49.01 | 9, 10, 12, 13 (incl. 14), 15, 16, 17.01, 17.02 (incl. 19, 20, 23), 21 / 664, 760, 764 / 39.01, 40.01 (incl. 41.02), 41.01, 50, 51, 52 / 43.01, 43.02, 44, 45, 47.02 | 11.23 | inclusionary overlay / redevelopment | 25-40 |  |  | 50.0% | rental | overlay adopted | high | [doc](https://ecf.njcourts.gov/lib/BER/DEM001FourthRoundAmendedHEFSPADOPTED.pdf?VersionId=N7nd6OY1H.Gde9cgOyePugdN1HRVZDgx) |
 | 232 County Road | 232 County Road | 63 | 5 |  | inclusionary by-right rezoning |  | 7 | 1 | 14.0% | sale | rezoned per Dec 29, 2025 mediation agreement | high | [doc](https://ecf.njcourts.gov/lib/BER/DEM001FourthRoundAmendedHEFSPADOPTED.pdf?VersionId=N7nd6OY1H.Gde9cgOyePugdN1HRVZDgx) |
 
@@ -99,10 +95,8 @@ _Obligation: 144 · Compliance: settled (binding resolution accepting DCA number
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| The Crescent (Redevelopment Site) |  |  |  |  | redevelopment-area |  | 48 | 7 | 15.0% | rental | proposed | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/dumont-boro/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr) |
 | Downtown Overlay Zone | B2 Zone downtown area (~52 acres) |  |  | 52.0 | inclusionary overlay | 20-24 |  |  | 15.0% | rental | adopted March 6, 2018 | high | [doc](https://ecf.njcourts.gov/lib/BER/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr) |
 | Municipal Set-Aside Ordinance |  |  |  |  | mandatory set-aside ordinance |  |  |  | 15.0% |  | adopted March 3, 2018 | high | [doc](https://ecf.njcourts.gov/lib/BER/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr) |
-| 125 Washington Avenue | 125 Washington Avenue, Dumont, NJ | 1216 | 1 |  | redevelopment-area |  |  | 1 |  | rental | proposed | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/dumont-boro/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr) |
 | 125 Washington Avenue (Dunkin) | 125 Washington Avenue | 1216 | 1 |  | inclusionary rental above retail |  |  | 1 |  | rental | proposed | high | [doc](https://ecf.njcourts.gov/lib/BER/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr) |
 | 2 West Madison Avenue | 2 West Madison Avenue | 905 | 11 & 12 |  | redevelopment |  | 48 | 7 | 15.0% | rental | AINR designation adopted January 7, 2025; redevelopment plan in preparation | high | [doc](https://ecf.njcourts.gov/lib/BER/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr) |
 | 219 Washington Avenue | 219 Washington Avenue | 908 | 22 |  | inclusionary (requires special overlay zoning for density) |  | 9 | 2 | 22.0% | sale | proposed; application not yet filed; overlay zoning to be adopted | high | [doc](https://ecf.njcourts.gov/lib/BER/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr) |
@@ -113,11 +107,9 @@ _Obligation: 446 · Compliance: settled with NJBA · HEFSP: adopted 2025-06-02_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 20-30 Willow Street | 20-30 Willow Street, East Rutherford, NJ |  |  |  | overlay |  | 26 |  | 20.0% | rental | approved | low | [doc](https://jerseydigs.com/30-willow-street-east-rutherford-affordable-housing/) |
 | Tomu Development Co. ('Meadows') | Meadows | 107.03 | 2, 5, 7 |  | builder's remedy / inclusionary (NJSEA jurisdiction) |  | 420 | 60 |  | rental | approved (2006 builder's remedy), no development application filed | high | [doc](https://ecf.njcourts.gov/lib/BER/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5) |
 | The Monarch Phase I | 100-200 Schindler Court | 108.04 | 5.01/5.02 |  | inclusionary (NJSEA jurisdiction) |  | 316 | 32 | 10.0% | rental | completed | high | [doc](https://ecf.njcourts.gov/lib/BER/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5) |
 | AHO Zone — 20-30 Willow Street | 20-30 Willow Street | 25 | 4, 4.01, 4.02, 5 |  | inclusionary overlay (AHO Zone) | 25.0 | 26 | 5 | 20.0% | rental | site plan approved January/February 2025 (Resolution 2025-01) | high | [doc](https://ecf.njcourts.gov/lib/BER/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5) |
-| AHO-B Zone (Block 26, Lots 1 and 2) |  | 26 | 1, 2 |  | overlay | 25.0 |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/9415803) |
 | AHO-B Zone / Central Avenue Redevelopment — 10-20 Oak Street | 10-20 Oak Street | 26 | 1.01 | 7.44 | inclusionary overlay (AHO-B Zone) | 27.5 | 208 | 30 | 20.0% | rental | completed (2021) | high | [doc](https://ecf.njcourts.gov/lib/BER/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5) |
 | AHO-C Zone — Block 6 Lot 12 (Madison Street) | Madison Street | 6 | 12 | 6.22 | inclusionary overlay (AHO-C Zone) | 20.0 |  | 25 | 15.0% | rental | overlay zoned; site available/developable | high | [doc](https://ecf.njcourts.gov/lib/BER/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5) |
 | HDCBC 100% Affordable Housing Development | 105 Main Street | 66 | 10 |  | 100% affordable |  |  |  | 100.0% | rental | proposed (no application in pipeline) | high | [doc](https://ecf.njcourts.gov/lib/BER/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5) |
@@ -129,59 +121,74 @@ _Obligation: 446 · Compliance: settled with NJBA · HEFSP: adopted 2025-06-02_
 
 ## Edgewater (Borough)
 
-_Obligation: 301 · Compliance: settled · HEFSP: adopted 2025-06-25_
+_Obligation: 301 · Compliance: in compliance via adopted HEFSP; RDP=0 / VLA applied; all prospective need addressed as unmet need · HEFSP: adopted 2025-06-25_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 615 River Road (Hess Oil Terminal / Maxal) | 615 River Road, Edgewater, NJ |  |  | 18.7 | redevelopment-area |  | 1200 | 200 |  | rental | approved | low | [doc](https://jerseydigs.com/1200-unit-development-approved-615-river-rd-edgewater/) |
-| AH-2 Zone |  |  |  | 8.7 | overlay | 12.0 | 105 | 16 | 15.0% |  | adopted-ordinance | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7) |
-| Quanta Site (145 River Road / 225 River Road, Unit B) | 145 River Road and 225 River Road, Unit B, Edgewater, NJ |  |  |  | inclusionary-rezoning |  |  | 259 | 15.0% | rental | proposed | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7) |
-| 1339 River Road | 1339 River Road, Edgewater, NJ |  |  |  | inclusionary-rezoning |  |  | 5 |  |  | approved | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7) |
-| Edgewater Housing Authority (Rehabilitation Program) |  |  |  |  | municipal |  |  | 6 |  |  | adopted-ordinance | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7) |
+| 1339 River Road | 1339 River Road, Edgewater, NJ | 17 | 1, 2, 3.01, 3.02 | 4.5 | inclusionary — site plan approved |  |  | 5 |  |  | Site plan approved 2023, amended 2025 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7) |
+| 1339 River Road (Block 18 parcels) | 1339 River Road, Edgewater, NJ | 18 | 1.03, 2.01 |  | inclusionary — site plan approved |  |  |  |  |  | Site plan approved 2023, amended 2025 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7) |
+| 435, 437, 439 Undercliff Avenue (A-Home) | 435, 437, 439 Undercliff Avenue, Edgewater, NJ | 50 | 4 |  | market-to-affordable conversion — condominiums |  |  | 11 |  | sale | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7) |
+| 435, 437, 439 Undercliff Avenue (second parcel) | 435-439 Undercliff Avenue, Edgewater, NJ | 50 | 6 |  | market-to-affordable conversion — condominiums |  |  |  |  | sale | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7) |
+| Affordable Housing 2 District (AH-2) | Various addresses along River Road area, Edgewater, NJ | 78 | 3, 4, 4.01, 5, 6, 8, 9.01, 9.02, 10, 12, 13 | 8.7 | inclusionary overlay — AH-2 District | 12.0 | 105 | 16 | 15.0% |  | Ordinance adopted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7) |
+| Affordable Housing 2 District (AH-2) — Block 79 parcels | Various addresses, Edgewater, NJ | 79 | 1, 2.01, 2.02, 2.03, 2.04, 3, 4, 5 |  | inclusionary overlay — AH-2 District | 12.0 |  |  | 15.0% |  | Ordinance adopted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7) |
+| Quanta — 225 River Road Unit B | 225 River Road, Unit B, Edgewater, NJ | 91 | 1 | 3.14 | inclusionary overlay — R-5 District | 105.0 |  |  | 15.0% |  | Proposed — Letter of Intent | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7) |
+| Quanta — 145 River Road | 145 River Road, Edgewater, NJ | 95 | 1 | 13.3 | inclusionary overlay — R-5 District | 105.0 |  |  | 15.0% |  | Proposed — Letter of Intent | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7) |
+| 8 Somerset Lane (Senior Housing) | 8 Somerset Lane, Edgewater, NJ | 99 | 1.19 | 0.3 | 100% affordable — senior redevelopment (occupied) |  | 75 | 75 | 100.0% | rental | Completed / occupied | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7) |
 
 ## Elmwood Park (Borough)
 
-_Obligation: 299 · Compliance: settled · HEFSP: adopted-amended 2025-06-26_
+_Obligation: 299 · Compliance: amended plan submitted after Program Decision Recommendation of non-compliance · HEFSP: First Amendment submitted February 27, 2026 (amended) 2026-02-24_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Market Street and Vicinity Redevelopment Area | Market Street and Vicinity, Elmwood Park, NJ |  |  |  | redevelopment-area |  |  |  |  |  | adopted-ordinance | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/elmwood-park-boro/LetterDated3.2.2026ProposedOrdinanceRepealingReplacingChapter37andProposedRedevelopmentPlan.pdf?VersionId=KM.WXWlOMnx2GOZNwnrwnwG1ZkAUvS9h) |
-| Block 902, Lots 3 & 4 Redevelopment |  | 902 | 3, 4 |  | redevelopment-area |  |  |  |  |  | adopted-ordinance | low | [doc](https://www.elmwoodparknj.us/elmwood-park-news/public-notices) |
+| ElmPark 401-407 Route 46 | 401-407 Route 46 |  |  |  | redevelopment |  | 58 | 9 |  | rental | redevelopment plan adopted May 2023 | high | [doc](https://ecf.njcourts.gov/lib/BER/LetterProposedFirstAmendment4thRound.Part1.pdf?VersionId=h6X6ZBe.uUimp0wYZY2sGK5DtyVKIzz.) |
+| Transitional/Sober Living (DB House Sober Living) |  |  |  |  | transitional/supportive housing |  |  | 5 |  | rental | existing | high | [doc](https://ecf.njcourts.gov/lib/BER/LetterProposedFirstAmendment4thRound.Part1.pdf?VersionId=h6X6ZBe.uUimp0wYZY2sGK5DtyVKIzz.) |
+| Market Street Redevelopment Plan | Market Street |  |  |  | redevelopment (inclusionary overlay — to be amended) |  |  | 23 | 15.0% | rental | original plan adopted 2020; amendment pending per PDR directive | high | [doc](https://ecf.njcourts.gov/lib/BER/LetterProposedFirstAmendment4thRound.Part1.pdf?VersionId=h6X6ZBe.uUimp0wYZY2sGK5DtyVKIzz.) |
+| 689 River Drive | 689 River Drive | 1202 | 21 |  | redevelopment |  | 16 | 3 |  | rental | AINR designation adopted; project proposed | high | [doc](https://ecf.njcourts.gov/lib/BER/LetterProposedFirstAmendment4thRound.Part1.pdf?VersionId=h6X6ZBe.uUimp0wYZY2sGK5DtyVKIzz.) |
+| Meridia/Royal Warsaw | 871 River Drive | 1602 | 2, 3, 4, 26 |  | redevelopment |  | 149 | 23 | 15.0% | rental | redevelopment plan adopted; negotiations ongoing | high | [doc](https://ecf.njcourts.gov/lib/BER/LetterProposedFirstAmendment4thRound.Part1.pdf?VersionId=h6X6ZBe.uUimp0wYZY2sGK5DtyVKIzz.) |
 
 ## Emerson (Borough)
 
-_Compliance: settled · HEFSP: adopted 2025-06-19_
+_Obligation: 174 · Compliance: settled with NJBA · HEFSP: adopted 2025-06-19_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Old Hook Road (Emerson Plaza / ShopRite Overlay) | 411-495 Old Hook Road, Emerson, NJ |  |  | 8.0 | overlay |  | 234 | 47 | 20.0% |  | proposed | low | [doc](https://gothamist.com/news/nj-officials-accused-of-hypocrisy-over-land-use-that-barred-homeless-shelter) |
-| Block 419 (Emerson Station) | Block 419, Emerson, NJ (CBD near train station) | 419 |  |  | redevelopment-area |  | 147 | 29 |  | rental | approved | low | [doc](https://thepressgroup.net/borough-tees-up-drastic-action-on-essentially-abandoned-block-419-redevelopment/) |
-| Block 610, Lot 1 (off-site affordable units) |  | 610 | 1 |  | 100pct-affordable |  | 7 | 7 | 100.0% |  | approved | low | [doc](https://thepressgroup.net/hearing-on-offsite-affordable-units-nov-4-land-use-board-gets-application-tied-to-block-419-redevelopment/) |
+| RC Overlay Zone — Old Hook Road / Main Street | Old Hook Road and Main Street | 1301 | 1.01, 1.02 | 7.8 | inclusionary overlay (new RC overlay zone) | 30.0 | 234 | 47 | 20.0% | rental | draft ordinance prepared (Appendix E); zoning to be adopted | high | [doc](https://ecf.njcourts.gov/lib/BER/EmersonHEFSPpart1.pdf?VersionId=a2qVjKjBv9hr8nuMR.oPKiVNQqokDnr2) |
+| Veterans' Housing | 324 Main Street | 304 | 3 |  | 100% affordable / veterans housing |  |  | 18 | 100.0% | rental | existing (14 units); 4 additional units approved | high | [doc](https://ecf.njcourts.gov/lib/BER/EmersonHEFSPpart1.pdf?VersionId=a2qVjKjBv9hr8nuMR.oPKiVNQqokDnr2) |
+| Block 419 — Kinderkamack Road Mixed Use | Kinderkamack Road | 419 | 1, 2, 3, 4, 6.01, 6.02, 7, 8, 9, 10 |  | redevelopment (mixed-use) |  | 147 | 29 |  | rental | under construction | high | [doc](https://ecf.njcourts.gov/lib/BER/EmersonHEFSPpart1.pdf?VersionId=a2qVjKjBv9hr8nuMR.oPKiVNQqokDnr2) |
+| Emerson Grand off-site affordable units | 18 Emerson Plaza West | 603 | 3 |  | 100% affordable (off-site per settlement) |  |  | 4 | 100.0% | rental | deed restricted per settlement | high | [doc](https://ecf.njcourts.gov/lib/BER/EmersonHEFSPpart1.pdf?VersionId=a2qVjKjBv9hr8nuMR.oPKiVNQqokDnr2) |
 
 ## Englewood (City)
 
-_Obligation: 460 · Compliance: settled · HEFSP: adopted 2025-06-06_
+_Obligation: 525 · Compliance: settled; compliance hearing held January 10, 2023; HEFSP adopted June 6, 2025 · HEFSP: adopted 2025-06-06_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Affordable Housing Overlay Zones (AHO) - Citywide (Ordinance 23-22) |  |  |  |  | overlay |  |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://www.cityofenglewood.org/DocumentCenter/View/3184/23-22-Affordable-Housing-Overlay-Zones-Ordinance) |
-| Englewood Commons | North side of Route 4, Englewood, NJ (Block 2517 area) | 2517 | 3.03 | 14.59 | redevelopment-area |  |  |  | 20.0% |  | approved | low | [doc](https://www.cityofenglewood.org/DocumentCenter/View/485/Notice-of-Proposed-Settlement-PDF) |
-| Englewood South Redevelopment Overlay Zone | South of Route 4, Englewood, NJ | 2602 | 3.01, 3.02, 3.03 |  | overlay |  |  |  | 20.0% |  | adopted-ordinance | low | [doc](https://ecode360.com/15514541) |
-| Flatrock Square | South side of Route 4, Englewood, NJ (Block 2605 area) | 2605 | 1.01, 1.02, 2.01, 2.02, 2.03, 2.04 | 19.0 | redevelopment-area |  | 195 |  | 20.0% | rental | approved | low | [doc](https://www.cityofenglewood.org/DocumentCenter/View/485/Notice-of-Proposed-Settlement-PDF) |
+| 215 West Englewood Avenue (substitute AHO) | 215 West Englewood Avenue, Englewood, NJ | 2008 | 18, 19, 20 | 1.22 | inclusionary overlay — new substitute AHO (NC zone) |  |  |  |  |  | new substitute site included in adopted Round 4 HEFSP | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/englewood-city/6625EnglewoodHEFSPAdoptedFinalS.pdf?VersionId=ppEQTdOxvSaSiXAGe9.x7Alu1D5f7SEG) |
+| 215 West Englewood Avenue (Block 2009 parcels) | 215 West Englewood Avenue, Englewood, NJ | 2009 | 20, 21, 22 |  | inclusionary overlay — new substitute AHO (NC zone) |  |  |  |  |  | new substitute site included in adopted Round 4 HEFSP | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/englewood-city/6625EnglewoodHEFSPAdoptedFinalS.pdf?VersionId=ppEQTdOxvSaSiXAGe9.x7Alu1D5f7SEG) |
+| First Student Charter Bus — AHO Overlay Site 1 |  | 2407 | 7 |  | inclusionary overlay — AHO (Third Round extended) | 35.0 |  |  |  |  | Ordinance adopted (Third Round, extended into Round 4) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/englewood-city/6625EnglewoodHEFSPAdoptedFinalS.pdf?VersionId=ppEQTdOxvSaSiXAGe9.x7Alu1D5f7SEG) |
+| Flatrock Square (existing credit) | Flatrock Square, Englewood, NJ | 2605 | 2.03 |  | 100% affordable — existing credit |  |  | 14 |  |  | existing/completed (Third Round credit) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/englewood-city/6625EnglewoodHEFSPAdoptedFinalS.pdf?VersionId=ppEQTdOxvSaSiXAGe9.x7Alu1D5f7SEG) |
+| First Student Charter Bus — AHO Overlay Site 2 |  | 2801 | 1 |  | inclusionary overlay — AHO (Third Round extended) | 35.0 |  |  |  |  | Ordinance adopted (Third Round, extended into Round 4) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/englewood-city/6625EnglewoodHEFSPAdoptedFinalS.pdf?VersionId=ppEQTdOxvSaSiXAGe9.x7Alu1D5f7SEG) |
+| 370-406 Grand Avenue (substitute AHO) | 370-406 Grand Avenue, Englewood, NJ | 2910 | 3, 4.01 |  | inclusionary overlay — new substitute AHO (SBD zone) |  |  |  |  |  | new substitute site included in adopted Round 4 HEFSP | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/englewood-city/6625EnglewoodHEFSPAdoptedFinalS.pdf?VersionId=ppEQTdOxvSaSiXAGe9.x7Alu1D5f7SEG) |
+| 370-406 Grand Avenue (Block 2912 parcel) | 370-406 Grand Avenue, Englewood, NJ | 2912 | 6 |  | inclusionary overlay — new substitute AHO (SBD zone) |  |  |  |  |  | new substitute site included in adopted Round 4 HEFSP | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/englewood-city/6625EnglewoodHEFSPAdoptedFinalS.pdf?VersionId=ppEQTdOxvSaSiXAGe9.x7Alu1D5f7SEG) |
+| West Street New Site (substitute AHO) | West side of West Street, Englewood, NJ | 605 | 3, 4, 5, 6, 7 | 1.32 | inclusionary overlay — new substitute AHO (D-2d zone) |  |  |  |  |  | new substitute site included in adopted Round 4 HEFSP | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/englewood-city/6625EnglewoodHEFSPAdoptedFinalS.pdf?VersionId=ppEQTdOxvSaSiXAGe9.x7Alu1D5f7SEG) |
 
 ## Englewood Cliffs (Borough)
 
-_Obligation: 329 · Compliance: settled · HEFSP: adopted 2025-06-26_
+_Obligation: 329 · Compliance: no challenge filed (numbers established by default March 1, 2025) · HEFSP: adopted 2025-06-30_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 800 Sylvan Avenue (former Unilever site) | 800 Sylvan Avenue, Englewood Cliffs, NJ |  |  | 20.0 | inclusionary-rezoning |  | 450 | 90 | 20.0% | rental | approved | low | [doc](https://jerseydigs.com/englewood-cliffs-looks-to-condemn-29-acres-of-land-for-affordable-housing-parks/) |
-| Southern Sylvan Avenue Consent Order Sites (Block 130 / Block 314 / Block 411) | 50-210 Sylvan Avenue and 400-440 Sylvan Avenue, Englewood Cliffs, NJ | 130 / 314 / 411 | Lots 22-25 (Blk 130); Lots 10-12 (Blk 314); Lots 16-17 (Blk 411) |  | overlay |  |  |  |  |  | adopted-ordinance | medium | [doc](https://cdn.townweb.com/englewoodcliffsnj.org/wp-content/uploads/2026/02/Exhibit-A-Englewood-Cliffs-R4-Plan-Consent-Order.pdf) |
-| 20-32 Sylvan Avenue Residences (mixed use) | 20-32 Sylvan Avenue, Englewood Cliffs, NJ | 201 | 10-14 | 1.985 | inclusionary-rezoning |  | 48 |  |  | rental | approved | medium | [doc](https://cdn.townweb.com/englewoodcliffsnj.org/wp-content/uploads/2025/07/Affordable-Housing-Plan-7-22-25.pdf) |
+| Southern Sylvan Avenue Overlay Zone D | Sylvan Avenue west of Sherwood Avenue | 130, 313, 314, 411 | 22-25, 1-3, 10-15, 16-23 | 41.38 | new inclusionary overlay (Fourth Round unmet need) | 20-24 |  | 166 | 20.0% | rental | proposed; zoning ordinance to be adopted | high | [doc](https://ecf.njcourts.gov/lib/BER/HEFSPEnglewoodCliffsPart1.pdf?VersionId=OwZ34YGfpjExt9jmEHqDI_fwEoUGH0OV) |
+| Cioffi Site (20-32 Sylvan Avenue / 4 Bayview Avenue) | 20-32 Sylvan Avenue and 4 Bayview Avenue | 201, 205 | 10-14, 1, 2, 4 | 1.985 | inclusionary mixed-use (Downtown Tiers IHO-2 Zone) | 24.18 | 48 | 10 | 20.0% | rental | proposed; developer CFI Development LLC has expressed commitment | high | [doc](https://ecf.njcourts.gov/lib/BER/HEFSPEnglewoodCliffsPart1.pdf?VersionId=OwZ34YGfpjExt9jmEHqDI_fwEoUGH0OV) |
+| New LG / North Woods (111 Sylvan Avenue) | 111 Sylvan Avenue | 207 | 6 | 3.5 | inclusionary overlay (IH-1 Zone; portion of site) | 12.0 | 60 | 12 | 20.0% | rental | zoned; development pending | high | [doc](https://ecf.njcourts.gov/lib/BER/HEFSPEnglewoodCliffsPart1.pdf?VersionId=OwZ34YGfpjExt9jmEHqDI_fwEoUGH0OV) |
+| Hudson Terrace / Michaels Development / 'Cliffs on Hudson' (100% Affordable) | 474 & 482 Hudson Terrace and 4 Clendinen Place / 488 Hudson Terrace | 513, 514 | 5, 7 (Block 513); 4, 5 (Block 514) | approx. 1.64 (+0.24 vacated Clendinen Place) | 100% affordable (municipally sponsored) |  | 65 | 65 | 100.0% | rental | site plan approved August 8, 2024; under construction | high | [doc](https://ecf.njcourts.gov/lib/BER/HEFSPEnglewoodCliffsPart1.pdf?VersionId=OwZ34YGfpjExt9jmEHqDI_fwEoUGH0OV) |
+| Southern Sylvan Avenue Overlay Zone C | Sylvan Avenue / Demarest Avenue | 617 | 6, 13-17 | 2.7935 | new inclusionary overlay (Fourth Round unmet need) | 20-24 |  | 11 | 20.0% | rental | proposed; zoning ordinance to be adopted | high | [doc](https://ecf.njcourts.gov/lib/BER/HEFSPEnglewoodCliffsPart1.pdf?VersionId=OwZ34YGfpjExt9jmEHqDI_fwEoUGH0OV) |
+| 800 Sylvan Avenue | 800 Sylvan Avenue | 910 | 1 | 28.78 | inclusionary (builder's remedy settlement) |  | 450 | 90 | 20.0% | rental | approved; under construction | high | [doc](https://ecf.njcourts.gov/lib/BER/HEFSPEnglewoodCliffsPart1.pdf?VersionId=OwZ34YGfpjExt9jmEHqDI_fwEoUGH0OV) |
 
 ## Fair Lawn (Borough)
 
-_Obligation: 874 · Compliance: settled · HEFSP: adopted_
+_Obligation: 477 · Compliance: pending · HEFSP: not-yet-filed (only resolution in court library)_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -232,15 +239,17 @@ _Obligation: 201 · Compliance: settled · HEFSP: adopted 2025-06-16_
 
 ## Hackensack (City)
 
-_Obligation: 593 · Compliance: settled · HEFSP: adopted 2025-06-11_
+_Obligation: 593 · Compliance: QUAM — prospective need exempt; rehabilitation-only Fourth Round obligation · HEFSP: adopted 2025-06-11_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 111 Essex Street / 142-144 Kansas Street (NRP Holdings) | 111 Essex Street & 142-144 Kansas Street, Hackensack, NJ 07601 |  |  |  | 100pct-affordable |  | 68 | 68 | 100.0% | rental | approved | medium | [doc](https://www.hackensack.org/wp-content/uploads/2024/05/111-Essex-Street-Redevelopment-Plan-02.15.24.pdf) |
-| 1 Essex Street (Inclusionary Mixed-Use) | 1 Essex Street, Hackensack, NJ |  |  | 2.5 | inclusionary-rezoning |  | 250 | 25 | 10.0% | rental | approved | low | [doc](https://jerseydigs.com/1-essex-street-hackensack-redevelopment/) |
-| IO-1 Inclusionary Overlay Zone (Northern Main Street / Johnson Ave / Essex St / Hudson St) |  |  |  |  | overlay |  |  |  | 10.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/HA0454/laws/LF1285914.pdf) |
-| Parking Lot T Redevelopment | Parking Lot T, off Main Street, Hackensack, NJ | 305 | 2 |  | redevelopment-area |  | 268 | 60 | 22.0% | rental | approved | medium | [doc](https://theridgewoodblog.net/hackensack-will-build-on-a-municipal-parking-lot-to-meet-its-affordable-housing-obligations/comment-page-1/) |
-| 251 West Railroad Place (Greater Bergen Community Action) | 251 West Railroad Place, Hackensack, NJ | 356 | 1 |  | 100pct-affordable |  | 24 | 24 | 100.0% | rental | approved | medium | [doc](https://theridgewoodblog.net/affordable-housing-projects-progress-in-hackensack-essex-street-and-railroad-place-developments/) |
+| Parking Lot T (Meridia Hackensack 70 / 189 State Street) | 189 State Street / 70 Trinity Place, Hackensack, NJ | 305 | 2 |  | redevelopment — inclusionary |  |  | 60 | 20.0% | rental | Redevelopment Plan adopted Ord. 21-2021, amended Ord. 06-2022; Planning Board site plan approved Feb 8, 2023 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hackensack-city/6112025HackensackFourthRoundHEFSPwoutappendicesADOPTED.pdf?VersionId=Qu2zBKhRwv.CoVO96mXNgzJNgYZAuDOu) |
+| 251 West Railroad Avenue | 251 West Railroad Avenue, Hackensack, NJ | 356 | 1 |  | 100% affordable — redevelopment |  | 24 | 24 | 100.0% | rental | Redevelopment Plan adopted Ord. 19-2023; Redeveloper Agreement signed Sept 11, 2024 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hackensack-city/6112025HackensackFourthRoundHEFSPwoutappendicesADOPTED.pdf?VersionId=Qu2zBKhRwv.CoVO96mXNgzJNgYZAuDOu) |
+| HABC Project (Hudson/Jackson/Lodi/Broadway) | Hudson Street / Jackson Street / Lodi Street / Broadway area, Hackensack, NJ | 58 | 1.02, 3, 4, 5, 19.02, 36, 39 |  | 100% affordable — housing authority / mixed-use |  |  |  | 100.0% | rental | in planning | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hackensack-city/6112025HackensackFourthRoundHEFSPwoutappendicesADOPTED.pdf?VersionId=Qu2zBKhRwv.CoVO96mXNgzJNgYZAuDOu) |
+| 60 Kansas Street (HHA-owned) | 60 Kansas Street, Hackensack, NJ | 66 | 17 |  | 100% affordable — municipally sponsored / housing authority |  | 30 | 30 | 100.0% | rental | HHA-owned; in planning/design | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hackensack-city/6112025HackensackFourthRoundHEFSPwoutappendicesADOPTED.pdf?VersionId=Qu2zBKhRwv.CoVO96mXNgzJNgYZAuDOu) |
+| 1 Essex Street (Essex Street Redevelopment) | 1 Essex Street, Hackensack, NJ | 66 | 26, 27, 28, 29, 30, 38, 41, 43, 45, 48 |  | redevelopment — inclusionary |  | 250 | 25 | 10.0% | rental | Ord. 33-2024; PB site plan approved Feb 12, 2025 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hackensack-city/6112025HackensackFourthRoundHEFSPwoutappendicesADOPTED.pdf?VersionId=Qu2zBKhRwv.CoVO96mXNgzJNgYZAuDOu) |
+| 111 Essex Street and 142-44 Kansas Street | 111 Essex Street and 142-44 Kansas Street, Hackensack, NJ | 76 | 45 |  | 100% affordable — redevelopment |  | 68 | 68 | 100.0% | rental | Redevelopment Plan Ord. 08-2024; PB site plan approved Sept 11, 2024 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hackensack-city/6112025HackensackFourthRoundHEFSPwoutappendicesADOPTED.pdf?VersionId=Qu2zBKhRwv.CoVO96mXNgzJNgYZAuDOu) |
+| 111 Essex Street and 142-44 Kansas Street (second parcel) | 142-44 Kansas Street, Hackensack, NJ | 76 | 7.03 |  | 100% affordable — redevelopment |  |  |  | 100.0% | rental | Redevelopment Plan Ord. 08-2024; PB site plan approved Sept 11, 2024 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hackensack-city/6112025HackensackFourthRoundHEFSPwoutappendicesADOPTED.pdf?VersionId=Qu2zBKhRwv.CoVO96mXNgzJNgYZAuDOu) |
 
 ## Harrington Park (Borough)
 
@@ -334,8 +343,6 @@ _Obligation: 143 · Compliance: certified · HEFSP: adopted with compliance cert
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Brook Avenue Stacked Townhome Overlay District | Brook Avenue, Maywood, NJ | 107 | 51, 52, 53, 54, and 55 | 4.63 | inclusionary overlay | 16.0 |  | 15 | 20.0% |  | adopted-ordinance (March 13, 2026) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/maywood-boro/MaywoodRound4HEFSP011926.pdf?VersionId=XWbQM7BAtB0VBPw0ev2A3ZmoxzzxXAw3) |
 | Affordable Housing 1 Overlay District (AH-1) - Spring Valley Avenue | Spring Valley Avenue, Maywood, NJ | 3 | 1 | 2.5 | inclusionary overlay | 24.0 |  | 12 | 20.0% |  | adopted-ordinance (March 13, 2026) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/maywood-boro/MaywoodRound4HEFSP011926.pdf?VersionId=XWbQM7BAtB0VBPw0ev2A3ZmoxzzxXAw3) |
-| Brook Avenue Stacked Townhome Overlay District | Brook Avenue, Maywood, NJ | 87 |  |  | overlay |  |  |  | 20.0% | for-sale | proposed | medium | [doc](https://maywoodnj.com/index.asp?DE=47FA0EA9-A0D8-43E4-A3F1-2D05C6367FF7&SEC=CC71ADE4-C190-4EA4-8E27-2E28FC3C4797) |
-| West Passaic Street Stacked Townhome Overlay District | West Passaic Street, Maywood, NJ | 87 |  |  | overlay |  |  |  | 20.0% | for-sale | proposed | medium | [doc](https://www.maywoodnj.com/vertical/sites/%7B3F816141-7A2D-4412-8A8D-6C5C2C1C1341%7D/uploads/West_Passaic_Street_Affordable_Housing_Overlay_District_Ordinance_Final_01-20-26.docx) |
 | West Passaic Street Stacked Townhome Overlay District | West Passaic Street, Maywood, NJ | 87 | 2, 3, and 4 | 2.95 | inclusionary overlay | 18.0 |  | 11 | 20.0% |  | adopted-ordinance (March 13, 2026) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/maywood-boro/MaywoodRound4HEFSP011926.pdf?VersionId=XWbQM7BAtB0VBPw0ev2A3ZmoxzzxXAw3) |
 
 ## Midland Park (Borough)
@@ -395,15 +402,17 @@ _Obligation: 130 · Compliance: litigating · HEFSP: adopted 2025-06-04_
 
 ## Oakland (Borough)
 
-_Obligation: 296 · Compliance: settled · HEFSP: adopted 2026-03-12_
+_Obligation: 296 · Compliance: filed; durational adjustment requested due to lack of sewer infrastructure; amended plan filed March 2026 incorporating challenger mediation results · HEFSP: adopted and amended 2025-06-23_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Leone Property |  |  |  |  | inclusionary-rezoning |  | 85 | 17 | 20.0% |  | adopted-ordinance | medium | [doc](https://www.oakland-nj.org/home/news/statement-fourth-round-affordable-housing-requirements-adoption-new-housing-element-and) |
-| McBride Property |  |  |  |  | inclusionary-rezoning |  | 240 | 48 | 20.0% |  | adopted-ordinance | medium | [doc](https://www.oakland-nj.org/home/news/statement-fourth-round-affordable-housing-requirements-adoption-new-housing-element-and) |
-| Downtown-1 Affordable Housing Overlay Zone |  |  |  |  | overlay | 22.0 |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://www.oakland-nj.org/home/news/statement-fourth-round-affordable-housing-requirements-adoption-new-housing-element-and) |
-| Downtown-2 Affordable Housing Overlay Zone |  |  |  |  | overlay |  |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://www.oakland-nj.org/home/news/statement-fourth-round-affordable-housing-requirements-adoption-new-housing-element-and) |
-| Ropper Property |  |  |  |  | inclusionary-rezoning |  |  |  |  |  | adopted-ordinance | low | [doc](https://www.oakland-nj.org/home/news/statement-fourth-round-affordable-housing-requirements-adoption-new-housing-element-and) |
+| DT-1 Affordable Housing Overlay Zone | Various parcels in Downtown I zone, Ramapo Valley Road area, Oakland, NJ |  |  | 37.0 | inclusionary overlay — DT-1 AHO | 22.0 |  |  | 20.0% |  | Amended by Ord. 26CODE984 March 12, 2026 (density raised from 18 to 22 du/ac) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oakland-boro/Ordinance26CODE984Amendsection59.53.1.1toRevisePermittedDensityandRequiredAffordableHousingSetAsideinDT1AffordableHousingOverlayZone.pdf?VersionId=P6jWScFR2stiS3rW3UQI23d6LeTPRpc1) |
+| DT-2 Affordable Housing Overlay Zone | Various parcels in Downtown II zone, Oakland, NJ |  |  |  | inclusionary overlay — DT-2 AHO | 15.0 |  |  | 20.0% | rental | Amended by Ord. 26CODE985 March 12, 2026 (set-aside confirmed at 20%) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oakland-boro/Ordinance26CODE985AmendSection59.53.2.1toReviseRequiredAffordableHousingSetAsideDT2AffordableHousingOverlayZone.pdf?VersionId=Erd8J.4A_30fxn1kpNpI8lOtRnUAoyi2) |
+| Rehabilitation Program | Borough-wide, Oakland, NJ |  |  |  | rehabilitation |  |  | 10 |  |  | program active; 4 properties rehabilitated since 2022 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oakland-boro/OaklandRound4Planpart1.pdf?VersionId=TyKyyHmbcr04GxSSl1xYqD0d8Y4zB.1w) |
+| Terhune Site — RA-5AH Zone (Round 3 carryover) | Terhune Street / Elm Street area, Oakland, NJ | 1802 | 1 |  | inclusionary — RA-5AH overlay (Round 3, carried to Round 4) |  |  | 17 |  |  | Ordinance adopted (Round 3 mechanism); sewer infrastructure needed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oakland-boro/OaklandAmendedHEFSP03.12.2026compressedpart1.pdf?VersionId=yU3ZvhIzGIjTAPjKReSl34y15Ydzj.wi) |
+| McBride/Hovan Property — RA-6AH Zone | McBride/Hovan site, Oakland, NJ | 3301 | 2 | 66.9 | inclusionary — new RA-6AH zone |  | 240 | 48 | 20.0% |  | Ordinance 26CODE986 adopted March 12, 2026 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oakland-boro/Ordinance26CODE986AmendlandUseandZoningOrdinancetocreateanAffordableHousingDistrictforBlk3301.2andBlk340111.12.19.40to43.52.53.57.58McBridepropforAffordableHousingObligation.pdf?VersionId=SPQ_vepxLIDS_efNZrOm5Xf6DEK3kM8n) |
+| McBride/Hovan Property — RA-6AH Zone (Block 3401 lots) | McBride/Hovan site, Oakland, NJ | 3401 | 11, 12, 19, 40, 41, 42, 43, 52, 53, 57, 58 |  | inclusionary — new RA-6AH zone |  |  |  | 20.0% |  | Ordinance 26CODE986 adopted March 12, 2026 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oakland-boro/Ordinance26CODE986AmendlandUseandZoningOrdinancetocreateanAffordableHousingDistrictforBlk3301.2andBlk340111.12.19.40to43.52.53.57.58McBridepropforAffordableHousingObligation.pdf?VersionId=SPQ_vepxLIDS_efNZrOm5Xf6DEK3kM8n) |
+| Leone Brothers / McCoy Road — RA-7AH Zone | 129 McCoy Road / 111 McCoy Road area, Oakland, NJ | 4004 | 4, 5 | 10.5 | inclusionary — new RA-7AH zone |  | 85 | 17 | 20.0% |  | Ordinance 26CODE987 adopted March 12, 2026 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oakland-boro/Ordinance26CODE987AnOrdinancetoCreateaNewInclusionaryZoneDistrictfor129McCoyRoad44044.5Leone.pdf?VersionId=jgYFfA0au2LL_aCh.cBzMJMhPM5nd.gG) |
 
 ## Old Tappan (Borough)
 
@@ -421,17 +430,11 @@ _Obligation: 180 · Compliance: settled · HEFSP: adopted 2025-06-24_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 505 Kinderkamack Road | 505 Kinderkamack Road, Oradell, NJ 07649 |  |  |  | inclusionary-rezoning |  | 20 | 3 | 15.0% | rental | approved | medium | [doc](https://www.oradell.org/zoning-board-adjustment/files/cal891-25-505-kinderkamack-rd-borough-planning-report-10172025) |
-| 690-800 Kinderkamack Road Overlay Zone | 690-800 Kinderkamack Road, Oradell, NJ |  |  |  | overlay | 30.0 |  |  |  | rental | adopted-ordinance | low | [doc](https://theridgewoodblog.net/the-death-of-small-town-nj-how-oradell-was-forced-into-high-density-zoning/) |
-| 445 Kinderkamack Road | 445 Kinderkamack Road, Oradell, NJ |  |  |  | inclusionary-rezoning |  | 25 | 5 | 20.0% | rental | adopted-ordinance | low | [doc](https://theridgewoodblog.net/the-death-of-small-town-nj-how-oradell-was-forced-into-high-density-zoning/) |
-| 480 Reis Avenue (Habitat for Humanity) | 480 Reis Avenue, Oradell, NJ |  |  |  | 100pct-affordable |  | 1 | 1 | 100.0% | for-sale | approved | medium | [doc](https://www.oradell.org/site-home/news/habitat-humanity-bergen-county) |
 | 445-447 Kinderkamack Road (Inclusionary Rezone - Round 4 RDP) | 445-447 Kinderkamack Road, Oradell, NJ |  |  | 0.71 | inclusionary-rezoning | 22.0 | 15 | 3 | 20.0% |  | draft ordinance (Appendix E) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oradell-boro/6.25.25ORDAELLHEFSPADOPTED6.24.25Part1.pdf?VersionId=by7o.pgjg3Itv8UK8wzDhBCi8wwL0R6z) |
 | CBD Overlay Zone Extension (Kinderkamack Road Corridor - Unmet Need) | Kinderkamack Road corridor (Orchard St to Soldier Hill Rd), Oradell, NJ |  |  | 14.0 | inclusionary overlay |  |  |  | 20.0% |  | draft ordinance (Appendix E) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oradell-boro/6.25.25ORDAELLHEFSPADOPTED6.24.25Part1.pdf?VersionId=by7o.pgjg3Itv8UK8wzDhBCi8wwL0R6z) |
 | 505 Kinderkamack Road (Age-Restricted Mandatory Set-Aside) [Prior Round Credit] | 505 Kinderkamack Road, Oradell, NJ |  |  |  | mandatory set-aside |  |  | 3 |  | rental | built | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oradell-boro/6.25.25ORDAELLHEFSPADOPTED6.24.25Part1.pdf?VersionId=by7o.pgjg3Itv8UK8wzDhBCi8wwL0R6z) |
 | 387-393 Kinderkamack Road (CBD Overlay - Family Rental) [Prior Round Credit] | 387-393 Kinderkamack Road, Oradell, NJ |  |  |  | CBD overlay |  |  | 1 |  | rental | built | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oradell-boro/6.25.25ORDAELLHEFSPADOPTED6.24.25Part1.pdf?VersionId=by7o.pgjg3Itv8UK8wzDhBCi8wwL0R6z) |
 | Habitat for Humanity - Reis Avenue (Block 107, Lot 29) | Corner of Kinderkamack Road and Reis Avenue, Oradell, NJ | 107 | 29 |  | 100pct-affordable |  | 1 | 1 | 100.0% | for-sale | under construction | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oradell-boro/6.25.25ORDAELLHEFSPADOPTED6.24.25Part1.pdf?VersionId=by7o.pgjg3Itv8UK8wzDhBCi8wwL0R6z) |
-| 420 Kinderkamack Road | 420 Kinderkamack Road, Oradell, NJ 07649 | 1102 | 1 |  | inclusionary-rezoning |  |  |  |  | rental | proposed | low | [doc](https://www.oradell.org/planning-board-information/files/cal-162-25-420-kinderkamack-rd-borough-engineer-1st-review-3-26) |
-| Bergen County United Way Supportive Housing (Genther Ave / Block 223 Lot 5) | Genther Avenue, Oradell, NJ | 223 | 5 |  | group-home |  | 4 | 4 | 100.0% | rental | approved | medium | [doc](https://www.oradell.org/site-home/news/building-supportive-housing) |
 | Bergen County United Way - Genther Ave (Block 223, Lot 5) [Prior Round Credit] | Genther Avenue, Oradell, NJ | 223 | 5 |  | 100pct-affordable |  | 4 | 4 | 100.0% | rental | approved (ZBA Calendar No. 874-24, May 19, 2025) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oradell-boro/6.25.25ORDAELLHEFSPADOPTED6.24.25Part1.pdf?VersionId=by7o.pgjg3Itv8UK8wzDhBCi8wwL0R6z) |
 
 ## Palisades Park (Borough)
@@ -556,13 +559,9 @@ _Obligation: 321 · Compliance: settled · HEFSP: adopted (amended) 2026-03-13_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| AHOZ-5A Supportive Housing (580 North Midland) | 580 North Midland Avenue | 1710 | 38 |  | 100pct-affordable |  | 10 | 10 | 100.0% | rental | adopted-ordinance | medium | [doc](https://saddlebrooknj.us/wp-content/uploads/2026/02/1796-26-Ordinance-Creating-Round-4-Overlay-Zones.pdf) |
-| AHOZ-5B Age-Restricted Inclusionary (580 North Midland) | 580 North Midland Avenue | 1710 | 38 |  | inclusionary-rezoning |  | 12 | 3 | 25.0% | rental | adopted-ordinance | medium | [doc](https://saddlebrooknj.us/wp-content/uploads/2026/02/1796-26-Ordinance-Creating-Round-4-Overlay-Zones.pdf) |
 | 580 North Midland Ave - Supportive Housing Overlay (Block 1710, Lot 38) | 580 North Midland Avenue, Saddle Brook, NJ | 1710 | 38 | 0.74 | 100pct-affordable |  | 10 | 10 | 100.0% | rental | adopted-ordinance (Appendix J) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-brook-twp/SDBRK001FourthRoundHEFSPAmendedADOPTED.pdf?VersionId=tgAeFS7ZKkFV1Qi78ZkzP76F5bWB8Q9z) |
-| 580 North Midland Ave - Age-Restricted Inclusionary Overlay (Block 1710, Lot 38) | 580 North Midland Avenue, Saddle Brook, NJ | 1710 | 38 | 0.74 | inclusionary-rezoning |  | 12 | 3 | 25.0% | rental | adopted-ordinance (Appendix J) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-brook-twp/SDBRK001FourthRoundHEFSPAmendedADOPTED.pdf?VersionId=tgAeFS7ZKkFV1Qi78ZkzP76F5bWB8Q9z) |
-| AHOZ-6 Overlay Zone (Block 401) |  | 401 | 1, 2.01, 2.02, 3, 4, 5 |  | overlay |  | 220 |  | 20.0% |  | adopted-ordinance | medium | [doc](https://saddlebrooknj.us/wp-content/uploads/2026/02/1796-26-Ordinance-Creating-Round-4-Overlay-Zones.pdf) |
+| 580 North Midland Ave - Age-Restricted Inclusionary Overlay (Block 1710, Lot 38) | 580 North Midland Avenue, Saddle Brook, NJ | 1710 | 38 | 0.74 | inclusionary-rezoning |  | 12 | 3 | 20.0% | rental | adopted-ordinance (Appendix J) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-brook-twp/SDBRK001FourthRoundHEFSPAmendedADOPTED.pdf?VersionId=tgAeFS7ZKkFV1Qi78ZkzP76F5bWB8Q9z) |
 | Midland Avenue-Van Bussum Overlay (Block 401) | Midland Avenue & Van Bussum Avenue, Saddle Brook, NJ | 401 | 1, 2.01, 2.02, 3, 4, and 5 | 3.77 | inclusionary overlay |  | 220 | 44 | 20.0% |  | adopted-ordinance (Appendix J; Ordinance 1797-26) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-brook-twp/SDBRK001FourthRoundHEFSPAmendedADOPTED.pdf?VersionId=tgAeFS7ZKkFV1Qi78ZkzP76F5bWB8Q9z) |
-| Mayhill Apartments | 140 Mayhill Street | 910 | 2 |  | inclusionary-rezoning |  | 156 | 15 | 10.0% | rental | built | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-brook-twp/SaddleBrookHEFSP.pdf?VersionId=C.gkPGgGYC7UFIkMf9a_sPK4jVGD6biD) |
 | Mayhill Apartments (Block 910, Lot 2) [Prior Round Credit] | 140 Mayhill Street, Saddle Brook, NJ | 910 | 2 |  | inclusionary-rezoning |  | 156 | 15 |  | rental | built | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-brook-twp/SDBRK001FourthRoundHEFSPAmendedADOPTED.pdf?VersionId=tgAeFS7ZKkFV1Qi78ZkzP76F5bWB8Q9z) |
 
 ## Saddle River (Borough)
@@ -585,14 +584,17 @@ _Obligation: 181 · Compliance: settled · HEFSP: adopted 2025-06-30_
 
 ## Teaneck (Township)
 
-_Obligation: 645 · Compliance: settled · HEFSP: adopted 2025-06-16_
+_Obligation: 645 · Compliance: certified · HEFSP: adopted (2026 amendment) 2026-05-19_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 827 Teaneck Road (IH-1 Overlay) | 827 Teaneck Road |  |  |  | overlay |  |  |  |  |  | proposed | low | [doc](https://www.teanecknj.gov/media/ibchor4k/ordinance-43-2025-introduced-on-12-9-2025.pdf) |
-| 1387 Hill Street | 1387 Hill Street | 5003 | 16 | 0.22 | inclusionary-rezoning | 31.8 | 7 |  |  |  | approved | low | [doc](https://teaneckvoices.com/wp-content/uploads/2025/07/120291-Inclusionary-Request-Letter-Hill-Street.pdf) |
-| 140 State Street Redevelopment | 140 State Street | 5004 | 1 |  | redevelopment-area |  |  |  |  |  | approved | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/teaneck-twp/FINALENDORSED61725teaneckhousingelementfourthroundREPORTwoappendix.pdf?VersionId=9wMNZgHOP7_NKXE4cmTKGnLRCPByCw9C) |
-| Cedar Lane CBD / American Legion Drive (Crossroads Redevelopment) | American Legion Drive / Cedar Lane / Garrison Avenue / Beverley Road | 819, 707, 705 | 819: 1, 13, 14, 16, 17; 707: 1-5; 705: 4.01 | 9.42 | redevelopment-area |  | 224 | 48 |  | rental | approved | medium | [doc](https://www.teanecknj.gov/media/izzb1uq3/2025-12-18-american-legion-drive-crossroads-rdp.pdf) |
+| 822 Palisade Avenue (Passive Rezoning 60 DU/AC) | 822 Palisade Avenue, Teaneck, NJ | 2603 | 21 |  | inclusionary-rezoning | 60.0 |  |  | 20.0% |  | adopted-ordinance (2026 Amendment; required by settlement) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/teaneck-twp/2026AmendedTeaneckHousingElementFourthRoundCompressed.pdf?VersionId=P26rpe3KZgxIXZgSwieRhHxbKLnm_r1T) |
+| 827 Teaneck Road (Rezoning or Redevelopment) | 827 Teaneck Road, Teaneck, NJ | 3902 | 2.01 |  | redevelopment-area |  |  | 6 |  |  | settlement agreement (Vision 23 LLC / Mohammed Saddiqulla) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/teaneck-twp/2026AmendedTeaneckHousingElementFourthRoundCompressed.pdf?VersionId=P26rpe3KZgxIXZgSwieRhHxbKLnm_r1T) |
+| 54 West Englewood Avenue (Rezoning or Redevelopment) | 54 West Englewood Avenue, Teaneck, NJ | 4905 | 1, 2 and 3 |  | redevelopment-area |  |  | 11 |  |  | settlement agreement (54 West Englewood Ave LLC) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/teaneck-twp/2026AmendedTeaneckHousingElementFourthRoundCompressed.pdf?VersionId=P26rpe3KZgxIXZgSwieRhHxbKLnm_r1T) |
+| 143 State Street (Redevelopment or Rezoning) | 143 State Street, Teaneck, NJ | 5002 | 26 |  | redevelopment-area |  |  | 9 |  |  | settlement agreement (143 State Street LLC); implementing plan to be adopted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/teaneck-twp/2026AmendedTeaneckHousingElementFourthRoundCompressed.pdf?VersionId=P26rpe3KZgxIXZgSwieRhHxbKLnm_r1T) |
+| 1387 Hill Street (Rezoning or Redevelopment) | 1387 Hill Street, Teaneck, NJ | 5003 | 16 | 0.22 | redevelopment-area |  |  | 4 |  |  | settlement agreement (Hill Street Realty LLC) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/teaneck-twp/2026AmendedTeaneckHousingElementFourthRoundCompressed.pdf?VersionId=P26rpe3KZgxIXZgSwieRhHxbKLnm_r1T) |
+| 140 State Street (Redevelopment - Amended January 2025) | 140 State Street, Teaneck, NJ | 5004 | 1 |  | redevelopment-area |  |  | 5 |  |  | redevelopment plan adopted and amended | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/teaneck-twp/2026AmendedTeaneckHousingElementFourthRoundCompressed.pdf?VersionId=P26rpe3KZgxIXZgSwieRhHxbKLnm_r1T) |
+| Cedar Lane and American Legion Drive (Redevelopment) | American Legion Drive / Cedar Lane / Garrison Avenue / Beverley Road, Teaneck, NJ | 819, 707, 705 | Block 819: Lots 1, 14, 16, 17; Block 707: Lots 1-5; Block 705: Lot 4.01 |  | redevelopment-area |  |  | 48 |  | rental | redevelopment plan adopted; settlement with Crossroads Companies | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/teaneck-twp/2026AmendedTeaneckHousingElementFourthRoundCompressed.pdf?VersionId=P26rpe3KZgxIXZgSwieRhHxbKLnm_r1T) |
 
 ## Tenafly (Borough)
 

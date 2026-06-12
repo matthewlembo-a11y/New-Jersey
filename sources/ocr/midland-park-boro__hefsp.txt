@@ -1,0 +1,4078 @@
+
+===== PAGE 1 =====
+ 
+ 
+M 
+IDLAND  
+P 
+ARK  
+Housing Element 
+& Fair Share Plan 
+Adopted June 16, 2025 
+b a 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 1 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 2 =====
+BER-L-000589-25
+06/17/2025 4:50:50 PM
+Pg 2of59
+Trans ID: LCV20251786003
+
+===== PAGE 3 =====
+Community Planning 
+Principals: 
+Land Development and Design 
+Joseph H. Burgis PP, AICP 
+Landscape Architecture 
+Edward Snieckus, Jr. PP, LLA, ASLA 
+ 
+David Novak PP, AICP  
+ 
+b a 
+B
+U
+R
+G
+I
+S 
+A S S O C I A T E S,  I N C. 
+ 
+ 
+ 
+ 
+Housing Element and 
+Fair Share Plan 
+ 
+Borough of Midland Park 
+Bergen County, New Jersey 
+ 
+ 
+Prepared for the Borough of Midland Park 
+Planning Board 
+BA# 4150.01 
+ 
+ 
+The original document was appropriately signed and sealed on June 16, 2025 in accordance with 
+Chapter 41 of Title 13 of the State Board of Professional Planners 
+ 
+ 
+ 
+ 
+_______________________________ 
+_______________________________ 
+Joseph H. Burgis, AICP, PP 
+David Novak, AICP, PP 
+Professional Planner #2450 
+Professional Planner #6269 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 3 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 4 =====
+ 
+Members of the Borough of Midland Planning Board 
+Kent Rigg, Chairman 
+David Wostbrock, Vice-Chairman 
+Robert Mulder 
+Stephanie Pantele 
+Mike Rau 
+Harry Shortway, Jr. 
+Matt Tauber 
+Isabel Duffy, Alternate #1 
+Bruce Goldsmith, Alternate #2 
+Land Use Administrator/Board Secretary 
+Eileen D. Malestein 
+Planning Board Attorney 
+Eric David Becker, Esq. 
+Law Office of Eric David Becker, LLC 
+Planning Board Engineer 
+Erik Boe, PE 
+Planning Board Planning Consultant 
+Joseph H. Burgis PP, AICP 
+David Novak PP, AICP 
+Burgis Associates, Inc. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 4 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 5 =====
+ 
+Contents 
+Executive Summary ................................................................................................................................................................................... 1 
+Prior Round Obligation ...................................................................................................................................................................... 1 
+Third Round Obligation ..................................................................................................................................................................... 2 
+Fourth Round Obligation .................................................................................................................................................................. 3 
+Section 1: Introduction ............................................................................................................................................................................ 5 
+1.1: What is Affordable Housing? ................................................................................................................................................... 5 
+1.2: What is the History of Affordable Housing in New Jersey? ........................................................................................... 6 
+1.3: What is a Housing Element and Fair Share Plan? .............................................................................................................. 9 
+Section 2: Housing Element ................................................................................................................................................................ 11 
+2.1: Community Overview .............................................................................................................................................................. 12 
+2.2: Demographic and Population Data .................................................................................................................................... 15 
+Population Changes ................................................................................................................................................................... 15 
+Age Characteristics ..................................................................................................................................................................... 16 
+Household Tenure and Occupancy ....................................................................................................................................... 17 
+Average Household Size ........................................................................................................................................................... 17 
+Household Income ..................................................................................................................................................................... 18 
+2.3: Inventory of Housing Stock ................................................................................................................................................... 19 
+Number of Dwelling Units........................................................................................................................................................ 19 
+Units in Structure for Occupied Units ................................................................................................................................... 20 
+Purchase and Rental Value of Housing Units ..................................................................................................................... 20 
+Year Structure Built ..................................................................................................................................................................... 22 
+Deficient Housing Units ............................................................................................................................................................ 23 
+2.4: Housing and Employment Projection ................................................................................................................................ 24 
+Recent Residential Development Activity ............................................................................................................................ 24 
+Covered Employment ................................................................................................................................................................ 24 
+Section 3: Fair Share Obligation ........................................................................................................................................................ 26 
+3.1: Summary of Fair Share Obligation ...................................................................................................................................... 26 
+3.2: Realistic Development Potential (RDP) .............................................................................................................................. 27 
+Prior Round RDP .......................................................................................................................................................................... 27 
+Third Round RDP ......................................................................................................................................................................... 27 
+Fourth Round RDP ...................................................................................................................................................................... 27 
+Section 4: Fair Share Plan ..................................................................................................................................................................... 30 
+4.1: Prior Round Obligation ........................................................................................................................................................... 30 
+4.2: Third Round Obligation .......................................................................................................................................................... 32 
+72 Lake Avenue ............................................................................................................................................................................ 32 
+4.3: Fourth Round Obligation ....................................................................................................................................................... 35 
+577 Godwin Avenue ................................................................................................................................................................... 37 
+Nouvelle, LLC ................................................................................................................................................................................ 38 
+90 Midland Ave Redevelopment Area .................................................................................................................................. 39 
+Block 22 Site ................................................................................................................................................................................. 40 
+4.4: Present Need Obligation ........................................................................................................................................................ 41 
+4.5: Other Provisions ........................................................................................................................................................................ 41 
+4.6: Consistency with State Planning Initiatives ...................................................................................................................... 42 
+Multigenerational Family Housing Continuity Commission .......................................................................................... 42 
+State Development and Redevelopment Plan ................................................................................................................... 42 
+Appendices ............................................................................................................................................................................................... 44 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 5 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 6 =====
+ 
+Appendix A: January Resolution .................................................................................................................................................. 45 
+Appendix B: 72 Lake Avenue Resolution ................................................................................................................................... 46 
+Appendix C-1: 577 Godwin Avenue Resolution ...................................................................................................................... 47 
+Appendix C-2: Nouvelle, LLC Resolution ................................................................................................................................... 48 
+Appendix C-3: 90 Midland Avenue Redevelopment Plan Ordinance .............................................................................. 49 
+Appendix C-4: 90 Midland Avenue Redevelopment Plan Concept Plan ........................................................................ 50 
+Appendix C-5: Multifamily Residential Overlay Zones Draft Ordinance ......................................................................... 51 
+Appendix C-6: Block 22 Concept Plan ....................................................................................................................................... 52 
+Appendix D-1: Chapter 22 Affordable Housing ...................................................................................................................... 53 
+Appendix D-2: Chapter 34 Zoning .............................................................................................................................................. 54 
+Appendix D-3: Affirmative Marketing Plan .............................................................................................................................. 55 
+Appendix D-4: Administrative Agent ......................................................................................................................................... 56 
+Appendix D-5: Municipal Affordable Housing Liaison ......................................................................................................... 57 
+Appendix D-6: Spending Plan ...................................................................................................................................................... 58 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 6 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 7 =====
+ 
+~ 1 ~ 
+ 
+Executive Summary 
+The following 2025 Housing Element and Fair Share Plan (HE&FSP) of the Master 
+Plan has been prepared for the Borough of Midland Park. 
+This plan is designed to outline the manner in which the Borough will address its 
+affordable housing obligations. As discussed in greater detail herein, these obligations 
+were derived from a variety of different sources including the Council on Affordable 
+Housing (COAH), a prior settlement agreement with Fair Share Housing Center (FSHC), 
+and most recently from calculations provided by the Department of Community Affairs 
+(DCA). 
+These obligations are summarized as follows: 
+Table 1: Affordable Housing Obligation Summary 
+Category 
+Obligation 
+Prior Round Obligation (1987-1999) 
+54 
+Third Round Obligation (1999-2025) 
+198 
+Fourth Round Obligation (2025-2035) 
+155 
+Present Need (Rehabilitation) Obligation 
+0 
+Prior Round Obligation (1987-1999) 
+The Borough was assigned a Prior Round Obligation of fifty-four (54) affordable units. 
+Based upon a vacant land adjustment (VLA) approved by COAH as part of its Second 
+Round Substantive Certification, the Borough’s realistic development potential (RDP) was 
+established as thirteen (13) affordable units. This Prior Round RDP was fully satisfied 
+through the components identified in Table 2 below. After applying these credits to the 
+Borough’s Prior Round Obligation, the Borough was left with an Unmet Need of forty-one 
+(41) affordable units. This was addressed through the Third Round. 
+Table 2: 1987-2025 Affordable Housing Components 
+Component 
+Affordable Units 
+Status 
+Kentshire Apartments 
+35 
+Completed 
+Life Opportunities Unlimited 
+4 
+Completed 
+Eastern Christian Children’s 
+4 
+Completed 
+Mill Gardens 
+10 
+Completed 
+West Bergen Mental Health I 
+7 
+Completed 
+West Bergen Mental Health II 
+4 
+Completed 
+West Bergen Mental Health III 
+4 
+Completed 
+Greenwood & Central Ave 
+3 
+Completed 
+Compliance Bonus 
+2 
+Completed 
+Total 
+73 
+Completed 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 7 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 8 =====
+ 
+~ 2 ~ 
+Third Round Obligation 
+Pursuant to a Settlement Agreement signed with FSHC, the Borough had a Third Round 
+RDP of zero (0) affordable units and an Unmet Need of two hundred and thirty-nine (239) 
+affordable units. This Unmet Need was comprised of forty-one (41) affordable units of 
+Unmet Need from the Prior Round and one hundred and ninety-eight (198) affordable 
+units of Unmet Need from the Third Round. 
+As noted in Table 2, the Borough has approved seventy-one (71) affordable housing units 
+which were eligible for two (2) bonus credits. Through the application of these units, the 
+Borough satisfied its Prior Round Unmet Need (consisting of forty-one units) and was 
+entitled to a sixteen (16) unit credit towards its Third Round Unmet Need. As a result, the 
+Borough had a remaining Unmet Need of one hundred and eighty-two (182) affordable 
+units. To partially address this need, the Borough adopted several affordable housing 
+overlay zones which are identified in Table 3 as well as a municipal-wide mandatory set-
+aside ordinance. 
+Since that time, the Borough has granted approval to one inclusionary multifamily 
+development located in its overlay districts. This approval, which is discussed in greater 
+detail in Section 4.2, will generate one (1) affordable unit upon construction. This reduces 
+the Borough’s Third Round Unmet Need from one hundred and eight-two (182) units to 
+one hundred and eighty-one (181) affordable units. 
+Table 3: Overlay Parcels for Unmet Need 
+Address 
+Block 
+Lot 
+Acreage 
+Density (du/ac) 
+55 Godwin Avenue 
+3 
+23.01 
+0.88 
+10 
+1 Godwin Avenue 
+3 
+24.01 
+0.89 
+10 
+31 Godwin Avenue 
+3 
+24.03 
+0.95 
+10 
+45 Godwin Avenue 
+3 
+24.04 
+0.32 
+10 
+60 Lake Avenue 
+3 
+1.01 
+0.49 
+10 
+54 Lake Avenue 
+3 
+1.02 
+0.29 
+10 
+72 Lake Avenue 
+3 
+2 
+0.42 
+10 
+80 Lake Avenue 
+3 
+3 
+0.34 
+10 
+27 Greenwood Avenue 
+32 
+2 
+0.59 
+18 
+17 Greenwood Avenue 
+32 
+3.02 
+0.22 
+18 
+11 Greenwood Avenue 
+32 
+3.03 
+0.23 
+18 
+18 Birch Street 
+32 
+3.04 
+0.21 
+18 
+85 Witte Drive 
+32 
+5.01 
+1.95 
+18 
+95 Greenwood Avenue 
+33 
+1 
+0.63 
+18 
+80 West Street 
+33 
+2 
+0.28 
+18 
+74 West Street 
+33 
+3 
+0.15 
+18 
+83 Greenwood Avenue 
+33 
+4 
+0.15 
+18 
+77 Greenwood Avenue 
+33 
+5 
+0.5 
+18 
+60 West Street 
+33 
+6 
+0.26 
+18 
+59 Greenwood Drive 
+33 
+7.01 
+2.41 
+18 
+176 Greenwood Avenue 
+36 
+1.01 
+1.92 
+18 
+156 Greenwood Avenue 
+36 
+1.02 
+1.92 
+18 
+140 Greenwood Avenue 
+36 
+2 
+1.15 
+18 
+301 Greenwood Avenue 
+52 
+1 
+1.74 
+18 
+187 Madison Avenue 
+53 
+1 
+0.35 
+18 
+179 Madison Avenue 
+53 
+2.01 
+0.11 
+18 
+175 Madison Avenue 
+53 
+2.02 
+0.11 
+18 
+312 Greenwood Avenue 
+53 
+2.03 
+0.22 
+18 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 8 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 9 =====
+ 
+~ 3 ~ 
+Address 
+Block 
+Lot 
+Acreage 
+Density (du/ac) 
+161 Madison Avenue 
+53  
+3 
+0.22 
+18 
+167 Madison Avenue 
+53 
+3.03 
+0.22 
+18 
+300 Greenwood Avenue 
+53 
+4 
+0.22 
+18 
+Fourth Round Obligation 
+The DCA calculated a Fourth Round Obligation of one hundred and fifty-five (155) 
+affordable units for the Borough. Midland Park accepted this calculation by way of 
+Resolution #049-2025 which was adopted on January 23, 2025. That same resolution 
+noted that the Borough reserved the right to conduct a VLA analysis to determine its 
+RDP. See Appendix A for a copy of this resolution. 
+An updated VLA was subsequently conducted for Midland Park. It finds that since the 
+Borough last conducted a VLA for its prior HE&FSP, no new vacant land has been made 
+available for development. This results in a RDP of zero (0) affordable units. 
+Nevertheless, Midland Park has remained diligent in planning for and approving 
+affordable units throughout the Borough in appropriate locations. These components are 
+identified in Table 4. As shown, these components comprise fifteen (15) affordable units. 
+Table 4: Affordable Components 
+Plan Component 
+Affordable Units 
+577 Godwin Avenue 
+1 
+Nouvelle, LLC 
+5 
+90 Midland Ave Redevelopment Area 
+5 
+Block 22 Site Overlay Site 
+4 
+Total 
+15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 9 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 10 =====
+ 
+~ 4 ~ 
+Accordingly, the remainder of the 2025 Housing Element and Fair Share Plan is divided 
+into the following sections: 
+❖ Section 1: Introduction 
+The first section of the 2025 HE&FSP provides an introduction to affordable 
+housing. It summarizes what affordable housing is, offers an overview of the 
+history of affordable housing in the state, and explains the role of a housing 
+element and fair share plan. 
+❖ Section 2: Housing Element 
+Section 2 contains the Housing Element for the Borough of Midland Park. It offers 
+community overview of the Borough, as well as background information 
+regarding its population, housing, and employment characteristics. It also 
+provides projections of the Borough’s housing stock and employment.   
+❖ Section 3: Fair Share Obligation 
+Next, Section 3 provides an overview of the Borough’s fair share obligation. It 
+includes a brief history of the methodologies utilized to calculate affordable 
+housing obligations throughout the state. 
+❖ Section 4: Fair Share Plan 
+Finally, Section 4 details the manner in which the Borough has addressed its Prior 
+Round and Third Round Obligation as well as how it will address its Fourth Round 
+Obligation.  
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 10 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 11 =====
+ 
+~ 5 ~ 
+Section 1: Introduction 
+The following section provides an introduction to affordable housing. It summarizes what 
+affordable housing is, offers an overview of the history of affordable housing in the state, 
+and explains the role of a housing element and fair share plan. 
+1.1: What is Affordable Housing? 
+Affordable housing is income-restricted housing that is available for sale or for rent. 
+Typically, affordable housing is restricted to very-low, low-, and moderate-income 
+households. These categories are derived from median regional income limits established 
+for the state. New Jersey is delineated into six different affordable housing regions. 
+Midland Park is located in Region 1 which includes Bergen, Hudson, Passaic, and Sussex 
+Counties.  
+Moderate-Income 
+Households 
+Earn 80% of the region’s 
+median income 
+Low-Income Households 
+Earn 50% of the region’s 
+median income 
+Very Low-Income 
+Households 
+Earn 30% of the region’s 
+median income 
+Regional income limitations are updated every year, with different categories established 
+for varying household sizes. Table 5 identifies the 2024 regional income limits by 
+household size for Region 1. As shown, a three-person family with a total household 
+income of no greater than $86,697 could qualify for affordable housing in the Borough’s 
+region. 
+Table 5: 2024 Affordable Housing Region 1 Income Limits by Household Size 
+Income Level 
+2 Person 
+3 Person 
+4 Person 
+5 Person 
+Median 
+$96,329 
+$108,371 
+$120,412 
+$130,045 
+Moderate 
+$77,064 
+$86,697 
+$96,329 
+$104,036 
+Low 
+$48,165 
+$54,185 
+$60,206 
+$65,022 
+Very-Low 
+$28,899 
+$32,511 
+$37,568 
+$39,013 
+One of the most common forms of affordable housing is inclusionary development, in 
+which a certain percentage of units within a multifamily development are reserved for 
+affordable housing. Affordable housing can be found in a variety of other forms, 
+including but not limited to: one hundred percent affordable housing developments, 
+deed-restricted accessory apartments, assisted living facilities, alternative arrangements 
+such as supportive housing or group homes, and age restricted housing. 
+ 
+80%
+50%
+30%
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 11 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 12 =====
+ 
+~ 6 ~ 
+1.2: What is the History of Affordable Housing in New Jersey? 
+The history of affordable housing in New Jersey can 
+be traced back to 1975, when the Supreme Court 
+first decided in So. Burlington Cty. NAACP v. 
+Township of Mount Laurel (known as Mount Laurel 
+I) that every developing municipality throughout 
+New Jersey had an affirmative obligation to provide 
+for its fair share of affordable housing. In a 
+subsequent decision in 1983 (known as Mount 
+Laurel II), the Court acknowledged that the vast 
+majority of municipalities had ignored their 
+constitutional obligation to provide affordable 
+housing.  
+Accordingly, the Court refined this obligation to 
+establish that every municipality had an obligation, 
+although those within the growth area of the State 
+Development and Redevelopment Plan (SDRP) had 
+a greater obligation. The Court also called for the 
+state legislature to enact legislation that would save 
+municipalities from the burden of having the courts 
+determine their affordable housing needs. The 
+result of this decision was the adoption of the Fair 
+Housing Act in 1985 as well as the creation of the 
+New Jersey Council on Affordable Housing (COAH), 
+which became the state agency responsible for 
+overseeing the manner in which New Jersey’s 
+municipalities address their low and moderate 
+income housing needs. 
+COAH proceeded to adopt regulations for the First 
+Round obligation, which covered the years 1987 to 
+1993. It also established the Second Round 
+housing-need numbers that cumulatively covered 
+the years 1987 through 1999. Under both the First 
+and Second Rounds, COAH utilized what is 
+commonly referred to as the “Fair Share” 
+methodology. 
+COAH utilized a different methodology, known as 
+“Growth Share,” beginning with its efforts to 
+prepare Third Round housing-need numbers. The 
+Third Round substantive and procedural rules were 
+adopted in 2004.  
+ 
+ 
+2015: Mount Laurel IV
+COAH defunct and moribund. All 
+affordable housing matters to be heard 
+by courts
+1986: Mount Laurel III
+Every municipality has an obligation if 
+any portion of municipality was within 
+the “Growth Share Area” of the State 
+Development and Redevelopment Plan
+1983: Mount Laurel II
+Every municipality has an obligation if 
+any portion of municipality was within 
+the “Growth Share Area” of the State 
+Development and Redevelopment Plan
+1975: Mount Laurel I
+Every developing municipality has an 
+affordable housing obligation
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 12 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 13 =====
+ 
+~ 7 ~ 
+However, these regulations were challenged and in 
+January 2007, the Appellate Division invalidated 
+various aspects of them and remanded considerable 
+portions of the rules to COAH with the directive to 
+adopt revised regulations. 
+In May 2008, COAH adopted revised Third Round 
+regulations which were published and became 
+effective on June 2, 2008. Coincident to this 
+adoption, COAH proposed amendments to the rules 
+they had just adopted, which subsequently went 
+into effect in October 2008. These 2008 rules and 
+regulations were subsequently challenged again, 
+and in an October 2010 decision the Appellate 
+Division invalidated the Growth Share methodology 
+and also indicated that COAH should adopt 
+regulations pursuant to the Fair Share methodology 
+utilized in Rounds One and Two. The Supreme Court 
+affirmed this decision in September 2013, which 
+invalidated much of the third iteration of the Third 
+Round regulations and sustained the invalidation of 
+Growth Share. As a result, the Court directed COAH 
+to adopt new regulations pursuant to the 
+methodology utilized in Rounds One and Two. 
+Deadlocked with a 3-3 vote, COAH failed to adopt 
+revised Third Round regulations in October 2014. 
+Fair Share Housing Center (FSHC), who was a party 
+in both the 2010 and 2013 cases, responded by 
+filing a motion in aid of litigants’ rights with the 
+New Jersey Supreme Court. The Court heard the 
+motion in January 2015 and issued its ruling on 
+March 20, 2015. The Court ruled that COAH was 
+effectively dysfunctional, and consequently returned jurisdiction of affordable housing 
+issues back to the trial courts where it had originally been prior to the creation of COAH 
+in 1985. 
+This 2015 Court decision created a process in which municipalities may file a declaratory 
+judgment action seeking a declaration that their HE&FSP is constitutionally compliant 
+and receive temporary immunity from affordable housing builders’ remedy lawsuits while 
+preparing a new or revised HE&FSP to ensure their plan continues to affirmatively 
+address their local housing need as may be adjusted by new housing-need numbers 
+promulgated by the court or COAH 
+ 
+2024: A-4/S-50
+New Jersey adopts new legslation which 
+overhauls the FHA. COAH is elimianted, 
+and its duties are split between the DCA 
+and the AOC. 
+2018: Jacobson Decision
+Established methodology in Mercer 
+County for determining housing 
+obligation. Being utilized outside of 
+Mercer County for settlement purposes
+2017: Gap Period
+Finds that gap period (1999-2015) 
+generates an affordable housing 
+obligation
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 13 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 14 =====
+ 
+~ 8 ~ 
+Subsequently, the Supreme Court ruled on January 18, 2017 that municipalities are also 
+responsible for obligations accruing during the so-called “gap period,” the period of time 
+between 1999 and 2015. However, the Court stated that the gap obligation should be 
+calculated as a never-before calculated component of Present Need, which would serve 
+to capture Gap Period households that were presently in need of affordable housing as of 
+the date of the Present Need calculation (i.e. that were still income eligible, were not 
+captured as part of traditional present need, were still living in New Jersey and otherwise 
+represented a Present affordable housing need). 
+On March 20, 2024, the State of New Jersey adopted a package of affordable housing 
+bills which overhauled the Fair Housing Act. This legislation ultimately eliminated COAH 
+and split its duties and functions between the Department of Community Affairs (DCA) 
+and the Administrative Office of the Courts (AOC). 
+The DCA was designated by the legislation as the entity responsible for calculating the 
+state’s regional needs as well as each municipality’s present and prospective fair share 
+obligations pursuant to the Jacobson Decision. However, the legislation makes clear that 
+these numbers are advisory and that each municipality must set its own obligation 
+number utilizing the same methodology. Meanwhile, the Affordable Housing Dispute 
+Resolution Program (the “Program”) within the AOC is tasked to handle any disputes 
+regarding affordable housing obligations and plans. 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 14 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 15 =====
+ 
+~ 9 ~ 
+1.3: What is a Housing Element and Fair Share Plan? 
+A Housing Element and Fair Share Plan (HE&FSP) serves as the blueprint for how a 
+municipality will address its fair share of affordable housing. It is designed to help a 
+community broaden the accessibility of affordable housing.  
+While technically a discretionary component of a 
+municipal master plan, a HE&FSP is nevertheless an 
+effectively obligatory plan element. As established 
+by NJSA 40:55D-62.a of the Municipal Land Use 
+Law (MLUL), a municipality must have an adopted 
+HE&FSP in order to enact its zoning ordinance. 
+Thus, from a public policy perspective, a HE&FSP is 
+an essential community document. Moreover, 
+without a HE&FSP, a municipality may be susceptible to a builder’s remedy lawsuit in 
+which a developer could file suit to have a specific piece of property rezoned to permit 
+housing at higher densities than a municipality would otherwise allow, provided a certain 
+percentage of units are reserved as affordable. 
+The Fair Housing Act (FHA), which was adopted in 1985 and has been amended multiple 
+times since then, establishes the required components of a HE&FSP. These are 
+summarized as follows: 
+1. An inventory of the municipality’s housing stock by age, condition, purchase or 
+rental value, occupancy characteristics, and type, including the number of units 
+affordable to low- and moderate-income households and substandard housing 
+capable of being rehabilitated; 
+2. A projection of the municipality’s housing stock, including the probable future 
+construction of low- and moderate-income housing, for the next ten years, taking 
+into account, but not necessarily limited to, construction permits issued, 
+approvals of applications for development and probable residential development 
+of lands; 
+3. An analysis of the municipality’s demographic characteristics, including but not 
+necessarily limited to, household size, income level and age; 
+4. An analysis of the existing and probable future employment characteristics of the 
+municipality; 
+5. A determination of the municipality’s present and prospective fair share for low- 
+and moderate-income housing and its capacity to accommodate its present and 
+prospective housing needs, including its fair share for low- and moderate-income 
+housing; 
+6. A consideration of the lands that are most appropriate for construction of low- 
+and moderate-income housing and the existing structures most appropriate for 
+conversion to, or rehabilitation for, low- and moderate-income housing, including 
+a consideration of lands of developers who have expressed a commitment to 
+provide low- and moderate-income housing; 
+The Municipal Land Use Law 
+(MLUL) is the enabling 
+legislation for municipal land 
+use and development, planning, 
+and zoning for the State of New 
+Jersey.  
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 15 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 16 =====
+ 
+~ 10 ~ 
+7. An analysis of the extent to which municipal ordinances and other local factors 
+advance or detract from the goal of preserving multigenerational family 
+continuity as expressed in the recommendations of the Multigenerational Family 
+Housing Continuity Commission; 
+8. For a municipality located within the jurisdiction of the Highlands Water 
+Protection and Planning Council, an analysis of compliance of the housing 
+element with the Highlands Regional Master Plan of lands in the Highlands 
+Preservation Area, and lands in the Highlands Planning Area for Highlands 
+conforming municipalities; 
+9. An analysis of consistency with the State Development and Redevelopment Plan, 
+including water, wastewater, stormwater, and multi-modal transportation based 
+on guidance and technical assistance from the State Planning Commission. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 16 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 17 =====
+ 
+~ 11 ~ 
+Section 2: Housing Element 
+The following section provides the Housing Element for the Borough of Midland Park. It 
+offers a community overview of the Borough, as well as background information 
+regarding its population, housing, and employment characteristics. It also provides 
+projections of the Borough’s housing stock and its employment. 
+ 
+1. United States Decennial 
+Census 
+The US Census is described in Article I, Section 2 
+of the Constitution of the United States, which 
+calls for an enumeration of the people every ten 
+years for the apportionment of seats in the 
+House of Representatives. Since the time of the 
+first Census conducted in 1790, it has become 
+the leading source of data about the nation’s 
+people and economy. Please note that all 
+incomes reported in the Census are adjusted for 
+inflation. 
+4. New Jersey Department of 
+Community Affairs (DCA) 
+The New Jersey Department of Community 
+Affairs is a governmental agency of the State 
+of New Jersey. Its function is to provide 
+administrative guidance, financial support, 
+and technical assistance to local 
+governments, community development 
+organizations, businesses, and individuals to 
+improve the quality of life in New Jersey. 
+ 
+2. American Community Survey 
+(ACS) 
+The American Community Survey is a 
+nationwide ongoing survey conducted by the 
+US Census Bureau. The ACS gathers information 
+previously contained only in the long form 
+version of the decennial census, such as age, 
+ancestry, educational attainment, income, 
+language proficiency, migration, disability, 
+employment, and housing characteristics. It 
+relies upon random sampling to provide 
+ongoing, monthly data collection. Please note 
+that all incomes reported in the ACS are 
+adjusted for inflation. 
+5. New Jersey Department of Labor 
+and Workforce Development 
+The New Jersey Department of Labor and 
+Workforce Development is a governmental 
+agency of the State of New Jersey. One of its 
+roles is to collect labor market information 
+regarding employment and wages 
+throughout the state.  
+ 
+3. New Jersey Department of Health 
+The New Jersey Department of Health is a 
+governmental agency of the State of New 
+Jersey. The department contains the Office of 
+Vital Statistics and Registry, which gathers data 
+regarding births, deaths, marriages, domestic 
+partnerships, and civil unions. 
+ 
+ 
+Information Regarding Data Sources 
+The information contained in Section 2.2 entitled “Demographic and Population Data,” 
+Section 2.3 entitled “Inventory of Housing Stock,” and Section 2.4 entitled “Housing and 
+Employment Projections” was obtained from a variety of publicly available data sources. 
+These are summarized below: 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 17 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 18 =====
+ 
+~ 12 ~ 
+2.1: Community Overview 
+The Borough of Midland Park is located in the northwesterly portion of Bergen County. It 
+is bounded by three (3) municipalities, including: the Borough of Waldwick to the north; 
+the Village of Ridgewood to the east; and the Township of Wyckoff to the south and to 
+the west. 
+The Borough has a land area of approximately 1.56 square miles, making it the fourteenth 
+smallest municipality in Bergen County. As summarized in Table 6, the Borough is 
+essentially a fully developed community with very little vacant land remaining for 
+development. 
+The majority of the Borough is primarily characterized by residential development. One- 
+and two-family dwellings and multifamily properties account for approximately 71.9% 
+and 1.3% of the Borough’s total parcel acreage, respectively. Conversely, commercial and 
+light industrial uses respectively account for approximately 9.7% and 3.8% of the 
+Borough’s parcel acreage. Public properties, quasi-public properties, and houses of 
+worship comprise an additional 7.8% of the Borough’s parcel acreage. In comparison, 
+vacant properties comprise only 0.5% of the Borough. 
+Table 6: Existing Land Uses 
+Land Use 
+Properties 
+% Properties 
+Acreage 
+% Acreage 
+Residential: Single Family 
+2,142 
+89.6% 
+609.9 
+71.9% 
+Residential: Multifamily 
+8 
+0.3% 
+11.2 
+1.3% 
+Residential: Age Restricted 
+1 
+0.0% 
+6.9 
+0.8% 
+Commercial 
+129 
+5.4% 
+82.4 
+9.7% 
+Light Industrial 
+36 
+1.5% 
+32.1 
+3.8% 
+Public Property 
+16 
+0.7% 
+25.3 
+3.0% 
+Quasi-Public Property 
+18 
+0.8% 
+23.3 
+2.8% 
+Public School Property 
+6 
+0.3% 
+35.8 
+4.2% 
+House of Worship 
+12 
+0.5% 
+7.3 
+0.8% 
+Rail Line 
+3 
+0.1% 
+10.1 
+1.2% 
+Vacant 
+20 
+0.8% 
+4.3 
+0.5% 
+Total 
+2,391 
+100.0% 
+849 
+100.0% 
+Source: ArcGIS Calculations 
+Regional access to the Borough is provided by several county and state roadways. 
+Godwin Avenue, Goffle Road, Lake Avenue, and Glen Avenue are county roadways which 
+provide access to the surrounding area. Linkages to the state’s regional highway network 
+are also provided by Route 17 and the Garden State Parkway in the Borough of Paramus 
+to the east, Route 80 in the Township of Saddle Brook to the south, and Route 208 to the 
+west which offers connectivity to Interstate 287 to the north. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 18 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 19 =====
+Godwin Ave
+Erie Ave
+Prospect St
+Hill St
+Glen Ave
+Spruce St
+Bank St
+Vreeland Ave
+Paterson Ave
+Greenwood Ave
+Park Ave
+Franklin Ave
+Irving St
+Payne Ave
+Birch St
+Pine St
+E Center St
+Sicomac Ave
+Dairy St
+Chestnut St
+Highland Ave
+Rea Ave
+Hillside Ave
+Cottage St
+Lake Ave
+West St
+Colonial Rd
+Witte Dr
+Maltbie Ave
+Cedar St
+5th St
+Goffle Rd
+Oakhill Rd
+Highwood Ave
+Post St
+Woodside Ave
+Madison Ave
+Zimmer Ave
+Center St
+Donna Ln
+Cross Ave
+Fairhaven Dr
+Floral Ln
+Meda Pl
+Susan Ave
+Orchard St
+Millington Dr
+1st St
+Hampshire Rd
+Chamberlain Pl
+Linwood Ave
+Aqueduct Ave
+Sunset Ave
+Van Blarcom Ave
+Smith Ln
+3rd St
+W Summit Ave
+Baldin Dr
+4th St
+Westbrook Ave
+Rubble St
+Faner Rd
+Busteed Dr
+Heights Rd
+E Payne Ave
+S Rea Ave
+Crest Dr
+Monroe St
+Brandon Rd
+Central Ave
+Plane St
+Mulder Ln
+Brautigam Ln
+Meadow Ct
+College Rd
+Coombs Ln
+Pleasant Ave
+Maple Ave
+Miedama Pl
+Foster Ct
+Smith Pl
+Park Ave
+B U R G I S ASSOCIATES, INC. 
+25 Westwood Avenue               
+Westwood, New Jersey 07675   
+ p: 201.666.1811
+f:  201.666.2599
+COMMUNITY PLANNING | LAND DEVELOPMENT AND DESIGN | LANDSCAPE ARCHITECTURE 
+Project Title
+Housing Element and Fair Share Plan
+Borough of Midland Park | Bergen County, New Jersey
+Dwg. Title
+Map 1: Community Overview
+Project No.
+Date
+Drawn
+4150.01
+01.23.25
+DN
+Dwg. No.:
+Scale:
+map 1
+°
+Legend
+Municipal Boundary
+Parcels
+1 " = 1,500 '
+Township of
+Wyckoff
+Borough of
+Waldwick
+Village of
+Ridgewood
+Source 1: Boundary data from NJDEP.
+Source 2 Parcel data from NJGIN Open Data, Bergen County,
+Source 3: Street data from NJGIN Open Data.
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 19 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 20 =====
+Godwin Ave
+Erie Ave
+Prospect St
+Hill St
+Glen Ave
+Spruce St
+Bank St
+Vreeland Ave
+Paterson Ave
+Greenwood Ave
+Park Ave
+Franklin Ave
+Irving St
+Payne Ave
+Birch St
+Pine St
+E Center St
+Sicomac Ave
+Dairy St
+Chestnut St
+Highland Ave
+Rea Ave
+Hillside Ave
+Cottage St
+Lake Ave
+West St
+Colonial Rd
+Witte Dr
+Maltbie Ave
+Cedar St
+5th St
+Goffle Rd
+Oakhill Rd
+Highwood Ave
+Post St
+Woodside Ave
+Madison Ave
+Zimmer Ave
+Center St
+Donna Ln
+Cross Ave
+Fairhaven Dr
+Floral Ln
+Meda Pl
+Susan Ave
+Orchard St
+Millington Dr
+1st St
+Hampshire Rd
+Chamberlain Pl
+Linwood Ave
+Aqueduct Ave
+Sunset Ave
+Van Blarcom Ave
+Smith Ln
+3rd St
+W Summit Ave
+Baldin Dr
+4th St
+Westbrook Ave
+Rubble St
+Faner Rd
+Busteed Dr
+Heights Rd
+E Payne Ave
+S Rea Ave
+Crest Dr
+Monroe St
+Brandon Rd
+Central Ave
+Plane St
+Mulder Ln
+Brautigam Ln
+Meadow Ct
+College Rd
+Coombs Ln
+Pleasant Ave
+Maple Ave
+Miedama Pl
+Foster Ct
+Smith Pl
+Park Ave
+B U R G I S ASSOCIATES, INC. 
+25 Westwood Avenue               
+Westwood, New Jersey 07675   
+ p: 201.666.1811
+f:  201.666.2599
+COMMUNITY PLANNING | LAND DEVELOPMENT AND DESIGN | LANDSCAPE ARCHITECTURE 
+Project Title
+Housing Element and Fair Share Plan
+Borough of Midland Park | Bergen County, New Jersey
+Dwg. Title
+Map 2: Existing Land Use
+Project No.
+Date
+Drawn
+4150.01
+01.23.25
+DN
+Dwg. No.:
+Scale:
+map 2
+°
+Legend
+Municipal Boundary
+Parcels
+1 " = 1,500 '
+Township of
+Wyckoff
+Borough of
+Waldwick
+Village of
+Ridgewood
+Existing Land Use
+Residential: One- and Two-Family
+Residential: Multifamily
+Residential: Age Restricted
+Commercial
+Light Industrial
+Public Property
+Quasi-Public
+Public School Property
+House of Worship
+Rail Line
+Vacant
+Source 1: Boundary data from NJDEP.
+Source 2 Parcel data from NJGIN Open Data, Bergen County,
+Source 3: Street data from NJGIN Open Data.
+Source 4: Existing land use data based on Mod IV tax records, with
+                edits made by Burgis Associates, Inc.
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 20 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 21 =====
+ 
+~ 15 ~ 
+2.2: Demographic and Population Data 
+Analyzing demographic and population data is a necessary and integral step in planning 
+for the future needs of a community. As such, the following section outlines the 
+demographic changes experienced by the Borough of Midland Park over the past several 
+decades. 
+Population Changes 
+The Borough experienced a rapid level of growth between 1900 and 1970, wherein its 
+population increased approximately 505% from 1,348 people in 1900 to 8,159 people in 
+1970. However, this trend reversed after 1970 as the Borough began to experience 
+consistent decreases in its population. Between 1970 and 2000, the Borough’s population 
+decreased approximately 14%. Since that time, the population of Midland Park has 
+fluctuated between a low of 6,947 people and a high of 7,128 people. As indicated by the 
+ACS, the Borough’s estimated 2023 population was 6,996 people. 
+Table 7: Population Growth, 1900-2023 
+Year 
+Population 
+Population Change 
+Percent Change 
+1900 
+1,348 
+-- 
+-- 
+1910 
+2,001 
+653 
+48.4% 
+1920 
+2,243 
+242 
+12.1% 
+1930 
+3,638 
+1,395 
+62.2% 
+1940 
+4,525 
+887 
+24.4% 
+1950 
+5,164 
+639 
+14.1% 
+1960 
+7,543 
+2,379 
+46.1% 
+1970 
+8,159 
+616 
+8.2% 
+1980 
+7,381 
+-778 
+-9.5% 
+1990 
+7,047 
+-334 
+-4.5% 
+2000 
+6,947 
+-100 
+-1.4% 
+2010 
+7,128 
+181 
+2.6% 
+2020 
+7,014 
+-114 
+-1.6% 
+2023 
+6,996 
+-18 
+-0.3% 
+Source: US Census Bureau; 2023 American Community Survey Five-Year Estimate 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 21 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 22 =====
+ 
+~ 16 ~ 
+Age Characteristics 
+Overall, the median age of Midland Park residents is estimated to have increased from 
+38.8 years in 2000 to 42.7 years in 2023. The Borough’s aging population is particularly 
+evident when analyzing those residents aged 65 and over. In 2000, it was estimated that 
+approximately 14.6% of the Borough’s population was aged 65 and over. By 2023, this 
+percentage is estimated to have increased to 21.9%. The total number of residents within 
+this age cohort is also estimated to have increased 50.8% during that time period. 
+Meanwhile, the percentage of the Borough’s population aged 19 years and younger 
+decreased between 2000 and 2023. In 2000, it was estimated that 26.2% of the 
+population was 19 years or younger. By 2023, this percentage is estimated to have 
+decreased to 22.2%. Furthermore, the total number of residents within this age cohort 
+decreased by approximately 14.7% during that time period. 
+Table 8:  Age Characteristics, 2000-2023 
+2000 
+2010 
+2023 
+Age Group 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Under 5 
+508 
+7.3% 
+401 
+5.6% 
+438 
+6.3% 
+5-9 
+484 
+7.0% 
+502 
+7.0% 
+354 
+5.1% 
+10-14 
+469 
+6.8% 
+526 
+7.4% 
+299 
+4.3% 
+15-19 
+359 
+5.2% 
+424 
+6.0% 
+461 
+6.6% 
+20-24 
+271 
+3.9% 
+274 
+3.9% 
+330 
+4.7% 
+25-29 
+353 
+5.1% 
+330 
+4.6% 
+327 
+4.7% 
+30-34 
+558 
+8.0% 
+376 
+5.3% 
+468 
+6.7% 
+35-39 
+640 
+9.2% 
+445 
+6.2% 
+532 
+7.6% 
+40-44 
+627 
+9.0% 
+625 
+8.8% 
+438 
+6.2% 
+45-49 
+524 
+7.5% 
+615 
+8.6% 
+308 
+4.4% 
+50-54 
+513 
+7.4% 
+572 
+8.0% 
+521 
+7.4% 
+55-59 
+358 
+5.2% 
+478 
+6.7% 
+459 
+6.6% 
+60-64 
+268 
+3.9% 
+418 
+5.9% 
+530 
+7.6% 
+65-69 
+262 
+3.8% 
+276 
+3.9% 
+433 
+6.2% 
+70-74 
+274 
+3.9% 
+217 
+3.0% 
+171 
+2.4% 
+75-79 
+218 
+3.1% 
+220 
+3.1% 
+260 
+3.7% 
+80-84 
+150 
+2.1% 
+200 
+2.8% 
+146 
+2.1% 
+85 and older 
+111 
+1.6% 
+229 
+3.2% 
+521 
+7.4% 
+Total 
+6,947 
+7,128 
+6,996 
+Median Age (years) 
+38.8 
+42.3 
+42.7 
+Source: US Census Bureau; 2023 American Community Survey Five-Year Estimate 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 22 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 23 =====
+ 
+~ 17 ~ 
+Household Tenure and Occupancy 
+Historically, the majority of the Borough’s housing stock has been owner-occupied. 
+Nevertheless, both the number and percentage of renter-occupied units has increased 
+over the past several years. In 1990, an estimated 671 units (26.5%) of all units were 
+renter-occupied units. By 2023, this has increased to an estimated 915 units (30.5%). 
+Figure 1: Owner-Occupied and Renter-Occupied Units, 1990-2023 
+ 
+Source: US Census Bureau; 2023 American Community Survey Five-Year Estimate 
+Average Household Size 
+The Borough’s average household size has generally decreased since 1990. As per the 
+2023 ACS, it is estimated that the average household size in the Borough was 2.32 people 
+per unit.  
+Figure 2: Household Sizes, 1990-2023 
+ 
+Source: US Census Bureau; 2023 American Community Survey Five-Year Estimate 
+ 
+1,860
+1,984
+1,941
+2,086
+671
+629
+815
+915
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+1990
+2000
+2010
+2023
+Owner-Occupied
+Renter-Occupied
+2.78
+2.65
+2.68
+2.32
+2
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+1990
+2000
+2010
+2023
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 23 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 24 =====
+ 
+~ 18 ~ 
+Household Income 
+Household incomes have increased throughout the Borough since 1999. This is 
+particularly evident within upper-tier incomes. In 1999, those households making more 
+than $150,000 comprised approximately 10.9% of the Borough. By 2023, this percentage 
+is estimated to have increased to 45.3%. 
+Overall, the Borough’s median household income has historically been higher than 
+median household incomes recorded by both Bergen County and the State of New Jersey 
+as a whole. In addition, the Borough’s estimated median household income increased 
+approximately 86.2% between 1999 and 2023, which represents a slightly higher rate than 
+that experienced by the County as a whole (78.9%). 
+Pursuant to the ACS, an estimated 1.5% of the Borough’s population reported an income 
+below the federal poverty line in 2023. This is below the County’s estimated rate of 6.6%. 
+Table 9: Household Incomes, 1999-2023 
+1999 
+2010 
+2023 
+Income Level 
+Households 
+Percent 
+Households 
+Percent 
+Households 
+Percent 
+Less than $10,000 
+61 
+2.3% 
+163 
+6.1% 
+52 
+1.8% 
+$10,000 to $14,999 
+57 
+2.2% 
+58 
+2.2% 
+0 
+0.0% 
+$15,000 to $24,999 
+189 
+7.2% 
+58 
+2.2% 
+61 
+2.0% 
+$25,000 to $34,999 
+198 
+7.5% 
+129 
+4.8% 
+113 
+3.8% 
+$35,000 to $49,999 
+302 
+11.5% 
+287 
+10.8% 
+150 
+5.0% 
+$50,000 to $74,999 
+459 
+17.4% 
+422 
+15.9% 
+451 
+15.0% 
+$75,000 to $99,999 
+579 
+22.0% 
+402 
+15.1% 
+424 
+14.1% 
+$100,000 to $149,999 
+499 
+19.0% 
+589 
+22.2% 
+399 
+13.3% 
+$150,000 to $199,999 
+147 
+5.6% 
+296 
+11.1% 
+420 
+14.0% 
+$200,000 or more 
+139 
+5.3% 
+255 
+9.6% 
+931 
+31.0% 
+Total 
+2,630 
+100.0% 
+2,659 
+100.0% 
+3,001 
+100.0% 
+Median Income 
+$75,238 
+$87,905 
+$140,063  
+Bergen County 
+$65,241 
+$81,708 
+$116,709  
+Source: US Census Bureau; 2010 and 2023 American Community Survey 5-Year Estimates. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 24 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 25 =====
+ 
+~ 19 ~ 
+2.3: Inventory of Housing Stock 
+The following section provides an overview of the Borough’s housing stock. It inventories 
+several housing characteristics such as age, condition, purchase/rental value, and 
+occupancy. 
+Number of Dwelling Units 
+Since 1990, the Borough’s housing stock has experienced an estimated increase of 
+approximately 19.0%. As of 2023, there are an estimated 3,112 housing units in the 
+Borough.  
+Figure 3: Housing Units, 1990-2023 
+ 
+Source: US Census Bureau, 2023 ACS Five-Year Estimate 
+ 
+ 
+2,615
+2,650
+2,861
+3,112
+2,300
+2,400
+2,500
+2,600
+2,700
+2,800
+2,900
+3,000
+3,100
+3,200
+1990
+2000
+2010
+2023
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 25 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 26 =====
+ 
+~ 20 ~ 
+Units in Structure for Occupied Units 
+Information regarding the number of dwelling units in different types of housing 
+structures provides insights into the types of housing which exists throughout the 
+Borough. Thus, the following table summarizes the unit-composition of the Borough’s 
+structures since 2000. 
+The Borough’s housing stock has historically been comprised of single-family detached 
+and attached dwellings. However, between 2000 and 2023, the percentage of the 
+Borough’s housing stock of which these dwellings comprise is estimated to have 
+decreased from 74.2% to 67.2%. Those buildings with twenty or more units represent the 
+second largest housing category at 12.2%. Since 2000, it is estimated that this category of 
+housing has experienced an increase of approximately 141.1%. 
+ Table 10: Units in Structure, 2000-2023 
+2000 
+2010 
+2023 
+Units in Structure 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Single Family, Detached 
+1,949 
+73.5% 
+1,862 
+70.0% 
+2,090 
+67.2% 
+Single Family, Attached 
+18 
+0.7% 
+63 
+2.4% 
+94 
+3.0% 
+2 Units 
+395 
+14.9% 
+269 
+10.1% 
+247 
+7.9% 
+3 to 4 Units 
+76 
+2.9% 
+14 
+0.6% 
+273 
+8.8% 
+5 to 9 Units 
+0 
+0.0% 
+16 
+0.6% 
+0 
+0.0% 
+10 to 19 Units 
+54 
+2.0% 
+57 
+2.1% 
+27 
+0.9% 
+20 or More 
+158 
+6.0% 
+378 
+14.2% 
+381 
+12.2% 
+Other 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+Total 
+2,650 
+100.0% 
+2,659 
+100.0% 
+3,112 
+100.0% 
+Source: US Census Bureau; 2010 and 2023 American Community Survey Five-Year Estimates. 
+Purchase and Rental Value of Housing Units 
+The following two tables identify purchase values and rental values for the specified 
+owner-occupied and renter-occupied units in Midland Park. 
+As shown in Table 11, the purchase values of the Borough’s owner-occupied housing 
+stock have typically exceeded those of the State of New Jersey and have been somewhat 
+commensurate to those of Bergen County. Over the past twenty-three years, the median 
+value of the Borough’s owner-occupied housing stock is estimated to have increased 
+approximately 128.5%, from $256,500 in 2000 to $586,200 in 2023. This represents a 
+lower percentage increase than that of the County (145.8%) and the State (169.9%). 
+Until recently, the median contract rental value in the Borough has been higher than both 
+Bergen County and the State of New Jersey. However, the 2023 ACS estimates that the 
+median contract rent for the County has now surpassed that of the Borough’s. Over the 
+past twenty-three years, the Borough’s median gross rent increased approximately 65.7%. 
+This represents a lower percentage increase than that experienced by the County (99.9%) 
+and the State (99.8%). 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 26 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 27 =====
+ 
+~ 21 ~ 
+Table 11: Value of Owner-Occupied Units, 2000-2023 
+ 
+2000 
+2010 
+2023 
+Value Range 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Less than $50,000 
+0 
+0.0% 
+14 
+0.7% 
+24 
+1.1% 
+$50,000 to $99,999 
+0 
+0.0% 
+16 
+0.8% 
+0 
+0.0% 
+$100,000 to $149,999 
+47 
+2.6% 
+0 
+0.0% 
+0 
+0.0% 
+$150,000 to $199,999 
+313 
+17.5% 
+14 
+0.7% 
+0 
+0.0% 
+$200,000 to $299,999 
+899 
+50.3% 
+108 
+5.5% 
+72 
+3.5% 
+$300,000 to $499,999 
+500 
+28.0% 
+936 
+47.8% 
+566 
+27.2% 
+$500,000 to $999,999 
+29 
+1.6% 
+849 
+43.4% 
+1398 
+67.2% 
+$1,000,000 or More 
+0 
+0.0% 
+22 
+1.1% 
+21 
+1.0% 
+Total 
+1,788 
+100.0% 
+1,959 
+100.0% 
+2,081 
+100.0% 
+Borough Median Value 
+$256,500 
+$484,100 
+  
+$586,200  
+Bergen County Median Value 
+$250,300 
+$482,300 
+  
+$615,300  
+New Jersey Median Value 
+$170,800 
+ 
+$357,000 
+  
+$461,000  
+Source: US Census Bureau; 2010 and 2023 American Community Survey Five-Year Estimates. 
+Table 12: Specified Renter Occupied Housing Units by Rent, 2000-2023 
+ 
+2000 
+2010 
+2023 
+Value Range 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Less than $200 
+14 
+2.2% 
+0 
+0.0% 
+0 
+0.0% 
+$200 to $299 
+12 
+1.9% 
+0 
+0.0% 
+0 
+0.0% 
+$300 to $499 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+$500 to $749 
+81 
+12.9% 
+0 
+0.0% 
+0 
+0.0% 
+$750 to $999 
+170 
+27.0% 
+90 
+12.9% 
+0 
+0.0% 
+$1,000 to $1,499 
+269 
+42.7% 
+230 
+32.9% 
+259 
+28.3% 
+$1,500 to $1,999 
+63 
+10.0% 
+234 
+33.4% 
+431 
+47.1% 
+$2,000 or more 
+0 
+0.0% 
+88 
+12.6% 
+225 
+24.6% 
+No Cash Rent 
+21 
+3.3% 
+58 
+8.3% 
+0 
+0.0% 
+Total 
+630 
+100.0% 
+700 
+100.0% 
+915 
+100.0% 
+Borough Median Value 
+$1,044  
+$1,502  
+$1,730  
+Bergen County Median Value 
+$872  
+$1,236  
+$1,743  
+New Jersey Median Value 
+$751  
+$1,092  
+$1,498  
+Source: US Census Bureau; 2010 and 2023 American Community Survey Five-Year Estimates. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 27 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 28 =====
+ 
+~ 22 ~ 
+Year Structure Built 
+The following figure identifies the years in which the Borough’s structures were built. As 
+shown, the Borough has an older housing stock with nearly three-quarters (72.0%) of all 
+dwellings constructed prior to 1960. Conversely, only 14.5% of the Borough’s housing 
+stock is estimated to have been constructed after 2000. 
+Figure 4: Year Structure Built 
+ 
+Source: 2023 American Community Survey Five-Year Estimates. 
+ 
+ 
+ 
+ 
+ 
+0
+11
+443
+127
+75
+88
+232
+887
+388
+861
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1,000
+Built 2020 or later
+Built 2010 to 2019
+Built 2000 to 2009
+Built 1990 to 1999
+Built 1980 to 1989
+Built 1970 to 1979
+Built 1960 to 1969
+Built 1950 to 1959
+Built 1940 to 1949
+Built 1939 or earlier
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 28 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 29 =====
+ 
+~ 23 ~ 
+Deficient Housing Units 
+Neither the Census nor the ACS classify housing units as deficient. However, the Fair 
+Housing Act defines a “deficient housing unit” as housing which: is over fifty years old 
+and overcrowded; lacks complete plumbing, or; lacks complete kitchen facilities.  
+Accordingly, the following tables are intended to provide insights into the extent to which 
+the Borough has deficient housing units. Table 13 examines the extent to which there is 
+overcrowding in the Borough’s housing stock. Overcrowding is typically associated with 
+housing units with more than one occupant per room. As shown, the estimated number 
+of occupied housing units considered to be overcrowded is negligible 
+Table 13: Occupants Per Room (2023) 
+Occupants per Room 
+Owner-Occupied 
+Renter-Occupied 
+0.50 or Fewer 
+2,086 
+771 
+0.51 to 1.00 
+304 
+144 
+1.01 to 1.50 
+0 
+0 
+1.51 to 2.00 
+0 
+0 
+2.01 or More 
+0 
+0 
+Total 
+2,086 
+915 
+Source: 2023 American Community Survey Five-Year Estimates. 
+Table 14 identifies housing units with complete plumbing and kitchen facilities. As shown, 
+all occupied units in the Borough were identified as having complete plumbing and 
+kitchen facilities. 
+Table 14: Plumbing and Kitchen Facilities (2023) 
+ 
+Units with Complete Facilities 
+Units without Complete Facilities 
+Plumbing 
+3,001 
+0 
+Kitchen 
+3,001 
+0 
+Source: 2023 American Community Survey Five-Year Estimates. 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 29 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 30 =====
+ 
+~ 24 ~ 
+2.4: Housing and Employment Projection 
+The following section identifies the extent to which housing and economic development 
+have occurred in the community, which can assist in the determination of future 
+residential and employment projections. 
+Recent Residential Development Activity 
+One way of examining the stability of a community’s housing stock is by comparing the 
+number of residential building permits issued for new construction as well as demolition 
+permits issued every year. Since 2013, the Borough has annually issued an average of 1.8 
+and 1.5 building permits and demolition permits, respectively. This results in an average 
+positive net of 0.2 permits annually. This limited amount of growth is reflective of the 
+Borough’s established development pattern. 
+Table 15: Residential Building Permits and Demolition Permits 
+ 
+Building Permits 
+Demos 
+Net 
+Year 
+1 & 2 Family 
+Multifamily 
+Mixed Use 
+Total 
+2013 
+0 
+0 
+0 
+0 
+0 
+0 
+2014 
+1 
+0 
+6 
+7 
+4 
+3 
+2015 
+1 
+0 
+0 
+1 
+2 
+-1 
+2016 
+1 
+0 
+0 
+1 
+0 
+1 
+2017 
+1 
+0 
+0 
+1 
+0 
+1 
+2018 
+6 
+0 
+0 
+6 
+1 
+5 
+2019 
+1 
+0 
+0 
+1 
+2 
+-1 
+2020 
+0 
+0 
+0 
+0 
+2 
+-2 
+2021 
+1 
+0 
+0 
+1 
+3 
+-2 
+2022 
+2 
+0 
+0 
+2 
+0 
+2 
+2023 
+0 
+0 
+0 
+0 
+3 
+-3 
+Total 
+14 
+0 
+6 
+20 
+17 
+3 
+Source: Department of Community Affairs 
+Covered Employment 
+Figure 5 and Figure 6 provide data on the Borough’s covered employment trends 
+between 2004 and 2023, as reported by the New Jersey Department of Labor and 
+Workforce Development. “Covered employment” refers to any employment covered 
+under the Unemployment and Temporary Disability Benefits Law. Generally, nearly all 
+employment in the state is considered to be “covered employment.”  
+Figure 5 depicts the number of reported “employment units” within the Borough. An 
+“employment unit” is defined as an individual or organization which employs one or more 
+workers. As shown, the Borough experienced a fairly consistent loss of employment units 
+between 2003 and 2018. Since that time, however, the number of employment units has 
+remained relatively stable. As of 2023, there were a reported 347 employment units in the 
+Borough. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 30 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 31 =====
+ 
+~ 25 ~ 
+Similarly, employment levels have typically decreased since 2005. The most dramatic 
+decrease occurred between 2019 and 2020, wherein employment in the Borough 
+decreased by a reported 10.7%. This may be attributed to COVID-19 pandemic. Since that 
+time, however, employment in the Borough has increased. As of 2023, the Borough’s 
+reported covered employment was 3,361 individuals. 
+Figure 5: Covered Employment Units, 2003-2023 
+ 
+Source: Department of Labor and Workforce Development  
+Figure 6: Covered Employment, 2003-2023 
+ 
+Source: Department of Labor and Workforce Development  
+381
+367
+357
+348
+378
+365
+371
+380
+370
+353
+345
+338
+341
+334
+331
+332
+347
+345
+345
+347
+347
+300
+310
+320
+330
+340
+350
+360
+370
+380
+390
+3,588
+4,026
+3,777
+4,159
+3,932
+3,839
+3,833
+3,771
+3,678
+3,736
+3,517
+3,680
+3,704
+3,610
+3,547
+3,592
+3,543
+3,163
+3,251
+3,355
+3,361
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 31 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 32 =====
+ 
+~ 26 ~ 
+Section 3: Fair Share Obligation 
+The following section provides an overview of the Borough’s fair share obligation. It 
+includes a brief overview of the methodology utilized to calculate affordable housing 
+obligations throughout the state. 
+3.1: Summary of Fair Share Obligation 
+On March 20, 2024, the State of New Jersey adopted a package of affordable housing 
+bills which overhauled the Fair Housing Act (FHA). This legislation eliminated the Council 
+on Affordable Housing (COAH) and split its duties and functions between the Department 
+of Community Affairs (DCA) and the Administrative Office of the Courts (AOC). 
+The DCA was designated as the entity responsible for calculating the state’s regional 
+needs. NJSA 52:27D-304.2 establishes the methodology to be utilized by the DCA to 
+determine the state’s regional prospective needs of low- and moderate-income housing 
+for the ten-year period spanning from July 1, 2025 to June 30, 2035. In summary, the 
+projected household change for this period is estimated by establishing the household 
+change experienced in each region between the most recent federal decennial census 
+and the second-most recent decennial census. This household change, if positive, is then 
+divided by 2.5 to estimate the number of low- and moderate-income homes needed to 
+address low- and moderate-income household change in the region for the next ten 
+years. This methodology resulted in a statewide prospective need of 84,698 low- and 
+moderate-income units. 
+In addition to calculating each region’s need, the DCA was also designated as the entity 
+responsible for calculating each municipality’s present and prospective fair share 
+obligations. However, the FHA makes clear that these calculations are advisory and that 
+each municipality must set its own obligation number utilizing the same methodology. 
+On January 23, 2025, Midland Park adopted Resolution #049-2025 (see Appendix A) 
+which accepted the DCA’s present and prospective fair share obligation calculations for 
+the Borough. These obligations are summarized below. That same resolution also noted 
+that the Borough reserves the right to conduct a vacant land adjustment (VLA) to 
+determine its realistic development potential (RDP). This is discussed in greater detail in 
+the next subsection. 
+Table 16: Summary of Fourth Round Obligation 
+Affordable Obligation 
+Units 
+Present (Rehabilitation Need) Obligation 
+0 
+Fourth Round Obligation (2025-2035) 
+155 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 32 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 33 =====
+ 
+~ 27 ~ 
+3.2: Realistic Development Potential (RDP) 
+The Borough of Midland Park is a fully developed community and is therefore entitled to 
+adjust its obligation in accordance with a procedure set forth in the FHA. Specifically, 
+NJSA 52:27D-310.1 permits municipalities to perform a realistic development potential 
+(RDP) analysis by seeking a vacant land adjustment (VLA).  
+A RDP analysis is intended to determine which sites in a municipality are most likely to 
+develop for low- and moderate-income housing. Municipalities may present 
+documentation that eliminates a site or part of a site from its inventory of vacant land. 
+Such eliminating factors include: lands dedicated for public uses other than housing since 
+1997; park lands or open space; vacant contiguous parcels in private ownership of a size 
+which would accommodate fewer than five housing units; historic and architecturally 
+important sites listed on the State Register of Historic Places or the National Register of 
+Historic Places; preserved architectural lands; sites designated for active recreation; and 
+environmentally sensitive lands. 
+Prior Round RDP 
+Based upon a VLA approved by COAH as part of its Second Round Substantive 
+Certification, the Borough’s Prior Round RDP was established as thirteen (13) affordable 
+units. 
+Third Round RDP 
+A VLA was conducted for the Borough’s 2017 HE&FSP. This analysis identified twenty-
+eight (28) vacant parcels which totaled 5.92 acres. Only one such parcel (ID #27) satisfied 
+the minimum 0.83 acre threshold required under the Second Round Rules. However, this 
+property had already been utilized to calculate the Borough’s Prior Round RDP and was 
+therefore excluded from counting towards the Borough’s RDP again. Thus, the VLA 
+ultimately determined that the Borough’s RDP was zero (0) affordable units. This RDP was 
+affirmed by the Settlement Agreement signed between Midland Park and FSHC.  
+Fourth Round RDP 
+A new VLA has been conducted for the Borough. For the sake of continuity, it identifies 
+those properties which were analyzed in the 2017 HE&FSP (utilizing the same 
+identification numbers) as well as additional properties which were identified as vacant. 
+Next, wetland, steep slope, and floodplain information pursuant to the applicable 
+regulations were applied to these vacant sites. The remaining acreage of sites minimally 
+0.83 acres in size was then calculated. 
+The analysis revealed that there are no newly vacant properties which meet the 
+aforementioned 0.83 acre threshold. Therefore, the Borough’s RDP remains as zero (0) 
+affordable units. A copy of the VLA can be found in Table 17. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 33 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 34 =====
+ 
+~ 28 ~ 
+Table 17: Vacant Land Adjustment 
+ID # 
+Block 
+Lot 
+Address 
+Developable 
+Area (ac) 
+Comments 
+1 
+1 
+1 
+49 Lake Ave 
+0.05 
+Does not meet 0.83 acre threshold. 
+2 
+10.21 
+16.01 
+198 & 202 Spruce St (Rear) 
+0.12 
+Does not meet 0.83 acre threshold. 
+3 
+11 
+5 
+133 Glen Ave 
+0.25 
+Does not meet 0.83 acre threshold. 
+4 
+15 
+20.01 
+Highland Ave 
+0.06 
+Does not meet 0.83 acre threshold. 
+6 
+17 
+3.02 
+29 Vreeland Ave 
+0.04 
+Does not meet 0.83 acre threshold. 
+7 
+2.01 
+3 
+Lake Ave 
+0.01 
+Does not meet 0.83 acre threshold. 
+8 
+2.03 
+1 
+225 Goffle Road 
+0.02 
+Does not meet 0.83 acre threshold. 
+9 
+2.03 
+1.01 
+218 Goffle Road 
+0.07 
+Does not meet 0.83 acre threshold. 
+Developed with a parking lot. 
+10 
+25 
+33 
+Aqueduct Ave 
+0.63 
+Does not meet 0.83 acre threshold. 
+Developed with water infrastructure. 
+12 
+34 
+1 
+278 Newtown Road 
+0.16 
+Constrained by 100-year flood zone. 
+Does not meet 0.83 acre threshold. 
+13 
+34 
+1.01 
+276 Newtown Road 
+0.14 
+Does not meet 0.83 acre threshold. 
+14 
+34 
+3.04 
+184 Hillside Ave 
+0.20 
+Backyard of residential property in 
+Wyckoff. Does not meet 0.83 acre 
+threshold. 
+15 
+34 
+3.05 
+139 Hillside Ave 
+0.20 
+Backyard of residential property in 
+Wyckoff. Does not meet 0.83 acre 
+threshold. 
+16 
+34 
+3.06 
+190 Bank St 
+0.49 
+Developed with vehicular storage 
+yard. Constrained by 100-year flood 
+zone. Does not meet 0.83 acre 
+threshold. 
+17 
+34 
+3.08 
+190 Hillside Ave 
+0.28 
+Backyard of residential property in 
+Wyckoff. Does not meet 0.83 acre 
+threshold. 
+19 
+44.01 
+3.02 
+27 Deerfield Rd 
+0.13 
+Rear yard of property in Wyckoff. 
+Does not meet 0.83 acre threshold. 
+20 
+44.02 
+1 
+64 Meda Pl 
+0.01 
+Yard of property located in Wyckoff. 
+Does not meet 0.83 acre threshold. 
+21 
+54 
+1 
+727 Godwin Ave 
+0.05 
+Does not meet 0.83 acre threshold. 
+22 
+54 
+3 
+196 Madison Ave 
+0.20 
+Does not meet 0.83 acre threshold. 
+23 
+55 
+10 
+724 Godwin Ave 
+0.15 
+Does not meet 0.83 acre threshold. 
+24 
+55 
+2 
+105 Midland Ave 
+0.17 
+Side yard of residence in Wyckoff. 
+Does not meet 0.83 acre threshold. 
+25 
+7.01 
+18.02 
+Elmsley Ct (REAR) 
+0.17 
+Does not meet 0.83 acre threshold. 
+26 
+7.03 
+1.01 
+108 Maltbie Ave 
+0.15 
+Developed with a single-family 
+dwelling. Lot size does not meet 0.83 
+acre threshold. 
+27 
+7 
+8 
+264 Erie Ave 
+1.62 
+Property had previously been 
+counted towards a Prior Round RDP. 
+28 
+9.02 
+1 
+414 Van Dyke Ave 
+0.04 
+Lot size does not meet 0.83 acre 
+threshold. 
+29 
+10.12 
+6 
+57 Spruce St 
+0.16 
+Does not meet 0.83 acre threshold. 
+30 
+10 
+3.04 
+College Rd 
+0.09 
+Does not meet 0.83 acre threshold. 
+31 
+3 
+10 
+59 Goffle Rd 
+0.37 
+Does not meet 0.83 acre threshold. 
+32 
+26.01 
+27 
+187 Paterson Ave 
+0.00 
+Common element for multifamily 
+development. 
+33 
+7.01 
+16 
+Smith Lane 
+0.01 
+Does not meet 0.83 acre threshold. 
+34 
+7.01 
+30 
+92 Busteed Dr 
+0.02 
+Side yard of property in Ridgewood. 
+Does not meet 0.241 acre threshold. 
+35 
+55 
+8 
+714 Godwin Ave 
+0.25 
+Constrained by wetlands/buffer. 
+Developed with a 100% affordable 
+housing building. 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 34 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 35 =====
+32
+27
+16
+35
+10
+3
+12
+17
+2
+9
+1
+14
+31
+26
+29
+25
+13
+4
+19
+22
+23
+24
+30
+20
+28
+6
+7
+33
+34
+Godwin Ave
+Erie Ave
+Prospect St
+Hill St
+Glen Ave
+Spruce St
+Bank St
+Vreeland Ave
+Paterson Ave
+Greenwood Ave
+Park Ave
+Franklin Ave
+Irving St
+Payne Ave
+Birch St
+Pine St
+E Center St
+Sicomac Ave
+Dairy St
+Chestnut St
+Highland Ave
+Rea Ave
+Hillside Ave
+Cottage St
+Lake Ave
+West St
+Colonial Rd
+Witte Dr
+Maltbie Ave
+Cedar St
+5th St
+Goffle Rd
+Oakhill Rd
+Highwood Ave
+Post St
+Woodside Ave
+Madison Ave
+Zimmer Ave
+Center St
+Donna Ln
+Cross Ave
+Fairhaven Dr
+Floral Ln
+Meda Pl
+Susan Ave
+Orchard St
+Millington Dr
+1st St
+Hampshire Rd
+Chamberlain Pl
+Linwood Ave
+Aqueduct Ave
+Sunset Ave
+Van Blarcom Ave
+Smith Ln
+3rd St
+W Summit Ave
+Baldin Dr
+4th St
+Westbrook Ave
+Rubble St
+Faner Rd
+Heights Rd
+E Payne Ave
+S Rea Ave
+Crest Dr
+Monroe St
+Brandon Rd
+Plane St
+Mulder Ln
+Meadow Ct
+Coombs Ln
+Pleasant Ave
+Maple Ave
+Miedama Pl
+Foster Ct
+Park Ave
+B U R G I S ASSOCIATES, INC. 
+25 Westwood Avenue               
+Westwood, New Jersey 07675   
+ p: 201.666.1811
+f:  201.666.2599
+COMMUNITY PLANNING | LAND DEVELOPMENT AND DESIGN | LANDSCAPE ARCHITECTURE 
+Project Title
+Housing Element and Fair Share Plan
+Borough of Midland Park | Bergen County, New Jersey
+Dwg. Title
+Map 3: Vacant Land Adjustment
+Project No.
+Date
+Drawn
+4150.01
+01.23.25
+DN
+Dwg. No.:
+Scale:
+map 3
+°
+Legend
+Municipal Boundary
+Parcels
+Vacant Parcels
+Wetlands
+Wetlands: 50' Buffer
+100 Year Flood Zone
+1 " = 1,500 '
+Township of
+Wyckoff
+Borough of
+Waldwick
+Village of
+Ridgewood
+Source 1: Boundary data from NJDEP.
+Source 2 Parcel data from NJGIN Open Data, Bergen County,
+Source 3: Street data from NJGIN Open Data.
+Source 4: Wetland data from NJDEP Land Use/Land Cover Data, dated 2020.
+Source 5: Wetland buffer data from Burgis Associates, Inc.
+Source 6: Flood zone data from FEMA.
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 35 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 36 =====
+ 
+~ 30 ~ 
+Section 4: Fair Share Plan 
+The following Fair Share Plan outlines the components and mechanisms the Borough will 
+utilize to address its affordable housing obligations. These obligations are summarized as 
+follows: 
+Table 18: Affordable Housing Obligation Summary 
+Category 
+Obligation 
+Prior Round Obligation (1987-1999) 
+54 
+Third Round Obligation (1999-2025) 
+198 
+Fourth Round Obligation (2025-2035) 
+155 
+Present Need (Rehabilitation) Obligation 
+0 
+4.1: Prior Round Obligation 
+The Borough was assigned a Prior Round Obligation of fifty-four (54) affordable units. 
+Based upon a VLA approved by COAH as part of its Second Round Substantive 
+Certification, the Borough’s RDP was established as thirteen (13) affordable units. This 
+Prior Round RDP was fully satisfied through the components identified in Table 19 below. 
+The location of these developments are also identified in Map 4. 
+The Prior Round Unmet Need of forty-one (41) affordable units (i.e. the difference 
+between its Prior Round Obligation of fifty-four units and its RDP of thirteen units) was 
+addressed in the Third Round Obligation.  
+Table 19: 1987-2025 Affordable Housing Components 
+ID 
+Component 
+Affordable Units 
+Status 
+1 
+Kentshire Apartments 
+35 
+Completed 
+2 
+Life Opportunities Unlimited 
+4 
+Completed 
+3 
+Eastern Christian Children’s 
+4 
+Completed 
+4 
+Mill Gardens 
+10 
+Completed 
+5 
+West Bergen Mental Health I 
+7 
+Completed 
+6 
+West Bergen Mental Health II 
+4 
+Completed 
+7 
+West Bergen Mental Health III 
+4 
+Completed 
+8 
+Greenwood & Central Ave 
+3 
+Completed 
+ 
+Compliance Bonus 
+2 
+Completed 
+ 
+Total 
+73 
+Completed 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 36 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 37 =====
+1
+4
+8
+7
+3
+2
+5
+6
+Godwin Ave
+Erie Ave
+Prospect St
+Hill St
+Glen Ave
+Spruce St
+Bank St
+Vreeland Ave
+Paterson Ave
+Greenwood Ave
+Park Ave
+Franklin Ave
+Irving St
+Payne Ave
+Birch St
+Pine St
+E Center St
+Sicomac Ave
+Dairy St
+Chestnut St
+Highland Ave
+Rea Ave
+Hillside Ave
+Cottage St
+Lake Ave
+West St
+Colonial Rd
+Witte Dr
+Maltbie Ave
+Cedar St
+5th St
+Goffle Rd
+Oakhill Rd
+Highwood Ave
+Post St
+Woodside Ave
+Madison Ave
+Zimmer Ave
+Center St
+Donna Ln
+Cross Ave
+Fairhaven Dr
+Floral Ln
+Meda Pl
+Susan Ave
+Orchard St
+Millington Dr
+1st St
+Hampshire Rd
+Chamberlain Pl
+Linwood Ave
+Aqueduct Ave
+Sunset Ave
+Van Blarcom Ave
+Smith Ln
+3rd St
+W Summit Ave
+Baldin Dr
+4th St
+Westbrook Ave
+Rubble St
+Faner Rd
+Busteed Dr
+Heights Rd
+E Payne Ave
+S Rea Ave
+Crest Dr
+Monroe St
+Brandon Rd
+Central Ave
+Plane St
+Mulder Ln
+Brautigam Ln
+Meadow Ct
+College Rd
+Coombs Ln
+Pleasant Ave
+Maple Ave
+Miedama Pl
+Foster Ct
+Smith Pl
+Park Ave
+B U R G I S ASSOCIATES, INC. 
+25 Westwood Avenue               
+Westwood, New Jersey 07675   
+ p: 201.666.1811
+f:  201.666.2599
+COMMUNITY PLANNING | LAND DEVELOPMENT AND DESIGN | LANDSCAPE ARCHITECTURE 
+Project Title
+Housing Element and Fair Share Plan
+Borough of Midland Park | Bergen County, New Jersey
+Dwg. Title
+Map 4: Prior Round Obligation Sites
+Project No.
+Date
+Drawn
+4150.01
+01.23.25
+DN
+Dwg. No.:
+Scale:
+map 4
+°
+Legend
+Municipal Boundary
+Parcels
+Prior Round Components
+1 " = 1,500 '
+Township of
+Wyckoff
+Borough of
+Waldwick
+Village of
+Ridgewood
+Source 1: Boundary data from NJDEP.
+Source 2 Parcel data from NJGIN Open Data, Bergen County,
+Source 3: Street data from NJGIN Open Data.
+Source 4: Prior Round Components data from Burgis Associates, Inc.
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 37 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 38 =====
+ 
+~ 32 ~ 
+4.2: Third Round Obligation 
+Pursuant to a Settlement Agreement signed with FSHC, the Borough had a Third Round 
+RDP of zero (0) affordable units and an Unmet Need of two hundred and thirty-nine (239) 
+affordable units. This Unmet Need was comprised of forty-one (41) affordable units of 
+Unmet Need from the Prior Round and one hundred and ninety-eight (198) affordable 
+units of Unmet Need from the Third Round. 
+The Borough has approved seventy-one (71) affordable housing units which were eligible 
+for two (2) bonus credits. These credits are summarized in Table 19. Through the 
+application of these units, the Borough satisfied its Prior Round Unmet Need (consisting 
+of forty-one units) and is entitled to a sixteen (16) unit credit towards its Third Round 
+Unmet Need. As a result, the Borough has a remaining Unmet Need of one hundred and 
+eighty-two (182) units. To partially address this need, the Borough adopted several 
+affordable housing overlay zones which are identified in Table 20 as well as a municipal-
+wide mandatory set-aside ordinance.  
+Since that time, the Borough has granted approval to one inclusionary multifamily 
+development located in its overlay districts. This approval, which is discussed in greater 
+below, will generate one (1) affordable unit upon completion. This reduces the Borough’s 
+Third Round Unmet Need from one hundred and eight-two (182) units to one hundred 
+and eighty-one (181) affordable units. 
+72 Lake Avenue 
+ 
+Map 5: 72 Lake Avenue (scale: 1” = 300’) 
+The 72 Lake Avenue Site is located in the southeasterly portion of the Borough, near the 
+intersection of Lake Avenue and Mountain Avenue. The site, which is identified by 
+municipal tax records as Block 3 Lot 2, is located in the MFO-1 Overlay Zone District. On 
+December 12, 2018 the site received bifurcated density and associated variance relief for 
+the construction of six (6) townhouse units, including one (1) affordable unit. 
+Subsequently, site plan approval was granted for this development on August 14, 2019. A 
+copy of the approving resolution can be found in Appendix B. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 38 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 39 =====
+ 
+~ 33 ~ 
+Table 20: Overlay Parcels for Unmet Need 
+Address 
+Block 
+Lot 
+Acreage 
+Density (du/ac) 
+55 Godwin Avenue 
+3 
+23.01 
+0.88 
+10 
+1 Godwin Avenue 
+3 
+24.01 
+0.89 
+10 
+31 Godwin Avenue 
+3 
+24.03 
+0.95 
+10 
+45 Godwin Avenue 
+3 
+24.04 
+0.32 
+10 
+60 Lake Avenue 
+3 
+1.01 
+0.49 
+10 
+54 Lake Avenue 
+3 
+1.02 
+0.29 
+10 
+72 Lake Avenue 
+3 
+2 
+0.42 
+10 
+80 Lake Avenue 
+3 
+3 
+0.34 
+10 
+27 Greenwood Avenue 
+32 
+2 
+0.59 
+18 
+17 Greenwood Avenue 
+32 
+3.02 
+0.22 
+18 
+11 Greenwood Avenue 
+32 
+3.03 
+0.23 
+18 
+18 Birch Street 
+32 
+3.04 
+0.21 
+18 
+85 Witte Drive 
+32 
+5.01 
+1.95 
+18 
+95 Greenwood Avenue 
+33 
+1 
+0.63 
+18 
+80 West Street 
+33 
+2 
+0.28 
+18 
+74 West Street 
+33 
+3 
+0.15 
+18 
+83 Greenwood Avenue 
+33 
+4 
+0.15 
+18 
+77 Greenwood Avenue 
+33 
+5 
+0.5 
+18 
+60 West Street 
+33 
+6 
+0.26 
+18 
+59 Greenwood Drive 
+33 
+7.01 
+2.41 
+18 
+176 Greenwood Avenue 
+36 
+1.01 
+1.92 
+18 
+156 Greenwood Avenue 
+36 
+1.02 
+1.92 
+18 
+140 Greenwood Avenue 
+36 
+2 
+1.15 
+18 
+301 Greenwood Avenue 
+52 
+1 
+1.74 
+18 
+187 Madison Avenue 
+53 
+1 
+0.35 
+18 
+179 Madison Avenue 
+53 
+2.01 
+0.11 
+18 
+175 Madison Avenue 
+53 
+2.02 
+0.11 
+18 
+312 Greenwood Avenue 
+53 
+2.03 
+0.22 
+18 
+161 Madison Avenue 
+53  
+3 
+0.22 
+18 
+167 Madison Avenue 
+53 
+3.03 
+0.22 
+18 
+300 Greenwood Avenue 
+53 
+4 
+0.22 
+18 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 39 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 40 =====
+Godwin Ave
+Erie Ave
+Prospect St
+Hill St
+Glen Ave
+Spruce St
+Bank St
+Vreeland Ave
+Paterson Ave
+Greenwood Ave
+Park Ave
+Franklin Ave
+Irving St
+Payne Ave
+Birch St
+Pine St
+E Center St
+Sicomac Ave
+Dairy St
+Chestnut St
+Highland Ave
+Rea Ave
+Hillside Ave
+Cottage St
+Lake Ave
+West St
+Colonial Rd
+Witte Dr
+Maltbie Ave
+Cedar St
+5th St
+Goffle Rd
+Oakhill Rd
+Highwood Ave
+Post St
+Woodside Ave
+Madison Ave
+Zimmer Ave
+Center St
+Donna Ln
+Cross Ave
+Fairhaven Dr
+Floral Ln
+Meda Pl
+Susan Ave
+Orchard St
+Millington Dr
+1st St
+Hampshire Rd
+Chamberlain Pl
+Linwood Ave
+Aqueduct Ave
+Sunset Ave
+Van Blarcom Ave
+Smith Ln
+3rd St
+W Summit Ave
+Baldin Dr
+4th St
+Westbrook Ave
+Rubble St
+Faner Rd
+Busteed Dr
+Heights Rd
+E Payne Ave
+S Rea Ave
+Crest Dr
+Monroe St
+Brandon Rd
+Central Ave
+Plane St
+Mulder Ln
+Brautigam Ln
+Meadow Ct
+College Rd
+Coombs Ln
+Pleasant Ave
+Maple Ave
+Miedama Pl
+Foster Ct
+Smith Pl
+Park Ave
+B U R G I S ASSOCIATES, INC. 
+25 Westwood Avenue               
+Westwood, New Jersey 07675   
+ p: 201.666.1811
+f:  201.666.2599
+COMMUNITY PLANNING | LAND DEVELOPMENT AND DESIGN | LANDSCAPE ARCHITECTURE 
+Project Title
+Housing Element and Fair Share Plan
+Borough of Midland Park | Bergen County, New Jersey
+Dwg. Title
+Map 6: Third Round Obligation Sites
+Project No.
+Date
+Drawn
+4150.01
+01.23.25
+DN
+Dwg. No.:
+Scale:
+map 6
+°
+Legend
+Municipal Boundary
+Parcels
+MFO-1
+MFO-2
+1 " = 1,500 '
+Township of
+Wyckoff
+Borough of
+Waldwick
+Village of
+Ridgewood
+Source 1: Boundary data from NJDEP.
+Source 2 Parcel data from NJGIN Open Data, Bergen County,
+Source 3: Street data from NJGIN Open Data.
+Source 4: Third Round Components data from Burgis Associates, Inc.
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 40 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 41 =====
+ 
+~ 35 ~ 
+4.3: Fourth Round Obligation 
+Midland Park adopted Resolution #049-2025 which establishes its affordable housing 
+obligations for the Fourth Round. A copy of this resolution can be found in Appendix A. 
+As noted in that resolution, the Borough accepted the DCA’s Fourth Round Obligation 
+calculation of one hundred and fifty-five (155) affordable units. That same resolution also 
+noted that the Borough reserved the right to conduct a VLA to determine its RDP. 
+Accordingly, as discussed in Section 3.2, the Borough prepared a new VLA for the Fourth 
+Round. The analysis revealed that there are no newly vacant properties which meet the 
+aforementioned 0.83 acre threshold. Therefore, the Borough’s Fourth Round RDP is zero 
+(0) affordable units.  
+Nevertheless, Midland Park has remained diligent in planning for and approving 
+affordable units throughout the Borough in appropriate locations. These components are 
+identified in Table 21. As shown, these components comprise fifteen (15) affordable units. 
+The locations of these components are identified on Table 21 and are discussed in greater 
+detail on the following pages. 
+Table 21: Affordable Components 
+Plan Component 
+Affordable Units 
+577 Godwin Avenue 
+1 
+Nouvelle, LLC 
+5 
+90 Midland Ave Redevelopment Area 
+5 
+Block 22 Site 
+4 
+Total 
+15 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 41 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 42 =====
+Godwin Ave
+Erie Ave
+Prospect St
+Hill St
+Glen Ave
+Spruce St
+Bank St
+Vreeland Ave
+Paterson Ave
+Greenwood Ave
+Park Ave
+Franklin Ave
+Irving St
+Payne Ave
+Birch St
+Pine St
+E Center St
+Sicomac Ave
+Dairy St
+Chestnut St
+Highland Ave
+Rea Ave
+Hillside Ave
+Cottage St
+Lake Ave
+West St
+Colonial Rd
+Witte Dr
+Maltbie Ave
+Cedar St
+5th St
+Goffle Rd
+Oakhill Rd
+Highwood Ave
+Post St
+Woodside Ave
+Madison Ave
+Zimmer Ave
+Center St
+Donna Ln
+Cross Ave
+Fairhaven Dr
+Floral Ln
+Meda Pl
+Susan Ave
+Orchard St
+Millington Dr
+1st St
+Hampshire Rd
+Chamberlain Pl
+Linwood Ave
+Aqueduct Ave
+Sunset Ave
+Van Blarcom Ave
+Smith Ln
+3rd St
+W Summit Ave
+Baldin Dr
+4th St
+Westbrook Ave
+Rubble St
+Faner Rd
+Busteed Dr
+Heights Rd
+E Payne Ave
+S Rea Ave
+Crest Dr
+Monroe St
+Brandon Rd
+Central Ave
+Plane St
+Mulder Ln
+Brautigam Ln
+Meadow Ct
+College Rd
+Coombs Ln
+Pleasant Ave
+Maple Ave
+Miedama Pl
+Foster Ct
+Smith Pl
+Park Ave
+B U R G I S ASSOCIATES, INC. 
+25 Westwood Avenue               
+Westwood, New Jersey 07675   
+ p: 201.666.1811
+f:  201.666.2599
+COMMUNITY PLANNING | LAND DEVELOPMENT AND DESIGN | LANDSCAPE ARCHITECTURE 
+Project Title
+Housing Element and Fair Share Plan
+Borough of Midland Park | Bergen County, New Jersey
+Dwg. Title
+Map 7: Affordable Components
+Project No.
+Date
+Drawn
+4150.01
+04.30.25
+DN
+Dwg. No.:
+Scale:
+map 7
+°
+Legend
+Municipal Boundary
+Parcels
+Affordable Components
+1 " = 1,500 '
+Township of
+Wyckoff
+Borough of
+Waldwick
+Village of
+Ridgewood
+Nouvelle, LLC
+90 Midland Ave
+Redvelopment Area
+577 Godwin Avenue
+Block 22
+Source 1: Boundary data from NJDEP.
+Source 2 Parcel data from NJGIN Open Data, Bergen County,
+Source 3: Street data from NJGIN Open Data.
+Source 4: Affordable Components data from Burgis Associates, Inc.
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 42 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 43 =====
+ 
+~ 37 ~ 
+577 Godwin Avenue 
+ 
+Map 8: 577 Godwin Avenue (scale: 1" = 300') 
+The 577 Godwin Avenue Site is located in the westerly portion of the Borough, near the 
+intersection of Godwin Avenue and Park Avenue. It is identified by municipal tax records 
+as Block 41 Lot 2. 
+On November 8, 2017, the site received site plan approval as well as variance relief to 
+convert an existing commercial building into two (2) residential units as well as to 
+construct an additional building with four (4) residential units for a total of six (6) 
+residential units. Of these, one (1) unit was designated as an affordable housing unit 
+subject to all of the provisions and requirements of the ordinances of Midland Park. A 
+copy of the approving resolution can be found in Appendix C-1. 
+This development has been completed and is presently occupied. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 43 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 44 =====
+ 
+~ 38 ~ 
+Nouvelle, LLC 
+ 
+Map 9: Nouvelle, LLC (scale: 1" = 300') 
+The Nouvelle, LLC site is located in the westerly portion of the Borough, near Midland 
+Park’s shared municipal border with the Borough of Wyckoff. The site, which is identified 
+by municipal tax records as Block 55 Lot 8, is located at 714 Godwin Avenue. 
+On March 29, 2023, the site received site plan approval as well as “d(1)” use variance relief 
+for the construction of a 100% affordable housing building consisting of four (4) very-low 
+income units to be reserved for veterans. Amended site plan approval was subsequently 
+granted on October 9, 2024 to increase the number of affordable units from four (4) to 
+five (5). A copy of the latest approving resolution can be found in Appendix C-2. 
+This development is completed and is presently occupied. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 44 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 45 =====
+ 
+~ 39 ~ 
+90 Midland Ave Redevelopment Area 
+ 
+Map 10: 90 Midland Ave Redevelopment Area (scale: 1" = 300') 
+The 90 Midland Ave Redevelopment Area is located in the westerly portion of the 
+Borough, near the intersection of Godwin Avenue and Midland Avenue. It is identified by 
+municipal tax records as Block 45 Lot 9.01. 
+On October 10, 2024, the Borough adopted Ordinance #14-2024 which established the 
+MARD 90 Midland Avenue Redevelopment District. The intent of this redevelopment 
+district is to encourage the development of an attractive, high-quality inclusionary 
+multifamily housing development which shall be designed to maintain and enhance the 
+residential character of the Borough, contribute to a greater variety of housing types to 
+encourage a balanced housing supply, and help address the Borough’s goals of 
+supporting affordable housing. 
+Accordingly, the district permits a multifamily inclusionary density at a density not to 
+exceed twenty-one (21) units per acre with a required affordable housing set-aside of 
+fifteen percent (15%) for rental units and twenty percent (20%) for sale units. The 
+Borough anticipates that the site will be developed with twenty-eight (28) total units of 
+which at least five (5) will be affordable. A copy of the approving ordinance can be found 
+in Appendix C-3. A concept plan can be found in Appendix C-4. 
+The site presents a realistic opportunity for the production of affordable housing. 
+Specifically, the site is: 
+1. Approvable. The Borough has already adopted a redevelopment plan ordinance 
+for the site.  
+2. Available. There are no known title issues which would prohibit the development 
+of this site.  
+3. Developable. The site is located in a water and sewer service area. It has also been 
+granted NJDEP approvals. 
+4. Suitable. The site is located in close proximity to nearby commercial areas and 
+other multifamily developments. 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 45 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 46 =====
+ 
+~ 40 ~ 
+Block 22 Site 
+ 
+Map 11: Block 22 Site (scale: 1" = 300') 
+The Block 22 Site is located in the south-central portion of the Borough, near the 
+intersection of Godwin Avenue and Prospect Street. It is identified by municipal tax 
+records as Block 22 Lots 1, 2, 3, 4, 5, 10, 11, 12, and 13. Lot 1 is presently developed with a 
+plumbing, heating, and air conditioning servicing company, while the remaining lots are 
+developed with residential dwellings. The site has an overall area of 57,845 square feet 
+(1.33 acres) and is irregular in shape. 
+The Borough proposes to establish a new MFO-3 Multifamily Overlay 3 Zoning District to 
+encompass the subject site. This overlay district will permit multifamily developments at a 
+density not to exceed 18 units per acre, with a required affordable housing set-aside of 
+15% for rental units and 20% for sale units. The Borough anticipates that the site can be 
+developed with twenty-three (23) total units of which at least four (4) will be affordable. A 
+copy of a draft ordinance can be found in Appendix C-5. Note that the provisions 
+contained in this ordinance are in draft form and are therefore subject to change. In 
+addition, a concept plan can be found in Appendix C-6. 
+The site presents a realistic opportunity for the production of affordable housing. 
+Specifically, the site is: 
+1. Approvable. The Borough has already prepared a draft zoning ordinance for this 
+site which it will adopt following the adoption of the HE&FSP.  
+2. Available. There are no known title issues which would prohibit the development 
+of this site.  
+3. Developable. The site is located in a water and sewer service area.  
+4. Suitable. The site is located in close proximity to nearby commercial areas, 
+community resources including the municipal building, the library, and Highlands 
+School, as well as NJ Transit bus stops. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 46 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 47 =====
+ 
+~ 41 ~ 
+4.4: Present Need Obligation 
+The Borough was assigned a Present Need (Rehabilitation) Obligation of zero (0) 
+affordable units. Thus, no action is needed on this item at this time. 
+4.5: Other Provisions 
+The following additional requirements are noted: 
+1. Fourth Round Bonuses. Fourth Round bonuses will be applied in accordance with 
+NJAC 52:27d-311.k. 
+2. Very-Low Income and Low-Income Units. At least fifty percent (50%) of the units 
+addressing the Fourth Round Obligation shall be affordable to very-low income 
+and low-income households with the remainder affordable to moderate-income 
+households. A minimum of thirteen percent (13%) of the affordable units will be 
+made available to very low income households, defined as households earning 
+thirty percent (30%) or less of the regional median income by household size. 
+3. Rental Component. At least twenty-five percent (25%) of the Fourth Round 
+Obligation shall be met through rental units, including at least half in rental units 
+available to families. 
+4. Families. At least half of the units addressing the Fourth Round must be available 
+to families. 
+5. Age-Restricted Cap. The Borough shall comply with the age-restricted cap of 
+thirty percent (30%) and will not request a waiver of this requirement. This shall 
+be understood to mean that in no circumstances may the municipality claim 
+credit towards its fair share obligation for age-restricted units that exceed thirty 
+percent (30%) of all units developed or planned to meet its cumulative Prior 
+Round, Third Round, and Fourth fair share obligations. 
+6. Development Fees. The Borough will continue to impose development fees as 
+permitted by COAH’s prior round rules. The funds generated by the collection of 
+development fees will be applied directly towards any activity approved by State 
+regulations for addressing the municipal fair share. It is recognized that the 
+Borough must devote at least thirty percent (30%) of the revenues collected from 
+development fees to render units more affordable, as per N.J.A.C. 5:93-8.16.M. 
+7. Existing Housing Trust Fund. As per the Borough’s Spending Plan (see Appendix 
+L), the Borough proposes to reserve any remaining funds for emergent 
+opportunities. An emergent opportunity is defined as “a circumstance that has 
+arisen whereby affordable housing will be able to be produced through a delivery 
+mechanism not originally contemplated by or included in a fair share plan that 
+has been the subject of compliance certification.” It is offered for consideration 
+that the Borough could utilize a portion of this fund to collaborate in a 
+public/private partnership with the developer of a group home/assisted living 
+facility to realize affordable units. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 47 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 48 =====
+ 
+~ 42 ~ 
+4.6: Consistency with State Planning Initiatives 
+As noted in Section 1, a HE&FSP must also include: 
+❖ An analysis of the extent to which municipal ordinances and other local factors 
+advance or detract from the goal of preserving multigenerational family 
+continuity as expressed in the recommendations of the Multigenerational Family 
+Housing Continuity Commission, and; 
+❖ An analysis of consistency with the State Development and Redevelopment Plan, 
+including water, wastewater, stormwater, and multi-modal transportation based 
+on guidance and technical assistance from the State Planning Commission. 
+Accordingly, the following subsection analyzes the consistency of this HE&FSP to the 
+above referenced state planning initiatives. 
+Multigenerational Family Housing Continuity Commission 
+The Multigenerational Family Housing Continuity Commission was established by the 
+State of New Jersey in 2021. As noted in NJSA 52:27D-329.20, one of the primary duties 
+of the Commission is to “prepare and adopt recommendations on how State government, 
+local government, community organizations, private entities, and community members 
+may most effectively advance the goal of enabling senior citizens to reside at the homes 
+of their extended families, thereby preserving and enhancing multigenerational family 
+continuity, through the modification of State and local laws and policies in the areas of 
+housing, land use planning, parking and streetscape planning, and other relevant areas.” 
+As of the date of this HE&FSP, the Multigenerational Family Housing Continuity 
+Commission has not yet adopted any recommendations. 
+State Development and Redevelopment Plan 
+As established by NJSA 52:18A-200(f), the purpose of the State Development and 
+Redevelopment Plan (SDRP) is to “coordinate planning activities and establish Statewide 
+planning objectives in the following areas: land use, housing, economic development, 
+transportation, natural resource conservation, agriculture and farmland retention, 
+recreation, urban and suburban redevelopment, historic preservation, public facilities and 
+services, and intergovernmental coordination.” 
+As such, the SDRP establishes a number of goals and strategies related to a number of 
+different topics, including economic redevelopment. One such goal is to revitalize existing 
+urban centers by directing growth and development to those areas. Specifically, the SDRP 
+seeks to revitalize the State’s cities and towns by protecting, preserving, and developing 
+the valuable human and economic assets in cities, town, and other urban areas. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 48 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 49 =====
+ 
+~ 43 ~ 
+As indicated by the SDRP’s Policy Map, the entirety of the Borough is located in the PA-1 
+Metropolitan Planning Area, wherein development and redevelopment is intended to be 
+directed. The intent of this Planning Area is to: 
+❖ Provide for much of the state’s future redevelopment; 
+❖ Revitalize cities and towns; 
+❖ Promote growth in compact forms; 
+❖ Stabilize older suburbs; 
+❖ Redesign areas of sprawl; and; 
+❖ Protect the character of existing stable communities. 
+Accordingly, this HE&FSP is consistent with the intents of the PA-1. Specifically, it is 
+designed to encourage redevelopment and growth in a compact form, while also 
+protecting the character of the existing community. 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 49 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 50 =====
+BER-L-000589-25
+06/17/2025 4:50:50 PM
+Pg 50 of 59
+Trans ID: LCV20251786003
+Appendices
+~A4~
+
+===== PAGE 51 =====
+BER-L-000589-25
+06/17/2025 4:50:50 PM
+Pg 51 of 59
+Trans ID: LCV20251786003
+Appendix A: January Resolution
+~45~
+
+===== PAGE 52 =====
+BER-L-000589-25
+06/17/2025 4:50:50 PM
+Pg 52 of 59
+Trans ID: LCV20251786003
+BOROUGH OF MIDLAND PARK
+RESOLUTION #049-2025
+JANUARY 23, 2025
+RESOLUTION OF THE BOROUGH OF MIDLAND PARK, COUNTY OF
+BERGEN, STATE OF NEW JERSEY COMMITTING TO ROUND 4
+PRESENT AND
+PROSPECTIVE NEED AFFORDABLE HOUSING
+OBLIGATIONS
+WHEREAS, the Borough of Midland Park, County of Bergen, State of New Jersey,
+(hereinafter, “Midland Park”) has a demonstrated history of voluntary compliance with its
+constitutional’ affordable housing obligations; and
+WHEREAS, on March 20, 2024, Governor Phil Murphy signed into law P.L. 2024, c.2,
+an Amendment to the 1985 Fair Housing Act (hereinafter “Amended FHA” or “Act”); and
+WHEREAS, the Amended FHA requires the Department ofCommunity Affairs (“DCA”)
+to provide an estimate ofthe fair share affordable housing obligations of all municipalities on or
+before October 20, 2024 based upon the criteria on the Amended FHA; and
+WHEREAS, the DCA issued a report on October 18, 2024 (“DCA Report”) wherein it
+reported its estimate of the fair share affordable housing obligation for all municipalities based
+upon its interpretation of the standards in the Act; and
+WHEREAS, the DCA Report calculates Midland Park’s Round 4 (2025-2035) fair share
+affordable housing obligations as follows: a Present Need (Rehabilitation) Obligation of 0 and a
+Prospective Need (New Construction) Obligation of 155; and
+WHEREAS, the Amended FHA provides that the DCA Report is non-binding, thereby
+inviting municipalities to demonstrate that the Amended FHA would support revised calculations
+ofRound4 fair share affordable housing obligations; and
+;
+WHEREAS, the Amended FHA gives municipalities the opportunity to propose a
+different fair share affordable housing obligation from those reported by the DCA on October 18,
+2024 based upon the standards in Sections 6 and 7 of the Act; and
+WHEREAS, the Amended FHA further provides that “[a]ll parties shall be entitled to rely
+upon regulations on municipal credits, adjustments, and compliance mechanisms adopted by the
+Council on Affordable Housing (“COAH”) unless those regulations are contradicted by statute,
+including the Act, or binding court decisions” (N.J.S.A 52:27D-311 (m)); and
+WHEREAS, COAH regulations empower municipalities
+to
+secure vacant
+land
+adjustments, durational adjustments and other adjustments; and
+
+===== PAGE 53 =====
+BER-L-000589-25
+06/17/2025 4:50:50 PM
+Pg 53 0f 59
+Trans ID: LCV20251786003
+Borough of Midland Park
+January 23, 2025
+Resolution #049-2025
+Page 2 of4
+WHEREAS, Midland Park has accepted the Present Need (Rehabilitation) Obligation of
+0 as reported by the DCA in its October 18, 2024 Report; and
+WHEREAS, Midland Park has accepted
+the Prospective Need Obligation of 155
+as
+reported by the DCA in its October 18, 2024 Report; and
+;
+WHEREAS, the Amended FHA provides that: “the municipality’s determination of its
+fair share obligation shall have a presumption ofvalidity, ifestablished in accordance with sections
+6 and 7” of the Act; and
+WHEREAS, Midland Park’s calculation ofneed is entitled to a “presumption ofvalidity”
+because it complies with Sections 6 and 7 ofthe Act and the October 18, 2024 DCA Report ; and
+WHEREAS, in addition to setting forth its Round 4 fair share affordable housing
+obligations for the reasons summarized above, substantial activity has occurred and is ongoing that
+warrants the reservation of certain rights to avoid any claim that it has waived them; and
+WHEREAS, the process established by the Amended FHA creates an opportunity to object
+by interested parties opposing the obligations to which a municipality commits, thereby creating
+the potential for litigation over the obligations of the municipality; and
+WHEREAS the court approved a vacant land adjustment (hereinafter, “VLA”) and a
+realistic development potential (hereinafter, “RDP”) for Midland Park in Round 3; and
+WHEREAS, because there has been no material change in vacant land in Midland Park
+since the approval ofits VLA and RDP, and because Midland Park provideda realistic opportunity
+for the satisfaction of its RDP approved by the Court in Round 3, Midland Park is entitled to a
+VLA in Round 4 and a minimal RDP in Round4 that will be fully addressed and included in the
+HEFSP it submits by the June 30, 2025 deadline; and
+WHEREAS, the Amended FHA requires municipalities to adopt a binding resolution no
+later than January 31, 2025 as to its obligations; and
+WHEREAS, in light ofthe above, Midland Park finds that it is in its best interest to declare
+its obligations in accordance with this binding resolution in accordance with the Act, and
+WHEREAS, in addition to the above, the Director issued Directive #14-24, dated
+December 13, 2024, and made the Directive available later in the week that followed; and
+WHEREAS,
+pursuant
+to
+Directive
+#14-24,
+a municipality
+seeking compliance
+certification with the Act shall file an action in the form of a declaratory judgment complaint.
+within 48 hours after adoption ofthe municipal resolution of fair share obligations, or by February
+3, 2025, whichever is sooner; and
+
+===== PAGE 54 =====
+BER-L-000589-25
+06/17/2025 4:50:50 PM
+Pg 54 of 59
+Trans ID: LCV20251786003
+Borough of Midland Park
+January 23, 2025
+Resolution #049-2025
+Page 2 of4
+WHEREAS, Midland Park seeks a compliance certification with the Act and, therefore,
+directs its Affordable Housing Counsel to file a declaratory relief action within 48 hours of the
+adoption of this resolution.
+NOW, THEREFORE, BE IT RESOLVED on this 23" day of January, 2025 by the
+Governing Body of the Borough of Midland Park, County of Bergen, State of New Jersey, as
+follows:
+1.
+The preamble of this resolution is incorporated into the operative clauses of this
+resolution as if set forth in full.
+2;
+For the reasons set forth in this resolution and its attachments, Midland Park
+—
+commits to a Round 4 Present Need (Rehabilitation) Obligation of 0 and a Round 4 Prospective
+Need (New Construction) obligation of 155, as set forth in the October 18, 2024 DCA Report and
+inthe Exhibit to this Resolution, subject to all reservations ofall rights, which specifically include,
+without limitation, the following:
+a)
+The right to a vacant land adjustment, durational adjustments, and all other
+applicable adjustments permitted in accordance with the Act and COAH
+regulations;
+;
+b)
+The right to comply with the NJILGA Legislation if enacted, including the
+right to adjust its fair share obligations;
+c)
+The right to adjust its fair share obligation in the event of any future
+legislation that adjusts the fair share obligations that the DCA reported on October
+18, 2024;
+d)
+The right to adjust its fair share obligations based upon any ruling in the
+Montvale Litigation or other litigation; and
+e) The right to adjust its fair share obligations in the event ofa third party challenge
+to the fair share obligations and Midland Park’s response thereto.
+3.
+Midland Park hereby directs its Affordable Housing Counsel to file a declaratory
+judgment complaint in the appropriate venue within 48 hours after adoption of this resolution
+attaching this resolution.
+4.
+Midland Park hereby authorizes its Affordable Housing Counsel to file this
+resolution with the Program or any other such entity as may be determined to be appropriate.
+5.
+This resolution shall take effect immediately, according to law.
+
+===== PAGE 55 =====
+BER-L-000589-25
+06/17/2025 4:50:50 PM
+Pg 55 o0f59
+Trans ID: LCV20251786003
+Borough of Midland Park
+January 23, 2025
+Resolution #049-2025
+Page 2 of 4
+Wendy bends Borough Clerk
+Mayor Harkysate Jr.
+[Member [Motion [Second [Aye | Nay [Abstain [absent _|
+fimo | |
+S| ww | CT
+fsansone (| S| ow | CT
+fpramis | S| ww | ~ |UTC
+ren [| S|
+|
+ww |CUT
+pane | vy |
+| ~ |
+|
+| |
+he
+|
+|
+|v tt
+|
+|
+CERTIFICATION
+The undersigned, Municipal Clerk for the Borough ofMidland Park, County ofBergen,
+State ofNew Jersey, hereby certifies the foregoing to be a true copy ofa Resolution adopted by
+the Governing Body of the Borough ofMidland Park on January 23, 2025.
+Wendy Martifi}
+Municipal Clerk
+S30
+Fee
+‘<
+
+===== PAGE 56 =====
+ 
+~ 46 ~ 
+Appendix B: 72 Lake Avenue Resolution 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000589-25   06/17/2025 4:50:50 PM   Pg 56 of 59   Trans ID: LCV20251786003 
+
+===== PAGE 57 =====
+:
+_
+BER-L-000589-25
+06/17/2025 4:50:50 PM
+Pg 57 of 59
+Trans ID: LCV20251786003
+J
+4
+ZONING BOARD OF ADJUSTMENT
+BOROUGH OF MIDLAND PARK
+RE:
+72 Lake Avenue, LLC
+72 Lake Avenue
+Block 3, Lot 2
+R-2/MFO-1 Overlay Zone District
+RESOLUTION
+WHEREAS, 72 Lake Avenue, LLC (the “Applicant”) filed an Application with the Midland
+Park Zoning Board ofAdjustment (the “Board”) seeking preliminary and final site plan approval
+so as to allow the construction of a townhouse development with affordable units at 72 Lake
+Avenue, Block 3, Lot 2; and
+WHEREAS, by way of a bifurcated Application, the Board previously heard the Applicant's
+Application for density variance pursuant to N.LS.A. 40:55D-70.1(d)(5) and related bulk
+variances and granted the same at its Public Hearing on November 14, 2018 and approving
+Resolution dated December 12, 2018; and
+WHEREAS, the December
+12, 2018 approving Resolution and conditions therein,
+is
+incorporated herein at length as the conditions of such Resolution remain in effect; and
+WHEREAS, the Applicant now seeks preliminary and final site plan approval with regard to the
+Application; and
+WHEREAS, Public Hearings were held with respect to the site plan application on July 10,
+2019; and
+}
+WHEREAS, the Applicant’s Notice of Public Hearing has been served on all required parties
+and published in accordance with the requirements ofthe Municipal Land Use Law; and
+WHEREAS, the Board has considered the Application and supporting documents submitted by
+the Applicant as they relate to the applicable provisions of the Midland Park Ordinance; and
+WHEREAS, the Board has considered the following exhibits and testimony presented at the
+Public Hearing:
+Bifurcated Application
+1.
+The Applicant previously received approval for variances for density, side yard
+setback, buffer, lot area, and fence height, from the Board on November 14, 2018 and by way of
+memorializing resolution dated December 12, 2018.
+1
+
+===== PAGE 58 =====
+;
+_
+BER-L-000589-25
+06/17/2025 4:50:50 PM
+Pg 58 of 59
+Trans ID: LCV20251786003
+7
+Applicant’s Exhibits
+A-1:
+Preliminary and Final Site Plan 72 Lake, Avenue LLC, by Robert J. Weismann,
+PE & LS, pages 1 through 6, with last revision date June 6, 2019;
+A-2:
+Landscape Plan prepared by Ken Steenstra Landscaping, Inc. dated May 29,
+2019;
+A-3:
+Letter from Architect Mark Braithwaite to Assistant Fire Chief dated July 9,
+2019;
+A-4:
+Photo of proposed under stairs trash and recycling storage;
+A-5:
+Architectural plans by Mark Braithwaite dated May 7, 2019, sheets Al through
+A4 plus cover sheet.
+Board’s Exhibits
+B-1:
+Reports from Board’s Engineer, Richard Wostbrock last updated June 13, 2019;
+B-2:
+Report from Police Chief dated June 27, 2019;
+B-3:
+Report from Fire Prevention dated July 3, 2019.
+Testimony
+May 9, 2018
+2.
+The Board first heard testimony from the Applicant’s professional engineer,
+Robert Weissman. Mr. Weissman testified that the planned drainage improvements for the site
+would improve the runoff (there would be a decrease in water runoff) and storm management for
+the site. He further stated that he could comply with all the recommendations and requirements
+ofthe Board’s Engineer with respect to drainage.
+3.
+Mr. Weissman testified that the Applicant would meet any requirements imposed
+by the Board’s Engineer with regard to lighting.
+4.
+Mr. Weissman further testified that plans would be amended to show a proposed
+6-foot solid fence. He also stated that 3 trees would be removed from the site and that the
+requirements of the soil movement ordinance would be met.
+S:
+Mr. Weissman testified that there would be a pole mounted transformer in front of
+the development and the utilities would run underground to the buildings. Landscaping would
+be planted to screen the utility meters.
+6.
+Mr. Weissman stated that the fire department’s request with regard to the location
+and number of fire hydrants would be met. He further stated that there was no proposal for a
+generator on the site, and he again testified that the Applicant could meet and accommodate any
+and all requirements of Mr. Wostbrock’s report.
+7.
+Mr. Weissman stated that his plans would be corrected to show middle unit 3 as
+the affordable unit.
+2
+
+===== PAGE 59 =====
+_
+BER-L-000589-25
+06/17/2025 4:50:50 PM
+Pg 590f 59
+Trans ID: LCV20251786003
+_
+8.
+Mr. Weissman testified that trash cans and recycling would be stored under the
+stairs when questioned by Board Member Braunius. He further testified that a knox box would
+be provided.
+9.
+A homeowner’s association would be responsible for the maintenance and repair
+of the sanitary sewer line which will be connected to the existing line in Lake Avenue.
+10.
+The Applicant agreed to remove the berm on the eastern side of the property so
+that the same does not interfere with fire department ladder access. In connection with removing
+the berm, the Applicant agreed to increase the size of the proposed trees to 9 to 10 feet in height
+and would plant emerald green arborvitae if required by the Board’s Engineer.
+11.
+The Applicant agreed to consider and install shoebox type light fixtures if
+required by the Board’s Engineer.
+12.
+Resident Trish Williams of 54 Lake Avenue questioned the amount of soil to be
+moved and how it would it affect the site conditions. She also questioned the number of trees to
+be removed and the type of fencing proposed as well as the status of Bergen County’s approval.
+Her questions were addressed and answered by the Applicant.
+The Applicant will meet the
+requirements of the soil movement ordinance, and the Applicant is proposing a solid 6-foot PVC
+fence. The Applicant would be required to secure site plan approval from Bergen County in the
+future.
+13.
+The Board next heard testimony from the Applicant’s architect, Mark Braithwaite.
+Mr. Braithwaite testified that firewalls would go all the way to the rafters. Sprinklers would be
+installed within the proposed buildings and that the third floor would be used for storage if
+desired by residents to be accessed by way of an access panel.
+14.
+Mr. Braithwaite further confirmed that the trash would be stored under the stairs.
+15.
+Board Member Braunius asked if the utility meters could go under the stairwells.
+This idea and/or suggestion was rejected by the Applicant.
+16.
+Mr. Wostbrock questioned and suggested and the Applicant agreed, that the
+building height would be clarified to be no more than 36 feet and the same would be reflected on
+the plans.
+17.
+The Applicant agreed that the changes would be made to the site plans and
+architectural plans to be consistent with Mr. Wostbrock’s comments and requirements as
+outlined in his letters and comments.
+Findings of the Board
+18.
+The Board finds the testimony of the Applicant’s professionals, Robert Weissman
+and Mark Braithwaite to be credible. The Board finds that the Applicant will meet and address
+the concerns and requirements of the Board members and the Board’s professional engineer.
+3

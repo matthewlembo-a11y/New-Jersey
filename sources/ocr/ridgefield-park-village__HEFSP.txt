@@ -1,0 +1,4080 @@
+
+===== PAGE 1 =====
+ 
+ 
+VILLAGE OF RIDGEFIELD PARK 
+    
+ 
+FOURTH ROUND 
+HOUSING PLAN ELEMENT  
+FAIR SHARE HOUSING PLAN 
+ 
+ 
+Prepared June 10, 2025  
+ 
+Adopted by Village Planning Board on June 23, 2025 
+ 
+Endorsed by Village Commissioners on ________  
+ 
+ 
+ 
+ 
+ 
+Prepared by; Kenneth Ochab, P.P. AICP 
+Kenneth Ochab Associates 
+P.P. License #2149 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 1 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 2 =====
+i  
+TABLE OF CONTENTS 
+I  
+INTRODUCTION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+II 
+POPULATION AND HOUSING DEMOGRAPHICS 
+ 
+ 
+ 
+ 1 
+III  
+PROJECTION OF THE HOUSING STOCK     
+ 
+ 
+ 
+ 
+11 
+IV 
+PRIOR THIRD ROUND PLAN 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+V  
+FOURTH ROUND FAIR SHARE PLAN 
+ 
+ 
+ 
+ 
+ 
+14 
+VI 
+VACANT LAND ADJUSTMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+VII  
+PRESENT NEED / REHABILITATION MECHANISMS 
+ 
+ 
+ 
+15 
+V1II 
+SITES PROPOSED FOR AFFORDABLE HOUSING  
+ 
+ 
+ 
+15 
+IX 
+ PROPOSED AFFORDABILITY MECHANISMS 
+ 
+ 
+ 
+ 
+16 
+X 
+DISTRIBUTION OF AFFORDABLE HOUSING UNITS 
+ 
+ 
+ 
+19 
+XI 
+LOW AND MODERATE DISTRIBUTION 
+ 
+ 
+ 
+ 
+ 
+20 
+XII 
+FAMILY AND FAMILY RENTAL DISTRIBUTION  
+ 
+ 
+ 
+20 
+XIII 
+VERY LOW-INCOME AFFORDABLE UNITS 
+ 
+ 
+ 
+ 
+21 
+XIV 
+ADMINISTRATION OF INCLUSIONARY DEVELOPMENT 
+ 
+ 
+21 
+XV 
+DEVELOPMENT FEE AND HOUSING TRUST FUND 
+ 
+ 
+ 
+21 
+XVI 
+HOUSING BONUS CREDITS 
+ 
+ 
+ 
+ 
+ 
+ 
+22 
+XVII 
+AFFORDABLE HOUSING LOCATION MAPS 
+ 
+ 
+ 
+ 
+23 
+XVIII SITE SUITABILITY ANALYSIS 
+ 
+ 
+ 
+  
+ 
+ 
+26 
+XIX 
+APPENDICES 
+ 
+(I) VILLAGE OF RIDGEFIELD PARK SPENDING PLAN  
+ 
+ 
+34 
+(II) VACANT LAND ADJUSTMENT ANALYSIS 
+ 
+ 
+ 
+ 
+43 
+ 
+ 
+(III) RIDGEFIELD PARK AFFORDABLE HOUSING AND DEVELOPMENT 
+108 
+ FEE ORDINANCE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(IV) MT. VERNON STREET REDEVELOPMENT PLAN 
+ 
+ 
+ 
+138 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 2 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 3 =====
+ii 
+ 
+(V) PIAZZA AND ASSOCIATES – AFFORABLE HOUSING  
+         SERVICES CONTRACT   
+ 
+ 
+ 
+ 
+ 
+            173 
+ (VI) RIDGFIELD PARK AFFIRMATIVE HOUSING MARKETING PLAN              186 
+ 
+ 
+(VII) RIDGEFIELD PARK ENERGY ASSISTANCE PROGRAM  
+ 
+ 
+235 
+ 
+(VIII) RIDGEFIELD PARK RENTAL GRANT PROGRAM   
+ 
+ 
+244 
+ 
+ 
+(IX) RIDGEFIELD PARK RENTAL ASSISTANCE PROGRAM  
+          OPERATING MANUAL  
+ 
+ 
+ 
+ 
+ 
+ 
+250 
+ 
+(X) RIDGEFIELD PARK AFFORDABLE SALES AND 
+       RESALES PROGRAM OPERATION MANUAL  
+ 
+ 
+ 
+291 
+ 
+(XI) RIDGEFIELD PARK AFFORDABILITY ASSISTANCE 
+           DOWN PAYMENT GRANT PROGRAM 
+ 
+ 
+ 
+ 
+341 
+ 
+ 
+(XII) RIDGEFIELD PARK RESOLUTION APPOINTING VILLAGE  
+AFFORDABLE HOUSING LAISION  
+ 
+ 
+ 
+ 
+352 
+ 
+ 
+(XIII) ROUND THREE COMPLIANCE DOCUMENTS 
+ 
+ 
+ 
+354 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The original of this document is signed and sealed in accordance with N.J.S.A. 45:14A-12 
+Kenneth Ochab 
+Kenneth Ochab, AICP, P.P. 
+New Jersey Professional Planner (PP) License: 33LI00214900
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 3 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 4 =====
+- 1 - 
+ 
+INTRODUCTION 
+The Fourth-Round Housing Element and Fair Share Plan (HEFSP) addresses the Village’s 
+requirements pursuant to the Fair Housing Act as amended.   The bill that was signed into law 
+by Governor Murphy on March 20, 2024, known as P.L. 2024, c.2.  Pursuant to P.L. 2024, c.2, the 
+Department of Community Affairs (“DCA”) issued a non-binding report dated October 18, 2024, 
+outlining what it determined each municipality’s housing obligation to be for the Fourth Round.  
+The DCA calculated the Village’s Fourth Round obligation to be present need, or rehabilitation 
+obligation of 163 and a prospective need, or new construction obligation of 126 for Ridgefield 
+Park.  By binding resolution dated January 14, 2025, the Village determined its Fourth-Round 
+obligation to be the DCA’s calculated numbers.  The HEFSP conforms to the legislative 
+requirements and affordable housing regulations to address the Village’s Fourth Round 
+obligation.  The Plan will be adopted by the Village Planning Board, subsequent to public 
+hearing and review.  
+POPULATION AND HOUSING DEMOGRAPHICS 
+The basic elements of the housing plan include an understanding of the demographic profile of 
+the community, including the population trends and projections, housing characteristics and 
+employment status of the Village.  Table 1 provides the historic population growth in the Village 
+from 1900 to 2023.  This table shows that the Village was principally developed in the 1920s and 
+1930s.  Recent decades have shown periods of minimal growth offset by several declines in the 
+overall population.  The total Village population is still down approximately 5.9% from the high 
+in 1970. 
+Table 1 
+Historic Population Trends 
+Year Population Change Percent 
+1900 
+1,987 
+ 
+ 
+1910 
+4,512 
+2,525 
+127.1% 
+1920 
+8,575 
+4,064 
+90.0% 
+1930 
+10,764 
+2,189 
+25.5% 
+1940 
+11,277 
+513 
+4.8% 
+1950 
+11,993 
+716 
+6.3% 
+1960 
+12,701 
+708 
+5.9% 
+1970 
+13,990 
+1,289 
+10.1% 
+1980 
+12,738 
+-1,252 
+-8.9% 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 4 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 5 =====
+- 2 - 
+ 
+1990 
+12,454 
+-284 
+-2.2% 
+2000 
+12,873 
+419 
+3.4% 
+2010 
+12,729 
+-144 
+-1.1% 
+2023 
+13,167 
+438 
+3.4% 
+ 
+ 
+ 
+ 
+Bergen County Planning Board, Historical 
+ 
+ 
+ 
+ 
+Population Trends and U.S, Census Bureau 2023.  
+ 
+Table 2 shows the profile of the Village population by gender and age between the years 2000 to 
+2023.  The data shows a significant trend upwards in the under 5 age category and the 65 to 74 
+age categories between 2010 and 2023.  A marked decline is shown in the 5 to 9 age group.    
+Table 2 
+Profile of Population 2000 and 2023 
+Age/ Sex 2000 
+2010 
+2023 
+Change 
+ 2010 -23 
+Percent 
+2010-23 
+Male 
+6,150 6,168 6,300 
+132 
+2.1% 
+Female 
+6,723 6,561 6,867 
+306 
+4.7% 
+Under 5 
+755 
+672 1,151 
+479 
+71.3% 
+5-9 
+818 
+755 
+479 
+-276 
+-57.6% 
+10-19 
+1,571 1,677 1,565 
+-112 
+-7.2% 
+20-34 
+2,701 2,532 2,747 
+215 
+-8,5% 
+35-54 
+4,126 3,949 3,635 
+-314 
+-8.6% 
+55-64 
+1,247 1,556 1,700 
+144 
+9.3% 
+65-74 
+952 
+865 1,138 
+273 
+31.6% 
+75+ 
+703 
+723 
+752 
+29 
+4.0% 
+ 
+ 
+ 
+        U.S. Census Bureau 2010 and 2020 
+ 
+Table 3 provides the population projections tabulated by the regional planning authority for the 
+year 2050.  It projects a population increase of 4,037 in the next 27 years.  Much of this increase 
+would need to come from Challenger Road redevelopment areas within the Village, as there is 
+little vacant buildable land, and the existing residential areas consist of primarily small lots with 
+single or two-family homes.  It should be noted that this projection far outpaces any actual growth 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 5 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 6 =====
+- 3 - 
+ 
+that the Village has seen in the past 60 years and is not considered to be realistic by the Village 
+Planning Board.   
+Table 3 
+Municipal Population Projections 
+Year Population  Change Percent 
+2023 
+13,167 
+ 
+ 
+2050 
+17,204 
+4,037 
++3.1% 
+Source: North Jersey Planning Authority, 2024  
+The demographic data can be used to show indices of housing need through the analysis of 
+household and family formation.  Table 4 below indicates that in 2023, there were 5,113 
+households in the Village with 3,351 family households.  Households with one parent total 1,227 
+or 24% of all households. 
+Table 4 
+2023 Household Profile 
+Total Households 
+5,113 
+1 Person Households 
+1,436 
+Family Households 
+3,351 
+Male HH/ No Spouse 
+w/children 
+468 
+Female HH/No Spouse 
+w/ children 
+759 
+U. S. Census, 2023, Household Size, Household Type  
+ 
+Table 5 provides details on the size of households by ownership status (own/rent).  Of the total 
+households between 2010 and 2023, single person households increased by 6.7% whereas 
+households having 5 or more persons decreased by 15.7%.    
+Table 5 
+2010-2023 Household Characteristics 
+ 
+Owner 
+2010 
+Renter 
+2010 
+Total Owner 
+2023 
+Renter 
+2023 
+Total 
+2023 
+Total Households 
+2,661 
+2,190 4,851 
+2,930 
+2,183 5,113 
+1 Person Household 
+517 
+829 1,346 
+646 
+790 1,436 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 6 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 7 =====
+- 4 - 
+ 
+2 Person Household 
+722 
+625 1,347 
+899 
+541 1,440 
+3 Person Household 
+517 
+356 
+873 
+501 
+370 
+871 
+4 Person Household 
+492 
+227 
+719 
+630 
+247 
+877 
+5 Person Household 
+249 
+110 
+359 
+189 
+65 
+254 
+6 Person Household 
+100 
+23 
+123 
+54 
+170 
+224 
+7+ Person Household 
+64 
+20 
+84 
+11 
+0 
+11 
+U.S. Census, 2010/2023, Tenure by Household Size, Table H16 and B25009 
+ 
+Table 6 lists family income data within the Village and shows that the median income for families 
+in the Village is $112,975 with per capita income of $44,084.  The per capita income is the 13th 
+lowest in Bergen County with Fairview the lowest at $22,477 and Alpine the highest at $107,604.  
+In 2023, 185 families had income below the poverty level of approximately $24,600 for a family of 
+4 people. 
+Table 6 
+2023 Household Income Characteristics 
+Less Than $10,000 
+280 
+$10,000 to $14,999 
+65 
+$15,000 to $34.999 
+550 
+$35,000 to $74,999 
+1,169 
+$75,000 to $149,999 
+1,605 
+$150,000 + 
+1,444 
+Families Below Poverty Level (2023) 
+382 
+Median Family Income 
+$112,975 
+Per Capita Income 
+$44,084 
+U.S. Census Bureau, Table ACSST5Y2023.51903 
+ 
+Table 7 shows residential sales data for 2023 for the Village and selected municipalities in Bergen 
+County.  Ridgefield Park has the seventh lowest average residential sales price; only higher than 
+Bogota, Elmwood Park, Rochelle Park, Saddle Brook, Hackensack and Lodi.   This is a reflection 
+of the modest housing sizes and age of the housing stock in the Village. 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 7 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 8 =====
+- 5 - 
+ 
+Table 7 
+2023 Average Residential Sales Price Per Municipality 
+Bergen County 
+$745,400 
+Ridgefield Park 
+$505,493 
+Hackensack 
+$385,793 
+Ridgefield 
+$633,167 
+Teaneck 
+$605,486 
+Bogota 
+$314,460 
+Franklin Lakes 
+$1,522,421 
+Alpine 
+$4,142,079 
+(Source: New Jersey Dept. of Treasury) 
+Table 8 shows the age of the housing stock.  Just under 50% of the Villages housing was 
+constructed prior to 1939 and 93% of the Village’s housing was constructed prior to 1960.  The 
+absence of new housing construction after 2010 suggests a correlation between the age of the 
+housing stock, median family income and residential sales data.  In Ridgefield Park, homes built 
+during the mid-1900s on small lots tended to be of modest size which today result in more 
+affordable homes when compared to Bergen County home sales. 
+Table 8 
+Age of the Housing Stock 
+Year Structure Built Occupied 
+Units 
+Percent 
+2020 or later 
+11 
+0.2% 
+2010 to 2019 
+27 
+0.5% 
+2000 to 2009 
+97 
+1.8% 
+1980 to 1999 
+237 
+4.4% 
+1960 to 1979 
+1,278 
+23.7% 
+1940 – 1959 
+1,368 
+25.4% 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 8 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 9 =====
+- 6 - 
+ 
+1939 or earlier 
+2,371 
+44.0% 
+Total 
+5,389 
+100% 
+Source: U.S. Census Bureau, 2010 Housing  
+Characteristics, Table ACSCP5Y2023. CP04 
+ 
+Table 9 shows the number of dwelling units in various structures in the Village.  Although 
+single family homes are the dominant unit type, the Village has 29% of its total housing units in 
+structures of 5 or more units.   
+Table 9 
+Dwelling Type 
+Units in Structure 
+Units in  
+Structure 
+Number of 
+Units 
+Percentage 
+1- Unit detached 
+2,220 
+41.2% 
+1- Unit attached 
+124 
+2.3% 
+2 units  
+1,277 
+23.7% 
+3 or 4 units 
+221 
+4.1% 
+5 to 9 units 
+75 
+1.4% 
+10 to 19 units 
+533 
+9.9% 
+20 or more units 
+928 
+17.2% 
+Mobile 
+0 
+0 
+Boat, RV, Van 
+11 
+0.2% 
+Total 
+5,389 
+100 
+Source: U.S. Census Bureau, 2023 Housing  
+Characteristics, Table ACSCP5Y2023. CP04 
+The value of owner-occupied housing is shown in Table 10.  The median value of all units is 
+$459,400, which is among the lowest in Bergen County.  Just under 50% of the owner-occupied 
+homes are valued between $300,000 and $499,000.   
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 9 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 10 =====
+- 7 - 
+ 
+Table 10 
+Value of Units 
+Owner Occupied 
+Value of  
+Units 
+Number of 
+Units 
+Percentage 
+Less than $50,000 
+35 
+1.2% 
+$50,000 to $149,999 
+193 
+6.6% 
+$150,000 to $199,999 
+73 
+2.5% 
+$200,000 to $299,999 
+111 
+3.8% 
+$300,000 to $499,999 
+1,415 
+48.3% 
+$500,000 to $999,999 
+1,094 
+37.3 
+$1,000,000+ 
+9 
+0.3% 
+Total Units 
+2,930 
+100% 
+Median Value 
+$459,400 
+ 
+Source: U.S. Census Bureau, 2023 Housing  
+Characteristics, Table ACSCP5Y2023. CP04 
+Tables 11 and 12 show monthly housing costs and the housing costs as a percentage of 
+household income for owner occupied housing units.  It is noted that almost 40% (or 837 units) 
+of the households in owner occupied units have housing costs in excess of 35% of household 
+income. 
+Table 11 
+Monthly Owners Costs for Housing Units with Mortgage 
+Owners Costs 
+Per Month 
+Number of Units 
+2019-2023 estimates 
+Percentage 
+ Housing Units 
+With Mortgage 
+2,098 
+ 
+Less than $500 
+12 
+0.6% 
+$500 to $999 
+0 
+0.0% 
+$1,000 to $1,499 
+55 
+2.6% 
+$1,500 to $1,999 
+176 
+8.4% 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 10 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 11 =====
+- 8 - 
+ 
+$2,000 to $2,499 
+259 
+12.4% 
+$2,500 to $2,999 
+380 
+18.1% 
+$3,000 or more 
+1,216 
+58.0% 
+Median (dollars) 
+$3,129 
+ 
+Source: U.S. Census Bureau, 2023 Housing Characteristics, Table ACSCP5Y2023.CP04 
+ 
+ 
+Table 12 
+Monthly Owners Costs as a Percentage of Household Income 
+(with a mortgage) 
+Percent of Income 
+Number of Units 
+2019-2023 estimates 
+Percentage 
+ Housing Units 
+With Mortgage 
+2,098 
+100% 
+Less than 20% 
+506 
+24.1% 
+20.0% to 24.9% 
+478 
+22.8% 
+25.0% to 29.9% 
+407 
+19.4% 
+30.0% to 34.9% 
+136 
+6.5% 
+35.0% or more 
+571 
+27.2% 
+Source: U.S. Census Bureau, 2023 Housing  
+Characteristics, Table ACSCP5Y2023.CP04 
+For renters in the Village, 59.1% pay more than $1,500 per month, however 50.4% pay more than 
+30% of household income for rental housing (Tables 13 and 14). 
+ 
+Table 13 
+Occupied Units Paying Rent 
+   Gross Monthly Rent 
+Number of Units 
+2019-2023 estimates 
+Percentage 
+Occupied Units 
+2,077 
+100% 
+Less than $500 
+10 
+0.5% 
+$500 to $999 
+35 
+1.7% 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 11 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 12 =====
+- 9 - 
+ 
+$1,000 to $1,499 
+804 
+38.7% 
+$1,500 to $1,999 
+713 
+34.4% 
+$2,000 to $2,499 
+415 
+20.0% 
+$2,500 to $2,999 
+96 
+4.6% 
+$3,000 or more 
+2 
+0.1% 
+No Rent Paid 
+106 
+ 
+Median Rent 
+$1,633 
+ 
+Source: U.S. Census Bureau, 2023 Housing Characteristics, Table ACSCP5Y2023.CP04 
+Table 14 
+Gross Rent as a Percentage of Household Income 
+Occupied Units 
+Paying Rent 
+Number of  
+Units  
+Percentage 
+Total Units 
+2,077 
+100% 
+Less than 15.0% 
+154 
+7.4% 
+15.0% to 19.9% 
+183 
+8.8% 
+20.0% to 24.9% 
+465 
+22.4% 
+25.0% to 29.9% 
+228 
+11.0% 
+30.0% to 34.9% 
+166 
+8.0% 
+35.0% or more 
+881 
+42.4% 
+Not computed 
+106 
+ 
+Source: U.S. Census Bureau, 2010 Housing Characteristics, Table ACSCP5Y2023.CP04 
+Table 15 provides an indication of housing in need of rehabilitation and poor housing conditions.  
+The primary factor in this table is the number of occupants per room which is an indication of 
+overcrowded conditions in 308 housing units in the Village.   
+Table 15  
+Condition of the Housing Stock 
+Criteria 
+Number of Units Percentage 
+Total   Housing Units 
+5,389 
+100% 
+Lack of Complete Plumbing 
+23 
+0.4% 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 12 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 13 =====
+- 10 - 
+ 
+Lack of Telephone Service 
+85 
+1.6% 
+Lack of Adequate Heat 
+41 
+0.7% 
+Occupants per Room  
+Greater than 1.0 
+308 
+5.7% 
+Source: U.S. Census Bureau, 2023 Housing  
+Characteristics, Table ACSST5Y2023.S2504 
+Table 16 shows that Ridgefield Park has a total of 6,451 resident persons employed. Almost 40% 
+are employed in the management, business, sales and office sectors of the economy.  Only 456 
+persons are employed in production or transportation jobs which follows the general trend in the 
+County of declining manufacturing jobs.   
+Table 16 
+Selected Population Employed by Occupation (16+ years old) 
+  Occupation 
+Ridgefield Park 
+Total  Percent 
+Total Employed 
+6,451 
+100% 
+Management, Business, Science, Arts, Financial 
+2,474 
+38.4% 
+Sales, Office, Administrative 
+1,141 
+17.6% 
+Education, Legal, Media 
+585 
+9.1% 
+Service  
+543 
+8.4% 
+Construction, Maintenance 
+457 
+7.1% 
+Production, Transportation 
+456 
+7.1% 
+Healthcare 
+402 
+6.2% 
+Computer, Mathematical, Engineering 
+Architectural 
+393 
+6.1% 
+Source: U.S. Census Bureau,2023 Occupation by Sex Full Time Year-Round Employed 
+Population 16 Years and Over, Table ACSST5Y2023.S2402 
+ 
+Table 17 projects the future employment within the Village by the regional planning authority to 
+the year 2045.  From 2015 to 2045 the Village is projected to increase its employment base by 6,291 
+jobs or 3.2% annually.  This is apparently a reflection of the proposed redevelopment plans at 
+Skymark and in the Challenger Road area.  However, the current plans for projects in these areas 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 13 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 14 =====
+- 11 - 
+ 
+cast significant doubt on whether these projects could support a 160% increase in jobs over this 
+time period. As a result, the Planning Board does not view this projection as realistic. 
+ 
+Table 17 
+Municipal Employment Projections 
+Year 
+Jobs 
+Change Annual Percent 
+2023 6,451 
+ 
+ 
+2050 5,605 
+-846 
+-13.1% 
+Source: 2050 Projections North Jersey Planning Authority, 2024 
+PROJECTION OF THE HOUSING STOCK 
+The Fair Housing Act requires that a housing element must project the municipality’s future 
+housing stock.  This would include a projection of the low and moderate- income housing for 10 
+years.  This data is derived from construction and demolition permits, approved housing projects 
+by the municipal government as well as the projection of the Third-Round Housing Plan. 
+From 2020 to 2024 forty-one single and two-family residential building permits were issued 
+within the Village.  However, these permits were not for new housing construction, but rather for 
+additions and expansions of existing single and two-family homes.  The likelihood of new single 
+and two-family development within the older portion of the Village is low due to the fully 
+developed nature of the Village and the absence of vacant land.   
+The regional planning authority projects an increase of 5,000 persons to the year 2045.  This 
+population growth is expected to occur principally in the portions of the Village west of the 
+Overpeck Creek (Challenger Road) where land is available, and redevelopment plans are being 
+encouraged by the Village.  Multi-family housing may also be constructed in future 
+redevelopment areas elsewhere in the Village according to the Village’s Master Plan, zoning 
+ordinance and redevelopment plans.  Based on the above, table 18 shows the projection of the 
+housing stock to 2035.  Estimates for 2026 to 2035 for single and two-family permits are for new 
+home construction. 
+Table 18 
+Third Round Housing Projections 
+Year One and Two Family 
+Construction 
+Permits 
+Multi-Family 
+Units 
+ 
+Affordable Units  
+ 
+2020 
+8 
+0 
+0 
+ 
+2021 
+9 
+0 
+0 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 14 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 15 =====
+- 12 - 
+ 
+2022 
+7 
+24 
+4 
+ 9-13 Lincoln Ave. 
+(3rd Round) 
+2023 
+9 
+0 
+0 
+  
+2024 
+8 
+0 
+0 
+ 
+2025 
+3 
+0 
+0 
+ 
+2026 
+2 
+216 
+22 
+95 Challenger Rd. 
+(3rd Round) 
+2027 
+1 
+0 
+0 
+ 
+2028 
+2 
+330 
+33 
+64 Challenger Rd. 
+(3rd Round) 
+2029 
+2 
+270 
+27 
+64 Challenger 
+(3rd Round) 
+2030 
+2 
+0 
+0 
+ 
+2031 
+2 
+300 
+24 
+60 Challenger 
+(3rd Round) 
+2032 
+0 
+0 
+0 
+ 
+2033 
+0 
+252 
+25 
+60 Challenger Rd. 
+(3rd Round) 
+2034 
+0 
+0 
+0 
+ 
+2035 
+0 
+0 
+0 
+ 
+ 
+PRIOR THIRD ROUND PLAN 
+The Third Round Housing Element and Fair Share Plan was adopted by the Village Planning 
+Board on September 9, 2024, and endorsed by the Village Commissioners on September 24, 2024.    
+The Plan covered the period from 1999 to 2025.  The Plan called for a prospective need of 259 
+affordable housing units.  The Third Round Housing Plan was the result of a settlement 
+agreement with New Jersey Fair Share Housing Center in 2018, as amended in 2021.  Following 
+a duly notice joint fairness and compliance hearing, the Court entered a final Judgment of 
+Compliance and Repose (“JOR”) dated December 30, 2024. 
+The Plan called for the inclusionary development in four housing projects within the Village 
+which is shown in Table 18.  The 9-13 Lincoln Avenue development was constructed and now 
+provides four affordable units, two one-bedroom and two two-bedroom units.  One three- 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 15 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 16 =====
+- 13 - 
+ 
+bedroom unit was transferred to the 60 Challenger Road project as agreed upon.   The deed 
+restrictions for the four affordable units (30 years) have been filed and are included in appendix 
+XIV.   
+The other three projects are in the Challenger Road Redevelopment District and have been 
+approved.  These projects are working toward construction and obtaining necessary permits.   
+All three Challenger Road projects are subject to improvements required to be made to the area 
+sewerage system.   All three development projects will participate in funding these 
+improvements.  The Village originally anticipated these improvements to be made by January 
+2026.  However, it is not likely that the projects will be fully developed by that time and that the 
+improvement timeline could be extended without affecting the occupancy of any affordable 
+units.  
+The project at 95 Challenger Road is most likely to begin construction this year (2025).  The 
+project will result in 22 affordable units with a 30-year deed restriction for the rental units, as it 
+was previously approved prior to the imposition of the Court’s new Uniform Housing 
+Affordability Controls (“UHAC”).  An application has been made to the Village for footing and 
+foundation permits. Table 18 schedules this project to come online in 2026. 
+The project at 64 Challenger Road is likely to follow 95 Challenger Road.  The project requires 
+NJDEP permitting and remediation for an existing landfill on the property.  We have requested 
+reports from the LRSP and the redeveloper for this project on these issues.  The development 
+proposes 600 residential units in two phases with 60 affordable units.  These units will also be 
+subject to a 30-year deed restriction, as it was previously approved prior to the imposition of the 
+Court’s new Uniform Housing Affordability Controls (“UHAC”).  The Village anticipates 
+construction of this project in 2028 and 2029.   
+The project at 60 Challenger Road was approved for 552 residential units in 2020.  The Village 
+Planning Board has granted an extension of the site plan approvals to 2026.  The project will 
+provide 56 affordable units and the addition of one three-bedroom unit from the 9-13 Lincoln 
+project.  The bedroom and income distribution of the affordable units have not been determined 
+but will conform to the pertinent regulations.  This project has been scheduled for 2031 and 2033 
+in the implementation table 18 above.   
+All the Challenger Road projects remain viable, and the Village intends to complete these 
+projects in the next ten years. 
+FOURTH ROUND FAIR SHARE PLAN 
+The Village of Ridgefield Park’s prospective need for affordable housing obligation for the 
+Fourth Round is 126.  However, the Village is applying for a vacant land adjustment as it lacks 
+sufficient land to address its Fourth-Round obligation.   
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 16 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 17 =====
+- 14 - 
+ 
+VACANT LAND ADJUSTMENT 
+The State of New Jersey Department of Community Affairs has established the affordable 
+housing obligations for each municipality.  A component of that obligation (126 units) is derived 
+from utilizing the vacant land presumably available for housing production.  The data is from 
+the MOD-IV model which is derived from the 2023 tax assessment records.  An analysis of this 
+data shows that none of the identified vacant parcels selected by the model were viable for 
+affordable housing development (appendix II).  The DCA identified 1.10 acres within the Village 
+as being available for development. 
+The Village conducted a separate study and reviewed the “vacant land” assessed properties in 
+the Village of Ridgefield Park and assessed each parcel for its ability to provide affordable 
+housing.  The characteristics for each property together with the tax map sheet section and the 
+aerial photograph of the sites are included in appendix II.    
+The vacant land use category includes 19.07 acres of land in the Village.  After review, it appears 
+that there are 2.55 acres of land that may be available in six parcels of land.  Of the six parcels, 
+three are in the heavy industrial zone and are currently utilized as trucking sales and service 
+businesses and unavailable.  
+Of the remaining three parcels, two are in residential zones and one is in the highway 
+commercial zone adjacent to other commercial uses.  The largest parcel is 0.23 acres and fronts 
+on Route 46.  One other parcel is 50’x180” and is owned by the adjoining lot owner.  Zoning 
+would permit only one single-family home on this lot.   
+In addition, the vacant list included property at 60 Challenger Road that is approved for multi-
+family development and is committed to affordable housing in Round Three.  Another parcel on 
+Industrial Ave. was a golf driving range and now has a warehouse building constructed on the 
+site.  
+In totality, the Village’s review resulted in potential developable land being a total of 0.55 acres 
+within the Village.  Therefore, the Village is requesting a vacant land adjustment that would 
+result in a realistic development potential (RDP) of 0.   
+PRESENT NEED / REHABILITATION MECHANISM 
+The rehabilitation program for the Village of Ridgefield Park proposes to rehabilitate existing 
+substandard housing occupied by low-and-moderate-income families or households.  The 
+substandard criteria include health and safety violations that require repair or replacement of 
+major systems.  These systems include roof, plumbing, heating, electrical, and load-bearing 
+systems of the structure.  Weatherization is also a component of rehabilitation need.  The 
+rehabilitation must result in the removal of building or property maintenance code violations.  
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 17 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 18 =====
+- 15 - 
+ 
+Once units are rehabilitated under this program, a 10-year control on affordability is placed on 
+rental units and a 10-year control or a perpetual lien is placed on owner occupied units. 1 
+The Bergen County, Division of Community Development will administer the Home 
+Improvement Program (HIP) for the Village.  The funding supports improvements to single 
+family homes ($17,500) and two-family homes ($25,000). The Village will provide a supplement 
+of $20,000 per unit to supplement the County funds.  No shared services agreement with the 
+County is required to participate in this program.   
+   
+SITES PROPOSED FOR AFFORDABLE HOUSING 
+In its Round Four planning, the Village did not receive any interest letters from developers 
+seeking to be included within the Village’s Fourth Round Plan.   
+Since the Village is seeking a vacant land adjustment, N.J.S.A. 52:27D-310.1 states the following: 
+“Any municipality that receives an adjustment of its prospective need obligations for the fourth 
+round or subsequent rounds based on a lack of vacant land shall, as part of the process of 
+adopting and implementing its housing element and fair share plan, identify sufficient parcels  
+likely to redevelop during the current round of obligations to address at least 25 percent of the 
+prospective need obligation that has been adjusted and adopt realistic zoning that allows for 
+such adjusted obligation, or demonstrate why the municipality is unable to do so.” The 
+amended FHA does not clearly define the “adjusted” portion of the obligation as both the RDP 
+and Unmet Need represent adjustments of the total obligation.  This Plan satisfies at least 25% of 
+each component, so it is agnostic as to potential future interpretation of how each component of 
+the adjusted obligation should be addressed.   
+The Village’s HEFSP complies with this requirement through the Mt. Vernon Street 
+Redevelopment Plan which will provide at least 27 affordable units and an amendment to the 
+Challenger Road zoning scheme or Challenger Road Redevelopment Plan which would provide 
+for an additional 58 affordable units, totaling 85 affordable units.  
+ PROPOSED AFFORDABILITY MECHANISMS  
+Carry Over Credits from Round Three / Extension of Affordability Controls 
+Lombardi Towers is a senior residential project that provided first round credits toward the 
+Village’s affordable housing obligation.  In the third round the affordability controls were 
+extended to 39 units leaving a surplus of 22 units to be applied to this round.  Therefore, the 
+Village can apply credit for the 22 units through the extension of the affordability controls.  
+Affordability extensions have been provided through 2035.  These shall go towards the Village’s 
+Unmet Need.   
+ 
+ 
+1 To the extent permitted by then applicable regulations. 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 18 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 19 =====
+- 16 - 
+ 
+ 
+Mt Vernon Street Redevelopment Plan 
+An area of the downtown Village has been designated as a redevelopment area and a 
+redevelopment plan has been adopted by the Village Commissioners to guide the 
+redevelopment process.  The plan is designed as an overlay zone to the commercial /residential 
+zoning to a portion of the zone district.  The redevelopment plan encourages mixed use retail 
+and residential development along Mt. Vernon Street with multi-family development in 
+proximity to the Village’s commercial district.  A minimum of 15% of the total residential units 
+proposed will be set aside for affordable housing in the mixed-use projects.  A minimum of 20% 
+affordable set aside will be applied to the single use multi-family development projects.  If all 
+the designated properties are developed in accordance with the plan, 20 to 30 affordable units 
+could result. The full redevelopment plan is included in appendix IV.   The rental affordability 
+controls will be revised in the Redevelopment Plan to 40 years to be consistent with revised 
+regulations.  
+The specific properties within the Redevelopment Area to provide affordable housing include: 
+30 Mt. Vernon Street (Block 64 Lot 12) – 6 units 
+This property lies at the intersection of Mt. Vernon Street and Lincoln Avenue (Block 64 Lot 12).  
+It is 0.25 acres in size and is currently used for off-street parking.  There is a concept plan being 
+developed by the property owners to redevelop the site with retail and parking together with 40 
+residential units.  If this number of units is realized, 6 affordable housing units would become 
+available.  The existing Mt. Vernon Redevelopment Plan permits the proposed development for 
+this site as well as the affordable units.  No rezoning is required.   
+ 
+36 Mt. Vernon Street (Block 63 Lots 20 – 23) – 0 units 
+This project consists of four lots that front on Mt. Vernon Street.  The land uses include one 
+restaurant and three houses.  These properties are in the C-1H Central Business Historic Zone.  
+Permitted use includes retail shops on the ground floor with residential units above and allows 
+a four-story building.  This parcel has site plan approval for retail shops and parking on the 
+ground floor and 28 residential units on the upper floors.  At the time of approval, the applicant 
+was required to make payments to the Village Affordable Housing Trust Fund and not required 
+to construct affordable units.  That cannot be altered unless the redeveloper resubmits another 
+redevelopment application.  There is discussion of amending the approved plan to add 
+additional property in which case, the trust fund payment requirements may be revisited by the 
+Village toward requiring the construction of affordable units.   Nevertheless, no affordable 
+credits have been taken at this time.  No rezoning is required 
+ 
+Disability Association of New Jersey (Block 64 Lots 4, 15, 16) - 7 units 
+This property is located along Mt. Vernon Street adjacent to 30 Mt. Vernon Street Block 64 Lots 
+14, 15 and 16).  It is approximately 0.5 acres and has 200 feet of frontage along Mt. Vernon Street.   
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 19 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 20 =====
+- 17 - 
+ 
+It is owned by a non-profit social service entity and is currently utilized to park their 
+transportation vans on the site.  There is no current proposed development plan, but the Village 
+has estimated that a minimum of 45 to 50 residential units is possible on the site, which would 
+result in a minimum of 7 affordable units.  The property would be developed as a mixed-use 
+retail and residential development with building height of four stories.  No rezoning is required. 
+ 
+Lincoln Court (Block 86 Lot 1) - 14 units 
+This property fronts on Lincoln Avenue, Spruce and Hobart Streets and currently has 22 duplex 
+residential units on the site that were built in 1956 (Block 86 Lot 11).  The redevelopment plan 
+would permit multi-family residential development up to 4 stories in height.  This could 
+potentially yield up to 70 market units resulting in a minimum of 14 affordable residential units.  
+No rezoning is required. 
+ 
+Other Affordable Housing Locations 
+Samsung Building, 85 Challenger Road (Block 24.03 Lot 3.01)  -  30 units 
+This site is located in the Challenger Road Office/Residential Park along Overpeck Creek.  The 
+current tenant in the building is vacating the premises leaving the building available for 
+adaptive reuse concepts.  The current office will be converted to residential apartments.  The site 
+is 6.3 acres in size and has an 8-story building with internal parking.  The total building square 
+footage is approximately 309,000 square feet.  A conversion to residential apartments would 
+yield approximately 250 units. A 20% affordable housing set aside would result in 50 affordable 
+units on the site.  This shall be done via overlay zoning or amending the Challenger Road 
+Redevelopment Plan, to the extent this site would qualify pursuant to the criteria of the Local 
+Redevelopment and Housing Law, to include this parcel, as it is in close proximity to the 
+currently existing Challenger Road Redevelopment area residential projects. 
+American Multi-Cenema, 75 Challenger Road (Block 24.03 Lot 3.02) – 28 units 
+The site currently contains a movie theatre complex with off-street parking on an adjacent lot.  
+The property is 2.9 acres in size and can accommodate a total of 140 residential units which is 
+consistent with the residential development project at 95 Challenger Road.  A 20% affordable 
+housing set aside would result in 28 affordable units on the site.  A redevelopment amendment 
+will be necessary to effectuate the housing development on this site.  This shall be done via 
+overlay zoning or amending the Challenger Road Redevelopment Plan, to the extent this site 
+would qualify pursuant to the criteria of the Local Redevelopment and Housing Law, to include 
+this parcel, as it is in close proximity to the currently existing Challenger Road Redevelopment 
+area. 
+Elks Club (Block 96 Lot 1) – 16 units 
+The Elks Club property is located on Spruce and Cedar Streets (Block 96 Lot 1).  It is 1 acre in 
+size and presently has the organization’s building and parking lot.  The building is four stories 
+tall.  The property is in the R-4 residential zone which permits multi-family development in 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 20 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 21 =====
+- 18 - 
+ 
+seven story buildings.  This property backs to the railroad with a multi-family development 
+across Cedar Street.  The application of the R-4 zone criteria would result in approximately 80 
+multi-family units on the site of which a minimum of 16 units would be affordable.  The Mt. 
+Vernon Street Redevelopment Plan will be amended to include this property.  This shall be done 
+via overlay zoning or amending the Mt. Vernon Street Redevelopment Plan, to the extent this 
+site would qualify pursuant to the criteria of the Local Redevelopment and Housing Law, to 
+include this parcel, as it is in close proximity to the Mt. Vernon Street Redevelopment area. 
+TD Bank Bldg. (Block 75 Lots 5.01, 8) - 3 units 
+The TD bank building is located on Main Street at the northern edge of the downtown district 
+(Block 75 Lots 5.01 and 8).  The building was the principal four-story office for the bank but is 
+now vacant.  The property is in the C-1H (Commercial Historic District) zone and permits 
+residential development above first floor retail use.  Approximately 20 -25 apartments are 
+possible with 3 affordable units.  This development would be an adaptive reuse of the existing 
+building and not a new development.  No rezoning is required to effectuate the affordable 
+housing development. 
+78 Mt. Vernon St.  (Block 80 Lot 23) - 1 unit 
+This site is located along the north side of Mt. Vernon Street east of Main Street. (Block 80 Lot 
+23).  The site contains an office building which was approved in 2022 to be converted to office 
+space and 7 residential units in the C-1H zoning district.  One of the residential units was 
+designated as an affordable unit (2 bedroom).  This site was not included in the Third Round 
+Housing Plan and is now credited to the Fourth-Round obligation.  No construction has 
+commenced on the site to date, but approvals are still in effect and final plans are prepared. No 
+rezoning is required to effectuate the affordable housing development. 
+If all of the above projects are constructed, a total of at least 105 affordable units would be 
+realized by the Village for Round Four.    Together with the 22 units carried over from the Third 
+Round, the total affordable units provided for the Fourth Round would be at least 127 units. 
+ 
+DISTRIBUTION OF AFFORDABLE HOUSING UNITS  
+The Village projects that if all the development occurs within the fourth round period, that 105 
+affordable housing units would be constructed.   The Department of Community Affairs, 
+Housing Affordability Controls as adopted December 19, 2024 (NJAC 5:80-26 et seq.) requires 
+the following distribution for non-restricted units (NJAC 5-80-26.4): 
+1. In each affordable development, the number of efficiency and one-bedroom units is no 
+greater than 20% of the total low and moderate units. 
+2. At least 30% of all low and moderate-income units are two-bedroom. 
+3. At least 20% of all low and moderate-income units are three-bedroom units 
+The proposed distribution of units by development are as follows: 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 21 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 22 =====
+- 19 - 
+ 
+ 
+ 
+Table 19 
+Project 
+Unit 
+Type 
+Very Low- 
+Income 
+Low-Income Moderate 
+Income 
+Total 
+30 Mt. Vernon St. (6) 
+1-bedroom  
+1 
+ 
+1 
+ 
+2-bedroom  
+2 
+3 
+5 
+ 
+3-bedroom  
+ 
+ 
+ 
+Disability Assoc. (7) 
+1-bedroom 1 
+1 
+ 
+2 
+ 
+2-bedroom 1 
+1 
+ 
+2 
+ 
+3-bedroom 1 
+ 
+2 
+3 
+Lincoln Court (14) 
+1-bedroom 1 
+1 
+1 
+3 
+ 
+2-bedroom  
+3 
+4 
+7 
+ 
+3-bedroom 1 
+1 
+2 
+4 
+Elks Club (16) 
+1-bedroom 2 
+2 
+ 
+4 
+ 
+2-bedroom 2 
+3 
+3 
+8 
+ 
+3-bedroom 1 
+1 
+2 
+4 
+TD Bank Bldg. (3) 
+1-bedroom  
+1 
+ 
+1 
+ 
+2-bedroom  
+ 
+2 
+2 
+ 
+3-bedroom  
+ 
+ 
+ 
+78 Mt. Vernon St. (1) 
+1-bedroom  
+ 
+ 
+ 
+ 
+2-bedroom  
+ 
+1 
+1 
+ 
+3-bedroom  
+ 
+ 
+ 
+Samsung Bldg. (30) 
+1-bedroom  
+3 
+3 
+6 
+ 
+2-bedroom 1 
+9 
+5 
+15 
+ 
+3-bedroom 2 
+4 
+3 
+9 
+AMC Theatre (28) 
+1-bedroom  
+2 
+3 
+5 
+ 
+2-bedroom 3 
+7 
+6 
+16 
+ 
+3-bedroom 2 
+3 
+2 
+7 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 22 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 23 =====
+- 20 - 
+ 
+Percent of constructed units  
+17% (18) 
+43% (45) 
+40% (42) 
+105 
+Percent of RDP (126) 
+ 
+14% 
+36% 
+33% 
+ 
+ 
+Project 
+ 
+Unit 
+Type 
+ 
+Very Low- 
+Income 
+ 
+Low-Income 
+ 
+Moderate 
+Income 
+ 
+Total 
+ Bedroom Totals 
+1-bedroom 4 
+11 
+7  
+22 
+ 
+2-bedroom 7 
+25 
+24 
+56 
+ 
+3-bedroom 7 
+9 
+11 
+27 
+Totals 
+ 
+18 
+45 
+42 
+ 
+Family 
+ 
+13  
+33 
+35 
+81 
+Rental 
+ 
+18 
+45 
+42 
+105 
+ 
+LOW AND MODERATE INCOME AND BEDROOM DISTRIBUTION 
+For each of the inclusionary development projects in Table 19, all projects except for 78 Mt. 
+Vernon Street where only one affordable unit is proposed and TD Bank with three affordable 
+units, complies with the 50% minimum low-income unit criteria.  All projects also comply with 
+the minimum 30% two-bedroom and 20% three-bedroom requirements.  The limitation of 
+efficiency and one-bedroom units to 20% is compliant on the larger development projects but is 
+difficult to achieve on smaller projects where the construction three-bedroom units subjects the 
+development to “economies of scale” issues due to the small nature of the overall project.  This 
+is the case for 30 Mt. Vernon St., TD Bank and 78 Mt. Vernon St.  
+FAMILY AND FAMILY RENTAL DISTRIBUTION 
+Of the total number of units satisfying the Village’s Fourth Round obligation, at least one-half 
+(or 63) of the RDP must be geared toward family occupancy.  The Village satisfies this 
+requirement with 81 units of the 126 RDP units, or 64% of Fourth-Round RDP.   
+The Village is required to provide at least 25% of its Fourth-Round obligation (126), or 32 units 
+as rental units, half of which, or 16 units, must be available to families.  The Village satisfies this 
+obligation with 105 rental units, of which 81 are family rental units.   
+VERY LOW-INCOME AFFORDABLE UNITS 
+Pursuant to N.J.A.C, 5:80-26.4, municipalities must provide very low-income units equal to 13% 
+of all affordable units approved. This would result in a total of 16 very low-income housing units 
+in the fourth-round housing plan.   The Plan provides 18 very low-income units or 14% of the 
+RDP.   It is planned that the very low-income units will be distributed among the redevelopment 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 23 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 24 =====
+- 21 - 
+ 
+projects in the Mt. Vernon Street Redevelopment Area and Challenger Road Area.  A total of 72% 
+of the very low-income units shall be reserved for families.   
+ 
+ADMINISTRATION OF INCLUSIONARY DEVELOPMENT 
+The Village has contracted for the administration of the affordable housing program with Piazza 
+and Associates, an affordable housing services company.  Piazza and Associates will provide all 
+services required of an Administrative Agent pursuant to the Uniform Housing Affordability 
+Controls (N.J.A.C. 5:80-26.15).  In addition to qualifying applicants for affordable housing units, 
+Piazza and Associates will implement an affirmative marketing plan and prepare an operational 
+manual for the administration of affordable housing units and programs.  The Village will require, 
+to the extent possible, all inclusionary developments to also utilize the same administrative agent 
+as the Village to ensure consistency of administration. 
+DEVELOPMENT FEES/ HOUSING TRUST FUND 
+The Village does have in place an affordable housing development fee ordinance.  This ordinance 
+requires a development fee of 1.5% of the assessed valuation for residential development and 2.5% 
+of the assessed valuation for non-residential development projects.  A 6.0% fee is required where 
+a variance is requested to allow a residential density greater than permitted under the existing 
+zoning ordinance.  Funds are collected such that 50% of the fee is due at the time of the issuance 
+of the construction permits and 50% at the issuance of certificates of occupancy.  The development 
+fee ordinance has been updated as part of the housing plan implementation strategy.   
+The development fee revenue is placed in the Village Affordable Housing Trust Fund.  The fund 
+has been utilized for housing programs and to support administrative functions of the Village’s 
+housing programs.  As of May 31, 2025, the trust fund totals $585,505. 
+It is anticipated that additional development, including additional commercial development on 
+Challenger Road and in the Main Street corridor will result in non-residential development fees 
+that will further supplement the Village’s affordable housing trust fund.  The old Lincoln Paper 
+property was acquired by N.J. Transit for its future Northern Bus Garage.  This project may also 
+be built as a Public-Private Partnership (P-3).  Under such a scenario, the property would be 
+privately owned and developed, which could  result in substantial non-residential development 
+fees.  These is also a potential for a warehouse development on a portion of the old “Skymark” 
+site.  This would also generate significant non-residential fees.  However, at this time, it is 
+uncertain whether and to what extent private development on the Skymark site may generate 
+non-residential development fees. 
+HOUSING BONUS CREDITS 
+Under the current statute, bonus credits may be available for several housing types proposed in 
+the Housing and Fair Share Plan.  Credits may be applicable to Ridgefield Park include: 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 24 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 25 =====
+- 22 - 
+ 
+• 
+One credit and one-half bonus credit for age restricted housing provided that the credit 
+shall not be applied to more than 10 percent of the units in any single ten year round. 
+• 
+One credit and one-half credit for affordable housing constructed on land that is or was 
+previously developed and utilized for retail, office or commercial space. 
+The Mt. Vernon Street Redevelopment Plan specifies a set aside for age restricted affordable 
+housing in the inclusionary sites within the redevelopment area.  These include: 
+• 
+30 Mt. Vernon Street site 
+• 
+Disability Association of New Jersey site 
+• 
+Lincoln Court 
+This potential credit would total an additional 13 units.  The credit was not taken in this plan 
+version due to receiving a vacant land adjustment. 
+The credit for redevelopment of non-residential land is also applicable to the Village.  Applicable 
+sites include: 
+• 
+TD Bank Building 
+• 
+78 Mt. Vernon Street 
+• 
+Samsung Building 
+• 
+AMC Theatre Building 
+This is a more significant bonus credit since the total number of affordable units projected in these 
+projects is 62 units which would result in a credit of an additional 31 units.   This credit was also 
+not taken at this time but may be used in the event the Housing Plan is revised.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 25 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 26 =====
+- 23 - 
+ 
+ 
+ 
+ 
+AFFORDABLE HOUSING LOCATION MAPS 
+Mt. Vernon Street Redevelopment Area 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 Mt. Vernon 
+DANJ 
+Lincoln Court 
+Elks Club 
+36 Mt. Vernon  
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 26 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 27 =====
+- 24 - 
+ 
+ 
+ 
+Main Street and East Mt. Vernon Street 
+ 
+ 
+ 
+TD Bank 
+78 Mt. Vernon 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 27 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 28 =====
+- 25 - 
+ 
+ 
+Challenger Road Area 
+ 
+ 
+ 
+ 
+ 
+Samsung Bldg. 
+AMC Theatre 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 28 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 29 =====
+- 26 - 
+ 
+ 
+SITE SUITABILITY ANALYSIS 
+30 Mt. Vernon Street  
+This property is located within the Mt. Vernon Street Redevelopment Area.  It sits at the 
+northwest corner of Mt. Vernon Street and Lincoln Avenue.  The property is 0.4 acres in size and 
+has 150 feet of frontage on Mt. Vernon Street.  The previous use of the property was as a drive-
+through bank facility.  The property is no longer used for this purpose.   The site does contain a 
+small building and an extensive parking lot and drive-through access lane.  The site is 
+approximately 90% impervious coverage and there are no environmental constraints on the 
+property nor is it within any flood hazard area.  Water and sewer service are available on the 
+site.   
+  
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 29 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 30 =====
+- 27 - 
+ 
+ 
+ 
+36 Mt. Vernon St.  
+This property is located within the Mt. Vernon Street Redevelopment Area.  It sits at the 
+northeast corner of Mt. Vernon Street and Lincoln Avenue.  The property is 0.6 acres in size and 
+has 200 feet of frontage on Mt. Vernon Street.  The previous use of the property includes a 
+restaurant and three single-family homes.  The properties are in the C-1H retail/downtown 
+zoning district where single-family homes are not permitted. The Redevelopment Plan provides 
+for the development of a mixed-use retail/multi-family development.    There are no 
+environmental constraints on the property nor is it within any flood hazard area.  Water and 
+sewer service are available on the site.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 30 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 31 =====
+- 28 - 
+ 
+ 
+ 
+Disability Association of New Jersey (Block 64 Lots 4, 15, 16) 
+This site is located along Mt. Vernon Street and is included in the Mt. Vernon Street 
+Redevelopment Plan.  The property is 0.5 acres in size and has 200 feet of frontage on Mt. 
+Vernon Street.  The current use of the property is for parking of transport vehicles for the 
+Association.    The site has approximately 90% impervious coverage and there are no 
+environmental constraints on the property nor is it within any flood hazard area.  Water and 
+sewer services are available to the site from Mt. Vernon Street. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 31 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 32 =====
+- 29 - 
+ 
+ 
+ 
+ 
+Lincoln Court (Block 86 Lot 1) 
+This site is located along Lincoln and Spruce Streets and is included in the Mt. Vernon Street 
+Redevelopment Plan.  The property is 1.0 acre in size and has 200 feet of frontage on both 
+streets.   The current use of the property contains 22 duplex housing units.    The site has 
+approximately 50% impervious coverage and there are no environmental constraints on the 
+property nor is it within any flood hazard area.  Water and sewer services are available to the 
+site from Lincoln and Spruce Streets.  The site is within close proximity to Mt. Vernon Street and 
+Main Street downtown commercial district.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 32 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 33 =====
+- 30 - 
+ 
+ 
+ 
+ 
+Other Affordable Housing Locations 
+Elks Club (Block 96 Lot 1) 
+This site is located along Spruce Street and Cedar Street.  The property is 1.0 acre in size and has 
+a four-story building and large parking lot in the rear of the building. There are no topographic 
+constraints on this property nor is it within any flood hazard area.  It contains approximately 
+80% impervious coverage.  The site is within close proximity to the Mt. Vernon Street and Main 
+Street downtown commercial district.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 33 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 34 =====
+- 31 - 
+ 
+ 
+ 
+ 
+TD Bank Bldg. (Block 75 Lots 5.01, 8) 
+This property is located on Main Street within the C-1H retail-commercial zoning district.  The 
+property contains a three-story office building and associated parking lot in the rear of the 
+building.  The bank no longer owns or operates from this building which is now vacant.  The 
+site is totally developed with no environmental constraints evident.  The building does have 
+suitable water and sewer services.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 34 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 35 =====
+- 32 - 
+ 
+ 
+ 
+ 
+78 Mt. Vernon St.  (Block 80 Lot 23) 
+This property is located on Mt. Vernon Street within the C-1H retail-commercial zoning district.  
+The property contains a two-story office building with off-street parking on a separate lot across 
+Mt. Vernon Street.  The site is totally developed with no environmental constraints evident.  The 
+building does have suitable water and sewer services. 
+ 
+  
+ 
+ 
+85 Challenger Road (Samsung) and 75 Challenger Road (AMC Theatre) Sites 
+The Samsung office building is located at 85 Challenger Road.  This is an existing six-story office 
+facility with internal parking.  The site has access to Challenger Road and has access to New 
+Jersey Transit bus stop.  The site is located along Overpeck Creek but is not within the flood 
+hazard area of the Creek.  This is principally due to flood gates downstream which control the 
+water levels in the Creek.  The conversion to residential use would be an adaptive reuse project 
+and no new external construction is anticipated.  Water and sewer services are available to the 
+property.  The site is adjacent to 95 Challenger Road, a 216-unit multi-family residential project 
+included in the Village’s Third Round Housing Plan.   
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 35 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 36 =====
+- 33 - 
+ 
+ 
+ 
+The building at 75 Challenger Road is a two-story movie theatre.  The building covers a majority 
+of the site with off-street parking on adjacent sites.   The building would be razed to allow a 
+multi-family residential building to be constructed.  The site is located along Overpeck Creek 
+but is not within the flood hazard area of the Creek.  Water and sewer services are available to 
+the property.   
+ 
+ 
+ 
+ 
+Samsung 
+AMC 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 36 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 37 =====
+- 34 - 
+ 
+ 
+ 
+ 
+ 
+APPENDIX I 
+   
+VILLAGE OF RIDGEFIELD PARK 
+FOURTH ROUND  
+FAIR SHARE PLAN AND HOUSING ELEMENT  
+SPENDING PLAN 
+ 
+  
+June 10, 2025 
+ 
+Planning Board Adoption on _________________ 
+ 
+  
+ 
+Prepared by;  Kenneth Ochab, P.P. AICP 
+The original of this document is signed and sealed in accordance with N.J.S.A. 45:14A-12 
+Kenneth Ochab 
+Kenneth Ochab, AICP, P.P. 
+New Jersey Professional Planner (PP) License#: 33LI00214900 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 37 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 38 =====
+ 
+ 
+ 
+36 
+ 
+  AFFORDABLE HOUSING SPENDING PLAN 
+The Village of Ridgefield Park has prepared a Housing Element and Fair Share Plan that addresses its 
+fair share of the regional affordable housing need in accordance with the Municipal Land Use Law 
+(N.J.S.A. 40:55D-1 et seq.), the Fair Housing Act (N.J.S.A. 52:27D-301) and the regulations of the Council 
+on Affordable Housing (COAH) (N.J.A.C. 5:93-1 et seq. and N.J.A.C. 5:96-1 et seq.). A development fee 
+ordinance creating a dedicated revenue source for affordable housing was adopted by the Village on 
+September 9, 2003, and amended on March 10, 2009.   The ordinance established the Village of Ridgefield 
+Park Affordable Housing Trust Fund for which this spending plan is prepared.  The development fee 
+ordinance has been amended as part of the Village’s affordable housing compliance process.  
+As of May 31, 2025, the Village of Ridgefield Park has a balance of $583,314 in the affordable housing 
+trust fund.  All development fees, payments in lieu of constructing affordable units on site, funds from 
+the sale of units with extinguished controls, and interest generated by the fees are deposited in a separate 
+interest-bearing affordable housing trust fund for the purposes of affordable housing.  These funds shall 
+be spent in accordance with N.J.A.C. 5:97-8.7 through 8.9 as described in the sections that follow.   
+Existing Trust Fund Revenue and Expenditures Patterns 
+ 
+ 
+The Affordable Housing Trust Fund continues since 2003.  In the Round Three Spending Plan, a balance 
+in the fund as of June 30, 2023, was $202,242.  Since then, only one development fee was deposited into 
+the account.  That was for the Hampshire warehouse development project identified in the Round Three 
+Spending Plan.  That deposit was $373,870.  In addition, interest income during the July 1, 2023, to May 
+31, 2025 period totaled $21,657.  Therefore, the total revenue income for the trust fund totals $597, 769.  
+Trust funds have been expended for administrative costs.  Expenses totaled $14,455, leaving a current 
+balance in the trust fund of $583,314.  From Round Three, although the expenses are administrative costs 
+and the percentage of these costs to the total amount of trust funds currently exceeds the permissible 
+20% of development fees and interest, the percentage should be reduced markedly as new development 
+from Rounds Three and Four come on-line and a reduction of total consulting and legal fees is achieved.   
+Revenue 
+Balance 
+7/1/2025 
+From 7/1/23  
+to 5/31/2025 
+Total 
+Development Fees 
+ 
+$373,870 
+$373,870 
+Interest 
+ 
+$21,657 
+$21,657 
+Balance 
+$202,242 
+$597,769 
+Expenses 
+To 6/2/08 From 6/2/08 to 
+6/30/2023 
+Total 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 38 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 39 =====
+ 
+ 
+ 
+37 
+ 
+Administration 
+Fees 
+ 
+$14,455 
+-$14,455 
+Balance 
+ 
+ 
+$583,314 
+Revenue Sources 
+To calculate a projection of revenue anticipated during the Third Round, the following are considered:  
+(a) Development fees:  
+1. Residential and non-residential projects which have had development fees imposed upon them 
+at the time of preliminary or final development approvals.  Currently a residential fee of 1.5% of 
+equalized assessed value for the permitted density is required and a residential fee of 6.0% of 
+equalized assessed value on the units exceeding the permitted residential density.  A non-
+residential fee of 2.5% of the increase in the equalized assessed value of the project is required for 
+retail, commercial and industrial uses.   
+2. All projects currently before the planning and zoning boards for development approvals that 
+may apply for building permits and certificates of occupancy; and  
+3. Future development that is likely to occur based on historical rates of development.   
+(b) Payment-In-Lieu (PIL): Payments in lieu of construction of affordable housing from the developers 
+housing within the Village.  
+ (c.  Other funding sources: No other funding sources are anticipated at this time.  
+(d) Projected interest: Interest on the projected revenue in the municipal affordable housing trust fund 
+at the current average interest rate.   
+Anticipated Revenue 
+Source of Funds  
+ 
+2025 
+2026-
+2035 
+Total 
+Existing Balance  
+$583,314 
+ 
+$583,314 
+Expected New 
+Development Fees 
+from Round 3 (1) 
+$586.998 
+ 
+$586,998 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 39 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 40 =====
+ 
+ 
+ 
+38 
+ 
+ROUND 4 FEES 
+ 
+ 
+ 
+Residential Expansions 
+$4,000 
+$4,000 
+Industrial Ave. 
+ 
+$10,000 
+$10,000 
+Bergen Tpke Industrial 
+ 
+$8,000 
+$8,000 
+Challenger Rd. office 
+conversion/hotel 
+ 
+$75,000 
+$75,000  
+Misc. Industrial 
+Expansions 
+$ 4,000 
+$4,000 
+Interest   
+$6,000 
+$50,000 
+$56,000 
+Total Development 
+Fees 
+$1,176,312 $151,000 $1,327,312 
+ 
+(1) Includes 64 Challenger, 95 Challenger, 190 Main St., 2 Bergen Tpke, 30 Bergen Tpke and 36 Mt. Vernon St. 
+ 
+ 
+The 2025 development fee amount is committed to affordable housing programs under the Round 3 
+Housing Plan.  The additional funds anticipated in Round 4 would total $151,000. Administrative costs 
+of the Trust Fund average approximately $7,800 per year.  Therefore, the total administrative fee for the 
+10-year period would total $78,000 leaving a residual of $73,000. 
+However, the trust fund amounts from Round Three will carry over into Round Four.  Therefore, we can 
+use the total trust fund amount of $1,327,312 to determine allocation of the funds for affordability 
+programs described below. 
+ 
+Trust Fund Expenditures 
+Trust fund monies must be allocated in accordance with the Village of Ridgefield Park Fair Share 
+Housing Ordinance (§172 et. Seq.).  This ordinance has been updated as part of the Court directed 
+compliance mechanisms.  The existing ordinance provides for the following: 
+“The expenditure of all funds shall conform to a spending plan approved by COAH. Funds 
+deposited in the housing trust fund may be used for any activity approved by COAH to address 
+the Village of Ridgefield Park’s fair share obligation and may be set up as a grant or revolving 
+loan program. Such activities include, but are not limited to, preservation or purchase of 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 40 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 41 =====
+ 
+ 
+ 
+39 
+ 
+housing for the purpose of maintaining or implementing affordability controls, rehabilitation, 
+new construction of affordable housing units and related costs, accessory apartment, market to 
+affordable, or regional housing partnership programs, conversion of existing nonresidential 
+buildings to create new affordable units, green building strategies designed to be cost saving 
+and in accordance with accepted national or state standards, purchase of land for affordable 
+housing, improvement of land to be used for affordable housing, extensions or improvements of 
+roads and infrastructure to affordable housing sites, financial assistance designed to increase 
+affordability, administration necessary for implementation of the Housing Element and Fair 
+Share Plan, or any other activity as permitted pursuant to N.J.A.C. 5:97-8.7 through 5:97-8.9 
+and specified in the approved spending plan. 
+Funds shall not be expended to reimburse the Village of Ridgefield Park for past housing 
+activities.  At least 30% of all development fees collected and interest earned shall be used to 
+provide affordability assistance to low- and moderate-income households in affordable units 
+included in the Municipal Fair Share Plan. One-third of the affordability assistance portion of 
+development fees collected shall be used to provide affordability assistance to those households 
+earning 30% or less of median income by region.   
+ 
+Affordability assistance programs may include down payment assistance, security deposit 
+assistance, low-interest loans, rental assistance, assistance with homeowners’ association or 
+condominium fees and special assessments, and assistance with emergency repairs. 
+Affordability assistance to households earning 30% or less of median income may include 
+buying down the cost of low- or moderate-income units in the Municipal Fair Share Plan to 
+make them affordable to households earning 30% or less of median income. 
+Payments in lieu of constructing affordable units on site and funds from the sale of units with 
+extinguished controls shall be exempt from the affordability assistance requirement. 
+The Village of Ridgefield Park may contract with a private or public entity to administer any 
+part of its housing element and fair share plan, including the requirement for affordability 
+assistance, in accordance with N.J.A.C. 5:96-18. 
+No more than 20% of all revenues collected from development fees may be expended on 
+administration, including, but not limited to, salaries and benefits for municipal employees or 
+consultant fees necessary to develop or implement a new construction program, a housing 
+element and fair share plan, and/or an affirmative marketing program. In the case of a 
+rehabilitation program, no more than 20% of the revenues collected from development fees shall 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 41 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 42 =====
+ 
+ 
+ 
+40 
+ 
+be expended for such administrative expenses. Administrative funds may be used for income 
+qualification of households, monitoring the turnover of sale and rental units, and compliance 
+with COAH’s monitoring requirements. Legal or other fees related to litigation opposing 
+affordable housing sites or objecting to the Council’s regulations and/or action are not eligible 
+uses of the affordable housing trust fund.” Village Code §172-33, “Use of Funds”. 
+Anticipated Use of Funds 
+The Village will utilize the trust funds for housing rehabilitation, affordability assistance and 
+administration as detailed below.  The Village acknowledges that the expenditure of these funds 
+constitutes a commitment for expenditure within a four-year period of approval of the spending plan 
+by the Court.   
+Rehabilitation 
+The Village has an abundance of two-family homes which are distributed throughout the central portion 
+of the tow  n.  Many of these structures were constructed in the early 1900s and are deficient in 
+infrastructure.  Twenty structures are anticipated to be rehabilitated at a cost of $20,000 each using 
+County Community Development Funds.   The Village has allocated an additional $20,000 per unit to 
+supplement available County funds.    
+Affordability Assistance 
+Trust funds will be utilized to support affordability assistance programs in the Village.  Based on 
+COAH’s affordable assistance calculation template, a total of $398,194 must be made available for 
+affordability assistance.  One third of the total or $132,731 must be used to support very low-income 
+households.   The Village will direct a total of $445,000 to affordability assistance as follows: 
+ 
+ 
+ 
+ 
+Down Payment Assistance - $100,000 
+ 
+Rental Assistance - 
+ 
+$300,000 
+ 
+Energy Assistance -   
+ $45,000 
+ 
+Operation Manuals have been prepared for each program and can be found in the Plan’s appendices.  
+The program will be administered by Piazza and Associates.   
+The calculation of affordability assistance funds is shown below. 
+Trust Fund Projected Totals (from above) 
++ 
+$1,327,312 
+Calculate 30 percent  
+x .30 = 
+$398,194 
+   Less Affordability assistance expenditures through 5/31/2025 
+- 
+$0 
+PROJECTED MINIMUM Affordability Assistance 
+Requirement 7/1/2025 through 7/1/2035 
+= 
+$398,194 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 42 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 43 =====
+ 
+ 
+ 
+41 
+ 
+PROJECTED MINIMUM Very Low-Income Affordability 
+Assistance Requirement 7/1/2025 through 7/1/2035 
+1//3 
+$132,731 
+ 
+Administration Expenses 
+Based on past and projected development fees collected and interest earned, expenses are permitted to 
+be $263,970.  However, due to excess administrative expenses in prior rounds, this amount will not be 
+available from the Affordable Housing Trust Fund.  However, the Village has expended $184,318 to date, 
+which is in excess of its permitted 20% of the $390,974 in development fees and interest already collected, 
+and so currently no funds for administrative expenses are available.  This plan projects an additional 
+$737,998 in development fees and interest through 2035 which should be sufficient to address the 
+shortfall and to bring administrative expenditures back into compliance with the 20% cap which will 
+result in an additional $61,712 available for administrative purposes.  It is anticipated that the Village’s 
+current shortfall will be restored before the end of 2026 if the projected trust development projects 
+proceed.  However, until such time as sufficient development fees have been collected, the Village 
+commits not to expend trust funds on administrative expenditures. 
+ 
+Administrative Expense Schedule 
+Actual dev fees and interest thru 6/30/2023 
+ 
+$390,974 
+Dev fees and interest 2023 thru 2025 
++ 
+$395,527 
+Anticipated Dev. Fees 2025 – 2035 (rd. 3 and 4) 
++ 
+$737,998 
+Total 
+= 
+$1,324,499 
+Calculate 20 percent 
+x .20 = 
+$264,899 
+   Less admin expenditures thru 5/31/2025 
+- 
+$203,187 
+PROJECTED MAXIMUM available for administrative 
+expenses 7/1/2025 thru 7/1/2035 
+= 
+$61,712  
+ 
+Expenditure Schedule 
+ 
+Program 
+Units 
+ 
+ 
+Total 
+Rehabilitation 
+20 
+$400,000 
+Affordability Assistance  
+ 
+$445, 000 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 43 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 44 =====
+ 
+ 
+ 
+42 
+ 
+Down Payment Assistance 
+ 
+$100,000 
+Low and Moderate Income 
+Rental Assistance 
+ 
+$300,000 
+Energy Assistance 
+ 
+$45,000 
+Administration 
+ 
+$61,712 
+Total Expenditures 
+ 
+$906,712 
+ 
+Excess or Shortfall of Funds 
+The governing body of the Village of Ridgefield Park reserves the right to revise projections and 
+anticipated funding commitments based on actual revenues into the Affordable Housing Trust Fund.  In 
+the event that a shortfall occurs, the Village will revise its spending plan as necessary.  Excess funds will 
+be used to support affordable housing programs as outlined in this Plan and as determined by the Village 
+with public input and with Court approval. 
+SUMMARY 
+The Village of Ridgefield Park intends to spend affordable housing trust fund revenues pursuant to 
+N.J.A.C. 5:97-8.7 through 8.9 and consistent with the housing programs outlined in the Housing Plan 
+dated July 24, 2023. 
+As of June 30, 2023, Ridgefield Park has a balance of $583.314 and anticipates an additional $642,998 in 
+revenues and interest through 2035.  The municipality will dedicate $400,000 to supplement the 
+County’s rehabilitation program, $445,000 to render units more affordable and $61,712 to 
+administrative costs which will not be drawn until sufficient housing funds are available.   The Village 
+will revise the allocations in its Spending Plan as needed to address any unanticipated shortfall of 
+funds  and will dedicate any excess funds or remaining balance toward additional affordability 
+assistance.   
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 44 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 45 =====
+ 
+ 
+ 
+43 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX II 
+VACANT LAND ADJUSTMENT ANALYSIS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 45 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 46 =====
+ 
+ 
+ 
+44 
+ 
+ 
+Kenneth Ochab Associates, LLC 
+Community Planning and Development Consultants 
+12-16 Fair Lawn Avenue 
+Fair Lawn, New Jersey 07410 
+ 
+ 
+Village Commissioners 
+Village of Ridgefield Park 
+234 Main Street 
+Ridgefield Park, N.J. 07660 
+ 
+Date: January 2, 2025 
+ 
+RE: Affordable Housing Vacant Land Analysis 
+ 
+Dear Commissioners, 
+ 
+The State of New Jersey Department of Community Affairs has established the affordable housing 
+obligations for each municipality.  A component of that obligation (126 units) is derived from utilizing 
+the vacant land presumably available for housing production.  The data is from the MOD-IV model 
+which is derived from the 2023 tax assessment records. 
+ 
+The “Land Capacity Analysis for P.L. 2024, c.2” mapping identifies four parcels of land. As the 
+mapping notes provide, these parcels are a “combination of lands deemed developable by the DEP 
+Land Use/Land Cover dataset, as constrained by tax parcel-based MOD-IV data, environmentally 
+sensitive areas and preserved open space, parkland and farmland”. 
+In converting the parcels from the MOD-IV map to tax block and lot designation, the following land 
+parcels were selected: 
+• 
+Block 20.01, Lot 2.02 – northeast corner of the Village and to the rear of Teaneck Rd. 
+• 
+Block 115, Lot 41 – east of Brinkerhoff Street and west of Route 95. 
+• 
+Block 116, Lot 41 – also east of Brinkerhoff Street and west of Route 95. 
+• 
+Block 24.04 Lot 1 – 60 Challenger Road 
+• 
+Block 57.01, Lot 1 – United Rental north of Bergen Tpke and west of Route 95. 
+• 
+Block 63.01, Lot 1 – also United Rental north of Bergen Tpke and west of Route 95.  
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 46 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 47 =====
+ 
+ 
+ 
+45 
+ 
+Block 20.01 Lot 2.02 
+The area identified by the MOD-IV is a portion of this lot which is part of private property holdings of 
+properties fronting on Teaneck Road.  This parcel is considered to be in an area of environmental 
+sensitivity (steep slopes) and has no access to any public road and is essentially landlocked.  The area 
+to the north and east is the rights-of-way for Routes 80 and 95.  The area to the south of part of the 
+Villages Wildlife Conservation Lands which are owned by the Village. It has been the indention of the 
+Village to acquire the development rights to this parcel for a continuance of the Conservation area.   
+Block 115 and Block 116 Lot 41 
+The areas identified by the MOD-IV is a fully developed multi-family apartment complex.  The specific 
+area shown on the mapping is the actual parking lot of the facility.   
+Block 24.04 Lot 1 
+The area identified is a portion of this lot which is 60 Challenger Road.  This property has been 
+approved for multi-family development as a component of the Village’s Round Three Affordable 
+Housing Plan.  The specific area mapped appears to be a sewer easement owned by the Bergen County 
+Utilities Authority.   
+Block 57.01 and Block 63.01, Lot 1 
+The areas identified here is a portion of property owned and operated by United Rental Company, an 
+equipment leasing and rental business.  The specific area appears to be a parking area associated with 
+the business.    
+Therefore, other than Block 24.04 Lot 1 which has development approvals in place as part of Round 
+Three, no other parcels identified are viable as affordable housing sites.   
+ Regards, 
+Kenneth Ochab 
+Kenneth Ochab, AICP, P.P.  
+ 
+cc: Village Planning Board 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 47 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 48 =====
+ 
+ 
+ 
+46 
+ 
+Kenneth Ochab Associates, LLC 
+Community Planning and Development Consultants 
+12-16 Fair Lawn Avenue 
+Fair Lawn, New Jersey 07410 
+ 
+Village Commissioners 
+Village of Ridgefield Park 
+234 Main Street 
+Ridgefield Park, N.J. 07660 
+Date: January 2, 2025 
+RE: Affordable Housing Vacant Land Analysis 
+Dear Commissioners, 
+The State of New Jersey Department of Community Affairs has established the affordable housing 
+obligations for each municipality.  A component of that obligation (126 units) is derived from utilizing 
+the vacant land presumably available for housing production.  The data is from the MOD-IV model 
+which is derived from the 2023 tax assessment records. 
+We have taken the “vacant land” assessed properties in the Village of Ridgewood Park and reviewed 
+each parcel for its ability to provide affordable housing.  The characteristics for each property together 
+with the tax map sheet section and the aerial photograph of the site are included below.     
+The vacant land use category includes 19.07 acres of land in the Village.  After review, it appears that 
+there five total parcels may be available for development.  Two of the five have existing development 
+approvals (60 Challenger Rd.)   The remaining three parcels total 23,975 square feet of land area or 0.55 
+acres.  The largest of the three parcels is 10,001 square feet in size.   
+Of the remaining three parcels, two are in residential zones and one is in the highway commercial 
+zone.  The largest parcel is 0.23 acres and fronts on Route 46.  One other parcel is 50’x180” and is 
+owned by the adjoining lot owner.  Zoning would permit only one single-family home on this lot.   
+Five parcels are located in the heavy industrial zone and are currently utilized as trucking operations, 
+sales and service businesses.   These parcels are also in an area of industrial use and would not be 
+compatible for residential use. 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 48 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 49 =====
+ 
+ 
+ 
+47 
+ 
+In addition, the vacant list included property at 60 Challenger Road that is approved for multi-family 
+development and is committed to affordable housing in Round Three.  Another parcel on Industrial 
+Ave. was a golf driving range and now has a warehouse under construction.  
+The detailed analysis is provided below. 
+ 
+SUMMARY OF VACANT LAND ANALYSIS 
+ 
+Block 
+Lot  
+Address 
+Ownership 
+Type (Pub/ 
+Priv 
+Acreage 
+(sq.ft.) 
+Developable Notes 
+2 
+4.01 
+31 First St. 
+Pr 
+4,125 
+No 
+Undersized, Shape 
+13 
+42 
+58 Seventh 
+St. 
+Pr 
+3,001 
+No 
+Side yard to residence 
+20.01 
+2.02 
+605 Teaneck 
+Rd. 
+Pr. 
+37,348 
+No 
+Landlocked, Environ. 
+20.01 
+3.01 
+579 Teaneck 
+Rd. 
+Pr. 
+55,757 
+No 
+Landlocked, Environ. 
+24.04 
+1 
+60 Challenger 
+Rd. 
+Pr. 
+83,200 
+Yes 
+Approved 550 units 
+Round Three  
+24.05 
+1 
+60 Challenger 
+Rd. 
+Pr.  
+91,040 
+Yes 
+Approved 550 units 
+Round Three 
+57.01 
+1 
+260B Bergen 
+Tpke. 
+Pr. 
+46,609 
+No 
+Not vacant. Part of 
+equipment rental business 
+63.01 
+1 
+260A Bergen 
+Tpke. 
+Pr. 
+98,881 
+No  
+Not vacant.  Part of 
+equipment rental business 
+94 
+12.01 30 Bergen 
+Ave. 
+Pr. 
+9,100 
+Yes 
+Part of side yard to existing 
+residence 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 49 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 50 =====
+ 
+ 
+ 
+48 
+ 
+117 
+8 
+240 Teaneck 
+Rd. 
+Pr. 
+2,500 
+No 
+25 ft. in width.  Side yard for 
+existing residence. 
+117 
+8.01 
+238 Teaneck 
+Rd. 
+Pr. 
+2,500 
+No  
+25 ft. width. Side yard. Not 
+same owner as Lot 8. 
+126 
+12 
+49 Winant 
+Ave. 
+Pr. 
+4,874 
+Yes 
+Fronts on highway.  Only 100 
+feet in depth. 
+130 
+23 
+205 
+Brinkerhoff 
+St. 
+Pr. 
+3,088 
+No 
+Size, configuration not 
+conducive. 
+133.01 4 
+25 E. Winant 
+Ave. 
+Pr. 
+5,001 
+No 
+Not vacant. House being 
+constructed. 
+133.01 7 
+35 E. Winant 
+Ave. 
+Pr. 
+10,001 
+Yes 
+At highway entrance ramps 
+145 
+9.01 
+255 Bergen 
+Tpke. 
+Pr. 
+719 
+No 
+Size, width 
+145 
+14 
+261 Bergen 
+Tpke. 
+Pr. 
+7,401 
+No 
+Industrial trucking operation.  
+I-3 zone 
+145 
+15 
+277 Bergen 
+Tpke 
+Pr. Same as 
+L. 14 
+53,579 
+No 
+Industrial trucking operation. 
+I-3 zone. 
+145 
+21 
+293 Bergen 
+Tpke. 
+Pr.  
+26,136 
+No 
+Industrial trucking operation.  
+I-3 zone 
+146 
+2 
+313 Bergen 
+Tpke 
+Pr. 
+2,052 
+No 
+Industrial use and 
+neighborhood. I-3 zone. 
+146 
+3 
+Old Bergen 
+Tpke 
+Pr. 
+10,498 
+No 
+Industrial trucking operation.  
+I-3 zone 
+146 
+4 
+Old Bergen 
+Tpke. 
+Pr. 
+3,411 
+No 
+Outdoor advertising Property 
+146.02 1.01 
+347 Bergen 
+Tpke 
+Pr. 
+24,394 
+No 
+Route 95 proximity, unsafe 
+access, Overpeck Creek 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 50 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 51 =====
+ 
+ 
+ 
+49 
+ 
+152.01 2 
+30 Cross St. 
+Pr. 
+120,226 
+No 
+Warehouse Construction on 
+site. 
+152.02 2 
+Industrial 
+Ave. 
+Pr. 
+118,048 
+No 
+Industrial area, access 
+issues. 
+152.02 8 
+199 Industrial 
+Ave. 
+Pr. 
+1,307 
+No  
+Industrial, Size 
+152.02 10 
+Industrial 
+Ave. 
+Pr. 
+1,612 
+No  
+Industrial, Size 
+154 
+4 
+47 Bergen 
+Tpke 
+Pu 
+4,500  
+No  
+Railroad Owned, Access  
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 51 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 52 =====
+50 
+    
+COMMENT 
+ 
+This site is a small triangular lot pressed up against the Route 80 embankment. It 
+contains steep slopes from First Street to the Route 80 right-of-way.    
+INDIVIDUAL VACANT LOT ANALYSIS 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 52 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 53 =====
+BER-L-000342-25
+06/24/2025 10:23:30 AM
+Pg 53 of 78
+Trans ID: LCV20251835087
+NJTaxMapsieeag)
+Tuesday, November 19, 2024
+Se
+Detailed Property Report
+nelet
+a
+VR
+=
+wo
+aor
+ef
+a=
+cap
+100m
+2
+5 Er eA eT
+ed en
+AVENUE aa
+ox
+ae
+ae ew
+a oat Lu
+x
+ie
+aaA =
+N'
+aee™
+to
+88Ru3
+\ar
+ee Ce
+|
+a SH ‘ke, # a ari
+A= ee
+rae
+ae
+ee
+OD
+ee ED be Or E- Oark
+SNS
+\ =
+2 a at fey
+eo achudes, 88k
+gf
+ae a
+Z
+b Pe
+|
+ae 8 SR
+a2
+wae a)
+a SSR
+&
+ae
+SN
+\
+\
+.
+e ee
+ROS, ae
+“f woth
+3
+>
+3
+CENTRAL.
+~ “ "8
+“
+®
+ow
+..
+Lis
+ol rznr lew8
+]
+a
+’
+;
+i
+%
+j
+ay 2
+“
+:
+ag
+SS?
+i
+ji ome he
+,
+SiS
+~
+Page
+|2
+51
+
+===== PAGE 54 =====
+52 
+COMMENT 
+This is a small 25 foot wide lot that serves as the side yard to Lot 43. 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 54 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 55 =====
+BER-L-000342-25
+06/24/2025 10:23:30 AM
+Pg 55o0f78
+Trans ID: LCV20251835087
+NJTaxMapsifeeyat
+Tuesday, November 19, 2024
+Detailed Property Report
+CN ay
+eth
+ee 0
+faa
+ee
+aeNTA
+7) Sar aire ort }s
+Se
+et: MEPy
+Pe
+baer
+ee
+alg
+Ra
+OE,
+\
+a
+ear
+>
+a, of Pea af
+2o
+%
+> 3
+°
+Is BS ok § 3s
+CEN TRA
+4a.
+fg
+8 s
+i
+a
+8
+af
+9
+iS)
+lize
+Io
+Ra
+N
+7
+Cte ie
+aee
+AVE
+Page
+|2
+53
+
+===== PAGE 56 =====
+54 
+COMMENT 
+This lot is adjacent to the Ridgefield Park Conservatory, a natural open space park that 
+is preserved in its natural condition.  The site exhibits steep slopes and is essentially 
+landlocked and does not have potential access to public streets. 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 56 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 57 =====
+BER-L-000342-25
+06/24/2025 10:23:30 AM
+Pg 57 of 78
+Trans ID: LCV20251835087
+NJTaxMapsiean
+Tuesday, November 19, 2024
+Detailed Property Report
+SN,
+m
+~
+<5KOC Miz oe
+re
+Penn
+>
+=
+aS Serve
+Bis
+So O 9atee,
+“Io
+ee
+OERES
+Nim
+02 ¢ e
+Se
+Nt
+hi
+| 8
+\
+=
+| —S
+21.95
+Rl
+Reere<
+:
+2
+lari
+~
+7
+280.25
+Nj
+Ss
+1B.5
+.
+653.6/
++ Ve
+?
+:
+ail
+x3
+BEET
+:
+wi
+\ &
+3
+2
+.
+g
+J
+—
+q
+Yi
+oa
+8
+N
+25"
+Sés2B'e
+g1sat
+"=
+oy
+a"
+i
+ba
+2
+ea
+a
+=
+gre
+a
+Page
+|2
+55
+
+===== PAGE 58 =====
+56 
+COMMENT 
+This lot is adjacent to the Ridgefield Park Conservatory, a natural open space park that 
+is preserved in its natural condition.  The site exhibits steep slopes and is essentially 
+landlocked and does not have potential access to public streets. 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 58 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 59 =====
+BER-L-000342-25
+06/24/2025 10:23:30 AM
+Pg 59 of 78
+Trans ID: LCV20251835087
+NJTaxMapsieela
+Tuesday, November 19, 2024
+"
+-
+Detailed Property Report
+= He
+SLE bee Syn
+oe
+Breen,
+a
+ee
+Xt
+obs
+an 2328
+?
+—~_
+9
+.
+= =
+'
+‘}
+eer
+g
+q
+\R
+3 3
+7
+A
+=
+peiiicnate = S_'y
+we
+©
+i\
+\
+ah
+se
+8
+. a) eel
+|
+{
+ba
+APONTE th
+©
+blo
+8
+WRESESAB EBS
+Page
+|2
+57
+
+===== PAGE 60 =====
+58 
+COMMENT 
+This site has been approved for 500+ residential units and hotel.  The project and its 
+56 affordable housing units is a component of the Village’s Round 3 Housing Plan. 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 60 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 61 =====
+BER-L-000342-25
+06/24/2025 10:23:30 AM
+Pg 61 of 78
+Trans ID: LCV20251835087
+NJTaxMapsiteut
+Tuesday, November 19, 2024
+-
+Detailed Property Report
+‘arte
+Fy:
+eG
+oe)
+=
+Pak
+a
+ox
+all
+\t
+ab
+as
+’
+a
+te
+]
+\ a
+wemeefoene biker
+Sgthint
+9.01
+Page [2
+59
+
+===== PAGE 62 =====
+60 
+COMMENT 
+This site has been approved for 500+ residential units and hotel.  The project and its 56 
+affordable housing units is a component of the Village’s Round 3 Housing Plan. 
+ 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 62 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 63 =====
+BER-L-000342-25
+06/24/2025 10:23:30 AM
+Pg 63 of 78
+Trans ID: LCV20251835087
+NJTaxMapsieeat
+Tuesday, November 19, 2024
+pee
+Detailed Property Report
+.
+SN
+3
+“ws
+i
+<t
+ee ek
+s
+x
+Nees
+<
+va
+(az
+s|u
+:
+NS
+wu
+,
+a
+i
+2
+9 ‘ei
+2a
+NG
+q
+:
+Vs\
+\
+‘
+2.08 Ac Ai
+:
+| \
+ia
+\y\g
+\ 4
+\S\j
+.
+\
+VILL
+cee
+WN
+YR
+\
+BER
+soll tener
+aimeeeS ar =
+i 9 f
+i
+NS
+sca
+rade baa
+7
+\
+_—— Wa,
+——
+“AL
+78 MT.
+Page |2
+61
+
+===== PAGE 64 =====
+62 
+COMMENT 
+This is a small triangular lot used by United Rental for the storage of equipment and 
+vehicles.  It is adjacent to the New Jersey Turnpike with access though the United 
+Rental business operation.  
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 64 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 65 =====
+BER-L-000342-25
+06/24/2025 10:23:30 AM
+Pg 65 of 78
+Trans ID: LCV20251835087
+NJTaxMapsifeg)
+Tuesday, November 19, 2024
+Detailed Property Report
+\|
+|
+;
+Fa
+| ig
+'
+g
+XS
+watt aN
+|
+“os
+os
+(3 =
+/
+-
+a
+jeer
+Page |2
+63
+
+===== PAGE 66 =====
+64 
+ 
+COMMENT 
+This lot is part of the United Rental business operation.  A portion of an industrial 
+building and equipment storage is on the site. 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 66 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 67 =====
+BER-L-000342-25
+06/24/2025 10:23:30 AM
+Pg 67 of 78
+Trans ID: LCV20251835087
+NJTaxMapsieenan
+Tuesday, November 19, 2024
+Detailed Property Report
+:
+b
+/
+%
+tae
+WW
+Pa
+i
+is
+fb
+res
+7
+ny
+a
+i
+B
+R
+ote
+|
+a
+i
+i
+j
+eaee---- ef
+- pemeen Eee eT
+TOO
+y
+|
+eeaea os ee
+|
+Page
+|2
+65
+
+===== PAGE 68 =====
+66 
+COMMENTS 
+This lot is 9,100 square feet in size but is used as the side yard to the adjacent property.  It is 
+only 50 feet in width making development difficult. 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 68 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 69 =====
+BER-L-000342-25
+06/24/2025 10:23:30 AM
+Pg 69 of 78
+Trans ID: LCV20251835087
+NJTaxMapsKeeln
+Tuesday, November 19, 2024
+:
+Detailed Property Report
+a)
+LE os
+sy
+8
+ES CaN Co
+8
+DD
+._* me 4 oo ©
+é
+nf
+oh
+;
+a Z n hs
+12bLi VY
+SLT
+a
+AN
+=
+. €
+z
+"
+;
+al
+!
+“~
+3
+1s ia
+z7
+gly 7
+27
+Me
+yoo
+er
+£
+fle
+ofa 10 21
+q
+2
+BQ
+a;
+za
+kas
+B29)
+Suh
+5
+8
+: eS |S
+.
+Dar
+CLF | OF | OF
+Oo)
+me
+it
+3
+$
+Yu
+———Ro RE e
+| 2 YN 20 SS)
+eo
+fN
+1 4
+8
+V7
+1
+\cospepescde
+SS
+pe i
+§
+22r_\se02\ os
+| oo
+| sat ahs
+a gah
+ez
+72
+29
+19
+tf
+€S5
+er
+SY
+ow
+\a
+a
+we.
+_ 8
+Yvdaso
+acaa
+2
+Page |2
+67
+
+===== PAGE 70 =====
+68 
+COMMENT 
+This lot is 25 x 100 but together with Lot 8.01 (also vacant) could be available for 
+housing production.  However, the lot is owned by the adjoining lot owner and not 
+connected to Lot 8.01 which is owned by a different entity. 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 70 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 71 =====
+BER-L-000342-25
+06/24/2025 10:23:30 AM
+Pg 71 of 78
+Trans ID: LCV20251835087
+NJTaxMapskeeln
+Tuesday, November 19, 2024
+Detailed Property Report
+cs = £3 Be Bz i as
+‘St
+153167 46
+it
+9
+02
+cys
+z
+J
+a
+g
+BB?
+Lal.
+FES
+SS
+Le
+coset Bor YAS 4% ak
+zs |s0
+offiz¥l,
+Hees
+AN
+= ~
+3
+Nee :
+140.32
+Spd iS
+6
+hae
+y
+7
+|
+ase] 708
+LOTS. By
+%
+2
+-
+a
+es
+6
+0
+2
+RS
+8
+15 | 14 | 43
+Waa Pea,
+Oe
+= =
+ae
+Fuel 100.
+=
+3 if
+LOGI, : 3333
+BRINKERHOFF
+ag
+—1—~OoE
+:
+a, ae
+;
+‘
+;
+7
+~~
+a»
+Ae
+:
+me)
+r
+fh
+& gt
+3
+7)
+<
+Te
+sh
+fi
+.
+|if
+Pee
+~
+‘
+E
+Page
+|2
+69
+
+===== PAGE 72 =====
+BER-L-000342-25
+06/24/2025 10:23:30 AM
+Pg 72 of 78
+Trans ID: LCV20251835087
+Tuesday, November 19, 2024
+Detailed Property Report
+FLORES, HILDA
+Mailing Address
+238 TEANECK ROAD
+234-238 TEANECK RD
+RIDGEFIELD PARK NJ 07660
+RIDGEFIELD PARK, NJ 07660
+County:
+BERGEN
+Block/ Lot:
+117/8.01
+Town:
+RIDGEFIELD PARK
+Tax Information
+Land Value:
+$31,300
+Property Type:
+Vacant Land
+Imp. Value:
+$0
+Assessment Year:
+2004
+Total Assessment:
+$31,300
+Tax Year:
+2023
+Property Tax:
+$922
+Town Tax Rate:
+2.946
+Property Description
+4
+Zoning:
+R2
+Building Description:
+Lot Size:
+_25X100
+Year Built:
+0
+Land Sq. Ft:
+2500
+Building Sq. Ft.:
+Acres:
+0.0574
+Num. Stories:
+Seller:
+MCGUIRE (SHERIFF), LEO P
+Deed Book:
+511
+Deed Date:
+01/18/2010
+Deed Page:
+336
+Sale Price:
+$100
+Seller:
+MCGUIRE (SHERIFF), LEO P
+Deed Book:
+366
+Deed Date:
+01/18/2010
+Deed Page:
+2006
+Sale Price:
+$100
+Seller:
++GALLUCCI (TRUSTEE), JEFF
+Deed Book:
+8913
+Deed Date:
+09/22/2005
+Deed Page:
+357
+Sale Price:
+$320,000
+Seller:
+GUALTIERI (EXEC), ANTHONY
+COMMENT
+See Lot 8 above.
+70
+
+===== PAGE 73 =====
+BER-L-000342-25
+06/24/2025 10:23:30 AM
+Pg 73 of 78
+Trans ID: LCV20251835087
+NJTaxMapsieen
+Tuesday, November 19, 2024
+Detailed Property Report
+£25 J27
+131
+738
+fay 1a
+375 [375] 30
+= =
+ah me “53 =Z =
+o
+8
+zh
+x oo
+fe| a
+é
+ie
+ll
+1
+es)
+Zonl 80!
+OfafS
+rout
+375 |s75 |s50
+AR
+T8090
+R
+pee
+SO
+4
+It)
+fc
+50
+UES, i
+140. me
+SeuLtsls erin :
+q
+Mi
+Haze] 700
+4 Fy
+x
+<
+Is
+lo
+=e
+N
+&
+IS oor
+geSLae
+2
+g
+8
+Pi
+hh
+UY
+&{—22
+5 ih :
+y04a3'|
+ea =
+oS
+MELA re.
+=
+‘Ls
+igi
+hoes
+BRINKERHOFF
+a
+CT __
+Od
+Foe al
+.
+y
+-&
+t Sof
+"ee
+v7
+;
+i
+é
+4
+Ae
+~,
+Pe
+j
+ww
+Fi)
+ges dah)
+pao wat
+ty
+.
+Se
+=)
+‘
+St lie
+.
+2
+Page |2
+71
+
+===== PAGE 74 =====
+72 
+COMMENT 
+This lot fronts on Route 46.  It was part of an application for an office building 
+expansion from the adjacent office building.  The property is zoned for commercial 
+use.  Housing potential is questionable. 
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 74 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 75 =====
+BER-L-000342-25
+06/24/2025 10:23:30 AM
+Pg 75 of 78
+Trans ID: LCV20251835087
+NJTaxMapsfean
+Tuesday, November 19, 2024
+Detailed Property Report
+“2m
+’
+e295
+8
+:
+‘
+WIN
+=
+3d)
+3
+8
+p
+>
+7
+i
+=
+4
+N
+yr
+2s
+»
+R
+132.
+1
+8s_
+3
+Tsk
+aes.
+7 Se o=}
+a
+ae B.ol
+re
+Mes
+<2
+of
+po e175
+Soe
+=
+Seo
+3 |
+Px Fees] is
+el =
+mag
+Ze
+2001 f2548
+¥
+FOR
+ee
+gS:
+I
+26.03
+g
+25
+J
+“6 IP
+a
+ee
+ee
+ORCHARD Fs
+Pa
+of
+Pn)
+3 “iss
+=
+5S D
+=
+SLs
+2! +9 os
+‘
+_
+NS
+°
+4s
+Ze
+F 2
+ape =
+4,
+sO
+<S
+23
+a
+:
+So
+\77 §
+4 ar
+wv
+le
+Ul 2
+so
+22
+37
+o g BSE sa
+$2
+SHoa he
+A
+RP
+CE
+LOG
+3
+SS
+Si iF,
+wy
+>
+ee
+SS
+by =;
+Se =
+™S
+4 =~
+e
+am
+“
+Page
+|2
+
+===== PAGE 76 =====
+BER-L-000342-25
+06/24/2025 10:23:30 AM
+Pg 76 of 78
+Trans ID: LCV20251835087
+Tuesday, November 19, 2024
+ae
+Detailed Property Report
+205 BRINKERHOFF LLC
+Mailing Address
+205 BRINKERHOFF ST
+210 HACKENSACK ST. APT. C
+RIDGEFIELD PARK NJ 07660
+WOOD-RIDGE, NJ 07075
+County:
+BERGEN
+Block/ Lot:
+130/23
+Town:
+RIDGEFIELD PARK
+Tax Information
+Land Value:
+$37,000
+Property Type:
+Vacant Land
+Imp. Value:
+$0
+Assessment Year:
+2004
+Total Assessment:
+$37,000
+Tax Year:
+2023
+Property Tax:
+$1,090
+Town Tax Rate:
+2.946
+Property Description
+Zoning:
+R2
+Building Description:
+Lot Size:
+3087SF
+Year Built:
+O
+Land Sq. Ft.:
+3088
+Building Sq. Ft.:
+Acres:
+0.0709
+Num. Stories:
+Seller:
+OCCHIUZZO, PAULJ EXEC
+Deed Book:
+2983
+Deed Date:
+05/31/2018
+Deed Page:
+944
+Sale Price:
+$20,000
+Seller:
+HENDERSON (EXCTX), AGNES
+Deed Book:
+913
+Deed Date:
+12/08/2011
+Deed Page:
+857
+Sale Price:
+$1
+Seller:
+HENDERSON, KENNETH & AGNES
+Deed Book:
+7711
+Deed Date:
+06/28/1994
+Deed Page:
+26
+Sale Price:
+$1
+Seller:
+AGAR, LORRAINE M.
+Deed Book:
+7692
+Deed Date:
+04/06/1994
+Deed Page:
+351
+Sale Price:
+$10,000
+Seller:
+AGAR, LORRAINE M.
+Page |1
+74
+
+===== PAGE 77 =====
+75 
+COMMENT 
+This is a small triangular lot at the end of Brinkerhoff Street.  It’s size and shape are 
+not conducive to housing production.   
+                                                                                                                                                                                              
+BER-L-000342-25   06/24/2025 10:23:30 AM   Pg 77 of 78   Trans ID: LCV20251835087 
+
+===== PAGE 78 =====
+BER-L-000342-25
+06/24/2025 10:23:30 AM
+Pg 78 of 78
+Trans ID: LCV20251835087
+NJTaxMapsfeeia
+Tuesday, November 19, 2024
+Detailed Property Report
+1OFF
+at
+:
+eeee 4
+|
+ts [9° a STREET
+ii 12473 § He
+|
+|
+<5 he ed eo
+s
+y
+y ee 7 8 124) 2.) » ae
+Qe
+aedle,,
+i
+|
+=|
+aS ae me ©
+os
+j) °29| das ad(39 fo
+Lap}
+on
+|
+j
+y |
+NI
+laa7]
+77
+a
+Bt
+ok
+|
+oye
+| 92"
+K|
+@
+ry
+ss
+3
+real, [S205
+\
+<
+ape
+ei cze £2/6|
+ra .
+28
+ale
+2
+“a S25
+is
+a
+Sp
+44
+S
+‘
+2a
+are
+lene,
+f
+Pe
+3
+a
+ey,
+eee
+:
+&
+Page |3
+76
