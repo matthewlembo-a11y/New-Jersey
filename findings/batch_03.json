@@ -1,0 +1,618 @@
+[
+  {
+    "municipality": "East Rutherford",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": 53,
+      "prospective_need": 412,
+      "total_obligation": 465,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted-amended",
+      "hefsp_adopted_date": "2026-02-09",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/east-rutherford-boro/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5"
+    },
+    "notes": "DCA assigned 53 present need (rehabilitation) and 412 prospective need for the Fourth Round per news coverage citing NJ DCA calculations. HEFSP appendices were filed with NJ Courts in June 2025; Planning Board considered an Amendment to the Fourth Round HEFSP at its February 9, 2026 meeting (prepared by Phillips Preiss Grygiel Leheny Keller LLC). Borough operates an Affordable Housing Overlay Zone (AHO). Zoning Board approved 26-unit building at 20-30 Willow St in the NC/AHO zone (January 2025 approval). AHO-B zone exists on Block 26, Lots 1 and 2. Mandatory set-aside: 15% rental / 20% for-sale for 5+ units at 6+ du/ac. Specific settlement date with FSHC not confirmed in search results; prior Third Round settlement dated September 2019 provided protection through July 1, 2025.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Housing Element and Fair Share Plan Borough of East Rutherford (Appendices, Filed June 2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/east-rutherford-boro/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025 to 2035 Affordable Housing Calculations",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "COAH (Affordable Housing) Lawsuit | East Rutherford, NJ",
+        "url": "https://www.eastrutherfordnj.net/207/COAH-Affordable-Housing-Lawsuit"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of East Rutherford Overlay Zones (eCode360)",
+        "url": "https://ecode360.com/9415803"
+      },
+      {
+        "doc_type": "news",
+        "title": "East Rutherford Approves New Development with Affordable Housing | Jersey Digs",
+        "url": "https://jerseydigs.com/30-willow-street-east-rutherford-affordable-housing/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Planning Board Meeting Agenda Feb 9 2026 (HEFSP Amendment)",
+        "url": "https://www.eastrutherfordnj.net/AgendaCenter/ViewFile/Agenda/_02092026-299"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "20-30 Willow Street",
+        "address": "20-30 Willow Street, East Rutherford, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": "NC (Neighborhood Commercial)",
+        "proposed_zoning": "NC/AHO (Affordable Housing Overlay Zone)",
+        "density": null,
+        "total_units": 26,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": null,
+        "source_url": "https://jerseydigs.com/30-willow-street-east-rutherford-affordable-housing/",
+        "source_date": "2025-01",
+        "confidence": "low",
+        "notes": "Zoning Board approved January 2025; 26 units (2 studio, 20 one-BR, 3 two-BR, 1 three-BR); 20% set-aside per borough code. Exact affordable unit count not confirmed in sources."
+      },
+      {
+        "site_name": "AHO-B Zone (Block 26, Lots 1 and 2)",
+        "address": null,
+        "block": "26",
+        "lot": "1, 2",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "AHO-B",
+        "density": 25,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/9415803",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "AHO-B zone permits multifamily residential at max 25 du/ac with 20% affordable set-aside per borough zoning code."
+      }
+    ]
+  },
+  {
+    "municipality": "Edgewater",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 6,
+      "prospective_need": 295,
+      "total_obligation": 301,
+      "rdp": 350,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-25",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7"
+    },
+    "notes": "HEFSP adopted June 25, 2025 (Planning Board Resolution and Governing Body endorsement both dated June 25, 2025). Present need of 6 units to be addressed via Edgewater Housing Authority rehabilitation program. Prospective need 295 units; Borough projects 350 total Round 4 units creating 55 carry-over credits. Settlement with 615 River Road Partners (Maxal Group) resolved long-standing litigation and requires up to 200 affordable units at the former Hess oil terminal site. HEFSP also identifies AH-2 zone (8.7 acres, 12 du/ac, 105 units, 15% set-aside = 16 affordable) and Quanta site at 145/225 River Road (259 affordable units at 15% set-aside per LOI). 1339 River Road received 2023 site plan approval with 5 affordable units.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Round 4 Housing Element and Fair Share Plan Borough of Edgewater (Adopted June 2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7"
+      },
+      {
+        "doc_type": "other",
+        "title": "Affordable Housing | Edgewater Borough, NJ - Official Website",
+        "url": "https://www.edgewaternj.org/332/Affordable-Housing"
+      },
+      {
+        "doc_type": "news",
+        "title": "Edgewater Approves 1,200-Unit Development at Former Hess Waterfront Site | Jersey Digs",
+        "url": "https://jerseydigs.com/1200-unit-development-approved-615-river-rd-edgewater/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Developer Secures Funding for 381-Unit Project at 615 River Road in Edgewater, NJ | YIMBY",
+        "url": "https://newyorkyimby.com/2025/10/developer-secures-funding-for-381-unit-project-at-615-river-road-in-edgewater-new-jersey.html"
+      },
+      {
+        "doc_type": "other",
+        "title": "EDGEWATER REACHES SETTLEMENT WITH 615 RIVER ROAD",
+        "url": "https://www.edgewaternj.org/DocumentCenter/View/5279/615-Press-Release-"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "615 River Road (Hess Oil Terminal / Maxal)",
+        "address": "615 River Road, Edgewater, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": 18.7,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 1200,
+        "affordable_units": 200,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "Maxal Group",
+        "source_url": "https://jerseydigs.com/1200-unit-development-approved-615-river-rd-edgewater/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Redevelopment plan permits max 1,200 units with 15% rental / 20% for-sale set-aside; settlement requires developer to build up to 200 affordable units to satisfy borough's constitutional obligation. Phase I is 381-unit tower with $255M construction loan closed. Borough settlement press release confirms 200 affordable unit requirement."
+      },
+      {
+        "site_name": "AH-2 Zone",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": 8.7,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "AH-2",
+        "density": 12,
+        "total_units": 105,
+        "affordable_units": 16,
+        "set_aside_pct": 15,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7",
+        "source_date": "2025-06",
+        "confidence": "medium",
+        "notes": "HEFSP search synthesis describes AH-2 zone as 8.7 acres at 12 du/ac producing 105 units with 15% (16-unit) set-aside. Block/lot details not confirmed in accessible search snippets."
+      },
+      {
+        "site_name": "Quanta Site (145 River Road / 225 River Road, Unit B)",
+        "address": "145 River Road and 225 River Road, Unit B, Edgewater, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": 259,
+        "set_aside_pct": 15,
+        "tenure": "rental",
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7",
+        "source_date": "2025-06",
+        "confidence": "low",
+        "notes": "HEFSP synthesis states Quanta site at 145/225 River Rd will provide 259 affordable units at 15% set-aside; developer has provided Letter of Intent indicating readiness to apply for site plan approval. Total unit count not confirmed."
+      },
+      {
+        "site_name": "1339 River Road",
+        "address": "1339 River Road, Edgewater, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": 5,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "approved",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7",
+        "source_date": "2025-06",
+        "confidence": "low",
+        "notes": "Site plan approved in 2023 with 5 affordable units subject to UHAC guidelines; not yet built; developer seeking amended site plan approval in 2025."
+      },
+      {
+        "site_name": "Edgewater Housing Authority (Rehabilitation Program)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "municipal",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": 6,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7",
+        "source_date": "2025-06",
+        "confidence": "medium",
+        "notes": "Municipal rehabilitation program administered by Edgewater Housing Authority to address 6-unit present need obligation."
+      }
+    ]
+  },
+  {
+    "municipality": "Elmwood Park",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": 154,
+      "prospective_need": 145,
+      "total_obligation": 299,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2018-03-08",
+      "hefsp_status": "adopted-amended",
+      "hefsp_adopted_date": "2025-06-26",
+      "hefsp_url": "https://elmwoodparknj.us/notices-announcements/849-fourth-round-housing-element-and-fair-share-plan"
+    },
+    "notes": "Third Round settlement with FSHC dated March 8, 2018. Fourth Round HEFSP announced on municipal website; Mayor and Council approved updated Fair Share Plan at a special meeting on June 26, 2025 with commitment for shortfall affordable housing funding. An Amended 4th Round Plan was also posted to the municipal website (notice dated approximately March 2026 per njcourts.gov document discovery). Separately, NJ Courts library shows a document from March 2, 2026 about a proposed ordinance repealing/replacing Chapter 37 and a proposed redevelopment plan for Elmwood Park. Ordinance #26-08 adopted March 19, 2026 amends Market Street and Vicinity Redevelopment Plan; Ordinance #26-11 adopted April 16, 2026 adopts redevelopment plan for Block 902, Lots 3 & 4. Present need (154) and prospective need (145) figures corroborated by search synthesis citing DCA calculations but exact sourcing to HEFSP document text not confirmed—treat as medium confidence pending HEFSP full text review. Mandatory set-aside: 15% rental / 20% for-sale for 5+ units at 6+ du/ac.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Fourth Round Housing Element and Fair Share Plan | Elmwood Park Borough",
+        "url": "https://elmwoodparknj.us/notices-announcements/849-fourth-round-housing-element-and-fair-share-plan"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Amended 4th Round Plan | Elmwood Park Borough",
+        "url": "https://elmwoodparknj.us/notices-announcements/956-amended-4th-round-plan"
+      },
+      {
+        "doc_type": "other",
+        "title": "NJ Courts Library - Elmwood Park Proposed Ordinance & Redevelopment Plan (March 2026)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/elmwood-park-boro/LetterDated3.2.2026ProposedOrdinanceRepealingReplacingChapter37andProposedRedevelopmentPlan.pdf?VersionId=KM.WXWlOMnx2GOZNwnrwnwG1ZkAUvS9h"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Elmwood Park Affordable Housing - eCode360",
+        "url": "https://ecode360.com/35184378"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025 to 2035 Affordable Housing Calculations",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Special Meeting Agenda June 26 2025 - Elmwood Park Mayor and Council",
+        "url": "https://elmwoodparknj.us/governing-body/agendas/agendas-2025?download=2460:mayor-council-special-meeting-06-26-2025"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Market Street and Vicinity Redevelopment Area",
+        "address": "Market Street and Vicinity, Elmwood Park, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/elmwood-park-boro/LetterDated3.2.2026ProposedOrdinanceRepealingReplacingChapter37andProposedRedevelopmentPlan.pdf?VersionId=KM.WXWlOMnx2GOZNwnrwnwG1ZkAUvS9h",
+        "source_date": "2026-03",
+        "confidence": "low",
+        "notes": "Ordinance #26-08 (adopted March 19, 2026) amends Market Street and Vicinity Redevelopment Plan. Specific unit counts and affordable set-aside details not available in search snippets."
+      },
+      {
+        "site_name": "Block 902, Lots 3 & 4 Redevelopment",
+        "address": null,
+        "block": "902",
+        "lot": "3, 4",
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.elmwoodparknj.us/elmwood-park-news/public-notices",
+        "source_date": "2026-04-16",
+        "confidence": "low",
+        "notes": "Ordinance #26-11 adopted April 16, 2026 adopting redevelopment plan for Block 902, Lots 3 & 4. Affordable housing set-aside terms not confirmed in search snippets."
+      }
+    ]
+  },
+  {
+    "municipality": "Emerson",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": 170,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://gothamist.com/news/nj-officials-accused-of-hypocrisy-over-land-use-that-barred-homeless-shelter"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2017-11-21",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-19",
+      "hefsp_url": "https://www.emersonnj.org/vertical/Sites/%7B3CE7C79E-1CDE-42D4-BE99-DEDBCE95F9A4%7D/uploads/June_19_2025_Emerson_Draft_Housing_Element_06.08.2025(1).pdf"
+    },
+    "notes": "Third Round settlement with FSHC dated November 21, 2017 required 29 affordable units (22 on-site, 7 off-site) in connection with Block 419 (Emerson Station) redevelopment — long-stalled by litigation. ERUR (Emerson Redevelopers Urban Renewal LLC) designated developer was removed by Borough Council vote 5-0 on September 2, 2025; borough pursuing condemnation and new developer selection. Judge demanded expedited action. Fourth Round draft HEFSP dated June 8, 2025 was adopted at Land Use Board special meeting June 19, 2025. State assigned approximately 170 units of prospective need for Fourth Round; planners noted only 47 affordable units realistically achievable via vacant land due to land constraints. Borough enacted overlay zoning on Old Hook Road (Shoprite/Emerson Plaza, ~8 acres, up to 234 units, 20% set-aside = ~47 affordable) to partially meet obligation. Fourth Round present need number not confirmed in search results. Separate RC overlay ordinance (Ordinance 1712-26) mentioned in coverage but details not confirmed.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Borough of Emerson Land Use Board - Draft Housing Element June 8, 2025",
+        "url": "https://www.emersonnj.org/vertical/Sites/%7B3CE7C79E-1CDE-42D4-BE99-DEDBCE95F9A4%7D/uploads/June_19_2025_Emerson_Draft_Housing_Element_06.08.2025(1).pdf"
+      },
+      {
+        "doc_type": "settlement",
+        "title": "Master Plan Amendment Housing Plan Element and Fair Share Plan Round 4 Resolution (June 19, 2025)",
+        "url": "https://www.emersonnj.org/vertical/sites/%7B3CE7C79E-1CDE-42D4-BE99-DEDBCE95F9A4%7D/uploads/06.19.2025_LUB_Resolution__Master_Plan_Amendment_Housing_Plan_Element__Fair_Share_Plan_Round_4_06.08.2025(1)(1).pdf"
+      },
+      {
+        "doc_type": "news",
+        "title": "NJ officials accused of hypocrisy over land use that barred homeless shelter (Gothamist)",
+        "url": "https://gothamist.com/news/nj-officials-accused-of-hypocrisy-over-land-use-that-barred-homeless-shelter"
+      },
+      {
+        "doc_type": "news",
+        "title": "Borough tees up 'drastic' action on Block 419 redevelopment — Pascack Press",
+        "url": "https://thepressgroup.net/borough-tees-up-drastic-action-on-essentially-abandoned-block-419-redevelopment/"
+      },
+      {
+        "doc_type": "other",
+        "title": "NJ Superior Court Appellate Division Opinion A-0238-23 (Emerson/ERUR/FSHC)",
+        "url": "https://www.njcourts.gov/system/files/court-opinions/2025/a0238-23.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Affordable Housing & Assistance Opportunities - Borough of Emerson, NJ",
+        "url": "https://www.emersonnj.org/index.asp?SEC=DB8C4FB6-5B49-4D81-8698-9830AAB7E0DD"
+      },
+      {
+        "doc_type": "news",
+        "title": "Emerson Borough Council Addresses Affordable Housing Ordinances | LocalLens",
+        "url": "https://thelocallens.org/emerson-borough-council-addresses-affordable-housing-ordinances-amid-legal-and-community-developments/"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Block 419 (Emerson Station)",
+        "address": "Block 419, Emerson, NJ (CBD near train station)",
+        "block": "419",
+        "lot": null,
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 147,
+        "affordable_units": 29,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "TBD (ERUR removed; condemnation pending; new developer to be named)",
+        "source_url": "https://thepressgroup.net/borough-tees-up-drastic-action-on-essentially-abandoned-block-419-redevelopment/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Four-story 147-unit mixed-use with 15,000 sq ft retail. Settlement required 22 on-site + 7 off-site affordable units. ERUR removed as developer September 2025; court-supervised. Block 419, specific lots not confirmed in search results."
+      },
+      {
+        "site_name": "Block 610, Lot 1 (off-site affordable units)",
+        "address": null,
+        "block": "610",
+        "lot": "1",
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 7,
+        "affordable_units": 7,
+        "set_aside_pct": 100,
+        "tenure": null,
+        "adoption_status": "approved",
+        "developer": "TBD",
+        "source_url": "https://thepressgroup.net/hearing-on-offsite-affordable-units-nov-4-land-use-board-gets-application-tied-to-block-419-redevelopment/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "7 off-site affordable units associated with Block 419 settlement; Land Use Board hearing Nov. 4 referenced; borough code (Sec. 68) complications noted regarding ground-floor commercial requirement."
+      },
+      {
+        "site_name": "Old Hook Road (Emerson Plaza / ShopRite Overlay)",
+        "address": "411-495 Old Hook Road, Emerson, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": 8.0,
+        "mechanism": "overlay",
+        "current_zoning": "Commercial",
+        "proposed_zoning": "Residential-Commercial (RC) Overlay",
+        "density": null,
+        "total_units": 234,
+        "affordable_units": 47,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://gothamist.com/news/nj-officials-accused-of-hypocrisy-over-land-use-that-barred-homeless-shelter",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Borough endorsed overlay on ~8-acre ShopRite/Emerson Plaza site to generate up to 47 affordable units (20% of 234 units) toward Fourth Round obligation. RC overlay ordinance referenced as Ordinance 1712-26 in one source but not confirmed. Site currently occupied by shopping center."
+      }
+    ]
+  },
+  {
+    "municipality": "Englewood",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 79,
+      "prospective_need": 381,
+      "total_obligation": 460,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/englewood-city/6625EnglewoodHEFSPAdoptedFinalS.pdf?VersionId=ppEQTdOxvSaSiXAGe9.x7Alu1D5f7SEG"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2022-11-02",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-06",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/englewood-city/6625EnglewoodHEFSPAdoptedFinalS.pdf?VersionId=ppEQTdOxvSaSiXAGe9.x7Alu1D5f7SEG"
+    },
+    "notes": "Settlement with FSHC dated November 1-2, 2022, approved by Court Order January 20, 2023 (Docket BER-L-4069-19). HEFSP adopted and filed with NJ Courts; document title indicates June 6, 2025 adoption. City committed to Fourth Round obligations via Resolution #050-01-21-25 (January 21, 2025). Present need of 79 rehabilitation units confirmed via search synthesis. Prospective need of 381 units (DCA calculation); City was reported to have initially tried to reduce obligation by 50% but that figure is unconfirmed. Citywide mandatory set-aside ordinance (Ord. 25-26) requires 20% set-aside for any 5+ unit residential development. Affordable Housing Overlay Zones established by Ordinance 23-22 (August 8, 2023, amended October 24, 2023 by Ord. 23-26). Key settlement sites: Flatrock Square (Block 2605 area, ~19 acres south of Route 4, 195 residential units proposed with affordable set-aside) and Englewood Commons (Block 2517 area, ~14.59 acres north of Route 4). Englewood South Redevelopment Overlay Zone covers Block 2602, Lots 3.01-3.03.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Housing Element and Fair Share Plan - City of Englewood (Adopted June 2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/englewood-city/6625EnglewoodHEFSPAdoptedFinalS.pdf?VersionId=ppEQTdOxvSaSiXAGe9.x7Alu1D5f7SEG"
+      },
+      {
+        "doc_type": "other",
+        "title": "Affordable Housing Documents | Englewood, NJ (City website)",
+        "url": "https://www.cityofenglewood.org/1423/Affordable-Housing-Documents"
+      },
+      {
+        "doc_type": "settlement",
+        "title": "Public Notice of Proposed Settlement (BER-L-4069-19)",
+        "url": "https://www.cityofenglewood.org/DocumentCenter/View/485/Notice-of-Proposed-Settlement-PDF"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Ordinance 23-22 Affordable Housing Overlay Zones (City of Englewood)",
+        "url": "https://www.cityofenglewood.org/DocumentCenter/View/3184/23-22-Affordable-Housing-Overlay-Zones-Ordinance"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Ordinance 25-26 Mandatory Set-Aside (City of Englewood)",
+        "url": "https://www.cityofenglewood.org/DocumentCenter/View/5459/25-26-Mandatory-Set-Aside-Ordinance"
+      },
+      {
+        "doc_type": "other",
+        "title": "Affordable Housing Overlay Zones Map (City of Englewood)",
+        "url": "https://www.cityofenglewood.org/DocumentCenter/View/3181/Affordable-Housing-Overlay-Zone-Map"
+      },
+      {
+        "doc_type": "other",
+        "title": "City of Englewood Affordable Housing - eCode360",
+        "url": "https://ecode360.com/15514541"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Flatrock Square",
+        "address": "South side of Route 4, Englewood, NJ (Block 2605 area)",
+        "block": "2605",
+        "lot": "1.01, 1.02, 2.01, 2.02, 2.03, 2.04",
+        "acreage": 19.0,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 195,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": null,
+        "source_url": "https://www.cityofenglewood.org/DocumentCenter/View/485/Notice-of-Proposed-Settlement-PDF",
+        "source_date": "2022-11",
+        "confidence": "low",
+        "notes": "Settlement document identifies ~19 acres south of Route 4. Block 2605 lots and Block 2602 lots 3.01-3.04 identified in settlement. Permits 195 multi-family residential units + hotel (140-225 rooms) + retail (max 15,000 sf) + office. 20% set-aside per city ordinance. Settlement attributes 14 affordable credits to Flatrock Square toward Third Round. Fourth Round credit allocation unclear. Block/lot numbers from settlement notice dated Nov 2022."
+      },
+      {
+        "site_name": "Englewood Commons",
+        "address": "North side of Route 4, Englewood, NJ (Block 2517 area)",
+        "block": "2517",
+        "lot": "3.03",
+        "acreage": 14.59,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "approved",
+        "developer": null,
+        "source_url": "https://www.cityofenglewood.org/DocumentCenter/View/485/Notice-of-Proposed-Settlement-PDF",
+        "source_date": "2022-11",
+        "confidence": "low",
+        "notes": "Settlement document identifies ~14.59 acres north of Route 4 (Block 2517, Lot 3.03 and Block 2518, Lots 1.01, 1.02). Includes office component (min 40,000 sf). Total residential units and affordable unit count not confirmed in search snippets."
+      },
+      {
+        "site_name": "Englewood South Redevelopment Overlay Zone",
+        "address": "South of Route 4, Englewood, NJ",
+        "block": "2602",
+        "lot": "3.01, 3.02, 3.03",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "Englewood South Redevelopment Overlay",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/15514541",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Search synthesis references Englewood South Redevelopment Overlay Zone on Block 2602, Lots 3.01, 3.02, 3.03 with 20% affordable set-aside. Part of broader Flatrock Square / Route 4 south settlement area."
+      },
+      {
+        "site_name": "Affordable Housing Overlay Zones (AHO) - Citywide (Ordinance 23-22)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "Affordable Housing Overlay",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.cityofenglewood.org/DocumentCenter/View/3184/23-22-Affordable-Housing-Overlay-Zones-Ordinance",
+        "source_date": "2023-08-08",
+        "confidence": "medium",
+        "notes": "Ordinance 23-22 (Aug 8, 2023, amended Oct 24, 2023 by Ord. 23-26) establishes AHO zones citywide requiring 20% affordable set-aside for residential development within designated zones. Specific block/lot addresses in the overlay map not extracted from search results. Overlay zone map available at cityofenglewood.org."
+      }
+    ]
+  }
+]

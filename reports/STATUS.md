@@ -1,9 +1,9 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T03:22:23+00:00_
+_Generated 2026-06-12T03:23:38+00:00_
 
-- Municipalities: **70/70**  (done: 15, in_progress: 10, blocked: 0, not_started: 45)
-- Sites catalogued: **59**
+- Municipalities: **70/70**  (done: 18, in_progress: 12, blocked: 0, not_started: 40)
+- Sites catalogued: **77**
 
 | # | Municipality | Status | Sites | Oblig. | Compliance | HEFSP | Last researched |
 |---|---|---|---|---|---|---|---|
@@ -32,11 +32,11 @@ _Generated 2026-06-12T03:22:23+00:00_
 | 23 | Hackensack | done | 5 | 593 | settled | adopted | 2026-06-12T03:22:08+00:00 |
 | 24 | Harrington Park | done | 5 | 188 | settled | adopted | 2026-06-12T03:22:08+00:00 |
 | 25 | Hasbrouck Heights | in_progress | 1 | 157 |  |  | 2026-06-12T03:22:08+00:00 |
-| 26 | Haworth | not_started | 0 |  |  |  |  |
-| 27 | Hillsdale | not_started | 0 |  |  |  |  |
-| 28 | Ho-Ho-Kus | not_started | 0 |  |  |  |  |
-| 29 | Leonia | not_started | 0 |  |  |  |  |
-| 30 | Little Ferry | not_started | 0 |  |  |  |  |
+| 26 | Haworth | done | 6 |  | settled | adopted-amended | 2026-06-12T03:23:26+00:00 |
+| 27 | Hillsdale | done | 3 | 190 | settled | adopted | 2026-06-12T03:23:26+00:00 |
+| 28 | Ho-Ho-Kus | in_progress | 3 | 218 | litigating | adopted | 2026-06-12T03:23:26+00:00 |
+| 29 | Leonia | done | 2 | 172 | settled | adopted | 2026-06-12T03:23:26+00:00 |
+| 30 | Little Ferry | in_progress | 4 |  | in_progress | proposed | 2026-06-12T03:23:26+00:00 |
 | 31 | Lodi | in_progress | 0 |  |  |  | 2026-06-12T03:22:08+00:00 |
 | 32 | Lyndhurst | in_progress | 0 |  | litigating | challenged | 2026-06-12T03:22:08+00:00 |
 | 33 | Mahwah | done | 4 | 495 | settled | adopted | 2026-06-12T03:22:08+00:00 |

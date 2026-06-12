@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T03:22:23+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T03:23:38+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -165,6 +165,59 @@ _Obligation: 157_
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Longview Avenue Inclusionary Development | Longview Avenue, Hasbrouck Heights, NJ |  |  |  | inclusionary-rezoning |  | 18 | 4 | 22.0% | for-sale | approved | low | [doc](https://www.tapinto.net/towns/hasbrouck-heights-slash-wood-ridge-slash-teterboro/sections/real-estate/articles/hasbrouck-heights-land-use-board-approves-18-townhouses-affordable-housing-project) |
+
+## Haworth (Borough)
+
+_Compliance: settled · HEFSP: adopted-amended 2026-03-09_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Schaefer's Gardens / Lakeshore Developers |  |  |  | 5.5 | inclusionary-rezoning |  | 41 | 9 | 22.0% | rental | approved | low | [doc](https://thepressgroup.net/haworth-affordable-plan-gets-court-approval/) |
+| Lakeshore Estates |  |  |  |  | 100pct-affordable |  | 9 | 9 | 100.0% | for-sale | built | low | [doc](https://www.piazzanj.com/property/lakeshore-estates/) |
+| White Beeches Driving Range Overlay (Round 4 Unmet Need) |  | 1008 | 1 |  | overlay | 16.0 |  |  |  |  | adopted-ordinance | low | [doc](https://www.haworthnj.org/vertical/sites/%7B3226EF68-541C-456F-8644-AC724E9AC52C%7D/uploads/Minutes_03_10_26_pdf.pdf) |
+| 160 Terrace Street | 160 Terrace Street | 1307 | 3 |  | 100pct-affordable |  | 8 | 2 |  | rental | built | low | [doc](https://www.haworthnj.org/?SEC=D98AAAC9-503F-4FF0-9F1B-00DD76F125A7) |
+| 139 Terrace Street (Former Chase Bank) | 139 Terrace Street | 1308 | 1 | 0.27 | inclusionary-rezoning |  | 10 | 2 | 20.0% | rental | proposed | low | [doc](https://thepressgroup.net/haworth-makes-affordable-progress/) |
+| Massachusetts Avenue Multifamily (Zone G) | Massachusetts Avenue | 1800 | 1 | 2.387 | inclusionary-rezoning |  | 35 | 14 | 40.0% | rental | approved | low | [doc](https://thepressgroup.net/haworth-affordable-plan-gets-court-approval/) |
+
+## Hillsdale (Borough)
+
+_Obligation: 190 · Compliance: settled · HEFSP: adopted 2025-06-25_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| The Piermont / Patterson Street Urban Renewal | 137 Patterson Street |  |  |  | redevelopment-area |  | 256 | 20 | 8.0% | rental | built | low | [doc](https://newyorkyimby.com/2026/04/the-piermont-reaches-completion-at-137-patterson-street-in-hillsdale-new-jersey.html) |
+| Bergen County United Way Group Home (Fourth Round) |  |  |  | 0.61 | group-home |  | 1 | 1 | 100.0% | rental | proposed | low | [doc](https://thepressgroup.net/boroughs-round-4-obligation-plunges-from-190-units-to-4/) |
+| 100-101 West Street Townhomes | 100-101 West Street | 1205 | 10 |  | inclusionary-rezoning |  | 18 | 4 | 22.0% | for-sale | proposed | low | [doc](https://thepressgroup.net/boroughs-round-4-obligation-plunges-from-190-units-to-4/) |
+
+## Ho-Ho-Kus (Borough)
+
+_Obligation: 218 · Compliance: litigating · HEFSP: adopted 2025-06-01_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 619 North (619 N Maple Ave) | 619 N Maple Ave |  |  |  | inclusionary-rezoning |  |  | 10 |  | rental | built | low | [doc](https://www.piazzanj.com/property/619-north/) |
+| Franklin Turnpike R-6 Zone (New Zone) | Franklin Turnpike (between cemetery and Blauvelt Ave) |  |  | 1.5 | overlay |  |  |  |  |  | proposed | low | [doc](https://www.hhkborough.com/sites/g/files/vyhlif6801/f/minutes/02.24.2026_-_public_meeting_minutes.pdf) |
+| Downtown Inclusionary Overlay Zone (OL-1 through OL-4) | North Maple Ave / Warren Ave / Sheridan Ave / Sycamore Ave area |  |  |  | overlay | 9.3 |  |  |  |  | proposed | low | [doc](https://www.hhkborough.com/sites/g/files/vyhlif6801/f/minutes/02.24.2026_-_public_meeting_minutes.pdf) |
+
+## Leonia (Borough)
+
+_Obligation: 172 · Compliance: settled · HEFSP: adopted 2025-06-26_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Leonia Redevelopment Area (Fort Lee Road / Willow Tree Road Corridor) | Fort Lee Road and Willow Tree Road corridors |  |  |  | redevelopment-area |  |  |  | 20.0% |  | adopted-ordinance | low | [doc](https://ecode360.com/LE0835/laws/LF2511989.pdf) |
+| Rehabilitation Program (Present Need) |  |  |  |  | municipal |  |  | 68 |  | rental | proposed | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/leonia-boro/62625LeoniaHEFSPwAppendixJuneAmended3and4roundadopted6.26.25Part1.pdf?VersionId=YoBjf8a6hsNc0X6lm2lipVVAhkwkmA.k) |
+
+## Little Ferry (Borough)
+
+_Compliance: in_progress · HEFSP: proposed_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Osprey Point Senior / Supportive Housing | 250 Mehrhof Road |  |  |  | 100pct-affordable |  | 85 | 85 | 100.0% | rental | built | medium | [doc](https://www.nj.gov/dca/hmfa/about/pressreleases/2023/20231006.shtml) |
+| UNI Independent Senior Living (Block 107, Lot 2.01) - Potential Conversion |  | 107 | 2.01 |  | 100pct-affordable |  | 117 | 117 | 100.0% | rental | proposed | low | [doc](https://ecode360.com/34747526) |
+| 273-281 Main Street (Royale Reality LLC) | 273-281 Main Street | 38 | 22, 23, 24 |  | inclusionary-rezoning |  | 24 | 2 | 8.0% | for-sale | approved | medium | [doc](https://ecode360.com/34747526) |
+| Riverfront Development Inclusionary Overlay Zone |  | 5.01 and 25 | Block 5.01 (all); Block 25 Lots 1, 2, 3.01, 4.01, 4.02, 5 |  | overlay |  |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/34747526) |
 
 ## Mahwah (Township)
 

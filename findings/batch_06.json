@@ -1,0 +1,680 @@
+[
+  {
+    "municipality": "Haworth",
+    "research_status": "done",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": 178,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center; Lakeshore Developers LLC",
+      "settlement_date": "2019-05-14",
+      "hefsp_status": "adopted-amended",
+      "hefsp_adopted_date": "2026-03-09",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/haworth-boro/31026HaworthHEFSPAmednmentredPart1.pdf?VersionId=hyOuG4OkR1nUAOBGVXieAcymuW1SpnPY"
+    },
+    "notes": "Original HEFSP adopted June 18 2025 (Planning Board) / June 25 2025 (Council); filed with court June 19 2025. FSHC filed objection August 28 2025. Amended HEFSP adopted March 9 2026 (PB) / March 10 2026 (Council). Settlement Agreement (Round 3) executed May 14 2019 with FSHC and Lakeshore Developers LLC; court approved June 20 2019 for 223 affordable units. Fourth Round prospective need per DCA: 221 (1,000/20% cap) but Haworth's adopted plan states 178. Present need number not confirmed in snippets; set null. White Beeches driving range (Block 1008, Lot 1) overlay ordinance had preliminary vote Feb 24 2026 and final passage March 10 2026 for Round 4 unmet need at max 16 units/acre, 10-acre minimum. Sources are Pascack Press articles and the library.njcourts.gov HEFSP PDFs.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "2026 Master Plan Amendment Housing Element and Fair Share Plan Round 4 (Amended)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/haworth-boro/31026HaworthHEFSPAmednmentredPart1.pdf?VersionId=hyOuG4OkR1nUAOBGVXieAcymuW1SpnPY"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Master Plan Amendment Housing Element and Fair Share Plan Round 4 (Original Adopted)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/haworth-boro/HaworthHEFSPADOPTEDPart1.pdf?VersionId=QeOsfn2sSwK10C_947CLnoTQtN5Y3xA_"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Haworth Draft HEFSP June 2025",
+        "url": "https://www.haworthnj.org/vertical/sites/%7B3226EF68-541C-456F-8644-AC724E9AC52C%7D/uploads/6-4-25_FINAL_Draft_Haworth_DRAFT_HEFSP_REVISED.pdf"
+      },
+      {
+        "doc_type": "news",
+        "title": "Haworth 'Affordable' Plan Gets Court Approval - Pascack Press",
+        "url": "https://thepressgroup.net/haworth-affordable-plan-gets-court-approval/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Haworth Makes 'Affordable' Progress - Pascack Press",
+        "url": "https://thepressgroup.net/haworth-makes-affordable-progress/"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "2025 to 2035 Affordable Housing Calculations - NJ DCA",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Haworth Borough Affordable Housing Page",
+        "url": "https://www.haworthnj.org/?SEC=D98AAAC9-503F-4FF0-9F1B-00DD76F125A7"
+      },
+      {
+        "doc_type": "other",
+        "title": "Haworth Council Minutes March 10 2026",
+        "url": "https://www.haworthnj.org/vertical/sites/%7B3226EF68-541C-456F-8644-AC724E9AC52C%7D/uploads/Minutes_03_10_26_pdf.pdf"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Schaefer's Gardens / Lakeshore Developers",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": 5.5,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 41,
+        "affordable_units": 9,
+        "set_aside_pct": 22,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "Lakeshore Developers LLC",
+        "source_url": "https://thepressgroup.net/haworth-affordable-plan-gets-court-approval/",
+        "source_date": "2019-06-20",
+        "confidence": "low",
+        "notes": "41-unit multifamily on 5.5-acre Schaefer's Gardens site; 9 affordable units per Pascack Press. Block/lot not found in snippets. Settlement intervenor Lakeshore Developers LLC."
+      },
+      {
+        "site_name": "Massachusetts Avenue Multifamily (Zone G)",
+        "address": "Massachusetts Avenue",
+        "block": "1800",
+        "lot": "1",
+        "acreage": 2.387,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": "Massachusetts Ave. Residential/Inclusionary Multifamily (Zone G)",
+        "density": null,
+        "total_units": 35,
+        "affordable_units": 14,
+        "set_aside_pct": 40,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": null,
+        "source_url": "https://thepressgroup.net/haworth-affordable-plan-gets-court-approval/",
+        "source_date": "2019-06-20",
+        "confidence": "low",
+        "notes": "35-unit complex; 14 affordable including 8 family rentals, 2 age-restricted, 4 one-bedroom supportive housing. Block 1800 Lot 1 (2.387 acres) per ecode360 district regulations snippet. Bergen County United Way collaboration. Acreage and block/lot from Haworth zoning code snippet - medium confidence for those values."
+      },
+      {
+        "site_name": "139 Terrace Street (Former Chase Bank)",
+        "address": "139 Terrace Street",
+        "block": "1308",
+        "lot": "1",
+        "acreage": 0.27,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": "mixed-use residential above ground-floor commercial",
+        "density": null,
+        "total_units": 10,
+        "affordable_units": 2,
+        "set_aside_pct": 20,
+        "tenure": "rental",
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://thepressgroup.net/haworth-makes-affordable-progress/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Block 1308, Lot 1, approx 0.27 acres. Zoning ordinance to permit 10 total units with 2 affordable (one for Round 3 unmet need, one for Round 4). One council member noted 15 units with 3-4 affordable. Per Pascack Press snippet."
+      },
+      {
+        "site_name": "160 Terrace Street",
+        "address": "160 Terrace Street",
+        "block": "1307",
+        "lot": "3",
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 8,
+        "affordable_units": 2,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "built",
+        "developer": null,
+        "source_url": "https://www.haworthnj.org/?SEC=D98AAAC9-503F-4FF0-9F1B-00DD76F125A7",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "8 residential units; 2 affordable (2-bedroom low and moderate income rental). Block 1307 Lot 3 per earlier search snippet. Appears built/existing unit. Snippet said 'two (2) are affordable' from application."
+      },
+      {
+        "site_name": "Lakeshore Estates",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 9,
+        "affordable_units": 9,
+        "set_aside_pct": 100,
+        "tenure": "for-sale",
+        "adoption_status": "built",
+        "developer": "Lakeshore Developers LLC",
+        "source_url": "https://www.piazzanj.com/property/lakeshore-estates/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "9 one-, two- and three-bedroom low- and moderate-income homes for sale. Pre-applications accepted per Oakland NJ announcement. Block/lot not found."
+      },
+      {
+        "site_name": "White Beeches Driving Range Overlay (Round 4 Unmet Need)",
+        "address": null,
+        "block": "1008",
+        "lot": "1",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": "Golf/Country Club",
+        "proposed_zoning": "Residential Overlay (16 units/acre max, 10-acre min)",
+        "density": 16,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.haworthnj.org/vertical/sites/%7B3226EF68-541C-456F-8644-AC724E9AC52C%7D/uploads/Minutes_03_10_26_pdf.pdf",
+        "source_date": "2026-03-10",
+        "confidence": "low",
+        "notes": "White Beeches Golf and Country Club driving range portion. Ordinance for Round 4 unmet need. Preliminary vote Feb 24 2026; final passage March 10 2026. Block 1008 Lot 1 per Haworth ecode360 district regulations snippet. Total and affordable units not specified in snippets."
+      }
+    ]
+  },
+  {
+    "municipality": "Hillsdale",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 0,
+      "prospective_need": 190,
+      "total_obligation": 190,
+      "rdp": 4,
+      "unmet_need": null,
+      "source_url": "https://www.hillsdalenj.org/vertical/Sites/%7BFE916F8D-CA48-4788-B4B7-6A2BF8501398%7D/uploads/250612dag_HDB_Fourth_Round_HEFSP_Draft_PB_Hearing-2.pdf"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-25",
+      "hefsp_url": "https://www.hillsdalenj.org/vertical/Sites/%7BFE916F8D-CA48-4788-B4B7-6A2BF8501398%7D/uploads/250612dag_HDB_Fourth_Round_HEFSP_Draft_PB_Hearing-2.pdf"
+    },
+    "notes": "DCA initial obligation: 220 units. Borough argued 171 (down from 220). Program Recommendation (Judge Julio Mendez, retired) issued April 17 2025 set prospective need at 190. VLA reduces RDP to 4 units for Fourth Round; 25% of adjusted need adds 1 unit (per statute), bringing effective fourth-round obligation to approximately 5 units. HEFSP approved by Joint Planning Board June 24 2025; endorsed by Borough Council June 25 2025. Developer objections expected July 1 - August 31 2025 window. By March 15 2026 all ordinances must be adopted. Rehabilitation obligation: 0. NJ Builders Association filed objection during 30-day challenge window. The HEFSP filed with Superior Court. Key sites: 137 Patterson Street / The Piermont (256 units / 20 affordable, completed April 2026) for Patterson Street Urban Renewal; a Bergen County United Way group home (4-bedroom very-low income, deed-restricted 40 years); and a 18-townhome project at 100-101 West Street (4 affordable stacked flats). Library.njcourts.gov Bergen documents page does not show a Hillsdale-specific filed HEFSP URL in search snippets; main document is on Hillsdale municipal website.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "2025 Housing Element & Fair Share Plan Borough of Hillsdale June 12 2025 (Draft for PB Hearing)",
+        "url": "https://www.hillsdalenj.org/vertical/Sites/%7BFE916F8D-CA48-4788-B4B7-6A2BF8501398%7D/uploads/250612dag_HDB_Fourth_Round_HEFSP_Draft_PB_Hearing-2.pdf"
+      },
+      {
+        "doc_type": "news",
+        "title": "Borough's Round 4 obligation plunges from 190 units to 4 — Pascack Press",
+        "url": "https://thepressgroup.net/boroughs-round-4-obligation-plunges-from-190-units-to-4/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Valley towns face lawsuits after Fourth Round filings — Pascack Press",
+        "url": "https://thepressgroup.net/valley-towns-face-lawsuits-after-fourth-round-filings/"
+      },
+      {
+        "doc_type": "news",
+        "title": "The Piermont Reaches Completion At 137 Patterson Street In Hillsdale",
+        "url": "https://newyorkyimby.com/2026/04/the-piermont-reaches-completion-at-137-patterson-street-in-hillsdale-new-jersey.html"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "2025 to 2035 Affordable Housing Calculations - NJ DCA",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Hillsdale Affordable Housing Page",
+        "url": "https://www.hillsdalenj.org/index.asp?SEC=3EB76B0C-DA4C-4638-B14D-74382C02EEF4"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "The Piermont / Patterson Street Urban Renewal",
+        "address": "137 Patterson Street",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": "Patterson Street Redevelopment Plan",
+        "density": null,
+        "total_units": 256,
+        "affordable_units": 20,
+        "set_aside_pct": 8,
+        "tenure": "rental",
+        "adoption_status": "built",
+        "developer": "BNE Real Estate Group / Claremont Development / March Development",
+        "source_url": "https://newyorkyimby.com/2026/04/the-piermont-reaches-completion-at-137-patterson-street-in-hillsdale-new-jersey.html",
+        "source_date": "2026-04-01",
+        "confidence": "low",
+        "notes": "256 apartments and townhomes; 20 very low/low/moderate income units per Piazza & Associates snippet. Redevelopment Plan adopted Dec 8 2020 (Ord 20-15), amended Jul 12 2022 and Dec 17 2024. Patterson Street Urban Renewal (also called Claremont). Blocks 1207-1211 per Hillsdale community presentation. Completed April 2026."
+      },
+      {
+        "site_name": "Bergen County United Way Group Home (Fourth Round)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": 0.61,
+        "mechanism": "group-home",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 1,
+        "affordable_units": 1,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "proposed",
+        "developer": "Bergen County United Way",
+        "source_url": "https://thepressgroup.net/boroughs-round-4-obligation-plunges-from-190-units-to-4/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "0.61-acre lot redeveloped by Bergen County United Way as 4-bedroom group home for very-low-income residents; all units deed-restricted 40 years minimum. Counts as 1 credit toward Round 4 RDP of 4. Address and block/lot not found in snippets."
+      },
+      {
+        "site_name": "100-101 West Street Townhomes",
+        "address": "100-101 West Street",
+        "block": "1205",
+        "lot": "10",
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 18,
+        "affordable_units": 4,
+        "set_aside_pct": 22,
+        "tenure": "for-sale",
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://thepressgroup.net/boroughs-round-4-obligation-plunges-from-190-units-to-4/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "18 townhomes (4 affordable stacked flats, 14 market-rate). Block 1205 Lot 10 is 101 West Street per NJParcels.com snippet (100 WEST ST LLC owner). Affordable units count toward Round 4 RDP. Source is Pascack Press snippet."
+      }
+    ]
+  },
+  {
+    "municipality": "Ho-Ho-Kus",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": 0,
+      "prospective_need": 218,
+      "total_obligation": 218,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": "litigating",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-01",
+      "hefsp_url": "https://www.hhkborough.com/planning-board/pages/hhk-housing-element-fair-share-plan"
+    },
+    "notes": "DCA prospective need: 218 (with 1,000/20% cap). Ho-Ho-Kus had median household income top-coded at $250,000 by Census Bureau affecting calculations. HEFSP adopted by Planning Board and Council by end of June 2025 (exact date not confirmed in snippets; referenced as adopted ahead of June 30 2025 court deadline). Court appearance December 5 2025: Special Adjudicator and Special Master mandated settlement by March 15 2026 or borough loses builder's remedy immunity for 10 years. A developer purchased 1.5-acre parcel on Franklin Turnpike and challenged the HEFSP. Three ordinances adopted Feb/March 2026 as result of court-ordered mediation: (1) new R-6 Planned Residential Townhouse Zone on Franklin Turnpike between cemetery and Blauvelt Avenue; (2) expansion of Downtown Inclusionary Overlay Zone (OL-1 through OL-4); (3) updated development fees ordinance. Borough has existing Settlement Agreement with FSHC (prior rounds) requiring Very Low-Income Monitoring Reports. 619 North (619 N Maple Ave) is existing development with 10 affordable units. No library.njcourts.gov HEFSP URL found for Ho-Ho-Kus in search results; HEFSP page is on municipal website. Settlement date for Fourth Round not confirmed.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "HHK Housing Element & Fair Share Plan (Municipal Page)",
+        "url": "https://www.hhkborough.com/planning-board/pages/hhk-housing-element-fair-share-plan"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Ordinance to Repeal and Replace Chapter 2 Affordable Housing and Chapter 17 Development Fees (Draft Feb 4 2026)",
+        "url": "https://www.hhkborough.com/sites/g/files/vyhlif6801/f/uploads/2026-113_-_to_repeal_and_replace_chapter_2_affordable_housing_and_chapter_17_development_fees.docx_0.pdf"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Ordinance to Amend Article IV District Regulations - Create R-6 Planned Residential Townhouse Zone (Draft)",
+        "url": "https://www.hhkborough.com/sites/g/files/vyhlif6801/f/pages/2026-111_-_to_amend_article_iv_-district_regulations_of_chapter_85_zoning_ordinance_to_create_a_new_r-6_planned_residential_townhouse_district_zone_and_new_definition_to_be_added_to_85-7b_0.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Ho-Ho-Kus Borough Public Meeting Minutes Feb 24 2026",
+        "url": "https://www.hhkborough.com/sites/g/files/vyhlif6801/f/minutes/02.24.2026_-_public_meeting_minutes.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Ho-Ho-Kus Affordable Housing Page",
+        "url": "https://www.hhkborough.com/planning-board/pages/affordable-housing"
+      },
+      {
+        "doc_type": "news",
+        "title": "Ho-Ho-Kus reaches agreements in affordable housing suits - Ridgewood Blog",
+        "url": "https://theridgewoodblog.net/ho-ho-kus-reaches-agreements-in-affordable-housing-suits/"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "2025 to 2035 Affordable Housing Calculations - NJ DCA",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "619 NORTH - Piazza & Associates",
+        "url": "https://www.piazzanj.com/property/619-north/"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "619 North (619 N Maple Ave)",
+        "address": "619 N Maple Ave",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": 10,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "built",
+        "developer": "LMF HHK Urban Renewal LLC",
+        "source_url": "https://www.piazzanj.com/property/619-north/",
+        "source_date": "2024-09-12",
+        "confidence": "low",
+        "notes": "10 very-low, low, and moderate income 1-, 2- and 3-bedroom rental apartments. Lottery held September 12 2024. Block/lot not found in snippets. Mixed-use building in downtown Ho-Ho-Kus."
+      },
+      {
+        "site_name": "Franklin Turnpike R-6 Zone (New Zone)",
+        "address": "Franklin Turnpike (between cemetery and Blauvelt Ave)",
+        "block": null,
+        "lot": null,
+        "acreage": 1.5,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "R-6 Planned Residential Townhouse District",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://www.hhkborough.com/sites/g/files/vyhlif6801/f/minutes/02.24.2026_-_public_meeting_minutes.pdf",
+        "source_date": "2026-02-24",
+        "confidence": "low",
+        "notes": "1.5-acre parcel purchased by developer who challenged borough HEFSP. Court-ordered mediation resulted in new R-6 zone creation. Total units and affordable units not specified in snippets. Ordinance introduced Feb 2026."
+      },
+      {
+        "site_name": "Downtown Inclusionary Overlay Zone (OL-1 through OL-4)",
+        "address": "North Maple Ave / Warren Ave / Sheridan Ave / Sycamore Ave area",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "Downtown Inclusionary Overlay (4 sub-zones OL-1 to OL-4)",
+        "density": 9.3,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://www.hhkborough.com/sites/g/files/vyhlif6801/f/minutes/02.24.2026_-_public_meeting_minutes.pdf",
+        "source_date": "2026-02-24",
+        "confidence": "low",
+        "notes": "Downtown overlay expansion as court-ordered mediation result. OL-1 and OL-2 cover specific blocks/lots on N Maple Ave, Warren Ave, Sheridan Ave. OL-3 includes non-residential lots on Franklin Turnpike and Sycamore Ave. OL-4 includes first three lots north of Warren Ave between Sycamore and Sheridan. Density of 9.3 units/acre noted as significantly higher than prior round. FSHC sought increased density. Block/lot specifics not found in snippets."
+      }
+    ]
+  },
+  {
+    "municipality": "Leonia",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 68,
+      "prospective_need": 104,
+      "total_obligation": 172,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": null,
+      "settlement_date": "2025-01-22",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-26",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/leonia-boro/62625LeoniaHEFSPwAppendixJuneAmended3and4roundadopted6.26.25Part1.pdf?VersionId=YoBjf8a6hsNc0X6lm2lipVVAhkwkmA.k"
+    },
+    "notes": "DCA Fourth Round: present need 68 units (rehabilitation), prospective need 104 units (1,000/20% cap also 104). Borough adopted Fourth Round obligation via Resolution 2025-78 on January 22 2025. Third and Fourth Round HEFSP adopted June 26 2025 (amended version filed with court). NJ Judge granted Leonia temporary zoning immunity; borough still needs formal Judgment of Compliance. Developer High Jump Realty challenged HEFSP claiming borough cannot meet obligation without approving high-density proposal - borough disputes this, stating Redevelopment Plan covers all four rounds and much of Round 5. Ordinance 2025-22 (adopted Oct 20 2025) adopts Redevelopment Plan for Blocks 802 (Lots 12-19), 803 (Lots 35-37), 1202 (Lots 2-5), 1203, 1204, 503, and others along Fort Lee Road and Willow Tree Road corridors. Affordable housing set-aside for inclusionary projects: 20%. Rental units under affordability controls subject to 40-year deed restriction. January 2025 resolution document available on Leonia's cloud server. Expert Report filed with NJ Courts January 22 2025.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Third Round & Fourth Round Housing Element and Fair Share Plan (Adopted June 26 2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/leonia-boro/62625LeoniaHEFSPwAppendixJuneAmended3and4roundadopted6.26.25Part1.pdf?VersionId=YoBjf8a6hsNc0X6lm2lipVVAhkwkmA.k"
+      },
+      {
+        "doc_type": "other",
+        "title": "Leonia Resolution and Expert Report Jan 22 2025 (NJ Courts Library)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/leonia-boro/12225LeoniaResoExpertReportFinal.pdf?VersionId=2GFrjuPoeII2FfwNStS26zspoe9MLPWw"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Leonia Resolution January 22 2025",
+        "url": "https://d3n9y02raazwpg.cloudfront.net/leonianj/6984c887-cf60-11ef-a9e2-005056a89546-8b26ee2c-3e60-4123-9feb-55c7019d6522-1737580678.pdf"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Leonia Ordinance 2025-22 (Redevelopment Plan)",
+        "url": "https://ecode360.com/LE0835/laws/LF2511989.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Mayor Ziegler Leonia Status Update December 2025",
+        "url": "https://www.leonianj.gov/Home/Components/News/News/1099/179"
+      },
+      {
+        "doc_type": "other",
+        "title": "Mayor Ziegler Leonia Status Update September 2025",
+        "url": "https://www.leonianj.gov/Home/Components/News/News/1075/179?npage=3"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "2025 to 2035 Affordable Housing Calculations - NJ DCA",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Leonia Redevelopment Area (Fort Lee Road / Willow Tree Road Corridor)",
+        "address": "Fort Lee Road and Willow Tree Road corridors",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": "Redevelopment Zone (up to 4 stories on Fort Lee Rd; up to 6 stories on Willow Tree Rd)",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/LE0835/laws/LF2511989.pdf",
+        "source_date": "2025-10-20",
+        "confidence": "low",
+        "notes": "Ordinance 2025-22 adopted Oct 20 2025. Covers Blocks 802 (Lots 12-19), 803 (Lots 35-37), 1202 (Lots 2-5), and additional blocks (1203, 1204, 503) per search snippets. 20% set-aside for inclusionary residential development of 5+ units in redevelopment areas. Mayor states plan covers all four rounds. Total units and affordable units not specified in snippets - cannot confirm without full document access."
+      },
+      {
+        "site_name": "Rehabilitation Program (Present Need)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "municipal",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": 68,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/leonia-boro/62625LeoniaHEFSPwAppendixJuneAmended3and4roundadopted6.26.25Part1.pdf?VersionId=YoBjf8a6hsNc0X6lm2lipVVAhkwkmA.k",
+        "source_date": "2025-06-26",
+        "confidence": "low",
+        "notes": "68-unit rehabilitation obligation. Borough to work with Bergen County and/or hire separate entity to rehabilitate substandard units occupied by LMI households. Bergen County Community Development (BCCD) referenced as potential administrative agent."
+      }
+    ]
+  },
+  {
+    "municipality": "Little Ferry",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": 99,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": "in_progress",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "proposed",
+      "hefsp_adopted_date": null,
+      "hefsp_url": "https://www.littleferrynj.org/filestorage/121/5118/4147.11_Little_Ferry_Amended_Housing_Element_and_Fair_Share_Plan_-_Draft_3-4-2026.pdf"
+    },
+    "notes": "DCA Fourth Round prospective need: 99 (with 1,000/20% cap). Prior round note: 28-unit prior round obligation, 42-unit rehabilitation obligation, 58-unit projected growth share per Third Round HEFSP language. Fourth Round present need not confirmed in search snippets - DCA cap figure of 99 is prospective. An Amended Fourth Round HEFSP draft dated March 4 2026 is posted on the Little Ferry municipal website (Draft not yet adopted based on title). Third Round HEFSP also on file at littleferrynj.org. No library.njcourts.gov URL found for Little Ferry Fourth Round HEFSP in search results. Settlement party and date not found. Osprey Point (85-unit senior/supportive affordable housing, opened Oct 2023, 250 Mehrhof Rd) predates Fourth Round but may count as prior round credit. Meridia Little Ferry is a 294-unit luxury building - unclear if affordable units included. Key Fourth Round mechanism: Riverfront Development Inclusionary Overlay Zone (Block 5.01 and Block 25 Lots 1, 2, 3.01, 4.01, 4.02, 5) with 20% rental or 25% for-sale set-aside. 273-281 Main Street (Block 38 Lots 22, 23, 24) Royale Reality LLC development of 24 units with 2 for-sale affordable units.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Little Ferry Amended Housing Element and Fair Share Plan Draft March 4 2026",
+        "url": "https://www.littleferrynj.org/filestorage/121/5118/4147.11_Little_Ferry_Amended_Housing_Element_and_Fair_Share_Plan_-_Draft_3-4-2026.pdf"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Third Round Housing Element and Fair Share Plan (prior round)",
+        "url": "https://www.littleferrynj.org/filestorage/121/5118/Little_Ferry_HEFSP_w_appendices.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Little Ferry Borough Affordable Housing - eCode360",
+        "url": "https://ecode360.com/34747526"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "2025 to 2035 Affordable Housing Calculations - NJ DCA",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Osprey Point Grand Opening - NJ HMFA Press Release",
+        "url": "https://www.nj.gov/dca/hmfa/about/pressreleases/2023/20231006.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Regan Development - Osprey Point Project Page",
+        "url": "https://regandevelopment.com/current-developments/osprey-point-rising-for-seniors-in-little-ferry-nj/"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Riverfront Development Inclusionary Overlay Zone",
+        "address": null,
+        "block": "5.01 and 25",
+        "lot": "Block 5.01 (all); Block 25 Lots 1, 2, 3.01, 4.01, 4.02, 5",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "RF Riverfront Development Inclusionary Overlay Zone",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/34747526",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Block 5.01 (all) and Block 25 Lots 1, 2, 3.01, 4.01, 4.02, 5. 20% set-aside for rental units or 25% for ownership units. Per eCode360 Little Ferry Affordable Housing chapter. Total and affordable unit counts depend on future development within overlay; not specified in snippets."
+      },
+      {
+        "site_name": "273-281 Main Street (Royale Reality LLC)",
+        "address": "273-281 Main Street",
+        "block": "38",
+        "lot": "22, 23, 24",
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 24,
+        "affordable_units": 2,
+        "set_aside_pct": 8,
+        "tenure": "for-sale",
+        "adoption_status": "approved",
+        "developer": "Royale Reality LLC",
+        "source_url": "https://ecode360.com/34747526",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Block 38, Lots 22, 23, 24. 24 total dwelling units; 2 restricted for-sale affordable units. Per eCode360 Little Ferry Affordable Housing chapter. Developer: Royale Reality LLC."
+      },
+      {
+        "site_name": "Osprey Point Senior / Supportive Housing",
+        "address": "250 Mehrhof Road",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 85,
+        "affordable_units": 85,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "built",
+        "developer": "Regan Development Corp",
+        "source_url": "https://www.nj.gov/dca/hmfa/about/pressreleases/2023/20231006.shtml",
+        "source_date": "2023-10-06",
+        "confidence": "medium",
+        "notes": "85-unit 100% affordable senior/supportive housing. Opened October 2023. 68 units for age 55+, 14 for IDD residents, 8 for mental health supportive housing. Financed via NJHMFA with $2.8M Special Needs Housing Trust Fund and $1.7M Affordable Housing Production Fund. Block/lot not found in snippets. May count as prior round credit rather than Fourth Round."
+      },
+      {
+        "site_name": "UNI Independent Senior Living (Block 107, Lot 2.01) - Potential Conversion",
+        "address": null,
+        "block": "107",
+        "lot": "2.01",
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 117,
+        "affordable_units": 117,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "proposed",
+        "developer": "Bergen County Housing Authority (proposed acquisition)",
+        "source_url": "https://ecode360.com/34747526",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "117-unit age-restricted development on Block 107 Lot 2.01 within NJ Meadowlands Commission jurisdiction. If acquired by Bergen County Housing Authority and converted to 100% affordable, would count toward obligation. Conditional/contingent mechanism per eCode360 snippet."
+      }
+    ]
+  }
+]
