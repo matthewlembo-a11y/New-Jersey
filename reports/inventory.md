@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T12:44:18+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T12:45:50+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -632,12 +632,13 @@ _Obligation: 119 · Compliance: DJ action filed · HEFSP: adopted 2025-06-25_
 
 ## Rockleigh (Borough)
 
-_Obligation: 14 · Compliance: settled · HEFSP: adopted 2025-06-23_
+_Obligation: 14 · Compliance: compliance order entered · HEFSP: adopted 2025-06-24_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Spectrum for Living Supervised Apartment Complex |  |  |  |  | group-home |  | 16 | 16 | 100.0% | rental | built | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj) |
-| Accessory Apartment Program |  |  |  |  | accessory-apt |  |  | 5 | 100.0% | rental | adopted-ordinance | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj) |
+| Spectrum for Living Supervised Apartment Complex |  |  |  |  | 100% affordable group home/supervised apartment (Borough-owned land, 50-year lease) |  | 16 | 1 | 100.0% | rental | completed (certificate of occupancy October 1998) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj) |
+| Accessory Apartment Program (borough-wide) |  |  |  |  | accessory apartment program |  |  | 0 |  | rental | ordinance adopted (Ord. 2009-19); 0 units constructed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj) |
+| Vacant Land RDP Site – Block 105 Lot 1 (Piermont Road) | Piermont Rd W/S | 105 | 1 | 3.05 | vacant land adjustment (VLA) — inclusionary potential | 6.0 | 2 | 1 | 20.0% |  | Borough-owned; retained for future public purpose | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj) |
 
 ## Rutherford (Borough)
 
