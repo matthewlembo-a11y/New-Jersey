@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T12:26:18+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T12:26:55+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -288,11 +288,15 @@ _Obligation: 188 · Compliance: settled · HEFSP: adopted-amended 2026-03-04_
 
 ## Hasbrouck Heights (Borough)
 
-_Obligation: 157_
+_Obligation: 151 · Compliance: settled · HEFSP: adopted 2025-06-04_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Longview Avenue Inclusionary Development | Longview Avenue, Hasbrouck Heights, NJ |  |  |  | inclusionary-rezoning |  | 18 | 4 | 22.0% | for-sale | approved | low | [doc](https://www.tapinto.net/towns/hasbrouck-heights-slash-wood-ridge-slash-teterboro/sections/real-estate/articles/hasbrouck-heights-land-use-board-approves-18-townhouses-affordable-housing-project) |
+| Industrial Avenue AHO Zone (Unmet Need Overlay) | Industrial Avenue area, southeastern Hasbrouck Heights near Moonachie/Teterboro | 129, 131, 132.01 | 129 L:1; 131 L:1,4,5,9; 132.01 L:1,2,3,4.02,5.01,5.03,5.04,5.05 | 13.0 | inclusionary overlay | 20.0 | 260 |  | 20.0% |  | zoned | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hasbrouck-heights-boro/Part12.pdf?VersionId=at59LFki4eF4xBChIDovQ6TNbiZBnzyt) |
+| Longview Avenue Townhouse District (Third Round RDP - Boulevard Site) | Longview Avenue / Boulevard, Hasbrouck Heights, NJ | 162.02, 134.03 | 162.02 L:1; 134.03 L:8 |  | inclusionary overlay |  |  | 4 |  | sale | approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hasbrouck-heights-boro/Part12.pdf?VersionId=at59LFki4eF4xBChIDovQ6TNbiZBnzyt) |
+| Devereux Group Home (Third Round RDP - Alternative Living Arrangements) |  | 163 | 63 |  | 100% affordable |  |  | 3 | 100.0% | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hasbrouck-heights-boro/Part12.pdf?VersionId=at59LFki4eF4xBChIDovQ6TNbiZBnzyt) |
+| Hasbrouck Heights Senior Housing - 245 Hamilton Ave (Prior/Third Round RDP) | 245 Hamilton Avenue, Hasbrouck Heights, NJ | 43 | 4.01 |  | 100% affordable |  |  | 31 | 100.0% | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hasbrouck-heights-boro/Part12.pdf?VersionId=at59LFki4eF4xBChIDovQ6TNbiZBnzyt) |
+| VFW Parcel - AHO Zone (Unmet Need Overlay) | Near Route 17, central area of Borough | 98 | 1.01 | 1.29 | inclusionary overlay | 20.0 | 26 |  | 20.0% |  | zoned | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hasbrouck-heights-boro/Part12.pdf?VersionId=at59LFki4eF4xBChIDovQ6TNbiZBnzyt) |
 
 ## Haworth (Borough)
 
@@ -483,12 +487,15 @@ _Compliance: settled · HEFSP: adopted 2025-06-18_
 
 ## Paramus (Borough)
 
-_Compliance: settled · HEFSP: adopted 2025-06-25_
+_Obligation: 1000 · Compliance: settled · HEFSP: adopted 2025-06-25_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 650 Winters Avenue | 650 Winters Avenue, Paramus, NJ 07652 | 6107 | 6 |  | inclusionary-rezoning |  |  |  |  |  | proposed | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/paramus-boro/ParamusHEFSP134.pdf?VersionId=9edtu2phSvLS7QKW02t_LKdxUyeyn5RK) |
-| Liger Crossing / A2 Enterprises (143 W. Ridgewood Ave & 697 Paramus Rd) | 143 W. Ridgewood Avenue / 697 Paramus Road, Paramus, NJ | 6701 | 6 and 7 | 4.0 | inclusionary-rezoning |  | 40 | 8 | 20.0% | for-sale | approved | low | [doc](https://theridgewoodblog.net/major-development-shift-former-paramus-garden-center-to-become-40-luxury-townhomes/) |
+| HCC (Highway Commercial Corridor) Overlay Zone (Unmet Need) |  |  |  | 559.0 | inclusionary overlay | 24.0 |  | 2683 | 17.5% | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/paramus-boro/ParamusHEFSP134.pdf?VersionId=9edtu2phSvLS7QKW02t_LKdxUyeyn5RK) |
+| Oster/Genesis Paramus |  | 601 | 5 |  | 100% affordable |  |  | 14 | 100.0% | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/paramus-boro/ParamusHEFSP134.pdf?VersionId=9edtu2phSvLS7QKW02t_LKdxUyeyn5RK) |
+| 615 Winters Avenue Inclusionary Development | 615 Winters Avenue | 6203 | 2 | 2.75 | inclusionary overlay |  | 136 | 20 |  | rental | approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/paramus-boro/ParamusHEFSP134.pdf?VersionId=9edtu2phSvLS7QKW02t_LKdxUyeyn5RK) |
+| West Ridgewood Ave / Paramus Rd Redevelopment | West Ridgewood Avenue / Paramus Road | 6701 | 7 |  | redevelopment |  | 40 | 8 |  | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/paramus-boro/ParamusHEFSP134.pdf?VersionId=9edtu2phSvLS7QKW02t_LKdxUyeyn5RK) |
+| Nursery Redevelopment Plan (Unmet Need) |  | 7002, 7701, 7003, 7101, 2701, 2801 | 1 (Block 7002); 3 (Block 7701); 1 (Block 7003); 4 (Block 7101); 12 (Block 2701); 1 (Block 2801) |  | redevelopment |  |  | 15 |  | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/paramus-boro/ParamusHEFSP134.pdf?VersionId=9edtu2phSvLS7QKW02t_LKdxUyeyn5RK) |
 
 ## Park Ridge (Borough)
 

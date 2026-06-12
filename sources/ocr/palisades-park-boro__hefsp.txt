@@ -1,0 +1,3774 @@
+
+===== PAGE 1 =====
+MASTER PLAN 
+HOUSING ELEMENT AND 
+FAIR SHARE PLAN 
+PALISADES PARK, NEW JERSEY
+June 2, 2025 
+Prepared for: 
+The Borough of Palisades Park 
+Prepared by: 
+356 Franklin Avenue 
+Wyckoff, New Jersey 07481 
+201 847-2900 P 
+201 847-2424 F
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 1 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 2 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+This page is intentionally left blank. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 2 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 3 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+Prepared by 
+Michael D. Kauker, AICP, PP 
+and 
+Michael F. Kauker, PP 
+This copy conforms to the original copy of this report which is stamped and signed by Michael D. 
+Kauker, Professional Planner’s License Number 5737 and Michael F. Kauker, Professional Planner’s 
+License Number 993, in accordance with N.J.S.A. 45:14A regulating the practice of Professional 
+Planning in the State of New Jersey. 
+________________________ 
+Michael D. Kauker 
+________________________ 
+Michael F. Kauker 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 3 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 4 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+This page is intentionally left blank. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 4 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 5 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+TABLE OF CONTENTS 
+1.0
+INTRODUCTION............................................................................................................. 1
+1.1
+PURPOSE AND SCOPE ....................................................................................................... 1
+1.2
+LEGAL AND REGULATORY CONTEXT ............................................................................... 1
+1.3
+CONTENT OF A HOUSING ELEMENT .................................................................................. 1
+1.4
+CONTENT OF A FAIR SHARE PLAN .................................................................................... 2
+2.0
+HOUSING ELEMENT ..................................................................................................... 4
+2.1
+INVENTORY OF EXISTING HOUSING ................................................................................. 4
+2.2
+PROJECTION OF HOUSING STOCK ..................................................................................... 7
+2.3
+ANALYSIS OF THE MUNICIPALITY’S DEMOGRAPHIC CHARACTERISTICS ........................ 10
+2.3.1
+Population Trends ................................................................................................. 10
+2.3.2
+Population Composition by Age ........................................................................... 11
+2.3.3
+Population Composition by Sex ............................................................................ 13
+2.3.4
+Population Composition by Race.......................................................................... 14
+2.3.5
+Household Income ................................................................................................ 15
+2.4
+ANALYSIS OF EMPLOYMENT CHARACTERISTICS. ........................................................... 16
+2.4.1
+Employment Trend ................................................................................................ 16
+2.4.2
+Employment by Industry Sector ............................................................................ 16
+2.4.3
+Employment by Occupation .................................................................................. 17
+2.5
+DETERMINATION OF FAIR SHARE AND HOUSING CAPACITY .......................................... 19
+2.5.1
+Prior Round Obligation ........................................................................................ 19
+2.5.2
+Third Round Obligation ........................................................................................ 19
+2.5.3
+Fourth Round Present Need (Rehabilitation Share) ............................................. 19
+2.5.4
+Fourth Round Prospective Need Obligation......................................................... 19
+2.5.5
+Total Fair Share Obligation ................................................................................. 20
+2.6
+CONSIDERATION OF APPROPRIATE LANDS FOR AFFORDABLE HOUSING ........................ 20
+2.6.1
+Lack of Land ......................................................................................................... 21
+2.6.2
+Vacant Land Analysis ........................................................................................... 22
+2.6.3
+Calculation of Third Round Realistic Development Potential ............................. 22
+2.6.4
+Compliance Analysis for Adjusted Prospective Need Obligation......................... 23
+2.7
+ANALYSIS OF MULTIGENERATIONAL FAMILY HOUSING CONTINUITY ........................... 24
+2.8
+CONSISTENCY WITH THE STATE DEVELOPMENT AND REDEVELOPMENT PLAN .............. 24
+3.0
+PROPOSED FAIR SHARE PLAN ............................................................................... 25
+3.1
+PRIOR ROUND COMPLIANCE (1987–1999) ..................................................................... 25
+3.2
+THIRD ROUND COMPLIANCE (1999–2025) .................................................................... 26
+3.2.1
+Credits Addressing the Obligation........................................................................ 26
+3.2.2
+Descriptions of Proposed Developments .............................................................. 27
+3.2.3
+Summary of Compliance Mechanisms .................................................................. 27
+3.3
+FOURTH ROUND PLAN OF COMPLIANCE ........................................................................ 28
+3.3.1
+Satisfaction of RDP ............................................................................................... 28
+3.3.2
+Satisfaction of Fourth Round Unmet Need ........................................................... 37
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 5 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 6 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+3.4
+FOURTH ROUND AGE-RESTRICTED, RENTAL, FAMILY RENTAL, FAMILY, AND VERY 
+LOW-INCOME REQUIREMENTS ................................................................................................... 39
+3.4.1
+Age-Restricted Housing ........................................................................................ 39
+3.4.2
+Rental Housing...................................................................................................... 39
+3.4.3
+Family Rental Requirement .................................................................................. 39
+3.4.4
+Family Requirement .............................................................................................. 40
+3.4.5
+Very Low-Income Housing Requirement .............................................................. 40
+3.4.6
+Bonus Credit Cap .................................................................................................. 40
+4.0
+AFFIRMATIVE MARKETING PLAN ....................................................................... 40
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 6 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 7 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+This page is intentionally left blank. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 7 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 8 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+1 
+1.0 INTRODUCTION 
+1.1
+Purpose and Scope 
+This Round 4 Housing Element and Fair Share Plan has been developed to fulfill Palisades 
+Park’s constitutional obligation to provide its fair share of affordable housing, as required by the 
+New Jersey Fair Housing Act (P.L.1985, c.222) and the Mount Laurel Doctrine. This plan 
+complies with the recently enacted Assembly Bill A-4, which establishes a new framework for 
+determining municipal fair share housing obligations for the Fourth Round (2025-2035). It 
+serves as a comprehensive guide to meeting the municipality’s affordable housing obligations 
+while ensuring compliance with regulations set forth by the Council on Affordable Housing 
+(COAH) or other applicable judicial directives. 
+The Housing Element component identifies current and projected housing needs within the 
+municipality, incorporating a detailed analysis of demographics, economic trends, housing stock, 
+and land use policies. The Fair Share Plan outlines the strategies and regulatory mechanisms to 
+meet the municipality’s assigned affordable housing obligation, including zoning amendments, 
+inclusionary housing requirements, and redevelopment opportunities. 
+The mechanisms proposed by the Borough of Palisades Park will promote the constitutional goal 
+of creating the realistic opportunity for producing its fair share of the present and prospective 
+need for low- and moderate-income housing.   
+1.2
+Legal and Regulatory Context 
+The preparation of this Housing Element and Fair Share Plan is mandated by Section 2 of 
+P.L.1985, c.222 (C.52:27D-302), which requires every New Jersey municipality to adopt a 
+housing plan as part of its Master Plan to address affordable housing needs. This requirement is 
+rooted in the New Jersey Supreme Court’s Mount Laurel decisions, which mandate that 
+municipalities take affirmative steps to provide realistic housing opportunities for low- and 
+moderate-income households. 
+The enactment of Assembly Bill A-4 (2024) introduces a new methodology for determining fair 
+share obligations, replacing the previous court-driven compliance process. Under A-4, the New 
+Jersey Department of Community Affairs (DCA) will be responsible for establishing municipal 
+obligations for the Fourth Round, reducing judicial oversight that has influenced housing policy 
+since the 2015 court rulings. The legislation also includes incentives for municipalities that 
+proactively comply with their obligations, as well as penalties for non-compliance. 
+1.3
+Content of a Housing Element 
+The Housing Element submitted to the Court shall include the minimum requirements set forth in 
+N.J.S.A. 52:27D-310 of the Fair Housing Act. It shall be designed to ensure access to affordable 
+housing that addresses both current and future needs, with particular emphasis on low- and 
+moderate-income households, and shall include at minimum the following: 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 8 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 9 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+2 
+a.
+An inventory of the municipality's housing stock by age, condition, purchase or rental 
+value, occupancy characteristics, and type, including the number of units affordable to 
+low- and moderate-income households and substandard housing capable of being 
+rehabilitated, and in conducting this inventory the municipality shall have access, on a 
+confidential basis for the sole purpose of conducting the inventory, to all necessary 
+property tax assessment records and information in the assessor's office, including but not 
+limited to the property record cards;  
+b. A projection of the municipality's housing stock, including the probable future 
+construction of low- and moderate-income housing, for the next ten years, taking into 
+account, but not necessarily limited to, construction permits issued, approvals of 
+applications for development and probable residential development of lands;  
+c.
+An analysis of the municipality's demographic characteristics, including but not 
+necessarily limited to, household size, income level and age;  
+d. An analysis of the existing and probable future employment characteristics of the 
+municipality;  
+e.
+A determination of the municipality's present and prospective fair share for low- and 
+moderate-income housing and its capacity to accommodate its present and prospective 
+housing needs, including its fair share for low- and moderate-income housing, as 
+established pursuant to section 3 of P.L.2024, c.2 (C.52:27D-304.1);  
+f.
+A consideration of the lands that are most appropriate for construction of low- and 
+moderate-income housing and of the existing structures most appropriate for conversion 
+to, or rehabilitation for, low- and moderate-income housing, including a consideration of 
+lands of developers who have expressed a commitment to provide low- and moderate-
+income housing;  
+g. An analysis of the extent to which municipal ordinances and other local factors advance 
+or detract from the goal of preserving multigenerational family continuity as expressed in 
+the recommendations of the Multigenerational Family Housing Continuity Commission, 
+adopted pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c.273 
+(C.52:27D-329.20);  
+h. For a municipality located within the jurisdiction of the Highlands Water Protection and 
+Planning Council, established pursuant to section 4 of P.L.2004, c.120 (C.13:20-4), an 
+analysis of compliance of the housing element with the Highlands Regional Master Plan 
+of lands in the Highlands Preservation Area, and lands in the Highlands Planning Area 
+for Highlands-conforming municipalities. This analysis shall include consideration of the 
+municipality’s most recent Highlands Municipal Build Out Report, consideration of 
+opportunities for redevelopment of existing developed lands into inclusionary or 100 
+percent affordable housing, or both, and opportunities for 100 percent affordable housing 
+in both the Highlands Planning Area and Highlands Preservation Area that are consistent 
+with the Highlands regional master plan; and  
+i.
+An analysis of consistency with the State Development and Redevelopment Plan, 
+including water, wastewater, stormwater, and multi-modal transportation based on 
+guidance and technical assistance from the State Planning Commission. 
+1.4
+Content of a Fair Share Plan 
+The Fair Share Plan describes the completed or proposed mechanisms and funding sources, if 
+applicable, that will be utilized to address a municipality’s affordable housing obligation as 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 9 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 10 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+3 
+established in the Housing Element.  More specifically, it will address the rehabilitation share, 
+Prior Round Obligation (1987-1999), Gap Present Need Obligation (1999-2015), Round 3 
+obligation (2015 to 2025) and Round 4 Obligation (2025 to 2035).  It shall also include if 
+applicable draft ordinances necessary to implement that plan and other information that may be 
+required by the Court or other reviewing agency. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 10 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 11 =====
+Master Plan
+Borough of Palisades Park, NJ
+Housing Element
+June 2, 2025
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481
+201.847.2900 P • 201.847.2424 F
+4
+2.0 HOUSING ELEMENT
+The Borough of Palisades Park has an area of approximately 1.3 square miles and is located in 
+the southern central section of Bergen County, New Jersey.  Bergen County is part of Housing 
+Region 1 as established by COAH consisting of Bergen, Passaic, Hudson and Sussex Counties. 
+The following map depicts the regional location of the Borough of Palisades Park.
+Source: NJ DEP i-map and County of Bergen Maps On-Line
+2.1
+Inventory of Existing Housing 
+An inventory of the municipality’s housing stock including an analysis of housing characteristics 
+is presented in the following section of this report.  
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 11 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 12 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+5 
+The Borough of Palisades Park is primarily a fully developed community which offers a variety 
+of housing choices.  As of the 2020 U.S. Census there were a total of 7,668 housing units in the 
+Borough of Palisades Park.  There were 7,314 occupied housing units as compared to only 354 
+vacant housing units.  Out of the 7,314 occupied housing units, 2,319 were owner-occupied as 
+compared to 4,995 renter-occupied housing units.  In addition, 74.6% or 5,457 of the occupied 
+housing units were occupied by family households as compared to 25.4% or 1,857 non-family 
+households.  The average household size of these units was 2.73 persons per household and the 
+average family size was slightly higher at 3.20 persons per family. 
+Although the borough is fully developed with limited vacant land, there has been a significant 
+amount of development activity in the Borough between 2000 and 2009.  This trend is primarily 
+due to the redevelopment of former single-family properties into two-family or duplexes, which 
+has continued into 2010 and beyond, although it does seem that this trend is on the decline.  This 
+decline in housing construction is a result of a corresponding reduction in the amount of 
+developable land.  The age of the existing housing stock is depicted in the following table. 
+TABLE 1 
+Table 1: Age of Housing Unit, By Year Built 
+Year Structure Built 
+Number 
+Percent 
+Built 2020 or later
+47
+0.6%
+Built 2010 to 2019
+853
+11.5%
+Built 2000 to 2009
+1,579
+21.3%
+Built 1990 to 1999
+601
+8.1%
+Built 1980 to 1989
+588
+7.9%
+Built 1970 to 1979
+757
+10.2%
+Built 1960 to 1969
+766
+10.3%
+Built 1950 to 1959
+684
+9.2%
+Built 1940 to 1949
+487
+6.6%
+Built 1939 or earlier
+1,051
+14.2%
+Total 
+7,413
+100.0%
+Source:  US Census, 2018-2022 American Community Survey 5-year Estimates 
+The condition of these units is generally good. According to the U.S. Census Bureau’s 2022 
+American Community Survey, as of 2022, an estimated 18 units (0.3%) lacked complete 
+plumbing facilities, 71 units (1.0%) lacked complete kitchen facilities, and 154 units (2.2%) had 
+no telephone service. Regarding heating, 5,526 units (77.6%) used gas as their primary fuel 
+source; 393 units (5.5%) used bottled, tank, or LP gas; 1,109 units (14.3%) used electricity; 147 
+units (2.1%) used fuel oil or kerosene; 10 units (0.1%) used other fuel sources; and 24 units 
+(0.3%) did not use fuel. 
+The data provided in Table 2 indicates the number of units in each structure.  As mentioned 
+above Palisades Park is primarily a fully developed one and two-family residential community as 
+62.1% of the housing units consist of 1-unit detached dwellings, 1-unit attached dwellings and 2-
+unit dwellings. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 12 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 13 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+6 
+TABLE 2 
+Table 1: Number of Housing Units In Structure 
+Units in Structure 
+# of Housing 
+Units
+Percent 
+1-unit, detached
+977 
+13.2
+1-unit, attached
+1,614
+21.8
+2 units 
+2,006
+27.1
+3 or 4 units 
+488
+6.6
+5 to 9 units 
+394
+5.3
+10 to 19 units 
+603
+8.1
+20 to 49 units
+736
+9.9
+50 or more units 
+564
+7.6
+Mobile home
+31
+0.4
+Boat, RV, van, etc.
+0
+0.0
+Total housing units 
+7,413
+100.0 
+Source:  US Census, 2018-2022 American Community Survey 5-year Estimates 
+The value of specified owner-occupied housing units as reported in the 2018-2022 American 
+Community Survey is shown below.   
+TABLE 3 
+Owner-Occupied Housing Units by Value 
+Value 
+# of 
+Housing 
+Units 
+Percent 
+Less than   $  50,000 
+32 
+1.2% 
+$  50,000 - $  99,999 
+34 
+1.3% 
+$100,000 - $149,999 
+7 
+0.3% 
+$150,000 - $199,999 
+9 
+0.3% 
+$200,000 - $299,999 
+76 
+2.8% 
+$300,000 - $499,999 
+524 
+19.6% 
+$500,000 - $999,999 
+1,731 
+64.9% 
+$1,000,000 or more 
+256 
+9.6% 
+Total: 
+2,669 
+100.0% 
+Source:  US Census, 2018-2022 American Community Survey 5-year Estimates 
+The majority of housing units were valued between $500,000 and $999,999.  The median value 
+of owner-occupied housing units was $671,400.  According to the 2018-2022 American 
+Community Survey, the median monthly owner costs for housing units with a mortgage were 
+$3,567 and $1,317 for housing units without a mortgage.   
+The cost of specified renter-occupied housing units as reported in the 2018-2022 American 
+Community Survey is shown below.   
+TABLE 4 
+Gross Rent Per Unit 
+Gross Rent 
+# of 
+Percent 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 13 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 14 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+7 
+Units 
+Less than $200 
+0 
+0.0% 
+$200 to $299 
+30 
+3.0% 
+$300 to $499 
+47 
+4.6% 
+$500 to $749 
+45 
+4.4% 
+$750 to $999 
+88 
+8.7% 
+$1,000 to $1,499 
+585 
+57.7% 
+$1,500 or more 
+219 
+21.6% 
+No rent paid 
+46 
+(x) 
+Total: 
+4,297 
+100.0% 
+Source:  US Census, 2018-2022 American Community Survey 5-year Estimates 
+The majority of renters paid between $1,000 and $1,499 dollars per month on, while the median 
+gross rent was $1,203 per month. 
+As indicated in Tables 3 and 4, a notable trend emerges in Palisades Park, revealing a higher 
+number of individuals choosing to rent homes rather than own them. The data shows the number 
+of occupied housing units paying rent is 4,297 compared to the housing units owned of 2,622. 
+2.2
+Projection of Housing Stock 
+The Borough of Palisades Park is fully developed, with limited vacant land available for new 
+construction. This is reflected in Table 5, which summarizes development activity from 2014 to 
+2023. Between 2014 and 2023, Palisades Park experienced a moderate level of residential 
+construction and redevelopment activity. Over the ten-year period, the borough issued 835 
+residential building permits and 321 demolition permits, resulting in a net growth of 514 housing 
+units. This equates to an average of approximately 83.5 new building permits and 32.1 
+demolitions per year, with an average annual net increase of 51.4 housing units.  The 
+overwhelming majority of the demolitions are for single-family homes and the permits for the 
+construction of two-family homes. 
+The year 2019 recorded the highest net growth, with 144 building permits and a net gain of 110 
+units. By contrast, 2022 and 2023 both saw no net growth, as the number of demolitions matched 
+or offset the number of building permits issued. 
+These figures reflect a relatively steady pace of residential development, supported by ongoing 
+infill and redevelopment projects. However, the stagnation in net growth in the most recent years 
+may indicate increasing land use constraints or a shift in development patterns. 
+Table 5 below summarizes building and demolition permit activity in Palisades Park from 2014 
+through 2023. 
+Table 5 
+Residential Building Permits and Demolitions - 2014 to 2023 
+Year 
+Building 
+Permits 
+Demolition 
+Permits 
+Net 
+Growth 
+2014 
+111 
+39 
+72 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 14 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 15 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+8 
+2015 
+90 
+29 
+61 
+2016 
+94 
+35 
+59 
+2017 
+99 
+41 
+58 
+2018 
+86 
+41 
+45 
+2019 
+144 
+34 
+110 
+2020 
+46 
+24 
+22 
+2021 
+46 
+22 
+24 
+2022 
+64 
+28 
+0 
+2023 
+55 
+28 
+0 
+Total: 
+835 
+321 
+514 
+10 Year Avg. 
+83.5 
+32.1 
+51.4 
+Source: NJ Department of Community Affairs 
+Chart 1: Building Permits 2004-2023
+Source: NJ Department of Community Affairs
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 15 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 16 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+9 
+Chart 2: Building Permits by Type 2004-2023
+Source: NJ Department of Community Affairs
+Chart 3: Demolitions 2004-2023
+Source: NJ Department of Community Affairs
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 16 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 17 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+10 
+Chart 4: Demolitions by Type 2004-2023
+Source: NJ Department of Community Affairs
+Based on the historical residential growth trends depicted in Table 5, it is anticipated that if 
+growth were to continue at the same rate there would be an additional 51.4 units per year over 
+the next 10 years for a net growth of 514 units.  Including the units that are projected to be 
+constructed as a result of additional development from addressing its Round 3 Obligation (xxx) 
+and the anticipated number of units in this plan (xxx) the total increase in the number of units at 
+the end of the 10-year period would be xxx units inclusive of the 514 units of projected growth, 
+66 units resulting from development of the Builders Remedy sites included in the Round 3 Plan 
+and xxx units addressing the Round 4 obligation.  The Borough of Palisades Park is a 
+predominantly fully built out community with little to no vacant land available for new 
+development with the exception of the properties identified in this report for redevelopment and 
+potentially older underutilized properties. 
+2.3
+Analysis of the Municipality’s Demographic Characteristics 
+2.3.1
+Population Trends 
+Over the last decade, Palisades Park has experienced a modest increase in population. According 
+to U.S. Census Bureau data, the Borough had a total population of 20,292 in 2020—an increase 
+of 670 people, or 3.4%, compared to the 2010 population of 19,622. This growth rate reflects a 
+slowdown compared to the previous two decades, during which the Borough saw an increase of 
+17.45% from 1990 to 2000 and 14.93% from 2000 to 2010. 
+As Palisades Park is largely built out with limited vacant land, the recent population growth is 
+primarily attributed to the construction of two-family homes. Many of these were developed 
+through the redevelopment of properties that previously contained single-family homes. The 
+following table presents the historical population growth trends in Palisades Park from 1930 to 
+2020. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 17 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 18 =====
+Master Plan
+Borough of Palisades Park, NJ
+Housing Element
+June 2, 2025
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481
+201.847.2900 P • 201.847.2424 F
+11
+Table 6: Population Trend from 1930 to 2020 
+Palisades Park
+Bergen County
+Year
+Population
+#
+Change
+%
+Change
+Year
+Population
+#
+Change
+%
+Change
+1930
+7,065
+---
+---
+1930
+364,977
+---
+---
+1940
+8,141
+1,076
+15.23
+1940
+409,646
+44,669
+12.24
+1950
+9,635
+1,494
+18.35
+1950
+539,139
+129,493
+31.61
+1960
+11,943
+2,308
+23.95
+1960
+780,255
+241,116
+44.72
+1970
+13,351
+1,408
+11.79
+1970
+897,148
+116,893
+14.98
+1980
+13,732
+381
+2.85
+1980
+845,385
+-51,763
+-5.77
+1990
+14,536
+804
+5.85
+1990
+825,380
+-20,005
+-2.37
+2000
+17,073
+2,537
+17.45
+2000
+884,118
+58,738
+7.12
+2010
+19,622
+2,549
+14.93
+2010
+905,116
+20,998
+2.38
+2020
+20,292
+670
+3.41
+2020
+955,732
+50,616
+5.59
+Source: U.S. Census Bureau, 1930-2020
+Chart 5: Percent Population Change
+Source: U.S. Census Bureau, 1930-2020
+2.3.2
+Population Composition by Age 
+The Borough’s population shows a notable shift in age distribution. Between 2010 and 2020, the 
+most significant increase occurred in the 60 to 64 age group, which grew by 59.8%. In contrast, 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 18 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 19 =====
+Master Plan
+Borough of Palisades Park, NJ
+Housing Element
+June 2, 2025
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481
+201.847.2900 P • 201.847.2424 F
+12
+the 25 to 34 and 35 to 44 age cohorts experienced the largest declines, with decreases of 12.7% 
+and 14%, respectively. 
+Overall, the data indicates a gradual aging trend among Borough residents, as most of the 
+percentage increases were observed in age groups 55 and older. While individuals aged 20 to 54 
+still make up a larger share of the population, this age cohort has seen a net decrease over the 
+decade.
+Detailed age group characteristics based on the 2010 and 2020 U.S. Censuses are presented in 
+Table 7 below. 
+Table 7 
+Population Change - 2010 to 2020 
+2010
+2020
+Change, 2010 - 2020
+Age
+Number
+Percent
+Number
+Percent
+Number 
+Percent
+Under 5 Years
+1,257
+6.4%
+1,180
+5.8%
+-77
+-6.1%
+5 to 9 years
+810
+4.1%
+879
+4.3%
+69
+8.5%
+10 to 14 years
+719
+3.7%
+785
+3.9%
+66
+9.2%
+15 to 19 years
+827
+4.2%
+853
+4.2%
+26
+3.1%
+20 to 24 years
+1,307
+6.7%
+1,215
+6.0%
+-92
+-7.0%
+25 to 34 years
+4,068
+20.7%
+3,552
+17.5%
+-516
+-12.7%
+35 to 44 years
+3,375
+17.2%
+2,901
+14.3%
+-474
+-14.0%
+45 to 54 years
+2,772
+14.1%
+2,706
+13.3%
+-66
+-2.4%
+55 to 59 years
+1,218
+6.2%
+1,579
+7.8%
+361
+29.6%
+60 to 64 years
+1,037
+5.3%
+1,657
+8.2%
+620
+59.8%
+65 to 74 years
+1,315
+6.7%
+1,769
+8.7%
+454
+34.5%
+75 to 84 years
+678
+3.5%
+907
+4.5%
+229
+33.8%
+85 years and over
+239
+1.2%
+309
+1.5%
+70
+29.3%
+Totals
+19,622
+100.0%
+20,292
+100.0%
+670
+3.4%
+Source: US Census Bureau, 2010 and 2020 DP1
+Chart 6: Population by Age
+Source: US Census Bureau, 2010 and 2020 DP1
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 19 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 20 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+13 
+2.3.3
+Population Composition by Sex 
+According to the 2020 Census, Palisades Park had a nearly even gender distribution, with 10,010 
+males (49.3%) and 10,282 females (50.7%). While the overall numbers are balanced, some age-
+specific differences emerge. 
+In younger age groups (under 40), males slightly outnumbered females in most cohorts, 
+particularly among those aged 25 to 34, where males represented 9.4% and 9.6% of the 
+population in the 25–29 and 30–34 groups, respectively—compared to 8.3% and 7.8% for 
+females. 
+However, beginning at age 50, females gradually become more predominant. This is most 
+evident in older age groups, particularly ages 80 and over, where the number of female residents 
+exceeds males. For example, in the 85 and over cohort, there were 194 females compared to just 
+115 males. 
+These trends are consistent with broader demographic patterns, reflecting greater female 
+longevity and a slight male majority in younger working-age populations. 
+Table 8 
+Age and Gender Distribution, 2020 
+Male Population 
+Female Population 
+Age 
+Number 
+Percent 
+Number 
+Percent 
+Under 5 years 
+620
+6.2%
+560
+5.4%
+5 to 9 years 
+436
+4.4%
+443
+4.3%
+10 to 14 years 
+407
+4.1%
+378
+3.7%
+15 to 19 years 
+451
+4.5%
+402
+3.9%
+20 to 24 years 
+624
+6.2%
+591
+5.7%
+25 to 29 years 
+942
+9.4%
+854
+8.3%
+30 to 34 years 
+956
+9.6%
+800
+7.8%
+35 to 39 years 
+828
+8.3%
+808
+7.9%
+40 to 44 years 
+639
+6.4%
+626
+6.1%
+45 to 49 years 
+649
+6.5%
+667
+6.5%
+50 to 54 years 
+630
+6.3%
+760
+7.4%
+55 to 59 years 
+701
+7.0%
+878
+8.5%
+60 to 64 years 
+770
+7.7%
+887
+8.6%
+65 to 69 years 
+472
+4.7%
+557
+5.4%
+70 to 74 years 
+357
+3.6%
+383
+3.7%
+75 to 79 years 
+258
+2.6%
+286
+2.8%
+80 to 84 years 
+155
+1.5%
+208
+2.0%
+85 years and 
+over 
+115
+1.1%
+194
+1.9%
+      10,010  
+49.33 
+      10,282  
+50.67 
+Source: U.S. Census Bureau, 2020 DP1
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 20 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 21 =====
+Master Plan
+Borough of Palisades Park, NJ
+Housing Element
+June 2, 2025
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481
+201.847.2900 P • 201.847.2424 F
+14
+Chart 7: Population by Age and Sex
+Source: U.S. Census Bureau, 2020 DP1
+2.3.4
+Population Composition by Race 
+As of the 2020 Census, Palisades Park had a total population of 20,292 residents. The Borough is 
+characterized by a racially diverse population, with Asian residents making up the majority at 
+58.8% (11,929 individuals). 
+The second-largest group was White alone, accounting for 16.4% of the population, followed by 
+Some Other Race at 15.4%, and Two or More Races at 5.9%. Smaller racial groups included 
+American Indian and Alaska Native (1.8%), Black or African American (1.6%), and Native 
+Hawaiian and Other Pacific Islander, representing a very small share at 0.03%. The table below 
+provides a detailed breakdown of the population by race.
+Table 9: 2020 Racial Characteristics
+Race
+Number
+Percent
+White alone
+3,329 
+16.4%
+Black or African American alone
+334
+1.6%
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 21 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 22 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+15 
+American Indian and Alaska Native alone
+357
+1.8%
+Asian alone
+11,929
+58.8%
+Native Hawaiian and Other Pacific Islander alone
+8
+0.03%
+Some Other Race alone
+3,131
+15.4%
+Two or More Races
+1,204
+5.9%
+Total:
+20,292
+100%
+Source: US Census Bureau, 2020 DP1. 
+2.3.5
+Household Income 
+According to the most recent data, Palisades Park had a total of 7,119 households, with income 
+levels spanning a wide range. Nearly 30% of households in the borough earned $150,000 or 
+more, compared to 38.6% of households in Bergen County overall. 
+The most common income bracket in Palisades Park was $100,000 to $149,999, comprising 
+18.2% of households—closely aligned with Bergen County’s 17.4% in the same range. 
+Additionally, 13.9% of borough households earned between $50,000 and $74,999, and 11.4% 
+earned between $75,000 and $99,999. 
+At the lower end of the income spectrum, 4.9% of households earned between $15,000 and 
+$19,999, notably higher than Bergen County’s 1.9% in that category. Similarly, 6.2% of 
+Palisades Park households fell into the $25,000 to $34,999 range, comparable to the countywide 
+percentage. 
+Overall, while Palisades Park shows a strong presence of middle- and upper-income households, 
+it also has a slightly higher proportion of residents in the lower income brackets compared to 
+Bergen County as a whole. This points to a more economically diverse local population. A 
+comparison between Palisades Park and Passaic County for 2023 is presented in Table 6. 
+Table 10: Household Incomes 
+ 
+Borough of Palisades Park 
+ 
+Bergen County 
+Income 
+ 
+# of Households 
+Percent 
+ 
+# of Households 
+Percent 
+Less than $5,000
+210
+2.9%
+8,500
+2.4%
+$5,000 to $9,999
+92
+1.3%
+4,691
+1.3%
+$10,000 to $14,999
+139
+2.0%
+7,906
+2.2%
+$15,000 to $19,999
+350
+4.9%
+6,803
+1.9%
+$20,000 to $24,999
+174
+2.4%
+5,972
+1.7%
+$25,000 to $34,999
+441
+6.2%
+22,293
+6.3%
+$35,000 to $49,999
+490
+6.9%
+22,496
+6.3%
+$50,000 to $74,999
+990
+13.9%
+42,500
+12.0%
+$75,000 to $99,999
+814
+11.4%
+35,148
+9.9%
+$100,000 to $149,999
+1,297
+18.2%
+61,768
+17.4%
+$150,000 or more
+2,122
+29.8%
+136,860
+38.6%
+Total
+7,119
+100.0%
+354,937
+100.0%
+Source:  US Census, 2018-2022 American Community Survey 5-year Estimates 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 22 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 23 =====
+Master Plan
+Borough of Palisades Park, NJ
+Housing Element
+June 2, 2025
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481
+201.847.2900 P • 201.847.2424 F
+16
+Chart 8: Household Income Distribution
+Source: US Census, 2018-2022 American Community Survey 5-year Estimates
+2.4
+Analysis of Employment Characteristics.
+2.4.1
+Employment Trend
+According to projections from the NJTPA Plan 2045 (Appendix A: Demographic Projections), 
+employment in Palisades Park is expected to grow from 3,200 jobs in 2015 to 3,747 jobs by 
+2045. This represents a 17.1% increase over the 30-year period.
+While this growth is modest, it suggests a stable employment outlook and reflects the borough’s 
+limited capacity for large-scale commercial expansion due to its fully developed nature. Future 
+employment gains are likely to come from infill development, redevelopment, and the continued 
+evolution of existing businesses. 
+Table 12: Employment Trend
+2015
+2045
+% Change
+Employment
+3,200
+3,747
+17.1%
+Source: NJTPA Plan 2045, Appendix A Demographic Projections
+2.4.2
+Employment by Industry Sector
+As of 2022, Palisades Park’s civilian employed population totaled 11,304 individuals. The
+largest employment sector was Educational Services and Health Care and Social Assistance, 
+which accounted for 2,514 jobs, or 22.24% of the workforce. This reflects the borough’s strong 
+reliance on service-oriented and care-based professions. The second-largest industry was 
+Professional, Scientific, and Management Services—including administrative and waste 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 23 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 24 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+17 
+management support—which employed 1,652 individuals, or 14.61% of the population. Retail 
+Trade was also a major sector, providing 1,389 jobs, or 12.29%. 
+Finance, Insurance, and Real Estate represented another significant portion of employment, with 
+1,066 jobs making up 9.43% of the workforce. Other prominent sectors included Manufacturing 
+(829 jobs, 7.33%), Other Services excluding Public Administration (903 jobs, 7.99%), 
+Construction (774 jobs, 6.85%), and Wholesale Trade (689 jobs, 6.10%). The Arts, 
+Entertainment, Recreation, Accommodation, and Food Services sector accounted for 566 jobs, or 
+5.01% of the total. 
+Smaller employment sectors included Transportation and Warehousing, and Utilities (471 jobs, 
+4.17%), Information (189 jobs, 1.67%), and Public Administration (248 jobs, 2.19%). 
+Agriculture, Forestry, Fishing, Hunting, and Mining played a minimal role in the local economy, 
+with only 14 individuals employed in that category, comprising just 0.12% of the workforce. 
+Overall, Palisades Park’s employment base is diverse but primarily centered around education, 
+health care, professional services, and retail. The distribution reflects a modern, service-based 
+local economy with supporting roles in trades, manufacturing, and finance. 
+Table 12: Employment by Industry Sector – 2023 
+Industry 
+Number 
+Percent 
+Agriculture, forestry, fishing and hunting, 
+and mining
+14 
+0.12% 
+Construction 
+774 
+6.85% 
+Manufacturing 
+829 
+7.33% 
+Wholesale trade 
+689 
+6.10% 
+Retail trade 
+1,389 
+12.29% 
+Transportation and warehousing, and 
+utilities
+471 
+4.17% 
+Information 
+189 
+1.67% 
+Finance and insurance, and real estate and 
+rental and leasing
+1,066 
+9.43% 
+Professional, scientific, and management, 
+and 
+administrative 
+and 
+waste 
+management services
+1,652 
+14.61% 
+Educational services, and health care and 
+social assistance
+2,514 
+22.24% 
+Arts, entertainment, and recreation, and 
+accommodation and food services
+566 
+5.01% 
+Other 
+services, 
+except 
+public 
+administration
+903 
+7.99% 
+Public administration 
+248 
+2.19% 
+Total 
+         11,304  
+100.00% 
+Source:  US Census, 2018-2022 American Community Survey 5-year Estimates
+2.4.3
+Employment by Occupation 
+As of 2022, the civilian employed population in Palisades Park totaled 11,304 individuals. The 
+largest share of workers—4,929 people, or 43.6%—were employed in management, business, 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 24 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 25 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+18 
+science, and arts occupations, reflecting the borough’s strong presence in professional and 
+knowledge-based industries. Sales and office occupations represented the second-largest 
+category, employing 2,824 individuals, or 24.98% of the workforce. 
+Service occupations accounted for 1,776 jobs, making up 15.71% of employment, while 
+production, transportation, and material moving occupations represented 9.85% of the total, with 
+1,113 workers. The smallest category was natural resources, construction, and maintenance 
+occupations, which employed 662 individuals, or 5.86% of the workforce. 
+Overall, the occupational profile of Palisades Park demonstrates a workforce heavily 
+concentrated in professional, office-based, and service-related roles, with smaller segments 
+engaged in trades, manufacturing, and transportation-related fields. 
+Table 10: Employment by Occupation – 2022 
+Occupation 
+Number 
+Percent 
+Management, business, science, and arts 
+occupations
+4,929 
+43.60% 
+Service occupations 
+1,776 
+15.71% 
+Sales and office occupations 
+2,824 
+24.98% 
+Natural 
+resources, 
+construction, 
+and 
+maintenance occupations
+662 
+5.86% 
+Production, transportation, and material moving 
+occupations
+1,113 
+9.85% 
+Total 
+11,304 
+100.00% 
+Source:  US Census, 2018-2022 American Community Survey 5-year Estimates
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 25 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 26 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+19 
+2.5
+Determination of Fair Share and Housing Capacity 
+Pursuant to N.J.S.A. 52:27D-310(e), the Borough of Palisades Park has evaluated its present and 
+prospective need for low- and moderate-income housing, as well as its capacity to accommodate 
+such housing. In accordance with the fair share obligations established under section 3 of 
+P.L.2024, c.2 (C.52:27D-304.1), the Borough acknowledges its constitutional obligation to 
+provide a realistic opportunity for the development of its fair share of low- and moderate-income 
+housing. Based on the most recent determinations of affordable housing need and demographic 
+projections, the Borough has identified its present and prospective fair share obligations and 
+analyzed its land use patterns, zoning capacity, and available resources to address those needs. 
+While Palisades Park is a fully developed community with limited vacant land, the Borough 
+remains committed to implementing appropriate strategies—including zoning mechanisms, 
+redevelopment opportunities, and inclusionary development provisions—to accommodate its fair 
+share obligation in a manner consistent with sound planning principles and the Fair Housing Act. 
+The borough’s present and prospective fair share for low and moderate-income housing is 
+presented below and consists of the Rehabilitation Share (Present Need), the Prior Round 
+Obligation (1987-1999), Gap Present Need Obligation (1999-2015), the Third Round 
+Prospective Need Obligation (2015-2025) and the Fourth Round Prospective Need Obligation 
+(2025-2035). 
+2.5.1
+Prior Round Obligation 
+The Prior Round Obligation, covering Rounds 1 and 2, was assigned by COAH or the courts for 
+the period 1987 to 1999. Palisades Park’s obligation for this period is 0 units. 
+2.5.2
+Third Round Obligation  
+Pursuant to the Mercer County decision rendered by the Honorable Mary C. Jacobson, A.J.S.C., 
+the Borough’s Third Round Prospective Need obligation is 447 units, which includes the 1999–
+2015 Gap Period. 
+2.5.3
+Fourth Round Present Need (Rehabilitation Share) 
+This component reflects substandard housing units occupied by low- and moderate-income 
+households that require rehabilitation. 
+The calculated Present Need for Palisades Park in the Fourth Round is 333 units. 
+2.5.4
+Fourth Round Prospective Need Obligation  
+The calculated Prospective Need for the Borough in the Fourth Round is 221 units.  
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 26 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 27 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+20 
+2.5.5
+Total Fair Share Obligation 
+Palisades Park’s total obligation, including the Prior Round (0 units), Third Round (447 units), 
+Fourth Round Present Need (333 units), and Fourth Round Prospective Need (221 units), is 
+summarized below: 
+Table 13 
+Fair Share Obligation: 1987-2035 
+Borough of Palisades Park 
+Affordable Housing Obligations 
+Prior Round (1987-1999) 
+0 
+Third Round (Prospective Need 1999-2025) 
+447 
+Fourth Round Present Need (Rehabilitation) 
+333 
+Fourth Round Prospective Need 
+221 
+As previously noted, Palisades Park is a nearly fully developed community. While the Borough 
+appears to have sufficient infrastructure capacity to accommodate its present and prospective 
+affordable housing obligations, the existing systems will need to be evaluated as these 
+developments are constructed to determine whether any upgrades are necessary.  
+Given the Borough’s well-established land use patterns and its status as a largely developed 
+municipality, significant changes to existing land use are not expected with the exception of the 
+continued redevelopment of older industrial areas and the construction of the proposed 
+affordable housing developments. 
+Most of the remaining vacant parcels in Palisades Park are either restricted by environmental 
+constraints that limit development potential or are too small to accommodate affordable housing.  
+2.6
+Consideration of Appropriate Lands for Affordable Housing 
+In accordance with N.J.S.A. 52:27D-310(f), the Borough of Palisades Park has evaluated the 
+lands and existing structures most appropriate for the construction, conversion, or rehabilitation 
+of low- and moderate-income housing. Given the Borough’s predominantly developed character 
+and limited supply of vacant land, opportunities for new construction are limited, except through 
+infill development and strategic redevelopment. However, the Borough has identified select 
+parcels with development or redevelopment potential that can accommodate inclusionary 
+housing development. These sites were chosen based on factors such as zoning suitability, access 
+to infrastructure, environmental conditions, and proximity to transportation and community 
+services. 
+The parcels that have been identified are as follows: 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 27 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 28 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+21 
+Table 15: Proposed Redevelopment Parcels 
+Property 
+Owner 
+Lot Area 
+(acres) 
+Zone 
+1 
+Block 104 
+Lot 16 
+100 Grand Av Inc. 
+0.207 
+M-1/AHMUD 
+2 
+Block 104 
+Lot 17 
+100 Grand Av Inc. 
+0.322 
+M-1/AHMUD 
+3 
+Block 432 
+Lot 4 
+Berkeley Pal. Pk. c/o Limestone Hill 
+1.0591
+MHR-1 
+4 
+Block 433 
+Lots 2, 4, 
+5 
+Berkeley Pal. Pk. c/o Limestone Hill 
+2.1252
+MHR-1 
+5 
+Block 724 
+Lot 14 
+Borough of Palisades Park 
+0.403
+AA 
+6 
+Block 725
+Lot 1
+Borough of Palisades Park
+0.42
+AA 
+7 
+Block 726 
+Lot 1 
+Borough of Palisades Park 
+0.58 
+AA 
+8 
+Block 416 
+Lot 3 
+Dong Nam Ny Llc C/o Woo& Assoc. 
+Cpa 
+0.31 
+M-C 
+9 
+Block 502 
+Lot 8 
+Choi, Kyungkon 
+0.10 
+AA/AHMUD 
+10 
+Block 502 
+Lot 9 
+Choi, Kyungkon 
+0.17 
+AA/AHMUD 
+11 
+Block 502 
+Ot 10 
+Choi, Kyungkon 
+0.14 
+AA/AHMUD 
+TOTAL 
+ 2.919 acres 
+ 
+Despite these limitations, the Borough has taken affirmative steps in recent years to expand its 
+affordable housing opportunities through redevelopment and rezoning. For example as part of 
+the round 3 Plan an overlay zone was placed on portions of the M-1 and M-C Districts in order 
+to address the Boroughs future affordable housing needs. 
+2.6.1
+Lack of Land 
+The Borough is a predominantly fully developed community with little opportunity for continued 
+growth, except through limited infill development and strategic redevelopment. Most of the 
+remaining vacant parcels are either constrained by environmental conditions—such as wetlands 
+and steep slopes—or are too small to accommodate meaningful development.   
+The Borough requested a Vacant Land Adjustment during the Prior Round and third round which 
+would remain valid and presumptively continue into the Fourth Round based on COAH’s Round 
+3 regulations that were not invalidated by the court. 
+Given that the Vacant Land Analysis was recently prepared and updated pursuant to N.J.A.C. 
+5:93-4.2 and is still being assessed by the court we submit that it remains valid and would 
+continue into the fourth round.  At this time the Borough requests an adjustment to their overall 
+obligation due to a lack of land.   
+1 Developable acreage based on the Boswell Engineering Site Plan dated 11-2-16.  Attached as Appendix A. 
+2 Developable acreage based on the Boswell Engineering Site Plan dated 11-2-16.  Attached as Appendix A. 
+3 Developable acreage based on an analysis prepared by Pennoni Associates.  Attached as Appendix A. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 28 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 29 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+22 
+2.6.2
+Vacant Land Analysis 
+As the Borough of Palisades Park is a fully developed community with very little vacant, 
+suitable, and developable land, it prepared a Vacant Land Adjustment in the Prior Round and 
+Round 3. The Vacant Land Analysis has been updated for the fourth round and is included in 
+Appendix A. The VLA and mechanisms to address the RDP and Unmet Need remain valid and 
+as updated are incorporated into the Round 4 Plan. Additionally, the Borough has identified 
+some additional lands that were determined to be suitable for redevelopment. These sites have 
+been designated for the subsequent development of affordable housing and are included as part 
+of the RDP in the fourth round. 
+2.6.3
+Calculation of Third Round Realistic Development Potential  
+As shown in Appendix A, vacant undevelopable lands are either constrained or too small for 
+development.  The Fourth Round RDP for the Borough of Palisades Park is 72 units, and the 
+unmet need is 149 units.  The following properties will serve as the basis for the 72-unit RDP. 
+Table 16 
+Realistic Development Potential (RDP) 
+Site4
+Block 
+Lot 
+Owner 
+Developable 
+Acres 
+Density 
+Total 
+Units 
+Affordable 
+Units 
+(20% Set-
+Aside) 
+1 
+104 
+16 
+100 Grand Av 
+Inc. 
+0.207 
+40 
+8.28 
+1.66 
+2 
+104 
+17 
+100 Grand Av 
+inc. 
+0.322 
+40 
+12.88 
+2.58 
+3 
+416 
+3 
+Dong Nam Ny 
+Llc C/o Woo& 
+Assoc. Cpa 
+0.31 
+129 
+40 
+8 
+7 
+432 
+4 
+Berkeley Pal. 
+Pk. c/o 
+Limestone Hill 
+1.059 
+84.9 
+905
+186
+8 
+433 
+1 
+Borough of 
+Palisades 
+Park 
+0.11 
+40 
+4.4 
+0.88 
+9 
+433 
+3 
+Veteramo, 
+Raffaele & 
+Giuseppina 
+0.11 
+40 
+4.4 
+0.88 
+10 
+433 
+2, 4, 5 
+Berkeley Pal. 
+Pk. c/o 
+2.125 
+40 
+85 
+17 
+4 Site number reflects the numbers in the Vacant land Inventory List in Appendix A 
+5 The proposed development includes a total of 154 units, consisting of the 64 units included in the Round 2 
+Settlement Agreement with Rosenshein Developers and the Round 2 Plan, along with an additional 90 units now 
+proposed. For the purpose of calculating the RDP, only the additional 90 units are being utilized, as the initial 64 
+units were generated and applied to address the Second Round. The total affordable housing obligation for all 154 
+units would amount to 31 units. 
+6 Of the required 31 affordable units, 13 were already addressed through a payment in lieu made during the Second 
+Round. The additional 90 units require an additional set-aside of 18 affordable units, which will be constructed as 
+rental units on-site. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 29 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 30 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+23 
+Limestone Hill 
+11 
+433 
+6 
+So Young 
+Choi 
+0.05 
+40 
+2 
+0.4 
+12 
+433 
+7 
+Borough of 
+Palisades 
+Park 
+0.06 
+40 
+2.4 
+0.48 
+13 
+433 
+8 
+Borough of 
+Palisades 
+Park 
+0.11 
+40 
+4.4 
+0.88 
+14 
+502 
+8 Choi, 
+Kyungkon 
+0.10 
+40 
+4 
+0.8 
+15 
+502 
+9 Choi, 
+Kyungkon 
+0.17 
+40 
+6.8 
+1.36 
+16 
+502 
+10 Choi, 
+Kyungkon 
+0.14 
+40 
+5.6 
+1.12 
+22 
+724 
+14
+Borough of 
+Palisades 
+Park
+0.40
+64.3 
+25.72 
+5.14 
+23 
+725
+1
+Borough of 
+Palisades 
+Park
+0.42
+64.3 
+27.01 
+5.40 
+24 
+726
+1
+Borough of 
+Palisades 
+Park
+0.58
+64.3 
+37.29 
+7.46 
+6.273 
+360.18 
+72.04 
+2.6.4
+Compliance Analysis for Adjusted Prospective Need Obligation 
+In accordance with the provision stating that any municipality receiving an adjustment to its 
+prospective need obligation for the Fourth Round or subsequent rounds due to a lack of vacant 
+land must identify sufficient redevelopment opportunities to accommodate at least 25% of the 
+adjusted obligation—or demonstrate why it is unable to do so—the Borough of Palisades Park 
+provides the following analysis. 
+Adjustment Based on Lack of Vacant Land 
+The Borough of Palisades Park has requested a vacant land adjustment (VLA) to its Fourth 
+Round prospective need obligation, recognizing that the Borough lacks sufficient vacant, 
+developable land to fully accommodate its assigned affordable housing obligation. As a result, 
+the adjusted prospective need (unmet need) has been calculated at 149 units, with a 
+redevelopment obligation threshold of 37.25 or 37 units. 
+Evaluation of Redevelopment Potential 
+In compliance with the regulatory requirement, the Borough conducted a comprehensive analysis 
+of potential redevelopment opportunities, considering parcel size, current land use, ownership 
+patterns, zoning capacity, and likelihood of redevelopment during the current housing cycle. This 
+analysis included: 
+|
+A review of historically underutilized or obsolete residential, commercial and industrial 
+sites 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 30 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 31 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+24 
+|
+Consideration of properties previously studied for redevelopment 
+|
+Assessment of infrastructure capacity and constraints 
+Findings and Limitations 
+Despite significant physical and environmental challenges, the Borough has been able to identify 
+a sufficient number of parcels with a realistic likelihood of redevelopment to meet the 25% 
+redevelopment threshold required for affordable housing. This achievement is notable given the 
+following limiting factors: 
+1. Highly Developed Character of the Municipality: While the Borough is nearly fully built-
+out, it has nonetheless identified redevelopment opportunities on underutilized or aging 
+properties that present viable potential for affordable housing. 
+2. Fragmented and Small Parcels: Although many sites consist of small or irregularly 
+shaped parcels under separate ownership, strategic planning and coordination have 
+allowed the Borough to overcome these obstacles in several cases. 
+3. Environmental Constraints: Even with a significant number of properties affected by 
+wetlands, floodplains, or steep slopes, the Borough has been able to identify parcels 
+where development is feasible and compliant with environmental regulations. 
+2.7
+Analysis of Multigenerational Family Housing Continuity
+Pursuant to N.J.S.A. 52:27D-310(g), this Housing Element and Fair Share Plan includes an 
+analysis of the extent to which the Borough’s land use ordinances and local housing policies 
+advance or detract from the goal of preserving multigenerational family continuity, consistent 
+with the recommendations of the Multigenerational Family Housing Continuity Commission as 
+established under P.L.2021, c.273 (C.52:27D-329.20). 
+The Borough’s zoning and development regulations include provisions that support flexible 
+housing arrangements by allowing a range of housing types and densities—such as accessory 
+dwelling units (ADUs), two-family homes, townhouses, garden apartments, mid-rise apartments, 
+and age-restricted residences like the Highland View Apartments. 
+These options provide opportunities for elderly residents living in larger homes to downsize into 
+smaller dwelling units permitted within the Borough. Additionally, these policies promote 
+multigenerational living by enabling aging parents, adult children, and extended family members 
+to live nearby, while still maintaining privacy and independence. 
+2.8
+Consistency with the State Development and Redevelopment Plan 
+Pursuant to N.J.S.A. 52:27D-310(i), the Borough of Palisades Park has evaluated the consistency 
+of its Housing Element and Fair Share Plan with the goals, objectives, and policies of the State 
+Development and Redevelopment Plan (SDRP). Palisades Park is located within the 
+Metropolitan Planning Area (PA1), where the State Plan encourages investment in existing 
+infrastructure, compact development, and the revitalization of developed communities. The 
+Borough’s affordable housing strategy aligns with these principles by focusing on infill 
+development, adaptive reuse, and redevelopment of underutilized or previously developed sites, 
+thereby minimizing sprawl and preserving open space. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 31 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 32 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+25 
+The Borough has also considered infrastructure availability in its planning process. Palisades 
+Park is served by existing public water and sanitary sewer systems, which have adequate 
+capacity to support the planned development and redevelopment identified in the Fair Share 
+Plan. Furthermore, the Borough addresses stormwater management through adherence to state 
+and municipal regulations, including the implementation of green infrastructure techniques and 
+compliance with NJDEP stormwater rule requirements. 
+In terms of transportation, Palisades Park benefits from a roadway network that connects 
+residents to regional employment centers, educational institutions, and commercial areas. 
+Although the Borough does not have direct access to passenger rail service, it is served by 
+regional bus routes and is located within reasonable proximity to major highways, including the 
+New jersey turnpike (Route 95) and Routes 1 and 46. The Borough is also committed to 
+promoting multi-modal transportation options where feasible, including pedestrian and bicycle 
+infrastructure improvements as part of redevelopment initiatives. 
+This analysis has been informed by guidance and technical resources provided by the New Jersey 
+State Planning Commission, ensuring that the Borough’s housing and infrastructure planning is 
+consistent with statewide smart growth objectives. 
+3.0 PROPOSED FAIR SHARE PLAN 
+3.1
+Prior Round Compliance (1987–1999) 
+The Borough of Palisades Park had a 28-unit indigenous need (Rehabilitation Obligation) and a 
+0-unit prior round obligation.  The 0-unit prior round obligation was confirmed in the Jacobson 
+decision. The indigenous need was partially met by rehabilitating 5 units through the Bergen 
+County Home Improvement Program, with the remaining 23 units addressed through a 1995 
+development known as “The Trio” resulting from litigation. 
+The Borough was involved in the builder’s remedy lawsuit, Rosenshein Associates v. Borough 
+of Palisades Park, et al., which led to a settlement agreement requiring the Borough to rezone 
+specific parcels for multi-family housing with a low- and moderate-income component. The 
+Long Swamp area, located in the northeast corner of Palisades Park, was designated for 
+inclusionary development as a result. This area, totaling 16.45 acres, contained three primary 
+parcels: a wetland running north to south and two upland parcels on either side of the wetland. 
+The first upland site (Site A) consisted of 2.58 acres in the southwest corner of the tract, zoned to 
+allow 140 dwelling units with a net density of slightly over 54 units per upland acre. The second 
+site (Site B), located in the northeast corner, covered 1.06 acres and was zoned for a density of 
+60.4 units per upland acre, allowing 64 dwelling units. Both sites permitted a maximum building 
+height of eight stories. 
+Rezoning of these properties allowed for up to 204 dwelling units. The developer was required to 
+satisfy the affordable housing obligation either by setting aside 20% of units for low- and 
+moderate-income housing or by making a cash contribution of $10,000 per affordable unit. 
+The Rosenshein Tract, encompassing 16.45 acres, was divided by a central freshwater wetland 
+into three parcels as follows: 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 32 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 33 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+26 
+1. Wetland Parcel: Covering 9.95 acres (excluding unimproved roads), this wetland ran 
+along the site’s length, dividing it into two upland portions. 
+2. Two Upland Sites: 
+o
+Site A: A 2.58-acre upland area in the southwest corner, bounded by unimproved 
+Twelfth and Thirteenth Streets and Edsall and Palisades Boulevards. This site was 
+zoned for a net density of slightly over 54 units per upland acre, with a maximum 
+building height of eight stories, totaling 140 housing units. 
+o
+Site B: A 1.06-acre upland area in the northeast corner, bounded by unimproved 
+Thirteenth and Fourteenth Streets and Edsall and Palisades Boulevards, zoned for 
+a density of 60.4 units per upland acre and a maximum height of eight stories, 
+totaling 64 housing units. 
+|
+Site A was developed as "The Trio," with two buildings and a total of 140 units; the 
+developer opted to fulfill the affordable housing requirement through a $10,000 per unit 
+cash contribution. Site B remained undeveloped, although in 2017, the Zoning Board of 
+Adjustment approved a proposal to construct an additional 90 units, bringing the site’s 
+potential total to 154 units. However, development has been delayed due to ongoing 
+litigation with an objector. 
+3.2
+Third Round Compliance (1999–2025) 
+Pursuant to the Jacobson decision, the Borough of Palisades Park was assigned a Third Round 
+affordable housing obligation of 447 low- and moderate-income units. Based on a Vacant Land 
+Adjustment (VLA) included in this report, the Borough calculated a Realistic Development 
+Potential (RDP) of 392 units. Accordingly, the Borough seeks a reduction in its obligation from 
+447 to 392 units, resulting in an Unmet Need of 55 units. 
+To address this obligation, the Borough’s compliance strategy includes a combination of 
+previously constructed affordable units, proposed inclusionary developments, and bonus credits, 
+as outlined below: 
+3.2.1
+Credits Addressing the Obligation 
+|
+Previously Constructed Units: 
+Two completed developments contribute a total of 9 credits: 
+o
+83 Centre Place (2015): An eight-unit, age-restricted rental development, all 
+affordable. 
+o
+555 10th Street (2017): A 24-unit age-restricted rental building, including one 
+affordable unit. 
+|
+Proposed Developments and Bonus Credits: 
+Eight proposed developments will provide 378 affordable units and 68 bonus credits, 
+totaling 446 credits. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 33 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 34 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+27 
+3.2.2
+Descriptions of Proposed Developments 
+1. Fan Associates (15 Grand Avenue)
+A proposed inclusionary development consisting of 35 family rental units. The Borough 
+expects 35 bonus credits based on the rental family component, bringing the total 
+contribution to 70 credits. 
+2. Leem’s Corp. (21 Grand Avenue)
+A proposed mixed-use inclusionary rental development featuring 102 affordable units 
+(both family and age-restricted). The project is expected to generate 33 bonus credits, for 
+a total of 135 credits. 
+3. DRC Development Corp. (35–39 W. Columbia Avenue)
+This multi-family inclusionary development proposes 7 affordable units. 
+4. Hillcrest Builders, LLC
+A proposed multi-family inclusionary development contributing 9 affordable units. 
+5. Broad & Edsall, LLC
+A proposed multi-family rental development providing 7 affordable units. This project 
+will include the 1 affordable unit generated by HJ Lee Holdings, LLC development. 
+6. HJ Lee Holdings, LLC
+This site is planned for family for-sale units. The 1 affordable unit will be constructed on 
+the Broad & Edsall, LLC site. 
+7. Mockler Site – Municipal Complex and Inclusionary Affordable Development
+A proposed new municipal complex and inclusionary development proposing 200 
+affordable units. This represents the largest single contributor to the Borough’s obligation 
+in the Third Round. 
+8. Berkeley Palisades Park
+A proposed multi-family rental development that will contribute 18 affordable units to 
+the Borough’s compliance effort. 
+3.2.3
+Summary of Compliance Mechanisms 
+Mechanism 
+Units/Credits
+Previously Constructed Credits
+9
+Proposed Inclusionary Developments 378
+Bonus Credits
+68
+Total Credits
+455
+Total Obligation
+447
+Surplus Credits
+8
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 34 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 35 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+28 
+Through a combination of completed and proposed affordable housing projects, the Borough of 
+Palisades Park has satisfied its Third Round obligation of 447 units. With 455 total credits, the 
+Borough exceeds its requirement by 8 surplus credits, demonstrating full compliance. While a 
+Vacant Land Adjustment was included for transparency, it was not necessary to meet the 
+Borough’s housing obligation and was provided for informational purposes only. 
+3.3
+Fourth Round Plan of Compliance 
+As noted above, the Borough’s Fourth Round Prospective Need obligation is 221 units. A Vacant 
+Land Analysis determined a Realistic Development Potential (RDP) of 72 units and an Unmet 
+Need of 149 units.  
+3.3.1
+Satisfaction of RDP 
+Table 17 
+Fourth Round Plan of Compliance 
+Name
+Total 
+Units
+Affordable 
+Units
+Bonus  
+Credits
+Total  
+Credits
+Surplus Credits for Round 3
+8
+8
+Route 5 Senior Housing Project
+90
+18
+57
+23
+NE Corner of 14th St. and E. Edsall
+118
+118
+308
+148
+Bellview Place
+20
+20
+208
+40
+100 Grand Ave. Inc.
+20
+4
+4
+125, 129, 135 Grand Ave.
+16
+3
+3
+550 Bergen Boulevard
+40
+8
+8
+Total:
+264
+163
+559
+234
+Route 5 Senior Housing Project 
+The proposed Route 5 Senior Housing Project is designed to address the growing demand for 
+age-restricted housing in the Borough of Palisades Park. Informed by demographic trends and a 
+documented shortage of senior housing, the project envisions a moderate-density, mid-rise 
+residential development for adults aged 55 and older. 
+The development is proposed on a 4.59-acre site in the southern portion of the Borough, located 
+between Route 5 and Palisades Park Junior Senior High School. The site includes both Borough-
+owned and privately owned parcels, currently underutilized, with rocky terrain and limited 
+7 Age-Restricted Housing: One unit of credit and one-half bonus credit for each unit, with a cap on bonus credits for 
+age-restricted housing at 10% of the units constructed in compliance with the Uniform Housing Affordability 
+Controls. 
+8 100 Percent Affordable Housing Projects with Municipal Contributions: One unit of credit and one bonus credit for 
+each unit in a project where the municipality contributes towards the project costs. 
+9 Bonus Credit Cap. The total number of bonus credits shall exceed 25% of the minimality’s prospective obligation 
+in any round.  25% of 221 is 55. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 35 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 36 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+29 
+access. Redeveloping this site will improve land efficiency while addressing a well-documented 
+local housing need. 
+The concept includes three 4-story residential buildings, each containing 30 units, for a total of 
+90 units. The project also includes two levels of below-grade parking. A 20% set-aside will be 
+applied in accordance with local inclusionary housing policy, meaning 18 of the 90 units will be 
+deed-restricted affordable units. The remaining units will be market-rate units for seniors aged 55 
+and older. 
+Key planning considerations include a 50-foot buffer from Wolf Creek, preservation of natural 
+site features, and access management along Route 5. Due to current zoning restrictions in the 
+One and Two Family Residential (AA) District, the Borough will pursue a zoning amendment or 
+redevelopment designation to permit the proposed use. 
+Site Suitability Analysis – N.J.A.C. 5:93-5.3 
+This site satisfies the four criteria for affordable housing site suitability under N.J.A.C. 5:93-5.3, 
+requiring that sites be available, suitable, developable, and approvable: 
+|
+Available: The property includes both Borough-owned and privately held lots. The 
+Borough’s existing ownership and its intention to assemble the full site via acquisition or 
+redevelopment powers ensures the site can be made fully available. 
+|
+Suitable: Located near schools, transportation corridors, and public facilities, the site is 
+appropriate for senior housing. Although portions of the site include rocky terrain and a 
+stream corridor (Wolf Creek), the project accounts for these environmental constraints 
+and preserves a 50-foot buffer. A substantial developable area remains. 
+|
+Developable: The site is accessible from Route 5 and can be served by public utilities. 
+The slope and subgrade conditions have been accounted for in the concept, which 
+includes below-grade parking and mid-rise structures sensitive to the terrain. 
+|
+Approvable: The site is not currently zoned for multi-family or age-restricted 
+development. However, the Borough intends to rezone the site or designate it as an area 
+in need of redevelopment to allow the project. These tools are consistent with state 
+planning law and widely used to facilitate affordable housing projects. 
+Bonus Credit Eligibility – Age-Restricted Housing 
+Under COAH rules and Uniform Housing Affordability Controls (UHAC), age-restricted 
+affordable housing units are eligible for: 
+|
+One unit of credit per affordable unit, and 
+|
+One-half (0.5) bonus credit per unit, 
+|
+Subject to a cap of 10% of the total UHAC-compliant affordable units built during the 
+applicable round. 
+As such, the 18 affordable units in this project would yield: 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 36 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 37 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+30 
+|
+18 unit credits, plus 
+|
+Up to 9 bonus credits, 
+|
+For a total of up to 27 credits that may be applied toward the Borough’s fair share 
+obligation (subject to the 10% cap on bonus credits). 
+The Route 5 Senior Housing Project will provide an inclusive, age-restricted residential 
+community that meets both the needs of the Borough’s aging population and its affordable 
+housing obligation. The site satisfies all regulatory criteria under N.J.A.C. 5:93-5.3, and the 
+project offers added value by qualifying for bonus credits under COAH regulations. Its inclusion 
+in the Housing Element and Fair Share Plan will strengthen the Borough’s compliance position 
+and improve housing choice for senior residents. 
+14th Street and East Edsall Avenue – 100% Municipally Sponsored Affordable Housing 
+Site
+The site located at the northeast corner of 14th Street and East Edsall Avenue is proposed for 
+development as a 100% municipally sponsored affordable housing project. The total area 
+encompasses approximately 2.96 acres and includes multiple tax lots with mixed ownership. The 
+site is planned for coordinated development under Borough leadership, combining both publicly 
+and privately owned parcels: 
+Map No. Block Lot(s) Area (acres) 
+Owner 
+8
+433
+1
+0.11
+Borough of Palisades Park
+9
+433
+3
+0.11
+Veteramo, Raffaele & Giuseppina
+10
+433
+2, 4, 5
+2.686
+Berkeley Palisades Park c/o Limestone Hill
+11
+433
+6
+0.05
+So Young Choi
+At a permitted density of 40 units per acre, the 2.96-acre site could yield approximately 118 
+residential units. As a 100% affordable development, all 118 units would be income-restricted 
+and eligible for bonus credits, resulting in a total of 236 credits toward the Borough’s affordable 
+housing obligation under COAH guidelines. 
+Site Suitability Analysis – N.J.A.C. 5:93-5.3 
+This site meets the requirements under N.J.A.C. 5:93-5.3, demonstrating it is available, suitable, 
+developable, and approvable: 
+|
+Available: The Borough owns Lot 1 and is actively working to gain control of the 
+remaining parcels through acquisition, redevelopment designation, or agreements with 
+private owners. This multi-party coordination will ensure full site availability for 
+affordable housing use. 
+|
+Suitable: The site is located in a developed area near public transportation, schools, parks, 
+and local services, making it appropriate for residential use. While a portion of the site 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 37 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 38 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+31 
+contains wetlands, preliminary analysis indicates that a substantial and contiguous 
+developable area remains. The wetlands will be preserved in accordance with NJDEP 
+regulations, and development will occur within the buildable footprint. 
+|
+Developable: With public road frontage, access to utilities, and a total size of nearly 3 
+acres, the site is physically capable of supporting a residential development of 
+approximately 118 units. The parcels are contiguous and appropriately configured for a 
+single or phased development. 
+|
+Approvable: The site is within or will be placed into a zoning or redevelopment 
+framework that permits residential development at 40 units per acre. The Borough’s 
+direct involvement ensures that the necessary zoning and planning approvals will be 
+pursued and secured. 
+Compliance with N.J.A.C. 5:93-5.5 – Municipally Sponsored Construction 
+This project complies with the four key requirements for municipally sponsored construction 
+under N.J.A.C. 5:93-5.5: 
+1. Site Control: 
+o
+The Borough currently owns one parcel and is pursuing formal control of the 
+remaining lots. Demonstrated progress toward site assembly will be included in 
+supporting documentation. 
+2. Administrative Mechanism: 
+o
+A qualified administrative agent will be retained to manage income qualification, 
+tenant selection, and compliance with affordability controls. A written agreement 
+will be submitted if an external entity is used. 
+3. Funding Plan and Capacity: 
+o
+A full pro forma will be submitted for the proposed development. The Borough 
+anticipates a funding strategy that includes Low Income Housing Tax Credits 
+(LIHTC), Affordable Housing Trust Funds, and potential municipal bonding. 
+Stable backup funding sources will be identified should state or federal sources be 
+delayed or denied. 
+4. Construction Timetable: 
+o
+A detailed project timeline will be prepared, including: 
+"
+Site plan development 
+"
+Municipal and outside approvals 
+"
+State and federal permit applications 
+"
+Financing and contractor selection 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 38 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 39 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+32 
+"
+Construction start and completion 
+Construction is projected to begin within two years of substantive 
+certification. The Borough will designate a responsible party to monitor 
+the entire process. 
+Because this is a 100% municipally sponsored affordable housing development, each unit is 
+eligible for a one-to-one bonus credit under COAH rules. Therefore, the projected 118 affordable 
+units would yield 236 credits toward the Borough’s fair share obligation—substantially 
+advancing compliance with the Fourth Round Housing Element and Fair Share Plan. 
+The proposed development at the northeast corner of 14th Street and Grand Avenue represents a 
+realistic, high-capacity, and municipally led solution to the Borough of Palisades Park’s 
+affordable housing obligations. It satisfies all regulatory criteria under N.J.A.C. 5:93-5.3 and 
+5:93-5.5, and by maximizing the use of municipally sponsored 100% affordable development, 
+the Borough can significantly leverage bonus credits to meet its constitutional and statutory 
+housing obligations. 
+Bellview Place Municipally Sponsored/100% Affordable Housing Project 
+The property located at 12 Bellview Place, identified as Block 217, Lot 23, is a municipally 
+controlled parcel of approximately 0.23 acres proposed for development as a Municipally 
+Sponsored/100% affordable housing project. The current plan envisions the construction of 20 
+income-restricted residential units, resulting in a density of approximately 87 units per acre. This 
+compact infill development will contribute meaningfully to the municipality’s affordable housing 
+obligation in the Fourth Round. 
+The site is ideally located just off of Broad Avenue in a walkable, mixed-use neighborhood with 
+access to public transportation, employment centers, and local services. It is served by existing 
+infrastructure and has no known physical constraints that would prevent timely development. 
+Importantly, because this is a municipally sponsored 100% affordable development, the project 
+is eligible for one-for-one bonus credits under COAH regulations. As such, each of the 20 
+proposed units may be credited as two units for the purposes of satisfying the municipality’s fair 
+share obligation—one for the actual affordable unit, and one bonus credit—resulting in a 
+potential total of 40 affordable housing credits. 
+Compliance with N.J.A.C. 5:93-5.5 – Municipally Sponsored Construction 
+This development is being pursued under the municipally sponsored construction option outlined 
+in N.J.A.C. 5:93-5.5. The municipality is prepared to demonstrate compliance with the four core 
+requirements: 
+1. Control of Site: The municipality has outright ownership of Block 217, Lot 23. This 
+control ensures the site is secured and available for the intended affordable housing 
+project. 
+2. Administrative Mechanism: The municipality will designate a qualified affordable 
+housing administrative agent to manage applicant income qualification, compliance 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 39 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 40 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+33 
+monitoring, and long-term unit administration. If an external agency is used, a formal 
+agreement will be submitted to the Council. 
+3. Funding Plan and Capacity: 
+o
+A detailed pro forma will be submitted to outline projected development costs, 
+revenues, and affordability compliance. 
+o
+The municipality has adequate and stable funding resources to support the project. 
+If State or Federal funding (e.g., Low Income Housing Tax Credits or HOME 
+funds) is to be sought, the municipality will identify alternative funding sources—
+such as municipal bonding or Affordable Housing Trust Fund allocations—as a 
+contingency. 
+4. Construction Timetable: 
+A detailed schedule will be submitted outlining all key development milestones, 
+including: 
+o
+Site plan preparation and submission 
+o
+Municipal and external approvals 
+o
+Contractor selection and construction commencement 
+Construction is expected to begin within two years of substantive certification, 
+and the municipality will identify the responsible entity for monitoring both 
+construction and overall project progress. 
+Site Suitability Analysis 
+Pursuant to N.J.A.C. 5:93-5.3, this site meets the criteria of being available, suitable, 
+developable, and approvable as defined in N.J.A.C. 5:93-1.3: 
+|
+Available: The municipality currently controls the site through ownership of the property. 
+There are no legal encumbrances preventing its use for this purpose. 
+|
+Suitable: Located in an established area off of Broad Avenue, the site is compatible with 
+surrounding land uses and is in close proximity to transit, schools, and services. There are 
+no known environmental hazards or constraints such as floodplains or wetlands. 
+|
+Developable: The property is served by public water and sewer and has street access. The 
+lot configuration and size support a 20-unit residential building in compliance with bulk 
+standards and design guidelines. 
+|
+Approvable: The site is located in or will be rezoned for multi-family residential use. 
+Given its density (87 units per acre) and planning consistency, it is expected to receive 
+necessary municipal approvals. 
+This project at 12 Bellview Place offers a realistic, approvable, and well-supported opportunity 
+for the construction of high-quality affordable housing. It addresses the municipality’s 
+constitutional and statutory obligations under the Fair Housing Act and represents a strong 
+example of municipally sponsored, inclusive, and sustainable housing development. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 40 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 41 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+34 
+100 Grand Avenue Inc. (Block 104, Lots 16 and 17) – Proposed Inclusionary Housing Site 
+The site located at the intersection of West Edsall Boulevard and Grand Avenue consists of 
+approximately 0.529 acres and comprises two separate tax lots. It is situated within the AHMUD 
+(Affordable Housing Mixed-Use Development) Overlay Zone, which permits multi-family 
+residential development at a density of up to 40 units per acre. 
+Under current zoning, the site may yield approximately 20 residential units, subject to detailed 
+site planning and design review. In accordance with the overlay district’s requirements, a 20% 
+set-aside for affordable housing applies, resulting in a minimum of 4 affordable units being 
+integrated into the project. 
+The AHMUD Overlay Zone is intended to encourage higher-density, mixed-use, and 
+inclusionary development in strategically located areas. This site’s proximity to existing 
+infrastructure, public transportation routes, and community services makes it well-suited for 
+residential redevelopment that advances municipal fair housing goals. 
+Site Suitability Analysis
+This analysis demonstrates that the subject site satisfies the regulations under N.J.A.C. 5:93-5.3, 
+which require affordable housing sites to be available, suitable, developable, and approvable as 
+defined in N.J.A.C. 5:93-1.3: 
+|
+Available: The property is not publicly encumbered and is either under private ownership 
+with interest in development or could feasibly be acquired. There are no known legal or 
+regulatory barriers that would prevent it from being made available for residential use 
+within a reasonable timeframe. 
+|
+Suitable: The site is appropriate for residential development due to its location within a 
+developed area, near transportation, services, and employment centers. It is consistent 
+with smart growth principles and does not present any physical constraints (e.g., steep 
+slopes, wetlands) that would render it unsuitable for housing. 
+|
+Developable: The site has access to necessary infrastructure, including public water, 
+sewer, and roadway access. Its lot size, configuration, and zoning support the proposed 
+density, and there are no environmental or topographic conditions that would preclude 
+development. 
+|
+Approvable: The property is located in a zoning district (AHMUD Overlay) that 
+explicitly permits multi-family housing with an affordable housing component. This 
+regulatory framework enables the project to obtain necessary approvals through the local 
+planning board or governing body. 
+Given these factors, the site represents a realistic and compliant opportunity for the production of 
+affordable housing. Its inclusion in the Housing Element and Fair Share Plan supports the 
+municipality’s constitutional obligation to provide for its fair share of the regional housing need 
+and to affirmatively further fair housing. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 41 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 42 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+35 
+125, 129 & 135 Grand Avenue (Block 502, Lots 8, 9, and 10) – Proposed Inclusionary 
+Housing Site 
+The site consists of three contiguous tax lots located along Grand Avenue and totals 
+approximately 0.41 acres. The properties are identified as Block 502, Lots 8, 9, and 10, and are 
+under the ownership of Kyungkon Choi. The site falls within the AHMUD (Affordable Housing 
+Mixed-Use Development) Overlay Zone, which permits multi-family residential development at 
+a density of up to 40 units per acre. 
+At the permitted density, the site may yield approximately 16 residential units, subject to detailed 
+site planning and engineering review. In accordance with the overlay district’s 20% affordable 
+housing requirement, the development would include a minimum of 3–4 affordable units, 
+depending on the final unit count. 
+The AHMUD Overlay Zone encourages compact, higher-density, inclusionary development near 
+key infrastructure and amenities. The site's location, within walking distance of public 
+transportation, services, and job centers, makes it particularly well-suited for contributing to the 
+municipality’s fair share housing obligations. 
+Site Suitability Analysis 
+This analysis demonstrates that the site satisfies the requirements of N.J.A.C. 5:93-5.3, which 
+mandates that affordable housing sites be available, suitable, developable, and approvable, as 
+defined in N.J.A.C. 5:93-1.3: 
+|
+Available: The properties are privately owned by a single entity (Kyungkon Choi), 
+providing clear and consolidated ownership. There are no known encumbrances or 
+regulatory barriers that would prevent their development for residential use in a timely 
+manner. 
+|
+Suitable: The site is located in a built-up area with direct access to public transportation, 
+local businesses, and community services. It is consistent with smart growth and infill 
+development principles. There are no known environmental constraints, such as steep 
+slopes or wetlands, that would prevent residential development. 
+|
+Developable: The combined 0.41-acre site has adequate street frontage and access to 
+public utilities, including water, sewer, and roadway infrastructure. The site’s 
+configuration and dimensions support multi-family development at the overlay zone’s 
+maximum density of 40 units per acre. 
+|
+Approvable: The site lies within the AHMUD Overlay Zone, which explicitly permits 
+multi-family residential development with a 20% affordable housing requirement. The 
+zoning framework enables the project to proceed through the municipal approval process 
+with a strong likelihood of success. 
+The combined properties at 100 Grand Avenue (Block 502, Lots 8, 9, and 10) present a realistic, 
+approvable, and well-situated opportunity to produce 16 units of multi-family housing, including 
+3 to 4 affordable units. The site fully complies with the standards set forth under N.J.A.C. 5:93-
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 42 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 43 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+36 
+5.3, and its inclusion in the Housing Element and Fair Share Plan would contribute to meeting 
+the municipality’s affordable housing obligation in a location consistent with smart growth and 
+fair housing principles. 
+550 Bergen Boulevard (Block 416, Lot 3) – Inclusionary Housing Development Summary
+The property located at 550 Bergen Boulevard, designated as Block 416, Lot 3, has a lot area of 
+approximately 0.31 acres and is under the ownership of Dong Nam NY LLC c/o Woo & Assoc. 
+CPA. A residential development is proposed for the site consisting of 40 multi-family dwelling 
+units, of which 8 units (20%) will be designated as affordable housing in accordance with 
+applicable affordable housing policies. 
+The proposed building is planned as a four-story residential structure constructed over one level 
+of structured parking. The development would be located in a mixed-use area with access to 
+transit and retail amenities. The surrounding area contains a mix of residential, commercial, and 
+institutional uses. 
+The 8 affordable units would be deed-restricted and administered in accordance with the 
+Uniform Housing Affordability Controls (UHAC). These units would be provided for low- and 
+moderate-income households and marketed pursuant to affirmative marketing requirements. 
+Site Suitability Analysis 
+In accordance with N.J.A.C. 5:93-5.3, the site is evaluated based on four criteria: available, 
+suitable, developable, and approvable, as defined in N.J.A.C. 5:93-1.3. 
+|
+Available: The property is in private ownership and does not appear to be encumbered in 
+a way that would preclude development. It is considered available for residential use, 
+subject to necessary municipal approvals. 
+|
+Suitable: The site is located within a developed area with direct access to transportation, 
+public services, and commercial activity. There are no known environmental constraints, 
+such as wetlands or steep slopes, based on available information. 
+|
+Developable: The parcel has sufficient access to infrastructure, including public water 
+and sewer. The lot size and configuration are adequate to support the proposed 
+development, which would result in a residential density of approximately 129 units per 
+acre. 
+|
+Approvable: The site is located in a zoning district that may not permit the proposed use 
+or density by right. Zoning amendments, use variances, or a redevelopment designation 
+may be required to authorize the proposed development. Such actions are within the 
+scope of standard municipal planning procedures. 
+The proposed development at 550 Bergen Boulevard includes 40 residential units, with 8 units 
+designated as affordable housing, in a four-story building above structured parking. Based on 
+current information, the site meets the criteria established under N.J.A.C. 5:93-5.3 for inclusion 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 43 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 44 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+37 
+in the Borough’s Housing Element and Fair Share Plan, subject to appropriate zoning and land 
+use approvals. 
+Table 18 
+Summary of Total New Construction Obligation: 1987-2035
+Borough of Palisades Park 
+Affordable Housing Obligations 
+Prior Round (1987-1999) 
+0 
+Third Round (Prospective Need 1999-2025) 
+447 
+Fourth Round Prospective Need 
+221 
+1
+Fourth Round RDP 
+72 
+1
+Fourth Round Unmet Need 
+149 
+Total Prospective Need: 668 
+Less Prior Round Credits 0 
+Less Third Round Credits 455 
+Less Fourth Round Credits 226 
+= Surplus 13 
+3.3.2
+Satisfaction of Fourth Round Unmet Need 
+Although the borough has met its prospective need obligation for the Fourth Round the Borough 
+will keep in place the mechanisms proposed in the Third Round to capture additional affordable 
+housing opportunities for future rounds. 
+In the Third Round, the Borough of Palisades Park proposed to address any unmet need through 
+a combination of mechanisms. 
+The following mechanisms to address Unmet Need that were included in the Third Round Plan 
+will be carried forward to the Fourth Round. 
+Affordable Housing Mixed-Use Overlay District (AHMUD) 
+The Borough will implement an overlay ordinance in appropriate portions of the M-1 and M-C 
+Districts.   The overlay zone would apply to properties located along Grand Avenue and 
+Commercial Avenue in the western portion of the Borough and on the east side of Bergen 
+Boulevard between Oakdene Avenue to the north and Brinkerhoff Avenue to the south.   
+These areas are well-suited for higher-density development due to their aging industrial base, 
+much of which is in decline as a result of shifting economic trends and evolving land use 
+demands. This transition has been acknowledged in previous Master Plans and Examination 
+Reports. Many of the existing industrial properties are functionally obsolete, struggling to attract 
+reinvestment due to outdated configurations and incompatibility with modern industrial and 
+commercial needs. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 44 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 45 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+38 
+Additionally, recent development trends indicate a growing demand for four- and five-story, 
+multi-family housing, as evidenced by several newly constructed developments in these areas.   
+The proposed ordinance would permit the development of mixed-use buildings with non-
+residential uses on the ground floor and residential units on the upper floors. The anticipated 
+residential density is 40 units per acre, with a maximum building height of five (5) stories. This 
+increase in both density and height would create a realistic opportunity for redevelopment in the 
+area, enabling the construction of affordable housing to support the Borough’s fair share 
+obligation. Currently, multi-family residential uses are not permitted in these zones, and the 
+maximum building height is limited to three (3) stories.  It would be required that 20% of any 
+units created would be set aside for low- and moderate-income housing.  A copy of the ordinance 
+may be found in Appendix E. 
+Affordable Housing Ordinance 
+The Borough will adopt an Affordable Housing Ordinance in order to capture potential 
+affordable housing opportunities.  The provisions of this Ordinance shall apply to all affordable 
+housing units that currently exist and that are proposed to be created within the Borough of 
+Palisades Park pursuant to the Borough's most recently adopted Housing Element and Fair Share 
+Plan.  The ordinance contains rules and requirements for all affordable housing created in the 
+Borough pursuant to state regulations regarding the construction and administration of affordable 
+units.  In order to capture affordable housing from development not currently anticipated, there is 
+a requirement that all new multifamily residential developments of five (5) or more units shall be 
+required to provide affordable housing with a 15% set aside if rental units and a 20% set aside if 
+for-sale units.  The provisions of this ordinance shall not apply to residential expansions, 
+additions, renovations, replacement, or any other type of residential development that does not 
+result in a net increase in the number of dwellings of five or more.  A copy of the ordinance may 
+be found in Appendix F. 
+Accessory Dwelling Unit (ADU) Ordinance 
+The Borough has prepared a Draft Accessory Dwelling Unit (ADU) Ordinance to create 
+additional opportunities for affordable housing within the existing housing stock. The ordinance 
+permits accessory apartment units in existing and proposed one- and two-family homes within 
+the AA Zone. 
+This new zoning ordinance regulates Accessory Dwelling Units (ADUs) to expand housing 
+options while preserving the character of the neighborhood. The ordinance defines ADUs, 
+specifies where they are permitted, and establishes detailed standards for their design, size, 
+occupancy, and use. Key provisions include: 
+|
+Permitted Locations: ADUs are allowed on lots with one- or two-family homes in 
+designated zones. 
+|
+Size and Occupancy: Units must meet specific size and occupancy requirements (e.g., a 
+maximum of 800 square feet, no more than 3 occupants). 
+|
+Design Standards: The exterior of ADUs must harmonize with the primary residence and 
+neighborhood character. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 45 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 46 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+39 
+|
+Rental Restrictions: Short-term rentals are prohibited, and a minimum rental term of six 
+months is required. 
+|
+Parking Requirements: At least one off-street parking space must be provided for each 
+ADU. 
+|
+The ordinance also outlines the permitting process, annual compliance affidavits, 
+inspection requirements, and procedures for property transfers. Owners must comply with 
+regulations, including residing in one of the units and maintaining safety standards. Non-
+compliance may result in fines or permit revocation. 
+3.4
+Fourth Round Age-Restricted, Rental, Family Rental, Family, and Very Low-Income 
+Requirements 
+3.4.1
+Age-Restricted Housing 
+In accordance with the regulations governing affordable housing in New Jersey, a municipality 
+may not satisfy more than 30% of its prospective need obligation (exclusive of any applicable 
+bonus credits) through the provision of age-restricted affordable housing units. 
+Age-restricted units = .30 (221) = 66.3 or 66 units 
+The maximum number of units the Borough is permitted to age-restrict is 66 units.  Currently 
+there are no age-restricted projects.  Pursuant to the new regulations the borough is entitled to a 
+bonus credit for age-restricted units of one unit of credit and one-half bonus credit for a unit of 
+age-restricted housing, provided that a bonus credit for age-restricted housing shall not be 
+applied to more than 10 percent of the units of age-restricted housing. Therefore, the Borough 
+would be eligible for bonus credits of up to 6.6 or 6 units. 
+3.4.2
+Rental Housing 
+Every municipality in New Jersey has an obligation to create a realistic opportunity for rental 
+housing. For a municipality that received or is requesting an adjustment pursuant to N.J.A.C. 
+5:93-4.2, the rental obligation shall equal 25 percent of the RDP. 
+ 
+Rental obligation = .25 (72) = 18 units 
+The minimum number of rental housing units the Borough is required to provide is 18 units.  
+These units will be distributed among the proposed affordable developments. 
+3.4.3
+Family Rental Requirement 
+At least half of the rental units addressing the Fourth Round Prospective Need in total must be 
+available to families.  Based upon the 18 unit rental obligation, 9 units would be required to be 
+made available for families.  These units will be distributed among the proposed affordable 
+developments. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 46 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 47 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+40 
+3.4.4
+Family Requirement 
+At least half of the units addressing the Fourth Round Prospective Need in total must be 
+available to families.  Based upon the 72-unit RDP units being credited toward Fourth Round 
+RDP, 36 units would be required to be made available for families.  These units will be 
+distributed among the proposed affordable developments. 
+3.4.5
+Very Low-Income Housing Requirement 
+An amendment to the Fair Housing Act in 2008 (A-500) requires that 13% of all affordable 
+housing units be made available to very low-income individuals.  Very low-income housing is 
+housing made available for persons with a household income equal to 30% or less of the median 
+gross income for households of the same size within the housing region in which the housing 
+unit is located.  This would result in a requirement of 9.36 or 10 very low-income units based 
+upon the RDP of 72 units. 
+3.4.6
+Bonus Credit Cap 
+The total number of bonus credits shall exceed 25% of the minimality’s prospective obligation in 
+any round. 
+Table 19: Bonus Caps 
+Round 
+Prospective Need 
+Bonus Cap 
+Prior Round
+0
+0
+Third Round
+447
+111
+Fourth Round
+221
+55
+4.0 AFFIRMATIVE MARKETING PLAN 
+This Affirmative Marketing Plan applies to all developments that contain low- and moderate-
+income units. 
+The Affirmative Marketing Plan is a regional marketing strategy designed to attract buyers 
+and/or renters of all majority and minority groups, regardless of race, creed, color, national 
+origin, ancestry, marital or familial status, gender, affectional or sexual orientation, disability, 
+age or number of children to housing units which are being marketed by a developer/sponsor, 
+municipality and/or designated administrative agency of affordable housing.  The plan addresses 
+the requirements of N.J.A.C. 5:94-7 and N.J.A.C. 5:80-26.  In addition, the plan prohibits 
+discrimination in the sale, rental, financing or other services related to housing on the basis of 
+race, color, sex, affectional or sexual orientation, religion, handicap, age, familial status/size or 
+national origin. 
+Palisades Park is in COAH Housing Region 1 consisting of Bergen, Hudson, Passaic and Sussex 
+Counties. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 47 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 48 =====
+Master Plan 
+Borough of Palisades Park, NJ 
+Housing Element 
+June 2, 2025 
+Kauker & Kauker, LLC • 356 Franklin Avenue • Wyckoff • New Jersey • 07481 
+201.847.2900 P • 201.847.2424 F 
+41 
+Palisades Park is ultimately responsible for administering the affordability controls and the 
+Affirmative Marketing Plan. 
+Palisades Park has established the position of a Municipal Liaison and has delegated this 
+responsibility to a municipal employee, who shall administer the affordable housing program, 
+including administering and enforcing the affordability controls and this Affirmative Marketing 
+Plan, in accordance with the provisions of the ordinance creating the position of the Municipal 
+Liaison, the regulations of the Council of Affordable Housing pursuant to N.J.A.C. 5:97 et. seq. 
+and the New Jersey Uniform Housing Affordability Controls pursuant to N.J.A.C. 5:80-26 et. 
+seq. 
+Subject to approval of COAH, Palisades Park may contract with one or more administrative 
+agents to administer some or all of the affordability controls and/or the Affirmative Marketing 
+Plan in accordance with the provisions of Palisades Park’s Code, the regulations of the Council 
+on Affordable Housing pursuant to N.J.A.C. 5:94 et. seq. and the New Jersey Uniform Housing 
+Affordability Controls pursuant to N.J.A.C. 5:80-26 et. seq.  If Palisades Park enters into such a 
+contract, the Municipal Liaison shall supervise the contracting administrative agent(s) and shall 
+serve as liaison to the contracting administrative agent(s).  The Borough of Palisades Park has 
+contracted with Triad Associates to be their Administrative Agent.  Triad Associates has 
+prepared an Affirmative Marketing Plan which is appended to this document.   
+Developers of low- and moderate-income units may assist in the marketing of the affordable 
+units in their respective developments if so designated by the Governing Body of the Palisades 
+Park in accordance with the provisions of Palisades Park’s Code, the regulations of the Council 
+on Affordable Housing pursuant to N.J.A.C. 5:94 et. seq. and the New Jersey Uniform Housing 
+Affordability Controls pursuant to N.J.A.C. 5:80-26 et. seq.  If Palisades Park enters into such a 
+contract, the Municipal Liaison shall supervise the contracting administrative agent(s) and shall 
+serve as liaison to the contracting administrative agent(s). 
+The Borough’s Affirmative Marketing Plan, resolution appointing a Municipal Housing Liaison, 
+and resolution and executed agreement with a qualified Administrative Agent may all be found 
+in Appendix B. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 48 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 49 =====
+BER-L -000825-25
+06/30/2025 9:46:00 PM
+Pg 49 of 59
+Trans ID: LCV20251899886
+Appendix A
+
+===== PAGE 50 =====
+Appendix A 
+VACANT LAND ANALYSIS 
+The Borough of Palisades Park is a fully developed community with very little vacant, suitable, 
+and developable land. To provide the Court with the required documentation in accordance with 
+the Vacant Land Adjustment requirements contained in COAH’s Round 2 Substantive 
+Regulations, we have procured and evaluated an official list of vacant lands from the Borough, as 
+contained in the Borough’s official Tax Assessment records. In addition to the lands identified in 
+the list provided by the Tax Assessor, we took a comprehensive look at aerial imagery1 of the 
+Borough to determine if other sites were vacant and potentially developable for affordable housing 
+that were not included in the list.  We also went out into the field to document the conditions shown 
+in the aerial photographs.  A complete listing of these lands is provided in Table 1, Vacant Land 
+Inventory. The purpose of this analysis is to document the fully developed nature of the Borough 
+of Palisades Park and its limited ability to accommodate additional housing opportunities. This 
+Vacant Land Analysis is prepared in accordance with N.J.A.C. 5:93-4.2. The vacant land 
+adjustment procedure consists of three (3) steps. 
+Step 1 
+In step 1, the municipality must provide an existing land use plan map, including all vacant land 
+within the municipality.  If requesting an exclusion based on environmentally sensitive lands the 
+map must also show existing environmental constraints.  In addition, an inventory of all vacant 
+land must be provided identifying the vacant parcels by block and lot and including the acreage 
+and ownership of each vacant parcel.  The vacant land inventory list is provided in Table 1. 
+Step 2 
+In the second step the municipality must analyze each parcel to determine its suitability for 
+development.  Reasons for exclusion of a site are found in N.J.A.C. 5:93-4.2(c), (e) and (f).  This 
+information is also contained in the vacant land inventory list described in Table 2. 
+Step 3 
+In the third and final step, the municipality shall calculate the Realistic Development Potential 
+(RDP) based on the remaining vacant parcels that have been determined suitable and developable.  
+Pursuant to N.J.A.C. 5:93-4.2(f), each remaining vacant site considered suitable and developable 
+is assigned a presumptive density of at least 6 units per acre and a 20% set aside.  Additionally, 
+sites that are appropriate for redevelopment can be considered in calculating the RDP. The RDP 
+is shown in Table 16 of the report. 
+TABLE 1 
+VACANT LAND INVENTORY 
+Site #
+Block
+Lot
+Acreage
+Owner
+1
+104
+16
+0.207
+100 Grand Av Inc.
+2
+104
+17
+0.322
+100 Grand Avenue Inc
+3
+416
+3
+0.31
+Dong Nam NY, LLC c/o Woo & Assoc. CPA
+1 Aerial imaging consulted included Google Earth, Nearmap, and Bergen County Parcel Viewer. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 50 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 51 =====
+4
+419
+12
+0.14
+Prettypaul, Michael
+5
+428
+1
+3.65
+Multiple owners
+6
+428
+3
+0.115
+Borough of Palisades Park
+7
+432
+4
+3.875
+Berkeley Pal. Pk. c/o Limestone Hill
+8
+433
+1
+0.11
+Borough of Palisades Park
+9
+433
+3
+0.11
+Veteramo, Raffaele & Giuseppina
+10
+433
+2, 4, 5
+2.686
+Berkeley Pal. Pk. c/o Limestone Hill
+11
+433
+6
+0.05
+So Young Choi
+12
+433
+7
+0.06
+Borough of Palisades Park
+13
+433
+8
+0.11
+Borough of Palisades Park
+14
+502
+8
+0.10
+Choi, Kyungkon
+15
+502
+9
+0.17
+Choi, Kyungkon
+16
+502
+10
+0.14
+Choi, Kyungkon
+17
+614
+23
+0.28
+Icon 50 Broad LLC
+18
+615
+10
+0.12
+State of NJ Dept. of Trans.
+19
+716
+20
+0.14
+Golden Value, LLC
+20
+716
+21
+0.15
+Golden Value, LLC
+21
+716
+22
+0.13
+Golden Value, LLC
+22
+724
+14
+0.99
+Borough of Palisades Park
+23
+725
+1
+0.42
+Borough of Palisades Park
+24
+726
+1
+0.58
+Borough of Palisades Park
+25
+734
+1
+0.322
+Boro Hall
+Total:
+15.287
+As shown in Table 2 and the accompanying Vacant Land Inventory Map, there are 25 parcels 
+identified as vacant in the tax data obtained from the Borough, along with additional sites identified 
+through other means as previously described. Of these 25 parcels, 9 can be excluded from 
+development consideration. These exclusions are due either to parcel size, being too small to yield 
+at least one low- or moderate-income unit as per N.J.A.C. 5:93-4.2(c)22, or to environmental 
+constraints, such as wetlands or steep slopes, as defined under N.J.A.C. 5:93-4.2(e)2.ii3. 
+2 A municipality shall exclude from the vacant land inventory any vacant contiguous parcels of land in private 
+ownership of a size which would accommodate less than five dwelling units. 
+Minimum Area Calculation 5 units/acre 
+Minimum lot size of 0.37 acres based on an agreement with FSHC results in a presumptive density of 14 units/acre. 
+(43,560 ÷ 13.5 = 3,226 square feet/unit) × 5 units (4 market, 1 low and mod.) = 16,130 sq.ft.÷ 43,560 = 0.37 acres 
+3 A municipality may exclude as potential sites for low and moderate income housing, sites containing inland 
+wetlands and slopes in excess of 15%. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 51 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 52 =====
+The Vacant Land Exclusion Analysis is detailed in Table 2 below. 
+TABLE 2 
+VACANT LAND EXCLUSIONS 
+Site #
+Block
+Lot
+Acreage
+Constrained
+Acreage
+Developable
+Acreage
+Exclusion Reason
+1
+104
+16
+0.207
+0.207
+Developable. Sites 1 and 2
+are adjacent properties under
+the same ownership, with a
+combined
+area
+exceeding
+0.37 acres.
+2
+104
+17
+0.322
+0.322
+Developable. Sites 1 and 2
+are adjacent properties under
+the same ownership, with a
+combined
+area
+exceeding
+0.37 acres.
+3
+416
+3
+0.31
+0.31
+Developable.
+Although
+the
+site
+is
+under
+the
+0.37
+threshold to accommodate 1
+affordable unit a development
+application is pending with
+the Borough.
+4
+419
+12
+0.14
+0
+Excluded.
+The
+0.14-acre
+parcel is too small and is
+under the 0.37 threshold to
+accommodate
+1
+affordable
+unit.
+5
+428
+1
+3.65
+0
+Excluded. This site is not
+vacant as it is part of a site
+that is fully developed with the
+Trio apartment building.
+6
+428
+3
+0.115
+0
+Excluded.
+Environmental
+Constraints. The site is not
+developable
+due
+to
+the
+presence of wetlands and as
+a
+result
+the
+developable
+acreage of 0.115-acres is too
+small and is under the 0.37
+threshold to accommodate 1
+affordable unit.
+7
+432
+4
+3.875
+2.816
+1.0594
+Developable. Ony a portion of
+the site is developable due to
+the
+presence
+of
+wetlands.
+Developable
+acreage
+is
+shown on the Boswell Site
+Plan in Appendix J.
+8
+433
+1
+0.11
+0.11
+Developable.
+Although
+the
+property
+is
+less
+than
+the
+presumptive
+acreage
+to
+create 1 affordable unit it is
+4 Developable acreage based on the Boswell Engineering Site Plan dated 11-2-16.  Attached as Appendix J 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 52 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 53 =====
+adjacent to other parcels that
+could potentially be combined
+to develop an inclusionary
+development.
+9
+433
+3
+0.11
+0.11
+Developable.
+Although
+the
+property
+is
+less
+than
+the
+presumptive
+acreage
+to
+create 1 affordable unit it is
+adjacent to other parcels that
+could potentially be combined
+to develop an inclusionary
+development.
+10
+433
+2, 4, 5
+2.686
+2.1255
+Developable. Ony a portion of
+the site is developable due to
+the
+presence
+of
+wetlands.
+Developable
+acreage
+is
+shown on the Boswell Site
+Plan in Appendix J.
+11
+433
+6
+0.05
+0.05
+Developable.
+Although
+the
+property
+is
+less
+than
+the
+presumptive
+acreage
+to
+create 1 affordable unit it is
+adjacent to other parcels that
+could potentially be combined
+to develop an inclusionary
+development.
+12
+433
+7
+0.06
+0.06
+Developable.
+Although
+the
+property
+is
+less
+than
+the
+presumptive
+acreage
+to
+create 1 affordable unit it is
+adjacent to other parcels that
+could potentially be combined
+to develop an inclusionary
+development.
+13
+433
+8
+0.11
+0.11
+Developable.
+Although
+the
+property
+is
+less
+than
+the
+presumptive
+acreage
+to
+create 1 affordable unit it is
+adjacent to other parcels that
+could potentially be combined
+to develop an inclusionary
+development.
+14
+502
+8
+0.10
+0.10
+Developable.
+Sites
+10,
+11
+and
+12
+are
+adjacent
+properties under the same
+ownership, with a combined
+area exceeding 0.37 acres.
+15
+502
+9
+0.17
+0.17
+Developable.
+Sites
+10,
+11
+and
+12
+are
+adjacent
+properties under the same
+ownership, with a combined
+area exceeding 0.37 acres.
+16
+502
+10
+0.14
+0.14
+Developable.
+Sites
+10,
+11
+5 Developable acreage based on the Boswell Engineering Site Plan dated 11-2-16.  Attached as Appendix J 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 53 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 54 =====
+and
+12
+are
+adjacent
+properties under the same
+ownership, with a combined
+area exceeding 0.37 acres.
+17
+614
+23
+0.28
+0
+Excluded.
+The
+0.28-acre
+parcel is too small and is
+under the 0.37 threshold to
+accommodate
+1
+affordable
+unit.
+18
+615
+10
+0.12
+0
+Excluded.
+The
+0.12-acre
+parcel is too small and is
+under the 0.37 threshold to
+accommodate
+1
+affordable
+unit.
+19
+716
+20
+0.14
+0
+Excluded.
+Environmental
+Constraints. The site is not
+developable
+due
+to
+the
+presence of slopes in excess
+of 15%.
+20
+716
+21
+0.15
+0
+Excluded.
+Environmental
+Constraints. The site is not
+developable
+due
+to
+the
+presence of slopes in excess
+of 15%.
+21
+716
+22
+0.13
+0
+Excluded.
+Environmental
+Constraints. The site is not
+developable
+due
+to
+the
+presence of slopes in excess
+of 15%.
+22
+724
+14
+0.99
+0.59
+0.40
+Developable.
+The
+site
+is
+mostly not developable due to
+the
+presence
+of
+wetlands.
+The remaining 0.40 acres is
+developable as it is greater
+than
+the
+0.37
+acre
+requirement
+agreed
+upon
+with the FSHC.
+23
+725
+1
+0.42
+0.42
+Developable
+24
+726
+1
+0.58
+0.58
+Developable
+25
+734
+1
+0.322
+0.082
+0.00
+Excluded.
+Environmental
+Constraints. The site is not
+developable
+due
+to
+the
+presence of wetlands and as
+a
+result
+the
+developable
+acreage of 0.24-acres is too
+small and is under the 0.37
+threshold to accommodate 1
+affordable unit.
+Total:
+31.16
+6.273
+Out of the 25 sites analyzed, 9 have been excluded for the following reasons: 
+•
+They are too small to accommodate even a single affordable housing unit (under the 0.37-
+acre threshold), as required under N.J.A.C. 5:93-4.2(c)2, which states that a municipality 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 54 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 55 =====
+must exclude contiguous, privately owned parcels that are too small to support at least five 
+dwelling units. 
+•
+They are environmentally constrained due to the presence of wetlands or slopes exceeding 
+15%, in accordance with N.J.A.C. 5:93-4.2(e)2.ii. 
+These constraints are documented in Table 2 and supported by the accompanying site plans and 
+environmental assessments. For further reference, please consult the letter and maps prepared by 
+Pennoni Associates, which provide detailed analysis and mapping of constrained and developable 
+land within the Borough. 
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 55 of 59   Trans ID: LCV20251899886 
+
+===== PAGE 56 =====
+BER-L -000825-25
+06/30/2025 9:46:00 PM_Pg 56 of 59
+Trans ID: LCV20251899886
+o
+5
+3
+i.
+2%
+E33
+5
+ome
+&
+g
+:
+:
+s
+ee
+i
+ee
+re
+4
+eRe
+Zi
+,=— 5
+Beads
+¢
+EE
+ef
+ey§
+3M)
+ye oT
+ple ES
+eye
+| oe: le
+22.
+ete
+i
+a
+eo) Gre ica) acme See es Se aay ANS
+ADS!
+E
+Pe)
+ma & BS
+2 Sb Be oe 6 SS ty ss
+iA}
+i
+3
+eSeHfLES CZ OBS EGaS 8
+pre
+2
+re)
+reel
+:
+ae
+25
+j200000
+SRRRCROE
+ee
+ame oe ca >
+Ff A
+ia GP
+ae Sine
+a
+my!
+=EI2=|==|=
+0
+=
+“<i
+, Ale aS a
+oe
+ee
+a
+2
+
+===== PAGE 57 =====
+E
+GHOOOO00
+z<
+EG
+BOSS
+E>TESS
+MS SeSa, ¥
+RS
+ON
+OS
+POO
+igSs
+EyA
+ROR, Vy,
+- LF
+| a)
+H
+
+===== PAGE 58 =====
+BER-L -000825-25
+06/30/2025 9:46:00 PM
+Pg 58 of 59
+Trans ID: LCV20251899886
+P
+5
+|
+o®
+3% 6
+Of
+ca
+ra
+&
+|
+Si
+Ff
+g28
+¢
+3
+|
+a
+<
+ot
+D Fee 5 _ 5 i q :
+-
+3
+fou
+@: 26 4 B24 = S ange
+2
+&
+-
+os sg332333
+428
+4
+i
+PU
+s
+§§0OO00
+z<
+FY
+o=
+ar)
+oe
+2)
+Te
+y
+bo
+“S
+f3. 2 ‘
+pe
+fh.
+~
+£333
+rr
+é aORE
+S SS
+rho
+4
+Py
+a
+SS
+OSM
+Patz \
+é
+Ow
+=
+LEDS.
+Se BS oSins
+a3ig
+j
+> ef >
+ag
+nS —-Es
+.
+Lay &
+ma
+ge
+é
+ss
+.
+ney
+Le
+oo
+#
+‘
+S
+CRG
+|/
+28,
+iy een:
+De
+ee
+Oe
+&
+SEP
+[ROE
+8
+ae
+SGM
+b we
+} @
+S
+Beis
+d
+eS
+>
+>
+Sg fy 7
+f
+fi.
+>
+OGLE
+Sf)
+f
+i
+Wena Log
+GS
+Lr
+SYA
+z*
+LING
+BLS
+S772 } YE
+é
+:
+CTE ry
+9
+ed
+oz)
+o
+73°
+2
+ee
+$
+7
+2
+‘
+=
+S
+=
+*
+|
+pm
+/
+g
+aby
+
+===== PAGE 59 =====
+1085 Raymond Boulevard, Suite 2102
+T: 973-265-9775
+www.pennoni.com
+Newark, NJ 07102
+Page 1 of 1
+January 27, 2025
+BRLEO24001
+Kauker & Kauker LLC.
+Attn:
+Michael D. Kauker, P.P., AICP
+356 Franklin Avenue
+Wycoff, NJ 07481
+RE: 
+Palisades Park – Available Developable Area
+14th Street
+Palisades Park, NJ 07650
+Block 433, Lots 1, 2, 3, 4, and 5
+Dear Mr. Kauker:
+As requested on behalf of the Borough of Palisades Park, Pennoni has prepared an exhibit, attached to this letter, of the
+projected available developable area of a site, approximately 2.8 acres in size, that is composed of properties listed as
+Block 433, Lots 1, 2, 3, 4, and 5 on Borough Tax Maps. The projected available developable area was found to be 
+approximately 0.12 acres after accounting for the below noted environmental constraints. 
+The available developable area was determined based on mapping and GIS data available from the NJ Department of 
+Environmental Protection (NJDEP). Available mapping from the NJDEP’s GeoWeb site shows that an unlisted stream 
+traverses through the site and that the site contains freshwater wetlands. The property parcel data and freshwater 
+wetlands shown were taken from GIS data from NJ Geographic Information (NJGIN) Warehouse dated 2024.
+Background imagery shown in the exhibit is sourced from EagleViewer Aerial Imagery and is dated 2024. NJDEP’s
+Landscape Project, which provides publicly available wildlife habitat mapping, lists this particular wetland area as a
+potential habitat for species considered by the State of NJ to be threatened or of special concern. As per NJAC 7:7A-
+3.2(b), freshwater wetlands that present a habitat for threatened species are considered to be of exceptional resource 
+value and, as per NJAC 7:7A-3.3(d), have an associated transition buffer of 150-feet which is reflected on the attached
+exhibit.
+Although these sources of information are subject to field confirmation and should be considered approximate, for the 
+purposes of this exercise it is apparent that based on their review any development within/adjacent to these wetlands 
+and transition areas is regulated by NJDEP and would be challenging to permit at a minimum. As such, it is my opinion 
+that only the 0.12 acres identified on the exhibit be considered towards the developable area.
+Should you have any questions or require any additional items, please do not hesitate to contact me directly at 973-265-
+9740 or shoyt@pennoni.com.
+Sincerely,
+PENNONI ASSOCIATES INC.
+Stephen C. Hoyt, P.E
+Associate Vice President, Office Director
+U:\Accounts\BRPLP\BRPLP24001 - Borough Special Engineering Services\DOCUMENTS\14th Street\L01 Palisades Park 14th Street.docx
+                                                                                                                                                                                              
+BER-L -000825-25   06/30/2025 9:46:00 PM   Pg 59 of 59   Trans ID: LCV20251899886 
