@@ -1,19 +1,24 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T12:15:07+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T12:15:56+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
 ## Allendale (Borough)
 
-_Compliance: settled-with-FSHC; also party to LLRP constitutional lawsuit · HEFSP: adopted 2025-06-16_
+_Obligation: 200 · Compliance: settled-with-FSHC; Consent Order with FSHC for 98 Elm Street special needs unit · HEFSP: adopted 2025-06-16_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 320 Franklin Turnpike Unmet Need Overlay | 320 Franklin Turnpike, Allendale, NJ |  |  |  | overlay | 12.0 |  |  |  |  |  | low | [doc](https://www.allendalenj.gov/media/oo3bpjem/housing-element-and-fair-share-plan-fraft-final-for-approval-6-5-25.pdf) |
 | 220 West Crescent Avenue Senior Rental | 220 West Crescent Avenue, Allendale, NJ |  |  |  | 100pct-affordable |  | 4 | 4 | 100.0% | rental |  | low | [doc](https://www.allendalenj.gov/media/oo3bpjem/housing-element-and-fair-share-plan-fraft-final-for-approval-6-5-25.pdf) |
+| Franklin Turnpike (Church of the Guardian Angel) Inclusionary Overlay Zone | 168 West Crescent Avenue area / Franklin Turnpike, Allendale, NJ | 1803 | 1 | 8.0 | inclusionary overlay | 12.0 |  | 19 | 20.0% |  | adopted-ordinance (existing from Round 3) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/allendale-boro/61725AllendaleHEFSPFinaladopted61625reducedPart1.pdf?VersionId=OS80HMqcQEJ9KXkqylWVs6qi4JkWPnvl) |
+| 98 Elm Street — Special Needs Unit Conversion | 98 Elm Street, Allendale, NJ | 1809 | 8 |  | 100% affordable special needs (conversion/rehabilitation) |  | 2 | 2 | 100.0% | rental | Consent Order with FSHC; rehabilitation underway | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/allendale-boro/61725AllendaleHEFSPFinaladopted61625reducedPart1.pdf?VersionId=OS80HMqcQEJ9KXkqylWVs6qi4JkWPnvl) |
+| Allendale Brook Estates — Extension of Deed Restriction Controls | Carriage Court / Trotters Lane, Allendale, NJ | 2101 | 9 |  | extension of affordability controls |  |  | 2 |  | sale | in-progress; Borough to exercise purchase rights under expiring deed restrictions | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/allendale-boro/61725AllendaleHEFSPFinaladopted61625reducedPart1.pdf?VersionId=OS80HMqcQEJ9KXkqylWVs6qi4JkWPnvl) |
 | Ramsey Golf Course (Ramsey Country Club) Inclusionary Overlay |  | 301 and 406 | 37 (Block 301) and 21.01 (Block 406) |  | overlay | 10.0 |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/34130382) |
+| Ramsey Golf & Country Club Inclusionary Overlay Zone |  | 301 and 406 | 37 (Block 301) and 21.01 (Block 406) | 14.3 | inclusionary overlay | 10.0 |  | 29 | 20.0% |  | adopted-ordinance (existing from Round 3) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/allendale-boro/61725AllendaleHEFSPFinaladopted61625reducedPart1.pdf?VersionId=OS80HMqcQEJ9KXkqylWVs6qi4JkWPnvl) |
 | Allendale Corporate Center Inclusionary Overlay |  | 702 | 14 |  | overlay | 26.0 |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/34130450) |
+| Allendale Corporate Center Inclusionary Overlay Zone | 90 Boroline Road, Allendale, NJ (northeast corner) | 702 | 14 and 15 | 15.1 | inclusionary overlay | 12.0 |  | 36 | 20.0% |  | Lot 14 existing adopted-ordinance; Lot 15 expansion proposed in Fourth Round HEFSP | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/allendale-boro/61725AllendaleHEFSPFinaladopted61625reducedPart1.pdf?VersionId=OS80HMqcQEJ9KXkqylWVs6qi4JkWPnvl) |
 
 ## Alpine (Borough)
 
@@ -104,12 +109,23 @@ _Obligation: 144 · Compliance: settled (binding resolution accepting DCA number
 
 ## East Rutherford (Borough)
 
-_Obligation: 465 · Compliance: settled · HEFSP: adopted-amended 2026-02-09_
+_Obligation: 446 · Compliance: settled with NJBA · HEFSP: adopted 2025-06-02_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 20-30 Willow Street | 20-30 Willow Street, East Rutherford, NJ |  |  |  | overlay |  | 26 |  | 20.0% | rental | approved | low | [doc](https://jerseydigs.com/30-willow-street-east-rutherford-affordable-housing/) |
+| Tomu Development Co. ('Meadows') | Meadows | 107.03 | 2, 5, 7 |  | builder's remedy / inclusionary (NJSEA jurisdiction) |  | 420 | 60 |  | rental | approved (2006 builder's remedy), no development application filed | high | [doc](https://ecf.njcourts.gov/lib/BER/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5) |
+| The Monarch Phase I | 100-200 Schindler Court | 108.04 | 5.01/5.02 |  | inclusionary (NJSEA jurisdiction) |  | 316 | 32 | 10.0% | rental | completed | high | [doc](https://ecf.njcourts.gov/lib/BER/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5) |
+| AHO Zone — 20-30 Willow Street | 20-30 Willow Street | 25 | 4, 4.01, 4.02, 5 |  | inclusionary overlay (AHO Zone) | 25.0 | 26 | 5 | 20.0% | rental | site plan approved January/February 2025 (Resolution 2025-01) | high | [doc](https://ecf.njcourts.gov/lib/BER/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5) |
 | AHO-B Zone (Block 26, Lots 1 and 2) |  | 26 | 1, 2 |  | overlay | 25.0 |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/9415803) |
+| AHO-B Zone / Central Avenue Redevelopment — 10-20 Oak Street | 10-20 Oak Street | 26 | 1.01 | 7.44 | inclusionary overlay (AHO-B Zone) | 27.5 | 208 | 30 | 20.0% | rental | completed (2021) | high | [doc](https://ecf.njcourts.gov/lib/BER/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5) |
+| AHO-C Zone — Block 6 Lot 12 (Madison Street) | Madison Street | 6 | 12 | 6.22 | inclusionary overlay (AHO-C Zone) | 20.0 |  | 25 | 15.0% | rental | overlay zoned; site available/developable | high | [doc](https://ecf.njcourts.gov/lib/BER/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5) |
+| HDCBC 100% Affordable Housing Development | 105 Main Street | 66 | 10 |  | 100% affordable |  |  |  | 100.0% | rental | proposed (no application in pipeline) | high | [doc](https://ecf.njcourts.gov/lib/BER/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5) |
+| 150 Union Avenue (KS Rock) | 150 Union Avenue | 77 | 3, 4 |  | redevelopment |  | 120 | 18 | 15.0% | rental | redevelopment plan adopted | high | [doc](https://ecf.njcourts.gov/lib/BER/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5) |
+| 10-20 Winter Place | 10-20 Winter Place | 77 | 5 |  | redevelopment |  | 18 | 3 | 15.0% | rental | redevelopment plan adopted | high | [doc](https://ecf.njcourts.gov/lib/BER/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5) |
+| AHO-C Zone — Block 8 Lot 10 (Madison Street) | Madison Street | 8 | 10 | 3.6 | inclusionary overlay (AHO-C Zone) | 20.0 |  | 14 | 15.0% | rental | overlay zoned; site available/developable | high | [doc](https://ecf.njcourts.gov/lib/BER/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5) |
+| 4 Jersey Street | 4 Jersey Street | 9 | 1 |  | redevelopment |  | 14 | 3 | 15.0% | rental | redevelopment plan adopted; site plan pending before Planning Board after November 2024 denial | high | [doc](https://ecf.njcourts.gov/lib/BER/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5) |
+| 263 Hackensack Street | 50 Winter Place / 263 Hackensack Street | 97, 98 | 5, 1 |  | redevelopment |  | 86 | 13 | 15.0% | rental | site plan approved October 21, 2024 | high | [doc](https://ecf.njcourts.gov/lib/BER/6225EastRutherfordHEFSPAppendicesFINALSPart1.pdf?VersionId=qAIOQl09Ugwq.To65F8PQ8kGYfkjCYG5) |
 
 ## Edgewater (Borough)
 
@@ -536,14 +552,18 @@ _Compliance: settled · HEFSP: adopted 2025-06-12_
 
 ## Saddle Brook (Township)
 
-_Obligation: 321 · Compliance: settled · HEFSP: adopted 2025-06-16_
+_Obligation: 321 · Compliance: settled · HEFSP: adopted (amended) 2026-03-13_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | AHOZ-5A Supportive Housing (580 North Midland) | 580 North Midland Avenue | 1710 | 38 |  | 100pct-affordable |  | 10 | 10 | 100.0% | rental | adopted-ordinance | medium | [doc](https://saddlebrooknj.us/wp-content/uploads/2026/02/1796-26-Ordinance-Creating-Round-4-Overlay-Zones.pdf) |
 | AHOZ-5B Age-Restricted Inclusionary (580 North Midland) | 580 North Midland Avenue | 1710 | 38 |  | inclusionary-rezoning |  | 12 | 3 | 25.0% | rental | adopted-ordinance | medium | [doc](https://saddlebrooknj.us/wp-content/uploads/2026/02/1796-26-Ordinance-Creating-Round-4-Overlay-Zones.pdf) |
+| 580 North Midland Ave - Supportive Housing Overlay (Block 1710, Lot 38) | 580 North Midland Avenue, Saddle Brook, NJ | 1710 | 38 | 0.74 | 100pct-affordable |  | 10 | 10 | 100.0% | rental | adopted-ordinance (Appendix J) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-brook-twp/SDBRK001FourthRoundHEFSPAmendedADOPTED.pdf?VersionId=tgAeFS7ZKkFV1Qi78ZkzP76F5bWB8Q9z) |
+| 580 North Midland Ave - Age-Restricted Inclusionary Overlay (Block 1710, Lot 38) | 580 North Midland Avenue, Saddle Brook, NJ | 1710 | 38 | 0.74 | inclusionary-rezoning |  | 12 | 3 | 25.0% | rental | adopted-ordinance (Appendix J) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-brook-twp/SDBRK001FourthRoundHEFSPAmendedADOPTED.pdf?VersionId=tgAeFS7ZKkFV1Qi78ZkzP76F5bWB8Q9z) |
 | AHOZ-6 Overlay Zone (Block 401) |  | 401 | 1, 2.01, 2.02, 3, 4, 5 |  | overlay |  | 220 |  | 20.0% |  | adopted-ordinance | medium | [doc](https://saddlebrooknj.us/wp-content/uploads/2026/02/1796-26-Ordinance-Creating-Round-4-Overlay-Zones.pdf) |
+| Midland Avenue-Van Bussum Overlay (Block 401) | Midland Avenue & Van Bussum Avenue, Saddle Brook, NJ | 401 | 1, 2.01, 2.02, 3, 4, and 5 | 3.77 | inclusionary overlay |  | 220 | 44 | 20.0% |  | adopted-ordinance (Appendix J; Ordinance 1797-26) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-brook-twp/SDBRK001FourthRoundHEFSPAmendedADOPTED.pdf?VersionId=tgAeFS7ZKkFV1Qi78ZkzP76F5bWB8Q9z) |
 | Mayhill Apartments | 140 Mayhill Street | 910 | 2 |  | inclusionary-rezoning |  | 156 | 15 | 10.0% | rental | built | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-brook-twp/SaddleBrookHEFSP.pdf?VersionId=C.gkPGgGYC7UFIkMf9a_sPK4jVGD6biD) |
+| Mayhill Apartments (Block 910, Lot 2) [Prior Round Credit] | 140 Mayhill Street, Saddle Brook, NJ | 910 | 2 |  | inclusionary-rezoning |  | 156 | 15 |  | rental | built | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-brook-twp/SDBRK001FourthRoundHEFSPAmendedADOPTED.pdf?VersionId=tgAeFS7ZKkFV1Qi78ZkzP76F5bWB8Q9z) |
 
 ## Saddle River (Borough)
 

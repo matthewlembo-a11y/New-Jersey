@@ -1,13 +1,13 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T12:15:07+00:00_
+_Generated 2026-06-12T12:15:56+00:00_
 
-- Municipalities: **70/70**  (done: 49, in_progress: 21, blocked: 0, not_started: 0)
-- Sites catalogued: **211**
+- Municipalities: **70/70**  (done: 50, in_progress: 20, blocked: 0, not_started: 0)
+- Sites catalogued: **231**
 
 | # | Municipality | Status | Sites | Oblig. | Compliance | HEFSP | Last researched |
 |---|---|---|---|---|---|---|---|
-| 1 | Allendale | done | 4 |  | settled-with-FSHC; also party to LLRP constitutional lawsuit | adopted | 2026-06-12T03:22:07+00:00 |
+| 1 | Allendale | done | 9 | 200 | settled-with-FSHC; Consent Order with FSHC for 98 Elm Street special needs unit | adopted | 2026-06-12T12:15:29+00:00 |
 | 2 | Alpine | done | 4 | 117 | settled | adopted | 2026-06-12T03:22:07+00:00 |
 | 3 | Bergenfield | in_progress | 4 |  | QUAM-exempt from prospective need; rehabilitation obligation status unclear | no fourth-round HEFSP found on library.njcourts.gov | 2026-06-12T03:22:07+00:00 |
 | 4 | Bogota | done | 1 | 111 | settled | adopted | 2026-06-12T03:22:07+00:00 |
@@ -17,7 +17,7 @@ _Generated 2026-06-12T12:15:07+00:00_
 | 8 | Cresskill | done | 1 | 155 | settled | adopted | 2026-06-12T03:22:07+00:00 |
 | 9 | Demarest | done | 7 | 100 | settled | adopted | 2026-06-12T12:14:32+00:00 |
 | 10 | Dumont | done | 7 | 144 | settled (binding resolution accepting DCA numbers) | adopted | 2026-06-12T12:14:32+00:00 |
-| 11 | East Rutherford | in_progress | 2 | 465 | settled | adopted-amended | 2026-06-12T03:23:52+00:00 |
+| 11 | East Rutherford | done | 13 | 446 | settled with NJBA | adopted | 2026-06-12T12:15:29+00:00 |
 | 12 | Edgewater | done | 5 | 301 | settled | adopted | 2026-06-12T03:23:52+00:00 |
 | 13 | Elmwood Park | in_progress | 2 | 299 | settled | adopted-amended | 2026-06-12T03:23:52+00:00 |
 | 14 | Emerson | in_progress | 3 |  | settled | adopted | 2026-06-12T03:23:52+00:00 |
@@ -63,7 +63,7 @@ _Generated 2026-06-12T12:15:07+00:00_
 | 54 | Rochelle Park | in_progress | 3 | 119 | settled | adopted | 2026-06-12T03:24:13+00:00 |
 | 55 | Rockleigh | done | 2 | 14 | settled | adopted | 2026-06-12T03:24:13+00:00 |
 | 56 | Rutherford | in_progress | 3 |  | settled | adopted | 2026-06-12T03:26:48+00:00 |
-| 57 | Saddle Brook | done | 4 | 321 | settled | adopted | 2026-06-12T03:26:49+00:00 |
+| 57 | Saddle Brook | done | 8 | 321 | settled | adopted (amended) | 2026-06-12T12:15:29+00:00 |
 | 58 | Saddle River | in_progress | 2 | 255 | settled | adopted | 2026-06-12T03:26:49+00:00 |
 | 59 | South Hackensack | done | 2 | 181 | settled | adopted | 2026-06-12T03:26:49+00:00 |
 | 60 | Teaneck | in_progress | 4 | 645 | settled | adopted | 2026-06-12T03:26:49+00:00 |

@@ -1,0 +1,67 @@
+{
+  "municipality": "Alpine",
+  "research_status": "done",
+  "obligation": {
+    "present_need": 0,
+    "prospective_need": 117,
+    "total_obligation": 117,
+    "rdp": 0,
+    "unmet_need": 117,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/alpine-boro/62625Alpine4thRoundHEFSP62425Adoptedwithappendices.pdf?VersionId=GtHT6t7iqBn2veBcdyliouEPdf4H9zff"
+  },
+  "compliance": {
+    "status": "settled; mediation agreement with FSHC December 17, 2025; amended HEFSP adopted March 10, 2026",
+    "settlement_party": "Fair Share Housing Center",
+    "settlement_date": "2025-12-17",
+    "hefsp_status": "adopted (original June 24, 2025; Amended HEFSP adopted March 10, 2026)",
+    "hefsp_adopted_date": "2025-06-24",
+    "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/alpine-boro/62625Alpine4thRoundHEFSP62425Adoptedwithappendices.pdf?VersionId=GtHT6t7iqBn2veBcdyliouEPdf4H9zff"
+  },
+  "notes": "Alpine has effectively no Fourth Round RDP (VLA gives zero). The DCA prospective need of 257 is reduced to 0 by the 20% cap rule and VLA; the HEFSP states 117 units as the Borough's obligation from its binding resolution. The original June 2025 HEFSP was challenged by FSHC; a mediation agreement dated December 17, 2025 required preparation of an Amended HEFSP (adopted March 10, 2026). The sole active Fourth Round obligation is 4 remaining units from the Third Round (accessory apartment carryover), to be addressed by expanding the existing 100% affordable housing site off Route 9W with 2 additional family units + 2 additional bedrooms. No new inclusionary overlay or redevelopment sites for Round 4 — the plan is entirely unmet-need-based (mandatory set-aside + development fees) plus the 4-unit 3rd Round carryover on the existing 100% affordable site. Candidate snapshot's four sites were all Third Round carryover items; the Fourth Round HEFSP itself has only the 100% affordable site expansion plus unmet need mechanisms with no specific parcels. NOTE: The pre-OCR file was the Planning Board adopting resolution, not the HEFSP; fetched real HEFSP which shows Alpine's genuine Round 4 posture.",
+  "sources": [
+    {
+      "doc_type": "HEFSP",
+      "title": "2025 Housing Element & Fair Share Plan, Borough of Alpine, Adopted June 24, 2025",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/alpine-boro/62625Alpine4thRoundHEFSP62425Adoptedwithappendices.pdf?VersionId=GtHT6t7iqBn2veBcdyliouEPdf4H9zff",
+      "excerpt": "The Borough has a 4th Round rehabilitation obligation of zero and a prospective need obligation of 117 housing units. A vacant land adjustment analysis undertaken for the 4th Round indicates the Borough has a zero-unit RDP."
+    },
+    {
+      "doc_type": "resolution",
+      "title": "Executed Planning Board Resolution Adopting the Amended HEFSP",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/alpine-boro/ExecutedPBResolutionAdoptingtheAmendedhefsp.pdf?VersionId=5ayLQlcTo_kVG.uEgE7fKTQGbln8yQpX",
+      "excerpt": "representatives of the Borough and FSHC entered into a Mediation Agreement dated December 17, 2025 that resolved the issues raised in the challenge subject to, among other requirements, the adoption of an Amended Housing Element and Fair Share Plan"
+    },
+    {
+      "doc_type": "DCA",
+      "title": "DCA Bergen Obligations JSON",
+      "url": "sources/dca_bergen_obligations.json",
+      "excerpt": "Alpine borough: present_need=0, prospective_need=257 (DCA advisory; plan uses 117 after 20% cap + VLA)"
+    }
+  ],
+  "sites": [
+    {
+      "site_name": "Existing 100% Affordable Site — Expansion (Route 9W)",
+      "address": "Route 9W southerly portion, Alpine, NJ",
+      "block": null,
+      "lot": null,
+      "acreage": null,
+      "mechanism": "100% affordable (municipally-sponsored expansion)",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": null,
+      "total_units": 4,
+      "affordable_units": 4,
+      "set_aside_pct": 100.0,
+      "tenure": "rental",
+      "adoption_status": "proposed; agreement with Bergen County United Way; contingent on septic capacity",
+      "developer": "Bergen County United Way",
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/alpine-boro/62625Alpine4thRoundHEFSP62425Adoptedwithappendices.pdf?VersionId=GtHT6t7iqBn2veBcdyliouEPdf4H9zff",
+      "source_page": "Page 30-31, Section IV Fair Share Plan",
+      "source_date": "2025-06-24",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Alpine proposes to address its remaining 3rd Round housing obligations through expansion of the existing 100% affordable housing site off of Route 9W in the southerly portion of the municipality. The plan calls for the construction of two (2) additional family apartments and two additional bedrooms.",
+      "notes": "Carries over 4 unmet units from Round 3 (accessory apartment program that was not realized). The existing Prior Round 8-unit site receives 2 additional family apartments + 2 additional bedrooms. If septic capacity is insufficient, Borough commits to identify alternate site within 120 days of NJDEP decision. Block/lot not stated in HEFSP. This is the only Fourth Round site with specific unit obligations — the 117-unit RDP is zero and all prospective need is unmet need addressed only by mandatory set-aside ordinance and development fees with no specific parcels."
+    }
+  ]
+}
