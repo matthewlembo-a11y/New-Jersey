@@ -1,6 +1,6 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T12:22:31+00:00_
+_Generated 2026-06-12T12:22:51+00:00_
 
 - Municipalities: **70/70**  (done: 56, in_progress: 13, blocked: 1, not_started: 0)
 - Sites catalogued: **240**
@@ -39,7 +39,7 @@ _Generated 2026-06-12T12:22:31+00:00_
 | 30 | Little Ferry | in_progress | 4 |  | in_progress | proposed | 2026-06-12T03:23:26+00:00 |
 | 31 | Lodi | done | 0 | 140 | urban_aid_rehab_only | adopted | 2026-06-12T11:55:22+00:00 |
 | 32 | Lyndhurst | done | 0 | 366 | adopted_challenged_VLA_RDP0 | adopted_challenged | 2026-06-12T11:58:27+00:00 |
-| 33 | Mahwah | done | 11 | 531 | adopted HEFSP; multiple rounds of obligation settled; Fourth Round obligation set by Decision and Order May 13, 2025 | adopted | 2026-06-12T12:22:30+00:00 |
+| 33 | Mahwah | done | 11 | 531 | adopted HEFSP; multiple rounds of obligation settled; Fourth Round obligation set by Decision and Order May 13, 2025 | adopted | 2026-06-12T12:22:51+00:00 |
 | 34 | Maywood | done | 3 | 143 | certified | adopted with compliance certification | 2026-06-12T12:22:30+00:00 |
 | 35 | Midland Park | done | 3 | 155 | settled | adopted | 2026-06-12T03:22:08+00:00 |
 | 36 | Montvale | done | 5 | 235 | litigating | adopted | 2026-06-12T03:24:41+00:00 |
