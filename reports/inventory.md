@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T03:23:38+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T03:24:01+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -80,6 +80,57 @@ _Compliance: settled · HEFSP: adopted 2025-06-11_
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | The Crescent (Redevelopment Site) |  |  |  |  | redevelopment-area |  | 48 | 7 | 15.0% | rental | proposed | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/dumont-boro/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr) |
 | 125 Washington Avenue | 125 Washington Avenue, Dumont, NJ | 1216 | 1 |  | redevelopment-area |  |  | 1 |  | rental | proposed | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/dumont-boro/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr) |
+
+## East Rutherford (Borough)
+
+_Obligation: 465 · Compliance: settled · HEFSP: adopted-amended 2026-02-09_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 20-30 Willow Street | 20-30 Willow Street, East Rutherford, NJ |  |  |  | overlay |  | 26 |  | 20.0% | rental | approved | low | [doc](https://jerseydigs.com/30-willow-street-east-rutherford-affordable-housing/) |
+| AHO-B Zone (Block 26, Lots 1 and 2) |  | 26 | 1, 2 |  | overlay | 25.0 |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/9415803) |
+
+## Edgewater (Borough)
+
+_Obligation: 301 · Compliance: settled · HEFSP: adopted 2025-06-25_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 615 River Road (Hess Oil Terminal / Maxal) | 615 River Road, Edgewater, NJ |  |  | 18.7 | redevelopment-area |  | 1200 | 200 |  | rental | approved | low | [doc](https://jerseydigs.com/1200-unit-development-approved-615-river-rd-edgewater/) |
+| AH-2 Zone |  |  |  | 8.7 | overlay | 12.0 | 105 | 16 | 15.0% |  | adopted-ordinance | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7) |
+| Quanta Site (145 River Road / 225 River Road, Unit B) | 145 River Road and 225 River Road, Unit B, Edgewater, NJ |  |  |  | inclusionary-rezoning |  |  | 259 | 15.0% | rental | proposed | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7) |
+| 1339 River Road | 1339 River Road, Edgewater, NJ |  |  |  | inclusionary-rezoning |  |  | 5 |  |  | approved | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7) |
+| Edgewater Housing Authority (Rehabilitation Program) |  |  |  |  | municipal |  |  | 6 |  |  | adopted-ordinance | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/edgewater-boro/EdgewaterHEFSP.pdf?VersionId=_fd64NvVw2pPCoL9BWohXxUJvqQ71Hq7) |
+
+## Elmwood Park (Borough)
+
+_Obligation: 299 · Compliance: settled · HEFSP: adopted-amended 2025-06-26_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Market Street and Vicinity Redevelopment Area | Market Street and Vicinity, Elmwood Park, NJ |  |  |  | redevelopment-area |  |  |  |  |  | adopted-ordinance | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/elmwood-park-boro/LetterDated3.2.2026ProposedOrdinanceRepealingReplacingChapter37andProposedRedevelopmentPlan.pdf?VersionId=KM.WXWlOMnx2GOZNwnrwnwG1ZkAUvS9h) |
+| Block 902, Lots 3 & 4 Redevelopment |  | 902 | 3, 4 |  | redevelopment-area |  |  |  |  |  | adopted-ordinance | low | [doc](https://www.elmwoodparknj.us/elmwood-park-news/public-notices) |
+
+## Emerson (Borough)
+
+_Compliance: settled · HEFSP: adopted 2025-06-19_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Old Hook Road (Emerson Plaza / ShopRite Overlay) | 411-495 Old Hook Road, Emerson, NJ |  |  | 8.0 | overlay |  | 234 | 47 | 20.0% |  | proposed | low | [doc](https://gothamist.com/news/nj-officials-accused-of-hypocrisy-over-land-use-that-barred-homeless-shelter) |
+| Block 419 (Emerson Station) | Block 419, Emerson, NJ (CBD near train station) | 419 |  |  | redevelopment-area |  | 147 | 29 |  | rental | approved | low | [doc](https://thepressgroup.net/borough-tees-up-drastic-action-on-essentially-abandoned-block-419-redevelopment/) |
+| Block 610, Lot 1 (off-site affordable units) |  | 610 | 1 |  | 100pct-affordable |  | 7 | 7 | 100.0% |  | approved | low | [doc](https://thepressgroup.net/hearing-on-offsite-affordable-units-nov-4-land-use-board-gets-application-tied-to-block-419-redevelopment/) |
+
+## Englewood (City)
+
+_Obligation: 460 · Compliance: settled · HEFSP: adopted 2025-06-06_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Affordable Housing Overlay Zones (AHO) - Citywide (Ordinance 23-22) |  |  |  |  | overlay |  |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://www.cityofenglewood.org/DocumentCenter/View/3184/23-22-Affordable-Housing-Overlay-Zones-Ordinance) |
+| Englewood Commons | North side of Route 4, Englewood, NJ (Block 2517 area) | 2517 | 3.03 | 14.59 | redevelopment-area |  |  |  | 20.0% |  | approved | low | [doc](https://www.cityofenglewood.org/DocumentCenter/View/485/Notice-of-Proposed-Settlement-PDF) |
+| Englewood South Redevelopment Overlay Zone | South of Route 4, Englewood, NJ | 2602 | 3.01, 3.02, 3.03 |  | overlay |  |  |  | 20.0% |  | adopted-ordinance | low | [doc](https://ecode360.com/15514541) |
+| Flatrock Square | South side of Route 4, Englewood, NJ (Block 2605 area) | 2605 | 1.01, 1.02, 2.01, 2.02, 2.03, 2.04 | 19.0 | redevelopment-area |  | 195 |  | 20.0% | rental | approved | low | [doc](https://www.cityofenglewood.org/DocumentCenter/View/485/Notice-of-Proposed-Settlement-PDF) |
 
 ## Englewood Cliffs (Borough)
 

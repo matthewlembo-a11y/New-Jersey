@@ -1,9 +1,9 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T03:23:38+00:00_
+_Generated 2026-06-12T03:24:01+00:00_
 
-- Municipalities: **70/70**  (done: 18, in_progress: 12, blocked: 0, not_started: 40)
-- Sites catalogued: **77**
+- Municipalities: **70/70**  (done: 20, in_progress: 15, blocked: 0, not_started: 35)
+- Sites catalogued: **93**
 
 | # | Municipality | Status | Sites | Oblig. | Compliance | HEFSP | Last researched |
 |---|---|---|---|---|---|---|---|
@@ -17,11 +17,11 @@ _Generated 2026-06-12T03:23:38+00:00_
 | 8 | Cresskill | done | 1 | 155 | settled | adopted | 2026-06-12T03:22:07+00:00 |
 | 9 | Demarest | done | 3 |  | settled | adopted | 2026-06-12T03:22:07+00:00 |
 | 10 | Dumont | done | 2 |  | settled | adopted | 2026-06-12T03:22:07+00:00 |
-| 11 | East Rutherford | not_started | 0 |  |  |  |  |
-| 12 | Edgewater | not_started | 0 |  |  |  |  |
-| 13 | Elmwood Park | not_started | 0 |  |  |  |  |
-| 14 | Emerson | not_started | 0 |  |  |  |  |
-| 15 | Englewood | not_started | 0 |  |  |  |  |
+| 11 | East Rutherford | in_progress | 2 | 465 | settled | adopted-amended | 2026-06-12T03:23:52+00:00 |
+| 12 | Edgewater | done | 5 | 301 | settled | adopted | 2026-06-12T03:23:52+00:00 |
+| 13 | Elmwood Park | in_progress | 2 | 299 | settled | adopted-amended | 2026-06-12T03:23:52+00:00 |
+| 14 | Emerson | in_progress | 3 |  | settled | adopted | 2026-06-12T03:23:52+00:00 |
+| 15 | Englewood | done | 4 | 460 | settled | adopted | 2026-06-12T03:23:52+00:00 |
 | 16 | Englewood Cliffs | done | 3 | 329 | settled | adopted | 2026-06-12T03:22:07+00:00 |
 | 17 | Fair Lawn | in_progress | 0 |  |  |  | 2026-06-12T03:22:07+00:00 |
 | 18 | Fairview | in_progress | 2 | 117 | settled | adopted | 2026-06-12T03:22:07+00:00 |

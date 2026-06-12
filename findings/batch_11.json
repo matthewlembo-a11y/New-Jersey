@@ -1,0 +1,557 @@
+[
+  {
+    "municipality": "Ridgewood",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": 427,
+      "total_obligation": 4,
+      "rdp": 4,
+      "unmet_need": 0,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgewood-village/4thRoundAdoptedHousingPlan.pdf?VersionId=qJM0rLzgMeq5v63LgSsE6x80xC6CVTy5"
+    },
+    "compliance": {
+      "status": "litigating",
+      "settlement_party": "Fair Share Housing Center / Kensington Senior Development",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-07-01",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgewood-village/4thRoundAdoptedHousingPlan.pdf?VersionId=qJM0rLzgMeq5v63LgSsE6x80xC6CVTy5"
+    },
+    "notes": "DCA original prospective need was 427 units; after Vacant Land Adjustment (VLA), Ridgewood's Realistic Development Potential (RDP) was reduced to 4 units, all satisfied via existing housing credits (16 credits banked, only 4 required). Present need (rehabilitation) figure not confirmed in search results — set to null pending HEFSP review. HEFSP adopted by Planning Board July 1, 2025. In September 2025, Fair Share Housing Center and Kensington Senior Development sued after the Council rejected a zoning overlay for a proposed 125-bed assisted living facility at North Maple Ave (Block 3611, Lots 1, 19, 22), which was listed in the HEFSP. As of early 2026 the village was in court-mediated settlement talks with a Dec 31, 2025 compliance deadline. Ordinance #4052 defeated Aug 13, 2025; Ordinance #4071 (S-1 Senior Overlay) under consideration with a Feb 11, 2026 vote. Status coded in_progress because litigation/settlement outcome is unresolved.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "2025 Fourth Round Housing Plan Housing Element & Fair Share Plan – Village of Ridgewood",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgewood-village/4thRoundAdoptedHousingPlan.pdf?VersionId=qJM0rLzgMeq5v63LgSsE6x80xC6CVTy5"
+      },
+      {
+        "doc_type": "news",
+        "title": "Village of Ridgewood NJ Slashes Affordable Housing Mandate from 427 to Just 4 Units",
+        "url": "https://theridgewoodblog.net/village-of-ridgewood-nj-slashes-affordable-housing-mandate-from-427-to-just-4-units/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Ridgewood Sued Over Denied Senior Living Project — Affordable Housing at Risk",
+        "url": "https://theridgewoodblog.net/ridgewood-sued-over-denied-senior-living-project-affordable-housing-at-risk/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Kensington Proposal Explained – Ridgewood United",
+        "url": "https://ridgewood-united.com/the-proposal"
+      },
+      {
+        "doc_type": "other",
+        "title": "Village of Ridgewood – Fair Share Housing (municipal page)",
+        "url": "https://www.ridgewoodnj.net/projects-full/243-fair-share-housing"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Kensington Senior Living at North Maple Avenue",
+        "address": "North Maple Ave., Marshall St., and Franklin Ave., Ridgewood, NJ 07450",
+        "block": "3611",
+        "lot": "1, 19, 22",
+        "acreage": 1.3,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "S-1 Senior Overlay",
+        "density": null,
+        "total_units": 125,
+        "affordable_units": 13,
+        "set_aside_pct": 10,
+        "tenure": "rental",
+        "adoption_status": "proposed",
+        "developer": "Kensington Senior Development",
+        "source_url": "https://ridgewood-united.com/the-proposal",
+        "source_date": "2025",
+        "confidence": "low",
+        "notes": "125-bed assisted living facility; NJ licensing requires minimum 10% of beds for low/moderate income (13 beds). Council rejected Ordinance #4052 Aug 13, 2025; Ordinance #4071 pending vote Feb 11, 2026. Block/lot from news sources; acreage from news article. Unit count is beds, not dwelling units. Confidence low — from news sources."
+      },
+      {
+        "site_name": "The Enclave",
+        "address": "257 E. Ridgewood Ave., Ridgewood, NJ 07450",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "built",
+        "developer": null,
+        "source_url": "https://theridgewoodblog.net/village-of-ridgewood-nj-slashes-affordable-housing-mandate-from-427-to-just-4-units/",
+        "source_date": "2025",
+        "confidence": "low",
+        "notes": "Existing special-needs housing providing 1 fourth-round credit. Block/lot not found in search results."
+      },
+      {
+        "site_name": "Ridgewood Dayton",
+        "address": "150 S. Broad St., Ridgewood, NJ 07450",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "built",
+        "developer": null,
+        "source_url": "https://theridgewoodblog.net/village-of-ridgewood-nj-slashes-affordable-housing-mandate-from-427-to-just-4-units/",
+        "source_date": "2025",
+        "confidence": "low",
+        "notes": "Existing inclusionary family rental development providing 8 fourth-round credits. Block/lot not found in search results."
+      },
+      {
+        "site_name": "Chestnut Village",
+        "address": "150-174 Chestnut St., Ridgewood, NJ 07450",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "built",
+        "developer": null,
+        "source_url": "https://theridgewoodblog.net/village-of-ridgewood-nj-slashes-affordable-housing-mandate-from-427-to-just-4-units/",
+        "source_date": "2025",
+        "confidence": "low",
+        "notes": "Existing inclusionary family rental development providing 7 fourth-round credits. Block/lot not found in search results."
+      }
+    ]
+  },
+  {
+    "municipality": "River Edge",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": 33,
+      "prospective_need": 159,
+      "total_obligation": 192,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-edge-boro/62725RiverEdgeHousingElementFairSharePlanAdopted06252025Part1.pdf?VersionId=vA_9Fvs_gn.PHErVzivt2Rkj3fQUK5m4"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-25",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-edge-boro/62725RiverEdgeHousingElementFairSharePlanAdopted06252025Part1.pdf?VersionId=vA_9Fvs_gn.PHErVzivt2Rkj3fQUK5m4"
+    },
+    "notes": "HEFSP adopted by Land Use Board on June 25, 2025. Amended HEFSP adopted February 12, 2026. Obligation numbers (33 present / 159 prospective) come from DCA calculations referenced in search synthesis; not independently confirmed from official document text — use with caution. Ordinance #26-04 (adopted 2026) created inclusionary overlay zones for Block 1418 (Lots 1,2,3,3.01,4) and Block 203 (Lots 2,2.01,3,4), and also amended the AH-1 zone and New Bridge Landing Station Redevelopment Plan. Ordinance #26-05 replaced Chapter 50 (Affordable Housing) of Borough Code. For-sale inclusionary set-aside minimum 20%; rental minimum 15% per borough code. Specific settlement party name not found in search results. research_status coded in_progress because specific unit counts per site were not confirmed.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Housing Element & Fair Share Plan – Borough of River Edge, Adopted June 25, 2025",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-edge-boro/62725RiverEdgeHousingElementFairSharePlanAdopted06252025Part1.pdf?VersionId=vA_9Fvs_gn.PHErVzivt2Rkj3fQUK5m4"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of River Edge – Affordable Housing (municipal page)",
+        "url": "https://www.riveredgenj.org/departments/Administration/AffordableHousing"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "River Edge 2026 Ordinances (Ordinance #26-04, #26-05)",
+        "url": "https://www.riveredgenj.org/2026ordinances"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025–2035 Affordable Housing Calculations",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Block 1418 Inclusionary Overlay",
+        "address": null,
+        "block": "1418",
+        "lot": "1, 2, 3, 3.01, 4",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "Inclusionary Multifamily Overlay",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.riveredgenj.org/2026ordinances",
+        "source_date": "2026",
+        "confidence": "medium",
+        "notes": "Created by Ordinance #26-04 (2026). Specific total/affordable unit counts and address not found in search results. Set-aside: 20% for-sale or 15% rental per borough code, but which applies here is not confirmed."
+      },
+      {
+        "site_name": "Block 203 Inclusionary Overlay",
+        "address": null,
+        "block": "203",
+        "lot": "2, 2.01, 3, 4",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "Inclusionary Multifamily Overlay",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.riveredgenj.org/2026ordinances",
+        "source_date": "2026",
+        "confidence": "medium",
+        "notes": "Created by Ordinance #26-04 (2026). Specific total/affordable unit counts and address not found in search results."
+      },
+      {
+        "site_name": "New Bridge Landing Station Redevelopment Plan (amended)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.riveredgenj.org/2026ordinances",
+        "source_date": "2026",
+        "confidence": "low",
+        "notes": "Referenced in Ordinance #26-04 as being amended to incorporate affordable housing obligations. Block/lot and unit counts not found."
+      }
+    ]
+  },
+  {
+    "municipality": "River Vale",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 49,
+      "prospective_need": 179,
+      "total_obligation": 228,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/4491/Trv/4875afbe-1577-4f8b-8ec4-155fea2cd2a6/2025-0618_Adopted_River_Vale_HEFSP_with_Append.pdf?disposition=inline"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2025-04-14",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-18",
+      "hefsp_url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/4491/Trv/4875afbe-1577-4f8b-8ec4-155fea2cd2a6/2025-0618_Adopted_River_Vale_HEFSP_with_Append.pdf?disposition=inline"
+    },
+    "notes": "DCA original prospective need: 195 units; Township initially adopted 147 units (Resolution 2025-68, Jan 27, 2025); after FSHC settlement mediation, agreed to 179 prospective-need units. Present need (rehabilitation): 49 units per DCA. Settlement Agreement executed April 2, 2025; Program approved March 31, 2025; Superior Court Order entered April 14, 2025 (Hon. Gregg A. Padavano, J.S.C.). HEFSP adopted Planning Board June 18, 2025; Township Council June 23, 2025; submitted to state June 30, 2025. Amended HEFSP adopted February 2026 following subsequent Consent Order process (Case Management Order Oct 16, 2025; Consent Order deadline Dec 19, 2025). All implementing ordinances due by March 16, 2026.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Fourth Round Housing Element & Fair Share Plan – River Vale Township, Adopted June 18, 2025",
+        "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/4491/Trv/4875afbe-1577-4f8b-8ec4-155fea2cd2a6/2025-0618_Adopted_River_Vale_HEFSP_with_Append.pdf?disposition=inline"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Amendment to the Fourth Round Housing Element & Fair Share Plan – River Vale Township, February 2026",
+        "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/4491/Trv/6d7ad72a-3e62-42fd-bd8c-c69c980c3483/26-0206-Amended-River-Vale-HEFSP---Edited-as-per-Settlement-with-appendices.pdf?disposition=inline"
+      },
+      {
+        "doc_type": "news",
+        "title": "BREAKING: River Vale OKs 75 homes on nursery site to avoid bigger project, court fight — Pascack Press",
+        "url": "https://thepressgroup.net/breaking-river-vale-oks-75-homes-on-nursery-site-to-avoid-bigger-project-court-fight/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Big moves in River Vale: 179 units, $5M in bonds — Pascack Press",
+        "url": "https://thepressgroup.net/big-moves-in-river-vale-179-units-5m-in-bonds/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Judge To Rule On River Vale Affordable Housing Settlement Fairness — Pascack Press",
+        "url": "https://thepressgroup.net/judge-to-rule-on-river-vale-affordable-housing-settlement-fairness/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Township of River Vale – Affordable Housing (municipal page)",
+        "url": "https://www.rivervalenj.org/page/affordable-housing"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Forcellati Nursery Site (Incandescent Development)",
+        "address": "691-693 Rivervale Road, River Vale, NJ 07675",
+        "block": "813",
+        "lot": "17, 18",
+        "acreage": 5.4,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 75,
+        "affordable_units": 15,
+        "set_aside_pct": 20,
+        "tenure": "for-sale",
+        "adoption_status": "approved",
+        "developer": "Incandescent Development",
+        "source_url": "https://thepressgroup.net/breaking-river-vale-oks-75-homes-on-nursery-site-to-avoid-bigger-project-court-fight/",
+        "source_date": "2025",
+        "confidence": "low",
+        "notes": "Court-mediated compromise: developer originally sought 95 units; township previously denied 52 units. Block/lot from news article. 20% set-aside confirmed by news report. Tenure inferred as for-sale (townhomes/residential) but not explicitly confirmed."
+      },
+      {
+        "site_name": "CareOne Assisted Living and Skilled Nursing Facility",
+        "address": "2601-2621 Highway 138, River Vale, NJ",
+        "block": "745",
+        "lot": "4.01, 16",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": 32,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": "CareOne",
+        "source_url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/4491/Trv/4875afbe-1577-4f8b-8ec4-155fea2cd2a6/2025-0618_Adopted_River_Vale_HEFSP_with_Append.pdf?disposition=inline",
+        "source_date": "2025",
+        "confidence": "low",
+        "notes": "Ordinance No. 17-2024 adopted December 4, 2024 permitting assisted living/skilled nursing on Block 745, Lots 4.01 and 16. 32 beds restricted for low/moderate income households; affordability controls not less than 40 years. Note: data sourced from AI synthesis of HEFSP snippets — block/lot and address should be verified against the full HEFSP document. Address '2621 and 2601 Highway 138' came from search synthesis."
+      },
+      {
+        "site_name": "River Vale Senior Residence",
+        "address": "430 Cedar Ln, River Vale, NJ 07675",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 49,
+        "affordable_units": 49,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "built",
+        "developer": "Housing Authority of Bergen County (HABC)",
+        "source_url": "https://habcnj.org/housing_programs/our_buildings/river_vale_senior_residence.php",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Existing 100% affordable senior housing (62+); 49 one-bedroom ADA-accessible units subsidized via HUD Section 202. Managed by HABC. May count as existing credit toward present-need obligation. Block/lot not found."
+      }
+    ]
+  },
+  {
+    "municipality": "Rochelle Park",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": 10,
+      "prospective_need": 109,
+      "total_obligation": 119,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-25",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp"
+    },
+    "notes": "HEFSP prepared June 25, 2025 and filed with NJ Courts library. A revised version was issued December 2025 (second URL found: 4295.01DecRevisedHousingElement.pdf). Obligation: 10 rehabilitation units (present need); 109 prospective need units — HEFSP states 'production of 46.2 affordable dwelling units to satisfy the Fourth Round Housing Cycle.' Note that the 46.2 figure may reflect net new units after applying prior RDP credits; the 10+109 total comes from DCA calculations. Rehabilitation addressed through Bergen County Housing Rehabilitation Program. The 1st and 2nd round obligation was 64 units; township received first round Judgment of Compliance and repose in 1991. Settlement party not identified in search results. research_status coded in_progress because site-level block/lot data is incomplete.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "2025 Housing Element & Fair Share Plan – Township of Rochelle Park (Part 1, filed June 25, 2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "2025 Housing Element & Fair Share Plan – Township of Rochelle Park (December 2025 revised version)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/4295.01DecRevisedHousingElement.pdf?VersionId=tGq1Fv.gj4MezrQbpzIBzT3z1UZ6q2XL"
+      },
+      {
+        "doc_type": "other",
+        "title": "Township of Rochelle Park – Official Website",
+        "url": "https://rochelleparknj.gov/"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025–2035 Affordable Housing Calculations",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "The Delford at Village Center",
+        "address": "120 W. Passaic St., Rochelle Park, NJ 07662",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 160,
+        "affordable_units": 24,
+        "set_aside_pct": 15,
+        "tenure": "rental",
+        "adoption_status": "built",
+        "developer": "Tulfra Real Estate",
+        "source_url": "https://www.piazzanj.com/property/the-delford-at-village-center/",
+        "source_date": "2024",
+        "confidence": "low",
+        "notes": "160-unit luxury rental; 136 market-rate and 24 affordable (very low, low, moderate income). Opened 2024. Lottery held February 2024. This is an existing built project likely counting toward prior-round or fourth-round credits. Block/lot not found in search results. Developer Tulfra Real Estate confirmed. Set-aside ~15% (24/160) consistent with rental set-aside under A4/S50."
+      },
+      {
+        "site_name": "West Passaic Street Site (29 Fairfield Dr / 70 W. Passaic St)",
+        "address": "29 Fairfield Dr / 70 W. Passaic St., Rochelle Park, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": 1.3,
+        "mechanism": null,
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp",
+        "source_date": "2025-06-25",
+        "confidence": "low",
+        "notes": "Identified as 'Site 1' in HEFSP search excerpts. 1.3-acre irregular parcel at Passaic Street and Fairfield Drive extending to Plaza Way. Currently developed with a dwelling and two detached garages. Unit counts, block/lot, and mechanism not confirmed."
+      },
+      {
+        "site_name": "375 West Passaic Street Site",
+        "address": "375 West Passaic St., Rochelle Park, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": null,
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp",
+        "source_date": "2025-06-25",
+        "confidence": "low",
+        "notes": "Mentioned in HEFSP search synthesis. No block/lot, acreage, unit counts, or mechanism confirmed in search results."
+      }
+    ]
+  },
+  {
+    "municipality": "Rockleigh",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 0,
+      "prospective_need": 14,
+      "total_obligation": 14,
+      "rdp": 14,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-23",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj"
+    },
+    "notes": "Rockleigh is designated a National Historic District in northeast Bergen County; approximately 650 acres, almost entirely built out with single-family residences. Resolution #2025-19 (adopted January 28, 2025) agreed to 0 present need and 14 prospective need. HEFSP public hearing held June 23, 2025. Vacant Land Analysis disclosed only 1 available vacant parcel (Borough-owned, retained for future public purpose) — this limits RDP. Borough relies on Accessory Apartment Program (up to 5 creditable units, subsidized at $35,000/unit for very-low-income or $20,000/unit for moderate-income) to meet prospective need. Existing Spectrum for Living group home (16-bed supervised apartment, CO October 1998) provides 4 prior-round credits with 12 surplus. Settlement party name not found in search results. research_status coded done because all core data found.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "2025 Fourth Round Housing Element and Fair Share Plan – Borough of Rockleigh (filed June 24, 2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Rockleigh – Planning Department/HPC",
+        "url": "https://www.rockleighnj.org/planning-hpc"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Rockleigh – Affordable Housing Code (eCode360)",
+        "url": "https://ecode360.com/34757372"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025–2035 Affordable Housing Calculations",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Spectrum for Living Supervised Apartment Complex",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "group-home",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 16,
+        "affordable_units": 16,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "built",
+        "developer": "Spectrum for Living",
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj",
+        "source_date": "2025",
+        "confidence": "medium",
+        "notes": "50-year site lease from Borough at $10/year executed July 1996; CO October 1998. 16-person supervised apartment complex for low-income individuals with developmental disabilities (Medicaid beneficiaries). Only 4 of 16 beds credited to Round 2 obligation; 12-bed surplus carried forward. Block/lot not found in search results. Address not confirmed."
+      },
+      {
+        "site_name": "Accessory Apartment Program",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "accessory-apt",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": 5,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj",
+        "source_date": "2025",
+        "confidence": "medium",
+        "notes": "Maximum 5 creditable accessory apartments as may be approved by Superior Court. Borough subsidy: $35,000/unit for very-low-income or $20,000/unit for moderate-income. Apartments to have 2-3 bedrooms. No restriction on number of bedrooms in ordinance. This is the primary mechanism proposed to meet the 14-unit prospective need obligation."
+      }
+    ]
+  }
+]
