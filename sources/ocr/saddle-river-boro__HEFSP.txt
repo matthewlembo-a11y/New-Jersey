@@ -1,0 +1,3715 @@
+
+===== PAGE 1 =====
+ 
+i 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BA#: 4166.02 
+ 
+ 
+ 
+Master Plan Element  
+Housing Element and 
+Fair Share Plan 
+Adopted June 25, 2025 
+Borough of Saddle River | Bergen County, New Jersey 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 1 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 2 =====
+BER-L-000517-25
+06/27/2025 10:19:17 AM
+Pg2of50
+Trans ID: LCV20251872145
+ii
+
+===== PAGE 3 =====
+Community Planning 
+Principals: 
+Land Development and Design 
+Joseph H. Burgis PP, AICP 
+Landscape Architecture 
+Edward Snieckus, Jr. PP, LLA, ASLA 
+ 
+David Novak PP, AICP  
+iii 
+ 
+b a 
+B
+U
+R
+G
+I
+S 
+A S S O C I A T E S,  I N C. 
+ 
+ 
+ 
+ 
+Housing Element and 
+Fair Share Plan 
+ 
+Borough of Saddle River 
+Bergen County, New Jersey 
+ 
+ 
+Prepared for the Borough of Saddle River 
+Planning Board 
+BA# 4166.02 
+ 
+ 
+The original document was appropriately signed and sealed on June 12, 2025 in accordance with 
+Chapter 41 of Title 13 of the State Board of Professional Planners 
+ 
+ 
+ 
+ 
+_______________________________ 
+ 
+Joseph H. Burgis, AICP, PP 
+Professional Planner #2450 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 3 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 4 =====
+ 
+iv 
+ 
+Members of the Borough of Saddle River Planning Board 
+ 
+Albert J. Kurpis, Mayor 
+Richard Molinari 
+David Hekemian, Council President 
+Nicholas Lonzisero, Chair 
+Carol Boyajian, Vice Chair 
+Jerry DeCrosta, Secretary 
+Gerald Bedrin 
+Edward Wishik 
+Patricia Nazzaro 
+Dior Vass, Alternate #1 
+Nicholas Botta, Alternate #2 
+ 
+Planning and Zoning Board Secretary 
+Luis DePaz 
+Planning Board Attorney 
+Thomas S. DiBiasi, Esq. 
+ 
+Borough Affordable Housing Attorney 
+Jon Drill, Esq. 
+Stickel, Koenig, Sullivan & Drill, LLC 
+ 
+Planning Board Engineer 
+Martin Spence, PE 
+Spence Engineering 
+Borough Planning Consultant 
+Joseph H. Burgis PP, AICP 
+Burgis Associates, Inc. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 4 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 5 =====
+ 
+v 
+ 
+Contents 
+Executive Summary ....................................................................................................................................... 1 
+First and Second Round Obligations ......................................................................................................... 1 
+Fourth Round Obligation............................................................................................................................... 3 
+Section 1: Introduction to Affordable Housing ............................................................................................. 5 
+What is Affordable Housing? ...................................................................................................................... 5 
+What is the History of Affordable Housing in New Jersey? .............................................................. 7 
+What is a Housing Element and Fair Share Plan? ................................................................................ 9 
+Section 2: Housing Element............................................................................................................................. 11 
+2.1: Community Overview............................................................................................................................ 12 
+2.2: Demographic and Population Data .................................................................................................. 16 
+Population Changes .................................................................................................................................. 16 
+Age Characteristics ................................................................................................................................... 16 
+Household Tenure and Occupancy ...................................................................................................... 18 
+Average Household Size ......................................................................................................................... 18 
+Household Income .................................................................................................................................... 18 
+2.3: Inventory of Housing Stock................................................................................................................. 19 
+Number of Housing Units ....................................................................................................................... 19 
+Units in Structure for Occupied Units; Purchase and Rental Value of Housing Units; 
+Specified Renter Occupied Housing Units by Rent, 2010-2023; Deficient Housing Units ... 20 
+2.4: Housing and Employment Projection .............................................................................................. 22 
+Recent Residential Development Activity ........................................................................................... 22 
+Covered Employment .............................................................................................................................. 23 
+Section 3: Fair Share Obligation ..................................................................................................................... 25 
+3.1: Summary of Fair Share Obligation .................................................................................................... 25 
+3.2: Realistic Development Potential (RDP) ............................................................................................ 26 
+Section 4: Fair Share Plan ................................................................................................................................. 32 
+4.1: Prior Round Obligations and Status.................................................................................................. 32 
+Block 1605 Lots 1 and 2 ........................................................................................................................ 38 
+4.6: Consistency with State Planning Initiatives ............................................................................... 42 
+Multigenerational Family Housing Continuity Commission ................................................... 42 
+State Development and Redevelopment Plan ............................................................................. 42 
+Appendices .......................................................................................................................................................... 44 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 5 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 6 =====
+ 
+vi 
+ 
+Table of Figures 
+ 
+Table 1: Affordable Housing Obligation Summary ......................................................................... 1 
+Table 2: 1st and 2nd Round Plan Components ............................................................................... 2 
+Table 3: Third Round Plan Components, Borough of Saddle River, New Jersey ........................... 3 
+Table 4: 2024 Affordable Housing Regionn 1 Income Limits by Household SDize……………..6 
+Table 5: Existing Land Uses ............................................................................................................ 13 
+Table 6: Population Growth, 1950-2023 ....................................................................................... 16 
+Table 7:  Age Characteristics, 2010-2023 ...................................................................................... 17 
+Table 8: Owner-Occupied and Renter-Occupied Units, 2010-2023 ........................................... 18 
+Table 9: Average Household Sizes, 2010-2023 ............................................................................ 18 
+Table 10: Household Income, 2010-2023 ..................................................................................... 19 
+Table 11: Housing Units, 1980-2023 .............................................................................................. 20 
+Table 12: Units in Structure, 2010-2023 ........................................................................................ 20 
+Table 13: Value of Owner-Occupied Units, 2010-2023 ................................................................. 21 
+Table 14: Specified Renter Occupied Housing Units by Rent, 2010-2023 ................................... 21 
+Table 15: Occupants Per Room (2023) ......................................................................................... 22 
+Table 16: Plumbing and Kitchen Facilities (2023) .......................................................................... 22 
+Table 17: Residential Building Permits and Demolition Permits ................................................... 22 
+Figure 1: Covered Employment Units, 2013-2023 ........................................................................ 23 
+Figure 2: Covered Employment, 2013-2023 .................................................................................. 24 
+Table 18: Summary of Fair Share Obligation ................................................................................ 25 
+Table 19: Calculation of RDP For 3rd Round Settlement ............................................................... 27 
+Table 20: Vacant Land Adjustment/RDP Depicting 3rd and 4th Round Contributing Sites (4th 
+Round Contributing Site in Bold) .................................................................................................. 28 
+Table 21: Affordable Housing Obligation Summary..................................................................... 32 
+Table 22: Preliminary Draft Zoning Regulations for 20-22 E. Allendale Road……………………………..40 
+Table of Maps 
+ 
+Map 1: Community Overview ........................................................................................................ 14 
+Map 2: Existing Land Use ................................................................................................................ 15 
+Map 3: Vacant Land Adjustment .................................................................................................. 31 
+Map 4: Prior Round Components ............................................................................................... 411 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 6 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 7 =====
+ 
+1 
+ 
+Executive Summary 
+The 2025 Borough of Saddle River Housing Element and Fair Share Plan (HE&FSP) of the Master Plan 
+is designed to address the way in which Saddle River will fulfill its affordable housing obligations.  
+These obligations and the manner in which they are addressed are derived from a variety of sources, 
+including regulatory provisions from the Council on Affordable Housing (COAH), prior settlement 
+agreements with Fair Share Housing Center (FSHC), and the most recent legislation on the 4th Round 
+of the affordable housing issue and associated calculations by the Department of Community Affairs 
+(DCA). 
+These obligations are summarized as follows: 
+Table 1: Affordable Housing Obligation Summary 
+Category 
+Obligation 
+First and Second Round Obligation (1987-1999) 
+162 units 
+Third Round Obligation (1999-2025) 
+244 units reduced to 132 
+RDP units & 112 unit 
+unmet need  
+Fourth Round Present Need (Rehabilitation) Obligation 
+(2025-2035) 
+76 units reduced to 6 
+units through structural 
+conditions survey 
+Fourth Round Prospective Need (Future Need) 
+Obligation (2025 -2035 
+249 units reduced to 6 
+RDP units and 243 unmet 
+need 
+ 
+The following summarizes how the Borough has addressed its affordable housing obligations in each 
+round of the state’s affordable housing process. 
+First and Second Round Obligations 
+The Borough of Saddle River has prepared a number of Housing Elements and Fair Share Plans over 
+the years to affirmatively address its affordable housing obligations. With respect to the Borough’s 
+combined 1st and 2nd Round obligations, the Borough adopted a HE&FSP in 1994, which 
+affirmatively addressed the entirety of its 1987-1999 pre-credited housing-need obligation of 162 
+units.  This was accomplished through a combination of new construction family units, senior housing 
+units, regional contribution agreements (RCAs) and bonus credits.  The Plan’s 1st and 2nd Round 
+components that addressed this 162-unit obligation are noted in the accompanying table. 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 7 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 8 =====
+ 
+2 
+ 
+Table 2: 1st and 2nd Round Plan Components 
+Plan Component 
+Units/Credits 
+Status 
+Villa Marie Claire – 
+Senior/Alternative Living 
+Arrangement 
+18 units 
+Completed 
+Saddle River Properties 
+Block 1302 Lots 1, 3 and 4 
+ 
+ 
+57 family sale units 
+19 senior rental units 
+6 senior rental bonus 
+credits 
+Completed 
+RCA – City of Passaic 
+18 units 
+Completed 
+RCA – Borough of Ridgefield 
+22 units 
+Completed 
+RCA – Borough of Ogdensburg 
+22 units 
+Completed 
+TOTAL UNITS 
+162 units 
+Completed 
+TOTAL OBLIGATION 
+162 units 
+Completed 
+ 
+  
+Third Round Obligation 
+A Settlement Agreement signed by the Borough and FSHC dated June 9, 2020 established for 
+purposes of settlement the Borough’s prospective need at 244 units for the 3rd Round.  The Borough 
+was also determined to have a 6 unit rehabilitation obligation.   
+A subsequent vacant land adjustment (VLA) and realistic development potential (RDP) analysis 
+reduced the number to a 132-unit RDP and a 112-unit unmet need. The settlement identifies the way 
+the Borough  addresses this obligation. The following table identifies the Plan’s sites that were 
+adopted to address the RDP and unmet need components. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 8 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 9 =====
+ 
+3 
+ 
+Table 3: Third Round Plan Components, Borough of Saddle River, New Jersey 
+Plan Component 
+Total Dwellings 
+Affordable 
+Units/Credits 
+Status 
+Prospective Round RDP 
+Mechanisms: 
+E. Allendale Rd Bl 1402 
+Lots 23, 24 & 25  
+Algonquin Trail Bl 1603 
+Lots 1 & 2.01  
+ 
+Choctau Trail Bl 1601 Lots 
+10, 10.01 & 11 
+ 
+ 
+20 E. Allendale Rd Bl 1605 
+Lot 1 
+ 
+60 (52 mkt rate 8 
+Affordable units)  
+ 
+60 (48 mkt rate & 12 
+affordable units) 
+ 
+79 units of 111 unit, 
+100% affordable 
+project  
+ 
+23 units (100% 
+affordable project) 
+ 
+8 units 
+ 
+ 
+12 units 
+ 
+79 units assoc 
+w/3rd Round 
+Plan + 32 bonus 
+credits = 111 
+credits 
+ 
+ 23 units 
+ 
+Site plan filed.  
+ 
+Site plan filed. PH 
+commenced 6/17/25 
+ 
+Under construction 
+ 
+ 
+Awaiting site plan 
+filing 
+Unmet Need Mechanisms 
+ Boroline Rd Bl 1302 Lots 
+1.02, 1.03 & 1.04 
+ 
+Overlay Zoning atop 
+PUD zone 
+ 
+ 30 units/acre 
+ 
+ 
+site plan approved 
+on Lot 1.04 
+w/conditions for 275 
+du incl 18 family AH 
+units & 15 supportive 
+housing units  = 37 
+AH credits 
+ 
+The plan also included a mandatory set-aside ordinance requiring any additional new multifamily 
+residential development of five units or more to include a minimum 20% affordable housing set-
+aside. 
+ 
+Fourth Round Obligation 
+The Borough has a 4th Round prospective need of 249 units and a rehabilitation obligation of 75 
+units.  A site inspection by the Borough construction official determined the Borough’s rehabilitation 
+obligation is actually 6 units.  A vacant land analysis (VLA) was undertaken and a determination was 
+made that the Brough’s prospective need number is reduced to a realistic development potential 
+(RDP) of 6 units. All of this is detailed in the body of this report. 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 9 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 10 =====
+ 
+4 
+ 
+The Borough’s 4th Round Plan to address the 6 unit RDP is through a rezoning of property at 20-22 
+East Allendale Road (Block 1605 Lots 1 and 2), to enable it to be developed as a 42 unit 100 percent 
+affordable project.  The Michael’s Organization, the developer of the Choctau Trail site noted above, 
+shall be the developer of this property.  Additionally, the remaining 32 affordable units on the 
+Choctau Trail site (11 units provided less the 79 units that are allocated to the 3rd Round obligation as 
+noted above) are allocated as 4th Round Unmet Need units.  
+Structure of Report 
+This 2025 HE&FSP is divided into the following sections: 
+❖ Section 1: Introduction 
+The first section of the 2025 HE&FSP introduces what constitutes affordable housing. identifies what 
+affordable housing is, offers an overview of the history of affordable housing in the state, and 
+explains the role of a housing element and fair share plan as a component of the municipal master 
+plan. 
+❖ Section 2: Housing Element 
+Section 2 contains the Housing Element for the Borough. It offers an overview of the community, with 
+information regarding the Borough’s existing land use, population, housing, and employment 
+characteristics. It also provides a projection of the Borough’s housing stock and employment 
+projections through the 4th Round period.   
+❖ Section 3: Fair Share Obligation 
+Next, Section 3 provides an overview of the Borough’s fair share obligation. It includes a brief history 
+of the methodologies utilized to calculate affordable housing obligations throughout the state. 
+❖ Section 4: Fair Share Plan 
+Finally, Section 4 details the manner in which the Borough has addressed its prior obligations and 
+how it will address its 4th Round prospective need obligations.  
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 10 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 11 =====
+ 
+5 
+ 
+Section 1: Introduction to Affordable Housing 
+The following section is an introduction to the issue of affordable housing. It identifies what affordable 
+housing is, offers an overview of the history of affordable housing in the state, and explains the role 
+of a housing element and fair share plan as a component of the municipal master plan. 
+What is Affordable Housing? 
+Affordable housing is income-restricted housing that is available for sale or for rent. Generally 
+speaking, it is defined as housing for very-low, low-, and moderate-income households (noted 
+below), although there are exceptions, such as specific types of special-needs housing. The categories 
+are derived from the state’s median regional income limits (which for the current year are noted in the 
+table below).  
+New Jersey is segmented into six different affordable housing regions. Saddle River is located in 
+Region 1 which includes Bergen, Hudson, Passaic, and Sussex Counties.  
+  
+ 
+ 
+ 
+Moderate-Income 
+Households 
+Earn 80% of the region’s 
+median income 
+Low-Income Households 
+Earn 50% of the region’s 
+median income 
+Very Low-Income 
+Households 
+Earn 30% of the region’s 
+median income 
+ 
+ 
+ 
+Regional income limitations are typically updated annually by the state, based on household size. The 
+table below identifies the 2024 regional income limits by household size for Region 1. As an example, 
+as shown, a three-person family with a household income of up to $86,697 could qualify for 
+affordable housing in this housing region. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 11 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 12 =====
+ 
+6 
+ 
+Table 4: 2024 Affordable Housing Region 1 Income Limits by Household Size 
+INCOME LEVEL 
+2 PERSON 
+3 PERSON 
+4 PERSON 
+5 PERSON 
+MEDIAN 
+$96,329 
+$108,371 
+$120,412 
+$130,045 
+MODERATE 
+$77,064 
+$86,697 
+$96,329 
+$104,036 
+LOW 
+$48,165 
+$54,185 
+$60,206 
+$65,022 
+VERY-LOW 
+$28,899 
+$32,511 
+$37,568 
+$39,013 
+ 
+One of the most common forms of affordable housing is inclusionary development, in which a certain 
+percentage of units within a multifamily or townhouse development are reserved for affordable 
+housing. Nevertheless, affordable housing can be found in a variety of other forms, including but not 
+limited to one hundred percent affordable housing developments, deed-restricted accessory 
+apartments, assisted living facilities, alternating arrangements such as supportive housing or group 
+homes, and age restricted housing. 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 12 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 13 =====
+ 
+7 
+ 
+What is the History of Affordable Housing in New Jersey? 
+The history of affordable housing in New Jersey can be traced back to 
+1975, when the Supreme Court first decided in So. Burlington Cty. 
+NAACP v. Township of Mount Laurel (known as Mount Laurel I) that 
+every developing municipality in New Jersey had an affirmative 
+obligation to provide for its fair share of affordable housing. In a 
+subsequent decision in 1983 (known as Mount Laurel II), the Court 
+acknowledged that the vast majority of municipalities had ignored their 
+constitutional obligation to provide affordable housing.  
+As such, the Court refined this obligation to establish that every 
+municipality had an obligation, although those within the growth area 
+of the State Development and Redevelopment Plan (SDRP) had a 
+greater obligation. The Court also called for the state’s legislature to 
+enact legislation that would save municipalities from the burden of 
+having the courts determine their affordable housing needs. The result 
+of this decision was the adoption of the Fair Housing Act (FHA) in 1985 
+as well as the creation of the New Jersey Council on Affordable Housing 
+(COAH), which became the state agency responsible for overseeing the 
+way New Jersey’s municipalities address their low and moderate income 
+housing needs. 
+COAH proceeded to adopt regulations for the First Round obligation, 
+which covered the years 1987 to 1993. It also established the Second 
+Round housing-need numbers that cumulatively covered the years 
+1987 through 1999. Under both the First and Second Rounds, COAH 
+utilized what is commonly referred to as the “fair share” methodology. 
+COAH utilized a different methodology, known as “growth share,” 
+beginning with its efforts to prepare Third Round housing-need 
+numbers. The Third Round substantive and procedural rules were first 
+adopted in 2004. These regulations were challenged and in January 
+2007, the Appellate Division invalidated various aspects of these rules 
+and remanded considerable portions of the rules to COAH with the 
+directive to adopt revised regulations. 
+In May 2008, COAH adopted revised Third Round regulations which 
+were published and became effective on June 2, 2008. At the same 
+time, COAH proposed amendments to the rules they had just adopted, 
+which subsequently went into effect in October 2008. These 2008 rules 
+and regulations were subsequently challenged, and in an October 2010 
+decision the Appellate Division invalidated the Growth Share 
+methodology and indicated that COAH should adopt regulations 
+pursuant to the Fair Share methodology utilized in Rounds One and 
+Two. The Supreme Court affirmed this decision in September 2013, 
+which invalidated much of the third iteration of the Third Round 
+2015: Mount Laurel IV
+COAH defunct and moribund. All 
+affordable housing matters to be heard 
+by courts
+1986: Mount Laurel III
+Every municipality has an obligation if any 
+portion of municipality was within the 
+“Growth Share Area” of the State 
+Development and Redevelopment Plan
+1983: Mount Laurel II
+Every municipality has an obligation, with 
+a particulkar emphasis on towns in the 
+“Growth Share Area” of the State 
+Development and Redevelopment Plan
+1975: Mount Laurel I
+Every developing municipality has an 
+affordable housing obligation
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 13 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 14 =====
+ 
+8 
+ 
+regulations and sustained the invalidation of growth share. As a result, 
+the Court directed COAH to adopt new regulations pursuant to the 
+methodology utilized in Rounds One and Two. 
+Deadlocked at a 3-3 vote, COAH failed to adopt newly revised Third 
+Round regulations in October 2014. FSHC, who was a party in both the 
+2010 and 2013 cases, responded by filing a motion in aid of litigants’ 
+rights with the New Jersey Supreme Court. The Court heard the motion 
+in January 2015, and issued its ruling on March 20, 2015. The Court 
+ruled that COAH was effectively dysfunctional and consequently 
+returned jurisdiction of affordable housing issues back to the trial courts 
+where it had originally been prior to the creation of COAH in 1985. 
+This 2015 Court decision created a process whereby municipalities 
+may file a declaratory judgment action seeking a declaration that 
+their HE&FSP is constitutionally compliant and receive temporary 
+immunity from affordable housing builders’ remedy lawsuits while 
+preparing a new or revised HE&FSP.  
+The Supreme Court subsequently ruled on January 18, 2017 that 
+municipalities are also responsible for obligations accruing during 
+the so-called “gap period,” the period of time between 1999 and 
+2015 when COAH was not able to adopt 3rd Round regulations.  
+The Court stated that the gap obligation should be calculated as a 
+never-before calculated component of Present Need, which would 
+serve to capture Gap Period households that were presently in 
+need of affordable housing as of the date of the Present Need 
+calculation (i.e. that were still income eligible, were not captured as 
+part of traditional present need, were still living in New Jersey and 
+otherwise represented a Present affordable housing need). 
+On March 20, 2024, the State of New Jersey adopted a package of 
+affordable housing bills which overhauled the Fair Housing Act. This legislation ultimately eliminated 
+COAH and split its duties and functions between the Department of Community Affairs (DCA) and the 
+Administrative Office of the Courts (AOC). 
+DCA was designated by the legislation as the entity responsible for calculating the state’s regional 
+needs as well as each municipality’s present and prospective fair share obligations pursuant to the 
+Jacobson Decision. However, the legislation makes clear that these numbers are advisory and that 
+each municipality must set its own obligation number utilizing the same methodology. Meanwhile, the 
+Affordable Housing Dispute Resolution Program (the “Program”) within the AOC was directed to 
+handle any disputes regarding affordable housing obligations and plans as part of the first step in the 
+new process. 
+2024: A-4/S-50
+New Jersey adopts new legslation which 
+overhauls the FHA. COAH is elimianted, 
+and its duties are split between the DCA 
+and the AOC. 
+2018: Jacobson Decision
+Established methodology in Mercer 
+County for determining housing 
+obligation. Utilized statewide for 
+settlement purposes
+2017: Gap Period
+Finds that gap period (1999-2015) 
+generates an affordable housing 
+obligation
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 14 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 15 =====
+ 
+9 
+ 
+What is a Housing Element and Fair Share Plan? 
+A Housing Element and Fair Share Plan (HE&FSP) serves as the blueprint for how a municipality will address its 
+fair share of affordable housing. It is designed to help a community broaden the accessibility of affordable 
+housing.  
+While technically a discretionary component of a municipal 
+master plan, a HE&FSP is nevertheless effectively an obligatory 
+plan element. As established by NJSA 40:55D-62a of the 
+Municipal Land Use Law (MLUL), a municipality must have an 
+adopted HE&FSP to enact a zoning ordinance. Thus, from a 
+public policy perspective, a HE&FSP is an essential document 
+that also ensures that the municipality has the right to zone. 
+Moreover, without a HE&FSP, a municipality may be susceptible 
+to a builder’s remedy lawsuit in which a developer could file a lawsuit to have a specific piece of property 
+rezoned to permit housing at higher densities than a municipality would otherwise allow, provided a certain 
+percentage of units are reserved as affordable units. 
+ 
+The Fair Housing Act (FHA), which was adopted in 1985 and has been amended multiple times since 
+then, establishes the required components of a HE&FSP. These are summarized as follows: 
+1. 
+An inventory of the municipality’s housing stock by age, condition, purchase or rental value, 
+occupancy characteristics, and type, including the number of units affordable to low- and 
+moderate-income households and substandard housing capable of being rehabilitated. 
+2. 
+A projection of the municipality’s housing stock, including the probable future construction of 
+low- and moderate-income housing, for the next ten years, taking into account, but not 
+necessarily limited to, construction permits issued, approvals of applications for development 
+and probable residential development of lands. 
+3. 
+An analysis of the municipality’s demographic characteristics, including but not necessarily 
+limited to, household size, income level and age. 
+4. 
+An analysis of the existing and probable future employment characteristics of the municipality. 
+5. 
+A determination of the municipality’s present and prospective fair share for low- and 
+moderate-income housing and its capacity to accommodate its present and prospective 
+housing needs, including its fair share for low- and moderate-income housing. 
+6. 
+A consideration of the lands that are most appropriate for construction of low- and moderate-
+income housing and the existing structures most appropriate for conversion to, or 
+rehabilitation for, low- and moderate-income housing, including a consideration of lands of 
+developers who have expressed a commitment to provide low- and moderate-income 
+housing. 
+The Municipal Land Use Law (MLUL) 
+is the enabling legislation for 
+municipal land use and development, 
+planning, and zoning for the State of 
+New Jersey.  
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 15 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 16 =====
+ 
+10 
+ 
+7. 
+An analysis of the extent to which municipal ordinances and other local factors advance or 
+detract from the goal of preserving multigenerational family continuity as expressed in the 
+recommendations of the Multigenerational Family Housing Continuity Commission. 
+8. 
+For a municipality located within the jurisdiction of the Highlands Water Protection and 
+Planning Council, an analysis of compliance of the housing element with the Highlands 
+Regional Master Plan of lands in the Highlands Preservation Area, and lands in the Highlands 
+Planning Area for Highlands conforming municipalities. 
+9. 
+An analysis of consistency with the State Development and Redevelopment Plan, including 
+water, wastewater, stormwater, and multi-modal transportation based on guidance and 
+technical assistance from the State Planning Commission. 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 16 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 17 =====
+ 
+11 
+ 
+Section 2: Housing Element 
+The following section provides the housing element for the Borough of Saddle River. It offers an overview 
+of its community, as well as back information regarding its population, housing, and employment 
+characteristics. It also provides a projection of the Borough’s housing stock and its employment 
+projections. 
+ 
+1. United States Decennial 
+Census 
+The US Census is described in Article I, Section 2 
+of the Constitution of the United States, which 
+calls for an enumeration of the people every ten 
+years for the apportionment of seats in the 
+House of Representatives. Since the time of the 
+first Census conducted in 1790, it has become 
+the leading source of data about the nation’s 
+people and economy. Please note that all 
+incomes reported in the Census are adjusted for 
+inflation. 
+4. New Jersey Department of 
+Community Affairs (DCA) 
+The New Jersey Department of Community 
+Affairs is a governmental agency of the State 
+of New Jersey. Its function is to provide 
+administrative guidance, financial support, 
+and technical assistance to local 
+governments, community development 
+organizations, businesses, and individuals to 
+improve the quality of life in New Jersey. 
+ 
+2. American Community Survey 
+(ACS) 
+The American Community Survey is a 
+nationwide ongoing survey conducted by the 
+US Census Bureau. The ACS gathers information 
+previously contained only in the long form 
+version of the decennial census, such as age, 
+ancestry, educational attainment, income, 
+language proficiency, migration, disability, 
+employment, and housing characteristics. It 
+relies upon random sampling to provide 
+ongoing, monthly data collection. Please note 
+that all incomes reported in the ACS are 
+adjusted for inflation. 
+5. New Jersey Department of Labor 
+and Workforce Development 
+The New Jersey Department of Labor and 
+Workforce Development is a governmental 
+agency of the State of New Jersey. One of its 
+roles is to collect labor market information 
+regarding employment and wages 
+throughout the state.  
+ 
+3. New Jersey Department of Health 
+The New Jersey Department of Health is a 
+governmental agency of the State of New 
+Jersey. The department contains the Office of 
+Vital Statistics and Registry, which gathers data 
+regarding births, deaths, marriages, domestic 
+partnerships, and civil unions. 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 17 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 18 =====
+ 
+12 
+ 
+2.1: Community Overview 
+The Borough of Saddle River, located in northwestern Bergen County, occupies an area of 
+approximately five square miles.  It is bordered by seven municipalities, including Upper Saddle River 
+to the north, Woodcliff Lake and Hillsdale to the east, Ho-Ho-Kus and Waldwick to the south, and 
+Allendale and Ramsey to the west.  Regional access to the Borough is provided by Route 17, which 
+runs north-south through the western portion of the Borough.     
+Access is provided to the Borough by several County roadways including East and West Saddle River 
+Roads, and State Highway Route 17, all of which provide north-south access to and from the 
+municipality.  Additionally, East Allendale Road provides east-west access through the community in 
+the central portion of the Borough, extending from Chestnut Ridge Road westward into the adjoining 
+Borough of Allendale.  Other east-west roadways include Upper Cross Road and Lower Cross Road. 
+Nearby is the Garden State Parkway, with access to that regional roadway available a short distance 
+away in Woodcliff Lake.   
+The Borough is a fully developed municipality with little vacant land remaining for development.  The 
+majority of vacant land that is in the municipality is environmentally constrained and/or consists of 
+isolated lots lacking street frontage or are too small to accommodate significant development. 
+The majority of the community is developed with single-family dwellings on minimum two acre lots, 
+which is a function of the fact that nearly the entire municipality is served by septic systems and 
+individual water wells.  The municipality is also characterized by a small commercial district located 
+around the intersection of East Allendale Road with East and West Saddle River Roads.  
+The distribution of existing development by acreage and percentage is shown on the accompanying 
+table.  The table details that nearly 80 percent of the municipality is developed residentially whereas 
+less than 2 percent is developed each with commercial use, houses of worship and other charitable 
+uses.  
+The following two maps depict the Borough’s road network (Community Overview Map) and 
+distribution of uses (Existing Land Use Map). 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 18 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 19 =====
+ 
+13 
+ 
+ 
+Table 5: Existing Land Uses 
+Land Use 
+ 
+Acres 
+% of Total Acres 
+Residential 
+Low Density 
+2459.4 
+76.5% 
+Multifamily 
+8.0 
+0.3% 
+Multifamily Assisted 
+Living 
+3.8 
+0.1% 
+Commercial 
+Commercial 
+41.6 
+1.3% 
+Farm/Nursery 
+101.6 
+3.2% 
+Public/Semi-
+Public 
+Municipal Property 
+53.9 
+1.6% 
+Public Streets 
+308.0 
+9.6% 
+Public School 
+34.2 
+1.1% 
+Church & Charitable 
+38.3 
+1.2% 
+Other 
+Vacant 
+133.5 
+4.1% 
+Other Exempt  
+32.3 
+1.0% 
+Total 
+ 
+3,214.6 
+100.0% 
+Source: ArcGIS Calculations 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 19 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 20 =====
+BER-L-000517-25
+06/27/2025 10:19:17 AM
+Pg 20o0f50
+Trans ID: LCV20251872145
+Map 1: Community Overview
+Upper
+Montvale
+Saddle
+.
+Eorenah)
+Ramsey
+River Borough
+~~
+Borough
+i
+L ‘aa?
+t
+| pedd Sesh if ee Lee
+7 eas, ae i ae, as a
+{
+‘s 4
+,
+4 | ] AS
+i
+eee
+a
+eR
+I
+KOKO
+YY
+I!
+Nice
+PEEL
+eelSe
+2 SOY BRO KANE BB
+BBS OT sf eer
+bi linn
+cpa
+fees
+Vy]
+[PX Pr
+PE | TN
+LN
+IEE Sere
+PX: ies oe Rog To
+Reh we)
+Lh ge
+Allendale
+a ee tn
+ae eat a
+{> CLES
+Borough
+leh So
+ral He
+x
+SER
+OPT
+TIO
+NCA
+re ne
+ee
+Een
+aD Vip
+oe ip
+Sn
+Cai
+ately eed ene!
+SAN
+LZ
+Cf
+Woodcliff
+LAW
+st Fan
+Ly Pah LA |
+i CI
+|
+I NICIVACALL | PReaeh
+of,
+ALL
+AOS]
+MTL ET 7 Tpit ire) \
+Bauoh OR
+yy
+Ree».
+f
+PV
+APO
+ARK
+a
+}
+ne
+ee
+Nl
+ee
+tJ
+Aes il Peet
+in
+el
+Eo AKT
+perk
+JL Rhea
+of
+Pe
+LL shite
+KapaGag |
+Ttf}-jed ee”
+{
+ye TIA
+peek NS
+1
+(o)-Bse io, Gate
+poypean,
+Mie Se ee
+ay
+Seah
+Sal EP
+NS
+Es ai
+Pong aL go Miya e=
+meh aa
+\
+en ee be
+epaid| Wesel Fp
+BS Pf
+|
+ND Bea
+tf
+Waldwick
+gaan
+(
+bok
+ie
+ee
+a,
+ee
+a
+i
+Borough
+ill
+ANS Lae |
+Pea
+BON
+be NL
+edi
+ae
+a
+|
+i “Brooks
+Hillsdale
+AMC
+|
+|)Roag-}
+Borough
+Ridgewood
+Borough
+\
+Source 3: Parcel data, NIOGIS Warehouse.
+Township
+leis taeiaiaaa
+BURGIS ASSOCIATES, INC.
+ba
+bd
+=
+eeeeees
+Housing Element and Fair Share Plan
+4:24,345
+co
+14
+
+===== PAGE 21 =====
+BER-L-000517-25
+06/27/2025 10:19:17 AM
+Pg 21 of 50 Trans ID: LCV20251872145
+Map 2: Existing Land Use
+HI
+.
+|
+i!
+7
+it
+_
+It
+it
+@
+i
+15
+
+===== PAGE 22 =====
+ 
+16 
+ 
+2.2: Demographic and Population Data 
+Analyzing demographic and population data is a necessary and integral step in planning for the 
+future needs and demands of a community. As such, the following section outlines the demographic 
+changes experienced by the Borough of Saddle River over the past several decades. 
+This section is an analysis of demographic information is obtained from the 2010 Decennial Census as 
+well as the 2010 and 2023 American Community Survey (ACS) 5-year estimates. The ACS data 
+consists of estimates based upon data averages across a five-year span, otherwise known as “period” 
+estimates. They are not actual counts, rather they are representative of data collected over a period of 
+time and thus may not be directly comparable to decennial census figures. For example, the 2023 
+ACS includes data collected from 2019, 2020, 2021, 2022 and 2023. The following provides an 
+assessment of population size, rate of population growth, age characteristics, as well as household 
+size and income levels. Each of these items is described in detail below. This information is vital for 
+the Borough to carefully plan for the current and future needs of its residents and the community.  
+Population Changes 
+The following table depicts the changes in the local population going back to 1950, at which time 
+there were only 1,003 residents in Saddle River.  The most recent available data (2023) suggests the 
+Borough’s population is 3,358 residents.   
+Table 6: Population Growth, 1950-2023 
+Year 
+Population 
+Population Change 
+Percent Change 
+1950 
+1,003 
+ 
+ 
+1960 
+1,776 
+773 
+77.1% 
+1970 
+2,437 
+661 
+37.2% 
+1980 
+2,763 
+326 
+13.4% 
+1990 
+2,950 
+187 
+6.8% 
+2000 
+3,201 
+251 
+8.5% 
+2010 
+3,137 
+-64 
+-2.0% 
+2020 
+3180 
+43 
+1.4% 
+2023 
+3,358 
+178 
+5.6% 
+Source: US Census Bureau; 2023 American Community Survey Five-Year Estimate 
+Age Characteristics 
+The Borough’s characteristics are shown in the table below.  The data indicates the Borough 
+population is generally older, consistent with the state’s suburban trends.  The Borough’s median age 
+of 52.1 years reflects a significant increased sine 2010, and is higher than the County average.   
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 22 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 23 =====
+ 
+17 
+ 
+Table 7:  Age Characteristics, 2010-2023 
+  
+Age 
+Group 
+2010 
+2023 
+Pop 
+% 
+Pop 
+% 
+Under 5 
+135 
+4.3% 
+78 
+2.3% 
+5 to 9  
+269 
+8.6% 
+178 
+5.3% 
+10 to 14  
+182 
+5.8% 
+150 
+4.5% 
+15 to 19  
+264 
+8.4% 
+204 
+6.1% 
+20 to 24 
+130 
+4.1% 
+166 
+4.9% 
+25 to 34 
+202 
+6.4% 
+209 
+6.2% 
+35 to 44 
+325 
+10.4% 
+427 
+12.7% 
+45 to 54 
+424 
+13.5% 
+441 
+13.1% 
+55 to 59 
+235 
+7.5% 
+304 
+9.1% 
+60 to 64 
+281 
+9.0% 
+335 
+10.0% 
+65 to 74 
+347 
+11.1% 
+475 
+14.1% 
+75 to 84 
+252 
+8.0% 
+196 
+5.8% 
+85 + 
+91 
+2.9% 
+195 
+5.8% 
+Total 
+3,137  
+100% 
+ 3,358 
+100% 
+ Median 
+Age 
+47 
+52.1 
+  Sources: 2010 & 2023 American Community Survey 5-Year Estimates. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 23 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 24 =====
+ 
+18 
+ 
+Household Tenure and Occupancy 
+The data shown on the following table provides a breakdown between the number of owner 
+occupied and rental occupied units.  The data indicates the relative percentages has remained 
+unchanged since 2010., with the percent of owner-occupied units and renter-occupied units holding 
+firm at 85% and 15%, respectively.  
+Table 8: Owner-Occupied and Renter-Occupied Units, 2010-2023 
+ 
+2010 
+2023 
+Category 
+# of Units 
+% 
+# of Units 
+% 
+Owner Occupied 
+939 
+85.05% 
+1,174 
+85.57% 
+Renter Occupied 
+165 
+14.95% 
+198 
+14.43% 
+Vacant Units 
+100 
+8.3% 
+123 
+8.2% 
+Total 
+1,204 
+100% 
+1,495 
+100% 
+ 
+Source: US Census Bureau; 2023 American Community Survey Five-Year Estimate 
+Average Household Size 
+The census data shown below identifies the Borough’s average household size between 2010 and 
+2023, when the figure decreased from 2.84 persons in 2010 to 2.42 persons per household in 2023.  
+This is slightly lower than the Bergen County average household size which remained steady at 2.66 
+over the same time period..  
+Table 9: Average Household Sizes, 2010-2023 
+Year 
+Total 
+Population 
+Number of 
+Households 
+Average 
+Household Size 
+Saddle River 
+Average 
+Household Size 
+Bergen County 
+2010 
+3,137 
+1,104 
+2.84 
+2.69 
+2023 
+3,358 
+1,372 
+2.42 
+2.66 
+ 
+Sources: 2010 & 2023 American Community Survey 5-Year Estimates. 
+Household Income 
+The following data from the 2010 census and the 2023 ACS indicate that the median household 
+income in Saddle River increased more than 50% from 1999 to 2023, increasing from $97,197 to 
+$236,985 during that period of time. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 24 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 25 =====
+ 
+19 
+ 
+Table 10: Household Income, 2010-2023 
+Income Category 
+2010 
+2023* 
+Number  
+% 
+Number 
+% 
+less than $10,000 
+0 
+0% 
+48 
+3.5% 
+$10,000 to $14,999 
+22 
+2% 
+40 
+2.9% 
+$15,000 to $24,999 
+114 
+10% 
+17 
+1.2% 
+$25,000 to $ 34,999 
+44 
+4% 
+44 
+3.2% 
+$35,000 to $ $49,999 
+86 
+8% 
+51 
+3.7% 
+$50,000 to $74,999 
+114 
+10% 
+48 
+3.5% 
+$75,000 to $99,999 
+176 
+16% 
+73 
+5.3% 
+$100,000 to $149,999 
+68 
+6% 
+204 
+14.9% 
+$150,000 to $199,000 
+101 
+9% 
+64 
+783 
+4.7% 
+57.1% 
+$200,000 or more 
+379 
+34% 
+Total  
+1,104 
+100% 
+1,372 
+100.0%  
+Median Income (Household) 
+$97,197 
+$236,985 
+Source: US Census Bureau; 2023 American Community Survey 5-Year Estimates. 
+ 
+2.3: Inventory of Housing Stock 
+This section of the analysis provides an inventory of the Borough’s housing stock. The inventory 
+details housing characteristics such as age, condition, purchase/rental value and occupancy. It also 
+details the number of affordable units available to low- and moderate-income households and the 
+number of substandard housing units capable of being rehabilitated. As previously noted, the latest 
+information from the American Community Survey consists of five-year estimates by the Census 
+Bureau, not actual counts and may not be directly comparable to census figures.  
+Number of Housing Units 
+As illustrated in the table below, the overall number of housing units within the Borough has 
+continued to increase from the 1980s through 2023. Recent data suggests there are 1,495 housing 
+units in the Borough. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 25 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 26 =====
+ 
+20 
+ 
+ 
+Table 11: Housing Units, 1980-2023 
+Year 
+Housing 
+Units 
+Numerical 
+Change 
+% Change 
+1980 
+904 
+-- 
+-- 
+1990 
+1,072 
+168 
+18.6% 
+2000 
+1,183 
+111 
+10.4% 
+2010 
+1,204 
+21 
+1.8% 
+2023 
+1,495 
+291 
+24.2% 
+Source: US Census Bureau, 2023 ACS Five-Year Estimate 
+Units in Structure for Occupied Units; Purchase and Rental Value of Housing Units; Specified Renter 
+Occupied Housing Units by Rent, 2010-2023; Deficient Housing Units 
+The following tables provide additional information on the characteristics of the Borough’s housing 
+stock, including data on the number of units in structures, housing values, and housing deficiencies.   
+ 
+  
+Table 12: Units in Structure, 2010-2023 
+Units in Structure 
+2010 
+2023 
+No. 
+% 
+No. 
+% 
+Single Family, Detached 
+1009 
+83.8% 
+1253 
+83.8% 
+Single Family, Attached 
+79 
+6.6% 
+125 
+8.4% 
+2 
+19 
+1.6% 
+11 
+0.7% 
+3 or 4 
+0 
+0.0% 
+0 
+0.0% 
+5 to 19 
+0 
+0.0% 
+0 
+0.0% 
+20 + 
+97 
+8.1% 
+106 
+7.1% 
+Mobile Home 
+0 
+0.0% 
+0 
+0.0% 
+Other 
+0 
+0.0% 
+0 
+0.0% 
+Source: US Census Bureau;  2023 American Community Survey Five-Year Estimates. 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 26 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 27 =====
+ 
+21 
+ 
+Table 13: Value of Owner-Occupied Units, 2010-2023 
+ 
+ 
+2010 
+ 
+2023 
+Value Range 
+Number 
+Percent 
+Number 
+Percent 
+Less than $50,000 
+11 
+1.2% 
+40 
+3.4% 
+$50,000 to $99,999 
+0 
+0.0% 
+0 
+0.0% 
+$100,000 to $149,999 
+47 
+5.0% 
+12 
+1.0% 
+$150,000 to $199,999 
+10 
+1.1% 
+9 
+0.8% 
+$200,000 to $299,999 
+27 
+2.9% 
+10 
+0.9% 
+$300,000 to $499,999 
+10 
+1.1% 
+19 
+1.6% 
+$500,000 to $999,999 
+118 
+12.6% 
+39 
+3.3% 
+$1,000,000 or More 
+716 
+76.3% 
+1045 
+89.0% 
+Total 
+939 
+100.0% 
+1174 
+3.4% 
+Township Median Value 
+ 
++$1,000,000 
+  
++$2,000,000 
+Bergen County Median Value 
+ 
+$482,300 
+  
+$593,200 
+New Jersey Median Value 
+ 
+$357,000 
+  
+$427,600  
+Source: US Census Bureau; 2010 and 2023 American Community Survey Five-Year Estimates. 
+ 
+Table 14: Specified Renter Occupied Housing Units by Rent, 2010-2023 
+ 
+2010 
+2023 
+Value Range 
+Number 
+Percent 
+Number 
+Percent 
+Less than $500 
+0 
+0.0% 
+23 
+11.6% 
+$500 to $999 
+40 
+26% 
+0 
+0.0% 
+$1,000 to $1,499 
+18 
+12% 
+34 
+17.2% 
+$1,500 to $1,999 
+ 
+ 
+     97  
+ 
+ 
+63% 
+ 
+37 
+18.7% 
+$2,000 to $2,499 
+0 
+0.0% 
+$2,500 to $2,999 
+0 
+0.0% 
+$3,000 or more 
+51 
+25.8% 
+No Cash Rent 
+10 
+X 
+23 
+X 
+Total 
+155 
+100.0% 
+145 
+100.0% 
+Borough Median Value 
+ 
+$1,906  
+  
+$1,709  
+Bergen County Median Value 
+ 
+$1,236  
+  
+$1,863  
+New Jersey Median Value 
+ 
+$1,092  
+  
+$1,653  
+Source: US Census Bureau; 2010 and 2023 American Community Survey Five-Year Estimates. 
+ 
+With respect to deficient housing units, it is noted that the Fair Housing Act defines a “deficient 
+housing unit” as housing which: is over fifty years old and overcrowded; lacks complete plumbing, or 
+they lack complete kitchen facilities. According to the following tables, none of the units in the 
+Borough are deficient. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 27 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 28 =====
+ 
+22 
+ 
+Table 15: Occupants Per Room (2023) 
+Occupants per Room 
+Owner-Occupied 
+Renter-Occupied 
+0.50 or Fewer 
+1073 
+121 
+0.51 to 1.00 
+101 
+77 
+1.01 to 1.50 
+0 
+0 
+1.51 to 2.00 
+0 
+0 
+2.01 or More 
+0 
+0 
+Total 
+1,174 
+198 
+Source: 2023 American Community Survey Five-Year Estimates. 
+Table 16: Plumbing and Kitchen Facilities (2023) 
+ 
+Units with Complete Facilities 
+Units without Complete Facilities 
+Plumbing 
+1,372 
+0 
+Kitchen 
+1,341 
+0 
+Source: 2023 American Community Survey Five-Year Estimates. 
+ 
+2.4: Housing and Employment Projection 
+The following section identifies the extent to which housing and economic development has occurred 
+in the community, which can assist in the determination of future residential and employment 
+projections. 
+Recent Residential Development Activity 
+One way of examining the stability of a community’s housing stock is by comparing the number of 
+residential building permits issued for new construction as well as demolition permits issued every 
+year. Since 2013, the Borough has annually issued an average of 2.5 and 3.6 building permits and 
+demolition permits, respectively. This results in an average negative net of -1.1 permits annually. This is 
+reflective of the Borough’s established development pattern. 
+Table 17: Residential Building Permits and Demolition Permits 
+ 
+Building Permits 
+ 
+ 
+Year 
+1 & 2 Family 
+Multifamily 
+Mixed Use 
+Total 
+Demos 
+Net 
+2013 
+2 
+0 
+0 
+2 
+7 
+-5 
+2014 
+3 
+0 
+0 
+3 
+9 
+-6 
+2015 
+0 
+0 
+0 
+0 
+6 
+-6 
+2016 
+3 
+0 
+0 
+3 
+1 
+2 
+2017 
+1 
+0 
+0 
+1 
+7 
+-6 
+2018 
+3 
+0 
+0 
+3 
+2 
+1 
+2019 
+3 
+0 
+0 
+3 
+4 
+-1 
+2020 
+1 
+0 
+0 
+1 
+1 
+0 
+2021 
+4 
+0 
+0 
+4 
+2 
+2 
+2022 
+4 
+0 
+0 
+4 
+0 
+4 
+2023 
+3 
+0 
+0 
+3 
+0 
+3 
+Total 
+27 
+0 
+0 
+27 
+39 
+-12 
+Source: Department of Community Affairs 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 28 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 29 =====
+ 
+23 
+ 
+ 
+Covered Employment 
+Error! Reference source not found. and Figure 2 below provide data on the Borough’s covered 
+employment trends between 2004 and 2023, as reported by the New Jersey Department of Labor 
+and Workforce Development. “Covered employment” refers to any employment covered under the 
+Unemployment and Temporary Disability Benefits Law. Generally, nearly all employment in the state is 
+considered to be “covered employment.”  
+Error! Reference source not found. depicts the number of reported “employment units” within the B
+orough. An “employment unit” is defined as an individual or organization which employs one or more 
+workers. As shown, the Borough experienced a fairly consistent number of employment units over the 
+last decade, dipping slightly around 2019. Since that time, the number of employment units has 
+increased steadily. As of 2023, there were a reported 145 employment units in the Borough. 
+Similarly, employment levels have decreased from 2018 to 2021, as employment decreased by a 
+reported 34.7%. Since that time, employment in the Borough has slightly increased. As of 2023, the 
+Borough’s reported covered employment was 1,160 individuals. 
+Figure 1: Covered Employment Units, 2013-2023 
+ 
+Source: Department of Labor and Workforce Development  
+ 
+ 
+ 
+ 
+138
+147
+142
+133
+130
+131
+118
+134
+133
+147
+145
+0
+20
+40
+60
+80
+100
+120
+140
+160
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 29 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 30 =====
+ 
+24 
+ 
+Figure 2: Covered Employment, 2013-2023 
+ 
+Source: Department of Labor and Workforce Development  
+ 
+ 
+1,355
+1,435
+1,417
+1,657
+1,615
+1,651
+1,335
+1,178
+1,079
+1,125
+1,160
+0
+200
+400
+600
+800
+1,000
+1,200
+1,400
+1,600
+1,800
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 30 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 31 =====
+ 
+25 
+ 
+Section 3: Fair Share Obligation 
+The following section provides an overview of the Borough’s fair share obligation. It includes a brief 
+overview of the methodology utilized to calculate affordable housing obligations throughout the 
+state. 
+3.1: Summary of Fair Share Obligation 
+On March 20, 2024, the State of New Jersey adopted a package of affordable housing bills which 
+overhauled the Fair Housing Act (FHA). 
+The FHA now designates the Department of Community Affairs (DCA) as the entity responsible for 
+calculating the state’s regional needs. Specifically, NJSA 52:27D-304.2 establishes the methodology to 
+be utilized by DCA to determine the state’s regional prospective needs of low- and moderate-income 
+housing for the ten-year period spanning from July 1, 2025 to June 30, 2035. In summary, the 
+projected household change for this period is estimated by establishing the household change 
+experienced in each region between the most recent federal decennial census and the second-most 
+recent decennial census. This household change, if positive, is then to be divided by 2.5 to estimate 
+the number of low- and moderate-income homes needed to address low- and moderate-income 
+household change in the region for the next ten years. This methodology resulted in a statewide 
+prospective need of 84,698 low- and moderate-income units. 
+Furthermore, the DCA is also the entity responsible for calculating each municipality’s present and 
+prospective fair share obligations. However, the FHA makes clear that these calculations are advisory 
+and that each municipality must set its own obligation number utilizing the same methodology. 
+On January 23, 2025, Saddle River adopted Resolution #049-2025 (see Appendix) which accepted  
+DCA’s present and prospective fair share obligation calculations for the Borough. These obligations are 
+summarized below. That same resolution also noted that the Borough reserves the right to conduct a 
+vacant land adjustment (VLA) to determine its realistic development potential (RDP). This is discussed 
+in greater detail in the next subsection. 
+ 
+Table 18: Summary of Fair Share Obligation 
+Affordable Obligation 
+Units 
+Present (Rehabilitation Need) Obligation 
+76 
+Fourth Round Obligation (2025-2035) 
+249 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 31 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 32 =====
+ 
+26 
+ 
+3.2: Realistic Development Potential (RDP) 
+The Borough of Saddle River is a fully developed community and is therefore entitled to adjust its 
+obligation in accordance with a procedure set forth in the FHA. Specifically, NJSA 52:27D-310.1 
+permits municipalities to perform a VLA and associated RDP analysis due to its developer character 
+and lack of vacant, developable land.  
+The RDP analysis is intended to determine which sites in a municipality are most likely to develop for 
+low- and moderate-income housing. Municipalities may present documentation that eliminates a site 
+or part of a site from its inventory of vacant land. Such eliminating factors include: lands dedicated for 
+public uses other than housing since 1997; park lands or open space; vacant contiguous parcels in 
+private ownership of a size which would accommodate fewer than five housing units; historic and 
+architecturally important sites listed on the State Register of Historic Places or the National Register of 
+Historic Places; preserved agricultural lands; sites designated for active recreation; and 
+environmentally sensitive lands. 
+A VLA was previously conducted for the Borough’s 2020 HE&FSP., which indicated the Borough was 
+entitled to a 33 unit RDP.  In response, FSHC submitted an expert report including a vacant land 
+analysis finding that the Borough’s RDP was 221 units. Ultimately, as set forth in the Settlement 
+Agreement between the Borough and FSHC, as amended, all parties agreed – for the sole purposes 
+of settlement – to accept an RDP for the Borough of 132 units, as shown in the accompanying table.   
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 32 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 33 =====
+ 
+27 
+ 
+Table 19: Calculation of RDP For 3rd Round Settlement 
+(1) Vacant Properties Contributing to RDP 
+Block 
+Lot 
+Address 
+Acreage 
+Density 
+Total Yield 
+RDP 
+1105 
+24 
+65 Fox Hedge Road 
+1.35 
+6 
+8.1 
+2 
+1105 
+27.07 
+10 Red Rock Trail 
+2.26 
+6 
+13.6 
+3 
+1202 
+20 
+15 Charlden Drive 
+4 
+6 
+24 
+5 
+1202 
+32.03 
+2A Apple Ridge Road 
+2.23 
+6 
+13.4 
+3 
+1301 
+31 
+37 West Wildwood Road 
+1.65 
+6 
+9.9 
+2 
+1301 
+32 
+35 West Wildwood Road 
+1.73 
+6 
+10.4 
+2 
+1303 
+12 
+59 Stony Ridge Road 
+2.1 
+6 
+12.6 
+3 
+1303 
+13 
+58 Stony Ridge Road 
+2.1 
+6 
+12.6 
+3 
+1402 
+23.02 
+12 Alford Drive 
+2.23 
+6 
+13.4 
+3 
+1402 
+26.10 
+18 Alford Drive 
+2.06 
+6 
+12.4 
+2 
+1402 
+26.11 
+15 Fox Hedge Road 
+1.31 
+6 
+7.9 
+2 
+1402 
+38.01 
+11 Bayberry Drive 
+2 
+6 
+12 
+2 
+1402 
+38.02 
+11 Bayberry Drive 
+3.01 
+6 
+18.1 
+4 
+1402 
+46.03 
+204 E Saddle River Road 
+2.5 
+6 
+15 
+3 
+1611 
+4 
+18 Big Ramapo Road 
+1.96 
+6 
+11.8 
+2 
+1611 
+4.02 
+14 Big Ramapo Road 
+2.1 
+6 
+12.6 
+3 
+1611 
+4.05 
+6 Burning Hollow 
+0.89 
+6 
+5.3 
+1 
+1701 
+19 
+17 Westerly Road 
+1.92 
+6 
+11.5 
+2 
+1701 
+35.01 
+19 N. Church Road 
+2.17 
+6 
+13 
+3 
+1801 
+11.03 
+7 Willow Pond Road 
+2 
+6 
+12 
+2 
+1803 
+3 
+11 Spruce Road 
+2.01 
+6 
+12.1 
+2 
+1807 
+14 
+1 Eugene Road 
+1.98 
+6 
+11.9 
+2 
+1808 
+6 
+14 Eugene Road 
+2.03 
+6 
+12.2 
+2 
+1808 
+10 
+6 Eugene Road 
+1.99 
+6 
+11.9 
+2 
+1808 
+12 
+2 Eugene Road 
+2.06 
+6 
+12.4 
+2 
+2003 
+1 
+6 Old Woods Road 
+1.95 
+6 
+11.7 
+2 
+2003 
+23 
+29 Chestnut Ridge Road 
+2.37 
+6 
+14.2 
+3 
+2003 
+41 
+14 E. Saddle River Road 
+4.05 
+6 
+24.3 
+5 
+2102 
+21 
+157 Mill Road 
+16.5 
+6 
+99 
+20 
+(2) Properties in Plan Contributing to RDP 
+Block 
+Lot 
+Name 
+ 
+ 
+Yield 
+RDP 
+1402 
+23-25 
+SRI Realty Site 
+60 
+12 
+1603 
+1,2 
+SRI Realty Site  (also B 1602, L 1) 
+60 
+12 
+1601 
+10, 10.01, 11 
+100% Affordable site 
+80 
+16 
+ 
+TOTAL RDP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       132 UNITS 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 33 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 34 =====
+ 
+ 
+28  
+ 
+ 
+A new VLA has been conducted for the Borough for the 4th Round.   For the sake of continuity, the 
+accompanying table and mapping identifies both the lots identified above as contributing towards the 
+3rd Round RDP and the three lots (identified in bold in the table) that contribute towards the 4th 
+Round 6 unit RDP.   
+Table 20: Vacant Land Adjustment/RDP Depicting 3rd and 4th Round Contributing Sites (4th Round 
+Contributing Site in Bold) 
+ID # 
+Block 
+Lot 
+Address 
+Developable 
+Area (ac) 
+Comments 
+1 
+1202 
+20 
+15 CHARLDEN DRIVE 
+3.74 
+Contributed to prior round RDP. 
+2 
+1801 
+11.03 
+7 WILLOW POND RD 
+3.39 
+Contributed to prior round RDP. 
+3 
+1807 
+7.02 
+33 BURNING HOLLOW 
+ROAD 
+3.29 
+Merged with adjacent developed lot. 
+4 
+1801 
+4.01 
+103 E. SADDLE RIVER 
+ROAD 
+3.04 
+Contributed to prior round RDP. 
+5 
+1502 
+12 
+CHESTNUT RIDGE RD-
+REAR 
+3.04 
+Lot landlocked between developed 
+properties. 
+6 
+1502 
+15 
+CHESTNUT RIDGE RD-
+REAR 
+3.03 
+Lot landlocked between developed 
+properties. 
+7 
+1607 
+21.01 
+131 E. SADDLE RIVER 
+ROAD 
+2.83 
+Contributed to prior round RDP. 
+8 
+1807 
+7.01 
+30 BURNING HOLLOW 
+ROAD 
+2.52 
+Merged with adjacent developed lot. 
+9 
+1801 
+1 
+107 E. SADDLE RIVER 
+ROAD 
+2.49 
+Does not front on road. 
+10 
+1702 
+10 
+103 CHESTNUT RIDGE 
+ROAD 
+2.36 
+Contributed to RDP last round. 
+11 
+2003 
+23 
+29 CHESTNUT RIDGE 
+ROAD 
+2.35 
+Contributed to RDP last round. 
+12 
+1901 
+6 
+14 WINDING WAY 
+2.31 
+Not vacant. In-situ verification 
+revealed single-family residential 
+development. 
+13 
+1202 
+32.03 
+2A APPLE RIDGE ROAD 
+2.22 
+Merged with adjacent developed lot. 
+14 
+1702 
+16 
+55 OAK ROAD 
+2.18 
+Merged with adjacent developed lot. 
+15 
+1402 
+38.02 
+11 BAYBERRY DR 
+2.17 
+Contributed to RDP last round. 
+16 
+1807 
+7.03 
+5 EUGENE ROAD 
+2.16 
+Merged with adjacent developed lot. 
+17 
+1303 
+12 
+59 STONY RIDGE ROAD 
+2.07 
+Contributed to RDP last round. 
+18 
+1105 
+51 
+34 ACKERMAN ROAD 
+2.04 
+Lot does not qualify for RDP Analysis. 
+Developed with entry drive to 
+support developed lot 53 in block 
+1105. 
+19 
+1105 
+49 
+26 ACKERMAN ROAD 
+2.03 
+Merged with adjacent developed lot. 
+20 
+1806 
+14 
+12 CAMERON ROAD 
+2.02 
+Merged with adjacent developed lot. 
+21 
+1901 
+1 
+104 CHESTNUT RIDGE 
+ROAD 
+2.01 
+Not vacant, building on site. 
+22 
+1807 
+14 
+1 EUGENE ROAD 
+1.95 
+Contributed to RDP last round. 
+23 
+1901 
+23 
+23 WERIMUS BROOK 
+ROAD 
+1.95 
+ Not vacant.  Existing dwelling 
+removed and new dwelling under 
+comstruction.  
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 34 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 35 =====
+ 
+ 
+29  
+ 
+24 
+1808 
+6 
+14 EUGENE ROAD 
+1.89 
+Contributed to RDP last round. 
+25 
+1901 
+13 
+19 OLD FARMS ROAD 
+1.89 
+Not vacant. In-situ verification 
+revealed single-family residential 
+development. 
+26 
+1201 
+1 
+35 COLTSFOOT GLEN 
+1.89 
+Merged with adjacent developed lot. 
+27 
+1402 
+38.01 
+11 BAYBERRY DRIVE 
+1.89 
+Contributed to RDP last round. 
+28 
+1703 
+28 
+7 RIDGE CREST ROAD 
+1.85 
+ Contributed towards 4th Round 
+RDP 
+29 
+1301 
+32 
+35 WEST WILDWOOD 
+ROAD 
+1.83 
+Contributed to RDP last round. 
+30 
+2102 
+28 
+14 CHESTNUT RIDGE 
+ROAD 
+1.81 
+Not vacant. Development under 
+construction. 
+31 
+2101 
+4 
+7 GLENWOOD DRIVE 
+1.72 
+ Contributed towards 4th Round 
+RDP 
+32 
+1701 
+35.01 
+19 NORTH CHURCH ROAD 
+1.70 
+Contributed to RDP last round. 
+33 
+1701 
+19 
+17 WESTERLY ROAD 
+1.70 
+Contributed to RDP last round. 
+34 
+1403 
+9 
+110 FOX HEDGE ROAD 
+1.68 
+Merged with adjacent developed lot. 
+35 
+1301 
+31 
+37 WEST WILDWOOD 
+ROAD 
+1.64 
+Contributed to RDP last round. 
+36 
+1105 
+34.01 
+7 SAW MILL ROAD 
+1.53 
+Merged with adjacent developed lot. 
+37 
+2101 
+30 
+63 TWIN BROOKS ROAD 
+1.49 
+ Contributed towards 4th Round 
+RDP 
+38 
+2004 
+4 
+13 CHESTNUT RIDGE 
+ROAD 
+1.41 
+Merged with adjacent developed lot. 
+39 
+1105 
+24 
+65 FOX HEDGE ROAD 
+1.38 
+Contributed to RDP last round. 
+40 
+1502 
+9 
+CHESTNUT RIDGE RD-
+REAR 
+1.35 
+Merged with adjacent developed lot. 
+41 
+2003 
+47.08 
+22 BALDWIN ROAD 
+1.33 
+  
+42 
+2003 
+1 
+6 OLD WOODS ROAD 
+1.30 
+Contributed to RDP last round. 
+43 
+1402 
+26.11 
+15 FOX HEDGE RD 
+1.25 
+Contributed to RDP last round. 
+44 
+1702 
+3 
+16 WOODCLIFF LAKE 
+ROAD 
+1.19 
+Contributed to RDP last round. 
+45 
+1202 
+12 
+CHESTNUT RIDGE RD-
+REAR 
+1.17 
+Lot does not qualify for RDP Analysis. 
+Lot landlocked between developed 
+properties 
+46 
+1702 
+35 
+5 TANBARK TRAIL 
+1.13 
+Lot does not qualify for RDP Analysis. 
+Merged with adjacent developed lot 
+47 
+1502 
+8 
+CHESTNUT RIDGE RD-
+REAR 
+1.09 
+Changed to Class 2 
+48 
+1808 
+12 
+2 EUGENE ROAD 
+1.05 
+Contributed to RDP last round. 
+49 
+1105 
+27.04 
+16 RED ROCK TRAIL 
+0.97 
+Contributed to RDP last round. 
+50 
+1202 
+11 
+CHESTNUT RIDGE RD-
+REAR 
+0.97 
+Lot landlocked between developed 
+properties. 
+51 
+1303 
+13 
+58 STONY RIDGE ROAD 
+0.96 
+Contributed to RDP last round. 
+52 
+1202 
+13 
+CHESTNUT RIDGE RD-
+REAR 
+0.86 
+Lot landlocked between developed 
+properties. 
+53 
+1202 
+10 
+CHESTNUT RIDGE RD-
+REAR 
+0.83 
+Lot landlocked between developed 
+properties. 
+54 
+1202 
+9 
+CHESTNUT RIDGE RD-
+REAR 
+0.76 
+Does not meet 0.83 acre threshold. 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 35 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 36 =====
+ 
+ 
+30  
+ 
+55 
+1603 
+1 
+167 WEST SADDLE RIVER 
+RD. 
+0.74 
+Does not meet 0.83 acre threshold. 
+56 
+1202 
+8 
+CHESTNUT RIDGE RD-
+REAR 
+0.72 
+Does not meet 0.83 acre threshold. 
+57 
+1202 
+7 
+CHESTNUT RIDGE RD-
+REAR 
+0.68 
+Changed to Class 3B. 
+58 
+1502 
+14 
+CHESTNUT RIDGE RD-
+REAR 
+0.63 
+Does not meet 0.83 acre threshold. 
+59 
+1202 
+14 
+CHESTNUT RIDGE RD-
+REAR 
+0.56 
+Does not meet 0.83 acre threshold. 
+60 
+1202 
+16 
+CHESTNUT RIDGE RD-
+REAR 
+0.51 
+Does not meet 0.83 acre threshold. 
+61 
+1502 
+11 
+CHESTNUT RIDGE RD-
+REAR 
+0.51 
+Does not meet 0.83 acre threshold. 
+62 
+1502 
+13 
+CHESTNUT RIDGE RD-
+REAR 
+0.41 
+Does not meet 0.83 acre threshold. 
+63 
+1303 
+4 
+18 WILDWOOD ROAD 
+0.32 
+Does not meet 0.83 acre threshold. 
+64 
+2003 
+41 
+14 E. SADDLE RIVER ROAD 
+0.31 
+Does not meet 0.83 acre threshold. 
+65 
+1301 
+15 
+19 WILDWOOD ROAD 
+0.25 
+Does not meet 0.83 acre threshold. 
+66 
+1303 
+3 
+20 WILDWOOD ROAD 
+0.21 
+Changed to Class 2 
+67 
+1805 
+23 
+NEAR-ALLENDALE PROP 
+0.19 
+Does not meet 0.83 acre threshold. 
+68 
+1202 
+15.01 
+CHESTNUT RIDGE RD-
+REAR 
+0.12 
+Does not meet 0.83 acre threshold. 
+69 
+1801 
+31 
+64 WEST SADDLE RIVER 
+RD. 
+0.06 
+Does not meet 0.83 acre threshold. 
+70 
+1607 
+29 
+92 WEST SADDLE RIVER 
+RD. 
+0.04 
+Does not meet 0.83 acre threshold. 
+71 
+1608 
+1 
+1 WEST GATE ROAD 
+0.01 
+Does not meet 0.83 acre threshold. 
+72 
+1102 
+25 
+230 WEST SADDLE RIVER 
+RD. 
+0.00 
+Does not meet 0.83 acre threshold. 
+73 
+1401 
+23 
+164 WEST SADDLE RIVER 
+RD. 
+0.00 
+Does not meet 0.83 acre threshold. 
+74 
+1401 
+24 
+166 WEST SADDLE RIVER 
+RD. 
+0.00 
+Changed to Class 2. 
+75 
+1801 
+32 
+1A ADAMS ROAD 
+0.00 
+Does not meet 0.83 acre threshold. 
+76 
+1801 
+33 
+68 WEST SADDLE RIVER 
+RD. 
+0.00 
+Does not meet 0.83 acre threshold. 
+77 
+2002 
+2 
+20 LOWER CROSS ROAD 
+0.00 
+Does not meet 0.83 acre threshold. 
+78 
+1601 
+9.01 
+ 25 EAST ALLENDALE 
+ROAD 
+         X 
+Site in development. Not mapped. 
+79 
+2004 
+8 
+ 12 WOODFIELD LANE 
+        X 
+Not applicable, due to environmental 
+constraints. 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 36 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 37 =====
+BER-L-000517-25
+06/27/2025 10:19:17 AM
+Pg 37 of 50
+Trans ID: LCV20251872145
+Map 3: Vacant Land Adjustment
+=
+ay
+zi
+i
+F
+-—i|
+a
+Boy)
+wag
+Peaghag
+he?
+5
+Reape
+|
+me i2bs
+Foo amo 08 100
+med
+ED
+Hal fia
+tes
+\
+a
+A
+H
+zh
+\
+t
+!
+i
+ite
+,,
+#8
+i
+iat
+te
+i
+ge
+j
+an
+a
+/
+j
+SUIS
+bapa
+eres
+ah
+\
+ae ona eee PAGS.
+REO LTINS He
+a
+SOT RS
+ok eGR
+_
+Cena Cal
+ahseS ee cae
+ien 1 eee nen,
+sf
+Lee
+Oe
+es Sees
+PS
+Ny a PNily
+| TERE See
+Ps
+eeBe
+Is Sa,(SeeIa
+eet
+Bes
+heRag:(Se
+22Nes MENa
+Sepp LTT eS bee Fh ey 5S): a
+ee
+By ROG Re Pea
+Ty ee”
+|
+Da
+Aa ta a
+RSetua
+Le
+_
+ect
+reg ea
+Ste ne alee Oe OO
+'
+as
+|
+3?
+a
+om
+ri
+/
+#8
+iF: 2
+/
+-
+of :
+;”
+’
+Hs
+.
+1
+hy
+i
+i
+QSS,
+/
+fl ge
+31
+
+===== PAGE 38 =====
+ 
+ 
+32  
+ 
+Section 4: Fair Share Plan 
+The following Fair Share Plan outlines the components and mechanisms the Borough will utilize to 
+address its affordable housing obligations. These obligations include are summarized as follows: 
+Table 21: Affordable Housing Obligation Summary 
+Category 
+Obligation 
+1st and 2nd Round Obligation (1987-
+1999) 
+162 units 
+3rdRound Obligation (1999-2025) 
+244 units reduced to 132 RDP units and 
+112 unit unmet need  
+4thRound Obligation (2025-2035) 
+249 units reduced to 6 unit RDP and 
+243 unit unmet need 
+Present Need (Rehabilitation) Obligation 
+76 units reduced to 6 units through 
+structural conditions survey 
+ 
+4.1: Prior Round Obligations and Status 
+The Borough was assigned an initial 1st and 2nd Round affordable housing obligation of 162 units.  As 
+detailed in Table 1 above, the Borough affirmatively addressed the entirety of that obligation through 
+a 100 percent affordable housing development, senior/alternative living arrangements, and three 
+Regional Contribution Agreements.  All of these projects have been completed.  
+The Borough’s 3rd Round affordable housing obligation of 244 units was reduced to 132 unit RDP as 
+part of a settlement with FSHC..  As detailed in Table 2 above, the Borough affirmatively addressed the 
+entirety of that RDP obligation through two 100 percent affordable housing developments and two 
+inclusionary developments.  As detailed in Table 2, construction has commenced on the Choctau 
+development, site plans have been filed on the two inclusionary developments with one project 
+scheduled for a public hearing commencing in June, 2025.  Additionally, as noted in Table 2 the 
+Borough has approved a 275 unit development that is earmarked to address a portion of the 
+Borough’s unmet need. 
+The new affordable housing legislation requires comment on each of the plan components designed 
+to address the municipal affordable housing obligation, to ensure that each component continues to 
+represent a reasonable opportunity to achieve affordable housing.  The following is noted in this regard. 
+ 
+1. 
+Block 1402 Lots 23, 24, and 25.  This 10.25-acre property, commonly referred to as the 
+‘O’Donnell Property’, is located immediately to the east of the Wandell School, on the northerly 
+side of E. Allendale Road.  The site encompasses three lots, one of which is the ‘O’Donnell’ lot 
+and two lots to the west of that lot, all of which are developed with detached single-family 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 38 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 39 =====
+ 
+ 
+33  
+ 
+dwellings.  The 3rd Round calls for this site to be developed with a maximum of sixty dwellings, 
+consisting of eight affordable units and fifty-two market rate units, representing a density of 
+5.85 dwelling units per acre.  The intent of this designation is to have this site developed 
+consistent with the Borough’s Ordinance No. 20-992 Townhouse Inclusionary Housing District 
+1 regulations.  The applicant has recently filed their site plan for approval of this project, and it 
+is anticipated that hearing s may commence in July 2025. 
+ 
+ 
+ 
+ 
+2. 
+Block 1603 Lots 1 & 2.01.:  This 7.2 acre site is located on the easterly side of Algonquin Trail and 
+extends as a through lot eastward to West Saddle River Road, The 3rd Round Plan calls for a 
+maximum of sixty dwellings on this site, inclusive of twelve affordable units and forty-eight 
+market rate units, representing a density of 8.3 dwelling units per acre.  The intent of this 
+designation is to have this site developed consistent with the Borough’s recently adopted 
+Ordinance No. 20-993 Townhouse Inclusionary Housing District 2 regulations. 
+ 
+The applicant has filed a site plan for development of this site.  The public hearing on this matter 
+is scheduled to commence on June 17, 2025. 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 39 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 40 =====
+ 
+ 
+34  
+ 
+ 
+ 
+3. 
+Block 1601 Lots 10, 10.01 & 11:  This property on Choctau Tail, is on the north side of E. Allendale 
+Road, east of Route 17.  The 3rd Round Plan provides for 88 of this project’s 111 dwellings, all of 
+which are to be affordable units (and which may include special needs units) to be associated 
+with the 3re Round, with the remainder to be related to the 4th Round.  The three lots 
+encompass a total area of 7.18 acres in size, yielding a density of 12.2 dwelling units per acre. 
+The intent of this site’s affordable housing designation is to have this site developed consistent 
+with the Borough’s recently adopted Ordinance No. 20-1000 Affordable Housing - 3 
+regulations. This site has received site plan approval in September 2021 and construction has 
+commenced, as reflected in the accompanying site photo and the following photo depicting 
+construction. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 40 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 41 =====
+BER-L-000517-25
+06/27/2025 10:19:17 AM
+Pg 41 of 50
+Trans ID: LCV20251872145
+‘ ey = ————— = —
+ON
+
+===== PAGE 42 =====
+ 
+ 
+36  
+ 
+4. 
+Overlay Zone: Block 1302 Lots 1.02, 1.03 and 1.04.  In addition to the above plan components, 
+the 3rd Round HE&FSP calls for an overlay zone on property along Boroline Road identified as 
+Block 1302 Lots 1.02, 1.03 and 1.04.  These parcels occupy an area of approximately 20 acresand 
+are developed with an extended stay hotel, assisted living, and an office building. The intent of 
+the Plan is to retain the underlying Planned Unit Development zoning on these sites and also 
+allow multi-family residential development at thirty units per acre as an overlay zone. The 
+overlay zone will require a 20% set-aside for affordable housing.  
+ 
+To date, Lot 1.04 (the southerly lot in the picture below) has received site plan approval with 
+conditions, this past year for 275 dwellings inclusive of a 20 percent set-aside for affordable 
+housing.  Construction has not yet commenced. 
+ 
+ 
+ 
+ 
+4.2 
+4th Plan Components 
+ 
+The HE&FSP identifies the manner in which the Borough’s fair share affordable housing obligations – 
+inclusive of its 6 unit RDP obligation and a 6-unit rehabilitation obligation, are addressed below. 
+ 
+1. 
+Rehabilitation Obligation. As established in a previous section of this plan, Saddle River’s 
+Rehabilitation obligation is 6 units. The Borough plans to address this obligation through 
+participation in the Bergen County Housing Rehabilitation Program and/or, as determined to 
+be necessary, the establishment of a municipal Rehabilitation Program to rehabilitate at least 6 
+units in the Borough and will utilize funds obtained from Saddle River’s affordable housing trust 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 42 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 43 =====
+ 
+ 
+37  
+ 
+fund. 
+ 
+In order to fully satisfy its rehabilitation obligation, the Borough will commit $20,000 per unit. 
+This will require a total contribution of $120,000. Pursuant to COAH’s rules that allow 
+municipalities to utilize money collected from development fees for this purpose, the Township 
+shall set aside the required $120,000 from its affordable housing trust fund account to be made 
+available to income-qualified households to participate in the program, one-third of which will 
+be made available within the first year following approval of this plan. The Spending Plan 
+included in the Appendix of this document demonstrates sufficient funding to satisfy the 
+Borough’s 6-unit Rehabilitation obligation.  
+2. 
+Prospective Need Obligation.  The Borough will satisfy its 6 unit RDP obligation with a 42 unit 
+100 percent proposed affordable housing development at 20-22 East Allendale Road. The 
+property is identified as Block 1605 Lots 1 and 2.   The Michaels Organization, who is developing 
+the Choctau Road site noted above, will be the developer of this property.  The following is 
+noted with respect to this development: 
+ 
+a. 
+One of the two lots that comprise this prospective development is at Block 1605 
+Lot 1.   This 1.06 acre property, at 20 E. Allendale Road, is located on the south 
+side of E. Allendale Road, opposite Choctau Trail.  It is also immediately to the 
+east of Route 17.  This lot was included as a 3rd Round site, calling for 23 units to 
+be constructed, all of which were to be affordable units (and which were also 
+allowed to include special needs units).  The anticipated development would 
+have thus resulted in a density of 21.6 dwelling units per acre.  This lot had 
+received Planning Board approval of a site plan for a 23 unit development, consistent 
+with the AH-3 zoning regulations, in September 2020. 
+ 
+b. 
+The Borough has now adjusted its planning such that the adjoining Lot 2 in Block 1605 
+is to be included in an enlarged Affordable Housing Zone, enabling a total of 42 units 
+on 1.54 acres.  This represents a density of 27.2 units per acre. 
+  
+The accompanying map depicts the location of this tract. 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 43 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 44 =====
+ 
+ 
+38  
+ 
+Block 1605 Lots 1 and 2 
+ 
+ 
+Pursuant to the applicable COAH regulations as set forth in N.J.A.C 5:93-1.3, an analysis was undertaken 
+to determine that this tract addresses the applicable ‘approvable’, ‘available’, ‘developable’, and ‘suitable’, 
+criteria, as follows, and as detailed below: 
+“Approvable site” means a site that may be developed for low and moderate income housing 
+in a manner consistent with the rules or regulations of all agencies with jurisdiction over the site. 
+A site may be approvable although not currently zoned for low and moderate income housing. 
+“Available site” means a site with clear title, free of encumbrances which preclude development 
+for low and moderate income housing.  
+“Developable site” means a site that has access to appropriate water and sewer infrastructure, 
+and is consistent with the applicable areawide water quality management plan (including the 
+wastewater management plan) or is included in an amendment to the areawide water quality 
+management plan submitted to and under review by DEP.  
+“Suitable site” means a site that is adjacent to compatible land uses, has access to appropriate 
+streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4. 
+These criteria are all affirmed by the sites’ location and physical characteristics, as noted below. 
+ 
+1. 
+Available:  This site is free of encumbrances which would otherwise preclude its 
+development for low and moderate income housing.  A title search indicates there are 
+no encumbrances that would adversely impact the ability to develop the site as 
+contemplated herein.  Additionally, in this case a developer has expressed interest in 
+developing the site for 42 dwelling units on-site.  Furthermore, it is our understanding 
+that there is clear title to the property. 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 44 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 45 =====
+ 
+ 
+39  
+ 
+2. 
+Approvable: The site is approvable, as reflected in the fact that the Borough has already 
+rezoned a portion of the property for 23 affordable units and is intending to extend 
+that zoning to the adjoining lot and increase the total yield to 42 units.   A review of site 
+conditions reveals the two lots are readily developable to accommodate that number 
+of units.  
+ 
+3. 
+Developable:  The site is developable, as reflected in the fat that the bulk of the property 
+was already deemed developable.   
+ 
+4. 
+Suitable:  This site is also suitable for the intended development.  As previously noted, 
+the site is located immediately to the south of property already being developed for 
+multi-family housing, and the Borough’s commercial business district is nearby and to 
+the east of the site.  It fronts on a County road that provides direct access to the regional 
+road network, with access to Route 17 to the west.  This property is also near to Borough 
+recreation facilities.   
+ 
+With respect to issues of land use compatibility, it is noteworthy that often, compatibility 
+is viewed as consisting of the same land uses and densities as the surrounding 
+development pattern.   However, in the context of affordable housing, issues of 
+compatibility and density must be viewed more broadly than that.  The reason for this 
+is simple.  The New Jersey Supreme ruled in Mt Laurel II that every municipality has a 
+constitutional obligation to provide affordable housing within its community, and that 
+parenthetically requires higher density development.  Without accepting this construct, 
+If compatibility was limited to the same land uses and densities, those municipalities 
+whose development pattern historically was limited to large lot single-family 
+development would be allowed to continue to impose what the Court has deemed to 
+be exclusionary zoning practices.  And that is precisely what the Courts have struck 
+down. 
+ 
+COAH addressed this when they adopted regulations that stated that they shall consider 
+both the character of the area and the need to provide affordable housing when 
+determining the suitability of a site, and identified densities of six to eight dwelling units 
+per acre as a minimum presumptive density for affordable housing. 
+ 
+In summary, the analysis reveals the applicable criteria are met. An aerial map of the site is 
+provided below. 
+ 
+The following identifies preliminary area and bulk requirements for this site’s development.  
+These regulations are preliminary and may be modified as the developer completes the plan 
+for the site’s development.  
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 45 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 46 =====
+ 
+ 
+40  
+ 
+Table 22: Preliminary Draft Zoning Regulations for 20-22 East Allendale Road 
+Requirements 
+ 
+Proposed 
+Standard 
+Min. Lot Area (ac) 
+ 
+15 
+Minimum Setback from External Lot Lines (ft): 
+     Front Yard 
+     Side Yard 
+     Rear Yard 
+   
+ 
+50 
+30  
+30 
+Minimum Setback from Internal Roadways (ft) 
+ 
+20 
+Minimum Distance between buildings (ft):    
+ 
+20 
+Minimum Open Space (%) 
+ 
+40 
+Minimum Accessory Building Setback (ft) to: 
+     Principal Building  
+     Front Lot Line 
+     Other Lot Lines 
+ 
+ 
+15 
+50 
+15 
+Maximum Density (units/ac) 
+ 
+27.5 
+Maximum Building Coverage (%) 
+ 
+35 
+Maximum Impervious Coverage (%) 
+ 
+60 
+Maximum Building Length (ft) 
+ 
+180 
+Minimum Parking Standards 
+ 
+Pe RSIS 
+Maximum Building Height (st/ft) 
+ 
+3/38 
+ 
+ 
+ 
+ 
+All of the sites identified above are shown on the accompanying map on the following page. 
+3. 
+Unmet Need Units.  This plan calls for 79 of the 111 affordable units on the Choctau Trail site 
+to be allocated to the 3rd Round.  The remaining  32 units (111 units provided less the 79 units 
+that are allocated to the 3rd Round obligation as noted above) are allocated as 4th Round 
+Unmet Need units.  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 46 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 47 =====
+BER-L-000517-25
+06/27/2025 10:19:17 AM
+Pg 47 of 50
+Trans ID: LCV20251872145
+Map 4: Prior Round Components
+f
+~
+/
+\
+:
+f
+ny
+3
+\
+2S
+4
+‘
+3
+X
+oa
+i
+ag
+ge
+\
+Sh
+;
+a
+26
+x
+oS
+{
+56
+oo
+\
+ao
+Zz
+i
+22
+ag
+\
+3
+i
+g5
+De
+\
+Se
+/
+a3
+£3
+\
+oz
+i
+aE
+32
+\
+oy
+H
+af
+are
+*
+=
+28
+!
+ge
+=< 2
+:
+\
+%
+=:
+Bg
+}
+u
+SE
+og
+\
+a
+&
+{
+28
+‘
+x
+oF
+H
+=<
+—
+"
+3
+/
+ge
+z
+ae
+8
+j
+°
+2
+{
+s
+|
+|
+38
+\
+desteTL LRTI
+a
+IT
+TTT
+com
+—
+TYLA
+CK LO
+Tit] Uae
+=e
+Jn
+OT TAI KERS
+al TT] Lp
+gil
+mM,
+RSL A PsLl
+| YES
+RETISST
+F
+LET
+FZ
+A PH
+oH
+He
+C
+/
+me
+APN
+AA TT SISO
+E EE
+Lal
+3 i
+-
+LZR
+LD,
+ee A
+i
+A ie ies ee
+Sa]
+2d.
+mh |
+(TKS
+TY BL)
+AIF
+I~bs
+ELL
+I UT Tass
+5
+o be
+HIN
+TX) ALEEL RAY OR
+pt INA
+RRL DELLE
+IT
+J aT
+8
+4
+g
+ATS KSA URA RAAT Bt
+GET Trp
+a
+;
+2
+TMPIION
+CITY Ar
+MLOASTT| I
+SRT
+ZOO TE
+i 8
+ef
+Trt
+LORAIN
+MBBS
+TBST
+RRA ON
+a
+Ss
+|
+TRG ASIA KL
+Jb
+SA
+GEES
+!
+g
+S|
+hE aeNTA
+REE
+ST TL
+J]
+er
+AO 7s
+S
+=}
+ya, TAH Ph Phe Zar
+L/ /] Tiree
+:
+bs
+|e
+a
+TSS
+ee atin el
+Ef
+Led RT
+;
+PTI
+yt a a
+| =
+ee) ee
+Eis
+j
+ev
+La SH Se i
+Sana ee ae 1 {ites
+=
+/
+a
+RR Se
+TI Ke
+Le
+j
+5
+ef)
+///) eee
+ANE TAT
+Va
+DSL LF Feith
+8
+69
+i
+ag
+ee.
+A NN
+LT|
+Fabel,
+8
+7;
+Se
+Ei
+(ied
+roe
+rthbeed
+\/ TT ACI
+TTTLL
+GE
+|
+:
+Gs
+me
+MR VLtl L
+my
+=8
+al
+Ce
+ian. Oia
+Se
+1
+De
+Pe
+cL
+EE
+\
+24
+By
+&
+TPS TAS
+Sx
+. —
+ae)
+3
+=
+7
+A) TTS
+cv
+\Z
+2: Be
+38
+é,
+5
+Mf [TS
+5s
+.
+et
+=
+= ©
+3
+&
+f
+23
+xg
+z¢
+Pe
+3
+!
+8
+“3
+3a
+a
+a
+;
+i
+ae
+|
+<
+=
+3
+|
+o
+4%
+uo
+/ —
+2D
+las
+=
+5
+-
+7
+a
+|es
+23
+23
+}
+Oo
+|Se:
+Blais
+/
+§
+~
+|
+Za]
+41
+
+===== PAGE 48 =====
+ 
+ 
+42  
+ 
+4.6: Consistency with State Planning Initiatives 
+As noted in Section 1, a HE&FSP must also include: 
+❖ An analysis of the extent to which municipal ordinances and other local factors advance or detract 
+from the goal of preserving multigenerational family continuity as expressed in the 
+recommendations of the Multigenerational Family Housing Continuity Commission, and; 
+❖ An analysis of consistency with the State Development and Redevelopment Plan, including water, 
+wastewater, stormwater, and multi-modal transportation based on guidance and technical 
+assistance from the State Planning Commission. 
+Accordingly, the following subsection analyzes the consistency of this HE&FSP to the above referenced 
+state planning initiatives. 
+Multigenerational Family Housing Continuity Commission 
+The Multigenerational Family Housing Continuity Commission was established by the State of New Jersey 
+in 2021. As noted in NJSA 52:27D-329.20, one of the primary duties of the Commission is to “prepare and 
+adopt recommendations on how State government, local government, community organizations, private 
+entities, and community members may most effectively advance the goal of enabling senior citizens to 
+reside at the homes of their extended families, thereby preserving and enhancing multigenerational family 
+continuity, through the modification of State and local laws and policies in the areas of housing, land use 
+planning, parking and streetscape planning, and other relevant areas.” 
+As of the date of this HE&FSP, the Multigenerational Family Housing Continuity Commission has not et 
+adopted any recommendations. 
+State Development and Redevelopment Plan 
+As established by NJSA 52:18A-200(f), the purpose of the State Development and Redevelopment Plan 
+(SDRP) is to “coordinate planning activities and establish Statewide planning objectives in the following 
+areas: land use, housing, economic development, transportation, natural resource conservation, 
+agriculture and farmland retention, recreation, urban and suburban redevelopment, historic preservation, 
+public facilities and services, and intergovernmental coordination.” 
+As such, the SDRP establishes a number of goals and strategies related to a number of different topics, 
+including economic redevelopment. One such goal is to revitalize existing urban centers by directing 
+growth and development to those areas. Specifically, the SDRP seeks to revitalize the State’s cities and 
+towns by protecting, preserving, and developing the valuable human and economic assets in cities, town, 
+and other urban areas. 
+As indicated by the SDRP’s Policy Map, the entirety of the Borough is located in the PA-1 Metropolitan 
+Planning Area, wherein development and redevelopment is intended to be directed. The intent of this 
+Planning Area is to: 
+❖ Provide for much of the state’s future redevelopment; 
+❖ Revitalize cities and towns; 
+❖ Promote growth in compact forms; 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 48 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 49 =====
+ 
+ 
+43  
+ 
+❖ Stabilize older suburbs; 
+❖ Redesign areas of sprawl; and; 
+❖ Protect the character of existing stable communities. 
+Accordingly, this HE&FSP is consistent with the intents of the PA-. Specifically, it is designed to encourage 
+redevelopment and growth in a compact form, while also protecting the character of the existing 
+community. 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 49 of 50   Trans ID: LCV20251872145 
+
+===== PAGE 50 =====
+ 
+ 
+44  
+ 
+Appendices 
+A-1: 
+Complaint for Declaratory relief Pursuant to AOC Directive #14-24 
+A-2: 
+Borough Resolution #53-25 Committing to DCA’s Fair Share Numbers 
+A-3: 
+Affirmative Fair Housing Marketing Plan Form 
+A-4: 
+Borough Resolution Adopting Affirmative Marketing Plan 
+A-5: 
+Borough Resolution Requesting Court to review and Approve Amended Spending Plan 
+A-6: 
+Borough Amended Spending Plan 
+A-7: 
+Townhouse Inclusionary Housing District Zone Regulations (TIHD-1 Zone) 
+A-8: 
+Townhouse Inclusionary Housing District Zone Regulations (TIHD-2 Zone) 
+A-9: 
+Affordable Housing 3 District Regulations (AH-3 Zone) 
+A-10: 
+Affordable Housing 4 District Regulations (AH-4 Zone) 
+A-11: 
+Affordable Housing Overlay district -5 (AHO-5 Zone) 
+A-12:  Affordable Housing Settlement Agreement Between Borough of Saddle River & FSHC (6/9/20) 
+A-13: 
+ Affordable Housing Settlement Agreement Between Borough, FSHC & SRI (2/10/20) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000517-25   06/27/2025 10:19:17 AM   Pg 50 of 50   Trans ID: LCV20251872145 

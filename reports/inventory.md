@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T12:32:32+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T12:32:50+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -720,12 +720,18 @@ _Obligation: 183 · Compliance: plan_adopted · HEFSP: adopted 2025-06-23_
 
 ## Wallington (Borough)
 
-_Obligation: 237 · Compliance: settled · HEFSP: adopted 2025-06-30_
+_Obligation: 173 · Compliance: plan_adopted · HEFSP: adopted 2025-06-30_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2 & 34 Midland Avenue | 2 & 34 Midland Avenue, Wallington, NJ | 26.02 | 14, 15 | 1.571 | inclusionary_overlay | 22.3 | 35 | 7 | 20.0% | rental | proposed_rezoning | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV) |
+| 67 Paterson Avenue | 67 Paterson Avenue, Wallington, NJ | 28 | 13 | 0.741 | inclusionary_approved | 13.5 | 10 | 2 | 20.0% | ownership | approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV) |
+| 434 Main Avenue | 434 Main Avenue, Wallington, NJ | 70.01 | 4.01 | 3.5 | inclusionary_overlay | 21.4 | 70 | 14 | 20.0% | mixed | proposed_rezoning | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV) |
 | 380 Mount Pleasant Avenue (AR-2 Zone) | 380 Mount Pleasant Avenue, Wallington, NJ 07057 | 70.01 | 78 |  | inclusionary-rezoning |  | 275 | 48 | 18.0% | rental | adopted-ordinance | medium | [doc](https://ecode360.com/WA1327/laws/LF1334595.pdf) |
+| 350 Mount Pleasant Avenue (Latex Redevelopment Zone) | 350 Mount Pleasant Avenue, Wallington, NJ | 70.01 | 80 | 9.67 | redevelopment | 14.5 | 140 | 28 | 20.0% | rental | redevelopment_area_designated | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV) |
 | Spring Street Residences (35 Spring Street) | 35 Spring Street, Wallington, NJ 07057 | 70.05 | 8.01 | 1.5 | 100pct-affordable |  | 8 | 8 | 100.0% | rental | built | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV) |
+| 1 Midland Avenue | 1 Midland Avenue, Wallington, NJ | 71 | 1 | 2.94 | inclusionary_overlay | 23.8 | 70 | 14 | 20.0% | rental | proposed_rezoning | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV) |
+| 95-99 Midland Avenue | 95-99 Midland Avenue, Wallington, NJ | 71 | 13, 14 | 1.139 | inclusionary_approved | 15.8 | 18 | 4 | 22.0% | rental | approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV) |
 | Morningside / New Wallington Homes Site (Block 71) |  | 71 | 35 |  | inclusionary-rezoning |  |  |  |  |  |  | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV) |
 
 ## Washington Township (Township)
