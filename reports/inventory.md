@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T12:26:55+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T12:27:30+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -336,12 +336,19 @@ _Obligation: 218 · Compliance: litigating · HEFSP: adopted 2025-06-01_
 
 ## Leonia (Borough)
 
-_Obligation: 172 · Compliance: settled · HEFSP: adopted 2025-06-26_
+_Obligation: 167 · Compliance: settled with NJBA · HEFSP: adopted 2025-06-25_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Leonia Redevelopment Area (Fort Lee Road / Willow Tree Road Corridor) | Fort Lee Road and Willow Tree Road corridors |  |  |  | redevelopment-area |  |  |  | 20.0% |  | adopted-ordinance | low | [doc](https://ecode360.com/LE0835/laws/LF2511989.pdf) |
-| Rehabilitation Program (Present Need) |  |  |  |  | municipal |  |  | 68 |  | rental | proposed | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/leonia-boro/62625LeoniaHEFSPwAppendixJuneAmended3and4roundadopted6.26.25Part1.pdf?VersionId=YoBjf8a6hsNc0X6lm2lipVVAhkwkmA.k) |
+| Fort Lee Road / North Corridor Redevelopment Plan | Fort Lee Road corridor and north of Fort Lee Road / west of Grand Avenue |  |  | 28.0 | redevelopment | 40-60 |  | 243 | 20.0% |  | AINR designated; redevelopment plan to be adopted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/leonia-boro/62625LeoniaHEFSPwAppendixJuneAmended3and4roundadopted6.26.25Part1.pdf?VersionId=YoBjf8a6hsNc0X6lm2lipVVAhkwkmA.k) |
+| Rehabilitation Program |  |  |  |  | rehabilitation |  |  | 68 |  |  | program to be created | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/leonia-boro/62625LeoniaHEFSPwAppendixJuneAmended3and4roundadopted6.26.25Part1.pdf?VersionId=YoBjf8a6hsNc0X6lm2lipVVAhkwkmA.k) |
+| J-ADD Group Home (128 Palisade Avenue) | 128 Palisade Avenue | 1205 | 25 |  | group home / supportive housing |  |  | 5 | 100.0% | rental | existing (controls from August 31, 1999 for 30 years) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/leonia-boro/62625LeoniaHEFSPwAppendixJuneAmended3and4roundadopted6.26.25Part1.pdf?VersionId=YoBjf8a6hsNc0X6lm2lipVVAhkwkmA.k) |
+| 100% Affordable Grand Avenue (Block 1209 Lots 3 & 6) | Grand Avenue | 1209 | 3, 6 | 0.224 | 100% affordable / municipally sponsored |  | 6 | 6 | 100.0% | mixed (rental + for-sale) | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/leonia-boro/62625LeoniaHEFSPwAppendixJuneAmended3and4roundadopted6.26.25Part1.pdf?VersionId=YoBjf8a6hsNc0X6lm2lipVVAhkwkmA.k) |
+| Redevelopment Plan for Block 1213 Lots 3&4 (CPC Site — 266 Grand Avenue) | 266 Grand Avenue | 1213 | 3, 4 | 0.98 | redevelopment | 20.0 |  | 4 | 20.0% |  | AINR designated (Resolution 2022-107); redevelopment plan to be adopted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/leonia-boro/62625LeoniaHEFSPwAppendixJuneAmended3and4roundadopted6.26.25Part1.pdf?VersionId=YoBjf8a6hsNc0X6lm2lipVVAhkwkmA.k) |
+| AH-2 Overlay District (Block 1501 Lots 22,23,24) | Grand Avenue | 1501 | 22, 23, 24 | 1.0 | inclusionary overlay | 27.0 |  | 5 | 20.0% |  | adopted (Ordinance 2023-10) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/leonia-boro/62625LeoniaHEFSPwAppendixJuneAmended3and4roundadopted6.26.25Part1.pdf?VersionId=YoBjf8a6hsNc0X6lm2lipVVAhkwkmA.k) |
+| Sima Development (131 Fort Lee Road) | 131 Fort Lee Road | 802 | 16 |  | inclusionary |  | 14 | 3 | 21.0% | rental | approved (Planning Board, December 13, 2022) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/leonia-boro/62625LeoniaHEFSPwAppendixJuneAmended3and4roundadopted6.26.25Part1.pdf?VersionId=YoBjf8a6hsNc0X6lm2lipVVAhkwkmA.k) |
+| Grandview Meadows (392 Grand Avenue) - Extension of Controls | 392 Grand Avenue | 802 | 6 |  | extension of controls |  | 10 | 10 | 100.0% | for-sale | existing (controls extended June 25, 2025 for 30 additional years) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/leonia-boro/62625LeoniaHEFSPwAppendixJuneAmended3and4roundadopted6.26.25Part1.pdf?VersionId=YoBjf8a6hsNc0X6lm2lipVVAhkwkmA.k) |
+| Leonia Retirement Housing (270 Glenwood Avenue) | 270 Glenwood Avenue | 901 | 7 |  | 100% affordable / senior rental |  | 108 | 108 | 100.0% | rental | existing (deed restrictions extended to 2054) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/leonia-boro/62625LeoniaHEFSPwAppendixJuneAmended3and4roundadopted6.26.25Part1.pdf?VersionId=YoBjf8a6hsNc0X6lm2lipVVAhkwkmA.k) |
 
 ## Little Ferry (Borough)
 
@@ -510,14 +517,13 @@ _Obligation: 124 · Compliance: settled · HEFSP: adopted 2025-06-11_
 
 ## Ramsey (Borough)
 
-_Compliance: settled · HEFSP: adopted 2025-06-18_
+_Obligation: 450 · Compliance: settled · HEFSP: adopted 2025-06-18_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| R-5E Island Road Overlay District (Ord. 04-2026) | Island Road area, Ramsey, NJ (off Rt. 17 southbound exit) |  |  | 17.2 | overlay |  | 350 | 70 | 20.0% | rental | proposed | low | [doc](https://theridgewoodblog.net/is-your-neighborhood-changing-ramsey-proposes-major-new-housing-zone-on-island-road/) |
-| R-5F North Franklin Turnpike Overlay District (Ord. 05-2026) | North Franklin Turnpike, Ramsey, NJ |  |  |  | overlay |  |  |  |  |  | proposed | low | [doc](https://www.ramseynj.com/AgendaCenter/ViewFile/Minutes/_02112026-2067) |
-| R-5B Overlay / Former Ramsey Lumber Site | Island Road, Ramsey, NJ | 3801 and 3803 | Block 3801 Lots 1,8; Block 3803 Lot 1 | 7.1 | overlay | 20.0 | 140 |  |  | rental | adopted-ordinance | low | [doc](https://theridgewoodblog.net/is-your-neighborhood-changing-ramsey-proposes-major-new-housing-zone-on-island-road/) |
-| R-5C Overlay / 425 Island Road | 425 Island Road, Ramsey, NJ 07446 | 4201 | 5 and 6 | 8.57 | overlay | 8.2 | 79 | 11 |  | rental | adopted-ordinance | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ramsey-boro/61825RamseyFourthRoundHEFSPADOPTEDPart1.pdf?VersionId=qNhhlWBsizHu9kSQXWZl9cILgK.S4qFy) |
+| Ramsey Housing, Inc. — 13 North Central Avenue | 13 North Central Avenue | 2308 | 1 | 0.34 | 100% affordable |  | 6 | 6 | 100.0% | rental | under-construction | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ramsey-boro/61825RamseyFourthRoundHEFSPADOPTEDPart1.pdf?VersionId=qNhhlWBsizHu9kSQXWZl9cILgK.S4qFy) |
+| 1 Constantine Drive Redevelopment Area | 1 Constantine Drive (corner of Constantine Drive and Route 17) | 3603 | 1 | 2.8 | redevelopment | 20.0 | 56 | 9 | 15.0% | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ramsey-boro/61825RamseyFourthRoundHEFSPADOPTEDPart1.pdf?VersionId=qNhhlWBsizHu9kSQXWZl9cILgK.S4qFy) |
+| 425 Island Road — R-5C Zone | 425 Island Road | 4201 | 5, 6 | 8.57 | inclusionary overlay | 8.2 | 70 | 14 | 20.0% | sale | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ramsey-boro/61825RamseyFourthRoundHEFSPADOPTEDPart1.pdf?VersionId=qNhhlWBsizHu9kSQXWZl9cILgK.S4qFy) |
 
 ## Ridgefield (Borough)
 

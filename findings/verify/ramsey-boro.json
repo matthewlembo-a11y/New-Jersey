@@ -1,0 +1,109 @@
+{
+  "municipality": "Ramsey",
+  "research_status": "done",
+  "obligation": {
+    "present_need": 51,
+    "prospective_need": 450,
+    "total_obligation": 450,
+    "rdp": 24,
+    "unmet_need": 426,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ramsey-boro/61825RamseyFourthRoundHEFSPADOPTEDPart1.pdf?VersionId=qNhhlWBsizHu9kSQXWZl9cILgK.S4qFy"
+  },
+  "compliance": {
+    "status": "settled",
+    "settlement_party": null,
+    "settlement_date": "2025-03-28",
+    "hefsp_status": "adopted",
+    "hefsp_adopted_date": "2025-06-18",
+    "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ramsey-boro/61825RamseyFourthRoundHEFSPADOPTEDPart1.pdf?VersionId=qNhhlWBsizHu9kSQXWZl9cILgK.S4qFy"
+  },
+  "notes": "Fourth Round prospective obligation = 450 units; settled after mediation March 28, 2025; court order May 5, 2025. DCA had 503 — HEFSP uses 450 per court order. Present Need = 51 (DCA; accepted). 4th Round RDP = 24 units from 3 changed-circumstance sites. Third Round: 736 total obligation (54 RDP + 682 unmet), all completed. Candidate snapshot had 4 sites (R-5B, R-5C, R-5E, R-5F) — R-5B/E/F are third round unmet need mechanisms; actual 4th Round RDP sites are only 3 (Ramsey Housing, Constantine Drive, 425 Island Road). Candidate prospective obligation 450 correct (matches court order).",
+  "sources": [
+    {
+      "doc_type": "HEFSP",
+      "title": "Ramsey Borough Fourth Round Housing Element and Fair Share Plan (Adopted June 18, 2025)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ramsey-boro/61825RamseyFourthRoundHEFSPADOPTEDPart1.pdf?VersionId=qNhhlWBsizHu9kSQXWZl9cILgK.S4qFy",
+      "excerpt": "Present Need: 51 (DCA; accepted) ... Prospective Need: 450 (settled after mediation March 28, 2025; court order May 5, 2025) ... 4th Round RDP: 24 units ... Trans ID LCV20251793848"
+    },
+    {
+      "doc_type": "DCA",
+      "title": "DCA Bergen County Obligations",
+      "url": "sources/dca_bergen_obligations.json",
+      "excerpt": "Ramsey borough: present_need=51, prospective_need=503"
+    }
+  ],
+  "sites": [
+    {
+      "site_name": "Ramsey Housing, Inc. — 13 North Central Avenue",
+      "address": "13 North Central Avenue",
+      "block": "2308",
+      "lot": "1",
+      "acreage": 0.34,
+      "mechanism": "100% affordable",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": null,
+      "total_units": 6,
+      "affordable_units": 6,
+      "set_aside_pct": 100.0,
+      "tenure": "rental",
+      "adoption_status": "under-construction",
+      "developer": "Ramsey Housing, Inc.",
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ramsey-boro/61825RamseyFourthRoundHEFSPADOPTEDPart1.pdf?VersionId=qNhhlWBsizHu9kSQXWZl9cILgK.S4qFy",
+      "source_page": "Section 4 Fair Share Plan / 4th Round RDP sites",
+      "source_date": "2025-06-18",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Ramsey Housing, Inc., Block 2308 Lot 1 (13 North Central Avenue, 0.34 ac); 6-unit supportive housing for adults with developmental disabilities; 100% affordable; Under Construction; 4 units toward RDP + 4 bonus credits (special needs); 2 units toward unmet need",
+      "notes": "6-unit supportive housing for adults with developmental disabilities; 100% affordable. 4 units credited toward 4th Round RDP + 4 bonus credits (special needs/supportive housing). 2 excess units credited toward unmet need. Under construction."
+    },
+    {
+      "site_name": "1 Constantine Drive Redevelopment Area",
+      "address": "1 Constantine Drive (corner of Constantine Drive and Route 17)",
+      "block": "3603",
+      "lot": "1",
+      "acreage": 2.80,
+      "mechanism": "redevelopment",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": 20.0,
+      "total_units": 56,
+      "affordable_units": 9,
+      "set_aside_pct": 15.0,
+      "tenure": "rental",
+      "adoption_status": "proposed",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ramsey-boro/61825RamseyFourthRoundHEFSPADOPTEDPart1.pdf?VersionId=qNhhlWBsizHu9kSQXWZl9cILgK.S4qFy",
+      "source_page": "Section 4 Fair Share Plan / 4th Round RDP sites",
+      "source_date": "2025-06-18",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "1 Constantine Drive, Block 3603 Lot 1 (corner of Constantine Dr and Route 17, 2.80 ac); Area in Need of Redevelopment designated 2024; Redev Plan introduced May 14, 2025; 20 du/ac, 15% rental/20% for-sale set-aside; 56 total units anticipated, 9 affordable family rental; 2 bonus transit credits (within ½ mile of Ramsey Route 17 Train Station); Proposed",
+      "notes": "Area in Need of Redevelopment designated 2024; Redevelopment Plan introduced May 14, 2025. 20 du/ac; 15% rental set-aside. 56 total units anticipated; 9 affordable family rental; 2 bonus transit credits (within 1/2 mile of Ramsey Route 17 Train Station). Proposed status."
+    },
+    {
+      "site_name": "425 Island Road — R-5C Zone",
+      "address": "425 Island Road",
+      "block": "4201",
+      "lot": "5, 6",
+      "acreage": 8.57,
+      "mechanism": "inclusionary overlay",
+      "current_zoning": "R-5C",
+      "proposed_zoning": null,
+      "density": 8.2,
+      "total_units": 70,
+      "affordable_units": 14,
+      "set_aside_pct": 20.0,
+      "tenure": "sale",
+      "adoption_status": "adopted-ordinance",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ramsey-boro/61825RamseyFourthRoundHEFSPADOPTEDPart1.pdf?VersionId=qNhhlWBsizHu9kSQXWZl9cILgK.S4qFy",
+      "source_page": "Section 4 Fair Share Plan / 4th Round RDP sites",
+      "source_date": "2025-06-18",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "425 Island Road, Block 4201 Lots 5 and 6 (8.57 acres); R-5C zone established April 9, 2025 (Ord. 04-2025); age-restricted (55+), 8.2 du/ac max, 20% set-aside; 70 total units possible, 14-unit RDP calculation; 5 units toward RDP, 6 units (excess) toward unmet need; Proposed",
+      "notes": "R-5C zone established April 9, 2025 by Ord. 04-2025. Age-restricted (55+); 8.2 du/ac max density; 20% set-aside. 70 total units possible; 14-unit RDP calculation yields 5 units toward 4th Round RDP and 6 excess units toward unmet need. Proposed status. Candidate had R-5B/R-5C/R-5E/R-5F as 4 sites — R-5C is the only actual 4th Round RDP site; R-5B/E/F are 3rd Round unmet need mechanisms."
+    }
+  ]
+}
