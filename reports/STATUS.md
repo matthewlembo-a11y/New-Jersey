@@ -1,9 +1,9 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T03:24:01+00:00_
+_Generated 2026-06-12T03:24:28+00:00_
 
-- Municipalities: **70/70**  (done: 20, in_progress: 15, blocked: 0, not_started: 35)
-- Sites catalogued: **93**
+- Municipalities: **70/70**  (done: 26, in_progress: 19, blocked: 0, not_started: 25)
+- Sites catalogued: **122**
 
 | # | Municipality | Status | Sites | Oblig. | Compliance | HEFSP | Last researched |
 |---|---|---|---|---|---|---|---|
@@ -57,21 +57,21 @@ _Generated 2026-06-12T03:24:01+00:00_
 | 48 | Ramsey | not_started | 0 |  |  |  |  |
 | 49 | Ridgefield | not_started | 0 |  |  |  |  |
 | 50 | Ridgefield Park | not_started | 0 |  |  |  |  |
-| 51 | Ridgewood | not_started | 0 |  |  |  |  |
-| 52 | River Edge | not_started | 0 |  |  |  |  |
-| 53 | River Vale | not_started | 0 |  |  |  |  |
-| 54 | Rochelle Park | not_started | 0 |  |  |  |  |
-| 55 | Rockleigh | not_started | 0 |  |  |  |  |
+| 51 | Ridgewood | in_progress | 4 | 4 | litigating | adopted | 2026-06-12T03:24:13+00:00 |
+| 52 | River Edge | in_progress | 3 | 192 | settled | adopted | 2026-06-12T03:24:13+00:00 |
+| 53 | River Vale | done | 3 | 228 | settled | adopted | 2026-06-12T03:24:13+00:00 |
+| 54 | Rochelle Park | in_progress | 3 | 119 | settled | adopted | 2026-06-12T03:24:13+00:00 |
+| 55 | Rockleigh | done | 2 | 14 | settled | adopted | 2026-06-12T03:24:13+00:00 |
 | 56 | Rutherford | not_started | 0 |  |  |  |  |
 | 57 | Saddle Brook | not_started | 0 |  |  |  |  |
 | 58 | Saddle River | not_started | 0 |  |  |  |  |
 | 59 | South Hackensack | not_started | 0 |  |  |  |  |
 | 60 | Teaneck | not_started | 0 |  |  |  |  |
-| 61 | Tenafly | not_started | 0 |  |  |  |  |
-| 62 | Teterboro | not_started | 0 |  |  |  |  |
-| 63 | Upper Saddle River | not_started | 0 |  |  |  |  |
-| 64 | Waldwick | not_started | 0 |  |  |  |  |
-| 65 | Wallington | not_started | 0 |  |  |  |  |
+| 61 | Tenafly | done | 3 | 307 | settled | adopted | 2026-06-12T03:24:17+00:00 |
+| 62 | Teterboro | in_progress | 0 |  | settled | adopted | 2026-06-12T03:24:18+00:00 |
+| 63 | Upper Saddle River | done | 4 |  | settled | adopted | 2026-06-12T03:24:18+00:00 |
+| 64 | Waldwick | done | 4 | 183 | settled | adopted | 2026-06-12T03:24:18+00:00 |
+| 65 | Wallington | done | 3 | 237 | settled | adopted | 2026-06-12T03:24:18+00:00 |
 | 66 | Washington Township | not_started | 0 |  |  |  |  |
 | 67 | Westwood | not_started | 0 |  |  |  |  |
 | 68 | Wood-Ridge | not_started | 0 |  |  |  |  |

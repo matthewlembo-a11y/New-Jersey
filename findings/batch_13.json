@@ -1,0 +1,550 @@
+[
+  {
+    "municipality": "Tenafly",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 10,
+      "prospective_need": 297,
+      "total_obligation": 307,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/tenafly-boro/61225TenaflyHousingElementandFairSharePlanAdopted061125Part1.pdf?VersionId=S_TDB542jrJpsgkCF0H4QeyVBlqmSOBB"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-11",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/tenafly-boro/61225TenaflyHousingElementandFairSharePlanAdopted061125Part1.pdf?VersionId=S_TDB542jrJpsgkCF0H4QeyVBlqmSOBB"
+    },
+    "notes": "HEFSP adopted June 11, 2025 by Planning Board (approved June 25 per meeting minutes). DCA prospective need was 297 units; present need accepted at 10 units (adjusted from 61). Borough adopted Resolution R25-72. Multiple affordable housing overlay ordinances adopted (Ord. 23-25, 25-32, 25-33, 26-01). No explicit FSHC settlement found in search results for fourth round; compliance appears via filed HEFSP. Present need 10 and prospective 297 sourced from Planning Board meeting minutes snippet; treat as medium confidence. Block/lot figures for individual sites come from ordinance text snippets.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Housing Element and Fair Share Plan - Tenafly Borough (Adopted 06/11/2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/tenafly-boro/61225TenaflyHousingElementandFairSharePlanAdopted061125Part1.pdf?VersionId=S_TDB542jrJpsgkCF0H4QeyVBlqmSOBB"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Borough of Tenafly Ordinance No. 23-25 (MF-A-1 District, Block 715)",
+        "url": "https://www.tenaflynj.gov/DocumentCenter/View/3216/Ordinance---23-25---Land-Development-Regulations?bidId="
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Borough of Tenafly Ordinance No. 25-32 (AHO-9, West Clinton Ave)",
+        "url": "https://tenaflynj.gov/DocumentCenter/View/5571/Ordinance---25-32--West-Clinton-Ave-Ordinance?bidId="
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Borough of Tenafly Ordinance No. 25-33 (AHO-10, North Summit Street)",
+        "url": "https://tenaflynj.gov/DocumentCenter/View/5602/Ordinance---25-33---North-Summit-Street?bidId="
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Borough of Tenafly Ordinance No. 26-01 (AHO-9 amendment, Block 904)",
+        "url": "https://www.tenaflynj.gov/DocumentCenter/View/5702"
+      },
+      {
+        "doc_type": "other",
+        "title": "Tenafly Planning Board Special Public Meeting Minutes (June 11/25, 2025)",
+        "url": "https://www.tenaflynj.gov/AgendaCenter/ViewFile/Minutes/_06112025-976"
+      },
+      {
+        "doc_type": "other",
+        "title": "Tenafly Affordable Housing Update page",
+        "url": "https://www.tenaflynj.gov/162/Affordable-Housing-Update"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "1-11 Serpentine Road (MF-A-1 District)",
+        "address": "1-11 Serpentine Road, Tenafly, NJ",
+        "block": "715",
+        "lot": "11, 12, 13, 14",
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": "MF-A-1",
+        "density": null,
+        "total_units": 16,
+        "affordable_units": 16,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": "BCUW/Madeline Housing Partners, LLC",
+        "source_url": "https://www.tenaflynj.gov/DocumentCenter/View/3216/Ordinance---23-25---Land-Development-Regulations?bidId=",
+        "source_date": "2025",
+        "confidence": "medium",
+        "notes": "Ordinance 23-25 rezoned Block 715 Lots 11, 13, 14 to MF-A-1. Site plan application filed for 16 units 100% affordable. Lot 12 also referenced in application. 16-unit count from Planning Board meeting minutes snippet."
+      },
+      {
+        "site_name": "West Clinton Avenue Overlay (AHO-9)",
+        "address": "West Clinton Avenue, Tenafly, NJ",
+        "block": "904",
+        "lot": "3, 4, 5, 6",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "AHO-9",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://tenaflynj.gov/DocumentCenter/View/5571/Ordinance---25-32--West-Clinton-Ave-Ordinance?bidId=",
+        "source_date": "2025",
+        "confidence": "medium",
+        "notes": "Ordinance 25-32 created AHO-9 overlay on Block 904 Lots 3, 4, 5, 6; permits inclusionary multifamily plus small-scale commercial fronting West Clinton Ave. Unit counts not stated in search results. Ordinance 26-01 is a subsequent amendment also referencing this area."
+      },
+      {
+        "site_name": "North Summit Street Overlay (AHO-10)",
+        "address": "North Summit Street, Tenafly, NJ",
+        "block": "1301",
+        "lot": "1, 3",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": "SR/B Senior Residence/Business District",
+        "proposed_zoning": "AHO-10",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://tenaflynj.gov/DocumentCenter/View/5602/Ordinance---25-33---North-Summit-Street?bidId=",
+        "source_date": "2025",
+        "confidence": "medium",
+        "notes": "Ordinance 25-33 placed Block 1301 Lots 1 and 3 into AHO-10 overlay; underlying SR/B district retained. Small-scale commercial use permitted fronting North Summit Street. Unit counts not stated in search results."
+      }
+    ]
+  },
+  {
+    "municipality": "Teterboro",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": null,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.teterboronj.org/news-announcements/336-adopted-resolution-relating-to-fourth-round-affordable-housing-obligations"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-24",
+      "hefsp_url": null
+    },
+    "notes": "Planning Board adopted a Resolution and Fair Share Element on June 24, 2025 relating to Fourth Round affordable housing obligations per the Borough's official website. No HEFSP document found on library.njcourts.gov for Teterboro (search returned no Teterboro-specific URL). DCA used 2015-19 ACS data for Teterboro due to unavailability of 2018-22 MHI estimates. Teterboro is a small industrial borough (~18 residents, primarily an airport enclave); obligation numbers may be de minimis or zero but specific numbers could not be confirmed from search results. No FSHC settlement or specific sites identified. The resolution and fair share element are available on teterboronj.org but specific HEFSP document URL not found.",
+    "sources": [
+      {
+        "doc_type": "other",
+        "title": "Teterboro Borough - Adopted Resolution Relating to Fourth Round Affordable Housing Obligations",
+        "url": "https://www.teterboronj.org/news-announcements/336-adopted-resolution-relating-to-fourth-round-affordable-housing-obligations"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA Fourth Round Affordable Housing Obligation Calculations (2025-2035)",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents - NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      }
+    ],
+    "sites": []
+  },
+  {
+    "municipality": "Upper Saddle River",
+    "research_status": "done",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": 201,
+      "total_obligation": null,
+      "rdp": 0,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/upper-saddle-river-boro/61225USRHousingElementandFairSharePlanADOPTED61125.pdf"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2026-02-18",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-11",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/upper-saddle-river-boro/61225USRHousingElementandFairSharePlanADOPTED61125.pdf"
+    },
+    "notes": "HEFSP adopted June 11, 2025 (document dated June 12). Resolution #47-25 adopted January 23, 2025 accepting DCA present need but seeking to reduce prospective need to 201 units. RDP obligation adjusted to 0 (fully developed community). Mediation agreement with FSHC entered February 18, 2026 (referenced in Ordinance 06-26 creating OL-5). Third round settlement with FSHC approved by Superior Court June 26, 2020. AH-5 District covers Block 601, Proposed Lot 1.01 (38.65 acres) with 6.05 du/ac max density; 47 affordable units required with 25 off-site on Block 1016. AH-6 District covers Block 1002, Lot 2 (10 Mountainview Rd, 18.85 acres) with 7.2 du/ac max density and 20% set-aside. OL-5 overlay created by Ordinance 06-26 with minimum 6 acres / 6 du/ac density. Prospective need number 201 is what the Borough sought; actual DCA number may differ.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "2025 Housing Element & Fair Share Plan - Upper Saddle River (Adopted 06/11/2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/upper-saddle-river-boro/61225USRHousingElementandFairSharePlanADOPTED61125.pdf"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Upper Saddle River Ordinance No. 06-26 (OL-5 Overlay Zone)",
+        "url": "https://usrtoday.org/DocumentCenter/View/991/Intro-Ord-06-26---USR-New-OL-5-Ordinance?bidId="
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Upper Saddle River Ordinance No. 08-26 (AH-6 District, 10 Mountainview Rd)",
+        "url": "https://usrtoday.org/DocumentCenter/View/1034/Intro-Ord8-26-USR-New-AH-6-10-Mtn-View?bidId="
+      },
+      {
+        "doc_type": "other",
+        "title": "Upper Saddle River Meets Affordable Housing Compliance (Ridgewood Blog)",
+        "url": "https://theridgewoodblog.net/upper-saddle-river-meets-affordable-housing-compliance/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Article I: Affordable Housing Regulations - Borough of Upper Saddle River, NJ (eCode360)",
+        "url": "https://ecode360.com/36972719"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "AH-5 District (Commons / Block 601)",
+        "address": null,
+        "block": "601",
+        "lot": "1.01 (proposed)",
+        "acreage": 38.65,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": "AH-5",
+        "density": 6.05,
+        "total_units": null,
+        "affordable_units": 47,
+        "set_aside_pct": null,
+        "tenure": "for-sale",
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/36972719",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Block 601, Proposed Lot 1.01; 38.65 acres; max 6.05 du/ac; 47 affordable units required, 25 to be built off-site on Block 1016 Lots 2, 3, 4, 6 (municipally-owned). Third round AH-5 district; referenced in 4th round HEFSP. Townhouse development."
+      },
+      {
+        "site_name": "10 Mountainview Road (AH-6 District)",
+        "address": "10 Mountainview Road, Upper Saddle River, NJ 07458",
+        "block": "1002",
+        "lot": "2",
+        "acreage": 18.85,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": "office/commercial",
+        "proposed_zoning": "AH-6",
+        "density": 7.2,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": "for-sale",
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://usrtoday.org/DocumentCenter/View/1034/Intro-Ord8-26-USR-New-AH-6-10-Mtn-View?bidId=",
+        "source_date": "2026",
+        "confidence": "medium",
+        "notes": "Ordinance 08-26 created AH-6 district. Block 1002 Lot 2 confirmed via NJParcels. 18.85 acres; 7.2 du/ac max density; 20% affordable set-aside; minimum lot area 18 acres. Currently a vacant 3-story office building (193,332 SF). Being auctioned as of August 2025."
+      },
+      {
+        "site_name": "OL-5 Overlay Zone",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "OL-5",
+        "density": 6.0,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://usrtoday.org/DocumentCenter/View/991/Intro-Ord-06-26---USR-New-OL-5-Ordinance?bidId=",
+        "source_date": "2026",
+        "confidence": "medium",
+        "notes": "Ordinance 06-26 created OL-5 overlay per February 18, 2026 mediation agreement with FSHC. Minimum lot 6.0 acres; max density 6 du/ac; max height 2.5 stories/35 ft. Specific block/lot and affordable unit count not stated in available search results."
+      },
+      {
+        "site_name": "Off-site Affordable Units (Block 1016)",
+        "address": null,
+        "block": "1016",
+        "lot": "2, 3, 4, 6",
+        "acreage": null,
+        "mechanism": "municipal",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 25,
+        "affordable_units": 25,
+        "set_aside_pct": 100,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/36972719",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Borough-owned parcels (Block 1016, Lots 2, 3, 4, 6) to receive 25 off-site affordable units concurrent with Block 601 townhouse development. Referenced in AH-5 ordinance provisions."
+      }
+    ]
+  },
+  {
+    "municipality": "Waldwick",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 19,
+      "prospective_need": 164,
+      "total_obligation": 183,
+      "rdp": 5,
+      "unmet_need": 159,
+      "source_url": "https://www.waldwicknj.gov/media/departments/administration/Affordable%20Housing/Waldwick%20HEFSP-FINAL%20ADOPTED%206-23-25.pdf"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-23",
+      "hefsp_url": "https://www.waldwicknj.gov/media/departments/administration/Affordable%20Housing/Waldwick%20HEFSP-FINAL%20ADOPTED%206-23-25.pdf"
+    },
+    "notes": "HEFSP adopted June 23, 2025. Amended HEFSP adopted March 10, 2026 (document dated March 5, 2026). Consent Order Final Compliance Certification for 4th Round filed April 21, 2026. Resolution 2025-60 adopted January 28, 2025. Case No. BER-L-700-25. DCA original prospective need was 178 units; reduced to 164 units through settlement/mediation with FSHC. RDP of 5 units yields unmet need of 159. Harrison Avenue Redevelopment (Block 107) adopted Dec 2024; 42 or 43 units total (22 apartments + 21 townhouses per some references, 42 DU per others), 6 affordable units. AHO-1 and AHO-2 overlay zones also exist near CBD/rail corridor. AHO-4 created for Block 301 Lot 3.05 to address unmet need. Present need of 19 units comes from search result synthesis; confidence low.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Borough of Waldwick Master Plan Housing Element and Fair Share Plan (Adopted 06/23/2025)",
+        "url": "https://www.waldwicknj.gov/media/departments/administration/Affordable%20Housing/Waldwick%20HEFSP-FINAL%20ADOPTED%206-23-25.pdf"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Borough of Waldwick Master Plan Amendment to HEFSP (Adopted 03/10/2026)",
+        "url": "https://www.waldwicknj.gov/media/departments/administration/Affordable%20Housing/03-05-2026--Waldwick-HEFSP-FEB-2026-amendment-ADOPTED-3-10-26.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Waldwick - Affordable Housing page",
+        "url": "https://www.waldwicknj.gov/AffordableHousing"
+      },
+      {
+        "doc_type": "other",
+        "title": "Harrison Avenue Redevelopment Plan (Adopted Dec 2024)",
+        "url": "https://www.waldwicknj.gov/media/redevelopment/Plans/Waldwick-Harrison%20Avenue%20Redevelopment%20Plan%20ADOPTED%20Dec%202024.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Waldwick Planning Board Minutes June 23, 2025",
+        "url": "https://evocloud-prod3-public.s3.us-east-2.amazonaws.com/meetings/108/minutes/9400.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Waldwick Borough - Redevelopment Projects",
+        "url": "https://www.waldwicknj.gov/redevelopment"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Harrison Avenue Redevelopment",
+        "address": "Harrison Avenue / West Prospect Street, Waldwick, NJ",
+        "block": "107",
+        "lot": "1, 3, 5, 7, 8, 9, 10, 11",
+        "acreage": 1.278,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 43,
+        "affordable_units": 6,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.waldwicknj.gov/media/redevelopment/Plans/Waldwick-Harrison%20Avenue%20Redevelopment%20Plan%20ADOPTED%20Dec%202024.pdf",
+        "source_date": "2024-12",
+        "confidence": "medium",
+        "notes": "Condemnation redevelopment area designated per Mayor/Council direction March 2024; Redevelopment Plan adopted December 2024. 1.278 acres one block from train station. Mixed-use: first floor commercial, residential above. Units described as 22 apartments + 21 townhouses (43 total) in one source, 42 DU in another; 6 affordable units. Confidence medium as details from news article and planning board minutes snippets."
+      },
+      {
+        "site_name": "AHO-2 Overlay Zone",
+        "address": null,
+        "block": "101",
+        "lot": "6.01",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "AHO-2",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.waldwicknj.gov/media/departments/administration/Affordable%20Housing/Waldwick%20HEFSP-FINAL%20ADOPTED%206-23-25.pdf",
+        "source_date": "2025",
+        "confidence": "low",
+        "notes": "AHO-2 zone includes two properties near CBD: Block 101 Lot 6.01 and Block 109.02 Lot 6.04. Mixed-use development permitted. Minimum affordable set-aside 20% (15% if rental). Specific unit counts not found."
+      },
+      {
+        "site_name": "AHO-2 Overlay Zone (second parcel)",
+        "address": null,
+        "block": "109.02",
+        "lot": "6.04",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "AHO-2",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.waldwicknj.gov/media/departments/administration/Affordable%20Housing/Waldwick%20HEFSP-FINAL%20ADOPTED%206-23-25.pdf",
+        "source_date": "2025",
+        "confidence": "low",
+        "notes": "Second parcel in AHO-2 zone per HEFSP snippet. Located near CBD. Mixed-use permitted. Specific unit counts not found."
+      },
+      {
+        "site_name": "AHO-4 Overlay Zone (Block 301 Lot 3.05)",
+        "address": null,
+        "block": "301",
+        "lot": "3.05",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "AHO-4",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.waldwicknj.gov/media/departments/administration/Affordable%20Housing/03-05-2026--Waldwick-HEFSP-FEB-2026-amendment-ADOPTED-3-10-26.pdf",
+        "source_date": "2026-03-10",
+        "confidence": "low",
+        "notes": "AHO-4 created to address Borough's Fourth Round unmet need per search result snippet. Block 301, Lot 3.05. Specific unit counts, density, and acreage not stated in search results."
+      }
+    ]
+  },
+  {
+    "municipality": "Wallington",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 4,
+      "prospective_need": 233,
+      "total_obligation": 237,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-30",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV"
+    },
+    "notes": "HEFSP adopted June 30, 2025; official document at library.njcourts.gov (Bergen/Wallington). Draft also available on wallingtonnj.org (dated June 20, 2025). Borough accepted DCA determination: present need 4 units, prospective need 233 units. Borough adopted resolution January 2025. Prior settlement agreements with FSHC referenced in HEFSP. Note: a different 'present need' of 81 units appears in context of cumulative prior-round rehabilitation obligation; the 4-unit figure is specifically the Fourth Round present need from DCA. Prospective need combines prior rounds: 5 (R1/R2) + 125 (R3) + 212/233 (R4) referenced inconsistently across snippets; 233 is the DCA Fourth Round figure accepted by Borough. Main Fourth Round site is 380 Mount Pleasant Ave (Block 70.01 Lot 78), AR-2 zone, 269-275 total units with 48 affordable (18% set-aside approx). Additional sites: 35 Spring Street (Block 70.05 Lot 8.01), Morningside/New Wallington Homes (Block 71 Lot 35).",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Housing Element & Fair Share Plan Borough of Wallington (Adopted 06/30/2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Wallington 4th Round HEFSP Final Draft (June 20, 2025)",
+        "url": "https://www.wallingtonnj.org/sites/g/files/vyhlif1376/f/news/wallington_housing_element_4th_round_final_draft_r_4170.10_2025_06_20.pdf"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Wallington Ordinance rezoning 380 Mount Pleasant Avenue (AR-2 Zone)",
+        "url": "https://ecode360.com/WA1327/laws/LF1334595.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Article VII: Affordable Residential (AR) Zone Requirements - Borough of Wallington (eCode360)",
+        "url": "https://ecode360.com/15125126"
+      },
+      {
+        "doc_type": "news",
+        "title": "Inclusionary Development with 275 Units Proposed for Wallington, Bergen County (Jersey Digs)",
+        "url": "https://jerseydigs.com/development-275-units-proposed-wallington-bergen-county/"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "380 Mount Pleasant Avenue (AR-2 Zone)",
+        "address": "380 Mount Pleasant Avenue, Wallington, NJ 07057",
+        "block": "70.01",
+        "lot": "78",
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": "AR-2",
+        "density": null,
+        "total_units": 275,
+        "affordable_units": 48,
+        "set_aside_pct": 18,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": "Wallington Real Estate Investment Trust",
+        "source_url": "https://ecode360.com/WA1327/laws/LF1334595.pdf",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "AR-2 zone at 380 Mount Pleasant Ave; Block 70.01 Lot 78. Min 269 / max 275 total units; 48 affordable (18% approx). Mixed market-rate and affordable rental; includes family, senior, and alternative living units. Adjacent to Wesmont NJ Transit commuter rail station. Developer has applied for preliminary and final site plan approval. Set-aside ~17.5% (48/275); sources round to 18%."
+      },
+      {
+        "site_name": "Spring Street Residences (35 Spring Street)",
+        "address": "35 Spring Street, Wallington, NJ 07057",
+        "block": "70.05",
+        "lot": "8.01",
+        "acreage": 1.5,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 8,
+        "affordable_units": 8,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "built",
+        "developer": "Wallington Homes, LLC",
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV",
+        "source_date": "2025-06-30",
+        "confidence": "low",
+        "notes": "1.5-acre parcel formerly occupied by abandoned pool facility. 8 family apartments (1-, 2-, 3-bedroom), very-low/low/moderate-income rental. Described as completed. Block/lot from HEFSP synthesis; specific figures from search result summary - verify against primary document."
+      },
+      {
+        "site_name": "Morningside / New Wallington Homes Site (Block 71)",
+        "address": null,
+        "block": "71",
+        "lot": "35",
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": null,
+        "developer": "Morningside/New Wallington Homes, LLC",
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV",
+        "source_date": "2025-06-30",
+        "confidence": "low",
+        "notes": "Settlement agreement between Borough and Morningside/New Wallington Homes, LLC referenced in HEFSP context. Property identified as Block 71 Lot 35. Unit counts, acreage, and mechanism not stated in search results - lead only."
+      }
+    ]
+  }
+]

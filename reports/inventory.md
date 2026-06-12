@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T03:24:01+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T03:24:28+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -299,4 +299,96 @@ _Obligation: 155 · Compliance: settled · HEFSP: adopted 2025-06-16_
 | MFO-2 Multifamily Overlay 2 (density increase) |  |  |  | 2.15 | overlay |  |  | 10 |  | rental | adopted-ordinance | medium | [doc](https://www.midlandparknj.gov/home/news/state-nj-mandated-affordable-housing-requirements-explanation) |
 | MFO-3 Multifamily Overlay 3 (new overlay zone, proposed) |  |  |  |  | overlay |  |  | 17 |  | rental | proposed | medium | [doc](https://www.midlandparknj.gov/home/news/state-nj-mandated-affordable-housing-requirements-explanation) |
 | 90 Midland Avenue – MARD Redevelopment District | 90 Midland Avenue, Midland Park, NJ 07432 | 45 | 9.01 |  | redevelopment-area |  |  | 5 |  |  | adopted-ordinance | medium | [doc](https://www.midlandparknj.gov/planning-board/pages/90-midland-avenue) |
+
+## Ridgewood (Village)
+
+_Obligation: 4 · Compliance: litigating · HEFSP: adopted 2025-07-01_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| The Enclave | 257 E. Ridgewood Ave., Ridgewood, NJ 07450 |  |  |  | 100pct-affordable |  |  |  |  | rental | built | low | [doc](https://theridgewoodblog.net/village-of-ridgewood-nj-slashes-affordable-housing-mandate-from-427-to-just-4-units/) |
+| Ridgewood Dayton | 150 S. Broad St., Ridgewood, NJ 07450 |  |  |  | inclusionary-rezoning |  |  |  |  | rental | built | low | [doc](https://theridgewoodblog.net/village-of-ridgewood-nj-slashes-affordable-housing-mandate-from-427-to-just-4-units/) |
+| Chestnut Village | 150-174 Chestnut St., Ridgewood, NJ 07450 |  |  |  | inclusionary-rezoning |  |  |  |  | rental | built | low | [doc](https://theridgewoodblog.net/village-of-ridgewood-nj-slashes-affordable-housing-mandate-from-427-to-just-4-units/) |
+| Kensington Senior Living at North Maple Avenue | North Maple Ave., Marshall St., and Franklin Ave., Ridgewood, NJ 07450 | 3611 | 1, 19, 22 | 1.3 | overlay |  | 125 | 13 | 10.0% | rental | proposed | low | [doc](https://ridgewood-united.com/the-proposal) |
+
+## River Edge (Borough)
+
+_Obligation: 192 · Compliance: settled · HEFSP: adopted 2025-06-25_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| New Bridge Landing Station Redevelopment Plan (amended) |  |  |  |  | redevelopment-area |  |  |  |  |  | adopted-ordinance | low | [doc](https://www.riveredgenj.org/2026ordinances) |
+| Block 1418 Inclusionary Overlay |  | 1418 | 1, 2, 3, 3.01, 4 |  | overlay |  |  |  |  |  | adopted-ordinance | medium | [doc](https://www.riveredgenj.org/2026ordinances) |
+| Block 203 Inclusionary Overlay |  | 203 | 2, 2.01, 3, 4 |  | overlay |  |  |  |  |  | adopted-ordinance | medium | [doc](https://www.riveredgenj.org/2026ordinances) |
+
+## River Vale (Township)
+
+_Obligation: 228 · Compliance: settled · HEFSP: adopted 2025-06-18_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| River Vale Senior Residence | 430 Cedar Ln, River Vale, NJ 07675 |  |  |  | 100pct-affordable |  | 49 | 49 | 100.0% | rental | built | medium | [doc](https://habcnj.org/housing_programs/our_buildings/river_vale_senior_residence.php) |
+| CareOne Assisted Living and Skilled Nursing Facility | 2601-2621 Highway 138, River Vale, NJ | 745 | 4.01, 16 |  | overlay |  |  | 32 |  | rental | adopted-ordinance | low | [doc](https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/4491/Trv/4875afbe-1577-4f8b-8ec4-155fea2cd2a6/2025-0618_Adopted_River_Vale_HEFSP_with_Append.pdf?disposition=inline) |
+| Forcellati Nursery Site (Incandescent Development) | 691-693 Rivervale Road, River Vale, NJ 07675 | 813 | 17, 18 | 5.4 | inclusionary-rezoning |  | 75 | 15 | 20.0% | for-sale | approved | low | [doc](https://thepressgroup.net/breaking-river-vale-oks-75-homes-on-nursery-site-to-avoid-bigger-project-court-fight/) |
+
+## Rochelle Park (Township)
+
+_Obligation: 119 · Compliance: settled · HEFSP: adopted 2025-06-25_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| The Delford at Village Center | 120 W. Passaic St., Rochelle Park, NJ 07662 |  |  |  | inclusionary-rezoning |  | 160 | 24 | 15.0% | rental | built | low | [doc](https://www.piazzanj.com/property/the-delford-at-village-center/) |
+| West Passaic Street Site (29 Fairfield Dr / 70 W. Passaic St) | 29 Fairfield Dr / 70 W. Passaic St., Rochelle Park, NJ |  |  | 1.3 |  |  |  |  |  |  | proposed | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp) |
+| 375 West Passaic Street Site | 375 West Passaic St., Rochelle Park, NJ |  |  |  |  |  |  |  |  |  | proposed | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp) |
+
+## Rockleigh (Borough)
+
+_Obligation: 14 · Compliance: settled · HEFSP: adopted 2025-06-23_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Spectrum for Living Supervised Apartment Complex |  |  |  |  | group-home |  | 16 | 16 | 100.0% | rental | built | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj) |
+| Accessory Apartment Program |  |  |  |  | accessory-apt |  |  | 5 | 100.0% | rental | adopted-ordinance | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj) |
+
+## Tenafly (Borough)
+
+_Obligation: 307 · Compliance: settled · HEFSP: adopted 2025-06-11_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| North Summit Street Overlay (AHO-10) | North Summit Street, Tenafly, NJ | 1301 | 1, 3 |  | overlay |  |  |  |  |  | adopted-ordinance | medium | [doc](https://tenaflynj.gov/DocumentCenter/View/5602/Ordinance---25-33---North-Summit-Street?bidId=) |
+| 1-11 Serpentine Road (MF-A-1 District) | 1-11 Serpentine Road, Tenafly, NJ | 715 | 11, 12, 13, 14 |  | 100pct-affordable |  | 16 | 16 | 100.0% | rental | adopted-ordinance | medium | [doc](https://www.tenaflynj.gov/DocumentCenter/View/3216/Ordinance---23-25---Land-Development-Regulations?bidId=) |
+| West Clinton Avenue Overlay (AHO-9) | West Clinton Avenue, Tenafly, NJ | 904 | 3, 4, 5, 6 |  | overlay |  |  |  |  |  | adopted-ordinance | medium | [doc](https://tenaflynj.gov/DocumentCenter/View/5571/Ordinance---25-32--West-Clinton-Ave-Ordinance?bidId=) |
+
+## Upper Saddle River (Borough)
+
+_Compliance: settled · HEFSP: adopted 2025-06-11_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| OL-5 Overlay Zone |  |  |  |  | overlay | 6.0 |  |  |  |  | adopted-ordinance | medium | [doc](https://usrtoday.org/DocumentCenter/View/991/Intro-Ord-06-26---USR-New-OL-5-Ordinance?bidId=) |
+| 10 Mountainview Road (AH-6 District) | 10 Mountainview Road, Upper Saddle River, NJ 07458 | 1002 | 2 | 18.85 | inclusionary-rezoning | 7.2 |  |  | 20.0% | for-sale | adopted-ordinance | medium | [doc](https://usrtoday.org/DocumentCenter/View/1034/Intro-Ord8-26-USR-New-AH-6-10-Mtn-View?bidId=) |
+| Off-site Affordable Units (Block 1016) |  | 1016 | 2, 3, 4, 6 |  | municipal |  | 25 | 25 | 100.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/36972719) |
+| AH-5 District (Commons / Block 601) |  | 601 | 1.01 (proposed) | 38.65 | inclusionary-rezoning | 6.05 |  | 47 |  | for-sale | adopted-ordinance | medium | [doc](https://ecode360.com/36972719) |
+
+## Waldwick (Borough)
+
+_Obligation: 183 · Compliance: settled · HEFSP: adopted 2025-06-23_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| AHO-2 Overlay Zone |  | 101 | 6.01 |  | overlay |  |  |  | 20.0% |  | adopted-ordinance | low | [doc](https://www.waldwicknj.gov/media/departments/administration/Affordable%20Housing/Waldwick%20HEFSP-FINAL%20ADOPTED%206-23-25.pdf) |
+| Harrison Avenue Redevelopment | Harrison Avenue / West Prospect Street, Waldwick, NJ | 107 | 1, 3, 5, 7, 8, 9, 10, 11 | 1.278 | redevelopment-area |  | 43 | 6 |  | rental | adopted-ordinance | medium | [doc](https://www.waldwicknj.gov/media/redevelopment/Plans/Waldwick-Harrison%20Avenue%20Redevelopment%20Plan%20ADOPTED%20Dec%202024.pdf) |
+| AHO-2 Overlay Zone (second parcel) |  | 109.02 | 6.04 |  | overlay |  |  |  | 20.0% |  | adopted-ordinance | low | [doc](https://www.waldwicknj.gov/media/departments/administration/Affordable%20Housing/Waldwick%20HEFSP-FINAL%20ADOPTED%206-23-25.pdf) |
+| AHO-4 Overlay Zone (Block 301 Lot 3.05) |  | 301 | 3.05 |  | overlay |  |  |  |  |  | adopted-ordinance | low | [doc](https://www.waldwicknj.gov/media/departments/administration/Affordable%20Housing/03-05-2026--Waldwick-HEFSP-FEB-2026-amendment-ADOPTED-3-10-26.pdf) |
+
+## Wallington (Borough)
+
+_Obligation: 237 · Compliance: settled · HEFSP: adopted 2025-06-30_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 380 Mount Pleasant Avenue (AR-2 Zone) | 380 Mount Pleasant Avenue, Wallington, NJ 07057 | 70.01 | 78 |  | inclusionary-rezoning |  | 275 | 48 | 18.0% | rental | adopted-ordinance | medium | [doc](https://ecode360.com/WA1327/laws/LF1334595.pdf) |
+| Spring Street Residences (35 Spring Street) | 35 Spring Street, Wallington, NJ 07057 | 70.05 | 8.01 | 1.5 | 100pct-affordable |  | 8 | 8 | 100.0% | rental | built | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV) |
+| Morningside / New Wallington Homes Site (Block 71) |  | 71 | 35 |  | inclusionary-rezoning |  |  |  |  |  |  | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV) |
 
