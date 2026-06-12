@@ -1,8 +1,8 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T11:45:10+00:00_
+_Generated 2026-06-12T11:55:33+00:00_
 
-- Municipalities: **70/70**  (done: 44, in_progress: 26, blocked: 0, not_started: 0)
+- Municipalities: **70/70**  (done: 45, in_progress: 25, blocked: 0, not_started: 0)
 - Sites catalogued: **191**
 
 | # | Municipality | Status | Sites | Oblig. | Compliance | HEFSP | Last researched |
@@ -37,7 +37,7 @@ _Generated 2026-06-12T11:45:10+00:00_
 | 28 | Ho-Ho-Kus | in_progress | 3 | 218 | litigating | adopted | 2026-06-12T03:23:26+00:00 |
 | 29 | Leonia | done | 2 | 172 | settled | adopted | 2026-06-12T03:23:26+00:00 |
 | 30 | Little Ferry | in_progress | 4 |  | in_progress | proposed | 2026-06-12T03:23:26+00:00 |
-| 31 | Lodi | in_progress | 0 |  |  |  | 2026-06-12T03:35:42+00:00 |
+| 31 | Lodi | done | 0 | 140 | urban_aid_rehab_only | adopted | 2026-06-12T11:55:22+00:00 |
 | 32 | Lyndhurst | in_progress | 0 | 366 | challenged | adopted_challenged | 2026-06-12T03:35:04+00:00 |
 | 33 | Mahwah | done | 4 | 495 | settled | adopted | 2026-06-12T03:22:08+00:00 |
 | 34 | Maywood | done | 2 | 143 | settled | adopted | 2026-06-12T03:22:08+00:00 |

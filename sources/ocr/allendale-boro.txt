@@ -1,0 +1,4396 @@
+SOURCE_URL: https://library.njcourts.gov/files/civil/affordable-housing/bergen/allendale-boro/61725AllendaleHEFSPFinaladopted61625reducedPart1.pdf?VersionId=OS80HMqcQEJ9KXkqylWVs6qi4JkWPnvl
+
+===== PAGE 1 =====
+Housing Element and 
+Fair Share Plan
+Approved June 16, 2025
+Borough of Allendale
+Master Plan 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 1 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 2 =====
+BER-L-000594-25
+06/17/2025 2:30:30 PM
+Pg 2of 82
+Trans ID: LCV20251782378
+1
+
+===== PAGE 3 =====
+Community Planning
+Principals:
+Land Development and Design
+Joseph H. Burgis PP, AICP
+Landscape Architecture
+Edward Snieckus, Jr. PP, LLA, ASLA
+David Novak PP, AICP
+i
+b a
+B
+U
+R
+G
+I
+S
+A S S O C I A T E S,
+I N C.
+Housing Element and
+Fair Share Plan
+Borough of Allendale
+Bergen County, New Jersey
+Prepared for the Borough of Allendale
+Planning Board
+BA# 4127.03
+The original document was appropriately signed and sealed on June 16, 2025 in accordance with 
+Chapter 41 of Title 13 of the State Board of Professional Planners
+_______________________________
+_______________________________
+Joseph H. Burgis, AICP, PP
+Ed Snieckus, Jr. PP, LLA, ASLA
+Professional Planner #2450
+Professional Planner #5442
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 3 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 4 =====
+BER-L-000594-25
+06/17/2025 2:30:30 PM
+Pg 4of 82
+Trans ID: LCV20251782378
+
+===== PAGE 5 =====
+ 
+ii 
+Members of the Borough of Allendale Land Use Board 
+Amy Wilczynski, Mayor 
+Tyler Yaccarino, Council Member  
+Michael A. Sirico, Chair 
+Melissa Bergen, Vice Chair 
+Frank Putrino, Member 
+John Dalo, Member 
+Jason Warzala, Member 
+Andrew Agugliaro, Member 
+Gregg Butler, Member 
+Joseph Conte, Alternate 1  
+ 
+Planning and Zoning Board Secretary
+Linda Garofalo 
+ 
+Planning Board Attorney
+Lawrene Calli, Esq. 
+Cali Law, LLC 
+ 
+Planning Board Engineer 
+Michael Vreeland, PE PP, CME 
+Van Cleef Engineering 
+ 
+Planning Board Planning Consultant 
+Edward Snieckus, Jr. PP, LLA, ASLA
+Allison Fahey, PP, AICP 
+Burgis Associates, Inc 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 5 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 6 =====
+ 
+iii 
+Contents
+Executive Summary............................................................................................................................................1
+Prior Round Obligation................................................................................................................................1
+Third Round Obligation ............................................................................................................................... 2 
+Fourth Round Obligation ............................................................................................................................ 4 
+Section 1: Introduction ..................................................................................................................................... 7 
+What is Affordable Housing? .................................................................................................................... 7 
+What is a Housing Element and Fair Share Plan? ............................................................................ 11 
+Allendale’s Affordable Housing History .............................................................................................. 12 
+Section 2: Housing Element..........................................................................................................................14
+2.1: Community Overview.........................................................................................................................15
+2.2: Demographic and Population Data .............................................................................................. 19 
+2.3: Inventory of Housing Stock ............................................................................................................. 22 
+2.4: Housing and Employment Projection .......................................................................................... 26 
+Section 3: Fair Share Obligation .................................................................................................................. 29 
+3.1: Summary of Fair Share Obligation ................................................................................................ 29 
+3.2: Structural Conditions Survey ........................................................................................................... 29 
+3.3: Realistic Development Potential (RDP) ........................................................................................ 30 
+Section 4: Fair Share Plan ............................................................................................................................... 32 
+4.1: Present Need Obligation (10) ......................................................................................................... 32 
+4.2: Prior Round Obligation...................................................................................................................... 32 
+4.3: Third Round Obligation ..................................................................................................................... 34 
+4.4: Fourth Round Obligation .................................................................................................................. 39 
+4.5: Unmet Need (196) ............................................................................................................................... 41 
+4.6: Other Provisions...................................................................................................................................42
+4.7: Review of Rejected Development Sites ....................................................................................... 43 
+4.6: Consistency with State Planning Initiatives ............................................................................... 43 
+4.7: Crediting Documentation and Ongoing Compliance ........................................................... 44 
+Appendices .......................................................................................................................................................... 45 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 6 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 7 =====
+ 
+ 
+~ 1 ~ 
+ 
+ 
+Executive Summary 
+The following 2025 Housing Element and Fair Share Plan (HE&FSP) of the Master Plan has 
+been prepared for the Borough of Allendale. This plan is designed to outline the manner 
+in which the Borough will address its affordable housing obligations. Ultimately, these 
+obligations were derived from a variety of different sources, the New Jersey Fair Housing 
+Act, as amended in March of 2024 (hereinafter “FHA II”), the New Jersey Council on 
+Affordable Housing (COAH), and a prior settlement agreement with Fair Share Housing 
+Center (FSHC). 
+These obligations can be summarized as follows: 
+Table 1: Affordable Housing Obligation Summary
+Category
+Obligation 
+Prior Round Obligation (1987-1999)
+137
+Third Round Obligation (1999-2025) 
+308
+Fourth Round Obligation (2025-2035)
+200
+Present Need (Rehabilitation) Obligation 
+159
+Prior Round Obligation
+The Borough received a First Round JOR on February 25, 1991. 
+COAH assigned the Borough a Prior Round Obligation of 137 units for Rounds 1 and 2. 
+The Borough fully addressed this obligation with a combination of a Regional 
+Contribution Agreement, inclusionary development, 100% affordable development, and 
+supportive and special needs housing as summarized in Table 2.  
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 7 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 8 =====
+ 
+ 
+~ 2 ~ 
+ 
+Table 2: Prior Round (1987-2025) Affordable Housing Components 
+Project Description- Prior Round 
+Prior 
+Round
+Units
+Prior 
+Round
+Bonus
+Total 
+Surplus
+Credits
+Regional Contribution Agreements (RCAs)-
+Completed
+ 
+40 units to Jersey City
+4 units to Ridgefield Borough
+44 
+- 
+44 
+- 
+Allendale Brook Associates project located 
+on Carriage Court and Trotters Lane 
+(Block 2101, Lot 9) – Completed 
+4 
+- 
+4
+5 
+Saddle Dale Builders project located on 
+Elm Street (Block 1809, Lot 8) – Completed
+3 
+3 
+6 
+- 
+Garden Homes/The Whitney project (Block
+2101, Lots 1, 2, 3, 5, 6, 7, 8) – Completed
+-
+-
+0
+12
+Allendale Senior Housing project located on 
+Cebak Court (Block 1708, Lots 1 and 9) – 
+Completed 
+16
+-
+16
+- 
+Orchard Commons supportive special needs 
+housing project at (Block 1806, Lot 10.01) – 
+Completed 
+10
+10
+20 
+- 
+Crescent Commons (Block 904, 
+Lots 10.01, 10.02, 14, 31) 26 out of 
+33 affordable units – Completed
+26
+21
+47
+7 
+Total: 137 Units Prior Round 
+103 
+34
+137 
++24 
+ 
+All affordable units addressing the Prior Round are completed.  
+In 2008, COAH approved the Borough’s Housing Element and Fair Share Plan and 
+adopted a resolution certifying that plan. 
+Third Round Obligation
+On March 10, 2008, in a case commonly referred to as Mount Laurel IV, the Supreme 
+Court declared COAH moribund and established a procedure for municipalities to secure 
+approval of a Housing Element and Fair Share Plan for Round 3. Allendale voluntarily 
+participated in the new procedure to pursue approval of a Round 3 plan for a second 
+time based on the laws established in Mount Laurel IV. 
+In September 15, 2017, in the context of a declaratory relief action filed pursuant to 
+Mount Laurel IV, the Borough entered into a Settlement Agreement with Fair Share 
+Housing Center (FSHC). After the Planning Board adopted and the Borough endorsed a 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 8 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 9 =====
+ 
+ 
+~ 3 ~ 
+ 
+Housing Element and Fair Share Plan in 2018, the Court entered a Judgment of 
+Compliance and Repose June 27, 2019 approving this affordable housing plan. 
+The Housing Element and Fair Share Plan included an application for a Vacant Land 
+Adjustment, which, if approved, would result in a Realistic Development Potential of 54 
+units and an unmet need of 254. 
+The Housing Element and Fair Share Plan set forth the various mechanisms to address the 
+Borough’s RDP of 54. As illustrated by the chart below, while there are some minor 
+changes in how we apply the crediting from the implementation of the Third Round Plan, 
+the Borough has fully satisfied its RDP for this Round. 
+Table 3: Third Round (1999-2025) Affordable Housing Components
+Project Description
+Third 
+Round 
+Units
+Third 
+Round 
+Bonus
+Total
+Third
+Round
+Credits 
+Surplus
+Credits
+Allendale Brook Associates inclusionary for 
+sale development- Carriage Court and Trotters 
+Lane (Block 2101, Lot 9) – Completed
+ 
+5 of the 9 units will be carried 
+over as surplus to Third Round  
+5
+- 
+5 
+- 
+Garden Homes/Whitney project (Block 2101, 
+Lots 1 through 3 & 5 through 8) – Completed 
+12 family affordable rental units
+ 
+12
+12
+24 
+- 
+Former Farm project (Block 506, Lots 4.07 and 
+4.08) – completed
+ 
+2 family affordable rentals.
+2
+1 cap 
+3 
+- 
+Crescent Commons project - completed
+ 
+5 family affordable for sale units + 2 
+supportive shared living units 
+7
+-
+7
+- 
+220 West Crescent Avenue project (aka The Vale)
+– completed
+ 
+6 total affordable non-age-restricted
+rental units
+ 
+5 
+applied
+-
+5
+1
+Eastern Christian Group Home 1 project (Block 
+910, Lot 3) – completed
+ 
+5 completed bedrooms
+5
+-
+5 
+- 
+Eastern Christian Group Home 2 project (Block 
+1005, Lot 4) – completed
+ 
+5 completed bedrooms 
+5
+-
+5 
+- 
+TOTAL: 54 credits to address RDP
+41
+13
+54
++1
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 9 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 10 =====
+ 
+ 
+~ 4 ~ 
+ 
+While the Borough’s received an adjustment to their 308 new construction obligation for 
+Rounds 1 through 3 due to the lack of adequate vacant land, the applicable rules required 
+the Third Round Plan to include various programs towards what is termed as unmet need. 
+Unmet need is the remainder when the 54-unit RDP is subtracted from the total Third 
+need of 308 which leaves a remainder of 254 units.  
+In the Third Round, the Borough implemented zoning programs of overlay zones and a 
+mandatory set aside ordinance, to capture units towards this need if properties were 
+residentially developed.  
+Fourth Round Obligation
+For the reasons set forth below, the Borough’s rehabilitation obligation, also referred to 
+as its Present Need is 10 and its Round 4 Prospective Need is 200. 
+Present Need/Rehabilitation Obligation 
+Although the Department of Community Affairs (DCA) determined a Present Need 
+(Rehabilitation) obligation for the Round Four of 159 units, the Borough exercised its right 
+to conduct a Structural Conditions Survey to more accurately reflect the number of units 
+in need of rehabilitation in Allendale. Accordingly, the Borough conducted a Structural 
+Conditions Survey based on the criteria established in N.J.A.C. 5:93-5.2 and N.J.A.C. 5:97-
+6.2, which reference “Appendix C” of the rule. Allendale’s Construction Official completed 
+an exterior survey of the Borough between 12/26/24 to 1/10/25. That survey 
+demonstrated that only 10 units needed repair-not 159. Although Allendale submitted 
+this survey to the Program and contended that its Present need, also known as its 
+rehabilitation obligation, should be reduced to 10, the Program took the position that it 
+would only consider adjustments to the Present Need when municipalities submitted 
+their Housing Element and Fair Share Plans for review.  Accordingly, this plan includes the 
+structural conditions survey previously submitted in support of the proposition that its 
+Present Need is 10. 
+Round 4 Prospective Need Obligation 
+As noted above, the Fair Housing Act was amended last year, and this plan refers to the 
+amended FHA as FHA II. FHA II abolished COAH and created a new process that involved 
+the creation of a new entity known as the Affordable Housing Dispute Resolution 
+Program (the Program).  
+FHA-II directed the DCA to calculate the Present Need (also referred to as the 
+Rehabilitation obligation) and the Prospective Need (also known as the new construction 
+obligation) for Round Four based upon the standards set forth in the Act. The DCA issued 
+its report on October 18, 2024, and, in accordance with the Act, made clear that the 
+obligations generated by the report were advisory only and non-binding. For Allendale, 
+the DCA Report identified a Present Need of 159 and a Prospective Round Four Need of 
+260. 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 10 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 11 =====
+ 
+ 
+~ 5 ~ 
+ 
+Since the DCA report is non-binding, each municipality had the opportunity to study and 
+define why its obligations should be different based on the standards in the Act. The 
+Borough conducted such an analysis and determined that the DCA had overestimated the 
+amount of developable land in the Land Capacity Factor calculation, which is one of three 
+factors FHA II requires to be used to allocate the regional need to municipalities in each 
+region. The Borough adopted a binding resolution on January 23, 2025, which identified 
+an adjustment to the Present Need of 159 identified by DCA, to 10 units based upon a 
+study by the Building Official in compliance with applicable rules for adjusting the 
+rehabilitation obligation. In addition, the Borough contended that its Round 4 prospective 
+need should be reduced to 182 based upon DCA’s overestimate of land that is 
+developable in conjunction with determining the Land Capacity Allocation Factor.  
+In accordance with the procedures established by FHA II, FSHC objected to the reduction 
+in the Round 4 prospective need that would result if the Borough’s 182 determination 
+was approved.  In accordance with FHA II, a judge assigned by “the Program”-an entity 
+created by FHA II, oversaw mediation between the Borough and FSHC.  
+Mediation culminated in a mediation Agreement, dated April 21, 2025, setting the 
+Borough’s Round 4 Prospective Need at 200. On May 5, 2025, a vicinage area judge 
+approved that number.   
+Vacant Land Adjustment 
+Rehabilitation) obligation for the Round Four of 159 units, the Borough reserved the right 
+to conduct a Structural Conditions Survey to more accurately reflect the number of units 
+in need of 
+rehabilitationrehabilitationrehabilitationrehabilitationrehabilitationFurthermore, the 
+January 23, 2025 resolution noted that the Borough reserved the right in accordance with 
+applicable regulations, to seek an adjustment of its Fourth Round Prospective Need 
+number based upon a lack of vacant, developable and suitable land. FHA II authorizes 
+municipalities to rely on COAH standards that do not contradict FHA II and COAH permits 
+municipalities to secure adjustments to their obligations. Moreover, in apparent 
+recognition of the burdens created by the preparation of a vacant land adjustment, COAH 
+permits municipalities to rely upon a prior vacant land adjustment. The Borough is 
+exercising that right which resulted in the Court approving a vacant land adjustment that 
+set the Borough’s RDP at 26. In a further effort to eliminate any possible objection to its 
+claim for an adjustment, the Borough investigated whether there were any changed 
+circumstances that have occurred since the Court approved the Borough’s entitlement to 
+a vacant land adjustment that might warrant recalibrating the RDP. 
+Although there are no such changed circumstances, the Borough acknowledges that 
+there is the potential to redevelop an existing restaurant property in the next housing 
+cycle and so it will accept an RDP of 4 attributable to this site.  This analysis is covered in 
+more detail in Section 3. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 11 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 12 =====
+ 
+ 
+~ 6 ~ 
+ 
+The remainder of this 2025 HE&FSP is divided into the following sections: 
+ Section 1: Introduction 
+The first section of the 2025 HE&FSP provides an introduction to affordable 
+housing. It summarizes what affordable housing is, offers an overview of the 
+history of affordable housing in the state, and explains the role of a housing 
+element and fair share plan. 
+ Section 2: Housing Element 
+Section 2 contains the Housing Element for the Borough of Allendale. It offers an 
+overview of its community, as well as back information regarding its population, 
+housing, and employment characteristics. It also provides a projection of the 
+Borough’s housing stock and its employment projections.   
+ Section 3: Fair Share Obligation 
+Next, Section 3 provides an overview of the Borough’s fair share obligation. It 
+includes a brief history of the methodologies utilized to calculate affordable 
+housing obligations throughout the state. 
+ Section 4: Fair Share Plan 
+Finally, Section 4 details the manner in which the Borough has addressed its prior 
+obligations and how it will address its Fourth Round prospective need 
+obligations.  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 12 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 13 =====
+ 
+ 
+~ 7 ~ 
+ 
+Section 1: Introduction 
+The following section provides an introduction to affordable housing. It summarizes what 
+affordable housing is, offers an overview of the history of affordable housing in the state, 
+and explains the role of a housing element and fair share plan. 
+What is Affordable Housing? 
+Affordable housing is income-restricted housing that is available for sale or for rent. Most 
+often, affordable housing is restricted to very-low, low-, and moderate-income 
+households. These categories are derived from the state’s median regional income limits. 
+New Jersey is delineated into six different affordable housing regions. Allendale is located 
+in Region 1 which includes Bergen, Hudson, Passaic, and Sussex Counties.  
+  
+Moderate-Income 
+Households 
+Earn 80% of the region’s 
+median income
+Low-Income Households
+Earn 50% of the region’s 
+median income 
+Very Low-Income 
+Households 
+Earn 30% of the region’s 
+median income 
+Regional income limitations are typically updated every year, with different categories 
+established for varying household sizes. The table below identifies the 2024 regional 
+income limits by household size for Region 1. As shown, a three-person family with a total 
+household income of no greater than $86,697 could qualify for affordable housing in the 
+Borough’s region. 
+Table 4: 2024 Affordable Housing Region 1 Income Limits by Household Size 
+Income Level
+2 Person
+3 Person
+4 Person
+5 Person
+Median
+$96,329
+$108,371
+$120,412
+$130,045
+Moderate 
+$77,064
+$86,697
+$96,329
+$104,036
+Low
+$48,165
+$54,185
+$60,206
+$65,022
+Very-Low
+$28,899
+$32,511
+$37,568
+$39,013
+One of the most common forms of affordable housing is inclusionary development, in 
+which a certain percentage of units within a multifamily development are reserved for 
+affordable housing. Nevertheless, affordable housing can be found in a variety of other 
+forms, including but not limited to: one hundred percent affordable housing 
+developments, deed-restricted accessory apartments, assisted living facilities, alternating 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 13 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 14 =====
+~ 8 ~
+arrangements such as supportive housing or group homes, and age restricted housing.
+What is the History of Affordable Housing in New 
+Jersey?
+The history of affordable housing in New Jersey can 
+be traced back to 1975, when the Supreme Court 
+first decided in So. Burlington Cty. NAACP v. 
+Borough of Mount Laurel (known as Mount Laurel I) 
+that every developing municipality throughout New 
+Jersey had an affirmative obligation to provide for 
+its fair share of affordable housing. In a subsequent 
+decision in 1983 (known as Mount Laurel II), the 
+Court acknowledged that the vast majority of 
+municipalities had ignored their constitutional 
+obligation to provide affordable housing. 
+As such, the Court refined this obligation to 
+establish that every municipality had an obligation, 
+although those within the growth area of the State 
+Development and Redevelopment Plan (SDRP) had 
+a greater obligation. The Court also called for the 
+state legislature to enact legislation that would save 
+municipalities from the burden of having the courts 
+determine their affordable housing needs. This 
+decision, along with the trial court decisions 
+implementing this decision, resulted in the 
+enactment of the New Jersey Fair Housing Act in 
+1985. This Legislation created the New Jersey 
+Council on Affordable Housing (COAH), and 
+assigned COAH primary jurisdiction” to implement 
+the policies embodied in that Legislation. To 
+implement its policies, the Legislature charged 
+COAH with adopting regulations from “time to 
+time.” Since a grant of substantive certification by 
+COAH, like the entry of a Judgment of Repose from 
+a court, gave municipalities only six years or 
+protection, it was particularly important for COAH to 
+adopt regulations from time to time. In this way, at 
+any time, a municipality would have available to it a 
+body of regulations by which it could determine its 
+obligations and select from a menu of techniques to 
+comply with its obligations. 
+In 1986, COAH adopted regulations for the First 
+Round obligation, which covered the years 1987 to 
+2015: Mount Laurel IV
+COAH defunct and moribund. All 
+affordable housing matters to be heard 
+by courts
+1986: Mount Laurel III
+Every municipality has an obligation if 
+any portion of municipality was within 
+the “Growth Share Area” of the State 
+Development and Redevelopment Plan
+1983: Mount Laurel II
+Every municipality has an obligation if 
+any portion of municipality was within 
+the “Growth Share Area” of the State 
+Development and Redevelopment Plan
+1975: Mount Laurel I
+Every developing municipality has an 
+affordable housing obligation
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 14 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 15 =====
+ 
+ 
+~ 9 ~ 
+ 
+1993. In 1994, COAH adopted Second Round regulations that established cumulative fair 
+share numbers for Rounds 1 and 2 (19870-1999).  In 2004, COAH adopted the first set of 
+Round 3 regulations. In contrast to the regulations in Rounds 1 and 2 that established fair 
+shares based upon a determination of regions, the regional need and the allocation of 
+the regional need, the Round 3 regulations took a “growth share” approach to 
+determining a municipality’s fair share.  
+In January 2007, the Appellate Division invalidated various aspects of these rules and 
+remanded considerable portions of the rules to COAH with the directive to adopt revised 
+regulations. 
+In May 2008, COAH adopted revised Third Round regulations which were published and 
+became effective on June 2, 2008. Coincident to this adoption, COAH proposed 
+amendments to the rules they had just adopted, which subsequently went into effect in 
+October 2008. The second iteration of the Round 3 regulations, like the first, relied on a 
+growth share approach. 
+On October 2010, the Appellate Division invalidated the second version of the Round 3 
+regulations largely because COAH had once again taken a growth share approach. The 
+Appellate Division gave COAH five months to adopt new regulations that established fair 
+share obligations in the manner that it established regulations in Rounds 1 and 2 and not 
+through growth share.  
+In September 2013, the Supreme Court decided the challenges to the Appellate Division’s 
+rulings in October of 2010. The Supreme Court affirmed the Appellate Division’s decision 
+and again gave COAH five months to adopt new regulations that established fair share 
+obligations in the manner that it established regulations in Rounds 1 and 2 and not 
+through growth share.  
+COAH proposed regulations similar to those it adopted in Rounds 1 and 2 to establish fair 
+share obligations. It considered thousands of comments to its proposed regulations, and 
+it scheduled a hearing to consider the adoption of Round 3 regulations. However, when it 
+came time to vote on the regulations, COAH deadlocked 3-3. More importantly, COAH 
+took no action in the wake of that deadlock to break the deadlock.  
+In response to the deadlock and the Supreme Court’s ruling that there would be 
+consequences if COAH failed to adopt lawful Round 3 regulations, Fair Share Housing 
+Center, who was a party in both the 2010 and 2013 cases, filed a motion in aid of litigants’ 
+rights with the New Jersey Supreme Court.  
+The Court heard the motion on January 6, 2015, and issued its ruling on March 10, 2015. 
+In that decision, commonly referred to as “Mount Laurel IV”, the Court ruled that COAH 
+was “moribund” and consequently turned over the tasks of implementing the Fair 
+Housing Act back to the trial courts where it had originally been prior to the creation of 
+COAH in 1985. In addition, Mount Laurel IV created a process in which municipalities may 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 15 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 16 =====
+~ 10 ~
+secure protection from exclusionary zoning suits by 
+filing a declaratory judgment action seeking a 
+declaration that a Housing Element and Fair Share 
+Plan  is constitutionally compliant and applying for 
+immunity while the court is processing the 
+application for approval of a Housing Element and 
+Fair Share Plan.
+On January 18, 2017, the Supreme Court addressed 
+an issue unresolved up to that point: namely, what if 
+any is the responsibility of municipalities with 
+respect to the so-called “gap period.” The gap 
+period is the time between 1999 and 2015, when all 
+agree Round 4 would commence. The Court 
+expanded the obligation of municipalities to 
+address the present and prospective needs by 
+requiring them to accept an obligation for 
+affordable housing for the gap period.
+In Mount Laurel IV, the Supreme Court ended its 
+opinion as follows:
+“It is our hope that an administrative remedy 
+will again become an option for those 
+proactive municipalities that wish to use such 
+means to obtain a determination of their 
+housing obligations and the manner in which 
+those obligations can be satisfied.”
+However, before COAH could be reconstituted and 
+against the backdrop of litigation seeking to compel 
+Governor Murphy to comply with the Fair Housing 
+Act and nominate members to the COAH Board, the 
+Senate President and Speaker of the House announced that there would be new 
+legislation that would abolish COAH. That announcement was made in December of 
+2024.
+On March 20, 2024, after enormous pressure was applied to support new legislation, the 
+Legislature adopted, and the Governor signed an amendment to the Fair Housing Act to 
+abolish COAH and make substantial changes. This plan refers to the Fair Housing act as 
+amended as FHA II.
+FHA II established standards for determining fair share obligations and assigned the DCA 
+with the task of preparing a non-binding report setting forth the fair share of every 
+municipality based on those standards. FHA II also created the Affordable Housing 
+Dispute Resolution Program (the “Program”) and tasked the Program with trying to 
+2024: A-4/S-50
+New Jersey adopts new legslation which 
+overhauls the FHA. COAH is elimianted, 
+and its duties are split between the DCA 
+and the AOC. 
+2018: Jacobson Decision
+Established methodology in Mercer 
+County for determining housing 
+obligation. Being utilized outside of 
+Mercer County for settlement purposes
+2017: Gap Period
+Finds that gap period (1999-2015) 
+generates an affordable housing 
+obligation
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 16 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 17 =====
+ 
+ 
+~ 11 ~ 
+ 
+resolve disputes over the obligations generated by the fair share formula embedded in 
+the Act in the first instances and then with the affordable housing plans municipalities 
+adopted and endorsed to comply with their obligations in the second instance. 
+ 
+What is a Housing Element and Fair Share Plan? 
+A Housing Element and Fair Share Plan (HE&FSP) serves as the blueprint for how a 
+municipality will address its fair share of affordable housing. It is designed to help a 
+community broaden the accessibility of affordable housing.  
+While technically a discretionary component of a 
+municipal master plan, a HE&FSP is nevertheless an 
+effectively obligatory plan element. As established 
+by NJSA 40:55D-62.a of the Municipal Land Use 
+Law (MLUL), a municipality must have an adopted 
+HE&FSP in order to enact its zoning ordinance. 
+Thus, from a public policy perspective, a HE&FSP is 
+an essential community document. Moreover, 
+without a HE&FSP, a municipality may be susceptible to a builder’s remedy lawsuit in 
+which a developer could file suit and seek to force the municipality to rezone a specific 
+parcel to permit housing at higher densities than a municipality would otherwise allow, 
+provided a certain percentage of units are reserved as affordable. 
+The current version of the Fair Housing Act – FHA II – requires a housing element to 
+include the following components: 
+1. An inventory of the municipality’s housing stock by age, condition, purchase or 
+rental value, occupancy characteristics, and type, including the number of units 
+affordable to low- and moderate-income households and substandard housing 
+capable of being rehabilitated; 
+2. A projection of the municipality’s housing stock, including the probable future 
+construction of low- and moderate-income housing, for the next ten years, taking 
+into account, but not necessarily limited to, construction permits issued, 
+approvals of applications for development and probable residential development 
+of lands; 
+3. An analysis of the municipality’s demographic characteristics, including but not 
+necessarily limited to, household size, income level and age; 
+4. An analysis of the existing and probable future employment characteristics of the 
+municipality; 
+5. A determination of the municipality’s present and prospective fair share for low- 
+and moderate-income housing and its capacity to accommodate its present and 
+prospective housing needs, including its fair share for low- and moderate-income 
+housing; 
+The Municipal Land Use Law 
+(MLUL) is the enabling 
+legislation for municipal land 
+use and development, planning, 
+and zoning for the State of New 
+Jersey.  
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 17 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 18 =====
+ 
+ 
+~ 12 ~ 
+ 
+6. A consideration of the lands that are most appropriate for construction of low- 
+and moderate-income housing and the existing structures most appropriate for 
+conversion to, or rehabilitation for, low- and moderate-income housing, including 
+a consideration of lands of developers who have expressed a commitment to 
+provide low- and moderate-income housing; 
+7. An analysis of the extent to which municipal ordinances and other local factors 
+advance or detract from the goal of preserving multigenerational family 
+continuity as expressed in the recommendations of the Multigenerational Family 
+Housing Continuity Commission; 
+8. For a municipality located within the jurisdiction of the Highlands Water 
+Protection and Planning Council, an analysis of compliance of the housing 
+element with the Highlands Regional Master Plan of lands in the Highlands 
+Preservation Area, and lands in the Highlands Planning Area for Highlands 
+conforming municipalities; 
+9. An analysis of consistency with the State Development and Redevelopment Plan, 
+including water, wastewater, stormwater, and multi-modal transportation based 
+on guidance and technical assistance from the State Planning Commission. 
+ 
+Allendale’s Affordable Housing History
+The following summarizes the Borough’s numerous efforts to address affordable housing 
+in Allendale as obtained from the narrative provided in the 2018 Housing Plan report 
+prepared by Clark Caton Hintz.  
+In 1988, Allendale prepared a Housing Element. On January 17, 1991, the Borough 
+amended the Housing Element following a builder’s remedy lawsuit. The Borough’s 
+amended First Round Housing Element and Fair Share Plan was reviewed by the Superior 
+Court and the plan received a Judgment of Compliance on February 25, 1991, which 
+granted the Borough a six-year period of repose. 
+Allendale Borough petitioned COAH with a Second-Round plan in 1997 and received 
+Second Round Substantive Certification from COAH on October 1, 2003.  
+It received Third Round Substantive Certification from COAH for its Third Round Housing 
+Element and Fair Share Plan on October 14, 2009. The Borough adopted its Third Round 
+Housing Element and Fair Share Plan on December 29, 2008, and was granted Third 
+Round Substantive Certification from COAH on October 14, 2009.  
+On April 15, 2010, the Borough adopted an amended Third Round Plan to increase the 
+number of affordable housing units generated at the Crescent Commons site. Although 
+the Borough petitioned COAH on May 7, 2010 with its amended Third Round plan, COAH 
+failed to act on the plan amendment prior to the Appellate Division’s 2010 invalidation of 
+COAH’s growth share regulations. 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 18 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 19 =====
+ 
+ 
+~ 13 ~ 
+ 
+To comply with the March 10, 2015 Mt. Laurel IV decision, Allendale petitioned the 
+Superior Court on July 7, 2015, for a Declaratory Judgment and temporary immunity from 
+builder’s remedy suits so it could secure approval of a Round 3 Housing Element and Fair 
+Share Plan based upon the laws created by Mount Laurel IV.  On December 10, 2015 , in 
+the context of this suit and pursuant to an order dated November 12, 2015 entered by 
+Judge Toskos in this suit, the Borough submitted a Summary Third Round Fair Share Plan 
+On January 27, 2016 , the Borough filed an amended Summary Plan to the Court to 
+address the fair share obligation calculated by Econsult Solutions, Inc. (“Econsult” or “ESI”) 
+in its December 30, 2015 report. 
+In August and December of 2016, the Borough submitted motions to the Court for 
+approval of second and third amendments to its 2010 amended Spending Plan in order 
+to spend money from its Affordable Housing Trust Fund on the creation of affordable 
+housing at sites that were not included in an approved Housing Element and Fair Share 
+Plan, in accordance with N.J.A.C. 5:97-8.11. Those sites specifically included two new 
+group homes operated by Eastern Christian Children’s Retreat (“Eastern Christian”) and 
+the 220 West Crescent Avenue senior rental development. The Court approved both 2016 
+Spending Plan amendments on September 20, 2016 and January 5, 2017. 
+In summary, the Borough has a demonstrated history of compliance as evidenced by the 
+receipt of a Judgment of Repose in Round 1, a grant of Substantive Certification in Round 
+2, a Judgment of Repose in Round 3 followed by the entry of a second Judgment of 
+Repose in Round 3, dated June 27, 2019, based upon the laws established by Mount 
+Laurel IV. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 19 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 20 =====
+~ 14 ~
+Section 2: Housing Element
+The following section provides the housing element for the Borough of Allendale. It offers 
+an overview of its community, as well as back information regarding its population, 
+housing, and employment characteristics. It also provides a projection of the Borough’s 
+housing stock and its employment projections.
+1.
+United States Decennial
+Census
+The US Census is described in Article I, Section 2 
+of the Constitution of the United States, which 
+calls for an enumeration of the people every ten 
+years for the apportionment of seats in the 
+House of Representatives. Since the time of the 
+first Census conducted in 1790, it has become 
+the leading source of data about the nation’s 
+people and economy. Please note that all 
+incomes reported in the Census are adjusted for 
+inflation.
+regarding births, deaths, marriages, domestic 
+partnerships, and civil unions.
+4.
+New Jersey Department of 
+Community Affairs (DCA)
+The New Jersey Department of Community 
+Affairs is a governmental agency of the State 
+of New Jersey. Its function is to provide 
+administrative guidance, financial support, 
+and technical assistance to local 
+governments, community development 
+organizations, businesses, and individuals to 
+improve the quality of life in New Jersey.
+2.
+American Community Survey 
+(ACS)
+The American Community Survey is a 
+nationwide ongoing survey conducted by the 
+US Census Bureau. The ACS gathers information 
+previously contained only in the long form 
+version of the decennial census, such as age, 
+ancestry, educational attainment, income, 
+language proficiency, migration, disability, 
+employment, and housing characteristics. It 
+relies upon random sampling to provide 
+ongoing, monthly data collection. Please note 
+that all incomes reported in the ACS are 
+adjusted for inflation.
+5.
+New Jersey Department of Labor 
+and Workforce Development
+The New Jersey Department of Labor and 
+Workforce Development is a governmental 
+agency of the State of New Jersey. One of its 
+roles is to collect labor market information 
+regarding employment and wages 
+throughout the state. 
+3.
+New Jersey Department of Health
+The New Jersey Department of Health is a 
+governmental agency of the State of New 
+Jersey. The department contains the Office of 
+Vital Statistics and Registry, which gathers data 
+Information Regarding Data Sources
+The information contained in Section 2.2 entitled “Population Demographics,” Section 
+2.3 entitled “Inventory of Housing Stock,” Section 24 entitled “Employment 
+Demographics,” and Section 2.5 entitled “Housing & Employment Projections” was 
+obtained from a variety of publicly available data sources. These are summarized below:
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 20 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 21 =====
+ 
+ 
+~ 15 ~ 
+ 
+2.1: Community Overview
+The Borough of Allendale is located in the northwesterly portion of Bergen County. It is 
+bounded by five municipalities, including: the Borough of Ramsey to the north; the 
+Borough of Saddle River to the east; the Borough of Waldwick to the south, the Borough 
+of Wyckoff to the southwest and the Borough of Mahwah to the west. Borough is 
+essentially a fully developed community with very little vacant land remaining for 
+development. 
+The total land area of the Borough is 1994.13 acres (1683.14 acres without including 
+streets/roads). The Borough currently contains 2,515 parcels. The majority of the Borough 
+is primarily characterized by residential development. In fact, over 1153 acres of the 
+municipality’s total land area (58 percent) consists of residential uses.  
+Commercial land uses account for a total of 154.62 acres, or approximately 7.75 percent 
+of the Borough’s total land use area. Industrial land use constitutes the largest 
+commercial use with 24 parcels covering 104 acres. 
+Land uses under the Public/Semi-Public classification comprise the second largest land 
+use category in Allendale, accounting for 327 acres, or 16.4 percent of the Borough’s total 
+land area. Semi-public land uses, including places of worship and other non-profit 
+organizations, account for 1 percent of the Borough’s total land area, while schools 
+comprise an additional 3 percent.  
+The Borough contains one Class I rail line that traverses the Borough from North to 
+South. The rail line covers more than 21 acres in the Borough.  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 21 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 22 =====
+ 
+ 
+~ 16 ~ 
+ 
+Table 5: Existing Land Uses 
+Land Use 
+Acres 
+% of Total Acres 
+Parcels 
+% of Total Parcels 
+Residential 
+Low Density
+1136.22
+56.98%
+1884
+74.9%
+Multifamily 
+6.20
+0.31%
+426
+16.9% 
+Multifamily Assisted 
+Living 
+10.64 
+0.53% 
+1 
+0.0%
+Commercial 
+Commercial 
+24.36
+1.22%
+41
+1.6%
+Farm/Nursery/Golf 
+Course 
+25.86 
+1.30% 
+9 
+0.4%
+Public/Semi-
+Public 
+Municipal Property
+241.15
+12.09%
+37
+1.5%
+Public School
+64.01
+3.21%
+6
+0.2%
+Church & Charitable
+21.77
+1.09%
+6
+0.2%
+Other 
+Vacant and other 
+properties 
+25.30 
+1.27% 
+65 
+2.6%
+Industrial 
+104.40
+5.24%
+24
+1.0%
+Rail
+21.18
+1.06%
+9
+0.4%
+Other Exempt 
+2.06
+0.10%
+7
+0.3%
+Source: ArcGIS Calculations 
+Regional access to the Borough is provided by several county and state roadways. 
+Franklin Turnpike, Crescent Avenue, West Allendale Avenue are county roadways which 
+provide access to the surrounding area. Linkages to the state’s regional highway network 
+are also provided by Route 17 to the east and Garden State Parkway in the Borough of 
+Paramus to the south, Interstate Route 287 in the Borough of Mahwah to the north. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 22 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 23 =====
+BER-L-000594-25
+06/17/2025 2:30:30 PM
+Pg 23 of 82
+Trans ID: LCV20251782378
+Map 1: Community Overview
+£
+g
+ra
+a8
+be
+2|
+diilend
+i
+ra
+ae
+4
+HWE
+a
+mo
+&
+3
+a
+Pane
+Beta
+|
+oi
+eV
+ital
+iyi
+oer
+Yo
+BSiGd]eR
+ree
+OTL
+Mei
+LL
+| Tot
+I FS
+| RSESER EDS
+STSSS
+BITEe
+leh tig
+ea
+QIK ESHSB Beg!
+ALR
+Ly 7) RU I
+ES
+UneS
+as
+eae
+Ss,
+fiaane
+ar eyST
+USea
+S/S, GE
+PULP STE TMVR eH ek SPSieee
+Gm |
+‘
+PH
+EPR eo
+R HMEe BPE RIC
+NS 1S Mites Ls on|
+AON
+3
+d te fe
+hE Feel LEI ES NaSDA AN Mah
+Rip Oia Ltr
+eae ON |
+hgEEATAR| OS:(hes kesi.
+NZ le ME oe ice,
+eenom SBE ie \= Ht ‘aa if A
+LIL
+SeSOOO
+SAE
+EER» PEO Ee SG
+-
+VFHOSLE XS ES ear
+é
+AN
+ST)
+=
+AC ifNe
+e
+~~
+
+===== PAGE 24 =====
+BER-L-000594-25
+06/17/2025 2:30:30 PM
+Pg 24 of 82
+Trans ID: LCV20251782378
+Map
+2: Existing
+Land Use
+p
+9g
+Fi:
+SD ECU
+eS
+ES]
+13
+'
+so) GE
+“i i
+:.,
+ei
+-
+Re Ne
+|
+ei,2ffy
+3 8
+SS:
+ns ey
+at
+SSOSUEUGGHEOELO
+Es
+os
+DN.
+EP
+.
+|
+Fats
+08BNO yy
+£
+rg
+ij
+= |soee,
+:
+y.
+St
+}
+aE
+one
+72.
+eS ire.
+of
+;
+Nid
+PeseWe
+cess
+suas
+SD
+S|
+Ba E He a
+Ge
+KS ITT
+Sa
+%
+\Heri T re rads
+48
+EY
+Bcc A
+rf
+ih
+ous,
+£5 6S.
+See
+OHTA eerrl LE
+{or
+ESR
+oR
+=
+fra
+pL Foon
+SS
+i “y LT
+&
+[orit
+dl peo Gar
+% OOPS
+A
+Daa
+mabe
+ESOT aN oz
+=
+ae
+|
+= [SipHT eS
+ape
+&
+HeLa
+ETO
+AES
+Ea REM MED g
+EET
+i aa
+BY
+We Pelee Cor ae Asi ee SLIT
+YP
+LE
+TEE RES
+M0
+ESCO
+sy
+aan
+ee
+AEE Aas
+ot, Ee ee Oe
+eee Be fo
+Pee cseree
+SORE
+DT
+2:
+TTT
+ve
+are
+Sama
+ae eee
+;
+EQ ILBEES: Hy
+Ties.
+iy
+ws
+pS ae
+op
+ae, SeSNES aS
+Fr
+aS Wags
+eg,
+Naas
+ea
+=:
+:
+ERK
+CNG
+aes; re
+&é
+yd nN SGeN
+IER
+;
+:
+TSO OCICS
+ov
+URSA
+ee
+———.
+;
+if:
+F SO
+§ (= Sees
+-
+pro. ire
+cn
+Sra
+2
+pweatyis
+3
+BATS
+~18~
+
+===== PAGE 25 =====
+ 
+ 
+~ 19 ~ 
+ 
+2.2: Demographic and Population Data 
+Analyzing demographic and population data is a necessary and integral step in planning 
+for the future needs and demands of a community. As such, the following section outlines 
+the demographic changes experienced by the Borough of Allendale over the past several 
+decades. 
+This section is an analysis of demographic information is obtained from the 2010 
+Decennial Census as well as the 2010 and 2023 American Community Survey (ACS) 5-year 
+estimates. The ACS data consists of estimates based upon data averages across a five-
+year span, otherwise known as “period” estimates. They are not actual counts, rather they 
+are representative of data collected over a period of time and thus may not be directly 
+comparable to decennial census figures. For example, the 2023 ACS includes data 
+collected from 2019, 2020, 2021, 2022 and 2023. The following provides an assessment of 
+population size, rate of population growth, age characteristics, as well as household size 
+and income levels. Each of these items is described in detail below. This information is 
+vital for the Borough to carefully plan for the current and future needs of its residents and 
+the community.  
+Population Changes 
+The Borough experienced a slight decline in population from 1970 to the 1990s. The 
+reduction in the population at that time could be attributable to the aging population 
+and homes with children aging into adulthood and moving onto new locations. The 
+Borough regained more than double the losses by the year 2000 only to lose half of them 
+again between 2000 and 2010. The population slightly increased from then through the 
+year 2023.  
+Table 6: Population Growth, 1950-2023 
+Year
+Population
+Population Change
+Percent Change
+1950
+2,409 
+ 
+1960
+4,092
+1,683
+69.86%
+1970
+6,240 
+2,148
+52.49%
+1980
+5,901 
+-339
+-5.43% 
+1990
+5,900 
+-1 
+-0.02% 
+2000
+6,699 
+799
+13.54%
+2010
+6,505 
+-194
+-2.90% 
+2020
+6,757 
+252
+3.87% 
+2023
+6,820 
+63 
+0.93% 
+Source: US Census Bureau; 2023 American Community Survey Five-Year Estimate 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 25 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 26 =====
+ 
+ 
+~ 20 ~ 
+ 
+Age Characteristics 
+As shown in the age distribution table below, the Borough’s age characteristics show a 
+slight increase in median age from 44.3 years in 2010 to 45.7 according to the 2023 ACS 
+data. The largest age cohort in 2023 represented 20.1% of the population (45-54 age 
+group) was also the largest cohort in 2010 (18.2%). The age groups showing declines 
+between the 2010 census and the 2023 ACS data appear to be 5-9, 20-24, 35-44, 55-59, 
+and 85 and older cohorts. 
+Table 7:  Age Characteristics, 2010-2023 
+Age 
+Group
+2010
+2023 
+Pop 
+% 
+Pop 
+% 
+Under 5 
+207 
+3.2%
+350
+5.1% 
+5 to 9  
+667 
+10.3% 
+514
+7.5% 
+10 to 14 
+595
+9.2%
+600
+8.8% 
+15 to 19  
+371 
+5.7%
+615
+9.0% 
+20 to 24 
+354
+5.5%
+121 
+1.8% 
+25 to 34 
+209
+3.2%
+316
+4.6% 
+35 to 44 
+917 
+14.1%
+753 
+11.0%
+45 to 54 
+1,182
+18.2% 
+1,368
+20.1%
+55 to 59 
+554
+8.5%
+533
+7.8% 
+60 to 64 
+312
+4.8% 
+414
+6.1% 
+65 to 74 
+435
+6.7%
+641
+9.3% 
+75 to 84 
+385
+5.9%
+404
+5.9% 
+85 + 
+301
+4.6% 
+191 
+2.8% 
+Total 
+ 6,489 
+95.2%
+6,820 
+99.8%
+Median 
+Age
+44.3
+45.7 
+Sources: 2010 & 2023 American Community Survey 5-Year Estimates. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 26 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 27 =====
+ 
+ 
+~ 21 ~ 
+ 
+Household Tenure and Occupancy 
+The data shown on the following table indicates that the breakdown between the share 
+of owner occupied and rental occupied units has remained largely the same since 2010 
+with the majority of units being owner occupied. Housing vacancies have decreased over 
+this time frame from 9.72% in 2010 to 5.30% in 2023.  
+Table 8: Owner-Occupied and Renter-Occupied Units, 2010-2023 
+2010 
+2023
+Category
+# of Units
+% 
+# of Units
+%
+Owner Occupied 
+1,884
+83.6%
+1,805
+72.1%
+Renter Occupied 
+151
+6.7%
+527
+21.0%
+Vacant Units
+219 
+9.7%
+173 
+6.9%
+Total 
+2,254
+100.0% 
+2,505
+100.0% 
+ 
+Source: US Census Bureau; 2023 American Community Survey Five-Year Estimate 
+Average Household Size 
+The census data shown below presents how the Borough’s average household size 
+decreased from 3.0 in 2010 to 2.88 in 2023 while the Bergen County average household 
+size remained somewhat steady at 2.66 over the same time period. The total population 
+increased from 2010 to 2023, while the number of households slightly increased over the 
+same span.  
+Table 9: Average Household Sizes, 2010-2023 
+Year
+Total 
+Population 
+Number of 
+Households 
+Average 
+Household Size 
+Allendale 
+Average 
+Household Size 
+Bergen County 
+2010
+6,489 
+2,035
+3.00 
+2.69 
+2023
+6,820
+2,332
+2.88
+2.66
+Sources: 2010 & 2023 American Community Survey 5-Year Estimates. 
+Household Income 
+The following data from the 1999 census and the 2023 ACS indicates that the median 
+household income in Allendale increased more than 50% from 1999 to 2023 increasing 
+from $105,704 to $156,992. 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 27 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 28 =====
+ 
+ 
+~ 22 ~ 
+ 
+Table 10: Household Incomes, 1999-2023 
+Income Category
+1999
+2023* 
+Number
+%
+Number
+%
+less than $10,000 
+15 
+0.7% 
+132 
+5.6% 
+$10,000 to $14,999
+20
+0.9%
+4
+0.2%
+$15,000 to $24,999
+68
+3.2% 
+121 
+5.2% 
+$25,000 to $ 34,999
+95
+4.5%
+56
+2.4% 
+$35,000 to $ $49,999
+219
+10.4%
+30
+1.3% 
+$50,000 to $74,999
+357
+16.9%
+177
+7.6% 
+$75,000 to $99,999 
+205 
+9.7% 
+151 
+6.5% 
+$100,000 to $149,999
+465 
+22.0%
+444 
+19%
+$150,000 to $199,000
+207
+9.8%
+1217 
+52.2% 
+$200,000 or more
+462 
+21.9%
+Total  
+2,113
+100.0% 
+2,332 
+100.0% 
+Median Income (Household)
+$105,704
+$156,992 
+Source: US Census Bureau; 2023 American Community Survey 5-Year Estimates. 
+2.3: Inventory of Housing Stock
+This section of the analysis provides an inventory of the Borough’s housing stock. The 
+inventory details housing characteristics such as age, condition, purchase/rental value and 
+occupancy. It also details the number of affordable units available to low- and moderate-
+income households and the number of substandard housing units capable of being 
+rehabilitated. As previously noted, the latest information from the American Community 
+Survey consists of five-year estimates by the Census Bureau, not actual counts and may 
+not be directly comparable to census figures.  
+Number of Housing Units 
+As illustrated in the table below, the overall number of housing units within the Borough 
+has continued to increase from the 1980s through 2023. Understandably, the slowest 
+percentage increase in numbers was between 2000 and 2010 during the Great Recession.
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 28 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 29 =====
+ 
+ 
+~ 23 ~ 
+ 
+Table 11: Housing Units, 1980-2023 
+Year
+Housing 
+Units 
+Numerical 
+Change 
+% Change
+1980
+1,700
+-
+- 
+1990
+1,915
+215
+12.65%
+2000
+2,143
+228 
+11.91%
+2010
+2,254
+111 
+5.18% 
+2023
+2,505
+251
+11.16%
+ 
+Source: US Census Bureau, 2023 ACS Five-Year Estimate
+Units in Structure for Occupied Units 
+Information regarding the number of dwelling units in housing structures provides 
+insights into the types of housing which exist throughout the Borough. The following 
+table offers insights into the unit-composition of the Borough’s structures since 2010. 
+The Borough’s housing stock has historically been comprised of single-family detached 
+and attached dwellings. The 2023 ACS estimate data provided in the table below shows a 
+total of 1,767 single-family detached dwellings which amounts to 71 percent of all 
+housing units in the Borough. This percentage is a decrease from 2010 when single-family 
+dwellings accounted for approximately 84 percent. There was an increase from 2010 to 
+2023 in the number of structures containing 10 units or more which represents 18 
+percent of overall units. 
+ Table 12: Units in Structure, 2010-2023
+Units in Structure
+2010
+2023 
+No.
+% 
+No. 
+% 
+Single Family, Detached
+1,705 
+83.80%
+1,767 
+70.5% 
+Single Family, Attached 
+187 
+9.20% 
+203
+8.1%
+2 
+67
+3.30% 
+38 
+1.5%
+3 or 4
+33
+1.60% 
+12
+0.5%
+5 to 9
+22
+1.10% 
+14 
+0.6%
+10 +
+18
+0.90% 
+471 
+18.8% 
+Mobile Home
+0
+0.00% 
+0
+0.00% 
+Other
+0
+0.00% 
+0
+0.00% 
+ 
+Source: US Census Bureau;  2023 American Community Survey Five-Year Estimates. 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 29 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 30 =====
+ 
+ 
+~ 24 ~ 
+ 
+Purchase and Rental Value of Housing Units 
+The following two tables identify purchase values and rental values for the specified 
+owner-occupied and renter-occupied units in Tenafly. 
+As shown in Table 6, the purchase values of the Borough’s owner-occupied housing stock 
+have typically exceeded those of the State of New Jersey and have been somewhat 
+commensurate to those of Bergen County. Over the past twenty-three years, the median 
+value of the Borough’s owner-occupied housing stock is estimated to have increased 
+approximately 128.5%, from $256,500 in 2000 to $586,200 in 2023. This represents a 
+lower percentage increase than that of the County (145.8%) and the State (169.9%). 
+Until recently, the median contract rental value in the borough has typically remained 
+higher than both Bergen County and the State of New Jersey. However, the 2023 ACS 
+estimates that the median contract rent for the County has surpassed that of the 
+Borough’s. Over the past twenty-three years, the median gross rent increased 
+approximately 65.7%. This represents a lower percentage increase than that experienced 
+by the County (99.9%) and the State (99.8%). 
+Table 13: Value of Owner-Occupied Units, 2000-2023 
+2000
+2010
+2023
+Value Range
+Number
+Percent
+Number
+Percent
+Number
+Percent
+Less than $50,000
+0
+0.0%
+14
+0.7%
+24
+1.1%
+$50,000 to $99,999
+0
+0.0%
+16
+0.8%
+0
+0.0%
+$100,000 to $149,999
+47
+2.6%
+0
+0.0%
+0
+0.0%
+$150,000 to $199,999
+313
+17.5%
+14
+0.7%
+0
+0.0%
+$200,000 to $299,999
+899
+50.3%
+108
+5.5%
+72
+3.5%
+$300,000 to $499,999
+500
+28.0%
+936
+47.8%
+566
+27.2%
+$500,000 to $999,999
+29
+1.6%
+849
+43.4%
+1398
+67.2%
+$1,000,000 or More
+0
+0.0%
+22
+1.1%
+21
+1.0%
+Total
+1,788
+100.0%
+1,959
+100.0%
+2,081
+100.0%
+Borough Median Value
+$256,500
+$484,100
+ 
+$586,200
+Bergen County Median Value
+$250,300
+$482,300
+ 
+$615,300
+New Jersey Median Value 
+$170,800
+$357,000
+ 
+$461,000
+Source: US Census Bureau; 2010 and 2023 American Community Survey Five-Year Estimates.
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 30 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 31 =====
+ 
+ 
+~ 25 ~ 
+ 
+Table 84: Specified Renter Occupied Housing Units by Rent, 2000-2023 
+2000
+2010
+2023
+Value Range
+Number
+Percent
+Number
+Percent
+Number
+Percent
+Less than $200 
+14
+2.2%
+0
+0.0%
+0
+0.0%
+$200 to $299
+12
+1.9%
+0
+0.0%
+0
+0.0%
+$300 to $499
+0
+0.0%
+0
+0.0%
+0
+0.0%
+$500 to $749
+81
+12.9%
+0
+0.0%
+0
+0.0%
+$750 to $999
+170
+27.0%
+90
+12.9%
+0
+0.0%
+$1,000 to $1,499
+269
+42.7%
+230
+32.9%
+259
+28.3%
+$1,500 to $1,999
+63
+10.0%
+234
+33.4%
+431
+47.1%
+$2,000 or more 
+0
+0.0%
+88
+12.6%
+225
+24.6%
+No Cash Rent
+21
+3.3%
+58
+8.3%
+0
+0.0%
+Total
+630
+100.0%
+700
+100.0%
+915
+100.0%
+Borough Median Value
+$1,044 
+$1,502 
+ 
+$1,730
+Bergen County Median Value
+$872 
+$1,236 
+$1,743
+New Jersey Median Value 
+$751 
+$1,092 
+ 
+$1,498
+Source: US Census Bureau; 2010 and 2023 American Community Survey Five-Year Estimates.
+Deficient Housing Units 
+Neither the Census nor the ACS classify housing units as deficient. However, the Fair 
+Housing Act defines a “deficient housing unit” as housing which: is over fifty years old 
+and overcrowded; lacks complete plumbing, or; lacks complete kitchen facilities.  
+Accordingly, the following tables are intended to provide insights into the extent to which 
+the Borough has deficient housing units. Table 12 examines the extent to which there is 
+overcrowding in the Borough’s housing stock. Overcrowding is typically associated with 
+housing units with more than one occupant per room. As shown, the estimated number 
+of occupied housing units considered to be overcrowded is negligible 
+Table 15: Occupants Per Room (2023) 
+Occupants per Room
+Owner-Occupied
+Renter-Occupied
+0.50 or Fewer
+2,086
+771
+0.51 to 1.00
+304
+144
+1.01 to 1.50
+0
+0
+1.51 to 2.00
+0
+0
+2.01 or More 
+0
+0
+Total
+2,086
+915
+Source: 2023 American Community Survey Five-Year Estimates. 
+Table 13 below identifies housing units with complete plumbing and kitchen facilities. As 
+shown, all occupied units in the Borough were identified as having complete plumbing 
+and kitchen facilities. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 31 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 32 =====
+ 
+ 
+~ 26 ~ 
+ 
+Table 16: Plumbing and Kitchen Facilities (2023) 
+ 
+Units with Complete Facilities
+Units without Complete Facilities
+Plumbing 
+3,001
+0
+Kitchen 
+3,001
+0
+Source: 2023 American Community Survey Five-Year Estimates. 
+This data is contrary and exhibits that the calculations from the DCA regarding 
+overcrowding and deficient plumbing or kitchen facilities in the Borough for the Fourth 
+Round Present Need calculations, is substantially overestimating the current conditions. 
+2.4: Housing and Employment Projection
+The following section identifies the extent to which redevelopment housing and 
+economic development has occurred in the community, which can assist in the 
+determination of future residential and employment projections. 
+Recent Residential Development Activity 
+One way of examining the stability of a community’s housing stock is by comparing the 
+number of residential building permits issued for new construction as well as demolition 
+permits issued every year. Since 2013, the Borough has annually issued an average of 1.8 
+and 1.5 building permits and demolition permits, respectively. This results in an average 
+positive net of 0.2 permits annually.  
+Table 17: Residential Building Permits and Demolition Permits 
+Building Permits
+Year
+1 & 2 Family
+Multifamily
+Mixed Use
+Total
+Demos
+Net
+2013
+0
+0
+0
+0
+0
+0
+2014
+1
+0
+6
+7
+4
+3
+2015
+1
+0
+0
+1
+2
+-1
+2016
+1
+0
+0
+1
+0
+1
+2017
+1
+0
+0
+1
+0
+1
+2018
+6
+0
+0
+6
+1
+5
+2019
+1
+0
+0
+1
+2
+-1
+2020
+0
+0
+0
+0
+2
+-2
+2021
+1
+0
+0
+1
+3
+-2
+2022
+2
+0
+0
+2
+0
+2
+2023
+0
+0
+0
+0
+3
+-3
+Total
+14
+0
+6
+20
+17
+3
+Source: Department of Community Affairs 
+ 
+Covered Employment 
+Figure 4 and Figure 5 below provide data on the Borough’s covered employment trends 
+between 2004 and 2023, as reported by the New Jersey Department of Labor and 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 32 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 33 =====
+ 
+ 
+~ 27 ~ 
+ 
+Workforce Development. “Covered employment” refers to any employment covered 
+under the Unemployment and Temporary Disability Benefits Law. Generally, nearly all 
+employment in the state is considered to be “covered employment.”  
+Figure 4 depicts the number of reported “employment units” within the Borough. An 
+“employment unit” is defined as an individual or organization which employs one or more 
+workers. As shown, the Borough experienced a fairly consistent loss of employment units 
+between 2003 and 2018. Since that time, however, the number of employment units has 
+remained relatively stable. As of 2023, there were a reported 347 employment units in the 
+Borough. 
+Similarly, employment levels have typically decreased since 2005. The most dramatic 
+decrease occurred between 2019 and 2020, wherein employment in the Borough 
+decreased by a reported 10.7%. This may be attributed to COVID-19 pandemic. Since that 
+time, employment in the Borough has increased. As of 2023, the Borough’s reported 
+covered employment was 3,361 individuals. 
+Figure 1: Covered Employment Units, 2003-2023 
+ 
+Source: Department of Labor and Workforce Development  
+381
+367
+357
+348
+378
+365
+371
+380
+370
+353
+345
+338
+341
+334
+331
+332
+347
+345
+345
+347
+347
+300
+310
+320
+330
+340
+350
+360
+370
+380
+390
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 33 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 34 =====
+ 
+ 
+~ 28 ~ 
+ 
+Figure 2: Covered Employment, 2003-2023 
+ 
+Source: Department of Labor and Workforce Development  
+ 
+3,588
+4,026
+3,777
+4,159
+3,932
+3,839
+3,833
+3,771
+3,678
+3,736
+3,517
+3,680
+3,704
+3,610
+3,547
+3,592
+3,543
+3,163
+3,251
+3,355
+3,361
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 34 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 35 =====
+ 
+ 
+~ 29 ~ 
+ 
+Section 3: Fair Share Obligation 
+The following section provides an overview of the Borough’s fair share obligation. It 
+includes a brief overview of the methodology utilized to calculate affordable housing 
+obligations throughout the state. 
+3.1: Summary of Fair Share Obligation 
+As explained above, the Borough’s fair share obligation consists of a rehabilitation 
+number of 10 and a new construction number of 645. The new construction number is 
+the sum of the prior round obligation (137), the Round 3 obligation (308) and the Round 
+4 obligation (200). 
+3.2: Structural Conditions Survey
+The Borough bases its rehabilitation number, also known as its Present Need, on a 
+structural survey. In this regard, as per NJAC 5:93-5.2: 
+“Each municipality shall be provided with the Council’s estimate for substandard 
+units occupied by low and moderate income households. This estimate shall be the 
+municipality’s indigenous need, unless the municipality or an objector performs the 
+Council’s Structural Conditions Survey (see Appendix C, incorporated herein by 
+reference). Where the municipality or objector performs the Structural Conditions 
+Survey, the Council shall review the results of the data collected and shall modify 
+the indigenous need if it determines a modification is warranted.” 
+A Structural Conditions Survey therefore was conducted as a first step by the Borough of 
+Allendale Construction Official, Mr. Anthony Hackett. The Construction Official was 
+guided by the available criteria established in N.J.A.C. 5:93-5.2 and N.J.A.C. 5:97-6.2 which 
+reference “Appendix C” of the rules. Appendix C of N.J.A.C. 5:93 outlines the criteria and 
+entities licensed to perform building and/or housing inspections.  
+In accordance with Appendix C, the total number of units found to be substandard was 
+then factored for the estimated number of substandard units occupied by low- and 
+moderate-income households census information and overcrowded that is available from 
+the Public Use Micro-Data Sample (PUMS).  
+In calculating Round 4 Present Need obligations, the DCA did not rely on PUMS data for 
+determining the percent of substandard units occupied by low and moderate income 
+households in each municipality. Instead, the DCA relied on HUD’s Comprehensive 
+Housing Affordability Strategy (CHAS) dataset for this estimate. The DCA’s Fourth Round 
+Methodology Report provides the reasoning behind this as follows:   
+“Previous approaches have calculated county-level LMI deficient housing shares 
+from the American Community Survey Public Use Microdata Sample (PUMS) and 
+used them to estimate the LMI-occupied portion of each municipality’s deficient 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 35 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 36 =====
+ 
+ 
+~ 30 ~ 
+ 
+housing. However, this approach essentially assumes that the LMI share of deficient 
+housing is uniform in a county, which is not the case. For example, data from 
+HUD’s Comprehensive Housing Affordability Strategy (CHAS) dataset show that for 
+2017-21, the LMI share of housing lacking complete plumbing or kitchen facilities 
+in Atlantic County was 69.1 percent. However, in Brigantine, it was 100 percent. 
+Using the county LMI deficient share for Brigantine would result in underestimating 
+city present need, undercounting the number of deficient housing units actually 
+occupied by LMI households. 
+Therefore, the analysis utilizes data from HUD’s Comprehensive Housing 
+Affordability Strategy (CHAS) dataset, which has municipality-level data on the 
+number and percentage of LMI households from a special tabulation of Census 
+Bureau American Community Survey (ACS) data. The latest CHAS data release at 
+the time of calculation corresponds to the 2017-2021 5 Year Estimates. To ensure 
+data year and source consistency, the LMI deficient housing calculation relies on 
+2017-2021 data.” 
+Therefore, in order to conduct the second step in our Structural Conditions Survey 
+(estimating the number of substandard units occupied by low/mod income households), 
+we relied on the CHAS data and DCA’s methodology. 
+The structural conditions survey performed by the Construction Official upon review of 
+the entire Borough identified there are a total of 10 units that reflect a need for 
+rehabilitation. To apply the second step, the aforementioned CHAS data for Allendale 
+estimated the number of substandard units occupied by low- and moderate-income 
+households was 100 percent of the identified substandard units calculated. Thus all 10 
+units from the survey represent the Borough’s present need and may potentially need 
+assistance through the affordable housing present need mechanisms.  
+This result is pending further guidance on other methods or means of adjusting the need 
+based upon actual conditions as determined by the applicable state regulatory agency. 
+The survey demonstrates that the data DCA utilized substantially overestimated the 
+Present Need obligation. The Borough is committed to addressing the adjusted 
+rehabilitation obligation. 
+The housing survey form is provided in the Appendix of this document. 
+3.3: Realistic Development Potential (RDP)
+Rounds 1 through 3 
+The Borough of Allendale lacked sufficient land to address its rehabilitation obligation 
+and consequently secured approval of its application for a vacant land adjustment. The 
+Court approved the Borough’s Housing Element and Fair Share Plan which included a 
+vacant land adjustment that set the Borough’s realistic development potential is 54. The 
+Courts approval of the Borough’s Third Round Plan inclusive of the vacant land 
+adjustment to 54 is attached hereto in the Appendix.  
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 36 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 37 =====
+ 
+ 
+~ 31 ~ 
+ 
+Round 4 
+Since the Borough lacked sufficient land to satisfy its new construction obligations 
+through Round 3, it obviously lacks sufficient land to address its additional 200 Round 4 
+prospective need obligation. COAH’s policy recognizes the burdens of a vacant land 
+analysis and permits municipalities to rely upon an adjustment previously done and 
+approved. The Borough is relying upon that previously approved adjustment.  
+The only question that remains regarding the Borough’s right to an adjustment is 
+whether there have been any changed circumstances since the court-approved 
+adjustment that might require a recalibration of the RDP.  rehabilitation 
+An inquiry was made regarding a property developed with an existing restaurant in the 
+Borough. This site is currently operating as Savini’s Restaurant on 168 West Crescent 
+Avenue (B1005, L19). This site is developed and not in any state of disrepair that would be 
+characterized as in need of redevelopment, as when the Court previously approved the 
+Borough’s RDP. Moreover, the inquirer did not express a commitment to constructing a 
+project with any affordable housing. Therefore, there is no changed circumstance that 
+might require a recalibration and, thus, the Borough has the right not to accept an RDP 
+for the site. However, out of an excess of caution, the Borough will accept an RDP for the 
+site and address that RDP.  
+The site consists of 1.76 acres. A reasonable maximum yield for the site is 20 units at 12 
+dwelling units per acre. If 20 units were to be developed at the site, the site would 
+generate with a 20 percent set aside, 4 units (20 x0.20=4). Therefore, the Borough will 
+accept an RDP of 4 for the site and address the 4-unit RDP in this Fourth Round Housing 
+Plan and have an unmet need of 196 (200-4=196). 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 37 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 38 =====
+ 
+ 
+~ 32 ~ 
+ 
+Section 4: Fair Share Plan 
+The following Fair Share Plan outlines the components and mechanisms the Borough will 
+utilize to address its affordable housing obligations. These obligations include are 
+summarized as follows: 
+Table 189: Affordable Housing Obligation Summary
+Category
+Obligation 
+Prior Round Obligation (1987-1999)
+137
+Third Round Obligation (1999-2025)
+308
+Fourth Round Obligation (2025-2035)
+200
+Present Need (Rehabilitation) Obligation 
+159
+ 
+4.1: Present Need Obligation (10)
+RehabilitationThe Borough will address its 10 unit rehabilitation obligation by continuing 
+to participate in the Bergen County Home Improvement Program (BCHIP) to help address 
+its rehabilitation share, to the extent that funding is available for the County program. In 
+addition, since the County program does not apply to rental units, the Borough will 
+contract with a professional Affordable Housing Administrator to supplement the owner-
+occupied rehabilitation program with a rehabilitation program for rentals. If the Borough 
+is unable to find a qualified administrator, it will seek a waiver of any obligation to 
+provide a rehabilitation program for rental units.  
+To fully satisfy its Rehabilitation obligation, the Borough will commit $160,000 of its trust 
+fund to make sure the program is adequately funded. The Borough will make sure the 
+program is well advertised and will reassess each year. If more resources are needed to 
+fund rehabilitations to qualified LMI households, trust fund monies will be reallocated to 
+this program. Conversely, if demands are low calling for less resources, trust fund monies 
+will be reallocated to other permissible uses. The Borough’s Rehabilitation Program is 
+further described in the Fourth-Round Spending Plan contained in the Appendix of this 
+plan. 
+4.2: Prior Round Obligation 
+The Borough received a First Round JOR on February 25, 1991. 
+COAH assigned the Borough a Prior Round Obligation of 137 units for Rounds 1 and 2. 
+The Borough fully addressed this obligation and exceeded this obligation with a 
+combination of a Regional Contribution Agreement, inclusionary development, 100% 
+affordable development, and supportive and special needs housing as summarized in 
+Table 19 below. 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 38 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 39 =====
+ 
+ 
+~ 33 ~ 
+ 
+Table 19: Prior Round (1987-2025) Affordable Housing Components (137) 
+Project Description- Prior Round 
+Prior 
+Round
+Units
+Prior 
+Round
+Bonus
+Total 
+Surplus
+Credits
+Regional Contribution Agreements (RCAs)-
+Completed
+ 
+40 units to Jersey City
+4 units to Ridgefield Borough
+44 
+- 
+44 
+- 
+Allendale Brook Associates project located 
+on Carriage Court and Trotters Lane 
+(Block 2101, Lot 9) – Completed 
+4 
+- 
+4
+5 
+Saddle Dale Builders project located on 
+Elm Street (Block 1809, Lot 8) – Completed
+3 
+3 
+6 
+- 
+Garden Homes/The Whitney project (Block
+2101, Lots 1, 2, 3, 5, 6, 7, 8) – Completed
+-
+-
+0
+12
+Allendale Senior Housing project located on 
+Cebak Court (Block 1708, Lots 1 and 9) – 
+Completed 
+16
+-
+16
+- 
+Orchard Commons supportive special needs 
+housing project at (Block 1806, Lot 10.01) – 
+Completed 
+10
+10
+20 
+- 
+Crescent Commons (Block 904, 
+Lots 10.01, 10.02, 14, 31) 26 out of 
+33 affordable units – Completed
+26
+21
+47
+7 
+Total: 137 Units Prior Round 
+103 
+34
+137 
+24
+ 
+The Court approved the manner in which the Borough satisfied its Prior Round obligation 
+as set forth above and the Borough has the right to rely on that approval. 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 39 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 40 =====
+ 
+ 
+~ 34 ~ 
+ 
+4.3: Third Round Obligation 
+As noted earlier in this study, in the September 15, 2017 Settlement Agreement with Fair 
+Share Housing Center (FSHC), and the June 27, 2019 Judgment of Compliance and 
+Repose, Allendale had secured a Vacant Land Adjustment resulting in a Realistic 
+Development Potential of 54 units, leaving it with remaining unmet need of the overall 
+allocation of 254. 
+Third Round RDP Review 
+Allendale’s Third Round Housing Element & Fair Share Plan (HE&FSP), adopted June 20, 
+2018, set forth the various mechanisms to address the Borough’s RDP of 54. The chart 
+below demonstrates that the Borough has fully satisfied its RDP for this Round and in fact 
+recognizes the Borough had generated additional surplus credit in one project. 
+Table 20: Third Round (1999-2025) Affordable Housing Components 
+Project Description
+Third 
+Round 
+Units 
+Third 
+Round 
+Bonus 
+Total 
+Third 
+Round 
+Credits 
+Surplus 
+Credits 
+Allendale Brook Associates inclusionary for 
+sale development- Carriage Court and Trotters 
+Lane (Block 2101, Lot 9) – Completed
+5
+- 
+5 
+- 
+Garden Homes/Whitney project (Block 2101, 
+Lots 1 through 3 & 5 through 8) – Completed 
+12
+12
+24 
+-
+Former Farm project (Block 506, Lots 4.07 and 
+4.08) – completed
+2
+1
+3 
+- 
+Crescent Commons project - completed
+7
+-
+7 
+-
+220 West Crescent Avenue project (aka The Vale)
+Completed. 
+5  
+-
+5 
++1
+Eastern Christian Group Home 1 project (Block 
+910, Lot 3) – Completed
+5
+-
+5 
+-
+Eastern Christian Group Home 2 project (Block 
+1005, Lot 4) – Completed
+5
+-
+5 
+-
+TOTAL: 54 credits to address RDP
+41
+13
+54
++1
+ 
+ 
+Third Round Unmet Need Review 
+The difference between the Borough’s Prospective Need obligations and its RDP 
+obligations is what is known as Unmet Need. Whereas a land-poor municipality must 
+create a realistic opportunity for satisfaction of its realistic development potential, it is 
+clear that a municipality has a much lower responsibility with respect to its unmet need.  
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 40 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 41 =====
+ 
+ 
+~ 35 ~ 
+ 
+Judge Padavano explained the standard applicable to the unmet need in the Judgement 
+of Repose he entered in the Saddle River case as follows: 
+The court notes that while COAH's Second Round and Third Round rules require all 
+municipalities to satisfy their RDP, the rules do not require municipalities to 
+"satisfy" their unmet need - the rules only require municipalities to "address" the 
+unmet need through the use of certain mechanisms specified in the rules. See 
+N.J.A.C. 5:93-4.2(-f) (COAH's Second Round rule); N.J.A.C. 5:97-5.3(b) (COAH's 
+Third Round rule). Significantly, none of the mechanisms specified in the rules 
+require zoning exclusively for affordable housing (overlay zoning which offers an 
+option for affordable housing is one of the mechanisms). Additionally, no rule 
+requires a municipally sponsored affordable housing development, let alone a 
+100% affordable municipally sponsored development, which will result in the 
+guarantee of construction of affordable units. N.J.S.A. 52:27D-3 l Id provides: 
+"Nothing in ... C.52:27D-301 et al. [the FHA] shall require a municipality to raise or 
+expend municipal revenues in order to provide low and moderate-income housing." 
+As set forth above, the court finds the fact that the amended settlement will 
+produce the actual construction of 42% of the Borough's unmet need quite 
+compelling and leads the court to find that the amended settlement agreement will 
+result in construction of a substantial number of affordable units.  
+The Court approved the following mechanisms to address the unmet need in Round 3 
+when it entered a Judgment of Repose:   
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 41 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 42 =====
+ 
+ 
+~ 36 ~ 
+ 
+Table 21: Plan Surplus, MSO and Overlay Programs for Unmet Need 
+Plan Component
+Total 
+Credits 
+(possible)
+Status/ Surplus 
+Plan Surplus: 
+220 West Crescent Avenue project (aka The Vale)
+– completed 6 units-excess 1 unit  
+1 
+Excess credits 
+Cebak Court- Allendale Housing Inc. senior 
+housing project on Cebak Court 
+4 
+Constructed
+MSO- Units captured during the Third-Round cycle:
+Park and Ivy: Inclusionary project – approved 5 
+total units, 1 affordable
+1 
+Approved, under 
+construction 
+Overlay Zoning:
+Ramsey Golf & Country Club Overlay Zone,         
+B 301, Lot 37 and Block 406, Lot 21.01, 14.3ac 
+total area, 10 du/ac, 20% set-aside. 
+29 
+Zoned
+Allendale Corporate Center Overlay Zone,          
+B 702, Lot 14, 9.8 ac total area, @12 du/ac, 20% 
+set-aside. 
+23 
+Zoned
+Church of the Guardian Angel Overlay Zone
+B 1803, Lot 1,  8.0 ac total area, @12 du/ac, 20% 
+set-aside. 
+19 
+Zoned
+ 
+Further the following programs also contribute to the Unmet Need requirements: 
+1. Mandatory Set-Aside Ordinance. Additionally, in order to capture future 
+affordable housing opportunities in the Borough and address the remainder of 
+Allendale’s Unmet Need, the Borough has to adopted a Borough-wide 
+Mandatory Set-Aside Ordinance, which requires that any site that is developed 
+with five or more new multi-family or single-family attached dwelling units shall 
+provide an affordable housing set-aside at a rate of 20 percent for affordable 
+ownership unit, 15% if affordable rental units are created. This requirement will 
+ensure that new multi-family or single-family-attached development in Allendale 
+will provide its fair share of affordable units and assist with the Borough’s 
+continuous efforts to address its affordable housing obligation. The Borough will 
+not, however, be under any obligation to grant subdivision and site plan 
+approvals, rezonings, use variances, redevelopment or rehabilitation designations, 
+and/or any other approvals for any such construction and development 
+applications will be required to otherwise conform to the Borough’s zoning 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 42 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 43 =====
+ 
+ 
+~ 37 ~ 
+ 
+requirements. A copy of the Mandatory Set-Aside Ordinance is included in the 
+Appendix of this plan. Any affordable units created pursuant to this ordinance will 
+be applied toward Allendale’s Unmet Need.  
+ 
+2. Development Fee Ordinance. Lastly, as part of its 2017 Settlement Agreement 
+with FSHC and 2018 HE&FSP, the Borough maintained its Development Fee 
+Ordinance, set forth in Chapter 81 of the Borough Code, and its non-residential 
+development fee of 2.5 percent of equalized assessed value, consistent with the 
+Statewide Non-Residential Development Fee Act, and its residential fee at 1.5 
+percent of equalized assessed value. The Borough will continue to implement its 
+Development Fee Ordinance, as adopted, through the Fourth Round, the funds 
+from which will be applied directly toward the implementation of the Allendale’s 
+Fourth Round Housing Element and Fair Share Plan.      
+As Table 21 shows, the Borough took all the actions required by the Judgment of Repose 
+to address its unmet need through Round 3. In addition, several units have been realized 
+and the zoned areas for unmet need continue to represent reasonable zoning measures 
+to help provide opportunities for future inclusionary residential development. 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 43 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 44 =====
+ 
+ 
+~ 38 ~ 
+ 
+Map 3: Prior and Third Round Components 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 44 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 45 =====
+ 
+ 
+~ 39 ~ 
+ 
+4.4: Fourth Round Obligation 
+As established in Section 3.3 of this plan, Allendale does not have any additional vacant 
+land to add to the RDP obligation in the Fourth Round. In addition, there were no parcels 
+that qualified as tracts developed such that they would be categorized as a “changed 
+circumstance” of significance since the adoption of the Third-Round plan. Nonetheless, 
+the Borough is accepting an RDP of 4 for the Savini parcel, leaving the Borough with an 
+unmet need of 196 for Round 4. 
+Fourth Round RDP Obligation (4) 
+To address the RDP need of 4, the Borough will apply 2 units through the ongoing 
+conversion of an existing residential 2-bedroom (currently a deed restricted affordable unit) 
+located at 98 Elm Street to a special needs unit. The unit went into foreclosure and had 
+fallen into a considerable state of disrepair. The Borough has intervened and coordinated 
+the purchase and through Allendale Housing Inc., a non-for-profit organization in the 
+Borough, is purchasing and rehabilitating the unit with the Borough committing up to 
+$90,000 towards its rehabilitation. In accordance with a Consent Order with FSHC, the 
+property will be converted into two (2) special needs units and appropriate special needs 
+generating credits.  
+ 
+This 2-bedrooms special needs project is eligible for 2 credits, plus up to 2 bonus credits. 
+However, with an RDP of 4, no more than 25 percent or 1 bonus credit can be applied. The 
+Borough will address the remaining unit of credit along with its family unit requirements, 
+by purchasing at least two units, making sure the units are safe and habitable and then 
+deed restricting the units for at least twenty years. In this regard, there are four units 
+identified in Table 23 with deed restrictions expiring between July 1, 2025 and June 30, 2035   
+ 
+Table 22: Eligible Extension of Controls-Allendale Brook Estates 
+Description
+Unit type
+Project
+Expiration Date 
+3 Trotters Lane 
+B2101, L9, C0003 
+3 Bedroom 
+Allendale Brooke 
+Estates
+5/15/2032
+7 Trotters Lane 
+B2101, L9, C0007 
+1 Bedroom 
+Allendale Brooke 
+Estates
+11/04/2032
+11 Trotters Lane 
+B2101, L9, C0011 
+2 Bedroom 
+Allendale Brooke 
+Estates
+10/15/2032
+86 Carriage Court 
+Trotters Lane 
+B2101, L9, C0086 
+1 Bedroom 
+Allendale Brooke 
+Estates 
+12/15/2031
+ 
+The deed restrictions on these units provide the Borough with the right to buy the units at 
+the restricted price at the first nonexempt sale following the expiration of the deed 
+restriction on these units. The Borough will exercise its right to buy at least two of these 
+units in accordance with the provisions of the applicable deed restrictions, make sure the 
+units are safe and habitable and then sell the units at an affordable price with an 
+appropriate deed restriction. 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 45 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 46 =====
+ 
+ 
+~ 40 ~ 
+ 
+While the Borough needs only two units to satisfy its RDP, it reserves the right to buy all 
+four units noted above with trust fund monies, make sure the units are safe and habitable 
+and sell the units at an affordable price with an appropriate 30-year deed restriction. In 
+addition, it may well be that there are other units in the Borough that may have deed 
+restrictions that may expire in the Fourth Round where the Borough may be able to secure 
+further credits  towards their needs. The Borough will continue to investigate the potential 
+to secure these additional units and reserve rights to address these conditions.  
+ 
+The following summarizes the plan to address the 4-unit RDP. 
+ 
+Table 23: Credit Plan Towards Fourth Round RDP 
+Project Description
+Fourth
+Round 
+Units
+Third
+Round 
+Bonus
+Total 
+Credits
+98 Elm Street- Unit conversion to 2-bedroom special needs 
+unit and extension of controls (Block 1809, Lot 8) – Existing 
+to be redeveloped, converted with extension of controls.
+2
+1
+3
+Extension of Controls- Extension of controls at Allendale 
+Brook Estates. 
+2
+2
+Total
+4
+1
+5
+ 
+This plan would generate one applicable bonus for the special needs units equating to a 
+total of 5 credits to satisfy a Fourth-Round RDP of 4. 
+ 
+Furthermore, FHA II provides as follows: 
+Any municipality that receives an adjustment of its prospective need obligations for 
+the fourth round or subsequent rounds based on a lack of vacant land shall as part 
+of the process of adopting and implementing its housing element and fair share 
+plan identify sufficient parcels likely to redevelop during the current round of 
+obligations to address at least 25 percent of the prospective need obligation that 
+has been adjusted, and adopt realistic zoning that allows for such adjusted 
+obligation, or demonstrate why the municipality is unable to do so. 
+[N.J.S.A. 52:27D-310.1] 
+For the Fourth Round, Allendale’s “prospective need obligation that has been adjusted“ (i.e., 
+its RDP obligation) is 1-unit. As such, the Borough’s efforts and work towards the 
+redevelopment of the unit at 98 Elm Street is such an effort to address this 25 percent 
+standard to maintain this affordable unit that has fallen into foreclosure and significant 
+disrepair to a new 2-bedroom special needs home.  
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 46 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 47 =====
+ 
+ 
+~ 41 ~ 
+ 
+4.5: Unmet Need (196) 
+As indicated above, the Borough faced an unmet need of 254 in Round 3 and the Court 
+determined that the measures to address that 254 unmet need represented reasonable 
+measures after obtaining input from FSHC. Therefore, it should be anticipated that a 
+municipality that already has an unmet need of 256 and that has done all that the Court 
+deemed reasonable to address that unmet need cannot reasonably be expected to do 
+still more. Indeed, even if every mechanism the court approved to address the unmet 
+need generated the maximum number of affordable units, we could not reach the 254 
+unmet need.  
+Notwithstanding the above, the Borough is willing to take a step over and above what the 
+Court deemed reasonable in its Judgment of Repose for Round 3. It is willing to expand 
+the existing Allendale Corporate Center overlay zone located at Allendale Corporate 
+Center to include Block 702, Lot 15. This additional area would add approximately 5.3 
+acres to the approximately 9.8-acre of lot 14 for a total of 15.1 acres Allendale Corporate 
+Center site at 90 Boroline Road in the northeast corner of the Borough. The review below 
+provides additional rationale for the suitability of this expanded overlay zone area.  
+The current overlay zoning in this area mirrors the existing EM Zoning, which was 
+intended to permit multifamily development of this portion of the industrial area along 
+Boroline Road. The current zone would be expanded to this area at a density of 12 
+dwelling units per acre and any residential development will be required to set aside 20% 
+of its units for affordable housing. This expanded area may add an additional 13 
+affordable units to address the Borough’s Unmet Need. 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 47 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 48 =====
+~ 42 ~
+Map 4: Proposed Expansion of Allendale Corporate Center Overlay Zone Block 702 Lot 15
+Source NJDEP-NJ GeoWeb website- lot lines are approximate.
+In addition to the above, the Borough will keep in place all the mechanisms in its Round 3 
+Housing Element and Fair Share Plan designed to address the 254 unmet need.
+4.6: Other Provisions
+The following additional requirements are noted:
+1.
+Fourth Round Bonuses. Fourth-Round bonuses will be applied in accordance with 
+N.J.A.C. 52:27d-311.k. wherein as noted herein they shall not exceed 25 percent 
+of the RDP obligation.
+2.
+Very-Low Income and Low-Income Units. At least 50 percent of the units 
+addressing the Fourth Round Prospective Need obligation shall be affordable to 
+very low-income and low-income households with the remainder affordable to 
+moderate-income households. A minimum of 13 percent of the affordable units 
+will be made available to very low-income households, defined as households 
+earning 30 percent or less of the regional median income by household size.
+Overlay 
+Zone
+Proposed Added
+Overlay Zone 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 48 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 49 =====
+ 
+ 
+~ 43 ~ 
+ 
+3. Rental Component. At least 25 percent of the Fourth Round Prospective Need 
+obligation shall be met through rental units, including at least half in rental units 
+available to families. 
+ 
+4. Families. At least half of the actual units created to address the Fourth Round 
+Prospective Need obligation must be available to families. 
+ 
+5. Age-Restricted Cap. No more than 30 percent of all units developed or planned 
+to meet the Fourth Round Prospective Need obligation shall be met with age-
+restricted units. 
+ 
+6. Development Fees. The Borough will continue to impose development fees as 
+permitted by COAH’s prior round rules. The funds generated by the collection of 
+development fees will be applied directly towards any activity approved by State 
+regulations for addressing the municipal fair share. 
+ 
+4.7: Review of Rejected Development Sites 
+No developer came forward with a proposal in which it committed to provide affordable 
+housing. Consequently, there is no requirement to consider any proposal that might 
+generate affordable housing.  
+4.6: Consistency with State Planning Initiatives 
+As noted in Section 1, a HE&FSP must also include: 
+ An analysis of the extent to which municipal ordinances and other local factors 
+advance or detract from the goal of preserving multigenerational family 
+continuity as expressed in the recommendations of the Multigenerational Family 
+Housing Continuity Commission, and; 
+ An analysis of consistency with the State Development and Redevelopment Plan, 
+including water, wastewater, stormwater, and multi-modal transportation based 
+on guidance and technical assistance from the State Planning Commission. 
+Accordingly, the following subsection analyzes the consistency of this HE&FSP to the 
+above referenced state planning initiatives. 
+Multigenerational Family Housing Continuity Commission 
+The Multigenerational Family Housing Continuity Commission was established by the 
+State of New Jersey in 2021. As noted in NJSA 52:27D-329.20, one of the primary duties 
+of the Commission is to “prepare and adopt recommendations on how State government, 
+local government, community organizations, private entities, and community members 
+may most effectively advance the goal of enabling senior citizens to reside at the homes 
+of their extended families, thereby preserving and enhancing multigenerational family 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 49 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 50 =====
+ 
+ 
+~ 44 ~ 
+ 
+continuity, through the modification of State and local laws and policies in the areas of 
+housing, land use planning, parking and streetscape planning, and other relevant areas.” 
+As of the date of this HE&FSP, the Multigenerational Family Housing Continuity 
+Commission has not adopted any recommendations. 
+State Development and Redevelopment Plan 
+As established by NJSA 52:18A-200(f), the purpose of the State Development and 
+Redevelopment Plan (SDRP) is to “coordinate planning activities and establish Statewide 
+planning objectives in the following areas: land use, housing, economic development, 
+transportation, natural resource conservation, agriculture and farmland retention, 
+recreation, urban and suburban redevelopment, historic preservation, public facilities and 
+services, and intergovernmental coordination.” 
+As such, the current 2001 SDRP establishes a number of goals and strategies related to a 
+number of different topics, including economic redevelopment. One such goal is to 
+revitalize existing urban centers by directing growth and development to those areas. 
+Specifically, the SDRP seeks to revitalize the State’s cities and towns by protecting, 
+preserving, and developing the valuable human and economic assets in cities, town, and 
+other urban areas. 
+As indicated by the SDRP’s Policy Map, the entirety of the Borough is located in the PA-1 
+Metropolitan Planning Area, wherein development and redevelopment is intended to be 
+directed. The intent of this Planning Area is to: 
+ Provide for much of the state’s future redevelopment; 
+ Revitalize cities and towns; 
+ Promote growth in compact forms; 
+ Stabilize older suburbs; 
+ Redesign areas of sprawl; and; 
+ Protect the character of existing stable communities. 
+Accordingly, this HE&FSP is consistent with the intents of the PA-1. Specifically, it is 
+designed to encourage redevelopment and growth in a compact form, while also 
+protecting the character of the existing community. 
+4.7: Crediting Documentation and Ongoing Compliance
+The Borough of Allendale is following the applicable requirements regarding unit 
+monitoring and reporting. Specifically, the Borough completed the statutorily required 
+updates to its housing project status report by the DCA deadline of February 15, 2025. 
+These updates are included in the State’s new Affordable Housing Monitoring System and 
+should be considered to fulfill the Borough obligation to specify the creditworthiness of 
+all existing affordable units. Further, all crediting documentation submitted to and 
+approved by the Court as part of the Borough’s Third Round Housing Element and Fair 
+Share Plan remains on file with and accessible from the Court. All other crediting 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 50 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 51 =====
+ 
+ 
+~ 45 ~ 
+ 
+documentation, for plan components that were not part of the Borough’s Third Round 
+HE&FSP, is included in the appendices of this plan. 
+ 
+Appendices 
+1.
+Draft Resolutions Adopting and Endorsing Housing Element and Fair Share Plan
+2. Endorsing Resolution No. 25-71 Committing to Comply to Fourth-Round Present 
+and Prospective Need.  
+3. Superior Court Decision and Order Fixing Municipal Obligations 
+4. Structural Conditions Survey and Calculation of Adjusted Present Need 
+5. Third Round Vacant Land Adjustment Table 
+6. Third Round Settlement Agreement 
+7. Existing Affordable Housing Mandatory Set-Aside Ordinance 
+8. Existing/Adopted Chapter 270-Affordable Housing of Borough Code 
+9. Existing/Adopted Chapter 81 -Development Fees of Borough Code 
+10. Existing/Adopted Chapter 270, Article XXXIV, Ramsey Golf Course Inclusionary 
+Overlay Residential District of Borough Code. 
+11. Existing/Adopted Chapter 270, Article XXXV Allendale Corporate Center 
+Inclusionary Overlay Residential District of Borough Code. 
+12. Existing/Adopted Chapter 270, Article XXXVI Franklin Turnpike Inclusionary 
+Overlay Residential District of Borough Code. 
+13. Allendale- 98 Elm Consent Order 
+14. Resolution Appointing Municipal Housing Liaison 
+15. Administrative Agents Contracts and Resolutions 
+16. Administrative Agent Manual and Affirmative Marketing Plan 
+17. Courts approval of the Borough’s Third Round Plan  
+18. Fourth Round Spending Plan 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 51 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 52 =====
+ 
+ 
+~ 46 ~ 
+ 
+Appendix 
+1. Draft Resolutions Adopting and Endorsing Housing 
+Element and Fair Share Plan 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 52 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 53 =====
+BER-L-000594-25
+06/17/2025 2:30:30 PM
+Pg 53 of 82
+Trans ID: LCV20251782378
+RESOLUTION OF THE PLANNING BOARD OF THE BOROUGH OF
+ALLENDALE ADOPTING A HOUSING ELEMENT AND FAIR SHARE
+PLAN FOR ROUND FOUR
+WHEREAS, the Borough of Allendale (hereinafter the “Borough” or “ Allendale’) has a
+demonstrated
+history of voluntary compliance as evidenced by the receipt of a Round 2
+Substantive Certification from COAH on October 1, 2003 and the entry of a Judgment of Repose,
+dated June 27, 2019, approving the Borough’s Housing Element and Fair Share Plan for Round 3;
+Third Round record; and
+WHEREAS, in March of2024, Governor Murphy signed an amendment to the New Jersey
+Fair Housing Act, N.J.S.A. 52:27D-301 et seq. into law making radical changes to the legislation
+(hereinafter “FHA II’’) and
+WHEREAS, FHA II established a procedure by which municipalities can secure approval
+of a Housing Element and Fair Share Plan; and
+WHEREAS, that procedure contemplated that municipalities would adopt a resolution by
+January 31, 2025 committing to a fair share number and filing a declaratory relief action within 48
+hours from adoption of the resolution and then adopting a Housing Element and Fair Share Plan
+(hereinafter “HEFSP" or “Plan”) by June 30, 2025 and filing the adopted Plan within 48 hours of
+adoption with the Affordable Housing Dispute Resolution Program (the ““Program”’); and
+WHEREAS, the Borough adopted a resolution by January 31, 2025 committing to a fair
+share number and filing a declaratory relief action within 48 hours from adoption ofthe resolution;
+and
+WHEREAS, the Borough had
+its affordable housing planning consultant, Edward
+Snieckus, Jr. P.P., LLA, ASLA, of Burgis Associates, Inc. prepare a HEFSP to address the
+Borough’s affordable housing obligations under FHA II; and
+WHEREAS, the Borough now wishes for the Allendale Planning Board to consider
+adopting the HEFSP that its affordable housing planner prepared;
+WHEREAS, in accordance with the provisions of N.J.S.A. 40:55D-13 of the MLUL, the
+Planning Board scheduled a public hearing on the HEFSP for June 16, 2025 at 7:00 p.m. at
+Municipal Building 500 W Crescent Ave Allendale, NJ 07401; and
+WHEREAS, in accordance with the provisions of N.J.S.A. 40:55D-13 of the MLUL, the
+Planning Board publisheda notice of this public hearing in the Borough’s official newspaper at
+least ten days before the scheduled date for the public hearing and served a copy of this notice
+upon the clerks of all municipalities adjoining the Borough, upon the clerk ofthe County Planning
+Board, and upon the New Jersey Office of Planning Advocacy; and
+WHEREAS, a copy of the HEFSP was placed on file with the Planning Board Secretary
+and was available for public review at least ten days before the scheduled date for the public
+hearing; and
+WHEREAS, upon notice duly provided pursuant to N.J.S.A. 40:55D-13, the Planning
+Board held a public hearing on the Housing Element and Fair Share Plan on June 16, 2025; and
+
+===== PAGE 54 =====
+BER-L-000594-25
+06/17/2025 2:30:30 PM
+Pg 54 of 82
+Trans ID: LCV20251782378
+YHEREAS, at the public hearing, Edward Snieckus, Jr. P.P., LLA, ASLA, provided
+provessionail planning testimony regarding the HEFSP and the Board provided members of the
+cub
+ie
+witn the opportunity to provide their comments about the plan.
+WHEREAS, the Planning Board determined that the attached Housing Element and Fair
+Share Ploy 13 consistent with the goals and objectives of the current Master Plan ofAllendale, and
+<=.
+adepticn and mmplementation ofthe plan is in the public interest and protects public health
+we
+safety anc promotes the general welfare.
+WOW, ShEREFORE, BE IT RESGLVED by the Planning Board of Allendale, County
+yy)
+Serger,
+State oS New Jersey, that the Planning Board hereby adopts the Housing Element and
+dus Shave Sinn aviacned hereto.
+LOW) “SS REFORE, BE IT RESOLVED by the Planning Board hereby directs the
+afordab.© AousS.iss attorney for Allendaie to file the duly adopted Housing Element and Fair Share
+“ecu
+tae Peouram, an entity created by tne Amended FHA, within“48 hours of adoption and
+even ‘ae duly ecopted Housing Element and Fair Share Plan toAllendale for endorsement.
+22
+¥f 5% LP AER RESGLVED that Affordable Housing Counsel is authorized to pursue
+picusel
+So
+he ©
+using Element ane Fair Stare Plan and’submit such additional documents as
+-)
+Se
+vecessacy
+or desirable in an effort to secure such approval
+f
+jf
+O SS,
+Y
+“Kairman of the Planning Board
+CERTIFICATION
+sero Jv
+vat the foregoing Resoluticn was duly adopted by the Planning Board of the
+_ = ca< ace
+reguiar meeting held onthe 16th — day ofJune, 2025.
+7
+Planning Board Secretary
+
+===== PAGE 55 =====
+BER-L-000594-25
+06/17/2025 2:30:30 PM
+Pg 55 of 82
+Trans ID: LCV20251782378
+RESOLUTION OF THE BOROUGH COUNCIL OF THE BOROUGH OF
+ALLENDALE ENDORSING THE HOUSING ELEMENT AND FAIR SHARE
+PLAN ADOPTED BY THE ALLENDALE PLANNING BOARD
+WHEREAS, on March 20, 2024, Governor Murphy signed into law P.L. 2024, c.2, which
+amended the 1985 New Jersey Fair Housing Act; and
+WHEREAS, for ease in reference, this resolution shall refer to the Fair Housing Act as
+amended as “FHA II”; and
+WHEREAS, FHA II established a procedure by which municipalities can secure approval
+of a Housing Element and Fair Share Plan (“HEFSP") and secure immunity in the process; and
+WHEREAS, that procedure contemplated that municipalities would adopt a resolution by
+January 31, 2025 committing to a fair share number and filing a declaratory relief action within 48
+hours from adoption of the resolution and then filing
+a HEFSP by June 30, 2025 and filing that
+plan within 48 hours with the Affordable Housing Dispute Resolution Program (the “Program”);
+and
+WHEREAS, by taking these actions, a municipality could secure and maintain immunity
+from all exclusionary zoning suits inclusive of builder’s remedy suits; and
+WHEREAS, in accordance with this statutory procedure, the Borough adopted a binding
+resolution on January 23, 2025 and filed a declaratory relief action within 48 hours from adoption
+of the resolution; and
+WHEREAS, the Borough’s affordable housing planning consultant, Edward Snieckus P.P.,
+LLA, A.S.L.A, of
+Burgis Associates, Inc has prepared a HEFSP to address the Borough’s
+affordable housing obligations under FHA II; and
+WHEREAS, the Allendale Borough Planning Board adopted
+a HEFSP prepared by Mr.
+Snieckus on June 16, 2025, which is attached hereto as ExhibitA; and
+WHEREAS, in accordance with the procedure established by FHA II, the Borough’s
+affordable housing counsel filed the duly adopted HEFSP with the Program created by FHA II
+within 48 hours from adoption; and
+WHEREAS, the Borough Council now wishes to endorse the Housing Element and Fair
+Share Plan adopted by the Allendale Planning Board and seek approval of the HEFSP by the
+Program and Court.
+NOW, THEREFORE, BE IT RESOLVED by the Council of the Borough of Allendale,
+County of Bergen, State of New Jersey, as follows:
+1.
+The Borough Council hereby endorses the Fourth Round HEFSP previously adopted
+by the Allendale Planning Board and attached hereto.
+2.
+The Borough Council hereby directs the Borough’s Affordable Housing Counsel to (a)
+file this resolution with the Program, along with any additional documents the
+professionals deem necessary or desirable; and (b) seek a Compliance Certification
+1
+
+===== PAGE 56 =====
+BER-L-000594-25
+06/17/2025 2:30:30 PM
+Pg 56 of 82
+Trans ID: LCV20251782378
+from the Program or Vicinage areajudge as may be appropriate formally approving the
+Plan.
+3.
+The Borough reserves the right to further amend the HEFSP attached hereto, should
+that be necessary.
+CERTIFICATION
+I certify that the foregoing Resolution was duly adopted by the Council of Allendale
+Borough at a regular meeting held on the ___ day of
+2025.
+Municipal Clerk
+2
+
+===== PAGE 57 =====
+ 
+ 
+~ 47 ~ 
+ 
+Appendix 
+2. Endorsing Resolution No. 25-71 Committing to 
+Comply to Fourth-Round Present and Prospective 
+Need.  
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 57 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 58 =====
+BER-L-000594-25
+06/17/2025 2:30:30 PM
+Pg 58 of 82
+Trans ID: LCV20251782378
+RESOLUTION
+BOROUGH OF ALLENDALE
+BERGEN COUNTY, NJ
+DATE: 01/23/2025
+RESOLUTION# 25-71
+ee
+(|
+2
+|
+(ee
+iK@tede = ae
+gee
+a
+| Carried
+[Homan
+|
+|v |wi
+[
+|
+| GDefeated
+lLovisolo
+| Y |
+[wif
+|
+|
+| OTabled
+[Dalosio
+|Approved on
+foConneh |
+|
+Cd
+| SCT CT
+Cornssent Agenda
+Mayoreo Seo
+RESOLUTION OF THE BOROUGH OF ALLENDALE, COUNTY OF
+BERGEN, STATE OF NEW JERSEY COMMITTING TO COMPLY
+WITH PRESENT NEED (REHAB OBLIGATION) AND THE ROUND 4
+PROSPECTIVE NEED SUBJECT TO CORRECTIONS OF DATA AND
+ALL APPLICABLE ADJUSTMENTS
+WHEREAS, the Borough of Allendale, County of Camden, State of New
+Jersey, (hereinafter, “Borough” or “Allendale”) has a demonstrated history of
+voluntary compliance with its constitutional affordable housing obligations; and
+WHEREAS, on March 20, 2024, Governor Murphy signed into law P.L. 2024,
+c.2, an Amendment to the 1985 Fair Housing Act (hereinafter “Amended FHA” or
+“Act”); and
+WHEREAS, the Amended FHA requires the Department of Community
+Affairs (“DCA”) to provide an estimate of the present need, also referred to as
+the rehab obligation, and the Round 4 prospective need for all municipalities by
+October 20, 2024 based upon the criteria in the Amended FHA; and
+WHEREAS, the DCA issued a report on October 18, 2024 (“DCA Report”)
+wherein it reported its estimate of the present need and the Round 4 prospective
+need obligation for all municipalities based upon its interpretation of the standards
+in the Act; and
+WHEREAS,
+the DCA Report
+calculates Present Need
+(Rehabilitation)
+Obligation to be 159 and its Round 4 Prospective Need to be 260; and
+
+===== PAGE 59 =====
+BER-L-000594-25
+06/17/2025 2:30:30 PM
+Pg 59 of 82
+Trans ID:
+LCV20251 782378
+RESOLUTION
+BOROUGH OF ALLENDALE
+BERGEN COUNTY, NJ
+DATE: 01/23/2025
+RESOLUTION# 25-71
+WHEREAS, the Amended FHA provides that the DCA Report is non-binding,
+thereby inviting municipalities to demonstrate that the Amended FHA would
+support revised calculations of Round 4 fair share affordable housing obligations;
+and
+WHEREAS, the Amended FHA gives municipalities the opportunity to
+propose different obligations from those reported by the DCA on October 18, 2024
+based upon the standards in Sections 6 and 7 of the Act; and
+WHEREAS, the Amended FHA further provides that “[a]ll parties shall be
+entitled to rely upon regulations on municipal credits, adjustments, and compliance
+mechanisms adopted by the Council on Affordable Housing (“COAH”) unless those
+regulations are contradicted by statute, including P.L. 2024, c.2, or binding court
+decisions” (N.J.S.A 52:27D-311 (m)); and
+WHEREAS, COAH
+regulations
+authorize
+municipalities
+to
+secure
+an
+adjustment to their rehabilitation obligation through a windshield survey and also
+empower municipalities to secure vacant land adjustments, durational adjustments
+and other adjustments; and
+WHEREAS, the Borough has exercised its right to take advantage of that
+opportunity to propose a different rehabilitation obligation than reported by the
+DCA by conducting a windshield survey; and
+WHEREAS, based upon the windshield survey included in the expert report
+of Edward Snieckus, Jr. PP, LLA, ASLA attached hereto (hereinafter “Snieckus
+Report”, the Borough has established that its rehabilitation obligation is 10; and
+WHEREAS, the Borough is happy to address any issues that may arise with
+respect to the conducting the windshield survey in accordance with COAH
+standards and to address the needs of lower income households residing in
+affordable units if there is an application to participate in the rehab program for
+more than 10 lower income households residing in qualified units; and
+WHEREAS, the Borough, through its professionals, has exercised its right
+to review the data that is the basis for the 3 allocation factors used to determine
+Allendale’s share of the regional need; and
+
+===== PAGE 60 =====
+BER-L-000594-25
+06/17/2025 2:30:30 PM
+Pg 60 of 82
+Trans ID:
+LCV20251 782378
+RESOLUTION
+BOROUGH OF ALLENDALE
+BERGEN COUNTY, NJ
+DATE: 01/23/2025
+RESOLUTION# 25-71
+WHEREAS, more specifically, Allendale has reviewed the data that the DCA
+used to compute the Land Capacity Allocation Factor that the DCA belatedly
+provided on or about November 27, 2024 instead of by October 20, 2024; and
+WHEREAS, the Borough further notes that the link to the DCA GIS data that
+the DCA belatedly made
+available
+to
+municipalities
+includes the following
+language:
+"The land areas identified in this dataset are based on an the best available
+data using publicly available data enumerated in N.J.S.A. 52:27D-304.3c.(4)
+to estimate the area of developable land, within municipal and regional
+boundaries, that may accommodate development. It is important to note that
+the identified areas could be over or under inclusive depending on various
+conditions and that municipalities are permitted to provide more detailed
+mappings as part of their participation in the Affordable Housing Dispute
+Resolution Program." (emphasis added)
+WHEREAS, the Borough accepted the DCA’s invitation to examine the data
+it used to compute this allocation factor and found that the DCA had indeed been
+over inclusive in the land it found to be developable; and
+WHEREAS, more specifically, based upon the Sniekus Report, the Borough
+finds that fewer acres are developable than the DCA reported in computing the
+Land Capacity factor; and
+WHEREAS, upon correcting the data used to determine the Land Capacity
+Factor, the correct Round 4 prospective need number is 182 not 260; and
+WHEREAS,
+the
+Amended
+FHA
+provides
+that:
+“the
+municipality's
+determination of its fair share obligation shall have a presumption of validity, if
+established in accordance with sections 6 and 7” of the Act; and
+WHEREAS, Borough’s calculation of need is entitled to a “presumption of
+validity” because it complies with Sections 6 and 7 of the Act; and
+WHEREAS, in addition to setting forth its Round 4 fair share affordable
+housing
+obligations for the reasons summarized above, substantial activity has
+occurred and is ongoing that warrants the reservation of certain rights to avoid
+any claim that it has waived them; and
+
+===== PAGE 61 =====
+BER-L-000594-25
+06/17/2025 2:30:30 PM
+Pg 61 of 82
+Trans ID:
+LCV20251 782378
+RESOLUTION
+BOROUGH OF ALLENDALE
+BERGEN COUNTY, NJ
+DATE: 01/23/2025
+RESOLUTION# 25-71
+WHEREAS, for example, the New Jersey Institute of Local Government
+Attorneys
+(“NJILGA”)
+has
+expressed
+its
+support
+for
+proposed
+legislation
+(hereinafter “NJILGA Legislation”) would reduce Allendale’s Round 4 Prospective
+Need to 53 and would give the Borough “90 days from receipt of revised fair share
+obligations from the [DCA] to provide an amended Housing Element and Fair
+Share Plan addressing the new number); and
+WHEREAS, the Borough of Allendale supports the NJILGA Legislation and
+would have the right to reduce its Round 4 obligation in the event that the
+Legislature enacts it; and
+WHEREAS, similarly,
+a number of municipalities, led by the Borough of
+Montvale, have filed suit (MER-L-1778-24) (hereinafter “Montvale Litigation”)
+challenging the Amended FHA and the outcome of this litigation is uncertain; and
+WHEREAS, the process established by the Amended FHA creates an
+opportunity to object by interested parties opposing the obligations to which a
+municipality commits, thereby creating the potential for
+litigation over the
+obligations of the municipality; and
+WHEREAS the court approved a vacant land adjustment and an RDP for the
+Borough in Round 3; and
+WHEREAS, more specifically, on June 27, 2019, Judge Padavano entered a
+final Judgment of Compliance and Repose in which he approved the Borough’s
+application for a determination that the Borough’s realistic development potential
+is 54; and
+WHEREAS, the Borough will be entitled to an adjustment in Round 4 since
+it lacked sufficient land to meet its fair share quota for Round 3; and
+WHEREAS, the Borough will include the basis for its vacant land adjustment
+in in the Housing Element and Fair Share Plan it submits by the June 30, 2025
+deadline established by the Amended FHA: and
+WHEREAS, the Amended FHA requires municipalities to adopt a binding
+resolution no later than January 31, 2025 as to its obligations.
+
+===== PAGE 62 =====
+BER-L-000594-25
+06/17/2025 2:30:30 PM
+Pg 62 of 82
+Trans ID:
+LCV20251 782378
+RESOLUTION
+BOROUGH OF ALLENDALE
+BERGEN COUNTY, NJ
+DATE: 01/23/2025
+RESOLUTION# 25-71
+WHEREAS, in light of the above, the Borough of Allendale finds that it is in
+its best interest
+to declare its obligations in accordance with this binding
+resolution in accordance with the Act; and
+WHEREAS, in addition to the above, the Acting Administrative Director
+issued Directive #14-24, dated December 13, 2024, and made the directive
+available later in the week that followed; and
+WHEREAS,
+pursuant
+to
+Directive #14-24,
+a
+municipality
+seeking
+a
+certification of compliance with the Act shall file an action in the form of a
+declaratory judgment complaint within 48 hours after adoption of the municipal
+resolution of fair share obligations, or by February 3, 2025, whichever is sooner;
+and
+WHEREAS, the Borough of Allendale seeks a certification of compliance
+with the Act and, therefore, directs its Affordable Housing Counsel to file a
+declaratory relief action within 48 hours of the adoption of this resolution.
+NOW, THEREFORE, BE IT RESOLVED on this 23rd day of January, 2025,
+by the Governing Body of the Borough of Allendale, County of Bergen, State of
+New Jersey, as follows:
+1, The preamble of this resolution is incorporated into the operative clauses
+of this resolution as if set forth in full.
+2. For the reasons set for the in this resolution and its attachments, the
+Borough of Allendale commits to a Round 4 Present
+Need (“Rehabilitation”)
+Obligation of 10 and a Round 4 Prospective Need “(New Construction”) obligation
+of 182,
+as set forth in the Sniekus Report, subject to all reservations of all rights,
+which specifically include, without limitation, the following:
+a. The right to a vacant land adjustment, durational adjustments, and
+all other applicable adjustments permitted
+in accordance with
+COAH regulations;
+b. The right to comply with the NJILGA Legislation
+if enacted,
+including the right to adjust its fair share obligations;
+
+===== PAGE 63 =====
+BER-L-000594-25
+06/17/2025 2:30:30 PM
+Pg 63 of 82
+Trans ID: LCV20251782378
+RESOLUTION
+BOROUGH OF ALLENDALE
+BERGEN COUNTY, NJ
+DATE: 01/23/2025
+RESOLUTION# 25-71
+c. The right to adjust its fair share obligation in the event of any
+future legislation that adjusts the fair share obligations that the
+DCA reported on October 18, 2024;
+d. The right to adjust its fair share obligations based upon any ruling
+in the Montvale Litigation or other litigation; and
+e. The right to adjust its fair share obligations in the event third party
+challenges the obligations to which the Borough has committed
+and the Borough of Allendale litigates or negotiates its obligations
+with a third party.
+3:
+The Borough hereby directs its Affordable Housing Counsel to file a
+declaratory judgment complaint in the appropriate venue
+within 48 hours after
+adoption this resolution attaching this resolution.
+4,
+The Borough also hereby authorizes its Affordable Housing Counsel
+to file this resolution with the Program or any other such entity as may be
+determined to be appropriate.
+5. This resolution shall take effect immediately, according to law.
+CERTIFICATION
+i
+SS
+ee
+I hereby certify the above to be a true copy of a Resolution adopted by the Governing
+Body of the Borough of Allendale on January 23, 2025.
+Linda Louise Cervino, RMC
+Municipal Clerk
+
+===== PAGE 64 =====
+Community Planning
+Principals:
+Land Development and Design
+Joseph H. Burgis PP, AICP
+Landscape Architecture
+Edward Snieckus, Jr. PP, LLA, ASLA
+David Novak PP, AICP
+i 
+B
+U
+R
+G
+I
+S
+A S S O C I A T E S,
+I N C.
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 64 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 65 =====
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: es@burgis.com
+BA# 4127.03 
+The original document was appropriately signed and sealed on January 21, 2025, in accordance 
+with Chapter 41 of Title 13 of the State Board of Professional Planners. 
+_______________________________ 
+_______________________________ 
+Joseph H. Burgis, AICP, PP 
+Edward J. Snieckus Jr. PP, LLA, ASLA 
+Professional Planner #2450 
+Professional Planner #5442 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 65 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 66 =====
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: es@burgis.com
+Executive Summary ............................................................................................................................................ 1 
+Section 1: Present Need- Structural Conditions Survey ...................................................................... 3 
+1.1: Present Need Background ................................................................................................................. 3 
+1.2: Structural Conditions Survey ............................................................................................................. 3
+Section 2: Equalized Nonresidential Valuation Factor .......................................................................... 6
+2.1: Basis of Calculation ............................................................................................................................... 6
+2.2: Analysis of Calculation ......................................................................................................................... 6
+Section 3: Income Capacity Factor ............................................................................................................... 7 
+3.1: Basis of Calculation ............................................................................................................................... 7 
+3.2: Analysis of Calculation ......................................................................................................................... 7
+Section 4: Land Capacity Factor .................................................................................................................... 8 
+4.1: Basis of Calculation ............................................................................................................................... 9 
+4.2: Analysis of Calculation ....................................................................................................................... 11 
+Appendix A: Land Capacity Factor Detailed Review ............................................................................ 13 
+Appendix B: Structural Conditions Survey .............................................................................................. 41 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 66 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 67 =====
+ 
+~ 1 ~ 
+ 
+The following Present and Prospective Need Analysis has been prepared for the Borough
+of Allendale in Bergen County, New Jersey. 
+By way of background, Governor Murphy signed A-40/S-50 into law on March 20, 2024 
+after the Senate and Assembly adopted it. This legislation (hereinafter “Amended FHA” or 
+“Act”) overhauled the Fair Housing Act (FHA) by abolishing the Council on Affordable 
+Housing (COAH) and created a new process that involved the Department of Community 
+Affairs (DCA) and the Administrative Office of the Courts (AOC). 
+The Amended FHA directed the New Jersey Department of Community Affairs (“DCA”) to 
+report the present need (also referred to as the rehab obligation) and the prospective 
+need for Round Four based upon the standards set forth in the Act. The DCA issued its 
+report on October 18, 2024; and, in accordance with the Act, made clear that the report 
+was advisory only. For Allendale, the DCA Report identifies a Present Need of 159 and a 
+Prospective Round Four Need of 260.  
+Since the DCA report is non-binding, each municipality has the opportunity to study and 
+define why its obligations should be different based on the standards in the Act. 
+However, the municipality must adopt a binding resolution by January 31, 2025, 
+identifying the present and prospective need obligation to which it is committing. 
+As to the Present Need (also known as the rehab obligation), the Act allows municipalities 
+to rely on COAH standards that the Act has not eliminated. N.J.S.A 52:27D-311 (m). Over 
+each housing cycle, COAH permits municipalities to adjust their rehab obligation through 
+a structural conditions survey. Accordingly, the Borough conducted a structural 
+conditions survey pursuant to NJAC 5:93-5.2(a) to more accurately reflect those units in 
+need of rehabilitation.  
+Recommendation: As a result of the structural conditions survey included herein, the 
+Borough’s Present Need Obligation should be adjusted from 159 to 10 units.  
+As to the Round Four Prospective Need of 260 units that the DCA Reported on October 
+18, 2024, the methodology used to determine a municipality’s prospective fair share 
+obligation requires an initial determination of the regional prospective need. The region 
+that Allendale is in consists of all municipalities in Bergen, Passaic, Hudson and Sussex 
+counties. To determine a municipality’s share of the regional need, the Act requires a 
+calculation of three factors: (1) the equalized nonresidential valuation factor; (2) the 
+income capacity factor; and (3) the land capacity factor. The Act then requires these three 
+factors to be averaged and applied to the regional need to determine the share of the 
+regional need for each municipality that is not a Qualified Urban Aid Municipality 
+(“QUAM”). The Act therefore imposes no prospective need obligation on QUAMs, it 
+instead distributes the obligation to the other municipalities in the respective housing 
+region. 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 67 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 68 =====
+ 
+~ 2 ~ 
+The Borough does not dispute the DCA’s calculation of the Equalized Nonresidential 
+Valuation Factor or the Income Capacity Factor. However, the Borough does dispute the 
+calculation of the Land Capacity Factor. More specifically, the Borough accepts the DCA’s 
+invitation to examine the Land Capacity Factor and the lands that the DCA deemed 
+developable for purposes of calculating this factor.  
+Recommendation: For the reasons set forth herein, the DCA calculation under the Land 
+Capacity Analysis was overinclusive. Once appropriate corrections are made to the land 
+that is developable, the Borough’s Prospective Need Obligation should be adjusted from 
+the 260 figure the DCA reported to 182 based upon the weighting criteria. With the 
+findings in this report, the following summarizes the comparison of the three allocation 
+factors as adjusted by the analysis provided herein. 
+Table 1: Summary of Adjusted Factors
+ 
+Equalized 
+Nonresidential 
+Valuation Factor 
+Income Capacity 
+Factor
+Land Capacity 
+Factor
+DCA Analysis
+0.56% 
+1.05%
+1.21% 
+Borough Analysis 
+0.56% 
+1.05%
+0.36% 
+ 
+The basis for these conclusions are contained herein. 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 68 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 69 =====
+ 
+~ 3 ~ 
+The following section reviews the Borough’s Present Need as calculated by the DCA. The 
+following is summarized: 
+1.
+The Borough finds that the methodology utilized by the DCA to calculate its 
+Prospective Need Obligation is in accordance with the applicable regulations.  
+2.
+The Borough conducted a Structural Conditions Survey to more accurately 
+identify its indigenous needs since the data sets excessively estimated for the 
+actual need in the borough. This survey identified that 10 units have been 
+identified as in need of rehabilitation in accordance with the applicable criteria as 
+noted herein. 
+1.1: Present Need Background
+The Amended Fair Housing Act provides that “[a]ll parties shall be entitled to rely upon 
+regulations on municipal credits, adjustments, and compliance mechanisms adopted by 
+the Council on Affordable Housing (“COAH”) unless those regulations are contradicted by 
+statute, including P.L. 2024, c.2, or binding court decisions”. N.J.S.A 52:27D-311 (m). 
+As detailed below, COAH has adopted regulations to permit municipalities conduct a 
+visual exterior survey to adjust their rehab obligation, which is also referred to as Present 
+need in the Amended Fair Housing Act. 
+Since the Borough had a rehab obligation of 21 in Round 3, the 159 the DCA assigned to 
+the Borough for its rehab obligation raised questions. Accordingly, in accordance with 
+COAH regulations, the Borough conducted the windshield survey COAH regulations 
+authorize. While many towns have reserved their right to conduct a windshield survey as 
+part of preparing a Housing Element and Fair Share Plan for the June 30, 2025 deadline, 
+the Borugh conducted the survey up front. 
+If there are issues with the survey, we will address those issues in the process that lies 
+ahead. In any event, the Borough will implement a rehabilitation program as it has in the 
+past with Court approval. If more low and moderate income households with qualified 
+units seek to participate in the program than our survey determines exist, the Borough 
+will address the needs of the additional low and moderate income households.  
+1.2: Structural Conditions Survey
+As per NJAC 5:93-5.2: 
+“Each municipality shall be provided with the Council’s estimate for substandard 
+units occupied by low and moderate income households. This estimate shall be the 
+municipality’s indigenous need, unless the municipality or an objector performs the 
+Council’s Structural Conditions Survey (see Appendix C, incorporated herein by 
+reference). Where the municipality or objector performs the Structural Conditions 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 69 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 70 =====
+ 
+~ 4 ~ 
+Survey, the Council shall review the results of the data collected and shall modify 
+the indigenous need if it determines a modification is warranted.” 
+A Structural Conditions Survey therefor was conducted as a first step by the Borough of 
+Allendale Construction Official, Mr. Anthony Hackett. The Construction Official was 
+guided by the available criteria established in N.J.A.C. 5:93-5.2 and N.J.A.C. 5:97-6.2 which 
+reference “Appendix C” of the rules. Appendix C of N.J.A.C. 5:93 outlines the criteria and 
+entities licensed to perform building and/or housing inspections.  
+In accordance with Appendix C, the total number of units found to be substandard was 
+then factored for the estimated number of substandard units occupied by low- and 
+moderate-income households census information and overcrowded that is available from 
+the Public Use Micro-Data Sample (PUMS).  
+In calculating Round 4 Present Need obligations, the DCA did not rely on PUMS data for 
+determining the percent of substandard units occupied by low and moderate income 
+households in each municipality. Instead, the DCA relied on HUD’s Comprehensive 
+Housing Affordability Strategy (CHAS) dataset for this estimate. The DCA’s Fourth Round 
+Methodology Report provides the reasoning behind this as follows:   
+“Previous approaches have calculated county-level LMI deficient housing shares 
+from the American Community Survey Public Use Microdata Sample (PUMS) and 
+used them to estimate the LMI-occupied portion of each municipality’s deficient 
+housing. However, this approach essentially assumes that the LMI share of deficient 
+housing is uniform in a county, which is not the case. For example, data from 
+HUD’s Comprehensive Housing Affordability Strategy (CHAS) dataset show that for 
+2017-21, the LMI share of housing lacking complete plumbing or kitchen facilities 
+in Atlantic County was 69.1 percent. However, in Brigantine, it was 100 percent. 
+Using the county LMI deficient share for Brigantine would result in underestimating 
+city present need, undercounting the number of deficient housing units actually 
+occupied by LMI households. 
+Therefore, the analysis utilizes data from HUD’s Comprehensive Housing 
+Affordability Strategy (CHAS) dataset, which has municipality-level data on the 
+number and percentage of LMI households from a special tabulation of Census 
+Bureau American Community Survey (ACS) data. The latest CHAS data release at 
+the time of calculation corresponds to the 2017-2021 5 Year Estimates. To ensure 
+data year and source consistency, the LMI deficient housing calculation relies on 
+2017-2021 data.” 
+Therefore, in order to conduct the second step in our Structural Conditions Survey 
+(estimating the number of substandard units occupied by low/mod income households), 
+we relied on the CHAS data and DCA’s methodology. 
+The structural conditions survey performed by the Construction Official upon review of 
+the entire Borough identified there are a total of 10 units that reflect a need for 
+rehabilitation. To apply the second step, the aforementioned CHAS data for Allendale 
+estimated the number of substandard units occupied by low- and moderate-income 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 70 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 71 =====
+ 
+~ 5 ~ 
+households was 100 percent of the identified substandard units calculated. Thus all 10 
+units from the survey represent the Borough’s present need and may potentially need 
+assistance through the affordable housing present need mechanisms.  
+This result is pending further guidance on other methods or means of adjusting the need 
+based upon actual conditions as determined by the applicable state regulatory agency. 
+The survey demonstrates that the data DCA utilized substantially overestimated the 
+Present Need obligation. The Borough is committed to addressing any issues with its 
+compliance with the COAH standards to adjust the rehab component fully implementing 
+a rehab program and rehabbing more units than the survey substantiates if more than 10 
+low and moderate income households with units that qualify apply to participate in the 
+program. 
+The housing survey form is provided in Appendix B of this document.
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 71 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 72 =====
+ 
+~ 6 ~ 
+The following section reviews the equalized nonresidential valuation factor calculated by 
+the DCA. The following is summarized: 
+1.
+The Borough finds that the methodology utilized by the DCA to calculate its 
+nonresidential valuation factor is acceptable. 
+2.
+The Borough’s change in equalized nonresidential valuation between 1999 and 
+2023 is $180,676,233. 
+3.
+This results in the Borough’s calculated share of the region’s equalized 
+nonresidential valuation of 0.56%. 
+2.1: Basis of Calculation
+As per the adopted legislation, a municipality’s equalized nonresidential valuation factor 
+shall be determined as follows: 
+“To determine this factor, the changes in nonresidential property valuations in the 
+municipality, since the beginning of the round preceding the round being 
+calculated, shall be calculated using data published by the Division of Local 
+Government Services in the department. For the purposes of such, the beginning 
+of the round of affordable housing obligations preceding the fourth round shall be 
+the beginning of the gap period in 1999. The change in the municipality’s 
+nonresidential valuations shall be divided by the regional total change in the 
+nonresidential valuations to determine the municipality’s share of the regional 
+change as the equalized nonresidential valuation factor.” 
+2.2: Analysis of Calculation
+The calculation conducted by the DCA determined that the Borough has a 0.56% share of 
+the region’s equalized nonresidential valuation. 
+Table 2: DCA Equalized Nonresidential Valuation Calculation Summary 
+Year
+Non-equalized 
+Nonresidential Valuation 
+Equalization 
+Ratio
+Equalized
+Nonresidential Valuation 
+1999
+$100,574,900 
+0.8197 
+$122,697,206
+2023
+$279,376,600 
+0.9209 
+$303,373,439
+Difference
+ 
+ 
+$180,676,233 
+Source: DCA Fair Share Housing Obligations for 2025-2035 (Fourth Round) Workbook 
+The Borough has reviewed the methodology and data utilized by the DCA for this 
+calculation. The methodology employed by the DCA is appropriate, the Borough finds 
+that the equalization ratios employed by the DCA are accurate. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 72 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 73 =====
+ 
+~ 7 ~ 
+The following section reviews the income capacity factor calculated by the DCA. It finds 
+that the data and methodology utilized by the DCA relating to the Borough’s income 
+capacity factor are both acceptable. 
+3.1: Basis of Calculation
+As per the adopted legislation, a municipality’s income capacity factor shall be 
+determined by calculating the average of the following measures: 
+“The municipal share of the regional sum of the differences between the median 
+municipal household income, according to the most recent American Community 
+Survey Five-Year Estimates, and an income floor of $100 below the lowest median 
+household income in the region; and  
+“The municipal share of the regional sum of the differences between the median 
+municipal household incomes and an income floor of $100 below the lowest 
+median household income in the region, weighted by the number of the 
+households in the municipality.” 
+3.2: Analysis of Calculation
+The calculation conducted by the DCA determined that the Borough has a 1.05% share of 
+the region’s income capacity factor. Table 3 below summarizes the methodology utilized 
+by the DCA to determine this share. 
+The Borough has reviewed the data and the methodology utilized by the DCA for this 
+calculation and finds both to be acceptable.
+Table 3: Income Capacity Factor 
+Number of 
+Households 
+Median 
+household 
+income in 
+the past 
+12 months 
+(in 2022 
+inflation-
+adjusted 
+dollars) * 
+$100 
+Below 
+Regional 
+Median 
+HH 
+Income 
+Floor 
+Diff. from 
+Median 
+Household 
+Income 
+Floor with 
+Household 
+Weight 
+HH 
+Weighted 
+Income 
+Difference 
+% of 
+Region 
+Total 
+Diff from 
+Median 
+Household 
+Income 
+Floor 
+Income 
+Difference 
+% of 
+Region 
+Total 
+Income 
+Capacity 
+Factor 
+2,271
+$163,875 
+$51,992
+254,086,293
+0.8%
+$111,883 
+1.3%
+1.05%
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 73 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 74 =====
+ 
+~ 8 ~ 
+The DCA issued the data that was the basis for the land capacity factor on 
+November 27th, over a month after the DCA deadline to issue its non-binding numbers 
+under the Amended FHA.  
+The link to the DCA GIS data, and the description section 
+(https://njdca.maps.arcgis.com/home/item.html?id=12acdfe0a5104f8f8a2f604e96063e74,) 
+includes the following language:   
+"The land areas identified in this dataset are based on an the best available data 
+using publicly available data enumerated in N.J.S.A. 52:27D-304.3c.(4) to 
+estimate the area of developable land, within municipal and regional 
+boundaries, that may accommodate development. It is important to note that 
+the identified areas could be over or under inclusive depending on various 
+conditions and that municipalities are permitted to provide more detailed 
+mappings as part of their participation in the Affordable Housing Dispute 
+Resolution Program." (underlined for emphasis) 
+The areas identified as developable in the DCA’s calculation of the Land Capacity factor 
+is indeed overinclusive. Accordingly, we believe that the land capacity allocation factor 
+should be adjusted from 23.8 acres to 7.063 acres . When this correction is made, 
+Allendale’s Round Four prospective need number should be 182 instead of the 260 unit 
+figure identified by DCA.  
+While the basis for removing land treated as developable in the DCA’s calculation is set 
+forth below, it is important to note that the analysis to correct the land allocation factor 
+is different than the analysis to use the determine a municipality’s entitlement to vacant 
+land adjustment. While the analysis to correct the Land Capacity factor focuses on 
+developable land, the analysis to support a vacant land adjustment focuses on land 
+suitable for inclusionary development. Therefore, just because a site was not removed 
+for purposes of calculating the land capacity factor has no bearing on whether it should 
+be removed to calculate entitlement to a vacant land adjustment. 
+In this regard, the Borough secured court approval of a vacant land adjustment in 
+Round 3 and will necessarily seek an adjustment in Round Four in conjunction with its 
+preparation of a Housing Element and Fair Share Plan. Nothing herein should be 
+construed as a waiver of those rights that are explicitly reserved.  
+An analysis of the lands identified by the DCA as being “developable” revealed several 
+inaccuracies. In summary, these inaccuracies generally included lands which were: artifacts 
+of error as described by the DCA; located on developed properties or those inaccessible 
+due to environmental constraints; located on open space or common element properties; 
+located on properties presently under construction; and located on properties with active 
+site plan or approvals.  
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 74 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 75 =====
+ 
+~ 9 ~ 
+Correcting these inaccuracies adjusts the Borough’s weighted land area from 23.8 acres 
+to 7.063 acres. This adjustment to the Borough’s weighted land area also adjusts the 
+region’s weighted land area from 1980 acres to 1964 acres. This results in an adjustment 
+of the Borough’s calculated share of the region’s land capacity from 1.21% to 0.36%. 
+4.1: Basis of Calculation
+As per the adopted legislation, a municipality’s land capacity factor shall be determined 
+by: 
+“estimating the area of developable land in the municipality’s boundaries, and 
+regional boundaries, that may accommodate development through the use of the 
+‘land use / land cover data’ most recently published by the Department of 
+Environmental Protection, data from the American Community Survey and 
+Comprehensive Housing Affordability Strategy dataset thereof, MOD-IV Property 
+Tax List data from the Division of Taxation in the Department of the Treasury, 
+and construction permit data from the Department of Community Affairs and 
+weighing such land based on the planning area type in which such land is 
+located. After the weighing factors are applied, the sum of the total developable 
+land area that may accommodate development in the municipality and in the 
+region shall be determined. The municipality’s share of its region’s developable 
+land shall be its land capacity factor. Developable land that may accommodate 
+development shall be weighted based on the planning area type in which such 
+land is located.” 
+The legislation identifies the primary data sources and weighing factors to utilize in 
+calculating a municipality’s land capacity factor. However, unlike the equalized 
+nonresidential valuation factor and the income capacity factor, the legislation did not 
+establish a delineated process to combine the aforementioned data sources into one 
+comprehensive and coherent formula. 
+The DCA subsequently released a workbook entitled “Affordable Housing Obligations for 
+2025-2035 (Fourth Round) Methodology and Background” (herein referred to as the 
+“DCA Workbook” or the “Workbook”) which established that department’s interpretation 
+on how to calculate the land capacity factor. In summary, that workbook identified the 
+following steps: 
+1.
+First, the DCA divided the weighing regions established by the legislation by 
+municipality. 
+2.
+Next, land use/land cover areas were used to identify vacant, developable lands. 
+The workbook identifies the codes and descriptions of the land use/land cover 
+data used in this process. In short, they include: cropland and pastureland; 
+orchards/vineyards/nurseries/horticultural areas; deciduous forest areas; 
+coniferous forest areas; plantations; mixed forest areas; old field areas; 
+phragmites dominate old field areas; deciduous brush/shrubland; coniferous 
+brush/shrubland; mixed deciduous/coniferous brush/shrubland; severe burned 
+upland vegetation; and undifferentiated barren lands. 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 75 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 76 =====
+ 
+~ 10 ~ 
+3.
+These initial vacant, developable lands were then refined to remove rights-of-way 
+as well as developed properties. For the latter, the DCA utilized MOD-IV tax data 
+and selected underlying tax parcels with property class codes for residential, 
+commercial, industrial, apartment, railroad, and school. 
+4.
+Construction permit data was then analyzed to capture more recent development 
+activities that may not have otherwise been reflected by the land use/land cover 
+data or MOD-IV tax data. 
+5.
+Other limiting factors were utilized to remove initial vacant, developable lands. 
+These include open space, preserved farmland, category 1 waterways and 
+wetlands (and associated buffers based on special area restrictions), steep slopes 
+exceeding 15 percent, and open waters. 
+6.
+Due to limitations resulting from inconsistencies between data sources, the 
+resulting DCA mapping included instances of small land areas caused by an 
+incongruous alignment of geospatial layers. To eliminate these “slivers” of 
+leftover land, DCA eliminated any segment with an area of less than 2,500 square 
+feet. This presumed that a sliver with a minimum dimension of 25 by 100 feet 
+could be a developable property. 
+7.
+Finally, the resulting land area for each municipality was summed with the 
+resulting land areas for all other municipalities within each housing region to 
+then determine the municipal percentage of land capacity for the housing region. 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 76 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 77 =====
+ 
+~ 11 ~ 
+4.2: Analysis of Calculation
+The calculation conducted by the DCA determined that the Borough has 23.870 acres of 
+developable land which accounts for a 1.21% share of the region’s land capacity factor. 
+Overall, the Borough finds the general methodology utilized by the DCA to calculate its 
+land capacity factor acceptable. However, an analysis of the DCA’s resultant mapping 
+discovered the following: 
+1.
+Several of the lands identified as “developable” by the DCA represent slivers 
+which “are considered artifacts of error that are common when overlaying 
+polygons and vectors from non-coincident data sources.” The DCA initially tried 
+to eliminate these slivers by deleting any feature parts with an area of less than 
+2,500 square feet. 
+2.
+Other lands identified as “developable” by the DCA are located on properties 
+with development. To eliminate “developable” lands on developable properties, 
+the DCA had removed any lands where the underlying tax parcels had property 
+class codes for residential, commercial, industrial, apartments, railroad, and 
+school. However, the property classifications identified by the DCA did not 
+account for houses of worship, properties developed with nonprofit facilities, and 
+residential dwellings with associated farmland. 
+3.
+Several lands identified as “developable” by the DCA were in fact located on open 
+space, common elements for homeowner’s associations, or properties containing 
+infrastructure (e.g. detention basins, utility improvements, rights-of-way, etc.). 
+4.
+Some developable areas did not account for areas restricted by regulated 100-
+year floodway areas of streams and other mapped watercourses.  
+5.
+There were several instances of lands identified as “developable” by the DCA 
+being located on properties which are presently under construction. This is likely 
+due to a lag in construction permit reporting. 
+6.
+Finally, lands identified as “developable” by the DCA are located on properties 
+with active site plan or general development plan (GDP) approvals which are no 
+longer available for development. 
+These discrepancies are summarized in Table 4 utilizing the Land Capacity Analysis and 
+are detailed in Appendix A of this analysis. Removing these lands would adjust the 
+Borough’s weighted land area from 23.870 acres to 7.063 acres. This results in an 
+adjustment of the Borough’s calculated share of the region’s land capacity from 1.21% to 
+0.36%. 
+Irrespective of the land capacity factor analysis established herein, the Borough reserves 
+the right to conduct a vacant land adjustment (VLA) to determine its realistic 
+development potential (RDP) at a later date. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 77 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 78 =====
+ 
+~ 12 ~ 
+Table 4: Summary of Land Capacity Factor Analysis
+ID #
+Shapefile 
+Object ID* 
+Block
+Lot
+Initial 
+Weighted 
+Area
+Status
+Weighted 
+Area 
+Recalculated
+1 
+28149
+2004 
+10 
+0.251 
+Not Develop 
+0.000
+2 
+28150
+2001 
+1 
+0.096 
+Developable 
+0.096
+3
+28151
+2003
+19
+1.212
+Not Developable
+0.000
+4
+28152
+2004
+34
+0.183
+Developable
+0.183
+5 
+28153
+2101 
+4 
+2.383 
+Not Developable
+0.000
+6
+28154
+2101
+4
+0.196
+Not Developable
+0.000
+7 
+28155
+2101 
+4 
+0.358 
+Not Developable
+0.000
+8 
+28156
+2008 
+11 
+0.095 
+Developable 
+0.095
+9
+28157
+1503.01
+14
+0.805
+Not Developable
+0.000
+10 
+28158
+2103 
+4 
+2.555 
+Not Developable
+0.000
+11
+28159
+1406
+19
+0186
+Not Developable
+0.000
+12 
+28160
+2103 
+32 
+0.690 
+Not Developable
+0.000
+13 
+28161
+2103 
+30 
+0.378 
+Not Developable
+0.000
+14 
+28162
+1604 
+15 
+3.928 
+Developable 
+3.928
+15 
+28163
+915
+1 
+0.643 
+Not Developable
+0.000
+16 
+28164
+912
+3 
+1.026 
+Not Developable
+0.000
+17 
+28165
+201
+9 
+0.195 
+Not Developable
+0.000
+18 
+28166
+301
+28 
+0.262 
+Not Developable
+0.000
+19 
+28167
+301
+31 
+0.338 
+Not Developable
+0.000
+20 
+28168
+303
+14 
+0.799 
+Not Developable
+0.000
+21
+28169
+602
+1
+0.061
+Not Developable
+0.000
+22
+28170
+301
+33
+0.313
+Not Developable
+0.000
+23 
+28171
+406
+21.01 
+0.077 
+Not Developable
+0.000
+24 
+28172
+203
+1, 
+1.01 
+4.363 
+Not Developable
+0.000
+25
+28172
+303
+1
+2.600
+Developable
+2.600
+26
+28173
+406
+21.01
+0.377
+Constrained-reduced area
+0.060
+27 
+28174
+411
+21.01 
+0.101 
+Developable 
+0.101
+TOTAL
+7.063
+* Object ID and area computations identified were obtained from the NJDCA 
+published Vacant and Developable Land Analysis. 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 78 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 79 =====
+ 
+~ 13 ~ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The following illustrations show in more detail the specific mapping of all land capacity 
+areas as identified in the DCA analysis provided through the Land Capacity Analysis for 
+P.L. 2024, c.2. They are obtained from the web based ARCGIS online mapping utilizing 
+feature layers (hosted) by NJDCA and incorporating other layer features available through 
+NJDEP and ARCGIS Online services. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 79 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 80 =====
+ 
+~ 14 ~ 
+ID #1 
+ 
+Map 1: ID #1 (scale: 1" = 400') 
+ID #
+Weighted Acres
+Status
+Weighted Acres -
+Recalculated
+1
+0.251 
+Not Developable 
+0.00 
+Analysis
+ID #1 is undevelopable: Isolated lot no frontage and isolated by Saddle 
+River tributary.
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 80 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 81 =====
+ 
+~ 15 ~ 
+ID #2
+Map 2: ID #2 (scale: 1" = 400') 
+ID #
+Weighted Acres
+Status
+Weighted Acres -
+Recalculated
+2
+0.096 
+Developable 
+0.096
+Analysis
+ID #2 is this area is developable in accordance with the relevant land 
+capacity criteria. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 81 of 82   Trans ID: LCV20251782378 
+
+===== PAGE 82 =====
+ 
+~ 16 ~ 
+ID #3 
+ 
+Map 3: ID #3 (scale: 1" = 400') 
+ID #
+Weighted Acres
+Status
+Weighted Acres -
+Recalculated
+3
+1.212
+Not Developable 
+0.000
+Analysis
+ID #3 is undevelopable Rockland Electric transmission line ROW. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000594-25   06/17/2025 2:30:30 PM   Pg 82 of 82   Trans ID: LCV20251782378 

@@ -1,0 +1,4252 @@
+SOURCE_URL: https://library.njcourts.gov/files/civil/affordable-housing/bergen/bogota-boro/61825BogotaAdoptedPlan6.17.25.pdf?VersionId=iwgH_0lyLTCPRF7lrwoIygYfZRWMj7e8
+
+===== PAGE 1 =====
+BOROUGH OF BOGOTA MASTER PLAN
+DRAFT HOUSING ELEMENT AND FAIR SHARE PLAN
+Prepared for: 
+Planning Board 
+Borough of Bogota 
+375 Larch Avenue 
+Bogota, New Jersey 07603 
+ 
+ 
+Prepared by: 
+ 
+Phillips Preiss Grygiel Leheny Hughes LLC 
+Planning and Real Estate Consultants 
+70 Hudson Street, Suite 5B 
+Hoboken, New Jersey 07030 
+ 
+ 
+Adopted June 17, 2025 
+ 
+ 
+The original copy of this document was signed and sealed 
+in accordance with N.J.S.A. 45:14 A-1 et seq. 
+ 
+ 
+ 
+ 
+ 
+Paul Grygiel 
+New Jersey Professional Planner License #5518 
+ 
+ 
+ 
+ 
+ 
+Spach Trahan, AICP, PP 
+New Jersey Professional Planner License #6435 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 1 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 2 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+i 
+Table of Contents
+I.
+Introduction..........................................................................................................................................1
+II. 
+Affordable Housing in New Jersey ...................................................................................................... 2
+III.
+Housing Element/ Fair Share Plan Requirements.............................................................................4
+IV.
+Housing Stock and Demographic Analysis.........................................................................................7
+Housing Stock Inventory ..........................................................................................................................7
+General Population Characteristics ..................................................................................................... 10
+Household Characteristics ................................................................................................................... 11
+Income Characteristics ......................................................................................................................... 11
+Employment Characteristics ................................................................................................................. 12
+Growth Trends and Projections ............................................................................................................ 16
+V. 
+Fair Share Plan .................................................................................................................................. 18
+Affordable Housing Obligations ............................................................................................................ 18
+Proposed Compliance Mechanisms .................................................................................................... 21
+Summary of Credits and Bonuses ....................................................................................................... 27
+Consideration of Lands and Buildings for Low- and Moderate-Income Housing .............................. 27
+Spending Plan ....................................................................................................................................... 28
+VI.
+Relationship to Multigenerational Family Housing Continuity ....................................................... 29
+VII. Consistency with the State Development and Redevelopment Plan ............................................ 30
+Appendices ................................................................................................................................................ 32
+List of Tables 
+Table 1. Housing Units by Occupancy Status, 2023 ................................................................................. 7
+Table 2. Housing Units by Number of Units in Structure, 2023 ................................................................ 7
+Table 3. Housing Units by Age to 2023 ...................................................................................................... 8
+Table 4. Housing Units by Number of Rooms for Bogota Borough and Bergen County, 2023 ............... 8
+Table 5. Housing Values, Owner Occupied, 2013 ..................................................................................... 9
+Table 6. Housing Values, Owner Occupied, 2023 ..................................................................................... 9
+Table 7. Comparison of Bogota and Bergen County, Gross Monthly Rental Cost, 2023 ..................... 10
+Table 8. Selected Quality Indicators, Percentage of Occupied Housing Units, 2023 ........................... 10
+Table 9. Population Growth ...................................................................................................................... 10
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 2 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 3 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+ii 
+Table 10. Age Distribution, 2010-2020 .................................................................................................. 11
+Table 11. Household Income by Income Brackets for Bogota and Bergen County, 2023 .................. 12
+Table 12. Employment Status, Bogota, 2023 ......................................................................................... 13
+Table 13. Employment by Occupation, Bogota, 2023............................................................................ 13
+Table 14. Distribution of Employment by Industry, Bogota Residents, 2023 ....................................... 14
+Table 15. Distribution by Class of Worker, 2023 .................................................................................... 14
+Table 16. Private Sector Employment in Bogota by Industry Sector, 2012, 2017, 2022 ................... 16
+Table 17. Residential Certificates of Occupancy, 2013-2023 .............................................................. 16
+Table 18. Non-Residential Certificates of Occupancy, 2013-2023 ....................................................... 17
+Table 19. Prior and Third Round Entitlement to Affordable Housing Credits ....................................... 22
+Table 20. Fourth Round Credits ............................................................................................................... 27
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 3 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 4 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+iii 
+Acknowledgments
+Planning Board
+Corrado Manicini, Chairman 
+Thomas Napolitano, Vice-Chair 
+Daniele Fede, Mayor 
+John Mitchell, Councilman 
+Arthur Sopelsa, Borough Official 
+Rebecca Foster 
+Robert Foster 
+Yesenia Frias 
+Daniel Schnipp 
+Samuel Harris, Alternate 
+Robert Robbins, Alternate 
+ 
+Patricia Morrone, Secretary 
+Jason Shafron, Esq., Attorney 
+Robert Costa, PE, Engineer 
+Paul Grygiel, AICP, PP, Planner  
+Jeffrey R. Surenian, Esq. Affordable Housing Counsel  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 4 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 5 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+1 
+I.
+Introduction
+This Housing Element and Fair Share Plan has been prepared on behalf of the Borough of Bogota, 
+Bergen County, in accordance with the New Jersey Municipal Land Use Law per N.J.S.A. 40:55D-28b(3) 
+and the Fair Housing Act (N.J.S.A. 52:27D-301, et seq.). This document supersedes and replaces the 
+Borough’s 2018 Housing Element and Fair Share Housing Plan, which was adopted on March 27, 
+2018, hereinafter referred to as the “Borough’s 2018 Housing Plan.” 
+ 
+The Municipal Land Use Law, N.J.S.A. 40:55D-1, et seq., requires that a municipal master plan include 
+a Housing Element in order for the municipality to exercise the power to zone and regulate land use. 
+The Housing Element and Fair Share Plan is adopted by the Borough Planning Board and endorsed by 
+the governing body. It is intended to achieve the goal of meeting the Borough’s obligations to plan and 
+regulate land use to provide for a fair share of the regional need for affordable housing. 
+ 
+Bogota remains committed to meeting its constitutional obligation to provide through its land use 
+regulations a realistic opportunity for a fair share of the region’s present and prospective needs for 
+housing for low- and moderate-income families. This Housing Element and Fair Share Plan document 
+outlines how the Borough will address its affordable housing obligations. 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 5 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 6 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+2 
+II.
+Affordable Housing in New Jersey
+In 1975 the Supreme Court of New Jersey in South Burlington County N.A.A.C.P. v. Township of Mount 
+Laurel, 67 N.J. 151 (1975), ruled that the developing municipalities in the State of New Jersey 
+exercising their zoning power had a constitutional obligation to provide a realistic opportunity for the 
+construction of their fair share of the region’s need for low- and moderate-income housing. In 1983, 
+the Supreme Court decided South Burlington County N.A.A.C.P. v. Township of Mount Laurel, 92 N.J. 
+158 (1983), commonly referred to as Mount Laurel II. In this landmark case, the Supreme Court 
+replaced the developing municipality standard with a new standard. Specifically, it ruled that only 
+municipalities with “growth areas” would have a responsibility to provide a realistic opportunity for 
+their fair share of low and moderate income housing. “Growth area” is a designation in the State 
+Development Guide Plan where growth was to be targeted. In 1985, in response to the flood of 
+builder’s remedy lawsuits precipitated by Mount Laurel II and a trial court decision enabling developers 
+to easily quantify the fair share obligation of growth share municipalities, the New Jersey Legislature 
+adopted, and the Governor signed, the Fair Housing Act N.J.S.A. 52:2D-301, et seq. (“FHA”) into law. 
+The FHA transformed the judicial doctrine, commonly referred to as the “Mount Laurel doctrine”, into 
+a statutory one and provided an alternative administrative process in which municipalities could elect 
+to participate in order to secure approval of a Housing Element and Fair Share Plan (“HEFSP”) from an 
+entity the FHA created and gave “primary jurisdiction”: the New Jersey Council on Affordable Housing 
+(“COAH”). COAH promulgated regulations to implement the FHA and then processed applications by 
+municipalities to secure approval of their Housing Element and Fair Share Plans. 
+ 
+In 1986, COAH adopted regulations for the First Round. In 1994, COAH adopted regulations for the 
+Second Round. COAH adopted regulations for the Third Round in 2004. The Appellate Division 
+invalidated several of the key regulations. COAH adopted regulations for Round 3 a second time in 
+2008. In October of 2010, the Appellate Division invalidated those regulations as well in a case 
+entitled  In the Matter of the Adoption of N.J.A.C. 5:96 and 5:97 by the New Jersey Council on Affordable 
+Housing, 416 N.J. Super. 462 (App. Div. 2010) (the “2010 Case”) and gave COAH five months to adopt 
+new regulations for Round 3. In 2013, , in a case entitled In the Matter of the Adoption of N.J.A.C. 5:96 
+and 5:97 by the New Jersey Council on Affordable Housing, 215 N.J. 578 (2013) (the “2013 Case”). 
+the Supreme Court affirmed the Appellate Division’s invalidation of the second iteration of the Third 
+Round regulations and directed COAH to adopt new regulations based upon the methodology utilized 
+in the First and Second Rounds. COAH proceeded to propose such regulations in accordance with the 
+schedule established by the New Jersey Supreme Court in the 2013 Case However, instead of adopting 
+the regulations, on October 20, 2014, COAH deadlocked with a 3-3 vote and then proceeded to make 
+no effort to break the deadlock. 
+ 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 6 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 7 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+3 
+Due to COAH’s failure to adopt the revised regulations and subsequent inaction, Fair Share Housing 
+Center (“FSHC”), a party in the 2010 Case and the 2013 Case, filed a motion with the New Jersey 
+Supreme Court to enforce litigant’s rights. On March 10, 2015 the New Jersey Supreme Court issued 
+its decision on FSHC’s motion in a case entitled, In the Matter of the Adoption of N.J.A.C. 5:96 and 
+5:97 by the New Jersey Council on Affordable Housing, 221 N.J. 1 (2015) (the “2015 Case”). In this 
+case, the Supreme Court found that the COAH administrative process had become non-functioning 
+and, consequently, returned the responsibility for implementing the FHA and the affordable housing 
+laws of our State back to the courts. While the Supreme Court provided broad guidelines to the lower 
+courts as to how to implement the Mount Laurel doctrine, the Supreme Court left it to the trial judges 
+to determine appropriate standards and to process applications for approvals of Housing Element and 
+Fair Share Plans by municipalities that committed to comply in the new process it devised. 
+In the 2015 Case, the Supreme Court decision recognized that many municipalities attempted to 
+address their affordable housing obligations in 2008 by preparing a housing element and fair share 
+plan and petitioning COAH for substantive certification of the plan. Through no fault of its own, Bogota, 
+like a number of other municipalities, did not receive substantive certification of its 2008 plan due to 
+inaction by COAH and subsequent legal challenges. Such towns are considered “participating 
+municipalities”. The 2015 Case gave such municipalities the opportunity to prepare a new housing 
+element and fair share plan to address its affordable housing obligations and seek court approval of 
+those plans. Bogota subsequently filed a declaratory judgment with the Superior Court in July 2015 
+seeking a declaration of its compliance with the Mount Laurel doctrine and FHA in accordance with 
+the decision in the 2015 Case. The Borough reached a settlement with FSHC, which was memorialized 
+in an agreement between the two parties dated November 29, 2016. Bogota subsequently received a 
+Judgment of Compliance and Repose from the Superior Court on April 19, 2018. 
+On March 20, 2024, Governor Phil Murphy signed a major amendment to the FHA into law. The 
+Amended FHA overhauled the FHA, eliminated COAH, and it set forth standards by which the fair share 
+of municipalities must be established for Round 4 covering the period July 1, 2025 through June 30, 
+2035 and for subsequent rounds. The Amended FHA required the New Jersey Department of 
+Community Affairs (DCA) to determine the obligation of all municipalities based upon the standards in 
+the Amended FHA and to issue a non-binding report no later than October 30, 2024 setting forth its 
+view of the obligations of each municipality based upon the standards in the Act. The Amended FHA 
+then gave municipalities the choice to either accept the DCA determination of their obligation, or to 
+provide their own determination based upon the standards in the Act.  
+ 
+This Housing Element and Fair Share Plan has been prepared pursuant to applicable law and 
+regulations and addresses Bogota’s affordable housing obligations through Round 4. 
+ 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 7 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 8 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+4 
+ 
+III.
+Housing Element/ Fair Share Plan Requirements
+In accordance with the Municipal Land Use Law (N.J.S.A. 40:55D-1, et seq.), a municipal Master Plan 
+must include a housing element as the foundation for the municipal zoning ordinance. Pursuant to the 
+Fair Housing Act, a municipality’s housing element must be designed to provide access to affordable 
+housing to meet present and prospective housing needs, with particular attention to low- and 
+moderate-income housing. The housing element must contain at least the following, as per the FHA at 
+N.J.S.A. 52:27D-310: 
+An inventory of the municipality’s housing stock by age, condition, purchase or rental value, 
+occupancy characteristics, and type, including the number of units affordable to low- and 
+moderate-income households and substandard housing capable of being rehabilitated; 
+A projection of the municipality’s housing stock, including the probable future construction of 
+low- and moderate-income housing, for the next ten years, taking into account, but not 
+necessarily limited to, construction permits issued, approvals of applications for development, 
+and probable residential development of lands; 
+An analysis of the municipality’s demographic characteristics, including, but not necessarily 
+limited to, household size, income level, and age; 
+An analysis of the existing and probable future employment characteristics of the municipality; 
+A determination of the municipality’s present and prospective fair share of low- and moderate- 
+income housing and its capacity to accommodate its present and prospective housing needs, 
+including its fair share of low- and moderate-income housing; and 
+A consideration of the lands most appropriate for construction of low- and moderate-income 
+housing and of the existing structures most appropriate for conversion to, or rehabilitation for, 
+low- and moderate-income housing, including a consideration of lands of developers who have 
+expressed a commitment to provide low- and moderate-income housing; and 
+An analysis of the extent to which municipal ordinances and other local factors advance or 
+detract from the goal of preserving multigenerational family continuity as expressed in the 
+recommendations of the Multigenerational Family Housing Continuity Commission, pursuant 
+to N.J.S.A. 52:27D-329.20f.(1); and 
+An analysis of consistency with the State Development and Redevelopment Plan, including 
+water, wastewater, stormwater, and multi-modal transportation based on guidance and 
+technical assistance from the State Planning Commission. 
+ 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 8 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 9 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+5 
+ 
+The Administrative Office of the Courts issued Administrative Directive #14-24 issued on December 
+13, 2024 establishing guidelines for the implementation of the Amended FHA through the Affordable 
+Housing Alternative Dispute Resolution Program (“the Program”) established pursuant to section 5 of 
+P.L.2024, c.2 (N.J.S.A. 52:27D-313.2). The Directive added additional requirements of municipalities, 
+some in violation of the Amended FHA. More specifically, the Directive adds the following 
+requirements: 
+Detailed site suitability analyses, based on the best available data, for each of the un-built 
+inclusionary or 100 percent affordable housing sites in the plan as well as an identification of 
+each of the sites that were proposed for such development and rejected, along with the 
+reasons for such rejection. 
+The concept plan for the development of each of the selected sites should be overlaid on the 
+most up to date environmental constraints map for that site as part of its analysis to see what 
+changes will be needed (either to the selected sites or to their zoning) to ensure that all of the 
+units required by the settlement agreement will actually be produced. 
+Documentation of the creditworthiness of all of the existing affordable housing units in its 
+HEFSP and to demonstrate that it has followed all of the applicable requirements for extending 
+expiring controls, including confirmation that all of the units on which the controls have been 
+extended are code-compliant or have been rehabilitated to code-compliance, and that all 
+extended controls cover a full 30-year period beginning with the end of the original control 
+period. Documentation as to the start dates and lengths of affordability controls applicable to 
+these units and applicable Affordable Housing Agreements and/or deed restrictions is also 
+required. Additionally, the income and bedroom distributions and continued creditworthiness 
+of all other existing affordable units in the HEFSP must be provided. 
+An analysis of how the HEFSP complies with or will comply with all of the terms of the executed 
+settlement agreement. 
+The Directive also states that the HEFSP must also include (in an Appendix) all of the adopted 
+ordinances and resolutions needed to implement the HEFSP, including: 
+All zoning amendments (or redevelopment plans, if applicable). 
+An Affordable Housing Ordinance that includes, among other required regulations, its 
+applicability to 100 percent affordable and tax credit projects, the monitoring and any reporting 
+requirements set forth in the settlement agreement, requirements regarding very low income 
+housing and very low income affordability consistent with the FHA and the settlement 
+agreement, provisions for calculating annual increases in income levels and sales prices and 
+rent levels, and a clarification regarding the minimum length of the affordability controls (at 
+least 30 years, until the municipality takes action to release the controls). 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 9 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 10 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+6 
+ 
+The adoption of the mandatory set aside ordinance, if any, and the repeal of the existing growth 
+share provisions of the code. 
+An executed and updated Development Fee Ordinance that reflects the court’s jurisdiction. 
+An Affirmative Marketing Plan adopted by resolution that contains specific directive to be 
+followed by the Administrative Agent in affirmatively marketing affordable housing units, with 
+an updated COAH form appended to the Affirmative Marketing Plan, and with both documents 
+specifically reflecting the direct notification requirements set forth in the settlement 
+agreement. 
+An updated and adopted Spending Plan indicating how the municipality intends to allocate 
+development fees and other funds, and detailing (in mini manuals) how the municipality 
+proposes to expend funds for affordability assistance, especially those funds earmarked for 
+very low income affordability assistance. 
+A resolution of intent to fund any shortfall in the costs of the municipality’s municipally 
+sponsored affordable housing developments as well as its rehabilitation program, including by 
+bonding if necessary. 
+Copies of the resolution(s) and/or contract(s) appointing one or more Administrative Agent(s) 
+and of the adopted ordinance creating the position of, and resolution appointing, the Municipal 
+Affordable Housing Liaison. 
+A resolution from the Planning Board adopting the HEFSP, and, if a final Judgment is sought 
+before all of the implementing ordinances and resolutions can be adopted, a resolution of the 
+governing body endorsing the HEFSP. 
+ 
+The most glaring example of the Directive exceeding the authority created by the Amended FHA is the 
+requirement to adopt ordinances before the plan is approved. The Amended FHA explicitly provides 
+that municipalities can adopt the ordinances after the plan is approved.
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 10 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 11 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+7 
+IV.
+Housing Stock and Demographic Analysis
+Housing Stock Inventory
+In 2023, there were 3,203 housing units in the Borough of Bogota, of which 78 were vacant. Of the 
+3,125 occupied units, approximately 68.5 percent were owner-occupied and 31.5 percent were renter-
+occupied. Table 1, Housing Units by Occupancy Status, 2023 illustrates this occupancy status. 
+Table 1. Housing Units by Occupancy Status, 2023
+ 
+Housing Units
+Owner Occupied
+Renter Occupied 
+Occupied
+3,125
+2,142 
+983 
+Vacant 
+78
+- 
+- 
+Total
+3,203
+-
+-
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics) 
+Single-family detached units are the most prevalent housing type in Bogota, making up approximately 
+68.5 percent of the Borough’s total housing stock (both occupied and vacant). Two-unit dwellings 
+occupy 11.4 percent of the housing stock. Structures with three or more units make up approximately 
+16 percent of the total housing stock. Housing units in structures with 20 or more units make up 8.5 
+percent of all housing units. See Table 2, Housing Units by Number of Units in Structure, 2023, for a 
+detailed explanation of housing units.
+Table 2. Housing Units by Number of Units in Structure, 2023 
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics) 
+Table 3, Housing Units by Age to 2023, illustrates the age of the Borough’s housing stock. 
+Approximately 50 percent of Bogota’s housing units were built prior to 1940. Construction of housing 
+units later peaked during 1950-1959 with 446 units built, and then it experienced its slowest decade 
+for new housing unit during 2000-2009, with only 20 units built. Since 2010, 146 units have been 
+built, or 4.6 percent of the housing stock. 
+Number of Units 
+Total 
+Percent
+1, Detached
+2,193
+68.5%
+1, Attached
+127
+4.0%
+2
+366
+11.4%
+3 or 4 
+85
+2.7% 
+5 to 9
+65
+2.0%
+10 to 19 
+95
+3.0% 
+20+
+272
+8.5% 
+Mobile Home 
+0 
+0.0% 
+Other
+0 
+0.0% 
+Total
+3,203
+100% 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 11 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 12 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+8 
+Table 3. Housing Units by Age to 2023 
+Year Built
+Total Units
+Percent
+2020 or later
+96
+3.0% 
+2010 to 2019
+50
+1.6% 
+2000 to 2009
+20
+0.6%
+1990 to 1999
+133
+4.2% 
+1980 to 1989
+127
+4.0% 
+1970 to 1979
+183
+5.7%
+1960 to 1969
+304
+9.5% 
+1950 to 1959
+446
+13.9%
+1940 to 1949
+238
+7.4%
+Before 1940 
+1,606
+50.1%
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics) 
+Table 4, Housing Units by Number of Rooms for Bogota Borough and Bergen County, 2023, shows that 
+in Bogota, 15.7 percent of housing units have between one and three rooms; just over 52 percent 
+have between four and six rooms; and approximately 32 percent have seven or more rooms. In Bergen 
+County, approximately 17.6 percent of housing units have between one and three rooms; 
+approximately 27.7 percent have between four and six rooms; and 39.0 percent have seven or more 
+rooms. The mean number of rooms per housing unit in Bogota is similar to the Bergen County average, 
+with 5.9 and 5.8 rooms per unit, respectively.  
+Table 4. Housing Units by Number of Rooms for Bogota Borough and Bergen County, 2023 
+Rooms 
+Number of Units 
+in Bogota 
+Percent of Units in 
+Bogota
+Number of Units in 
+Bergen County
+Percent of Units in 
+Bergen County
+1
+97 
+3.0%
+10,090
+2.7% 
+2
+134
+4.2%
+13,229
+3.6% 
+3
+273
+8.5%
+41,700
+11.3% 
+4
+463
+14.5%
+51,568
+14.0% 
+5
+319
+10.0%
+50,366
+13.7% 
+6
+887
+27.7%
+57,779
+15.7%
+7
+477
+14.9%
+46,007
+12.5% 
+8
+147
+4.6%
+38,447
+10.4% 
+9+ 
+406
+12.7%
+59,349
+16.1% 
+Total
+3,203
+100% 
+368,535 
+100%
+Mean Rooms per Unit
+5.9
+5.8 
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics) 
+Tables 5 and 6, Housing Values, Owner Occupied, 2013 and 2023, respectively, show that the median 
+value of owner-occupied housing in Bogota increased by approximately 31 percent between 2013 and 
+2023. During this same time period, the median housing value in Bergen County increased by 31.4 
+percent. In 2013, Bogota’s median housing value of $338,200 was approximately 25 percent lower 
+than the Bergen County median housing value of $451,400. In 2023, Bogota’s median housing value 
+of $443,400 was still approximately 25 percent lower than Bergen County’s median housing value of 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 12 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 13 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+9 
+$593,200. The growth in housing value from 2013 to 2023 was approximately the same for Bogota 
+and Bergen County. 
+ 
+Table 5. Housing Values, Owner Occupied, 2013 
+Number in
+Bogota 
+Percent in
+Bogota
+Number in
+Bergen County 
+Percent in Bergen
+County 
+Less than $50,000 
+7 
+0.4%
+3,463
+1.6% 
+$50,000 to $99,999
+12 
+0.7%
+2,019
+0.9% 
+$100,000 to $149,999
+46
+2.5%
+3,343
+1.5%
+$150,000 to $199,999
+34 
+1.9%
+4,657
+2.1% 
+$200,000 to $299,999
+434 
+23.8%
+21,262 
+9.7% 
+$300,000 to $499,999
+1,193
+65.3%
+97,870
+44.5%
+$500,000 to $999,999
+93 
+5.1%
+72,577 
+33.0% 
+$1,000,000 or more
+7 
+0.4%
+14,827 
+6.7% 
+Total 
+1,826
+100%
+220,018 
+100%
+2013 Median Value
+$338,200
+$451,400
+Source: American Community Survey, 2009-2013 (Table DP04 Selected Housing Characteristics) 
+ 
+Table 6. Housing Values, Owner Occupied, 2023 
+Housing Value
+Number in 
+Bogota 
+Percent in 
+Bogota
+Number in 
+Bergen County 
+Percent in Bergen
+County 
+Less than $50,000 
+44 
+2.1%
+4,241
+1.8% 
+$50,000 to $99,999
+52 
+2.4%
+2,583
+1.1% 
+$100,000 to $149,999
+0 
+0.0%
+2,366
+1.0% 
+$150,000 to $199,999
+0 
+0.0%
+2,680
+1.2% 
+$200,000 to $299,999
+111 
+5.2%
+11,285 
+4.9% 
+$300,000 to $499,999
+1,307
+61.0%
+62,212 
+26.9% 
+$500,000 to $999,999
+628 
+29.3%
+115,000 
+49.8% 
+$1,000,000 or more
+0 
+0.0%
+30,556 
+13.2% 
+Total
+2,142
+100%
+230,923
+100%
+2023 Median Value
+$443,400
+$593,200
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics)
+Average monthly rental costs in Bogota ($1,893) are similar to average monthly rental costs in Bergen 
+County ($1,863), with 73.5 percent of Borough renters paying over $1,500 per month in rent, while 
+2.7 percent of renters pay less than $1,000 per month. Similarly, approximately 74 percent of Bergen 
+County renters pay more than $1,500 in rent and only 2.5 percent pay less than $1,000. In Bogota, 
+the largest percentage of renters, 37.8 percent, pay between $2,000 and $2,499 in monthly rent. In 
+Bergen County, the largest percentage of renters, approximately 33.3 percent, pay $1,500 to $1,999 
+in rent. See Table 7, Comparison of Bogota and Bergen County, Monthly Rental Cost, 2023, for 
+additional details. 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 13 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 14 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+10 
+Table 7. Comparison of Bogota and Bergen County, Gross Monthly Rental Cost, 2023 
+Gross Monthly
+Rent 
+Number in
+Bogota
+Percent in
+Bogota 
+Number in
+Bergen County 
+Percent in Bergen
+County
+No Rent Paid 
+20 
+- 
+3,907
+-
+Less than $500
+0
+0.0%
+3,870
+3.3%
+$500 - $999 
+24 
+2.5% 
+5,086 
+4.3%
+$1,000 - $1,499
+231
+24.0%
+21,678 
+18.3%
+$1,500 - $1,999
+288
+29.9%
+39,395
+33.3%
+$2,000 - $2,499
+311
+32.3%
+21,731 
+18.3%
+$2,500 - $2,999
+59
+6.1%
+11,103
+9.4%
+$3,000 or more
+50
+5.2%
+15,614
+13.2%
+Total Occupied
+Units Paying Rent 
+963 
+100% 
+118,477 
+100% 
+Median Rent
+$1,893 
+$1,863 
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics)
+Out of 3,125 occupied housing units in Bogota in 2023, none lacked complete plumbing or kitchen 
+facilities, 1.2 percent lacked telephone service, and 7.4 percent were overcrowded (defined as having 
+1.01 or more persons per room). See Table 8, Selected Quality Indicators, Occupied Housing Stock, 
+2023, for further information. 
+Table 8. Selected Quality Indicators, Percentage of Occupied Housing Units, 2023 
+ 
+Overcrowded
+No Telephone 
+Service Available 
+Lacking Complete 
+Plumbing Facilities 
+Lacking Complete 
+Kitchen Facilities 
+No. Units
+232
+38
+0 
+0
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics) 
+General Population Characteristics
+Bogota has seen an overall increase in population since 1990, with an initial increase of 5.4 percent 
+from 1990 to 2000. From 2000 to 2010, the Borough’s population declined by 0.8 percent; during 
+this same period, the County’s population increased by 2.4 percent. From 2010 to 2020, the 
+population growth in Bogota grew by 7.6%, outpacing the growth in Bergen County. See Table 9, 
+Population Growth, for additional information. 
+Table 9. Population Growth 
+ 
+1990 
+2000 
+Percent 
+Change 
+(1990-2000)
+2010
+Percent 
+Change 
+(2000-2010) 
+2020 
+Percent 
+Change 
+(2010-2020)
+Bogota 
+7,824
+8,249 
+5.4%
+8,187 
+-0.8% 
+8,778 
+7.2% 
+Bergen 
+County 
+825,380
+884,118 
+7.1% 
+905,116
+2.4% 
+955,732 
+5.6% 
+Source: 1990, 2000, 2010 & 2020 U.S. Census 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 14 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 15 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+11 
+From 2010 through 2020, there were shifts in Bogota’s age distribution. Youth under the age of 24 
+declined in the Borough, both in the number of persons and the share of the population. The 45-54 
+age group declined as well, by 9 percent nominally and approximately 15 percent as a share of the 
+population. The age groups with the largest increases were the 65-74 age group (an approximately 48 
+percent nominal increase and 38 percent as a share of the population), followed by the 55-64 age 
+group (a 29 percent nominal increase and 20 percent as a share), and next by the 25 to 34 age group 
+(a 21.6 percent nominal increase and 13.6 as a share). See Table 10, Age Distribution, 2000-2010, 
+for additional details. 
+Table 10. Age Distribution, 2010-2020 
+ 
+2010 
+2020 
+Percent 
+Change 
+(Nominal)
+Percent 
+Change (Share
+of Total)
+Age Group
+Number of 
+Persons
+Percent of 
+Population
+Number of 
+Persons
+Percent of 
+Population 
+Under 5
+471
+5.8%
+438
+5.0%
+-7.0%
+-13.8%
+5-14 
+1,056
+12.9%
+1,013
+11.5%
+-4.1%
+-10.9%
+15-24 
+1,197
+14.6%
+1,129
+12.9%
+-5.7%
+-11.6%
+25-34 
+965
+11.8%
+1,173
+13.4%
+21.6% 
+13.6%
+35-44 
+1,200
+14.7%
+1,241
+14.1%
+3.4%
+-4.1%
+45-54 
+1,334
+16.3%
+1,214
+13.8%
+-9.0%
+-15.3%
+55-64 
+1,010
+12.3%
+1,303
+14.8%
+29.0% 
+20.3%
+65-74 
+518
+6.3%
+768
+8.7%
+48.3% 
+38.1%
+75+
+436
+5.3%
+499
+5.7%
+14.4% 
+7.5%
+Total 
+8,187
+100%
+8,778
+100%
+-
+-
+Source: 2010 and 2020 U.S. Census (2020 - Table DP1 Profile of General Population and Housing Characteristics) 
+Household Characteristics
+A household is defined by the U.S. Census Bureau as those persons who occupy a single room or group 
+of rooms constituting a housing unit; however these persons may or may not be related. As a subset 
+of households, a family is identified as a group of persons, including a householder and one or more 
+persons related by blood, marriage or adoption, all living in the same household. In 2023, there were 
+3,125 households in Bogota, with an average of 2.90 persons per household. Approximately 74 
+percent of all households were families, for which there was an average family size of 3.24 persons 
+per family. In terms of household composition, approximately 50 percent of households were married 
+couple families, approximately 37.5 percent of households had children related to the householder, 
+and 20.8 percent were householders living alone. Over 31 percent of households had four or more 
+persons. (Source: ACS 2019-2023, Table S1101 & S2501) 
+ 
+Income Characteristics 
+Bogota households have, on average, lower incomes than that of Bergen County. Annual median 
+income for Bogota households was $107,321 in 2023, whereas annual median income for 
+households in the County was $123,715. Table 11, Household and Family Income by Income Brackets 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 15 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 16 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+12 
+for Bogota and Bergen County, 2023, further illustrates these findings by noting the number and share 
+of households in each of the income categories.
+Table 11. Household Income by Income Brackets for Bogota and Bergen County, 2023 
+ 
+Bogota Borough
+Bergen County 
+Households
+Percent
+Households
+Percent
+Less than $5,000
+23
+0.7%
+7,259
+2.1%
+$5,000 to $9,999
+11
+0.4%
+3,942
+1.1%
+$10,000 to $14,999 
+35 
+1.1%
+7,234 
+2.0%
+$15,000 to $19,999 
+42 
+1.3%
+6,577 
+1.9%
+$20,000 to $24,999
+72
+2.3%
+6,705
+1.9%
+$25,000 to $34,999 
+64 
+2.0%
+15,240
+4.3%
+$35,000 to $49,999 
+256
+8.2%
+23,079
+6.5%
+$50,000 to $74,999
+503
+16.1%
+39,916
+11.3%
+$75,000 to $99,999 
+421
+13.5%
+35,056
+9.9%
+$100,000 to $149,999
+678
+21.7%
+62,751
+17.8%
+$150,000 or more
+1,020
+32.6%
+145,548
+41.2%
+Total
+3,125
+100% 
+353,307
+100%
+Median Household 
+Income 
+$107,321
+$123,715 
+Source: American Community Survey, 2019-2023 (Table S2503 Financial Characteristics) 
+Although the Census data does not provide a breakdown of household income by household size, the 
+2024 Regional Income Limits prepared by the Affordable Housing Professionals of New Jersey1 for 
+Bergen, Hudson, Passaic and Sussex Counties (Region 1) indicate the median household income for 
+a household of one person was $84,288. As such, the moderate-income threshold for a household of 
+one person was $67,431 (i.e., 80 percent of $84,288). In attempting to approximate the number of 
+low- and moderate-income households in the Borough, using a household size of one is a conservative 
+approach that represents just a minimum threshold. Table 13 above shows that the percentage of 
+households in the Borough for which income was below the closest breakpoint to this minimum 
+threshold (i.e. $75,000) was approximately 32 percent. 
+ 
+The percentage of persons and household below the poverty level, as defined by the 2023 American 
+Community Survey, equates to 5.6 percent of all Bogota residents. This is lower than the County as a 
+whole, wherein 6.7 percent of County residents were living below the poverty level in 2023. (Source: 
+ACS 2019-2023, Table S1701) 
+ 
+Employment Characteristics 
+Table 12, Employment Status, Bogota, 2023, indicates the number of Borough residents aged 16 
+years and over who are in the labor force, the type of labor force (i.e., civilian or armed forces), and 
+employment status. Approximately 70 percent of Bogota residents aged 16 and over are in the labor 
+ 
+1 https://ahpnj.org/member_docs/Income_Limits_2024_FINAL.pdf 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 16 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 17 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+13 
+force and, among those in the labor force, 99.5 percent are part of the civilian labor force. Of the 
+residents in the civilian labor force, 92 percent are employed and 8 percent are unemployed.  
+ 
+Table 12. Employment Status, Bogota, 2023 
+Number in Bogota
+Percent in Bogota
+Population 16 years and over 
+7,394 
+100% 
+In Labor Force
+5,128
+69.4%
+Civilian Labor Force
+5,102 
+69.0% 
+Employed
+4,695
+92.0%
+Unemployed
+407
+8.0%
+Armed Forces 
+26
+0.4%
+Not in Labor Force
+2,266 
+30.6% 
+Source: American Community Survey, 2019-2023 (Table DP03 Selected Economic Characteristics) 
+Table 13, Employment by Occupation, Bogota, 2023, identifies the occupations of employed persons. 
+Approximately 45 percent of Bogota residents work in Management, Business, Science, and Arts 
+Occupations and 24 percent work in Sales and Office-related occupations. A smaller share of the 
+population works in Service jobs (12.5 percent); the Production, Transportation, and Moving sector 
+(approximately 10 percent); and in Natural Resources, Construction, and Maintenance (8.4 percent). 
+Table 13. Employment by Occupation, Bogota, 2023 
+Sector Jobs
+Number
+Percent
+Management, Business, Science, and Arts 
+Occupations
+2,121 
+45.2% 
+Service 
+586
+12.5%
+Sales and Office
+1,128 
+24.0%
+Natural Resources, Construction, and Maintenance
+396
+8.4% 
+Production, Transportation, and Moving
+464
+9.9% 
+Total
+4,695 
+100%
+Source: American Community Survey, 2019-2023 (Table DP03 Selected Economic Characteristics) 
+Table 14, Distribution of Employment by Industry, Bogota Residents, 2023, shows the distribution of 
+employment by industry for employed Bogota residents. The largest sector of employment was in 
+Educational Services, Health Care and Social Assistance (28 percent), with smaller shares of the 
+population employed in Retail Trade (9.4 percent), Manufacturing (9 percent), the sectors of 
+Professional, Scientific, Management, Administrative, and Waste Management Services as well as 
+Transportation and Warehousing and Utilities (8.9 percent each), Finance, Insurance, Real Estate, 
+Rental and Leasing (8.4 percent), and Arts, Entertainment, Recreation, Accommodation and Food 
+Services (8.1 percent). The Construction sector employed 6.6 percent of the working population, and 
+small portions of the population were employed in the remaining industries. 
+ 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 17 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 18 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+14 
+Table 14. Distribution of Employment by Industry, Bogota Residents, 2023 
+Sector Jobs
+Number
+Percent
+Agriculture, Forestry, Fishing 
+and Hunting, and Mining 
+0 
+0.0% 
+Construction
+308
+6.6% 
+Manufacturing
+421
+9.0%
+Wholesale Trade 
+200
+4.3% 
+Retail Trade
+443
+9.4% 
+Transportation and
+Warehousing, and Utilities
+416
+8.9%
+Information
+62
+1.3%
+Finance, Insurance, Real 
+Estate, Rental and Leasing 
+393
+8.4% 
+Professional, Scientific, 
+Management, Administrative, 
+and Waste Management
+Services 
+419
+8.9%
+Educational Services, Health 
+Care and Social Assistance 
+1,316 
+28.0% 
+Arts, Entertainment, 
+Recreation, Accommodation 
+and Food Services
+378
+8.1% 
+Other
+134
+2.9% 
+Public Administration
+205
+4.4% 
+Total
+4,695
+100% 
+Source: American Community Survey, 2019-2023 (Table DP03 Selected Economic Characteristics) 
+Of Bogota residents who are employed, approximately 81 percent are private wage and salary workers; 
+15 percent are government workers; and over 3.6 percent are self-employed. See Table 15, 
+Distribution by Class of Worker, 2023, for additional details. 
+Table 15. Distribution by Class of Worker, 2023 
+Number in Bogota
+Percent in Bogota
+Private Wage and 
+ Salary Workers
+3,791 
+80.7% 
+Government Workers
+716 
+15.3% 
+Self-employed in own not 
+incorporated  
+business workers
+170 
+3.6% 
+Unpaid family workers
+18 
+0.4%
+Total 
+4,695
+100% 
+Source: American Community Survey, 2019-2023 (Table DP03 Selected Economic Characteristics) 
+The New Jersey Department of Labor and Statistics tracks covered employment throughout the State. 
+See Table 16, Private Sector Employment in Bogota by Industry Sector, 2012, 2017, 2022, shows the 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 18 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 19 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+15 
+number of employees by sector in Bogota in 2012, 2017, and 2022. According to the New Jersey 
+Department of Labor and Statistics, there were 780 private sector jobs in Bogota in 2022. The largest 
+sectors of employment were in Wholesale Trade (15 percent of total employment); Accommodation 
+and Food Services (10.9 percent); Administration & Support, Waste Management and Remediation 
+(10.6 percent); Manufacturing (10.1 percent); Health Care and Social Assistance (9.7 percent); and 
+Retail Trade (9.5 percent). Other notable employment sectors include Construction (7.9 percent) and 
+Transportation and Warehousing (7.3 percent). From 2012 and 2022, various sectors experienced 
+decreases in their share of all jobs. The most notable increases in the share of employment by sector 
+occurred in the Administration & Support, Waste Management and Remediation sector, which grew 
+from 3.2 percent to 10.6 percent of all jobs; and the Accommodation and Food Services sector, which 
+grew from 5.4 percent to 10.9 percent of all jobs. The share of jobs in the Construction and the 
+Wholesale Trade sectors rose notably between 2012 and 2017, but by 2022 the share had fallen 
+below 2012 levels.  
+ 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 19 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 20 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+16 
+Table 16. Private Sector Employment in Bogota by Industry Sector, 2012, 2017, 2022 
+2012
+2017
+2022
+PRIVATE SECTOR JOBS
+Count
+Share
+Count
+Share
+Count
+Share
+Agriculture, Forestry, Fishing and 
+Hunting
+0
+0.0%
+0
+0.0%
+0
+0.0%
+Mining, Quarrying, and Oil and Gas 
+Extraction
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+Utilities 
+5
+0.7% 
+0
+0.0% 
+0
+0.0%
+Construction
+60
+8.3% 
+132
+16.6% 
+62
+7.9%
+Manufacturing 
+110
+15.2%
+118
+14.9% 
+79
+10.1%
+Wholesale Trade
+116
+16.0%
+146
+18.4% 
+118
+15.1%
+Retail Trade
+114
+15.7%
+75
+9.5%
+74
+9.5%
+Transportation and Warehousing
+27
+3.7%
+21
+2.6%
+57
+7.3%
+Information
+3
+0.4%
+0
+0.0%
+2
+0.3%
+Finance and Insurance
+72
+9.9%
+39
+4.9%
+39
+5.0%
+Real Estate and Rental and Leasing 
+7
+1.0% 
+7
+0.9% 
+7
+0.9%
+Professional, Scientific, and 
+Technical Services
+26 
+3.6% 
+33 
+4.2% 
+39 
+5.0% 
+Management of Companies and 
+Enterprises
+0 
+0.0% 
+0 
+0.0% 
+4 
+0.5% 
+Administration & Support, Waste 
+Management and Remediation
+23 
+3.2% 
+26 
+3.3% 
+83 
+10.6% 
+Educational Services
+23
+3.2% 
+29
+3.7% 
+4
+0.5%
+Health Care and Social Assistance 
+61
+8.4% 
+47
+5.9% 
+76
+9.7%
+Arts, Entertainment, and Recreation 
+7
+1.0% 
+0
+0.0% 
+14
+1.8%
+Accommodation and Food Services
+39
+5.4% 
+76
+9.6% 
+85
+10.9%
+Other Services (excluding Public 
+Administration) 
+31 
+4.3% 
+44 
+5.5% 
+37 
+4.7% 
+Public Administration 
+0
+0.0% 
+0
+0.0% 
+0
+0.0%
+TOTAL PRIVATE SECTOR 
+724
+100% 
+793
+100% 
+780
+100% 
+Source: State of New Jersey Department of Labor and Workforce Development Local Employment Dynamics; 
+http://onthemap.ces.census.gov/ 
+Growth Trends and Projections 
+Residential Trends and Projections
+According to the New Jersey Construction Reporter, between 2013 and 2023, Bogota issued 373 
+certificates of occupancy: nine (9) for one- and two-family dwellings, 363 for multifamily dwellings 
+almost exclusively in inclusionary residential development, and one (1) for a dwelling in a mixed-use 
+building. See Table 17, Residential Certificates of Occupancy, 2013-2023, for additional details.  
+Table 17. Residential Certificates of Occupancy, 2013-2023 
+ 
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Total
+1&2 Family
+0
+0
+0 
+2
+0 
+0
+1 
+1 
+3
+2
+0
+9
+Multifamily
+0
+0
+0 
+44
+0 
+0
+0 
+0 
+201 
+0
+118
+363
+Mixed Use
+0
+1
+0 
+0
+0 
+0
+0 
+0 
+0
+0
+0
+1
+Total
+0
+1
+0 
+46
+0 
+0
+1 
+1 
+204 
+2
+118
+373
+Source: New Jersey Construction Reporter 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 20 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 21 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+17 
+The trend of multi-family residential construction is projected to continue in designated redevelopment 
+areas. However, there is very little vacant land on which to develop sizable new housing projects.  
+ 
+Nonresidential Trends and Projections
+According to the New Jersey Construction Reporter, between 2013 and 2023, the Borough of Bogota
+issued certificates of occupancy for a total of ±299,876 square feet of non-residential2 building space.
+See Table 18, Non-Residential Certificates of Occupancy, 2013-2023, for additional details. 
+Table 18. Non-Residential Certificates of Occupancy, 2013-2023 
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Total
+Office 
+0 
+1,960 
+0 
+0 
+0 
+0 
+234
+0 
+0 
+0 
+0
+2,194
+Retail
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+A-1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+A-2
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0
+0
+A-3
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+23,347
+0 
+0 
+0
+23,347 
+A-4
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0
+0
+A-5
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0
+0
+Multifamily/ 
+Dormitories 
+0 
+0 
+0 
+86,472 
+0 
+0 
+0 
+0 
+54,015 
+0 
+124,000 
+264,487
+Hotel/ Motel
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0
+0
+Education
+0 
+3,920 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0
+3,920
+Industrial 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0
+0
+Hazardous 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0
+0
+Institutional
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0
+0
+Storage
+0 
+0 
+0 
+0 
+5,048
+0 
+0 
+0 
+0 
+0 
+0
+5,048
+Signs, Fences,
+Utility & Misc.
+440 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+440 
+0 
+880 
+TOTAL 
+440
+5,880 
+0
+86,472
+5,048
+0 
+234
+23,347
+54,015 
+440
+124,000 
+299,876 
+Source: New Jersey Construction Reporter 
+Capacity for Growth
+Bogota is essentially fully developed, as detailed in the Vacant Land Analysis included in Appendix 2 
+which demonstrates the lack of available developable land within the Borough.  
+ 
+2 Multifamily and dormitories are included in the “non-residential” category in the New Jersey Construction 
+Reporter. 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 21 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 22 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+18 
+V.
+Fair Share Plan
+Affordable Housing Obligations 
+Introduction 
+The New Jersey Department of Community Affairs (DCA) has calculated statewide and regional 
+affordable housing needs, including municipal obligations, based upon its interpretations of the 
+standards for the determination of fair share obligations in the FHA, as amended.. These non-binding 
+determinations of each municipality’s Fourth Round (2025 to 2035) affordable housing obligation 
+were released on October 18, 2024. A deadline of January 31, 2025 was set for municipalities to 
+adopt a binding resolution setting forth the Present and Round 4 Prospective Need numbers to which 
+they committed based upon their municipal interpretation of the standards set forth in the FHA as 
+amended. Based on its interpretation of the FHA as amended, Bogota’s Mayor and Council adopted a 
+resolution on January 16, 2025 committing to a Present Need (also known as a rehab component) of 
+26 and a Round 4 Prospective Need obligation of 83. In accordance with the FHA as amended, the 
+Borough filed a declaratory relief compliant within 48 hours of adoption and included the resolution 
+as part of its submission. Each of these obligations is discussed below. 
+ 
+Present Need 
+Present need, also known as the rehabilitation obligation, is defined as the number of substandard 
+existing deficient housing units in the municipality currently occupied by low- and moderate-income 
+(LMI) households. DCA proposed a non-binding Present Need obligation for Bogota of 26. The Borough 
+of Bogota has accepted this obligation. 
+ 
+Prospective Need
+Municipal Prospective Need obligations are calculated as a share of the region in which the 
+municipality is located (Bogota’s region includes Bergen, Hudson, Passaic and Sussex Counties). The 
+total Prospective Need for this region for Round 4 is 27,743, with this need allocated to municipalities 
+throughout the region. However, “Qualified Urban Aid Municipalities” are exempt from addressing 
+Prospective Need, which increases the obligations on the remaining municipalities. Regional 
+Prospective Need is then allocated across the non-qualified urban aid municipalities in the region by 
+applying three factors. 
+ 
+Equalized Nonresidential Valuation
+This factor is the change in nonresidential property valuations in the municipality from 1999 to 2023 
+divided by the regional total change in nonresidential valuations. This factor for Bogota is 0.23%. 
+ 
+Income Capacity 
+This factor measures the extent to which a municipality’s income level differs from that of the lowest-
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 22 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 23 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+19 
+income municipality in its housing region. This factor for Bogota is 0.66%. 
+ 
+Land Capacity
+This factor determines the total acreage that is developable in a municipality utilizing the most recent 
+land use / land cover (LULC) data from the New Jersey Department of Environmental Protection (DEP), 
+the most recently available MOD-IV Property Tax List data from the Division of Taxation in the 
+Department of the Treasury, and construction permit data from DCA. The calculation is supposed to 
+exclude lands subject to development limitations. “Weighting factors” as specified in the Affordable 
+Housing Law were applied to developable lands based on the planning area type in which such land 
+was located. For municipalities such as Bogota located in Planning Area 1, the weight is 1, meaning 
+there is no reduction, unlike in various other planning areas. This factor for Bogota is 0.06%. 
+ 
+The DCA provided the data it used for the Land Capacity factor about a month past the October 20, 
+2024 deadline established by the FHA as amended. The DCA recognized that the land data it used to 
+determine the Land Capacity Allocation Factor may not be accurate and so invited municipalities to 
+correct the acreage that DCA’s data and stated that any disputes over any position that municipalities 
+made could be resolved in the dispute resolution process established by the legislation. More 
+specifically, on November 27, 2024, the DCA issued the data that was the basis for the Land Capacity 
+factor on November 27, 2024. The link to the DCA GIS data3, and the description section, includes the 
+following language:   
+  
+The land areas identified in this dataset are based on an (sic) the best available data using 
+publicly available data enumerated in N.J.S.A. 52:27D-304.3c.(4) to estimate the area of 
+developable land, within municipal and regional boundaries, that may accommodate 
+development. It is important to note that the identified areas could be over or under inclusive 
+depending on various conditions and that municipalities are permitted to provide more 
+detailed mappings as part of their participation in the Affordable Housing Dispute Resolution 
+Program. 
+ 
+Bogota accepted the DCA’s invitation to review the data the DCA used to calculate the Borough’s 
+Round 4 Prospective Need and found that the DCA had overestimated the amount of developable 
+land. Upon correcting the data, the Borough concluded that the amount of developable land should 
+be adjusted from 1.2325 by 1.0124 to 0.2201 acres, which would result in the Land Capacity factor 
+dropping from 0.06% to 0.01%. 
+ 
+ 
+3 https://njdca.maps.arcgis.com/home/item.html?id=12acdfe0a5104f8f8a2f604e96063e74  
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 23 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 24 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+20 
+Final Prospective Need Calculation
+The Equalized Nonresidential Valuation Factor, Land Capacity Factor And Income Capacity Factor for 
+each municipality were averaged to determine an Average Allocation Factor, which is the basis for the 
+determination of the prospective need for each municipality in the region. The DCA reported that 
+Bogota’s Average Allocation Factor is 0.32%, which resulted in DCA’s proposed non-binding 
+Prospective Need obligation for Bogota of 88. However, upon correction, the Average Allocation factor 
+should be reduced from 0.32% to 0.30%. When this correction is made, Bogota’s Round 4 obligation 
+is as follows: 
+ 
+Fourth Round (2025 to 2035) Prospective Need: 83.4
+ 
+Based upon this analysis, the Borough committed to a Round 4 Prospective Need in the resolution it 
+adopted in January 2025 and the declaratory relief action that followed shortly thereafter.  
+ 
+The New Jersey Builders’ Association (NJBA) filed an objection to Bogota’s filing on February 25, 2025, 
+which challenged the proposed reduction in the Borough’s Prospective need number. On March 21, 
+2025, just before  a scheduled settlement conference, NJBA offered a settlement to adjust the DCA’s 
+prospective affordable housing need number for Bogota from 88 to 85. After considering the 
+settlement offer by the NJBA, Bogota agreed to the settlement. Therefore, the Borough’s modified 
+Fourth Round Prospective Need is 85 units. 
+ 
+The Prospective Need obligation is cumulative. The new construction number consists of the Prior 
+Round obligations for Rounds 1 and 2, the Prospective Need obligation for Round 3 and the 
+Prospective Need obligation for Round 4. 
+ 
+In accordance with an agreement reached in 2016 between the Borough of Bogota and Fair Share 
+Housing Center (FSHC) (the “2016 FSHC settlement agreement”), Bogota’s affordable housing 
+obligations for Rounds 1 through 3 are as follows: 
+ 
+Prior Round Obligation (1987 to 1999, pursuant to N.J.A.C. 5:93): 13 
+Third Round (1999 to 2025) Prospective Need: 87 
+ 
+If we add the prospective need of 13 for Rounds 1 and 2 to the Round 3 obligation of 87 and the 
+Round 4 obligation of 85, the total prospective need through Round 4 is 185. This is the new 
+ 
+4 This calculation is based on the factors including in DCA’s Fourth Round municipal obligations spreadsheets, 
+as it impossible to determine how these numbers would change based on numerous municipalities potentially 
+submitting changes such as those being considered based on this document. 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 24 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 25 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+21 
+construction obligation for the Borough at this time. Add this 185 new construction obligation to the 
+26 present need obligation to determine the Borough’s fair share. The fair share is 211. 
+  
+185, the new construction component of the Borough’s fair share, is subject to an adjustment based 
+upon the fact that there is insufficient land to create a that requires every fifth unit to be affordable. 
+More specifically, the Borough’s prospective need for Rounds 1 through 3 is 100 and for Round 4 is 
+85. The Borough satisfied its 100 obligation for Rounds 1 through 3, but lacks sufficient land to satisfy 
+its Round 4 prospective need of 85. Therefore, the Borough is entitled to adjust its Round 4 prospective 
+Need of 85. 
+ 
+Vacant Land Analysis
+There remains limited land in Bogota that is vacant or underutilized and therefore available for 
+inclusionary development. Indeed, applying the protocols established by COAH regulations (N.J.A.C. 
+5:93-4.2), housing, meaning the Borough is entitled to a adjust its Fourth Round obligation of 85 to 
+zero. That means that the Borough’s realistic development potential is zero and its unmet need is 85.  
+The tables and figures in Appendix 2: Vacant Land Adjustment provide the basis for the conclusion 
+that the Borough’s realistic development potential or RDP is zero. The vacant land inventory (VLI) is 
+based on the most recent and accurate quantitative and qualitative data and information available to 
+the Borough. The Vacant Land Adjustment analysis performed followed the criteria outlined in N.J.A.C. 
+5:93-4. 
+Proposed Compliance Mechanisms 
+Present Need 
+As noted, the Borough’s present need is 26 units. Bogota has had a rehabilitation program as a 
+participant in the Bergen County Home Improvement Program and the Community Development Block 
+Grant program. The Borough will continue to promote rehabilitation of existing units through these 
+programs, as well as through its affordable housing trust fund and other sources, as funds become 
+available. In our firm’s experience, landlords rarely take advantage of rental rehabilitation programs 
+and it is difficult to find companies that will administer such programs. If the Borough cannot find an 
+entity to manage a rental rehabilitation program, it will seek a waiver from this requirement. 
+ 
+Prior Round and Prospective Need
+As stated above, the Borough has a Prior Round Obligation of 13 units and a Third Round Prospective 
+Need of 87 units, for a combined 1987-2025 fair share prospective need of 100 units. The following 
+table provides an update on the compliance mechanisms for these prior rounds, followed by 
+descriptions of each: 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 25 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 26 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+22 
+Table 19. Prior and Third Round Entitlement to Affordable Housing Credits 
+CREDITS APPLIED TOWARDS PRIOR ROUND OBLIGATION (1987-1999)
+Affordable Development
+Type
+Units
+Bonus Credits
+Total Credits 
+Plus Bonuses 
+Status 
+Group Homes 
+Alternative 
+Living 
+Arrangements 
+18 
+bedrooms 
+3 (see below) 
+21 
+Occupied 
+Silver Maple Gardens I 
+and II 
+New Affordable 
+Senior Citizen 
+Housing 
+20 units 
+0 (see below) 
+20 
+Occupied 
+CREDITS APPLIED TOWARDS THIRD ROUND OBLIGATION (1999-2025)
+Affordable Development 
+Type 
+Units 
+Bonus Credits 
+Total Credits 
+Plus Bonuses
+Status 
+West Fort Lee Road 
+Redevelopment Plan 
+Inclusionary 
+Development 
+42 units 
+22 (see 
+below) 
+64 
+Occupied 
+River Road 
+Redevelopment Area 
+Inclusionary 
+Development 
+0 units 
+No 
+0 
+Not yet 
+constructed 
+57 West Fort Lee Road 
+Inclusionary 
+Development 
+0 units 
+No 
+0 
+Not yet 
+constructed 
+TOTAL 
+80 
+25 
+105
+As shown above, Bogota has addressed is Prior and Third Round obligations of 100, meaning that it 
+has a surplus of five credits that can be applied to its Fourth Round obligation. 
+ 
+The narrative that follows further explains the projects set forth in Table 19 above. 
+ 
+Group Homes
+There are four existing group homes in Bogota that qualify as “alternative living arrangements”: 
+1. The ARC of Bergen and Passaic County Group Home – Block 20, Lot 20: This five-bedroom 
+home is located on Gray Street and opened in 1999. It is licensed as a “supervised apartment” 
+by the New Jersey Department of Human Services, Division of Developmental Disabilities 
+(DDD). The residents of this facility are referred to its operator by DDD. 
+2. AAH of Bergen County Supportive Housing – Block 58, Lot 12: This four-bedroom group home 
+is located on Ridgefield Avenue and opened in 1997. This residence is occupied by four 
+unrelated formerly homeless individuals who each have been diagnosed with a serious mental 
+illness. According to its operator, this facility is considered by the State of New Jersey to be 
+Supportive Housing and an Independent Living Residence. 
+3. Avidd Community Services Group Home – Block 61, Lot 11: Avidd Community Services of NJ, 
+operates a four-bedroom group home on Linwood Avenue which opened in 2016. 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 26 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 27 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+23 
+4. Children's Aid & Family Services, Inc. Group Home – Block 9, Lot 5: Children's Aid & Family 
+Services, Inc. operates a five-bedroom group home for adults ages 21 and older on Larch 
+Avenue, which opened in 2018. 
+N.J.A.C. 5:93-1.3 defines group homes for the developmentally disabled as licensed and/or regulated 
+by the New Jersey Department of Human Services, transitional facilities for the homeless, group homes 
+and congregate living arrangements as alternative living arrangements. Per N.J.A.C. 5:93-5.8 
+alternative living arrangements may be used to address a municipal housing obligation. The unit of 
+credit is the bedroom and each unit may be used to address a municipality’s rental obligation. Per 
+N.J.A.C. 5:97-3.5, units created and occupied after December 15, 1986 may receive rental bonuses 
+for the Prior Round Obligation. Thus, the above homes are eligible for rental bonuses. The maximum 
+number of bonus credits (25 percent) limits those that can been applied for the Prior Round and Third 
+Round. 
+Other Affordable Units 
+There are two age-restricted affordable housing complexes in Bogota with a total of 20 units: 
+ 
+1. Silver Maple Gardens I – 348 Leonia Avenue (Block 34, Lot 4.01): This development contains 
+10 affordable one bedroom units. This two story garden apartment complex is designed for 
+Senior Citizens, 62 years of age or older. The facility was constructed in 1993. 
+2. Silver Maple Gardens II – 354 Leonia Avenue (Block 34, Lot 2.01): This development contains 
+10 affordable one bedroom units. This two story garden apartment complex is designed for 
+Senior Citizens, 62 years of age or older. The facility was constructed in 1996. 
+These developments are owned by the Housing Development Corporation of Bergen County (HDC). 
+HDC is affiliated with the Housing Authority of Bergen County (HABC), which manages the property.  As 
+the HDC’s mission is to provide affordable housing. Therefore there is no end term for their status as 
+affordable units. 
+ 
+The above developments are exempt from typical bedroom distribution requirements as they are age-
+restricted projects. Per N.J.A.C. 5:97-3.5, units created and occupied after December 15, 1986 may 
+receive rental bonuses for the Prior Round Obligation. Thus, the above projects are eligible for rental 
+bonuses. However, as noted the maximum number of bonus credits have been applied for the Prior 
+Round and Third Round, so no additional bonus credits have been claimed for this development. 
+West Fort Lee Road Redevelopment Plan – 172, 229 and 250 West Fort Lee Road (Block 3, Lots 3, 
+4, 7, 8 & 9; Block 72, Lots 1, 2, 3 & 4): There are two adjoining redevelopment areas on West Fort Lee 
+Road. A redevelopment plan has been prepared for this 13.125-acre area, with a maximum permitted 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 27 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 28 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+24 
+density of 32 units per acre and a setaside of 10 percent of new dwelling units as low- and moderate-
+income units. The site plan and redeveloper’s agreement for a 421-unit development, including 42 
+affordable units, was approved by the Bogota Planning Board in late 2016. The development, known 
+as the Atwater, was constructed in phases and it is now complete. Thirty one of the affordable units 
+are reserved for households of low- and moderate-income military veterans, with the remainder 
+available to other low- and moderate-income households. This development is also be eligible for 
+rental bonus credits, which have been limited based on the maximum noted above. The affordable 
+housing setaside of 10 percent is due to site-specific conditions, such as contamination that needed 
+remediation and soil conditions that required more expensive construction techniques than typical, as 
+well as significant infrastructure improvements in the vicinity. 
+ 
+Furthermore, since the adoption of the 2018 Housing Plan, the following project was approved: 
+ 
+The Gabriel – 51 Queen Anne Road (Block 95, Lots 1.01 and 1.02): The Bogota Planning/Zoning Board 
+approved this development in 2022 on a site that was previously occupied by a commercial use, a 
+gasoline service station. The Board granted use, height and bulk variances to permit a four-story 
+multifamily residential building containing 34 dwelling units, including five affordable units. This 
+project has been built and is eligible for one-half bonus credit per unit (2.5 credits), as it was 
+constructed on land that was previously developed and utilized for commercial space. As Bogota 
+satisfied its Prior and Third Round obligations and did not receive a VLA for the Prior Round or Third 
+Round, these 7.5 credits can be applied to the Borough’s Fourth Round obligation. 
+Other Projects
+River Road Redevelopment Area – 300, 310 and 316 River Road (Block 64.01, Lots 6.01, 6.02 and 
+7.01): This 0.372-acre property is subject to a 20 percent affordable housing overlay per Chapter XXIIB 
+of the Borough’s General Ordinances. The site was also determined to be an area in need of 
+redevelopment. A redevelopment plan has not yet been prepared for this area. This site has not been 
+redeveloped to date. 
+57 West Fort Lee Road (Block 66, Lot 12): Although the site was included in the Housing Element and 
+Fair Share Plan for Round 3 and zoned accordingly, this site is no longer available for affordable 
+housing production. 
+Bonus Credits 
+The bonuses included in the amended FHA for the Fourth Round are as follows: 
+Supportive/Special Needs: One unit of credit and one bonus credit for each unit of low- or 
+moderate-income housing for individuals with special needs or permanent supportive housing, 
+as those terms are defined in section 2 of P.L. 2004, c.70 (C.34:1B-21.24) 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 28 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 29 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+25 
+Ownership Units Created with Non-Profit: One unit of credit and one-half bonus credit for each 
+low- or moderate-income ownership unit created in partnership sponsorship with a non-profit 
+housing developer 
+Transit: One unit of credit and one-half bonus credit for each unit of low- or moderate-income 
+housing located within a one-half mile radius (or one-mile radius for projects located in a 
+Garden State Growth Zone), surrounding a New Jersey Transit Corporation, Port Authority 
+Transit Corporation, or Port Authority Trans-Hudson Corporation rail, bus, or ferry station, 
+measured from the closest point on the outer perimeter of the station, including any associated 
+park-and-ride lot, to the closest point of the housing project property 
+Age-Restricted: One unit of credit and one-half bonus credit for a unit of age-restricted housing, 
+provided that a bonus credit for age-restricted housing shall not be applied to more than 10 
+percent of the units of age-restricted housing constructed in compliance with the Uniform 
+Housing Affordability Controls promulgated by the New Jersey Housing and Mortgage Finance 
+Agency in a municipality that count towards the municipality's affordable housing obligation 
+for any single 10-year round of affordable housing obligations 
+Additional Three-Bedroom Units: One unit of credit and one-half bonus credit for each unit of 
+low- or moderate-income family housing with at least three bedrooms above the minimum 
+number required by the bedroom distribution  
+Former Retail, Office, Commercial: One unit of credit and one-half bonus credit for a unit of 
+low- or moderate-income housing constructed on land that is or was previously developed and 
+utilized for retail, office, or commercial space 
+Extension of Controls: One unit of credit and one-half bonus credit for each existing low- or 
+moderate-income rental housing unit for which affordability controls are extended for a new 
+term of affordability, in compliance with the Uniform Housing Affordability Controls, and the 
+municipality contributes funding towards the costs necessary for this preservation 
+Municipal Contribution to 100% Affordable: One unit of credit and one bonus credit for each 
+unit of low- or moderate-income housing in a 100 percent affordable housing project for which 
+the municipality either contributes property without which the project would not be feasible, or 
+makes contributions from the municipal affordable housing trust fund that cover no less than 
+3 percent of the project cost 
+Additional Very Low-Income Units: One unit of credit and one-half bonus credit for each unit of 
+very low-income housing for families above the 13 percent of units required to be reserved for 
+very low-income housing pursuant to section 7 of P.L.2008, c.46 (C.52:27D-329.1) 
+Market to Affordable:  One unit of credit and one bonus credit for each unit of low- or moderate-
+income housing created by transforming an existing rental or ownership unit from a market 
+rate unit to an affordable housing unit 
+ 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 29 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 30 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+26 
+For the Fourth Round and beyond, a municipality shall not receive more than one type of bonus credit 
+for any unit, and a municipality shall not be permitted to satisfy more than 25 percent of its prospective 
+need obligation through the use of bonus credits. Therefore a maximum of 20.75 bonus credits may 
+be granted (25 percent of the Prospective Need of 83 units). 
+ 
+Unmet Need 
+In sum, Bogota’s Fourth Round Unmet Need obligation of 85 units will be addressed through the 
+following compliance mechanisms: 
+ 
+Surplus Credits: As discussed above, Bogota has five surplus credits from its Prior Round and Third 
+Round compliance, which can be applied to the Fourth Round obligation. 
+The Gabriel: As discussed above, this recently constructed project created five affordable units plus 
+2.5 bonus credits, for a total of 7.5 credits that can be applied to the Fourth Round obligation. 
+Extension of Affordability Controls – Silver Maple Gardens:
+The two Silver Maple Gardens age-restricted affordable housing complexes were constructed in 1993 
+and 1996. Therefore, the standard 30-year period of affordability controls for these developments 
+have recently passed or will soon. HDC’s mission is to provide affordable housing, as noted above, and 
+it is standard procedure to extend controls. As these developments will continue to be restricted to 
+occupancy by low- and moderate-income households, the 20 units provided 20 credits that can be 
+applied to the Fourth Round obligation. 
+Inclusionary Zoning Requirements: In the event there is any redevelopment, the Affordable Housing 
+Controls section of the Borough’s General Ordinances that were amended in 2023 create the following 
+new Subsection 22B-1.5a.3: 
+Rezonings and Variances. 
+Notwithstanding the provisions of subsection 22B-1.5a1(b), or any other section in this 
+Chapter, any residential development consisting of five or more dwelling units, at a density 
+above six units per acre, that is permitted pursuant to a variance or rezoning shall produce 
+low- and moderate-income housing on-site or elsewhere in the Borough or pay a fee in lieu of 
+providing affordable units. The number of affordable units to be provided or in lieu payment 
+shall be equal to 20% of the residential units in the development, or 15% for affordable rental 
+units. The amount of the payment in lieu of providing housing shall be as determined by the 
+appropriate rules of the New Jersey Council on Affordable Housing and any other relevant state 
+regulations. 
+ 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 30 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 31 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+27 
+There are existing inclusionary zoning requirements in Chapter 22B of the Borough’s General 
+Ordinances, which pertain to the River Road Redevelopment Area and the 57 West Fort Lee Road 
+property discussed above. Section 22B-1.7a.2 includes standards for rental developments. At present, 
+the presumptive minimum density is 12 units per acre, which may be increased to 20 units per acre 
+with a 20 percent set-aside of low- and moderate-income units. 
+ 
+Summary of Credits and Bonuses
+These Borough’s Fourth Round compliance mechanisms and the credits and bonuses associated with 
+them are summarized in Table 20. 
+ 
+Table 20. Fourth Round Credits  
+CREDITS APPLIED TOWARDS FOURTH ROUND UNMET NEED OBLIGATION (2025-2035) OF 85
+Affordable Development 
+Type 
+Units/ Credits 
+Bonus Credits 
+Total Credits 
+Plus Bonuses 
+Surplus Credits 
+ 
+5
+ 
+5
+The Gabriel 
+Inclusionary 
+Development 
+5 
+2.5 
+7.5 
+Silver Maple Gardens 
+Extension of 
+Controls 
+20 
+N/A 
+20 
+Inclusionary zoning 
+ 
+TBD 
+ 
+TBD 
+TOTAL
+ 
+30 
+2.5 
+32.5
+Consideration of Lands and Buildings for Low- and Moderate-Income Housing
+Bogota is an essentially fully developed municipality with limited vacant land. As documented by the 
+VLA discussed above, most of the vacant land in the Borough is not developable due to environmental 
+constraints or other factors. The one prime developable parcel of land at the time of the 2018 Housing 
+Plan, the former Hess site, has been redeveloped with an inclusionary mixed-use development that 
+includes 42 affordable units. 
+ 
+As of the date of this plan, there have not been any developers who have expressed a commitment to 
+provide low- and moderate-income housing. 
+ 
+All of the above sites designated for affordable housing development, with the exception of group 
+homes, are shown on the “Potential Affordable Housing Sites” map in Appendix 1. The map depicts all 
+environmental constraints affecting all properties within the Borough, consisting of water bodies 
+derived from the 2020 State Land Use/Land Cover dataset; steep slope areas exceeding 15 percent 
+greater than 5,000 square feet as per 10 foot digital elevation model LiDAR data; and flood hazard 
+areas within the 100-year floodplain as indicated by FEMA. The final sites evaluated as being 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 31 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 32 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+28 
+potentially developable for affordable housing include Silver Maple Gardens I and II age-restricted 
+housing developments, the West Fort Lee Road Redevelopment Area, and The Gabriel multi-family 
+residential development. The Silver Maple Gardens I development does not contain any 
+environmentally constrained areas, and the Silver Maple Gardens II developments includes negligible 
+slivers of steep slope areas in the northwestern corner of the lot. Much of the Fort Lee Road 
+Redevelopment Area lies within the 100-year floodplain, which includes the entirety or majority of each 
+individual property within the Redevelopment Area. Block 3, Lots 8 and 9 of the Redevelopment Area 
+are the lone exceptions to this, as they contain minimal areas which lie within the 100-year floodplain. 
+Block 72, Lots 1-4 of the Redevelopment Area also all feature steep slope areas which lie directly 
+along the Hackensack River, which directly adjoins and minimally encroaches upon the lots. The 
+Gabriel apartment development features little to no environmental constraints, with a sliver of steep 
+slope areas along the southern boundary of Block 95, Lot 1.01.  
+ 
+Spending Plan
+The Borough of Bogota has a development fee ordinance (Chapter 22A) which provides a dedicated 
+revenue source for affordable housing. All development fees, payments in lieu of constructing 
+affordable units on site, funds from the sale of units with extinguished controls, and interest generated 
+by the fees are deposited in a separate interest-bearing affordable housing trust fund for the purposes 
+of affordable housing. These funds shall be spent for purposes including a housing rehabilitation 
+program, costs associated with affordable housing construction, providing affordability assistance to 
+low-income households and professional services related to the planning for affordable housing. The 
+proposed Spending Plan is included in the Appendix 3. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 32 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 33 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+29 
+VI.
+Relationship to Multigenerational Family Housing Continuity
+Multigenerational housing is becoming a desired housing option in the State due to rising housing 
+costs and an aging population. Housing for multigenerational families is necessary to offer a diverse 
+housing stock and to account for population trends. Multigenerational housing can provide an 
+opportunity for residents to age in place, save on costs associated with housing, and provide in-house 
+care for an older adult or persons with disabilities. Additionally, multigenerational housing is a more 
+sustainable approach to meeting housing obligations as there is no need for the construction of new 
+homes in order to provide housing for additional individuals.  
+One possible approach to providing multigenerational housing is the construction of accessory 
+dwelling units (ADUs). A frequent concern when choosing to live in multigeneration housing layout is 
+lack of privacy. ADUs offer sufficient privacy within a home, providing all the benefits of 
+multigenerational housing without individuals sacrificing their personal space. State legislation has 
+been proposed to permit ADUs subject to certain regulations, but it has not been adopted as of the 
+date of this plan.  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 33 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 34 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+30 
+VII.
+Consistency with the State Development and Redevelopment 
+Plan 
+The New Jersey State Development and Redevelopment Plan (SDRP) was originally adopted in 1992. 
+The purpose of the SDRP according to the State Planning Act at N.J.S.A. 52:18A-200(f) is to: 
+ 
+Coordinate planning activities and establish Statewide planning objectives in the following 
+areas: land use, housing, economic development, transportation, natural resource 
+conservation, agriculture and farmland retention, recreation, urban and suburban 
+redevelopment, historic preservation, public facilities and services, and intergovernmental 
+coordination. 
+ 
+The State Plan is not a regulation, but a policy guide, and is meant to coordinate planning activities 
+and development throughout the state. At the municipal level, master plans are required to be 
+evaluated and, if necessary, modified to reflect policies of the State Plan. The State Plan is also 
+important when the State makes infrastructural and other investment decisions, i.e., in determining 
+where available State funds should be expended. 
+ 
+A revised version of the plan was adopted by the State Planning Commission in 2001. While required 
+by the State Planning Act to be revised and re-adopted every three years, the SDRP has only been 
+readopted once during the 32 years since its original adoption. A new State Strategic Plan (SSP) was 
+proposed in 2011 as the revision to the 2001 SDRP, but it has not been advanced in recent years. 
+The State Office of Planning Advocacy started the process of preparing a new State Plan in 2023 and 
+the State Planning Commission has been engaging with stakeholders.  As part of the update process, 
+the State Planning Commission approved the Preliminary State Development and Redevelopment Plan 
+on December 4, 2024, and is now undertaking the Cross-Acceptance process (i.e. review of the plan 
+at the county level). 
+ 
+Spatially, the last adopted State Plan utilizes planning areas, centers, and environs as a framework 
+for implementing Statewide goals and policies. The State Plan Map indicates that the Borough of 
+Bogota is located within the Metropolitan Planning Area (PA1). For the Metropolitan Planning Area, the 
+State Plan has four major aims, as follows: (1) to provide for much of the state’s future redevelopment; 
+(2) to revitalize cities and towns and promote growth in compact forms; (3) to stabilize older suburbs 
+and redesign areas of sprawl; and (4) to protect the character of existing stable communities. 
+ 
+The land use policy objectives of the Metropolitan Planning Area are to: 
+1. Promote redevelopment and development in cores and neighborhoods through cooperative 
+regional planning efforts; 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 34 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 35 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+31 
+2. Promote diversification of land uses, including housing where appropriate, in single-use 
+developments and enhance their linkages to the rest of the community; and 
+3. Ensure efficient and beneficial utilization of scarce land resources throughout the Planning 
+Area to strengthen its existing diversified and compact nature. 
+ 
+The Borough has satisfied its responsibilities through Round 3 and taken appropriate measures to 
+satisfy its unmet need in Round 4 
+ 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 35 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 36 =====
+Borough of Bogota Master Plan
+2025 Housing Element and Fair Share Plan
+32 
+Appendices
+Appendix 1: Affordable Housing Sites 
+Appendix 2: Vacant Land Adjustment 
+Appendix 3: Spending Plan 
+Appendix 4: Draft Ordinance Amendments 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 36 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 37 =====
+BER-L-000405-25
+06/18/2025 2:28:31 PM
+Pg 37 of 70
+Trans ID: LCV20251794733
+LIT
+etl, ~
+AUC Tit
+RSSi ts
+SS ASaitims Ss
+BES HSESESs
+Ses SSSSS om
+/
+=
+SS Sas
+Slims SS ane Li Sey
+b3
+aa
+BO SSE ST
+Mw
+me
+ES QTESy
+(|
+=
+== a)SS
+Sait SSim
+Qs
+ST SLITS LT
+oneal
+FF
+ae
+15 SSTHESAd
+AS
+===
+SS LTS Silay
+©)\ a
+Sue
+iG im
+Sra Sl
+2
+ass
+ET Ber
+HID
+L/
+l] ASSSS Sap
+—ia SIT;
+LISSS Selling
+tlt
+TyGn = Sam LIS
+[rir
+Pog
+BT
+Seedy
+[IEPiom
+efi,SNR
+im
+LUPES ESS)
+HAMEL
+Sesh ai
+ats ell
+DS SSS
+[Seka
+Res
+5
+SESESS
+ESS
+Soe
+U0
+wats
+Bae
+£
+SING Uy),
+SES STi LL?
+[>
+&
+S Lome YS Sj
+gS
+Tork
+i
+ont,Os Ss
+Arr
+Ed
+LO
+fieCTE=
+Affordable Housing Sites*
+Si CTEM :|
+=!
+(77)
+1. Silver Maple Gardens |
+Sat]Paina
+any
+Hl]
+2. Silver Maple Gardens II
+SHH Lure tmOS =
+3. West Fort Lee Road
+E77
+Li} in,
+LUT
+mn
+a]
+Se!
+a Ml So
+4 TheGabre
+EEer
+*Group home locations notshown onmap.
+lth ettT IY
+Water Bodies
+\
+nersane 80Sf]
+|
+Vacant Land
+\
+[| Public Land
+4
+Appendix 1: Affordable Housing Sites
+“e*tonmbutors an the cis User commusiy, New Yo sate Matar
+.
+.
+FEET
+Borough of Bogota 2025 Housing Element and Fair Share Plan
+0
+500
+1,000
+PHILLIPS PREISS GRYGIEL LEHENY HUGHES LLC 2025
+[| —$<$<$£<$<_—_—
+SorTti
+
+===== PAGE 38 =====
+BER-L-000405-25
+06/18/2025 2:28:31 PM
+Pg 38of 70
+Trans ID: LCV20251794733
+4
+Z
+i
+EE
+il
+é
+Ba
+i
+H
+:
+i
+:
+:
+:
+z
+i
+i
+§
+i
+i
+i
+H
+i
+2
+|
+e
+3
+5
+i
+
+===== PAGE 39 =====
+DRAFT
+1
+Affordable Housing Trust Fund Spending Plan
+Borough of Bogota
+May 2025
+INTRODUCTION
+The Borough of Bogota, Bergen County has prepared a Housing Element and Fair Share plan 
+that addresses its regional fair share of the affordable housing need in accordance with the 
+Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.) and the Fair Housing Act (N.J.S.A. 
+52:27D-301). A development fee ordinance creating a dedicated revenue source for affordable 
+housing was approved by COAH and the Superior Court and adopted by the municipality. The 
+ordinance establishes the Bogota affordable housing trust fund for which this spending plan is 
+prepared.
+As of December 31, 2024, the Bogota affordable housing trust fund had a balance of $118,949.
+All development fees, payments in lieu of constructing affordable units on site, funds from the 
+sale of units with extinguished controls, and interest generated by the fees are deposited in an
+account with TD Bank for the purposes of affordable housing. These funds shall be spent in 
+accordance with N.J.A.C. 5:97-8.7-8.9 as described in the sections that follow. 
+The Borough reserves the right and authority to further amend or modify the within spending 
+plan to address or take into account changes which may be warranted due to new rules or rule 
+amendments or judicial determinations, which may change standards or establish new criteria for 
+the Borough to address its affordable housing obligation.
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 39 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 40 =====
+DRAFT
+2
+1.  REVENUES FOR CERTIFICATION PERIOD
+To calculate a projection of revenue anticipated during the Fourth Round, Bogota considered the 
+following:
+(a) Development fees:
+1. Residential and nonresidential projects which have had development fees imposed 
+upon them at the time of preliminary or final development approvals;
+2. All projects currently before the planning and zoning boards for development 
+approvals that may apply for building permits and certificates of occupancy; and
+3. Future development that is likely to occur based on historical rates of development.
+Residential development fees collected in the past five years have averaged 
+approximately $8,000 per year, and no nonresidential development fees were 
+collected during that period.
+(b) Payment in lieu (PIL): 
+Actual and committed payments in lieu (PIL) of construction from developers as 
+follows: none.
+(c) Other funding sources:
+Funds from other sources, including, but not limited to, the sale of units with 
+extinguished controls, repayment of affordable housing program loans, rental income 
+and proceeds from the sale of affordable units. No other funds have been or are 
+anticipated to be collected.
+(d) Projected interest: 
+Interest on the projected revenue in the municipal affordable housing trust fund at the 
+current average interest rate.
+It is noted in January 2025 a nonresidential development fee was collected for a single large 
+project, a light industrial/warehouse development on Cross Street. The amount of this fee is 
+included in the “Approved Development” category for 2026. No other large development 
+projects are anticipated in the coming years due to the lack of vacant and developable land in 
+Bogota.
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 40 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 41 =====
+DRAFT
+3
+SOURCE OF FUNDS
+PROJECTED REVENUE SCHEDULE
+JANUARY 1, 2025-JUNE 30, 2035
+2026
+2027
+2028
+2029
+2030
+(a) Development fees:
+1. Approved  
+Development
+$144,000
+$0
+$0
+$0
+$0
+2. Development Pending 
+Approval
+$0
+$0
+$0
+$0
+$0
+3. Projected Development
+$8,500
+$8,500
+$8,500
+$8,500
+$8,500
+(b) Payments in Lieu of 
+Construction
+$0
+$0
+$0
+$0
+$0
+(c) Other Funds (Specify 
+source(s))
+$0
+$0
+$0
+$0
+$0
+(d) Interest
+$2,500
+$2,500
+$2,500
+$2,500
+$2,500
+Total
+$155,000
+$11,000
+$11,000
+$11,000
+$11,000
+2031
+2032
+2033
+2034
+2035
+Total
+(a) Dev. fees:
+1. Appr.
+$0
+$0
+$0
+$0
+$0
+$144,000
+2. Pending
+$0
+$0
+$0
+$0
+$0
+$0
+3. Projected
+$8,500
+$8,500
+$8,500
+$8,500
+$8,500
+$85,000
+(b) In Lieu
+$0
+$0
+$0
+$0
+$0
+$0
+(c) Other
+$0
+$0
+$0
+$0
+$0
+$0
+(d) Interest
+$2,500
+$2,500
+$2,500
+$2,500
+$2,500
+$25,000
+Total
+$11,000
+$11,000
+$11,000
+$11,000
+$11,000
+$254,000
+Bogota projects a total of $254,000 in revenue to be collected between January 1, 2025 and June 
+30, 2035. All interest earned on the account shall accrue to the account to be used only for the 
+purposes of affordable housing.
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 41 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 42 =====
+DRAFT
+4
+2. ADMINISTRATIVE MECHANISM TO COLLECT AND DISTRIBUTE FUNDS
+The following procedural sequence for the collection and distribution of development fee 
+revenues shall be followed by Bogota:
+(a) Collection of development fee revenues:
+Collection of development fee revenues shall be consistent with Bogota’s development 
+fee ordinance for both residential and non-residential developments in accordance with 
+COAH’s rules and P.L.2008, c.46, sections 8 (C. 52:27D-329.2) and 32-38 (C. 40:55D-
+8.1 through 8.7).  
+(b) Distribution of development fee revenues:
+The disbursement of monies in Bogota’s affordable housing trust fund will be 
+coordinated by its Municipal Housing Liaison. In some instances, funds will be provided 
+to other entities, such as an entity responsible for administering a rehabilitation program, 
+for eventual disbursement.
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 42 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 43 =====
+DRAFT
+5
+3. DESCRIPTION OF ANTICIPATED USE OF AFFORDABLE HOUSING FUNDS
+(a) Rehabilitation program (N.J.A.C. 5:97-8.7)
+Bogota will dedicate $186,564 to its rehabilitation program.
+(b) Affordability Assistance (N.J.A.C. 5:97-8.8)
+Projected minimum affordability assistance requirement:
+Actual development fees and other income through 12/31/2024
+$118,949
+Development fees projected 2025-2035
++
+$229,000
+Interest projected 2025-2035
++
+$25,000
+Total
+=
+$372,949
+30 percent requirement
+x 0.30 =
+$111,885
+Less Affordability assistance expenditures through 12/31/2024
+-
+$0
+PROJECTED MINIMUM Affordability Assistance 
+Requirement 1/1/2025 through 6/30/2035
+=
+$111,885
+PROJECTED MINIMUM Very Low-Income Affordability 
+Assistance Requirement 1/1/2025 through 6/30/2035
+÷ 3 =
+$37,295
+Bogota will dedicate $111,885 from the affordable housing trust fund to render units 
+more affordable, including $37,295 to render units more affordable to households earning 
+30 percent or less of median income by region, as follows:
+Bogota will address this requirement through subsidizing the provision of very low-
+income housing and through other means such as down payment assistance, security 
+deposit assistance, low interest loans, rental assistance, assistance with homeowners 
+association or condominium fees and special assessments and assistance with emergency 
+repairs.
+(c) Administrative Expenses (N.J.A.C. 5:97-8.9)
+Bogota projects that $74,500 will be available from the affordable housing trust fund to 
+be used for administrative purposes.  Projected administrative expenditures, subject to the 
+20 percent cap, are as follows:
+Administering a housing rehabilitation program
+Managing the provision of affordability assistance to low-income households
+Provision of professional planning and legal services related to the planning 
+for affordable housing
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 43 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 44 =====
+DRAFT
+6
+4. EXPENDITURE SCHEDULE 
+Bogota intends to use affordable housing trust fund revenues for the creation and/or 
+rehabilitation of housing units.  Where applicable, the creation/rehabilitation funding schedule 
+below parallels the implementation schedule set forth in the Housing Element and Fair Share 
+Plan and is summarized as follows.
+Program
+PROJECTED EXPENDITURE SCHEDULE
+JANUARY 1, 2025-JUNE 30, 2035
+2026
+2027
+2028
+2029
+2030
+Rehabilitation
+$18,656
+$18,656
+$18,656
+$18,656
+$18,656
+Affordability Assistance
+$11,188
+$11,188
+$11,188
+$11,188
+$11,188
+Administration
+$7,450
+$7,450
+$7,450
+$7,450
+$7,450
+Total
+$37,295
+$     37,295 
+$    37,295 
+$37,295
+$37,295
+2031
+2032
+2033
+2034
+2035
+Total
+Rehab.
+$18,656
+$18,656
+$18,656
+$18,656
+$18,656
+$186,564
+Aff. Asst.
+$11,188
+$11,188
+$11,188
+$11,188
+$11,188
+$111,885
+Admin.
+$7,450
+$7,450
+$7,450
+$7,450
+$7,450
+$  74,500 
+Total
+$37,295
+$37,295
+$37,295
+$37,295
+$37,295
+$372,949
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 44 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 45 =====
+DRAFT
+7
+5. EXCESS OR SHORTFALL OF FUNDS
+Pursuant to the Housing Element and Fair Share Plan, the governing body of Bogota will adopt a 
+resolution agreeing to fund any shortfall of funds required for implementing the rehabilitation 
+program, providing affordability assistance and helping with the creation of new affordable 
+housing. In the event that a shortfall of anticipated revenues occurs, Bogota will utilize a capital 
+ordinance to provide the necessary funds.  A copy of the adopted resolution of intent to adopt 
+such an ordinance if necessary is attached.
+In the event of excess funds, any remaining funds above the amount necessary to satisfy the 
+municipal affordable housing obligation will be used to provide affordability assistance and/or 
+aid with the rehabilitation of units.
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 45 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 46 =====
+DRAFT
+8
+SUMMARY
+Bogota intends to spend affordable housing trust fund revenues pursuant to N.J.A.C. 5:97-8.7
+through 8.9 and consistent with the housing programs outlined in its housing element and fair 
+share plan.
+Bogota had a balance of $118,287 as of December 31, 2024 and anticipates an additional 
+$254,000 in revenues from 2025 to 2035. The municipality will dedicate $186,564 towards 
+rehabilitation, $111,885 to render units more affordable, and $74,500 to administrative costs.  
+Any shortfall of funds will be offset by funds appropriated from general revenue. The 
+municipality will dedicate any excess funds toward providing affordability assistance, aiding 
+with the rehabilitation of units and/or encouraging provision of affordable accessory apartments.
+SPENDING PLAN SUMMARY
+Balance as of December 31, 2024
+$118,949
+PROJECTED REVENUE 2025-2035
+Development fees
++
+$229,000
+Payments in lieu of construction
++
+$0
+Other funds
++
+$0
+Interest
++
+$25,000
+TOTAL REVENUE
+=
+$372,949
+EXPENDITURES
+Funds used for Rehabilitation 
+-
+$186,564
+Affordability Assistance 
+-
+$111,885
+Administration 
+-
+$74,500
+TOTAL PROJECTED EXPENDITURES
+=
+$372,949
+REMAINING BALANCE
+=
+$0
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 46 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 47 =====
+DRAFT
+1
+Proposed Affordable Housing Zoning Amendments
+Borough of Bogota
+Note: additions shown in underline, deletions in strikethrough
+Chapter 22A
+AFFORDABLE HOUSING DEVELOPMENT FEES
+§ 22A-1. PURPOSE.
+a)
+In Holmdel Builder's Association v. Holmdel Township, 121 N.J. 550 (1990), the New Jersey 
+Supreme Court determined that mandatory development fees are authorized by the Fair Housing
+Act of 1985, N.J.S.A. 52:27D-301 et seq., and the State Constitution, subject to the then functioning
+COAH developing adoption of rules as amended from time to time and/or in accordance with the 
+enacted legislation and/or in accordance with directives from the courts.
+b) Pursuant to P.L. 2008, c. 46, § 8 (N.J.S.A. 52:27D-329.2) and the Statewide Non-Residential 
+Development Fee Act (N.J.S.A. 40:55D-8.1 through 40:55D-8.7), COAH was authorized to adopt 
+and promulgate regulations necessary for the establishment, implementation, review, monitoring and 
+enforcement of municipal affordable housing trust funds and corresponding spending plans. 
+Municipalities that were under the jurisdiction of the Council or court of competent jurisdiction and 
+had a COAH-approved spending plan were able to retain fees collected from nonresidential 
+development.
+c)
+In Re: Adoption of N.J.A.C. 5:96 and 5:97 by the New Jersey Council on Affordable Housing, 221 
+N.J. 1 (2015), also known as the Mount Laurel IV decision, the Supreme Court remanded COAH’s 
+duties to the Superior Court. As a result, affordable housing development fee collections and 
+expenditures from the municipal affordable housing trust funds to implement municipal Third Round 
+Fair Share Plans through July 1, 2025 were under the Court’s jurisdiction and were subject to 
+approval by the Court.
+d) Pursuant to P.L.2024, c. 2, the authority relating to rulemaking on the collection of residential and 
+non-residential development fees is appropriately delegated to the Department of Community Affairs, 
+following the abolition of COAH. As such, municipalities which have obtained or are in the process 
+of seeking compliance certification may retain and expend these development fees. The regulations 
+set forth in P.L.2024, c. 2 amend those regulations originally established in accordance with P.L. 
+2008, c. 46, §§ 8 and 32 through 38, and supersede COAH's regulations where in conflict, which 
+remain otherwise valid.
+The purpose of this chapter is to establish standards for the collection, maintenance and expenditure of 
+development fees pursuant to the above. Fees collected pursuant to this chapter shall be used for the sole 
+purpose of providing low- and moderate-income housing.
+§ 22A-2. DEFINITIONS.
+The following terms, as used in this chapter, shall have the following meanings:
+AFFORDABLE HOUSING DEVELOPMENT — A development included in the Housing Element and 
+Fair Share Plan, and includes, but is not limited to, an inclusionary development, a municipal construction 
+project or a 100% affordable development.
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 47 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 48 =====
+DRAFT
+2
+BOROUGH — The Borough of Bogota.
+COAH OR THE COUNCIL— The New Jersey Council on Affordable Housing, as previously established 
+by the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.), prior to its abolition through 
+P.L.2024, c.2., or any entity administering or operating on its behalf, including, but not limited to, the 
+superior courts of the State of New Jersey.
+DEVELOPER — The legal or beneficial owner or owners of a lot or of any land proposed to be included in 
+a proposed development, including the holder of an option or contract to purchase, or other person having 
+an enforceable proprietary interest in such land.
+DEVELOPMENT FEE — Funds paid by an individual, person, partnership, association, company or 
+corporation for the improvement of property as permitted in DCA’s rules and in N.J.A.C. 5:93-8, as 
+amended and applicableCOAH's rules.
+DISPUTE RESOLUTION PROGRAM - “Dispute Resolution Program” means the Affordable Housing 
+Dispute Resolution Program, established pursuant to section 5 of P.L. 2024, c.2 (N.J.S.A. 52:27D-313.2). 
+The Dispute Resolution Program is established within the Judiciary of the State, for the purpose of 
+resolving disputes associated with the Fair Housing Act with respect to municipalities seeking to obtain a 
+certification of compliance of their adopted Housing Element & Fair Share Plan.
+EQUALIZED ASSESSED VALUE — The value of a property determined by the Municipal Tax Assessor
+through a process designed to ensure that all property in the municipality is assessed at the same assessment 
+ratio or ratios required by law. Estimates at the time of issuance of a building permit may be obtained 
+utilizing estimates for construction cost. Final equalized assessed value will be determined at project 
+completion by the Municipal Tax Assessor.
+GREEN BUILDING STRATEGIES — Those strategies that minimize the impact of development on
+the environment and enhance the health, safety and well-being of residents by producing durable, low-
+maintenance, resource-efficient housing while making optimum use of existing infrastructure and 
+community services.
+§ 22A-3. RESIDENTIAL DEVELOPMENT FEES.
+a.
+Within all zoning districts, residential developers shall pay a fee of 1.5% of the equalized assessed 
+value for residential development, provided no increased density is permitted.
+b.
+When an increase in residential density pursuant to N.J.S.A. 40:55D-70d(5) has been permitted, 
+developers shall pay a development fee of 6% of the equalized assessed value for each additional unit 
+that may be realized. However, if the zoning on a site has changed during the two-year period 
+preceding the filing of such a variance application, the base density for the purposes of calculating 
+the bonus development fee shall be the highest density permitted by right during the two-year period 
+preceding the filing of the variance application.
+§ 22A-4. NONRESIDENTIAL DEVELOPMENT FEES.
+a.
+Within all zoning districts, nonresidential developers, except for developers of the types of 
+development specifically exempted, shall pay a fee of 2.5% of the equalized assessed value of the 
+land and improvements for all new nonresidential construction on an unimproved lot or lots.
+b.
+Nonresidential developers, except for developers of the types of development specifically exempted, 
+shall also pay a fee equal to 2.5% of the increase in equalized assessed value resulting from any 
+additions to existing structures to be used for nonresidential purposes.
+c.
+Development fees shall be imposed and collected when an existing structure is demolished and 
+replaced. The development fee of 2.5% shall be calculated on the difference between the equalized 
+assessed value of the preexisting land and improvement and the equalized assessed value of the newly 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 48 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 49 =====
+DRAFT
+3
+improved structure, i.e., land and improvement, at the time the final certificate of occupancy is issued. 
+If the calculation required under this subsection results in a negative number, the nonresidential 
+development fee shall be zero.
+§ 22A-5. ELIGIBLE EXACTIONS, INELIGIBLE EXACTIONS AND EXEMPTIONS.
+a.
+Affordable housing developments and developments where the developer has paid a payment in lieu 
+of on-site construction shall be exempt from development fees. All other forms of new construction 
+shall be subject to development fees, unless exempted below.
+b.
+The two and one-half (2.5%) percent fee shall not apply to developers of any not-for-profit use; 
+federal, state and municipal government uses; churches and other places of worship; and public 
+schools.
+c.
+Developments that have received preliminary or final approval prior to the imposition of a municipal 
+development fee ordinance shall be exempt from development fees unless the developer seeks a 
+substantial change in the approval. Where a site plan approval does not apply, a zoning and/or 
+building permit shall be synonymous with preliminary or final site plan approval for this purpose. 
+The fee percentage shall be vested on the date that the building permit is issued.
+d.
+Owner-occupied residential structures demolished and replaced as a result of a fire, flood, or natural
+disaster shall be exempt from paying a development fee.
+e.
+The development fee shall not apply to the expansion of a single- or two-family home where the net 
+increase in interior floor area is less than 15% of the existing structure. In no event shall the 
+development fee be collected where the total increase in floor area is 500 square feet or less. Upon 
+the request of the Zoning Officer, the property owner shall produce, within 30 days, a set of certified 
+plans, signed by a licensed architect, confirming the amount of previously existing and as-built 
+conditions.
+§ 22A-6. COLLECTION OF FEES.
+50% of the development fee will be collected at the time of issuance of the building permit. The remaining 
+portion will be collected at the issuance of the certificate of occupancy. The developer shall be responsible 
+for paying the difference between the fee calculated at building permit and that determined at issuance of 
+certificate of occupancy. After issuance of a building permit, the Construction Official shall refer the plans 
+for the development to the Tax Assessor. The Tax Assessor shall certify to the Construction Official the 
+final equalized assessed value in advance of the issuance of a certificate of occupancy by the Construction 
+Official. The remaining portion of the development fee shall be adjusted to reflect any change in the 
+estimated equalized assessed value so that the total of the two payments shall equal 100% of the total 
+development fee based upon the final equalized assessed value.
+§ 22A-7. CONTESTED FEES.
+a.
+A developer may challenge residential development fees imposed by filing a challenge with the 
+County Board of Taxation. Pending a review and determination by the Board, collected fees shall be 
+placed in an interest-bearing escrow account by the Borough of Bogota. Appeals from a 
+determination of the Board may be made to the Tax Court in accordance with the provisions of the 
+State Tax Uniform Procedure Law, N.J.S.A. 54:48-1 et seq., within 90 days after the date of such 
+determination. Interest earned on amounts escrowed shall be credited to the prevailing party.
+b.
+A developer may challenge nonresidential development fees imposed by filing a challenge with the 
+Director of the Division of Taxation. Pending a review and determination by the Director, which shall 
+be made within 45 days of receipt of the challenge, collected fees shall be placed in an interest-
+bearing escrow account by the Borough of Bogota. Appeals from a determination of the Director may 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 49 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 50 =====
+DRAFT
+4
+be made to the Tax Court in accordance with the provisions of the State Tax Uniform Procedure Law,
+N.J.S.A. 54:48-1 et seq., within 90 days after the date of such determination. Interest earned on 
+amounts escrowed shall be credited to the prevailing party.
+§ 22A-8. AFFORDABLE HOUSING TRUST FUND.
+a.
+There is hereby created a separate, interest-bearing housing trust fund, in a bank utilized by the 
+Borough for its ordinary business purposes, and maintained by the Chief Financial Officer of the 
+Borough, for the purpose of depositing development fees collected from residential and 
+nonresidential developers, any other payments made pursuant to this chapter from residential and 
+nonresidential developers, and proceeds from the sale of units with extinguished controls. All 
+development fees paid by developers pursuant to this chapter shall be deposited into this fund.
+b.
+The following additional funds shall be deposited in the Affordable Housing Trust Fund and shall at 
+all times be identifiable by source and amount:
+1.
+Payments in lieu of on-site construction of affordable units;
+2.
+Developer-contributed funds to make 10% of the adaptable entrances in a townhouse or other 
+multistory attached development accessible;
+3.
+Rental income from municipally operated units;
+4.
+Repayments from affordable housing program loans;
+5.
+Recapture funds;
+6.
+Proceeds from the sale of affordable units; and
+7.
+Any other funds collected in connection with the Borough of Bogota's affordable housing 
+program.
+§ 22A-9. USE OF FUNDS.
+a.
+Funds deposited in the housing trust fund may be used for any eligible activity as set forth in the 
+amended Fair Housing Act. (N.J.S.A. 52:27D-301 et seq.),
+in COAH's regulations orand in 
+accordance with any directives from the courts Dispute Resolution Program to address the municipal 
+fair share. Such activities include, but are not limited to: rehabilitation, new construction, ECHO 
+housing, purchase of land for affordable housing, improvement of land to be used for affordable 
+housing, purchase of housing, extensions or improvements of roads and infrastructure to affordable
+housing sites, financial assistance designed to increase affordability, or administration necessary for 
+implementation of the Housing Element and Fair Share Plan. The expenditure of all funds shall 
+conform to a spending plan approved by the courts.
+b.
+Funds shall not be expended to reimburse the Borough for past housing activities.
+c.
+At least 30% of all development fees collected and interest earned shall be used to provide 
+affordability assistance to low- and moderate-income households in affordable units included in the 
+Municipal Fair Share Plan. One-third of the affordability assistance portion of development fees 
+collected shall be used to provide affordability assistance to those households earning 30% or less of 
+median income by region.
+1.
+Affordability assistance programs may include downpayment assistance, security deposit 
+assistance, low-interest loans, and rental assistance.
+2.
+Affordability assistance to households earning 30% or less of median income may include 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 50 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 51 =====
+DRAFT
+5
+buying down the cost of low- or moderate-income units in the third-round Municipal Fair Share 
+Plan to make them affordable to households earning 30% or less of median income.
+3.
+Payments in lieu of constructing affordable units on site and funds from the sale of units with 
+extinguished controls shall be exempt from the affordability assistance requirement.
+d.
+The Borough may contract with a private or public entity to administer any part of its Housing 
+Element and Fair Share Plan, including the requirement for affordability assistance, in accordance 
+with N.J.S.A. 52:27D-301 et seq. and N.J.A.C. 5:94-7, as amended and applicable.
+e.
+No more than 20% of the revenues collected from development fees each year shall be expended on 
+administration, including, but not limited to, salaries and benefits for municipal employees or 
+consultant fees necessary to develop or implement a new construction program, a Housing Element 
+and Fair Share Plan, and/or an affirmative marketing program. In the case of a rehabilitation program, 
+no more than 20% of the revenues collected from development fees shall be expended for such 
+administrative expenses. Administrative funds may be used for income qualification of households,
+monitoring the turnover of sale and rental units, and compliance with the court's monitoring 
+requirements. Development fee administrative costs are calculated and may be expended at the 
+end of each year or upon receipt of the fees. Legal or other fees related to litigation opposing 
+affordable housing sites or objecting to COAH's the amended Fair Housing Act or DCA’s 
+regulations or court action are not eligible uses of the Affordable Housing Trust Fund.
+§ 22A-10. MONITORING.
+Bogota shall comply with the reporting requirements set forth in N.J.S.A. 52:27D-329.2. The Borough shall 
+complete and return to the Fair Share Housing Center (FSHC) all monitoring forms included in the annual
+monitoring report related to the collection of development fees from residential and nonresidential developers, 
+payments in lieu of constructing affordable units on site, and funds from the sale of units with extinguished 
+controls, and the expenditure of revenues and implementation of the plan approved by the court. All 
+monitoring reports shall be completed on forms designed by COAH or similar to COAH's monitoring forms 
+and approved by FSHC.
+§ 22A-11. ONGOING COLLECTION OF FEES.
+The ability for the Borough to impose, collect and expend development fees shall expire with its judgment 
+certification of compliance on the date of expiration of the judgment certification of compliance unless 
+the Borough has filed an adopted Housing Element and Fair Share Plan with the court, has petitioned for a
+judgment certification of compliance, and has received the court's approval of its Development Fee 
+Ordinance. If the Borough fails to renew its ability to impose and collect development fees prior to the date
+of expiration of its judgment certification of compliance, it may resume the imposition and collection of
+development fees only by complying with the requirements of N.J.A.C. 5:97-8, as amended and 
+applicable. The Borough shall not impose a development fee on a development that receives preliminary 
+or final approval after the expiration of its judgment certification of compliance, nor will the Borough 
+retroactively impose a development fee on such a development. The Borough will not expend development 
+fees after the expiration of its judgment certification of compliance.
+Chapter 22B AFFORDABLE HOUSING
+§ 22B-1. COMPLIANCE WITH COAH REQUIREMENTS FOR AFFORDABLE HOUSING
+§ 22B-1.1. Purpose.
+The purpose of this section is to provide for and regulate affordable housing in the Borough of Bogota to 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 51 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 52 =====
+DRAFT
+6
+address the Borough’s constitutional obligation to provide for its fair share of low- and moderate-income 
+housing as directed by the Administrative Director of the Courts and as stipulated by P.L.2024, c. 2 and 
+N.J.S.A. 52:27D-301 et seq. (the amended Fair Housing Act).. These regulations supersede N.J.A.C.
+5:93-1 et seq., as amended and supplemented, and N.J.A.C 5:94-1 et seq, as amended and supplemented,
+where applicable, which otherwise remain valid.
+P.L. 2024, c.2 established the Affordable Housing 
+Dispute Resolution Program (“Dispute Resolution Program”), which provides a new process for 
+municipalities to come into constitutional compliance with their affordable housing obligations. This 
+chapter is intended to assure compliance with the foregoing provisions and with the regulations of the 
+Uniform Housing Affordability Controls, N.J.A.C. 5:80-26.1 et seq., as amended and supplemented, 
+including provisions for unit affordability controls as well as eligibility for low- and moderate-income 
+households. This chapter shall apply except where inconsistent with applicable law.
+§ 22B-1.2. Definitions.
+The following terms, when used in this section, shall have the meanings given in this subsection: 
+ACT — The Fair Housing Act of 1985, P.L. 1985, c. 222 (N.J.S.A. 52:27D-301 et seq.), .), as amended 
+through P.L. 2024, c.2..
+ADAPTABLE — Constructed in compliance with the technical design standards of the Barrier Free 
+Subcode, N.J.A.C. 5:23-7.
+ADMINISTRATIVE AGENT — The entity responsible for the administration of affordable units in
+accordance with this section, N.J.A.C. 5:93, as amended and applicable, and UHAC (N.J.A.C. 5:80-26), as 
+amended and supplemented.
+AFFIRMATIVE MARKETING — A regional marketing strategy designed to attract buyers and/or renters 
+of affordable units pursuant to N.J.A.C. 5:80-26.156.
+AFFORDABILITY AVERAGE — The average percentage of median income at which restricted units in 
+an affordable housing development are affordable to low- and moderate-income households.
+AFFORDABLE — A sales price or rent level that is within the means of a low- or moderate-income 
+household as defined within N.J.A.C. 5:93-7.4, as amended and applicable,
+and, in the case of an
+ownership unit, that the sales price for the unit conforms to the standards set forth in N.J.A.C. 5:80-26.76,
+as may be amended and supplemented, and, in the case of a rental unit, that the rent for the unit conforms 
+to the standards set forth in N.J.A.C. 5:80-26.132, as may be amended and supplemented.
+AFFORDABLE HOUSING DEVELOPMENT — A development included in or approved pursuant to the 
+Housing Element and Fair Share Plan or otherwise intended to address the Borough's fair share obligation, 
+and includes, but is not limited to, an inclusionary development, a municipal construction project or a 100% 
+affordable development.
+AFFORDABLE HOUSING PROGRAM(S) — Any mechanism in a Municipal Fair Share Plan prepared 
+or implemented to address a municipality's fair share obligation.
+AFFORDABLE UNIT — A housing unit proposed or created pursuant to the Act and approved for 
+crediting by the court and/or funded through an affordable housing trust fund.
+AGE-RESTRICTED UNIT — A housing unit designed to meet the needs of, and exclusively for, the 
+residents of an age-restricted segment of the population such that:
+a.
+All the residents of the development wherein the unit is situated are 62 years of age or older; or
+b.
+At least 80% of the units are occupied by one person who is 55 years of age or older; or
+c.
+The development has been designated by the Secretary of the U.S. Department of Housing and 
+Urban Development as "housing for older persons" as defined in Section 807(b)(2) of the Fair 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 52 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 53 =====
+DRAFT
+7
+Housing Act, 42 U.S.C. § 3607.
+AGENCY — The New Jersey Housing and Mortgage Finance Agency established by P.L. 1983, c. 530 
+(N.J.S.A. 55:14K-1 et seq.).
+ALTERNATIVE LIVING ARRANGEMENTS — A structure in which households live in distinct 
+bedrooms, yet share kitchen and plumbing facilities, central heat and common areas. Alternative living 
+arrangements include, but are not limited to: transitional facilities for the homeless; Class A, B, C, D
+and E boarding homes as regulated by the State of New Jersey Department of Community Affairs; 
+residential health care facilities as regulated by the New Jersey Department of Health; group homes for the 
+developmentally disabled and mentally ill as licensed and/or regulated by the New Jersey Department of 
+Human Services; and congregate living arrangements.
+ASSISTED LIVING RESIDENCE — A facility that is licensed by the New Jersey Department of Health 
+and Senior Services to provide apartment-style housing and congregate dining and to assure that assisted 
+living services are available when needed for four or more adult persons unrelated to the proprietor and 
+that offers units containing, at a minimum, one unfurnished room, a private bathroom, a kitchenette and a 
+lockable door on the unit entrance.
+CERTIFIED HOUSEHOLD — A household that has been certified by an administrative agent as a low-
+income household or moderate-income household.
+COAH OR THE COUNCIL — The Council on Affordable Housing, as previously established by the
+New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.) or the Superior Court of the State of New
+Jersey pursuant to the New Jersey Supreme Court case known as "Mount Laurel IV.", prior to its abolition 
+through P.L.2024, c.2.
+DCA — The State of New Jersey Department of Community Affairs.
+DEFICIENT HOUSING UNIT — A housing unit with health and safety code violations that requires the 
+repair or replacement of a major system. A "major system" includes weatherization, roofing, plumbing 
+(including wells), heating, electricity, sanitary plumbing (including septic systems), lead paint abatement 
+and/or load-bearing structural systems.
+DEVELOPER — Any person, partnership, association, company or corporation that is the legal or 
+beneficial owner or owners of a lot or any land included in a proposed development, including the holder 
+of an option to contract to purchase, or other person having an enforceable proprietary interest in such land.
+DEVELOPMENT — The division of a parcel of land into two or more parcels, the construction, 
+reconstruction, conversion, structural alteration, relocation, or enlargement of any use or change in the use 
+of any building or other structure, or of any mining, excavation or landfill, and any use or change in the 
+use of any building or other structure, or land or extension of use of land, for which permission may be 
+required pursuant to N.J.S.A. 40:55D-1 et seq.
+DISPUTE RESOLUTION PROGRAM - The Affordable Housing Dispute Resolution Program, 
+established pursuant to section 5 of P.L. 2024, c.2 (N.J.S.A. 52:27D-313.2). The Dispute Resolution 
+Program is established within the Judiciary of the State, for the purpose of resolving disputes associated 
+with the Fair Housing Act with respect to municipalities seeking to obtain a certification of compliance of 
+their adopted Housing Element & Fair Share Plan.
+INCLUSIONARY DEVELOPMENT — A development containing both affordable units and market-
+rate units. This term includes, but is not limited to: new construction, the conversion of a nonresidential 
+structure to residential use, and the creation of new affordable units through the gut rehabilitation or 
+reconstruction of a vacant residential structure.
+LOW-INCOME HOUSEHOLD — A household with a total gross annual household income equal to 50% 
+or less of the median household income.
+LOW-INCOME UNIT — A restricted unit that is affordable to a low-income household.
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 53 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 54 =====
+DRAFT
+8
+MAJOR SYSTEM — The primary structural, mechanical, plumbing, electrical, fire protection, or occupant 
+service components of a building, which include, but are not limited to, weatherization, roofing, plumbing 
+(including wells), heating, electricity, sanitary plumbing (including septic systems), lead paint abatement 
+or load-bearing structural systems.
+MARKET-RATE UNITS — Housing not restricted to low- and moderate-income households that may sell 
+or rent at any price.
+MEDIAN INCOME — The median income by household size for the applicable housing region, as 
+adopted annually by the Affordable Housing Professionals of New JerseyCOAH or an successor entity 
+approved by the court.
+MODERATE-INCOME HOUSEHOLD — A household with a total gross annual household income in 
+excess of 50% but less than 80% of the median household income.
+MODERATE-INCOME UNIT — A restricted unit that is affordable to a moderate-income household. 
+MULTIFAMILY UNIT — A structure containing five or more dwelling units.
+NONEXEMPT SALE — Any sale or transfer of ownership other than the transfer of ownership between 
+husband and wife; the transfer of ownership between former spouses ordered as a result of a judicial decree 
+of divorce or judicial separation, but not including sales to third parties; the transfer of ownership between 
+family members as a result of inheritance; the transfer of ownership through an executor's deed to a Class 
+A beneficiary; and the transfer of ownership by court order.
+RANDOM SELECTION PROCESS — A process by which currently income-eligible households are 
+selected for placement in affordable housing units such that no preference is given to one applicant over 
+another except for purposes of matching household income and size with an appropriately priced and sized
+affordable unit (e.g., by lottery).
+REGIONAL ASSET LIMIT — The maximum housing value in each housing region affordable to a four-
+person household with an income at 80% of the regional median as defined by duly adopted regional 
+income limits published annually by the Affordable Housing Professionals of New Jersey or an entity 
+approved by the court.
+REHABILITATION — The repair, renovation, alteration or reconstruction of any building or structure, 
+pursuant to the Rehabilitation Subcode, N.J.A.C. 5:23-6.
+RENT — The gross monthly cost of a rental unit to the tenant, including the rent paid to the landlord, as 
+well as an allowance for tenant-paid utilities computed in accordance with allowances published by DCA 
+for its Section 8 program. In assisted living residences, rent does not include charges for food and services.
+RESTRICTED UNIT — A dwelling unit, whether a rental unit or ownership unit, that is subject to the 
+affordability controls of N.J.A.C. 5:80-26.1, as amended and supplemented, but does not include a market-
+rate unit financed under UHORP or MONI.
+UHAC — The Uniform Housing Affordability Controls set forth in N.J.A.C. 5:80-26.1 et seq., as amended 
+and supplemented.
+VERY-LOW-INCOME HOUSEHOLD — A household with a total gross annual household income equal 
+to 30% or less of the median household income for the applicable housing region.
+VERY-LOW-INCOME UNIT — A restricted unit that is affordable to a very-low-income household.
+WEATHERIZATION — Building insulation (for attic, exterior walls and crawl space), siding to improve 
+energy efficiency, replacement storm windows, replacement storm doors, replacement windows and 
+replacement doors, and is considered a major system for rehabilitation.
+§ 22B-1.3. Applicability.
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 54 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 55 =====
+DRAFT
+9
+The provisions of this section shall apply to all affordable housing developments and affordable housing 
+units that currently exist and that are proposed to be created within the Borough of Bogota pursuant to the 
+Borough's most recently adopted Housing Element and Fair Share Plan.
+§ 22B-1.4. Affordable Housing Programs.
+The Borough of Bogota has determined that it will use the following mechanisms to satisfy its affordable 
+housing obligations:
+a.
+Rehabilitation program.
+1.
+The County of Bergen CDBG rehabilitation program shall be designed to renovate deficient 
+housing units occupied by low- and moderate-income households such that, after rehabilitation, 
+these units will comply with the New Jersey State Housing Code pursuant to N.J.A.C. 5:28.
+2.
+Both owner-occupied and renter-occupied units shall be eligible for rehabilitation funds.
+3.
+All rehabilitated units shall remain affordable to low- and moderate-income households for a 
+period of 10 years (the control period). For owner-occupied units the control period will be 
+enforced with a lien and for renter occupied units the control period will be enforced with a deed 
+restriction.
+4.
+The Borough of Bogota shall designate, subject to the approval of the Court, one or more 
+administrative agents to administer the rehabilitation program in accordance with N.J.A.C. 5:93,
+as amended and applicable. The administrative agent(s) shall provide a rehabilitation manual 
+for the owner occupancy rehabilitation program and a rehabilitation manual for the rental-
+occupancy rehabilitation program to be adopted by resolution of the governing body and 
+subject to approval of the Court. Both rehabilitation manuals shall be available for public 
+inspection in the Office of the Municipal Clerk and in the office(s) of the administrative 
+agent(s).
+5.
+Units in a rehabilitation program shall be exempt from the Uniform Housing Affordability 
+Controls (UHAC), but shall be administered in accordance with the following:
+(a)
+If a unit is vacant, upon initial rental subsequent to rehabilitation, or if a renter-occupied 
+unit is re-rented prior to the end of controls on affordability, the deed restriction shall 
+require the unit to be rented to a low- or moderate-income household at an affordable rent 
+and affirmatively marketed pursuant to the Court and UHAC.
+(b)
+If a unit is renter-occupied, upon completion of the rehabilitation, the maximum rate of 
+rent shall be the lesser of the current rent or the maximum permitted rent pursuant to the 
+Court and UHAC.
+(c)
+Rents in rehabilitated units may increase annually based on the standards established by 
+the Court.
+(d)
+Applicant and/or tenant households shall be certified as income-eligible in accordance 
+with the Court and UHAC, except that households in owner occupied units shall be exempt 
+from the regional asset limit.
+§ 22B-1.5. Inclusionary Zoning.
+a.
+Presumptive densities and set-asides. To ensure the efficient use of land through compact forms of 
+development and to create realistic opportunities for the construction of affordable housing, 
+inclusionary zoning permits minimum presumptive densities and presumptive maximum affordable 
+housing set-asides as follows:
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 55 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 56 =====
+DRAFT
+10
+1.
+For-sale developments.
+(a)
+Inclusionary zoning in Planning Area 1 permits residential development at a presumptive 
+minimum gross density of eight units per acre and a presumptive maximum affordable 
+housing set-aside of 20% of the total number of units in the development. The zoning of 
+the Affordable Housing Overlay Zone provides for a 20% set-aside for restricted units and 
+a density of 20 units per acre.
+(b)
+Zones included:
+B3 Business Office Zone located on the corner of River Road and West Main Street: 
+Block 64.01, Lots 6.01, 6.02, 7.01
+300-316 River Road
+3 units/20 du/ac
+B1 Business Retail Zone located on the corner of West Fort Lee Road and Elm Avenue: 
+Block 66, Lot 12
+57 West Fort Lee Road 
+3 units/20 du/ac
+2.
+Rental developments.
+(a)
+Inclusionary zoning permits a presumptive minimum density of 12 units per acre and a 
+presumptive maximum affordable housing set-aside of 20% of the total number of units in 
+the development, and the zoning provides for at least 13% of the affordable units to be 
+affordable to households earning 30% or less of the area median income for the COAH 
+rRegion 1. The zoning of the Affordable Housing Overlay Zone provides for a 20% set-
+aside for restricted units and a density of 20 units per acre.
+(b)
+Zones included:
+Block 64.01, Lots 6.01, 6.02, 7.01
+300-316 River Road
+3 units/20 du/ac
+Block 66, Lot 12
+57 West Fort Lee Road 
+3 units/20 du/ac
+3.
+Rezonings and Variances.
+Notwithstanding the provisions of subsection 22B-1.5a1(b), or any other section in this Chapter, 
+any residential development consisting of five or more dwelling units, at a density above six 
+units per acre, that is permitted pursuant to a variance or rezoning shall produce low- and 
+moderate-income housing on-site or elsewhere in the Borough or pay a fee in lieu of providing 
+affordable units. The number of affordable units to be provided or in lieu payment shall be 
+equal to 20% of the residential units in the development, or 15% for affordable rental units. The 
+amount of the payment in lieu of providing housing shall be as determined by the appropriate 
+rules of the New Jersey Council on Affordable Housing and any other relevant state regulations.
+§ 22B-1.6. Alternative Living Arrangements.
+a.
+The administration of an alternative living arrangement shall be in compliance with N.J.A.C. 5:93-
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 56 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 57 =====
+DRAFT
+11
+5.8, as amended and applicable, and UHAC, with the following exceptions:
+1.
+Affirmative marketing (N.J.A.C. 5:80-26.165); provided, however, that the units or bedrooms 
+may be affirmatively marketed by the provider in accordance with an alternative plan approved 
+by the court.
+2.
+Affordability average and bedroom distribution (N.J.A.C. 5:80-26.43).
+b.
+With the exception of units established with capital funding through a twenty-year operating contract 
+with the Department of Human Services, Division of Developmental Disabilities, alternative living 
+arrangements shall have at least thirty-year controls on affordability in accordance with UHAC, 
+unless an alternative commitment is approved by the court.
+1.
+The service provider for the alternative living arrangement shall act as the administrative agent 
+for the purposes of administering the affirmative marketing and affordability requirements for 
+the alternative living arrangement.
+§ 22B-1.7. Phasing Schedule for Inclusionary Zoning.
+a.
+In inclusionary developments, the following project phasing schedule shall be followedadhere to the 
+requirements set forth in UHAC, N.J.A.C. 5:80-26.1 et seq, as amended and supplemented.:
+Maximum Percentage of Market-Rate Units 
+Completed
+Minimum Percentage of Low- and Moderate-
+Income Units Completed
+25%
+0%
+25% + 1
+10%
+50%
+50%
+75%
+75%
+90%
+100%
+§ 22B-1.8. New Construction.
+The required income and bedroom distributions of affordable housing units, as well as additional 
+applicable standards, shall be as set forth in UHAC, N.J.A.C. 5:80-26.1 et seq, as amended and 
+supplemented.
+a.
+Low/moderate split and bedroom distribution of affordable housing units:
+1.
+The fair share obligation shall be divided equally between low- and moderate-income units; 
+except that where there is an odd number of affordable housing units, the extra unit shall be a 
+low-income unit. At least 13% of all restricted rental units shall be very-low-income units 
+(affordable to a household earning 30% or less of median income). The very-low-income units 
+shall be counted as part of the required number of low-income units within the development.
+2.
+At least 25% of the obligation shall be met through rental units, including at least half in rental 
+units available to families.
+3.
+A maximum of 2530% of the Borough's obligation may be met with age-restricted units. At 
+least half of all affordable units in the Borough's plan shall be available to families.
+4.
+In each affordable development, at least 50% of the restricted units within each bedroom 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 57 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 58 =====
+DRAFT
+12
+distribution shall be low-income units.
+5.
+Affordable developments that are not age-restricted shall be structured in conjunction with 
+realistic market demands such that:
+(a)
+The combined number of efficiency and one-bedroom units shall be no greater than 20% 
+of the total low- and moderate-income units;
+(b)
+At least 30% of all low- and moderate-income units shall be two-bedroom units;
+(c)
+At least 20% of all low- and moderate-income units shall be three-bedroom units; and
+(d)
+The remaining units may be allocated among two- and three-bedroom units at the
+discretion of the developer.
+6.
+Affordable developments that are age-restricted shall be structured such that the number of 
+bedrooms shall equal the number of age-restricted low- and moderate-income units within the 
+inclusionary development. This standard may be met by having all one-bedroom units or by 
+having a two-bedroom unit for each efficiency unit.
+b.
+Accessibility requirements:
+1.
+The first floor of all restricted townhouse dwelling units and all restricted units in all other
+multistory buildings shall be subject to the technical design standards of the Barrier Free 
+Subcode, N.J.A.C. 5:23-7, and the following:
+2.
+All restricted townhouse dwelling units and all restricted units in other multistory buildings in 
+which a restricted dwelling unit is attached to at least one other dwelling unit shall have the 
+following features:
+(a)
+An adaptable toilet and bathing facility on the first floor; and
+(b)
+An adaptable kitchen on the first floor; and
+(c)
+An interior accessible route of travel on the first floor; and
+(d)
+An adaptable room that can be used as a bedroom, with a door or the casing for the 
+installation of a door, on the first floor; and
+(e)
+If not all of the foregoing requirements in Subsection b2(a) through (d) can be satisfied, 
+then an interior accessible route of travel must be provided between stories within an 
+individual unit; but if all of the terms of Subsection b2(a) through (d) above have been 
+satisfied, then an interior accessible route of travel shall not be required between stories 
+within an individual unit; and
+(f)
+An accessible entranceway as set forth at P.L. 2005, c. 350 (N.J.S.A. 52:27D-311a et seq.) 
+and the Barrier Free Subcode, N.J.A.C. 5:23-7, or evidence that Bogota has collected funds 
+from the developer sufficient to make 10% of the adaptable entrances in the development 
+accessible:
+(1)
+Where a unit has been constructed with an adaptable entrance, upon the request of a 
+person with disabilities who is purchasing or will reside in the dwelling unit, an 
+accessible entrance shall be installed.
+(2)
+To this end, the builder of restricted units shall deposit funds within the Borough of 
+Bogota's Affordable Housing Trust Fund sufficient to install accessible entrances in 
+10% of the affordable units that have been constructed with adaptable entrances.
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 58 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 59 =====
+DRAFT
+13
+(3)
+The funds deposited under Subsection b2(f)(2) above shall be used by the Borough 
+of Bogota for the sole purpose of making the adaptable entrance of an affordable unit 
+accessible when requested to do so by a person with a disability who occupies or 
+intends to occupy the unit and requires an accessible entrance.
+(4)
+The developer of the restricted units shall submit a design plan and cost estimate to 
+the Construction Official of the Borough of Bogota for the conversion of adaptable 
+to accessible entrances.
+(5)
+Once the Construction Official has determined that the design plan to convert the unit 
+entrances from adaptable to accessible meets the requirements of the Barrier Free 
+Subcode, N.J.A.C. 5:23-7, and that the cost estimate of such conversion is 
+reasonable, payment shall be made to the Borough's Affordable Housing Trust Fund 
+in care of the Borough Chief Financial Officer, who shall ensure that the funds are 
+deposited into the Affordable Housing Trust Fund and appropriately earmarked.
+(6)
+Full compliance with the foregoing provisions shall not be required where an entity 
+can demonstrate that it is "site impracticable" to meet the requirements. 
+Determinations  of site impracticability shall be in compliance with the Barrier Free 
+Subcode, N.J.A.C. 5:23-7.
+c.
+Design:
+1.
+In inclusionary developments, to the extent possible, low- and moderate-income units shall be 
+integrated with the market units.
+2.
+In inclusionary developments, low- and moderate-income units shall have access to all of the 
+same common elements and facilities as the market units.
+d.
+Maximum rents and sales prices:
+1.
+In establishing rents and sales prices of affordable housing units, the administrative agent shall 
+follow the procedures set forth in UHAC, utilizing the most recently published regional 
+weighted average of the uncapped Section 8 income limits published by HUD and by the 
+Superior Court regional income limits established by COAH or a successor entity.
+2.
+The maximum rent for restricted rental units within each affordable development shall be 
+affordable to households earning no more than 60% of median income, and the average rent for 
+restricted rental units shall be affordable to households earning no more than 52% of median 
+income.
+3.
+The developers and/or municipal sponsors of restricted rental units shall establish at least one 
+rent for each bedroom type for both low-income and moderate-income units, provided that at 
+least 13% of all low- and moderate-income rental units shall be affordable to very-low-income 
+households, earning 30% or less of the regional median household income, with such very-low-
+income units counted toward the very-low-income requirement.
+4.
+The maximum sales price of restricted ownership units within each affordable development 
+shall be affordable to households earning no more than 70% of median income, and each 
+affordable development must achieve an affordability average of 55% for restricted ownership 
+units; in achieving this affordability average, moderate-income ownership units must be 
+available for at least three different sales prices for each bedroom type, and low-income 
+ownership units must be available for at least two different sales prices for each bedroom type.
+5.
+In determining the initial sales prices and rent levels for compliance with the affordability 
+average requirements for restricted units other than assisted living facilities and age-restricted 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 59 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 60 =====
+DRAFT
+14
+developments, the following standards shall be used:
+(a)
+A studio shall be affordable to a one-person household;
+(b)
+A one-bedroom unit shall be affordable to a one-and-one-half-person household;
+(c)
+A two-bedroom unit shall be affordable to a three-person household;
+(d)
+A three-bedroom unit shall be affordable to a four-and-one-half-person household; and
+(e)
+A four-bedroom unit shall be affordable to a six-person household.
+6.
+In determining the initial sales prices and rents for compliance with the affordability average 
+requirements for restricted units in assisted living facilities and age-restricted developments, the 
+following standards shall be used:
+(a)
+A studio shall be affordable to a one-person household;
+(b)
+A one-bedroom unit shall be affordable to a one-and-one-half-person household; and
+(c)
+A two-bedroom unit shall be affordable to a two-person household or to two one-person 
+households.
+7.
+The initial purchase price for all restricted ownership units shall be calculated so that the 
+monthly carrying cost of the unit, including principal and interest (based on a mortgage loan 
+equal to 95% of the purchase price and the Federal Reserve H.15 rate of interest), taxes, 
+homeowners' and private mortgage insurance and condominium or homeowners' association 
+fees do not exceed 28% of the eligible monthly income of the appropriate size household as 
+determined under N.J.A.C. 5:80-26.54, as may be amended and supplemented; provided, 
+however, that the price shall be subject to the affordability average requirement of N.J.A.C. 
+5:80-26.43, as may be amended and supplemented.
+8.
+The initial rent for a restricted rental unit shall be calculated so as not to exceed 30% of the 
+eligible monthly income of the appropriate size household, including an allowance for tenant-
+paid utilities, as determined under N.J.A.C. 5:80-26.54, as may be amended and supplemented; 
+provided, however, that the rent shall be subject to the affordability average requirement of
+N.J.A.C. 5:80-26.43, as may be amended and supplemented.
+9.
+The price of owner-occupied low- and moderate-income units may increase annually based on 
+the percentage increase in the regional median income limit for each housing region. In no event 
+shall the maximum resale price established by the administrative agent be lower than the last 
+recorded purchase price.
+10.
+The rent of low- and moderate-income units may be increased annually based on the permitted 
+percentage increase in the Housing Consumer Price Index for the United States. This increase 
+shall not exceed 9% in any one year. Rents for units constructed pursuant to low-income 
+housing tax credit regulations shall be indexed pursuant to the regulations governing low-
+income housing tax credits.
+§ 22B-1.9. Utilities.
+a.
+Affordable units shall utilize the same type of heating source as market units within an inclusionary 
+development.
+b.
+Tenant-paid utilities included in the utility allowance shall be set forth in the lease and shall be 
+consistent with the utility allowance approved by DCA HUD for its Section 8 program.
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 60 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 61 =====
+DRAFT
+15
+§ 22B-1.10. Occupancy Standards.
+a.
+In referring certified households to specific restricted units, the administrative agent shall, to the 
+extent feasible and without causing an undue delay in the occupancy of a unit, strive to:
+1.
+Provide an occupant for each bedroom;
+2.
+Provide children of different sexes with separate bedrooms;
+3.
+Provide separate bedrooms for parents and children; and
+4.
+Prevent more than two persons from occupying a single bedroom.
+§ 22B-1.11. Control Periods for Restricted Ownership Units and Enforcement Mechanisms.
+a.
+Control periods for restricted ownership units shall be in accordance with N.J.A.C. 5:80-26.65, as
+may be amended and supplemented, and each restricted ownership unit shall remain subject to the 
+requirements of this section for a period of at least 30 years, until Bogota takes action to release the 
+unit from such requirements; prior to such action, a restricted ownership unit shall remain subject to 
+the requirements of N.J.A.C. 5:80-26.1, as may be amended and supplemented, except that, for any 
+units approved after October 13, 2016, such controls shall be for at least 50 years, or until such time 
+after the initial fifty-year period as the Borough of Bogota elects to release the unit from such 
+requirements.
+b.
+The affordability control period for a restricted ownership unit shall commence on the date the initial 
+certified household takes title to the unit.
+c.
+Prior to the issuance of the initial certificate of occupancy for a restricted ownership unit and upon 
+each successive sale during the period of restricted ownership, the administrative agent shall 
+determine the restricted price for the unit and shall also determine the nonrestricted, fair market value 
+of the unit based on either an appraisal or the unit's equalized assessed value without the restrictions 
+in place.
+d.
+At the time of the initial sale of the unit, the initial purchaser shall execute and deliver to the 
+administrative agent a recapture note obligating the purchaser (as well as the purchaser's heirs, 
+successors and assigns) to repay, upon the first nonexempt sale after the unit's release from the 
+restrictions set forth in this section, an amount equal to the difference between the unit's nonrestricted 
+fair market value and its restricted price, and the recapture note shall be secured by a recapture lien 
+evidenced by a duly recorded mortgage on the unit.
+e.
+The affordability controls set forth in this section shall remain in effect despite the entry and 
+enforcement of any judgment of foreclosure with respect to restricted ownership units.
+f.
+A restricted ownership unit shall be required to obtain a continuing certificate of occupancy or a 
+certified statement from the Construction Official stating that the unit meets all Code standards upon 
+the first transfer of title following the removal of the restrictions provided under N.J.A.C.
+5:80-26.65(a), as may be amended and supplemented.
+§ 22B-1.12. Price Restrictions for Restricted Ownership Units, Homeowners' Association Fees and 
+Resale Prices.
+a.
+Price restrictions for restricted ownership units shall be in accordance with N.J.A.C. 5:80-26.1, as
+may be amended and supplemented, including:
+1.
+The initial purchase price for a restricted ownership unit shall be approved by the administrative 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 61 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 62 =====
+DRAFT
+16
+agent.
+2.
+The administrative agent shall approve all resale prices, in writing and in advance of the resale, 
+to assure compliance with the foregoing standards.
+3.
+The master deeds of inclusionary developments shall provide no distinction between the 
+condominium or homeowners' association fees and special assessments paid by low- and 
+moderate-income purchasers and those paid by market purchasers.
+4.
+The owners of restricted ownership units may apply to the administrative agent to increase the 
+maximum sales price for the unit on the basis of anticipated capital improvements. Eligible 
+capital improvements shall be those that render the unit suitable for a larger household or the
+addition of a bathroom. See Subsection 22B-1.15a.
+§ 22B-1.13. Buyer Income Eligibility.
+a.
+Buyer income eligibility for restricted ownership units shall be in accordance with N.J.A.C. 
+5:80-26.1, as may be amended and supplemented, such that low-income ownership units shall be 
+reserved for households with a gross household income less than or equal to 50% of median income 
+and moderate-income ownership units shall be reserved for households with a gross household 
+income less than 80% of median income.
+b.
+Notwithstanding the foregoing, however, the administrative agent may, upon approval by the 
+Borough Committee, and subject to the court's approval, permit moderate-income purchasers to buy 
+low-income units in housing markets if the administrative agent determines that there is an 
+insufficient number of eligible low-income purchasers to permit prompt occupancy of the units. All 
+such low-income units to be sold to moderate-income households shall retain the required pricing and 
+pricing restrictions for low-income units.
+c.
+A certified household that purchases a restricted ownership unit must occupy it as the certified 
+household's principal residence and shall not lease the unit; provided, however, that the administrative 
+agent may permit the owner of a restricted ownership unit, upon application and a showing of 
+hardship, to lease the restricted unit to another certified household for a period not to exceed one year.
+d.
+The administrative agent shall certify a household as eligible for a restricted ownership unit when the 
+household is a low-income household or a moderate-income household, as applicable to the unit, and 
+the estimated monthly housing cost for the particular unit (including principal, interest, taxes, 
+homeowners' and private mortgage insurance and condominium or homeowners' association fees, as 
+applicable) does not exceed 33% of the household's eligible monthly income.
+§ 22B-1.14. Limitations on Indebtedness Secured by Ownership Unit; Subordination.
+a.
+Prior to incurring any indebtedness to be secured by a restricted ownership unit, the owner shall apply 
+to the administrative agent for a determination in writing that the proposed indebtedness complies 
+with the provisions of this section, and the administrative agent shall issue such determination prior 
+to the owner incurring such indebtedness.
+b.
+With the exception of first purchase money mortgages, neither an owner nor a lender shall at any time 
+cause or permit the total indebtedness secured by a restricted ownership unit to exceed 95% of the 
+maximum allowable resale price of the unit, as such price is determined by the administrative agent 
+in accordance with N.J.A.C. 5:80-276.6(cb).
+§ 22B-1.15. Capital Improvements to Ownership Units.
+a.
+The owners of restricted ownership units may apply to the administrative agent to increase the 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 62 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 63 =====
+DRAFT
+17
+maximum sales price for the unit on the basis of capital improvements made since the purchase of the 
+unit. Eligible capital improvements shall be those that render the unit suitable for a larger household 
+or that add an additional bathroom. In no event shall the maximum sales price of an improved housing 
+unit exceed the limits of affordability for the larger household.
+b.
+Upon the resale of a restricted ownership unit, all items of property that are permanently affixed to 
+the unit or were included when the unit was initially restricted (for example, refrigerator, range, 
+washer, dryer, dishwasher, wall-to-wall carpeting) shall be included in the maximum allowable resale 
+price. Other items may be sold to the purchaser at a reasonable price that has been approved by the 
+administrative agent at the time of the signing of the agreement to purchase. The purchase of central 
+air conditioning installed subsequent to the initial sale of the unit and not included in the base price 
+may be made a condition of the unit resale, provided the price, which shall be subject to ten-year, 
+straight-line depreciation, has been approved by the administrative agent. Unless otherwise approved 
+by the administrative agent, the purchase of any property other than central air conditioning shall not 
+be made a condition of the unit resale. The owner and the purchaser must personally certify at the 
+time of closing that no unapproved transfer of funds for the purpose of selling and receiving property 
+has taken place at the time of or as a condition of resale.
+§ 22B-1.16. Control Periods for Restricted Rental Units.
+a.
+Control periods for restricted rental units shall be in accordance with N.J.A.C. 5:80-26.121, as may
+be amended and supplemented, and each restricted rental unit shall remain subject to the 
+requirements of this section for a period of at least 30 years, until Bogota takes action to release the
+unit from such requirements. Prior to such action, a restricted rental unit shall remain subject to the 
+requirements of N.J.A.C. 5:80-26.1, as may be amended and supplemented, except that, for any 
+units approved after October 13, 2016, such controls shall be for at least 50 years, or until such time 
+after the initial fifty- year period as the Borough of Bogota elects to release the unit from such 
+requirements. For new projects receiving 9% low-income housing tax credits, a control period of not 
+less than a thirty-year compliance period plus a fifteen-year extended use period shall be required.
+b.
+Deeds of all real property that include restricted rental units shall contain deed restriction language. 
+The deed restriction shall have priority over all mortgages on the property, and the deed restriction 
+shall be filed by the developer or seller with the records office of the County of Bergen. The deed 
+shall also identify each affordable unit by apartment number and/or address and whether that unit is 
+designated as a very-low-, low- or moderate-income unit. Neither the unit nor its affordability 
+designation shall change throughout the term of the deed restriction. A copy of the filed document 
+shall be provided to the administrative agent within 30 days of the receipt of a certificate of 
+occupancy.
+c.
+A restricted rental unit shall remain subject to the affordability controls of this section despite the 
+occurrence of any of the following events:
+1.
+Sublease or assignment of the lease of the unit;
+2.
+Sale or other voluntary transfer of the ownership of the unit; or
+3.
+The entry and enforcement of any judgment of foreclosure on the property containing the unit.
+§ 22B-1.17. Rent Restrictions for Rental Units; Leases.
+a.
+A written lease shall be required for all restricted rental units, and tenants shall be responsible for 
+security deposits and the full amount of the rent as stated on the lease. A copy of the current lease for 
+each restricted rental unit shall be provided to the administrative agent.
+b.
+No additional fees or charges shall be added to the approved rent (except, in the case of units in an 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 63 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 64 =====
+DRAFT
+18
+assisted living residence, to cover the customary charges for food and services) without the express 
+written approval of the administrative agent.
+c.
+Application fees (including the charge for any credit check) shall not exceed 5% of the monthly rent 
+of the applicable restricted unit and shall be payable to the administrative agent to be applied to the 
+costs of administering the controls applicable to the unit as set forth in this section.
+d.
+No rent control ordinance or other pricing restriction shall be applicable to either the market units or 
+the affordable units in any development in which at least 15% of the total number of dwelling units 
+are restricted rental units in compliance with this section.
+§ 22B-1.18. Tenant Income Eligibility.
+a.
+Tenant income eligibility shall be in accordance with N.J.A.C. 5:80-26.143, as may be amended and 
+supplemented, and shall be determined as follows:
+1.
+Very-low-income rental units shall be reserved for households with a gross household income 
+less than or equal to 30% of median income.
+2.
+Low-income rental units shall be reserved for households with a gross household income less 
+than or equal to 50% of median income.
+3.
+Moderate-income rental units shall be reserved for households with a gross household income 
+less than 80% of median income.
+b.
+The administrative agent shall certify a household as eligible for a restricted rental unit when the 
+household is a very-low-income household, a low-income household or a moderate-income 
+household, as applicable to the unit, and the rent proposed for the unit does not exceed 35% (40% for 
+age-restricted units) of the household's eligible monthly income as determined pursuant to N.J.A.C. 
+5:80-26.176, as may be amended and supplemented; provided, however, that this limit may be 
+exceeded if one or more of the following circumstances exists:
+1.
+The household currently pays more than 35% (40% for households eligible for age-restricted 
+units) of its gross household income for rent, and the proposed rent will reduce its housing costs;
+2.
+The household has consistently paid more than 35% (40% for households eligible for age-
+restricted units) of eligible monthly income for rent in the past and has proven its ability to pay;
+3.
+The household is currently in substandard or overcrowded living conditions;
+4.
+The household documents the existence of assets with which the household proposes to 
+supplement the rent payments; or
+5.
+The household documents reliable anticipated third-party assistance from an outside source, 
+such as a family member, in a form acceptable to the administrative agent and the owner of the 
+unit.
+c.
+The applicant shall file documentation sufficient to establish the existence of the circumstances in 
+Subsections a1 through b5 above with the administrative agent, who shall counsel the household on 
+budgeting.
+§ 22B-1.19. Municipal Housing Liaison.
+a.
+The Borough of Bogota shall appoint a specific municipal employee to serve as a Municipal Housing 
+Liaison responsible for administering the affordable housing program, including affordability 
+controls, the affirmative marketing plan, monitoring and reporting, and, where applicable, supervising 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 64 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 65 =====
+DRAFT
+19
+any contracted administrative agent. Bogota shall adopt an ordinance creating the position of 
+Municipal Housing Liaison. Bogota shall adopt a resolution appointing a Municipal Housing Liaison. 
+The Municipal Housing Liaison shall be appointed by the governing body and may be a full- or part-
+time municipal employee. The Municipal Housing Liaison shall be approved by the court and shall 
+be duly qualified through a training program sponsored by Affordable Housing Professionals of New 
+Jersey before assuming the duties of Municipal Housing Liaison.
+b.
+The Municipal Housing Liaison shall be responsible for oversight and administration of the 
+affordable housing program for Bogota, including the following responsibilities, which may not be 
+contracted out to the administrative agent:
+1.
+Serving as Bogota's primary point of contact for all inquiries from the state, affordable housing 
+providers, administrative agents and interested households;
+2.
+Monitoring the status of all restricted units in Bogota's Fair Share Plan;
+3.
+Compiling, verifying and submitting annual monitoring reports as may be required by the court;
+4.
+Coordinating meetings with affordable housing providers and administrative agents, as needed; 
+and
+5.
+Attending continuing education opportunities on affordability controls, compliance monitoring 
+and affirmative marketing at least annually and more often as needed.
+c.
+Subject to the approval of the court, the Borough of Bogota shall designate one or more administrative 
+agent(s) to administer newly constructed affordable units in accordance with UHAC. An operating 
+manual for each affordable housing program shall be provided by the administrative agent(s) to be 
+adopted by resolution of the governing body and subject to approval of the court. The operating 
+manual(s) shall be available for public inspection in the office of the Borough Clerk, in the office of 
+the Municipal Housing Liaison, and in the office(s) of the administrative agent(s). The Municipal 
+Housing Liaison shall supervise the contracting administrative agent(s).
+§ 22B-1.20. Administrative Agent.
+The administrative agent shall be an independent entity serving under contract to and reporting to the 
+municipality. For new sale and rental developments, all of the fees of the administrative agent shall be paid 
+by the owners of the affordable units for which the services of the administrative agent are required. For 
+resales, single-family homeowners and condominium homeowners shall be required to pay 3% of the sales 
+price for services provided by the administrative agent related to the resale of their homes. That fee shall 
+be collected at closing and paid directly to the administrative agent. The administrative agent shall perform 
+the duties and responsibilities of an administrative agent as set forth in UHAC, including those set forth in 
+Sections 5:80-26.154, 176 and 198 thereof, which include:
+a.
+Affirmative marketing:
+1.
+Conducting an outreach process to affirmatively market affordable housing units in accordance 
+with the Affirmative Marketing Plan of the Borough of Bogota and the provisions of N.J.A.C. 
+5:80-26.165; and
+2.
+Providing counseling or contracting to provide counseling services to low- and moderate-
+income applicants on subjects such as budgeting, credit issues, mortgage qualification, rental 
+lease requirements, and landlord/tenant law.
+b.
+Household certification:
+1.
+Soliciting, scheduling, conducting and following up on interviews with interested households;
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 65 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 66 =====
+DRAFT
+20
+2.
+Conducting interviews and obtaining sufficient documentation of gross income and assets upon 
+which to base a determination of income eligibility for a low- or moderate-income unit;
+3.
+Providing written notification to each applicant as to the determination of eligibility or 
+noneligibility;
+4.
+Requiring that all certified applicants for restricted units execute a certificate substantially in the 
+form, as applicable, of either the ownership or rental certificates set forth in Appendixes J and 
+K of N.J.A.C. 5:80-26.1 et seq.;
+5.
+Creating and maintaining a referral list of eligible applicant households living in the housing 
+region and eligible applicant households with members working in the housing region where 
+the units are located; and
+6.
+Employing a random selection process as provided in the Affirmative Marketing Plan of the 
+Borough of Bogota when referring households for certification to affordable units.
+c.
+Affordability controls:
+1.
+Furnishing to attorneys or closing agents forms of deed restrictions and mortgages for recording 
+at the time of conveyance of title of each restricted unit;
+2.
+Creating and maintaining a file on each restricted unit for its control period, including the 
+recorded deed with restrictions, recorded mortgage and note, as appropriate;
+3.
+Ensuring that the removal of the deed restrictions and cancellation of the mortgage note are 
+effectuated and properly filed with the Bergen County Register of Deeds or County Clerk's 
+office after the termination of the affordability controls for each restricted unit;
+4.
+Communicating with lenders regarding foreclosures; and
+5.
+Ensuring the issuance of continuing certificates of occupancy or certifications pursuant to
+N.J.A.C. 5:80-26.110.
+d.
+Resales and rerentals:
+1.
+Instituting and maintaining an effective means of communicating information between owners 
+and the administrative agent regarding the availability of restricted units for resale or rerental; 
+and
+2.
+Instituting and maintaining an effective means of communicating information to low- and 
+moderate-income households regarding the availability of restricted units for resale or rerental.
+e.
+Processing requests from unit owners:
+1.
+Reviewing and approving requests for determination from owners of restricted units who wish 
+to take out home equity loans or refinance during the term of their ownership that the amount of 
+indebtedness to be incurred will not violate the terms of this section;
+2.
+Reviewing and approving requests to increase sales prices from owners of restricted units who 
+wish to make capital improvements to the units that would affect the selling price, such 
+authorizations to be limited to those improvements resulting in additional bedrooms or 
+bathrooms and the depreciated cost of central air-conditioning systems;
+3.
+Notifying the municipality of an owner's intent to sell a restricted unit; and
+4.
+Making determinations on requests by owners of restricted units for hardship waivers.
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 66 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 67 =====
+DRAFT
+21
+f.
+Enforcement:
+1.
+Securing annually from the municipality a list of all affordable housing units for which tax bills 
+are mailed to absentee owners, and notifying all such owners that they must either move back 
+to their unit or sell it;
+2.
+Securing from all developers and sponsors of restricted units, at the earliest point of contact in 
+the processing of the project or development, written acknowledgement of the requirement that 
+no restricted unit can be offered, or in any other way committed, to any person, other than a 
+household duly certified to the unit by the administrative agent;
+3.
+The posting annually in all rental properties, including two-family homes, of a notice as to the 
+maximum permitted rent together with the telephone number of the administrative agent where 
+complaints of excess rent or other charges can be made;
+4.
+Sending annual mailings to all owners of affordable dwelling units, reminding them of the 
+notices and requirements outlined in N.J.A.C. 5:80-26.198(d)4;
+5.
+Establishing a program for diverting unlawful rent payments to the municipality's Affordable 
+Housing Trust Fund; and
+6.
+Creating and publishing a written operating manual for each affordable housing program 
+administered by the administrative agent, to be approved by the Borough Committee and the 
+court, setting forth procedures for administering the affordability controls.
+g.
+Additional responsibilities:
+1.
+The administrative agent shall have the authority to take all actions necessary and appropriate 
+to carry out its responsibilities hereunder.
+2.
+The administrative agent shall prepare monitoring reports for submission to the Municipal 
+Housing Liaison in time to meet any monitoring requirements and deadlines imposed by the 
+court.
+3.
+The administrative agent shall attend continuing education sessions on affordability controls, 
+compliance monitoring, and affirmative marketing at least annually and more often as needed.
+§ 22B-1.21. Affirmative Marketing Requirements.
+a.
+The Borough of Bogota shall adopt by resolution an Affirmative Marketing Plan, subject to approval 
+of the court, that is compliant with N.J.A.C. 5:80-26.165, as may be amended and supplemented.
+b.
+The Affirmative Marketing Plan is a regional marketing strategy designed to attract buyers and/or 
+renters of all majority and minority groups, regardless of race, creed, color, national origin, ancestry, 
+marital or familial status, gender, affectional or sexual orientation, disability, age or number of 
+children, to housing units which are being marketed by a developer, sponsor or owner of affordable 
+housing. The Affirmative Marketing Plan is intended to target those potentially eligible persons who 
+are least likely to apply for affordable units in that region. In addition, as a result of the Borough’s 
+2016 settlement agreement with FSHC, the Affirmative Marketing Plan shall require the notification 
+to the New Jersey State NAACP, the Latino Action Network, Fair Share Housing Center and the
+Bergen County chapter of the NAACP of affordable housing opportunities. It is a continuing
+program that directs marketing activities toward Housing Region 1 and is required to be followed 
+throughout the period of restriction.
+c.
+The Affirmative Marketing Plan shall provide a regional preference for all households that live and/ 
+or work in Housing Region 1, comprised of Bergen, Hudson, Passaic and Sussex Counties.
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 67 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 68 =====
+DRAFT
+22
+d.
+The municipality has the ultimate responsibility for adopting the Affirmative Marketing Plan and for 
+the proper administration of the Affirmative Marketing Program, including initial sales and rentals 
+and resales and rerentals. The administrative agent designated by the Borough of Bogota shall 
+implement the Affirmative Marketing Plan to assure the affirmative marketing of all affordable units.
+e.
+In implementing the Affirmative Marketing Plan, the administrative agent shall provide a list of 
+counseling services to low- and moderate-income applicants on subjects such as budgeting, credit 
+issues, mortgage qualification, rental lease requirements, and landlord/tenant law.
+f.
+The Affirmative Marketing Plan shall describe the media to be used in advertising and publicizing 
+the availability of housing. In implementing the Affirmative Marketing Plan, the administrative agent 
+shall consider the use of language translations where appropriate.
+g.
+The affirmative marketing process for available affordable units shall begin at least four months (120 
+days) prior to the expected date of occupancy.
+h.
+Applications for affordable housing shall be available in several locations, including, at a minimum, 
+the County Administration Building and/or the County Library for each county within the housing 
+region; the municipal administration building and the municipal library in the municipality in which 
+the units are located; and the developer's rental office. Preapplications shall be emailed or mailed to 
+prospective applicants upon request.
+i.
+The costs of advertising and affirmative marketing of the affordable units shall be the responsibility 
+of the developer, sponsor or owner.
+§ 22B-1.22. Enforcement of Affordable Housing Regulations.
+a.
+Upon the occurrence of a breach of any of the regulations governing the affordable unit by an owner, 
+developer or tenant, the municipality shall have all remedies provided at law or equity, including, but 
+not limited to, foreclosure, tenant eviction, a requirement for household recertification, acceleration 
+of all sums due under a mortgage, recuperation of any funds from a sale in violation of the regulations, 
+injunctive relief to prevent further violation of the regulations, entry on the premises, and specific 
+performance.
+b.
+After providing written notice of a violation to an owner, developer or tenant of a low- or moderate-
+income unit and advising the owner, developer or tenant of the penalties for such violations, the 
+municipality may take the following action(s) against the owner, developer or tenant for any violation 
+that remains uncured for a period of 60 days after service of the written notice:
+1.
+The municipality may file a court action pursuant to N.J.S.A. 2A:58-11 alleging a violation or 
+violations of the regulations governing the affordable housing unit. If the owner, developer or 
+tenant is adjudged by the court to have violated any provision of the regulations governing 
+affordable housing units, the owner, developer or tenant shall be subject to one or more of the 
+following penalties, at the discretion of the court:
+(a)
+A fine of not more than $500 per day or imprisonment for a period not to exceed 90 days, 
+or both, provided that each and every day that the violation continues or exists shall be
+considered a separate and specific violation of these provisions and not a continuation of 
+the initial offense;
+(b)
+In the case of an owner who has rented a low- or moderate-income unit in violation of the 
+regulations governing affordable housing units, payment into the Borough of Bogota 
+Affordable Housing Trust Fund of the gross amount of rent illegally collected;
+(c)
+In the case of an owner who has rented a low- or moderate-income unit in violation of the 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 68 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 69 =====
+DRAFT
+23
+regulations governing affordable housing units, payment of an innocent tenant's 
+reasonable relocation costs, as determined by the court.
+2.
+The municipality may file a court action in the Superior Court seeking a judgment that would 
+result in the termination of the owner's equity or other interest in the unit, in the nature of a 
+mortgage foreclosure. Any such judgment shall be enforceable as if the same were a judgment 
+of default of the first purchase money mortgage and shall constitute a lien against the low- or 
+moderate-income unit.
+(a)
+The judgment shall be enforceable, at the option of the municipality, by means of an 
+execution sale by the Sheriff, at which time the low- and moderate-income unit of the 
+violating owner shall be sold at a sale price which is not less than the amount necessary to 
+fully satisfy and pay off any first purchase money mortgage and prior liens and the costs 
+of the enforcement proceedings incurred by the municipality, including attorneys' fees. 
+The violating owner shall have his right to possession terminated as well as his title 
+conveyed pursuant to the Sheriff's sale.
+(b)
+The proceeds of the Sheriff's sale shall first be applied to satisfy the first purchase money 
+mortgage lien and any prior liens upon the low- and moderate-income unit. The excess, if 
+any, shall be applied to reimburse the municipality for any and all costs and expenses 
+incurred in connection with either the court action resulting in the judgment of violation or 
+the Sheriff's sale. In the event that the proceeds from the Sheriff's sale are insufficient to 
+reimburse the municipality in full as aforesaid, the violating owner shall be personally 
+responsible for the full extent of such deficiency, in addition to any and all costs incurred 
+by the municipality in connection with collecting such deficiency. In the event that a 
+surplus remains after satisfying all of the above, such surplus, if any, shall be placed in 
+escrow by the municipality for the owner and shall be held in such escrow for a maximum 
+period of two years or until such earlier time as the owner shall make a claim with the 
+municipality for such. Failure of the owner to claim such balance within the two-year 
+period shall automatically result in a forfeiture of such balance to the municipality. Any 
+interest accrued or earned on such balance while being held in escrow shall belong to and 
+shall be paid to the municipality, whether such balance shall be paid to the owner or 
+forfeited to the municipality.
+(c)
+Foreclosure by the municipality due to violation of the regulations governing affordable 
+housing units shall not extinguish the restrictions of the regulations governing affordable 
+housing units as the same apply to the low- and moderate-income unit. Title shall be 
+conveyed to the purchaser at the Sheriff's sale, subject to the restrictions and provisions of 
+the regulations governing the affordable housing unit. The owner determined to be in 
+violation of the provisions of this plan and from whom title and possession were taken by 
+means of the Sheriff's sale shall not be entitled to any right of redemption.
+(d)
+If there are no bidders at the Sheriff's sale, or if insufficient amounts are bid to satisfy the 
+first purchase money mortgage and any prior liens, the municipality may acquire title to
+the low- and moderate-income unit by satisfying the first purchase money mortgage and 
+any prior liens and crediting the violating owner with an amount equal to the difference 
+between the first purchase money mortgage and any prior liens and costs of the 
+enforcement proceedings, including legal fees and the maximum resale price for which the 
+low- and moderate-income unit could have been sold under the terms of the regulations 
+governing affordable housing units. This excess shall be treated in the same manner as the 
+excess which would have been realized from an actual sale as previously described.
+(e)
+Failure of the low- and moderate-income unit to be either sold at the Sheriff's sale or 
+acquired by the municipality shall obligate the owner to accept an offer to purchase from 
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 69 of 70   Trans ID: LCV20251794733 
+
+===== PAGE 70 =====
+DRAFT
+24
+any qualified purchaser which may be referred to the owner by the municipality, with such 
+offer to purchase being equal to the maximum resale price of the low- and moderate-
+income unit as permitted by the regulations governing affordable housing units.
+(f)
+The owner shall remain fully obligated, responsible and liable for complying with the 
+terms and restrictions of governing affordable housing units until such time as title is 
+conveyed from the owner.
+§ 22B-1.23. Appeals.
+Appeals from all decisions of an administrative agent appointed pursuant to this section shall be filed in 
+writing with the court.
+                                                                                                                                                                                              
+BER-L-000405-25   06/18/2025 2:28:31 PM   Pg 70 of 70   Trans ID: LCV20251794733 
