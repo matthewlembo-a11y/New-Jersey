@@ -1,8 +1,8 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T12:00:20+00:00_
+_Generated 2026-06-12T12:04:32+00:00_
 
-- Municipalities: **70/70**  (done: 47, in_progress: 23, blocked: 0, not_started: 0)
+- Municipalities: **70/70**  (done: 48, in_progress: 22, blocked: 0, not_started: 0)
 - Sites catalogued: **193**
 
 | # | Municipality | Status | Sites | Oblig. | Compliance | HEFSP | Last researched |
@@ -11,7 +11,7 @@ _Generated 2026-06-12T12:00:20+00:00_
 | 2 | Alpine | done | 4 | 117 | settled | adopted | 2026-06-12T03:22:07+00:00 |
 | 3 | Bergenfield | in_progress | 4 |  | QUAM-exempt from prospective need; rehabilitation obligation status unclear | no fourth-round HEFSP found on library.njcourts.gov | 2026-06-12T03:22:07+00:00 |
 | 4 | Bogota | done | 1 | 111 | settled | adopted | 2026-06-12T03:22:07+00:00 |
-| 5 | Carlstadt | done | 5 | 1189 | plan_adopted_VLA | adopted | 2026-06-12T11:45:05+00:00 |
+| 5 | Carlstadt | done | 5 | 1189 | plan_adopted_VLA | adopted | 2026-06-12T12:04:32+00:00 |
 | 6 | Cliffside Park | done | 0 | 150 | plan_adopted | adopted | 2026-06-12T03:35:42+00:00 |
 | 7 | Closter | done | 2 | 241 | settled | adopted | 2026-06-12T03:22:07+00:00 |
 | 8 | Cresskill | done | 1 | 155 | settled | adopted | 2026-06-12T03:22:07+00:00 |
@@ -43,7 +43,7 @@ _Generated 2026-06-12T12:00:20+00:00_
 | 34 | Maywood | done | 2 | 143 | settled | adopted | 2026-06-12T03:22:08+00:00 |
 | 35 | Midland Park | done | 3 | 155 | settled | adopted | 2026-06-12T03:22:08+00:00 |
 | 36 | Montvale | done | 5 | 235 | litigating | adopted | 2026-06-12T03:24:41+00:00 |
-| 37 | Moonachie | in_progress | 0 |  | implementing | ordinances_adopted | 2026-06-12T03:35:04+00:00 |
+| 37 | Moonachie | done | 0 | 403 | no_adopted_HEFSP_located_REVISIT | not_located | 2026-06-12T12:04:05+00:00 |
 | 38 | New Milford | done | 1 |  | settled | adopted | 2026-06-12T03:24:41+00:00 |
 | 39 | North Arlington | in_progress | 1 | 228 | litigating | adopted | 2026-06-12T03:24:41+00:00 |
 | 40 | Northvale | done | 2 | 112 | plan_adopted_settled_NJBA | adopted | 2026-06-12T12:00:05+00:00 |

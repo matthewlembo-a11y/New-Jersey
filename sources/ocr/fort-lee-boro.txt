@@ -1,0 +1,3219 @@
+SOURCE_URL: https://library.njcourts.gov/files/civil/affordable-housing/bergen/fort-lee-boro/SignedFinalFortLeeFourthroundHousingElementandFairSharePlan62325.pdf?VersionId=oyVwlKT1wB.e5bwRIcuoGAmL7DUTpAl4
+
+===== PAGE 1 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 1 of 47
+Trans ID: LCV20251881442
+Fourth Round Housing Element
+and Fair Share Plan
+BOROUGH OF FORT LEE
+| BERGEN COUNTY, NEW JERSEY
+ADOPTED BY THE PLANNING BOARD: JUNE 23, 2025
+ENDORSED BY THE COUNCIL:
+PREPARED BY:
+LYNDSAY pera PP, AICP
+NEW JERSEY PROFESSIONAL PLANNER LICENSE NO.
+33L100640100
+DAVID JUZMESKI, PE, PP
+NEW JERSEY PROFESSIONAL PLANNER LICENSE NO.
+33L100615400
+JUNE
+13, 2025
+
+===== PAGE 2 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 2of 47
+Trans ID: LCV20251881442
+Contents
+INtFOGUCTION eect ce eee cecc es ceececsceceececssusecsceseessuesevaveceravecesaeeesesanececarseacecseeecacieaeeenensenensaseseaeseetsetessssseneeetey 2
+Municipal SUMMArY........cccccccceccccseeeeesescsceceeetenseenecsescevscaeneaseaesescevsvscatneeecesscaesesescsnscsesessserteseacstesseneess&
+Affordable Housing Ob|Igation ........cecceceeseesesseseseserestesessstscsnssseseesensnsssveneseseessussesessesestesisstscetesseseseenesA
+Borough Goal... ececccecscceessesesceseecseseeeseseseecseseaeseneneaessnenessesseseaeaesseseesssssesesesesarscevsssnecscatstecsvacassssesteseseerene
+Content Of HOUSINg EIEMENE oo... eee ceseeeeeseseteeseensesesesetesssesseenseseessesesesesenssesseassessnssssessseesssaseesaestevareaessaeseesD
+Inventory of Municipal HOUSING StOCK.......ccccessessseseseseseesesesesssesesssescuecssacsesevavesevsusesessssssessvscessssesesesessesO
+Projection Of HOUSING STOCK ...ccccecccsescsssscsescesessescsescesesscsseevsessesssevsvsesavsevaesevseavauercsvasstvavstescesvsesesateaeasese9
+Analysis of the Borough’s Demographic Characteristics ...c.cccccccccccssesesscescsessesseeessssseevscssessseatetseseeeeene
+Fort Lee Employment Demographics ..c.c.ccecccceeesesesseenetenseecsssesesssesstesessaeseensieussssesseeeeseeee LS
+Capacity for Fair SHare .c.ceccccecsscscsscsssesecsesessessessesesscessessesacssessatsessssesseesassassteasssesessisesersascatettatsevsrseaveseeL6
+Fair Share Plan...ccsscsseseseseseesscevseesssessseesssesssscseescresesetesscarscensntsesessntsssesssisensessesscsesetsctsiverevsteteeseeses20
+Prior and Third ROUNC COMpliance.....cccccccccessssesssssseeesesseseesssesscsceecevsescacsesseesssesassesseseesstsatstessateseatsesssees 20
+Third Round Rehabilitation Obligation 0... ccc eeeessseeesesesstetsteeeeseseecseeesesenscsesesesesnseeeetsestesieasneetseseetenees20
+Fourth ROUNG Compliance Status ....cccccccccscsesessescsscsesecscssescsevseseesssseecessassecscesvseavsesteseessssarstereasereaesvevsees 21
+Affordable Housing Obligations... cececccecceesseesseseeteseseseenseseeseseseseeseensestseseeceeesenesnsatansesseiteestesessetesesseee 2D
+APPONGICES oe ceeesseceteceensesreesesesnecsescseensnseeessessesiesteessaesesanececseesiuseesuesessusessacieneeesesenensieseseetstesetseaeeeseees2D
+Affirmative Marketing Plan .......ccccccsccsseceseseseeesseseseeneaesesesesesereeeseeusrescseevensisisisseeseseeetsatiesessissteteessesees26
+Vacant Land AnalySis v.c.ccccceecesescessseeensssesesseseesseecscsessssesecsenscsesssessesansasacceesesssaevscesaseesattevasteeaterieseseens27
+Affordable Housing Key Terms......ccccccccccssssessesesesesescseseseseseneesesesesesesesesessecscaesenenesssaensetsesesaterseevstatetseesSO
+MAaPS.o.ccececccccccce cesses csecssceeecaecsecsescessesscssseseeseaessscessesssecaessessssseesssssseccecsacreceeserceseasescessareereersereeeesesensAL
+IN
+1
+NEGLIA
+
+===== PAGE 3 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 3of 47
+Trans ID: LCV20251881442
+Introduction
+New Jersey’s history in affordable housing can be tracked by to the first Supreme Court decision in 1975,
+Southern Burlington County NAACP v. the Township of Mount Laurel 67 N.J. 151 (1975) (known as Mount
+Laurel |).
+This historic case determined that every developing municipality through New Jersey had an
+affirmative obligation to provide its fair share of affordable housing.
+In 1983, the Supreme Court decided
+Southern Burlington County NAACP v. Township of Mount Laurel, 92 N.J. 158, 456 A.2d 390 (1983)(known
+as Mount Laurel Il), which acknowledged that the vast majority of municipalities had not addressed their
+constitutional obligation to provide affordable housing and created the builder’s remedy lawsuit, which
+allowed developers to sue non-compliant municipalities forcing them to accept their proposed projects at
+extremely high densities.
+In response to an onslaught of builder’s remedy lawsuits, the Legislature enacted the Fair Housing Act of
+1985 (the “FHA”), which created the Council on Affordable Housing (“COAH”) to review and approve
+municipal Housing Elements and Fair Share Plans. Every municipality in the State was required to provide
+a “realistic opportunity for a fair share of its region’s present and prospective needs for housing low- and
+moderate-income families”.
+Through this process, a Housing Element became a mandatory part of
+municipal master plan.
+{n addition, a Fair Share Plan became the mandatory document that illustrates
+the means of achieving the affordable housing goals discussed more generally in the Housing Element.
+To implement the FHA requirements, COAH adopted a series of regulations.
+First Round regulations were
+enacted in 1987. Second Round regulations were adopted by COAH in 1994. Third Round regulations
+were supposed to be adopted in 1999 when the Round2 rules were set to expire, but the first iteration of
+Round 3 regulations were not adopted by COAH until 2004. After those regulations were invalidated by
+the courts, COAH adopted a second iteration of Third Round regulations in 2008. The second iteration of
+regulations were also invalidated by the Courts, and after COAH failed to adopt a third iteration of Third
+Round regulations in 2014, the Supreme Court issued In the Matter of the Adoption of N.J.A.C. 5:96 and
+5:97 by the New Jersey Council on Affordable Housing,
+221 N.J. 1 (2015) (Mount Laurel IV), in which it
+directed trial courts to assume COAH’s functions and ruled that municipalities would have to get their
+Third Round Housing Elements and Fair Share Plans approved in the courts via the granting a Judgment of
+Compliance and Repose (JOR), rather than getting the plans approved by COAH.
+Subsequently, on January 18, 2017, the Supreme Court decided In Re Declaratory Judgment Actions Filed
+by Various Municipalities, County of Ocean, Pursuant To The Supreme Court’s Decision In In re Adoption
+of NJAC. 5:96, 221 NJ. 1 (2015) (“Mount Laurel V”), which held that municipalities are also responsible
+for obligations accruing during the so-called “gap period,” the period of time between 1999 and 2015.
+However, the Court stated that the gap obligation should be calculated as a never-before calculated
+component of Present Need, which would serve to capture Gap Period households that were presently in
+need of affordable housing as of the date of the Present Need calculation (i.e. that were still income
+eligible, were not captured as part of traditional present need, were
+still living
+in New Jersey and
+otherwise represented a Present affordable housing need).
+In the Spring of 2024, the New Jersey Legislature passed, and Governor Murphy signed Law A4/S50 which
+amended the
+Fair Housing Act (N.J.S.A. 52:27D-301
+et seq.)(hereinafter the “amendments” or the
+“Amended FHA”). The amendments provided direction and deadlines for how a municipality must meet
+its Fourth Round affordable housing obligations.
+This legislative effort was intended to create a more
+IS
+2
+NEGLIA
+
+===== PAGE 4 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 4of 47
+Trans ID: LCV20251881442
+efficient, open, and transparent process for the Fourth Round and all subsequent rounds. The amended
+FHA also permanently abolished COAH, and introduced a comprehensive structure for municipalities to
+meet their obligations before a new entity known as the Affordable Housing Dispute Resolution Program
+(hereinafter the “Program”}, which consists of retired Mount Laurel judges and their Special Adjudicators,
+once known as Court Masters. The Program was created to approve Fourth Round Housing Elements and
+Fair Share Plans via the granting of
+a Compliance Certification, along with underlying orders to be entered
+into by the local vicinage trial court. The Program was also created to help municipalities mediate with
+objectors regarding their Fourth Round affordable housing obligations and the approval of the plans. The
+amended FHA also required the Department of Community Affairs (DCA) to take over the monitoring of
+affordable units in every municipality in the state, and to draft and release a report calculating non-
+binding Fourth Round municipal Present and Prospective Need obligation for every municipality in the
+state. The DCA released its Fourth Round numbers report in October of 2024.
+The amended FHA also
+ordered the New Jersey Housing and
+Mortgage
+Finance Agency (NJHMFA)
+to adopt new UHAC
+regulations. The amended FHA also changed the way municipalities receive bonus credits amongst other
+things.
+The amended FHA also
+laid out the procedure to effectuate compliance with the Fourt Round of
+Affordable Housing (July 1, 2025 to July 1, 2035).
+Municipalities must complete a series of steps and, if
+the steps are timely completed, the municipality retains immunity from all exclusionary zoning lawsuits,
+including immunity from builder’s remedy lawsuits. The steps are as follows:
+1.
+Establish Present and Prospective Need Obligation Numbers — January 31, 2025. The legislation
+required
+municipalities to adopt a
+Present- and Prospective Need
+Obligation numbers by
+resolution by January 31, 2025.
+2.
+Period to Challenge Numbers — February 1, 2025 to February 28, 2025. Interested parties can file
+a challenge to the municipality’s adopted numbers.
+3.
+If Challenged, Numbers Reviewed and Settled — March 1, 2025 to April 1, 2025. The Affordable
+housing Dispute Resolution program will review the municipality’s proposed obligation numbers
+and review the challenge presented.
+4.
+Adoption and filing of a Fourth Round Housing Element and Fair Share Plan — June 30, 2025. The
+HEFSP must contain several components which must provide a realistic opportunity for the
+development of affordable housing units that will satisfy the municipality’s Rehabilitation, Prior
+Round, Third Round and Fourth Round affordable housing obligations. The statutory components
+of the Housing Element and Fair Share Plan include, among other things, an inventory of housing,
+demographic
+and employment analyses,
+and
+considerations
+of lands
+for
+suitable
+housing
+development. This document will also contain areas recommended for rezoning, redevelopment,
+or other land use strategies to effectuate such housing development. This document will address
+all of the statutory criteria required by the legislation to achieve conformance with this step.
+5.
+Challenges to the Fourth Round Housing Element and Fair Share Plan — August 31, 2025 to
+December 31, 2025. Interested parties can file a challenge to the validity of the plan and the
+strategies to address the obligation contained therein- by August 31, 2025.
+Municipalities will
+have until December 31, 2025 to settle any challenge or provide an explanation as to why some
+or all the requested changes from the intervening party will not be made.
+If there is a settlement,
+it must be reviewed and approved by the Program, and then by the local vicinage Mount Laurel
+Judge for the county, who will issue an order approving the settlement and the equivalent of a
+IN
+3
+NEGLIA
+
+===== PAGE 5 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 5of47
+Trans ID: LCV20251881442
+judgment of compliance and repose known as a Compliance Certification, which will grant a
+municipality immunity from all exclusionary zoning lawsuits until the end of the Fourth Round on
+June 30,
+2035.
+If there
+is no settlement the
+Program
+will review the
+plan and
+issue
+a
+recommendation which goes to the Superior Court where the assigned Mount Laurel Judge for
+the county issues the Compliance Certification.
+6.
+Final Compliance Deadline — March 31, 2026. The deadline for the Borough to adopt the
+implementing ordinances to align with the plan.
+Municipal Summary
+The Borough of Fort Lee is located at the eastern border of Bergen County, situated along the Hudson
+River atop the Palisades. The Borough has an area of approximately 2.87 square miles, 2.52 square miles
+of land and 0.35 square miles of water and is bound by Cliffside Park, Edgewater, Englewood, Englewood
+Cliffs, Leonia, Palisades Park, and Ridgefield.
+Fort Lee is completely built out with diverse residential development and business accounting for the
+majority of land use types. Open space, recreation and other community facilities scattered throughout.
+Limited parcels, public open space, and environmental constraints limit future residential and commercial
+growth. Between 2010 and 2020 Fort Lee’s population increased from 35,345 people to 40,191 people, a
+13.7% increase.
+Affordable Housing Obligation
+On January 16, 2025, the Borough memorialized Resolution #R-5 stating the Present Need (rehabilitation)
+Obligation of 241 units and a Prospective Need Obligation of 360 units as revised by the Neglia Group.
+The resolution reserved the Borough’s rights to a vacant land adjustment, durational adjustments, and all
+other applicable adjustments permitted in accordance with the act and COAH regulations.
+The Borough’s adopted resolution was challenged by the New Jersey Builder’s Association (NJBA). As part
+of the program, the Borough entered
+into a successful settlement conference with the NJBA and
+determined Fort Lee had Present Need obligation of 241 units and a Prospective Need Obligation of 366
+units.
+Borough Goal
+It is the overall goal of the Borough’s Fourth Round Housing Element and Fair Share Plan is to provide the
+planning context in which access to low- and moderate-income housing can be provided in accordance
+with the requirements of the Fair Housing Act and the laws of the State of New Jersey.
+NS
+‘
+NEGLIA
+
+===== PAGE 6 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 6of 47
+Trans ID: LCV20251881442
+Content of Housing Element
+The Fair Housing Act requires that “the housing element be designed to achieve the goal of access to
+affordable housing to meet present and prospective housing needs, with particular attention to low- and
+moderate-income housing”.
+As per the MLUL, specifically N.J.S.A. 52:27D-310, a housing element must
+contain at least the following items:
+a.
+An inventory of the Borough’s housing stock by age, condition, purchase or rental value,
+occupancy characteristics and type, including the number of units affordable to low- and
+moderate-income households and substandard housing capable of being rehabilitated, and in
+conducting this inventory the municipality shall have access, on a confidential bases for the sole
+purpose of conducting the inventory, to all necessary property tax assessment records and
+information in the assessor's office, including but not limited to the property records cards;
+b.
+Projection of the municipality’s housing stock, including the probable future construction of low-
+and moderate-income housing, for the next ten years, taking into account, but not necessarily
+limited to, construction permits issues, approvals of applications for development and probable
+residential development of lands;
+c.
+Ananalysis of the municipality's demographic characteristics, including but not necessarily limited
+to household size, income level, and age;
+d.
+Ananalysis of the existing and probable future employment characteristics of the municipality;
+e.
+A determination of the municipality's present and prospective fair share for low- and moderate-
+income housing and its capacity to accommodate its present and prospective housing needs,
+including its fair share for low- and moderate-income housing, as established pursuant to section
+3 of P.L.2024.c2(C.52:27D-304.1);
+f.
+Aconsideration of the lands that are most appropriate for construction of low- and moderate-
+income housing and of existing structures most appropriate for conversion to, or rehabilitation
+for, low- and moderate-income housing, including a consideration of lands of developers who
+have expressed a commitment to provide low- and moderate-income housing;
+g.
+An analysis of the extent to which municipal ordinances and other local factors advance or
+detract from
+the
+goal
+of
+preserving
+multigenerational
+family
+continuity
+as expressed
+in
+recommendations of the Multigenerational
+Family Housing Continuity Commission, adopted
+pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021.c273(C.52:27D-329.20);
+h.
+For a municipality located within the jurisdiction of the Highlands Water Protection and Planning
+Council, established pursuant to P.L.2024.c2(C.52:27D-304.1), and analysis of compliance of the
+housing element with the Highlands Regional Master Plan of lands in the Highlands Preservation
+Area, and lands in the Highlands Planning Area for Highlands-conforming municipalities.
+This
+analysis shall include the consideration of opportunities for redevelopment of existing developed
+lands into inclusionary or 100 percent affordable housing, or both and opportunities for 100
+percent affordable housing in both the Highlands Planning Area and Highlands Preservation Area
+that are consistent with the Highlands regional master plan; and
+i.
+An analysis of consistency with the State Development and Redevelopment Plan, including water,
+wastewater, stormwater, and multi-modal transportations based on guidance and technical
+assistance from the State Planning Commission.
+IN
+5
+NEGLIA
+
+===== PAGE 7 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 7 of 47
+Trans ID: LCV20251881442
+Inventory of Municipal Housing Stock
+An inventory of the
+municipality’s housing stock including an analysis of housing characteristics
+is
+presented in this section of the report.
+Housing Age
+At this time, the Borough of Fort Lee is fully developed. Most of the development activity in the Borough
+occurred between 1939 or earlier and 1970 with development declining for the next four decades.
+The following table illustrates the age of the existing housing stock by year built.
+Year Built
+Number of Units
+Percent
+Total
+19,764
+100%
+Source: 2023 ACS Table DP04
+Housing Conditions
+According to the 2023 ACS, there
+are 19,764 housing units in the
+7
+Borough
+of
+Fort
+Lee.
+The
+Borough’s
+housing
+stock
+Unit Type
+Number of Units
+Percent
+single
+family
+attached
+(i.e.
+ord offer unit types inteing
+and other unit types including
+-
+rowsing_stock
+Sigler
+housing
+stock.
+— Single-family
+stock. As the chart on the right
+7.8% 2-unit dwellings, 434 or
+Total
+19,764
+100%
+2.2% 3-or-4-unit dwellings, 757
+or 3.8%, 5-to-9-unit dwellings.
+Source: 2023 ACS Table DCO3
+IS
+°
+NEGLIA
+
+===== PAGE 8 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 8 of 47
+Trans ID: LCV20251881442
+There are 820, 10-to-19-unit dwellings and 12,115, 20 or more-unit dwellings. Additionally, there are 97
+mobile dwellings and 11 other dwellings in the Borough of Fort Lee.
+According to the Census data there were 23 units lacking complete plumbing facilities, 272 units lacking
+complete kitchen facilities, and only 141 units lacking telephone service. Most of the units (60.6%) utilize
+natural gas as the primary house heating fuel, with the remainder utilizing bottled, tank or LP gas, electric
+heat, orfuel oil.
+Number of Units
+Percent
+Fuel Type
+House Heating Fuel
+|
+Goalorcoke PH
+Po
+Wood PH
+|
+Solarenergy fH
+Total
+18,531
+100%
+Source: 2023 ACS table DP04
+Housing with 1.01 or more person per room is an index of overcrowding.
+In 2023, the ACS found that
+there were 1,207 occupied housing units within the Borough that were “overcrowded”. There were 497
+units with 1.01 to 1.50 occupants per room and 710 units with 1.51 or more occupants per room.
+Occupants
+Number of Units
+Percent
+Total
+18,531
+100%
+Source: 2023 ACS table DP04
+Occupancy Status
+According to the 2023 ACS estimates, 57.5% of the Borough’s occupied housing stock is owner occupied
+while 42.5% is renter occupied. The Borough’s housing vacancy rate is estimated to be 6.2% in 2023. A
+majority of vacant housing units fall under the “For rent” category with 515 units or 41.8%. For sale units
+comprise 100 units or 38.1%, of Fort Lee’s vacant units.
+See the table on the next page for additional
+details.
+NSN
+;
+NEGLIA
+
+===== PAGE 9 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg9Qof47
+Trans ID: LCV20251881442
+Households
+Percent
+occasional use
+| _Formigrantworkers |0H
+Total
+19,764
+100%
+Source: 2023 ACS tables DP04 & B25004
+Purchase and Rental Values
+The ACS provides value estimates for owner-occupied housing units. The majority of Fort Lee’s estimated
+3,562 owner-occupied housing units are valued at $500,000 to $999,999.
+Homes valued between
+$200,000 and $299,999 account for 17.1% of owner-occupied units, while homes valued less than
+$50,000 comprised 1.4% of the owner-occupied housing stock. See the table below for details.
+Value
+Number of Units
+Percent
+Total
+10,647
+100.0%
+Source: 2023 ACS table DP04
+The median monthly owner costs for persons with a mortgage was $3,108 and the median monthly
+owner costs for persons without a mortgage was $1,329.
+Over 25% of rentals in Fort Lee have rents of $3,000 or more per month.
+Units with rents between
+$2,000 and $2,499 comprise only 20.7 % of rentals in the Borough. Additionally, units with rents between
+$3,000 or more per month comprise 21.1% of rentals in the Borough. The median gross rent paid for
+occupied units paying rent was $2,255.
+See the table on the next page for more information.
+NSN
+NEGLIA
+
+===== PAGE 10 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 10 of 47
+Trans ID: LCV20251881442
+Cost
+Number of Units
+Percent
+Total
+7,640
+100%
+Source: 2023 ACS table DP04
+Projection of Housing Stock
+As per NJ.S.A. 52:27D-310, a housing element must contain a projection of the municipality’s housing
+stock, including the probability of future construction of low- and moderate-income housing for the next
+ten years, taking into account, but not necessarily limited to, construction permits issued, approvals of
+applications for development, and probability of residential development of lands.
+The Department of Community Affair’s Division of Codes and Standards website provides data on
+Certificates of Occupancy and demolition permits for both residential and non-residential development.
+Within the Division of Codes and Standards website
+is the New Jersey Construction Reporter, which
+contains building permit,
+certificate of occupancy, (hereinafter “CO”), and demolition data that
+is
+submitted by municipal construction officials within the State each month. The New Jersey Construction
+Reporter has information dating back to 2000, which can be used to show the Borough’s historic
+development trends.
+The information provided in the chart below illustrate the trends since the last
+adopted Housing Element.
+As shown in the table below, 1,910 new homes were built and issued COs between 2013 and 2023 while
+360 units were demolished.
+As shown on the table below, a majority of the housing units constructed
+(164) were issued COs in 2016.
+|__COsissued_ | 322 | 53 | 119 | 667 | 122 | 81 | 90 | 38 | 154 | 209 | 55 | 1,910 |
+|__Demolitions | 29 | 24 | 45 | 6 | 14 | so | 31 | 32] 64 | 36 | 29 | 360
+Total
+61
+77
+~=©164
+=©673)
+«136
+©«6©.131—=S
+121
+70
+218
+= 245
+84
+2,270
+Source: New Jersey Construction Reporterfrom the NJ DCA
+Analysis of the Borough’s Demographic Characteristics
+Fort Lee’s population experienced rapid growth from 1930 until a slight decrease of 1.4% in 1990. The
+2000s returned to an increase in population until a slight decrease in the 2010’s. The 2020 US Census
+Bureau reports the Borough’s population to be 40,191 people.
+The table and chart below provide
+additional information.
+It shall be noted that the five-year American Community Survey data from the US
+Census Bureau provided estimates of population, housing and employment estimates between the major
+SN
+°
+NEGLIA
+
+===== PAGE 11 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 11 of 47
+Trans ID: LCV20251881442
+Census reports each decade. In an effort to display the most up to date information, the data used in this
+report is sourced from the 2018-2023 five-year ACS estimates.
+Year
+Population
+Percent Change
+Di
+SS eee nL =
+a
+A
+oe
+|2010]
+85,345
+03%
+Source: US Census Bureau, 2000, 2010, 2020
+Population Growth
+45,000
+40,000
+35,000
+30,000
+25,000
+20,000
+15,000
+10,000
+5,000
+ii
+i
+i
+0
+1930
+1940
+1950
+1960
+1970
+1980
+1990
+2000
+2010
+2020
+® Population
+Age Distribution of Population
+The 2023 ACS estimates that 39.3% of the population is between the ages of 25 and 54 years, while the
+percentage of children aged 19 or younger comprised 18.9% of the Borough’s population. Between 2010
+and 2020, residents aged 65 to 74 years comprised the largest age cohort increase from 28.5%. None of
+the age cohorts experienced a decrease in population. The ACS indicates that the Borough’s median age
+increased between 2010 and 2020 from 43.6 years old to 46.5 years old. The racial composition of Fort
+Lee’s ’s population is predominantly white and Asian, accounting for 48.5% and 44.6% of the Borough’s
+residents, respectively. See the tables on the next page for additional details.
+BY
+10
+NEGLIA
+
+===== PAGE 12 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 12 of 47
+Trans ID: LCV20251881442
+Population By Age Cohort
+Age
+2010
+2010
+2020 Total
+2020
+2010-2020
+2010-2020
+Total
+Percent
+Percent
+Total Change
+_—_ Percent Change
+Under
+Syears |
+1,815
+1,862
+2.58%
+Sto9years |
+1,650
+2,044
+23.9%
+10to14 years |
+1,575
+1,888
+19.9%
+15to 19 years |
+1,469
+1,604
+20 to 24years_|
+1,375
+1,487
+25 to 34 years
+4,485
+13.9%
+4,874
+12.1%
+35 to 44 years
+5,463
+15.2%
+5,926
+14.7 %
+45 to 54 years
+5,039
+14.0%
+5,449
+13.6%
+55to59years_|
+2,313
+2,753
+19.0%
+60 to64years |
+2,450
+2,667
+65 to 74 years
+3,749
+10.3%
+4,817
+12.0%
+1,068
+28.5%
+75 to84years |
+2,776
+3,305
+19.1%
+85 years and
+1,186
+25%
+1,515
+3.8%
+329
+27.7%
+over
+Total
+35,345
+100%
+40,191
+Source: US Census Bureau Table P12 & 2023 ACS Table DPOS
+Racial Characteristics
+Race
+# of Persons
+Percent
+Black or African American
+1,094
+American Indian and Alaska
+Native
+Native Hawaiian and Other
+52
+01%
+Pacific Islander
+Some Other Race alone
+1,317
+Source: 2023 ACS Table B02001
+Household Demographics
+The Borough of Fort Lee is primarily a fully developed multifamily residential community.
+There were
+18,531 occupied housing units as compared to 1,233 vacant housing units.
+There were 10,647 owner
+occupied housing units compared to 7,884 renter occupied housing units.
+In addition, 55.9% or 10,362 of
+the housing units were occupied by family households as compared to 44.1% or 8,169 non-family
+households.
+I
+n
+NEGLIA
+
+===== PAGE 13 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 13 of 47
+Trans ID: LCV20251881442
+Household Type and Size
+Type
+Number
+Percent
+‘FamilyHouseholds|10,362, |55.9%
+Married couple family
+8,341
+80.5%
+with children under 18
+3,051
+36.6 %
+Female Householder, no spouse
+1,365
+Non-family Households
+|8,169 |44.1%
+Total
+18,531
+100%
+Source: 2023 ACS Table $1101
+The average household size of these units was 2.15 persons per household and the average family size
+was slightly higher at 2.91 persons per family.
+The tables below illustrate the Household Size for the
+Borough.
+Household Size
+15.40%
+Household Size
+Size
+Total
+Percent
+32.80%
+°
+°
+Total
+18,531
+100%
+= 1-person
+© 2-person
+= 3-person
+= 4-person
+Source: 2023 ACS Table $2501
+Income and Poverty Status
+The ACS estimates that the median household, family, and per capita incomes for the Borough of Fort Lee
+was below the median household and family incomes for Bergen County and higher than the median
+household for New Jersey’s median household income was $105,535, compared to $116,709 for the
+County and $99,781 for the State. The median family income in the borough is roughly $3,832 less than
+the county and approximately $18,036 more than the State’s. The median per capita income is slightly
+greater than the county and the State’s.
+Individual poverty is 8.4% in Fort Lee compared to 6.6% in the County and 9.7% in the State.
+See the
+table and chart on the next page for additional details.
+iy
+2
+NEGLIA
+
+===== PAGE 14 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 14 0f 47
+Trans ID: LCV20251881442
+Income type
+Borough of Fort Lee
+Bergen County
+New Jersey
+Source: 2023 ACS table $1901, B19301, $1701, and $1702
+According to the 2023 ACS data, a majority of households (21.7%) in Fort Lee earn more than $200,000
+per year. This compares to 27% of households in the County and 20.4% of households in the State. On
+the opposite end of the spectrum, 3.4% of households earn $10,000 to $14,999 per year compared to
+2.3% in the County and 2.8% in the State.
+Borough of Fort Lee
+Bergen County
+New Jersey
+Total
+Percent
+Total
+|
+Percent
+Total
+Percent
+Total
+18,531
+100%
+356,438
+100%
+3,538,457
+100%
+Source: 2023 ACS table $1901
+Fort Lee Employment Demographics
+This chapter provides a snapshot of employment within Fort Lee, including the types of industries within
+the community. The 2023 ACS estimates that Fort Lee has 20,247 residents in the labor force. The labor
+force consists of approximately 60.1 % employed person and 3.1 % unemployed persons.
+The majority of works within the Borough are reported to be private wage and salary workers. Just over
+16,676 or 82.4 % of those employed
+fall into
+this category.
+Approximately 8.5% of workers are
+government employees and 8.9% are self-employed.
+The ACS estimates 59 workers are unpaid family
+workers.
+iy
+8
+NEGLIA
+
+===== PAGE 15 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 15 of 47
+Trans ID: LCV20251881442
+Class of Worker
+Class of Worker
+Number of Workers
+Percent
+Private wage and salary workers
+16,676
+1,713
+Self-employed in own not
+1,799
+89%
+incorporated business workers
+Unpaid family workers
+_TotalEmployedResidents
+|
+20,247
+|Sa
+ae a
+Total Unemployed Residents
+1,061
+Source: 2023 ACS Table DPO3
+Occupational Characteristics
+The ACS estimates that 59.6% of the Borough’s residents are employed
+in management,
+business,
+science, and arts occupations. The service occupation employs 1,955 residents, or 9.7% of the working
+population.
+Sales and
+office occupations employs 19.5% or 3,946 residents.
+Natural
+resources,
+construction,
+and
+maintenance
+occupations
+employs
+644
+residents
+or
+3.2%
+and
+production,
+transportation, and material moving occupations employs 1,642 residents and 8.1% of the working
+population.
+Employed Civilian Population by Occupation (Age 16 Years or Older)
+:
+Borough of Fort Lee
+Bergen County
+CePaen
+Total
+Percent
+Total
+Percent
+science, and arts occupations
+1,955
+61,574
+12.4%
+Sales and office occupations
+3,946
+19.5%
+101,185
+20.4%
+Natural resources,
+construction, and maintenance
+644
+3.2%
+25,740
+5.2%
+occupations
+Production, transportation,
+1,642
+8.1%
+42,480
+8.6%
+and material moving occupations
+Total
+20,247
+100%
+494,921
+100%
+Source: 2023 ACS Table DPO3
+Employment Projections
+The NJTPA estimates that employment within the Borough of Fort Lee will grow by 2,147 jobs by 2050.
+In
+order to achieve this projection, Fort Lee would need to create 61.3 new jobs per year during the 35-year
+period.
+Employment Projections
+Year
+Jobs
+Change
+Percent
+2015
+473600 |
+2050
+16,883
+2,147
+Source: NJTPA Plan 2050, Appendix E; NJTAP Plan 2040, Appendix A (for 2020 data)
+IJ
+i
+NEGLIA
+
+===== PAGE 16 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 16 of 47
+Trans ID: LCV20251881442
+Employment by Professions
+According to the 2023 ACS there were 20,247 persons in the labor force in the Borough of Fort Lee and
+only 1,061 persons were unemployed.
+Educational services, and healthcare and social assistance made
+up the largest component of the workforce with 4,883 persons or 24.1%.
+The remainder of the
+workforce was generally uniformly divided amongst the fields of construction, manufacturing,
+retail
+trade, transportation and warehousing and utilities, information, finance and insurance and real estate
+and
+rental
+and
+leasing,
+professional,
+scientific,
+and management,
+and
+administrative
+and waste
+management services, arts, entertainment and recreation and accommodation and food services, other
+services, and public administration.
+Occupation
+Number of Persons
+Percent
+| "ning sndming |fm
+hunting, and mining
+warehousing, and utilities
+estate and rental and leasing
+Professional, scientific, and
+and waste management services
+care and social assistance
+recreation, and accommodation and
+84%
+food services
+meee Le
+administration
+Total
+20,247
+100%
+Source: 2023 ACS Table DP03
+IS
+15
+NEGLIA
+
+===== PAGE 17 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 17 of 47
+Trans ID: LCV20251881442
+Capacity for Fair Share
+This chapter of the HEFSP provides the following information as required by the rules:
+e
+The Borough’s capacity to accommodate its housing needs.
+¢
+Aconsideration of the lands that are most appropriate for construction of low- and moderate-
+income
+housing
+and
+of the
+existing
+structures
+most
+appropriate
+for
+conversion
+to,
+or
+rehabilitation for low- and moderate-income housing.
+e
+Lands of developers who have expressed a commitment to provide low- and moderate-income
+housing.
+e
+The location and capacities of existing and proposed water and sewer lines and facilities relevant
+to the proposed affordable housing sites.
+Land Capacity
+The Borough of Fort Lee capacity to construct creditable units toward satisfying its affordable housing
+obligation
+is determined by three components — available land, water capacity, and sewer capacity.
+Additionally, land development is limited by wetland and associated buffers, flood plains, parcel size, and
+municipal regulations.
+Utility Capacity
+There
+is sufficient overall water and sewer capacity to serve proposed development throughout the
+Borough.
+However, to determine if infrastructure upgrades are required, the Borough would need to
+perform a detailed study of the affordable housing sites and their surrounding utility infrastructure. The
+study would need to include sanitary sewer and water service reports for each development, the
+condition, size, location and existing capacities and pressures would need to be determined.
+Appropriate Locations for Affordable Housing
+Land that is most appropriate for the construction of low- and moderate-income housing in the Fourth
+Round includes the following anticipated projects:
+1.
+453-459 Main Street — (Block 4551, Lots 3, 4, 5, & 6) The Borough has passed a resolution to
+initiate the redevelopment process with these parcels. The Borough has engaged Neglia Group
+to prepare an Area in Need of Redevelopment Study which will be heard by the planning board
+on June 23, 2025.
+If designated and a redevelopment plan is adopted, this site would be an ideal
+place for residential units inclusive of an affordable housing set aside as the site has access to
+roads, utilities, and water.
+Anticipated Development Patterns
+Anticipated land use patterns within the Borough of Fort Lee will follow the established zoning map
+(shown on the following page). The Borough has a variety of zoning districts including one-family, two-
+family, multi-family, age-restricted, business, commercial, light industrial, and park.
+|
+re
+NEGLIA
+
+===== PAGE 18 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 18 of 47
+Trans ID: LCV20251881442
+LEGEND
+LC
+RL
+One Family Reskicntlat
+Col
+Central Business District
+H
+F
+te
+I
+Red One Fam Resident
+te dal
+oS
+R2A Onc Family Residential
+2
+Nelghborhnad Business
+Re}
+One & Two Family Residential:
+C3
+Lievled Business
+»
+td
+RBA Onc & Two Family Residential
+Got
+Special Buttnese
+ORS Gavaprmed
+Oe pied Cenectel
+m
+a
+ice MNSAparna
+Sf See
+.
+Tlba Hige bse Aparient
+J Commer
+~
+f
+a
+dT
+3
+Welt
+High Rise Apartment
+GBB Corridors Overiay District <7
+ORR
+C12 Hgy Weaperomeet
+hop ue
+mo
+Z
+<
+Baatod
+=
+a
+"RT
+a
+7
+rer)
+| ARE
+es.
+nae
+we
+Ra
+:
+au
+RI
+RS
+ae
+2
+..
+—_
+ua
+RAL
+REA,
+Loa
+wr
+rel
+ma
+“pak
+ire
+a
+ied 7
+RIA
+Cr
+a
+Hie
+tt
+fu
+LEE
+1 EI
+Multigenerational Family Housing Continuity
+Pursuant to the Amended FHA, an analysis of the extent to which municipal ordinances and other local
+factors advance or detract from the goal of preserving multigenerational family continuity as expressed in
+the recommendations of the Multigenerational Family Housing Continuity Commission.
+November 8, 2021, the Senate and General Assembly of the State of New Jersey adopted C.52:27D-
+329.20,
+which
+established the
+“Multigenerational
+Family Housing
+Continuity Commission”
+for the
+purpose of conducting research, obtaining public input, and adopting recommendations on how to most
+effectively advance the goal of enhancing multigenerational family housing continuity, which can be
+defined broadly as the degree to which senior citizens are able to reside at the homes of their extended
+families.
+The bill requires each Municipality’s Housing Plan Element to provide an analysis of the extent to which
+municipal ordinances and other local factors advance or detract from the goal as described in the
+recommendations of the commission.
+The Borough of Fort Lee has a history of being committed to promoting multigenerational family
+continuity and will continue to do so through the Fourth Round. Fort Lee has diverse housing options ina
+manner consistent with the regulation. Additionally, the Borough is employing a variety of approaches to
+accomplish this task through zoning specifically for age-restricted dwellings, a variety of housing types
+and affordability levels in close proximity to public transportation (such as bus stops), shopping centers,
+and the downtown.
+The Borough has a number of senior housing options and a Borough sponsored
+Senior Center.
+IN
+17
+NEGLIA
+
+===== PAGE 19 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 19o0f47
+Trans ID: LCV20251881442
+Consistency with the State Development and Redevelopment Plan
+The Fourth Round Housing Element and Fair Share Plan is consistent with the 2001 State Development
+and Redevelopment Plan (SDRP) and the proposed SDRP that is currently in cross-acceptance process as
+the projects will provide a realistic opportunity for the construction of affordable housing as the projects
+are located in State Planning area designated as PA-1, which is the Metro Planning Area. Pursuant to the
+SDRP, PA-1
+is the preferred location for redevelopment for compact growth.
+The development of
+affordable housing in PA-1 is consistent with the overall State Development and Redevelopment Plan goal
+to direct redevelopment and growth into PA-1 areas as the intentions of the Metropolitan Planning Area
+are to provide for much of the state’s future redevelopment promote growth in compact forms.
+The
+Borough’s Fourth Round Plan is consistent with the 2001 SDRP.
+Affordable Housing Trust Fund
+The Borough of Fort Lee maintains an Affordable Housing Trust Fund Chapter 261 of the Borough’s
+Municipal Code.
+The Spending Plan is included in the appendix to this Housing Plan, which discusses the anticipated
+revenues, collection of revenues and the use of revenues, was prepared
+in accordance with former
+COAH's applicable substantive rules.
+All collected revenue will be placed in the Borough’s Affordable
+Housing Trust Fun and may be dispensed for the use of eligible affordable housing activities, but not
+limited to:
+°
+Rehabilitation program;
+e
+New construction of affordable housing units and related development costs;
+e
+Extensions or improvements of roads and infrastructure directly serving affordable housing
+development sites;
+e
+Acquisitions and/or improvements of land to be used for affordable housing;
+e
+Purchase of affordable housing units for the purpose of maintaining or implementing affordability
+controls;
+e
+Maintenance and repair of affordable housing units;
+e
+Repayment of municipal bonds issued to finance low and moderate-income housing activity; and,
+e
+Any other activity as specified in the approved spending plan.
+However, the Borough is required to fund eligible programs in a Court-approved Housing Element and
+Fair Share Plan, as well as provide affordability assistance.
+At least 30% of collected development fees shall be used towards affordability assistance.
+Affordability
+assistance becamea statutory requirement in Fair Housing Act and shall be used to provide affordability
+assistance to low- and moderate-income households in affordable units included in a municipal Fair Share
+Plan. At least one third (1/3) of the affordability assistance must be expended on very-low-income units.
+Additionally, no more than 20% of the revenues collected from development fees each year, shall be
+expended on administration, including, but not limited to, salaries and benefits for municipal employees
+or consultant fees necessary to prepare or implement a rehabilitation program, a new construction
+program, a housing element and fair share plan and/or an affirmative marketing program.
+iy
+18
+NEGLIA
+
+===== PAGE 20 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 20 of 47
+Trans ID: LCV20251881442
+Monitoring
+The Borough had and will continue to comply with monitoring provisions consistent with those required
+by the Amended Fair Housing Act. The monitoring requires regular tracking of progress towards meeting
+the affordable housing obligations and ensuring the affordable units and affordable housing trust fund
+are administered properly as follows:
+e
+February 15'" of each year- The Borough will provide an annual reporting of the status of all
+affordable housing activity within the Borough through posting on the municipal website and
+certifying the account on the Department of Community Affair’s portal.
+NS
+19
+NEGLIA
+
+===== PAGE 21 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 21 of 47
+Trans ID: LCV20251881442
+Fair Share Plan
+Content of Fair Share Plan
+The Fair Share Plan contains the following information:
+e
+Regional income limits;
+e
+Description of existing credits intended to satisfy the obligation;
+¢
+Description of proposed mechanisms that will be used to meet any outstanding obligations; and
+e
+Animplementation schedule that sets forth a detailed timeline for units to be approved.
+Regional Income Limits
+Dwelling units are affordable to low- and moderate-income households if the maximum sales price or
+rental cost
+is within their ability to pay such costs, based on a specific formula.
+COAH historically
+provided income limits based upon the median gross household income of the affordable housing region
+in which the household is located. A moderate-income household is one with a gross household income
+equal to or more than 50% but less than 80% of the median gross regional household income. A low-
+income household
+is one with a gross household income equal to 50% or less of the median gross
+regional household income. Very-low-income households are those with a gross household income equal
+to 30% or less of the median gross household income.
+Fort Lee is located in Region 1, which contains
+Bergen, Hudson, Passaic, and Sussex County.
+Using the 2024 regional income limits, a four-person household moderate-income is capped at $96,329.
+Two-person households could make up to $77,064 and be considered a moderate-income household or
+make up to $48,165 and be considered a low-income household. See the table below for greater detail.
+Income
+Household Size
+1 Person
+2 Person
+3 Person
+4 Person
+Source: https://ahpnj.org/member_docs/Income_Limits_2024_FINAL.pdf
+Prior and Third Round Compliance
+The Borough of Fort Lee adopted a Housing Element and Fair Share Plan on October 7, 2024, which was
+waiting to receive Third Round Judgment of Compliance and Repose.
+However, the Special Master was
+looking into an issue regarding a deed and the Borough never received certification. The Third Round Fair
+Share Plan identifies the manner in which the Borough's fair share affordable housing obligations —
+inclusive of a 241-unit Present Need (Rehabilitation) obligation and 366-unit Fourth Round Prospective
+Need obligation are to be addressed.
+Third Round Rehabilitation Obligation
+The 2024 Housing Element and
+Fair Share Plan stated
+it would address
+its 219-unit Third Round
+Rehabilitation Obligation through a variety of mechanisms.
+The Borough participated in the Bergen
+County Home Improvement program, as well as allocated Affordable Housing Trust Fund monies to the
+iy
+%0
+NEGLIA
+
+===== PAGE 22 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 22 of 47
+Trans ID: LCV20251881442
+Fort Lee Housing Authority.
+Additionally, the Borough determined in the event that these sources were
+insufficient to fund the program, the Borough was prepared to fund/bond any shortfall.
+Fourth Round Compliance Status
+Fort Lee’s Fair Share Plan describes the various projects and strategies the Borough proposes to address
+its
+affordable
+housing
+obligations.
+There
+are
+four components — the
+Borough’s
+Present Need
+(Rehabilitation) Obligation, Prior Round Obligation, Third Round Obligation and Fourth Round Prospective
+Need Obligation.
+Affordable Housing Obligations
+This Fourth Round Housing Element and Fair Share Plan addresses the following affordable housing
+obligations:
+Present Need (Rehabilitation Obligation): 241
+Prior Round Obligation (1987-1999): 180
+Third Round Obligation (1999-2025): 427
+Fourth Round Prospective Need Obligation (2025-2035): 366, RDP of 30 units
+Addressing The Present Need
+The Borough plans to meet its two hundred and forty-one (241) unit Present Need obligation through
+continuing participation in the Bergen County Home Improvement program and participation in allocating
+additional monies to the Fort Lee Housing Authority.
+Both programs were utilized in the previous round
+and continue to be successful. Said municipal program shall meet the requirements in N.J.A.C. 5:93-5.2.
+Addressing The Prior Round Obligation and The Third Round Obligation
+The Borough has a Prior Round Obligation of one-hundred and eighty (180) and a Third Round Obligation
+of four hundred and twenty-seven (427). There is therefore no Prior or Third Round Obligation for the
+Borough to address. The Borough met its Prior Round obligation through a combination of 100 percent
+affordable housing projects, supportive and special needs housing, and senior projects.
+The projects
+include rental units as well as family units.
+Additionally, the Borough adopted an overlay zone in two
+areas of the municipality.
+The table on the following page illustrates the projects for the Prior Round and Third Round and the
+status of each project.
+INT
+21
+NEGLIA
+
+===== PAGE 23 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 23 of 47
+Trans ID: LCV20251881442
+Block and Lot
+Address
+Project Type
+Total
+Rental
+Credits
+Status
+Affordable
+Bonuses
+Units
+B: 2752 L: 20 | 1403,1405,1407 Teresa | Surplus Credits
+10 surplus
+Complete
+Drive
+credits
+B: 4355 L:
+69 Main Street
+Family Rental
+45
+45
+Complete
+13.02, 17, 18,
+19
+B:6451 L:
+One Executive Drive
+Family Rental
+22
+22
+44
+Complete
+5.04
+North
+B:6451L:
+2 Executive Drive and
+Family Rental
+79
+79
+Redevelopment
+5.02 and 5.03
+One Executive Drive
+Plan Approved
+South
+| B:2752L:19 | 1435Tenth Street__| FamilyRental | 3 |
+|
+3 | Complete __|
+B: 4355 L: 14, | 90-100 Main Street and
+Family Rental
+46
+46
+Approved by
+15, 16, 11,
+1636 and 1640 Kaufer
+Planning Board
+12, 20, 21,
+Lane & 55, 51, 47 Main
+22,&23
+Street
+Construction
+[2 Sas 5s Tena nny Rental Ontisi" eisieie ils ae teare SRS Sell eae) epee)
+B: 1653 L:
+1253 and 1255A-1255E
+Special
+13
+13
+26
+Complete
+1.01 & 1.02
+Inwood Terrace
+Needs/Supportive
+Housing
+B: 4951 L: 12
+620 Church Lane
+Special
+5
+5
+10
+Complete
+Needs/Supportive
+Housing
+|_____Total SpecialNeeds/Supportive Housing
+| 18 | 8 | 86 |
+(Assisted Living)
+B: 4651 L:
+319 Main Street
+Senior Rental
+96 (total of
+Planning
+7.01
+|
+124 units, 28
+units not
+counted due
+to cap)
+SS
+a
+|S ea
+el
+TOTAL FOR THIRD ROUND
+107
+459 (32
+credit
+surplus
+I
+”
+NEGLIA
+
+===== PAGE 24 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 24 of 47
+Trans ID: LCV20251881442
+CREDITS TO PRIOR ROUND OBLIGATION
+190
+deat
+eT
+ndues10s es toward Td Run
+CREDITS TO THIRD ROUND OBLIGATION
+459
+dees
+| cues 20sls om ior oun)_|
+107
+Addressing The Fourth Round Prospective Need Obligation
+The Borough will address its Fourth Round Prospective Need Obligation of three hundred and sixty-six
+(366) as follows:
+Fourth Round Rental Obligation
+The Borough must provide at least 25 percent of the Prospective Need component to through rental
+units. Therefore, based on the Borough’s obligation of 366, its rental obligation is 25 percent, or ninety-
+two (92) units.
+IN consideration of the adjusted obligation, the renal obligation is 8 units. The Borough
+anticipates rental units will be generated through the Mandatory Set-Aside Ordinance (MSO).
+Fourth Round Age-Restricted Housing
+Municipalities are permitted to age-restrict up to 30 percent of the Fourth-Round obligation of 366, or
+one-hundred and ten (110 units).
+In consideration of the adjust obligation, the age-restricted cap is nine
+(9)
+Fourth Round Very-low-Income Housing Obligation
+As a result of the July 2008 amendments to the Fair Housing Act, all municipalities have an obligation to
+ensure that at least 13 percent of affordable units being provided Borough wide, with the exception of
+units constructed as of July 1, 2008, and units subject to preliminary or final site plan approval as ofJuly 1,
+2008, are affordable to very low-income households (households that earn 30 percent or less of the
+median income).
+The Borough anticipates that additional very-low-income units will be provided via future affordable
+housing projects through the Mandatory Set Aside Ordinance.
+The Borough will ensure that the 13%
+very-low-income obligation is satisfied through any new projects, and that any very-low-income units
+built after 2008 are inventoried and accounted for.
+Fourth Round Rental Bonus Credits
+The Borough is entitled to rental bonus credits according to the maximum 25% cap permitted.
+Based
+upon the Fourth-Round obligation of 366, the Borough is permitted up to one-hundred and ten (110)
+bonus credits.
+In consideration of the adjusted obligation, the bonus cap is nine (9).
+Fourth Round Family Units
+The minimum number of Fourth Round units that are required to address its prospective need affordable
+housing obligation through the creation of housing available for families with children is 50%. Therefore,
+IN
+23
+NEGLIA
+
+===== PAGE 25 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 25 of 47
+Trans ID: LCV20251881442
+the Borough would require a minimum of 50% of the total Fourth Round obligation of 366 less the total
+of bonus credits of 110, or
+a 50% requirement of 128 units.
+In consideration of the adjust obligation, 11
+units.
+Vacant Land Adjustment
+Future development opportunities in Fort Lee were assessed as part of a vacant land adjustment and the
+imposition of a realistic development potential (RDP) analysis that was undertaken pursuant to COAH’s
+Second Round regulations. As discussed in more details in the Appendix section of this report. The VLA
+determined there are no lands within the Borough
+that are vacant and developable and future
+development would have to take place in the form of redevelopment.
+Based on the approved projects
+listed in the table below, the Borough has determined that it has an RDP of 30 affordable housing units.
+Block and Lot
+Address
+Project Type
+Total
+Status
+Affordable
+Units
+ZBA
+B: 5952 L:1
+2130 Center Ave
+Family Rental
+Approved by
+PRBS
+| eens | eevreret |e
+om
+|
+B:6451 L:
+1550 Bergen Boulevard
+Family Rental
+5
+Approved by
+| Peo |e’
+| Femitenet Te
+|
+B:7151L: 4
+2464 Lemoine Ave.
+Family Rental
+2
+Approved by
+PEE | Bettererene | Rmitenet
+| re
+|
+B:4454 L: 22
+511 Main Street
+Family Rental
+2
+Approved by
+PES | Sees
+| tenant 2
+|
+[|
+TOMALFORFoURTHROUND
+| 80s
+Mandatory Set-Aside Ordinance (MSO)
+The Borough currently has a Borough-wide Mandatory Set-Aside Ordinance (Section 410-86E(1)}) to
+require a minimum of 10% affordable housing set aside of all units. The ordinance states:
+“Any future multifamily development of five or more new housing units in the
+Borough developed through municipal rezoning; Planning Board approval, Zoning
+Board approval, redevelopment or rehabilitation plan
+is required to include
+an affordable housing set aside of at least 10% of all units.”
+The Borough has captured new affordable housing units from existing projects, infill development, and
+redevelopment plans previously during the Prior and Third Round, it is anticipated that this Ordinance will
+continue to capture affordable housing units.
+Additionally, the Borough
+will continue to monitor
+Redevelopment Plans and increase the affordable housing set aside on a case-by-case basis. Should this
+ordinance not continue the contribution of affordable housing in a meaningful way, the Borough can
+consider amending it in the future to require a larger set aside.
+BY
+24
+NEGLIA
+
+===== PAGE 26 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 26 of 47
+Trans ID: LCV20251881442
+Appendices
+A-1 Affirmative Marketing Plan
+A-2 Draft Spending Plan
+A-3 Vacant Land Adjustment
+A-4 Key Affordable Housing Terms
+A-5 Maps
+NSW
+25
+NEGLIA
+
+===== PAGE 27 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 27 of 47
+Trans ID: LCV20251881442
+Affirmative Marketing Plan
+Each municipality is required to establish and maintain an Affirmative Marketing Plan which is maintained
+in accordance with N.J.A.C. 5:80-26. The Affirmative Marketing Plan applies to all developments that
+contain low and moderate-income units. The Affirmative Marketing Plan is a regional marketing strategy
+design to attract buyers and/or renters of all majority and minority groups, regardless of race, creed,
+color, national origin, ancestry, marital or familial status, gender, affectional or sexual orientation,
+disability, age or number of children to housing units which are being marketed by a developer/sponsor,
+municipality and/or designated administrative agency of affordable housing.
+The affirmative marketing program is a continuing program and will meet the following requirements:
+e
+= The affirmative marketing process for available affordable units shall begin at least four (4)
+months prior to excepted occupancy. Advertising and outreach shall take place during the first
+week of the marketing program and each month thereafter until all available units have been
+leased or sold.
+e
+One advertisement will be published in the following newspaper(s) of general circulation within
+the housing region: The Record
+e
+The advertisement will include the following:
+o
+The location of the units;
+o
+Directions to the housing units;
+o
+Arange of prices for the housing units;
+oO
+The size, as measured in bedrooms, of the housing units;
+o
+The maximum income permitted to qualify for the housing units;
+©
+The business hours when interested households may obtain an application for a housing
+unit; and;
+o
+Application fees, if any.
+e — Signs, posters or brochures of available affordable housing units or affordable housing programs
+should be displayed at all municipal buildings as well as libraries, and developer’s sales offices.
+The Affirmative Marketing Program should reach out to local religious groups and civic organizations that
+are likely to apply, or help members apply for housing. This should include sending quarterly flyers and, or
+applications for circulation.
+Developers of affordable housing should be required to aid in the marketing of the affordable units in
+their prospective development.
+The program should actively continue for as long as low and moderate-income units are initially available
+and continue when occupancy or re-occupancy becomes necessary
+NS
+26
+NEGLIA
+
+===== PAGE 28 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 28 of 47
+Trans ID: LCV20251881442
+Draft Spending Plan
+Draft Spending Plan
+Introduction
+A development fee ordinance creating a dedicated revenue source for affordable housing following state
+guidelines.
+The ordinance established a fee of 1.5% of equalized assessed value for new residential
+construction and 2.5% for new commercial construction. Please see below per the ordinance:
+Residential Development Fees
+all residential developers shall pay a mandatory development fee equal to 1.5% of the equalized assessed
+value for each residential unit constructed, provided that no increased density (above what is permitted as
+of right by the existing zoning) is permitted. This mandatory fee shall be calculated as follows: 0.015 x
+equalized assessed value x number of units.
+Nonresidential Development Fee
+involving new construction on unimproved lot or lots, the fee shall be based on the equalized assessed
+value of the land and improvements. If an existing structure is demolished and replaced, the development
+fee of 2.5% shall be calculated on the difference between the equalized assessed value of the land and
+preexisting improvements thereon and the equalized value of the newly constructed structure and the
+land. Such calculation being made at the time the final certificate of occupancy is issued. If the calculation
+required under this section results in
+a negative number, the nonresidential development fee shall be zero.
+:
+The ordinance established the Borough of Fort Lee Affordable Housing Trust Fund. All development fees,
+payments in lieu of constructing affordable units on site, funds from the sale of units with extinguished
+controls, and interest generated by affordable housing fees are deposited in a separate interest-bearing
+affordable housing trust fund account for the purpose of affordable housing.
+The ordinance established the Borough of Fort Lee Affordable Housing Trust Fund. All development fees,
+payments in lieu of constructing affordable units on site, funds from the sale of units with extinguished
+controls, and interest generated by affordable housing fees are deposited in a separate interest-bearing
+affordable housing trust fund account for the purposes of affordable housing.
+Borough of Fort Lee has
+prepared this Spending Plan to guide the allocation of funds within the Borough of Fort Lee Housing Trust
+Fund.
+As of December 31, 2024, the Borough of Fort Lee has as indicated in the Table 1 below the funds in its
+Affordable Housing Trust Fund.
+1. Revenues
+As of December 31, 2024, Fort Lee has collected $ 1,932,560.11. All development fees, payments in lieu
+of constructing affordable units on site, funds from the sale of units with extinguished controls, and
+interest generated by the fees are deposited in a separate interest-bearing affordable housing trust fund
+for the purposes of affordable housing. These funds shall be spent in accordance with N.J.A.C. 5:97-8.7-
+8.9, as described in the sections that follow.
+To calculate a projection of revenue anticipated during the period of fourth round, the Borough of Fort
+Lee considered the following:
+1)
+Development fees:
+IS
+”
+NEGLIA
+
+===== PAGE 29 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 29 of 47
+Trans ID: LCV20251881442
+a.
+Residential and nonresidential projects which have had development fees imposed upon
+them at the time of preliminary or final development approvals;
+b.
+All projects currently before the planning and zoning boards for development approvals
+that may apply for building permits and certificates of occupancy; and
+c,
+Future development that is likely to occur based on historical rates of development.
+2)
+Payment in lieu (PIL): Actual and committed payments in lieu (PIL) of construction from
+developers as follows:
+3)
+Other funding sources:
+a.
+Funds from
+other
+sources,
+including,
+but
+not
+limited
+to,
+the
+sale
+of
+units
+with
+extinguished controls, repayment of affordable housing program loans, rental income,
+and proceeds from the sale of affordable units.
+4)
+Projected interest:
+a.
+Interest on the projected revenue in the municipal affordable housing trust fund at the
+current average interest rate.
+Projected Revenue
+Source of
+Funds
+2025
+2026
+2027
+2028
+2029 | 2030 _| 2031 __| 2032 | 2033__|
+2034 | 2035 | Total
+Developme
+nt Fees —
+Projected
+Developme
+nt
+Payments
+in Lieu of
+Constructio
+n
+Funds
+[interest [0
+| 20000.
+20,000
+20,000 | 20,000 | 20,000 | 20,000 | 20,000 | 20,000 | 20,000 | 20,000 | 720,000 |
+Total
+1,932,560.11 | 1,952,560.11 | 1,992,560.1 | 2,012,56 | 2,032, | 2,052, | 2,072, | 2,092, | 2,112, | 2,132, | 2,152, | 2,152,560.11
+1
+0.11
+560.11 | 560.11 | 560.11 | 560.11 | 560.12 | 560.11 | 560.11
+The Borough of Fort Lee does not project additional revenue to be collected during 2025. The Borough of
+Fort Lee’s trust fund balance has total deposits of $ 1,932,560.11 available to fund and administer its
+affordable housing plan. All interest earned on the account shall be used only for the purposes of
+affordable housing.
+2. Collection and Distribution of Funds
+The following procedural sequence for the collection and distribution of development fee revenues shall
+be followed by the Borough of Fort Lee.
+1)
+Collection of development fee revenues:
+Collection of development fee revenues shall be consistent with Borough’s development fee
+ordinance
+for both
+residential
+and
+non-residential
+developments
+in accordance
+with
+the
+Department’s rules and P.L. 2008, C.46, sections 8 (C. 52:27D-329.2) and 32-38 (C. 40:55D-8.1
+through 8.7).
+SW
+28
+NEGLIA
+
+===== PAGE 30 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 30 of 47
+Trans ID: LCV20251881442
+2)
+Distribution of development fee revenues:
+Distribution of development fee revenues: Fort Lee Borough
+will distribute funds with the
+oversight of the Borough Council. The Council will work with the Borough Administrator and the
+Municipal Housing Liaison to manage the projects outlined in this spending plan.
+3. Expenditures
+Fort lee proposes to use the monies in its Affordable Housing Trust Fund for the following purposes:
+1)
+Rehabilitation
+and
+new
+construction
+programs
+and
+projects
+(N.J.A.C.
+5:97-8.7)
+Borough
+Rehabilitation Program: The Borough’s efforts to meet its present need include a municipally
+sponsored local rehabilitation program and participation in the County’s rehabilitation program.
+This is sufficient to satisfy the Borough’s present need obligation of two-hundred and forty-one
+(241) units.
+2)
+Administrative Expenses (N.J.A.C. 5:97-8.9)
+Administrative Expenses (N.J.A.C. 5:97-8.9) Fort Lee will dedicate no more than twenty percent
+(20%) of revenue from the affordable housing trust fund to be used for administrative purposes.
+The current budget for administrative expenses is $430,512.02 subject to the twenty percent
+(20%) cap are as follows:
+©
+Legal fees associated with affordable housing administration;
+e
+Planning fees for any necessary updates and/or revision to the Housing Element and Fair
+Share Plan; and
+©
+Other expenses associated with the development and implementation of the Housing and
+Fair Share Plan and the monitoring of current and future affordable housing programs within
+Fort lee Borough.
+Actual Development Fees and
+$1,932,560.11
+fametmoumzos |lO
+Projected Development Fees and | +
+$220,000
+invests |
+Less RCA expenditures thru
+$0.00
+Sous
+Total
+8,152,560.
+Less admin expenditures thru
+$0.00
+cane
+Projected Maximum available for
+$430,512.02
+:
+administrative expenses Thru
+same
+|
+4. Planned Expenditures
+Borough of Fort Lee intends to use affordable housing trust fund revenues for the creation and/or
+rehabilitation of housing units and to assist residents through affordability assistance programs.
+is
+8
+NEGLIA
+
+===== PAGE 31 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 31 of 47
+Trans ID: LCV20251881442
+The Borough of Fort Lee has engaged the services of affordable housing consultants to scope the best fit
+housing solutions that would include the rehabilitation of existing units, construction of new units either
+as a Borough initiative or in the context of significant redevelopment project and per the as Fort Lee
+Borough Housing Ordinance.
+5.
+Excess or Shortfall of Funds
+Implementation of the affordable housing program in the Spending Plan will satisfy Fort Lee’s current
+affordable housing obligation.
+In the event of excess funds, any remaining funds above the amount
+necessary to satisfy the municipal affordable housing obligation will be used for a future round of
+municipal affordable housing obligation and additional affordability assistance funding.
+In the event of a
+shortfall of funds, the Borough would use municipal funds through bonding.
+It shall be noted that the
+affordability assistance funding would be allocated to security deposit assistance, rental assistance, and
+emergency repair assistance associated with the five accessory apartment units proposed.
+1.
+Barrier Free Escrow
+Collection and distribution of barrier free funds shall be consistent with Borough of Fort Lee’s
+Affordable Housing Ordinance, in accordance with N.J.A.C. 5:97-8.5.
+Summary
+Boroughof Fort Lee intends to spend affordable housing trust fund revenues pursuant to N.J.A.C. 5:97-8.7
+through 8.9 and consistent with the housing programs outlined in the Housing Plan Element.
+As of December 31, 2024, the Borough of Fort lee has a balance of $1,932,560.11. The Borough of Fort
+Lee will apply the balance per the guidance and recommendations of affordable housing stakeholders.
+IW
+30
+NEGLIA
+
+===== PAGE 32 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 32 of 47
+Trans ID: LCV20251881442
+Vacant Land Analysis
+NJ.A.C. 5:93-4.2 provides a mechanism for a municipality to adjust its affordable housing obligations
+based on a lack of vacant, available, suitable, developable, and approvable land. To demonstrate a lack of
+capacity to address the Borough’s municipal housing obligation,
+all vacant parcels in the municipality
+were analyzed to determine the development potential of each property, and the sum of potential units
+is compared to the prospective need obligation in the foregoing analysis. If there is insufficient vacant
+land within the municipality to meet the obligation for new affordable units, the total prospective need
+obligation is adjusted accordingly.
+Methodology
+An analysis of existing land uses and zoning the Borough was conducted to determine the Realistic
+Development Potential (RDP), and an estimate of potential inclusionary affordable units was derived from
+the RDP assuming a 20% affordable set-aside.
+Using data from the State of New Jersey Tax Assessment
+Records and New Jersey environmental GIS records of all properties within the Borough were examined
+to determine if they were vacant and developable.
+Properties reserved for public use, open space, listed
+on the NJ ROSI, and those that were occupied by water bodies, steep slopes, wetlands, critical habitats,
+and within a riparian buffer were removed as candidates for development.
+The remaining properties
+were then tested to determine their ability to accommodate a minimum of five (5) units. Public and non-
+profit owned properties of sufficient size to accommodate potential inclusionary development were also
+included as vacant and potentially developable in the analysis.
+All properties with sufficient buildable
+area to accommodate five (5) or more units were included in the determination of the RDP
+Underlying Assumptions for Realistic Development Potential
+Inclusionary Development
+N.J.A.C. 5:93-4.2(f) specifies that the RDP is based on an inclusionary zoning framework and available land
+is not assumed to be developed as 100% affordable housing. The minimum presumptive set aside for
+affordable housing is 20%, or one in five units. As such, suitable development sites for inclusionary
+development must have the capacity to provide a minimum of five units.
+Density and Minimum Project Size
+According to the Second Round Rules, it is important to “consider the character of the area surrounding
+each site” when crafting assumptions underlying the intensity of residential development. As such, the
+maximum density for each assemblage was determined as follows:
+e
+The permitted density of each parcel pursuant to the Borough’s Zoning Ordinance;
+©
+Minimum presumptive density of six units per acre as required by the Second Round Rules where
+permitted density is below six units per acre;
+e
+Surrounding land uses;
+e
+The need for affordable housing; and
+©
+Density count of approved projects by the Planning or Zoning Board.
+Is
+a
+NEGLIA
+
+===== PAGE 33 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 33 of 47
+Trans ID: LCV20251881442
+Step 1- Classification of Vacant Land
+All properties with a tax class 1 (Vacant) and vacant properties with tax class 15C (Public) have been
+included in the table below.
+[ wioct | tot |propenytocanon
+| “Cites” | aceege|
+Block
+Lot
+Property Location
+Class
+eag
+9
+811 JASSAMINE WAY
+|. | oe | Residential Developed. Split with Cliffside Park. Contaminated Areas - Historic Fill
+Small Lot, abuts highway
+bridge.
+|
+1
+1023 MORNINGSIDE LANEre Residential Developed. Partial lot on border of Palisades Park.
+1033B MORNINGSIDE
+2
+LANE
+1
+0.01
+Residential Developed. Partial lot on border of Palisades Park.
+1033A MORNINGSIDE
+158
+2
+LANE
+1
+Residential Developed. Partial lot on border of Palisades Park.
+le le | 138 MORNINGSIDE LANE nr Residential Developed. Partial lot on border of Palisades Park.
+146B MORNINGSIDE
+162
+LANE
+4
+Residential Developed. Partial lot on border of Palisades Park.
+162
+LANE
+1
+Residential Developed. Partial lot on border of Palisades Park.
+10
+1095B BERGEN BLVD. mr Residential Developed. Partial lot on border of Palisades Park.
+1095A BERGEN BLVD. nr Residential Developed. Partial tot on border of Palisades Park.
+1089 BERGEN BLVD.
+Residential Developed. Partial lot on border of Palisades Park.
+808 JASSAMINE WAY
+Residential Developed. Contaminated Areas - Historic Fill
+1009 DEARBORN RD.
+Developed Residential Lot.
+208 WARREN AVE.
+1 | 0.00 | Seems Vacant. Parking lot May betoosma,
+240 COLUMBIA AVE.
+Newly
+developed site. Not vacant.
+2 CUMBERMEADE RD.
+1
+| se _|
+Area under construction. Single family residential neighborhood. Steep Slope greater
+756
+1
+1030 ARCADIAN WAY
+1
+0.30
+than 15%.
+sor|
+Area under construction. Single family residential neighborhood. Steep Slope greater
+756
+5.01 | 10 CLAREMONT RD.
+0.52
+than 15%.
+Area under construction. Single family residential neighborhood. Steep Slope greater
+756
+1
+1.16
+than 15%.
+oss |
+||
+Area under construction. Single family residential neighborhood. Steep Slope greater
+953
+8
+1082ARCADIAN WAY
+1
+0.42
+than 15%.
+| se |
+|
+Lot is part of neighboring Commercial Property. Not Vacant./Steep Slope greater than
+1354
+2
+1175 PALISADE AVE.
+1
+0.27
+15%
+4 CRESCENT COURT
+Newly
+developed residential site. Not vacant.
+1452
+2 CRESCENT COURT
+| 41 | oz | Subdivided for residential development.
+| 1454 | 9 | 20 EUCLID RD.
+(4 | on | Too Small, in single family home neighborhood.
+(1455
+| 4 | MANATAUK AVE.
+| 1 | 0.04 | Too Small/Steep Slope greater than 15%. On the cliff fringe.
+1455
+2
+EUCLID R
+4
+0.11
+Too Small/Steep Slope greater than 15%. On the cliff fringe.
+| es: | to: |soopmusaresewn | 1
+Wetland Buffer Area. Easement/Vacant/Steep Slope greater than 15%/Contaminated
+1551
+1.01_|
+500 PALISADES BLVD.
+1
+0.83
+Areas - Historic Fill
+1216 16TH ST.
+Residential Developed
+IN
+32
+NEGLIA
+
+===== PAGE 34 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 34 of 47
+Trans ID: LCV20251881442
+PS Br
+aie be
+en
+ia
+or i ie
+Property Location
+Class
+creag
+Notes
+1226 16TH ST.
+| 1 | 0.41 | Residential Developed
+2152
+1390 PALISADE AVE.
+| 1 | 041 | Seems like small parking,
+7 | 1414 44TH ST.
+Residential. Newly developed site. Not vacant.
+272 MOHEGAN WAY
+| 1 | 0.11 _| Smallresidential lotin single family neighborhood.
+2454
+274 RIVERDALE DR.
+| 1 | 0.14 | Developed Residential Lot.
+209 FOREST RD.
+Too Small
+Seems vacant. Contaminated Areas - Historic Fill/CEA. Old Pizza Hut property,
+2651
+2
+1545 RT. 46 WEST
+41
+0.80
+demolished in ~2023.
+2752 |
+9 | 1448 BERGEN BLVD.
+Autobody
+parking lot. Contaminated Area - Historic Fill
+2752 | 12 | 1494 BERGENBLVD.
+| 1 | 0.09 _| Autobody parking lot for Block 2752 Lot 11. Parking Lot.
+Autobody parking lot for Block 2752 Lot 11.
+Parking Lot.. Contaminated Area - Deed
+2752
+13
+1498 BERGEN BLVD.
+4
+Notice Extent Areas
+2854
+432 STILLWELL AVE.
+Newly
+developed site. Not vacant./Steep Slope greater than 15%
+3452
+1580 BERGEN BLVD.
+0.11 _| Seems like a landlocked Parking Lot
+|. |
+Seems Vacant. Building torn down around 2008. Contaminated Area - Deed Notice
+3454
+10__|
+1550 BERGEN BLVD.
+4
+0.54
+Extent Areas
+3562
+2021 JONES RD.
+Ls | one
+Newly developed site. Not vacant./Contaminated Areas - Historic Fill
+3651
+504 JANE ST.
+Newly
+developed commercial site. Contaminated Area - KCSL
+3752
+1531 11TH ST.
+1
+Newly
+developed site. Not vacant./Steep Slope greater than 15%
+427 NORTH AVE.
+Developed lot. Steep Slope greater than 15%
+3956
+243 SLOCUM WAY
+Developed Residential Lot.
+Newly
+developed site. Not vacant./Steep Slope greater than 15%
+4351
+| 6 | 1624 PALISADE AVE.
+Recently developed.
+1620 PALISADE AVE.
+1636 KAUFERS LANE
+[4 | on | Seems Vacant/Wooded. Steep Slope greater than 15%
+4355
+1640 KAUFERS LANE
+| 4 | ono | Seems Vacant/Wooded. Steep Slope greater than 15%
+4355
+100 MAIN ST.
+Seems Vacant/Wooded. Steep Slope greater than 15%
+94 MAIN ST.
+Seems Vacant/Wooded. Steep Slope greater than 15%
+Seems VacanWooded. Steep Slope greater than 15%
+4355,
+69 MAIN ST.
+Existing residential building.
+0.28
+Seems Vacant/Wooded. Steep Slope greater than 15%
+4355
+51 MAIN ST.
+0.28
+Seems Vacant/Wooded. Steep Slope greater than 15%
+47 MAIN ST.
+Seems Vacant/Wooded. Steep Slope greater than 15%
+41 MAIN ST.
+Seems Vacant/Wooded. Steep Slope greater than 15%
+45 MAIN ST.
+Seems Vacant/Woaded. Steep Slope greater than 15%
+4355
+107 OLD PALISADE RD.
+Seems Vacant/Wooded. Steep Slope greater than 15%
+| 4451 | 6 | 2039 MARGUERITE ST.
+foa4
+| om | Newly developed site. Not vacant.
+4452
+2049 ELLERY AVE.
+Newly
+developed site. Not vacant./Steep Slope greater than 15%
+Steep Slope greater than 15%. Surrounding ROW / unknown ownership parking lot
+4455
+2
+2073 FLETCHER AVE.
+1
+0.15
+area previously
+in question by
+Borough.
+By
+*
+NEGLIA
+
+===== PAGE 35 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 35 of 47
+Trans ID: LCV20251881442
+| stock | vot | rroperytocaton _|"ciass” [ace |
+tes
+Property Location
+Class
+g
+Notes
+Pe
+ey
+4456
+2
+2050 EDWIN AVE.
+0.03
+area previously
+in question by
+Borough.
+Hm + mamma |__| a8 |atten
+| sass | 1s [socommave |_| am | Site seems fenced offfor future development. Steep Slope greater than 15%.
+[4551 | 4 |asomanst.
+| 1 | 0.15 | Propentybeingdeveloped
+|_4s51_| 5 | 2o10FeTcHeRave. | 1 | 0.21 | Propentybeingdeveloped
+| 4561 | 6 | 2o1erteTcHerave. | 1 | 0.14 | Propertybeingdeveloped
+|_a7si1_| 23 | 22amanst.
+| 1 | 0.04 | Newlydevelopedsite. Notvacant,
+|_4751_| 29 | 2o1ecenterave. __|__| 0.14 | Newlydevelopedssite. Notvacant,
+|4e51.04| 4 | 100PARKAve.
+|__| 2.58 | Recently Developed Site. Contaminated Area-KCSUCEA
+|_soss_| 1 |2tssepwinave.
+| 4 | 0.03 | Smattot
+|s351_| 4 | 2oeinupsonst | 1 | 0.19 | EnterpriserentalParkingLot
+|_5452_| 2.01 | 2t60yonesro.
+| 1 | 0.14 | Newlydevelopedsite.Notvacant.
+|_sa52_| 2.02 | 21e2yonesro.
+|__| 0.15 | Newlydevelopedsite. Notvacant
+|_5a52_| 3.02 | 217oyonesro. | 1_|_0.10 | SteepSipearea
+|_sa52_| 3.03 | 2174Jonesro.
+| 1 | 0.10 | SteepSiopeaean
+Cd
+__5452_| 3.04 | 2i7eyonesro.
+|| 1_| 0.10 | SteepStopearea
+Cd
+|_sas2_| 3.05 | 21e2yonesro.
+| 1 | 0.10 | SteepSiopearean
+Cd
+|_s452_| 3.06 | 214sonesro. | 1_| ott | SteepSipeaea
+|_sss2_| 4 [2e2irtaeast
+|__| 0.30 | SteepSlope area.Contaminated Area-CEA
+[sso |e [wesc | + | ost [ovsmentnen conn 2i Geta KOKA
+|_sos2_| 1 |2t30centerave. | 1 _| 0.31 | SeemsVacant Steep Slopearea,
+|_e1s2_| 5 | seaeriocepLazano. | 1 | 005 |Toosml
+|_e152_| 6 | 161eRinceriazano. | 1 | 0.04 | Commercial AdverisingBoardsite,
+[eis [oa |
+08 | smarakingtot
+|_e1sa | 2 | 2teanupsonterr. | 1 | 0.12 | smaiParkinghot
+Cd
+| 0961 | 2 |esripcevanpterr. | 1 | 0.05 | Steep Slopegreaterthan 15%
+ves |e [aes
+| | an [Sts ern oe ora
+6651
+16
+485 WESTVIEW PL.
+0.07
+than 15%
+| sess | 1 |izemverueave. | 1__| 0.16 | Newlydeveloped site. Notvacant.
+|_ evo | 7 | aasaistst |
+| 0.17_| Newlydeveloped site. Notvacant,
+me
+Newly developed site. Not vacant./Contaminated Area - CEA
+i vist_| 9 |aarisrust
+| 1 | 0.16 | ParkingLot.Contaminated Area-CEA
+IW
+34
+NEGLIA
+
+===== PAGE 36 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 36 of 47
+Trans ID: LCV20251881442
+| wiock | ict | prosartyiocation | "cin Lagan | 8
+mes
+Block
+Lot
+Property Location
+Class
+ge
+2365 HUDSON TERR.
+| 4 | 059 _| Site being developed. Not Vacant.
+1193 ANDERSON AVE.
+School/Contaminated Area - Deed Notice Extent Areas
+467 STILLWELL AVE.
+sea | ase | School Property. Steep Slope greater than 15%. Contaminated Areas - Historic Fill
+5 CASPAR'S LANE
+Small wooded lot. Steep Slope Area.
+3952 | 1 | 308 TOMHUNTERRD.
+FORT LEE BOARD OF EDUCATION
+(4251
+| 4 | 255 WHITEMAN ST.
+School Prope
+4951
+2047 JONES RD.
+School Property. Contaminated Areas - Historic Fill
+6151
+2187 HUDSON ST.
+school parking lot.
+School Property. Steep Slope greater than 15%. Contaminated Area - KCSL/Deed
+6251
+1
+3000 LEMOINE AVE.
+15A
+9.37
+Notice Extent Areas
+1. NORTH HOVT AVE.
+Seems like a school parking lot.
+7052
+2405 2ND ST.
+School Propert
+4451
+340 MAIN ST.
+| 158 | 6.36 | Large Church Property,
+Small Lot, abuts highway bridge. BOROUGH OF FORT LEE/Steep Slope greater than
+151
+1
+534 COLUMBIA AVE.
+15C
+15%
+Small Lot, abuts highway bridge. BOROUGH OF FORT LEE/Steep Slope greater
+152
+4
+530 COLUMBIA AVE.
+15C
+than 15%
+Small Lot, abuts highway bridge. N.J. DEPT. OF TRANSPORTATION/Steep Slope
+153
+i
+526 COLUMBIA AVE.
+15C
+0.08
+greater than 15%
+COLUMBIA AVE.
+ssc | ze
+Steep Slope greater than 15%/Contaminated Areas - Historic Fill
+ABBOTT BLVD.
+Fort Lee Borough Parks and Rec Areas/Steep Slope greater than 15%
+| 551 | 1 | 262 WARREN AVE.
+Parking Lot split lot with Cliffside Park
+]
+11_| ORT.5
+N.J. DEPT. OF TRANSPORTATION/Steep Slope greater than 15%
+| 751 | 4 _| 1020 PALISADE AVE.
+_N.J. DEPT. OF TRANSPORTATION
+79 RT.5
+| asc | 002 | N.J. DEPT. OF TRANSPORTATION
+|
+Inwood Terrace Park/Preserved Lands - Fort Lee Borough Parks and Rec
+1053
+1
+1101 INWOOD TERR.
+15C
+2.36
+Areas/Steep Slope greater than 15%/Contaminated Areas - Historic Fill
+498 PALISADES BLVD.
+Community
+Garden site. Borough Owned. Contaminated Areas - Historic Fill
+|1652_
+| 6 | 1927 16TH ST.
+15C
+1653 | 8 | 13251NwoopTeRR.
+| _1sC__| 0.90 | Police DepartmentParkinglot
+1751
+1301 ANDERSON AVE.
+Whitey
+Lang Park/Preserved Lands - Fort Lee Borough Parks and Rec Areas
+2151
+1401 PALISADE AVE.
+Borough owned. Pump Station. Steep Slope greater than 15%
+1355 INWOOD TERR.
+Newly
+developed site. Not vacant.
+1363-1365 INWOOD TERR.
+Newly developed site. Not vacant.
+| est | a |
+sec
+Small administrative parcel. N.J. DEPT. OF TRANSPORTATION/Contaminated Area -
+2651
+3
+1485 BERGEN BLVD.
+15C
+0.01
+CEA
+L.
+seo
+Small administrative parcel. N.J. DEPT. OF TRANSPORTATION/Contaminated Areas
+2651
+5
+1495 BERGEN BLVD.
+15C
+0.04
+- Historic Fill/CEA
+La | 1403&1405&1407 TERESA ics | sae |
+2752
+20
+DR.
+15C
+1.49
+FORT LEE HOUSING AUTHORITY/Contaminated Areas- Historic Fill
+1406 10TH ST
+Residential Developed.
+I
+%
+NEGLIA
+
+===== PAGE 37 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 37 of 47
+Trans ID: LCV20251881442
+ee he
+ere bel
+Lot
+Property Location
+Class__|
+Acreag
+Notes
+1500 8TH ST. &
+BOROUGH OF FORT LEE/Preserved Lands - Fort Lee Borough Parks and Rec
+2951
+1
+STILLWELL
+15C
+5.68
+Areas/Contaminated Areas - Historic Fill
+1485 PALISADE TERR.
+Small lot. Steep Slope greater than 15%
+BOROUGH OF FORT LEE/Preserved Lands - Fort Lee Borough Parks and Rec
+3253
+3
+1475 PALISADE TERR.
+15C
+3.26
+Areas/Steep Slope greater than 15%
+3351 | 1589 PARKER AVE.
+Monument Park/Historic Properties/Preserved Lands - Fort Lee Borough, Fire Facilit
+29 MAIN ST.
+Pump Station. BOROUGH OF FORT LEE/Steep Slope greater than 15%
+3452
+1590 BERGEN BLVD.
+Small Signage lot. N.J. DEPT. OF TRANSPORTATION
+3558
+1674 BERGEN BLVD.
+|15c_
+| 0.04 | Nv. DEPT. OF TRANSPORTATION
+3560
+16
+540 MAIN ST.
+Borough-owned parking lot. Contaminated Area - Deed Notice Extent Areas/CEA
+3560
+1700 VALLEY ST.
+DPW Yard. Contaminated Area - Deed Notice Extent Areas/CEA
+1996 HOEFLEY'S LANE
+N.J. DEPT. OF TRANSPORTATION/Contaminated Areas - Historic Fill
+3562
+557 MAIN ST.
+Fire Department. BOROUGH OF FORT LEE/Contaminated Areas - Historic Fill
+530 JANE ST. DPW
+DPW Yard.
+1600 VALLEY ST.
+Small administrative lot. BOROUGH OF FORT LEE/Contaminated Areas - Historic Fill
+3953 | 290 WHITEMAN ST.
+Fireman's Park/Preserved Lands - Fort Lee Borough Parks and Rec Areas
+242 WHITEMAN ST.
+Small easement lot. BOROUGH OF FORT LEE
+3955
+242 BEVERLY HILLS RD
+Borough Owned. Continuation of ROW
+350 MAIN ST. &
+4151
+24
+ANDERSON A
+15C
+0.17
+Ambulance Corps. BOROUGH OF FORT LEE
+320 MAIN ST.
+1637 CENTER AVE.
+Small municipal parking lot.
+4253 | 5 | 1622 GEROME AVE.
+Municipal Parking Lot
+4355
+33 MAIN ST.
+| isc | 009 | Wooded. Borough Owned. Steep Slope greater than 15%
+4457 | | 2020 EDWIN AVE.
+N.J. DEPT. OF TRANSPORTATION/Steep Slope greater than 15%
+Constitution Park/Preserved Lands - Fort Lee Borough Parks and Rec Areas/Steep
+4551
+4
+2020 FLETCHER AVE.
+15C
+5.54
+Slope greater than 15%
+4651
+6 __| 326 GUNTZER ST.
+municipal parking lot adjacent to Town hall.
+3419 MAIN ST.
+4651
+309 MAIN ST.
+Town Hall. Historic Properties
+4651_|
+8 | 2033 CENTER AVE.
+4651_|
+9 | 2029 CENTER AVE.
+|15c_| 0.00 | municipalparkinglot
+aver | 2 |tc
+| 5.42 | Newly developed parking garage and USPS Building
+220 BRUCE REYNOLDS
+4751
+3
+BLVD.
+15C
+1.25
+PORT AUTHORITY OF NY & NJ/Contaminated Area - KCSL/CEA. Admin Building.
+4751 [24 | 225 MAIN ST.
+Newly Developed Park/Historic Properties
+4851.01
+183 MAIN ST.
+Park. BOROUGH OF FORT LEE/Contaminated Area
+- CEA
+4851.04 | 4.01 | 153 MAIN ST.
+Recently Developed Site. Contaminated Area - CEA
+iy
+%
+NEGLIA
+
+===== PAGE 38 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 38 of 47
+Trans ID: LCV20251881442
+| sioct | ict | prose tocaion | "ctss” | acres |
+Prop
+Location
+Class
+g
+Notes
+4855__|
+2.01 | 95 MAIN ST.
+Borough parking lot. Steep Slope greater than 15%
+N.J. DEPT. OF TRANSPORTATION/Contaminated Areas - Historic Fill
+2
+2089 LEMOINE AVE.
+15C
+PORT AUTHORITY OF NY & NJ
+5351
+1.01
+| 2089 HUDSON ST.
+15C
+PORT AUTHORITY OF NY & NJ
+5351
+2090 LEMOINE AVE.
+| 45c__| 0.10__| PORTAUTHORITY OF NY & NJ
+|5352_|
+1 | 2086 HUDSON ST.
+Admin Buildings. PORT AUTHORITY OF NY & NJ
+CENTRAL RD.& BRIDGE
+$353
+1
+PLAZA
+15C
+1.47
+Admin Buildings. PORT AUTHORITY OF NY & NJ
+BRUCE REYNOLDS BLVD.
+Roadway. PORT AUTHORITY OF NY & NJ
+2265 LEMOINE AVE.
+|15¢_|
+0.45 _| Youth Center/Steep Slope greater than 15%
+6353
+JONES RD.
+N.J. DEPT. OF TRANSPORTATION
+6353
+JONES RD.
+N.J. DEPT. OF TRANSPORTATION
+6652
+420 WESTVIEW PL.
+Westview Park/Preserved Lands - Fort Lee Borough Parks and Rec Areas
+|
+General Van Fleet Park/Preserved Lands - Fort Lee Borough Parks and Rec
+6755
+15
+2381 3RD ST.
+15C
+2.23
+Areas/Steep Slope greater than 15%
+Park. BOROUGH OF FORT LEE/Preserved Lands - Fort Lee Borough Parks and Rec
+6854
+1
+2300 6TH ST.
+15C
+1.20
+Areas
+| 6959 | 11 | 2423 1ST ST.
+Historical Property - Rambos Hotel
+| 7053 | 9.01 | WASHINGTON AVE.
+Steep Slope greater than 15%. Borough owned wooded lot.
+1__| EAST OF HUDSON TERR.
+ROS! Green Acres/Steep Slope greater than 15%
+7251
+2018 HUDSON TERR.
+Park. PALISADES INTERSTATE PARK COMM.
+2050 HUDSON TERR.
+Roadway. PORT AUTHORITY OF NY & NJ
+EASTOFHUDSONTERR. | 15C | 1.19 | ROSI Green Acres/Steep Slope greaterthan 15%
+|
+Park. PALISADES INTERSTATE PARK COMM./Preserved Lands - Fort Lee Borough
+7252
+3
+EAST OF HUDSON TERR.
+15C
+20.62
+Parks and Rec Areas/Steep Slope greater than 15%
+Park. PALISADES INTERSTATE PARK COMM./Wetlands/Habitat
+Locations/Preserved Lands - Fort Lee Borough Parks and Rec Areas/Steep Slope
+7252
+EAST OF HUDSON TERR.
+15C
+67.80
+greater than 15%/FEMA Flood Hazard Area/Contaminated Areas - Historic Fill
+Roadway Area. PALISADES INTERSTATE PARK COMM./Wetlands/Habitat
+Locations/Preserved Lands - Fort Lee Borough Parks and Rec Areas/Steep Slope
+7253
+4
+WEST OF LEMOINE AVE.
+15C
+14.37
+greater than 15%/Contaminated Areas - Historic Fill
+Roadway Area. PALISADES INTERSTATE PARK COMM./Wetlands/Habitat
+Locations/Preserved Lands - Fort Lee Borough Parks and Rec Areas/Steep Slope
+7254
+1
+WEST OF HUDSON TERR.
+15C
+20.23
+greater than 15%/Contaminated Areas - Historic Fill
+7255
+2150 HUDSON TERR.
+Roadway. PORT AUTHORITY OF NY & NJ
+Park. PALISADES INTERSTATE PARK COMM./Wetlands/Habitat
+Locations/Preserved Lands - Fort Lee Borough Parks and Rec Areas/Steep Slope
+7255
+2
+EAST OF HUDSON TERR.
+15C
+40.10
+greater than 15%/Contaminated Areas- Historic Fill
+IN
+37
+NEGLIA
+
+===== PAGE 39 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 39 of 47
+Trans ID: LCV20251881442
+[:Siook | OL prensa) (bootie Oped [Uaoeean | eV
+i dates cl men Someray
+Lot
+Prop
+Location
+Class__|
+Acreage
+Notes
+Park. PALISADES INTERSTATE PARK COMM./Wetlands/Habitat
+Locations/Preserved Lands - Fort Lee Borough Parks and Rec Areas/Steep Slope
+7255
+3__|
+EAST OF HUDSON TERR.
+15C
+41.27 __| greater than 15%/FEMA Flood Hazard Area/Contaminated Areas - Historic Fill
+Step 2 - Site Analysis
+The sites were mapped using GIS and overlaid with Critical Habitat, Steep Slopes, Flood Hazard, Wetlands,
+Historic or Architecturally Significant, Recreational, Parklands and Open Space (noted in green), and
+Waterbodies. Any properties impacted by these environmental constraints have been noted in the table
+above and were not considered for potential development.
+Properties with a low yield are noted in red.
+The Second Round Rules established by the Council of
+Affordable Housing in N.J.A.C. 5:93 required development potential to consider principles of sound land
+use
+planning
+in regard to density, and that the minimum presumptive
+density be 6 du/ac.
+In
+conformance with this requirement, the analysis used existing zoning densities to determine the number
+of units per acre that could be constructed. In cases where permitted density under the zoning ordinance
+did not meet the minimum presumptive density, the development potential was calculated at 6 units per
+acre. The acreage of the assemblages created were multiplied by the permitted number of units per acre
+to determine the property yield. All vacant assemblages whose yield was less than five units are noted in
+the table in red.
+Step 3 — Determining Yield for Property
+Upon reviewing the Vacant Land table and applying all of the layers which constitute an ineligible lot, the
+Borough was left with zero (0) remaining lots.
+Therefore, it was determined that any development of
+affordable units would have to be through means of redevelopment.
+Vacant Parcels with Environmental Constraints
+The maps illustrate the application of the above methodology to all parcels in the Borough to identify
+potentially developable vacant sites based on size and yield.
+Analysis of the sites (with the ability to produce 5 or more units at 6 du/acre) on the Inventory if Vacant
+Sites revealed that all of the vacant land within the Borough was environmentally constrained.
+IS
+8
+NEGLIA
+
+===== PAGE 40 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 40 of 47
+Trans ID: LCV20251881442
+Affordable Housing Key Terms
+COAH (Council on Affordable Housing)
+COAH was established by the Fair Share Housing Act in 1985 to facilitate and oversee the production of
+sound, affordable housing for low- and moderate-income households in the State of New Jersey.
+FSHC (Fair Share Housing Center)
+The Fair Share Housing Center is a New Jersey nonprofit organization and court-recognized affordable
+housing advocacy group. FSHC has historically been a player in affordable housing law and practice in
+New Jersey and has often been designated as an “interested party” by the Courts.
+First Round
+Refers to time frame between 1987 and 1993 and the associated fair share need obligations as
+determined by COAH during this time period. Colloquially, the first and second rounds are collectively
+referred to as the “Prior Round.”
+HEFSP (Housing Element and Fair Share Plan)
+Under NJ Municipal Land Use Law and the Fair Share Act, municipalities are required to include a housing
+element in the master plans. The primary purpose of a municipality's HEFSP is to (a) provide current
+information
+regarding the
+municipality's demographics,
+housing, and employment
+conditions,
+(b)
+describe the specific methods in which it will meet its low and moderate incoming housing obligations,
+and
+(c) demonstrate existing or planned zoning changes that will allow the municipality to provide
+opportunities for affordable housing access for present and future populations.
+Judgment of Compliance and Report (JOR)
+The process during the current Third Round, where municipalities seek approval of their HEFSPs. The JOR
+is the judicial equivalent of Substantive Certification from COAH.
+Present Need Obligation / Rehabilitation Share
+A municipality’s present need obligation, also called a rehabilitation share, refers to
+its number of
+deficient housing units currently occupied by low- and moderate-income
+households.
+Criteria
+for
+determining
+deficient
+housing
+includes
+pre-1960
+over-crowded
+units,
+incomplete
+plumbing,
+and
+incomplete kitchen facilities.
+Prior Round Obligation
+A municipality's Prior Round obligation refers to its affordable housing obligation from the First and
+Second Rounds (1987-1999).
+Prospective Need Obligation
+A municipality's prospective need obligation refers to its affordable housing obligation for the Third
+Round (1999-2025).
+Second Round
+Refers to the time frame between 1993 to 1999 and the associated fair share need obligations as
+determined by COAH during this time period. Colloquially, the first and second rounds are collectively
+referred to as the “Prior Round.”
+I
+*
+NEGLIA
+
+===== PAGE 41 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 41 of 47
+Trans ID: LCV20251881442
+Substantive Certification
+The process during the Prior Round where COAH approved a municipality's housing element and fair
+share plan in accordance with the provisions of the Fair Housing Act. A grant of substantive certification
+was valid for a period of six years.
+Third Round
+Initially, this was meant to refer to the timeframe between 1999 and 2008. Due to the NJ Appellate
+Division challenging and ultimately invalidating COAH’s Third Round rules in 2007 and 2010, the NJ
+Supreme Court subsequently declared COAH moribund in 2015 and ordered the courts to resume the
+role of evaluating municipal compliance with affordable housing obligations. The Third Round in practice,
+therefore, is now known to represent the timeframe between 1999 and 2025.
+Vacant Land Adjustment
+A municipality can conduct a vacant land adjustment to determine how much of an obligation
+it can
+realistically accommodate given the amount of developable land it has. When a vacant land adjustment is
+completed, the obligation is further divided into two categories based on the results: a municipality's
+unmet need (the amount of its obligation that it cannot realistically provide for) and a municipality's
+realistic development potential (the amount of its obligation that it can realistically provide for).
+iy
+*
+NEGLIA
+
+===== PAGE 42 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 42 of 47
+Trans ID: LCV20251881442
+Maps
+NW
+41
+NEGLIA
+
+===== PAGE 43 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 43 of 47
+Trans ID: LCV20251881442
+2
+—,
+jf ara
+_
+Sh
+—jae
+ota
+:
+ree dE
+BB HG
+NM
+ISA
+Qs
+A=
+Hike
+L  WSAUL!Le
+Vo
+at
+(ESaeeer
+x
+LAS)
+Ag)SN
+Al
+arenas ee
+aYe
+a
+|
+Sree
+CI ir) Vee
+|
+Hordal ty
+%
+rh
+Wem el eat r\
+ven
+I
+Re RAS
+SIG
+LY | |
+Ins
+|
+Ht!
+&e \
+“iwi
+mg ALL HUBeTEGEAe ae Wei gs
+cat SicSul
+4)
+Slo), 28
+oeOA
+aE
+see
+YAS VA
+=oan
+sees
+Fe ty
+=n aa
+\ ge 4
+4
+NLS Oo)
+ees 8
+ASSaly Woe —|
+)
+£826
+
+===== PAGE 44 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 44 of 47
+Trans ID: LCV20251881442
+“By array
+fii ie
+| See. Zi
+|el Sn
+MW \-3 Mh
+oa
+(i aia aess \eo
+i Sisto
+ee
+Misa
+a i
+Terk im\aN
+. as
+F
+Sian
+: \\\\ \\ \
+;
+‘ela |
+Bé
+; ened hela te
+\-
+ome
+|
+28
+
+===== PAGE 45 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 45 of 47
+Trans ID: LCV20251881442
+Loy
+fd
+he
+=
+R
+‘
+}
+8 ieee 7 \
+|
+1
+|
+\EYS =
+Sal
+i
+|
+ih
+|
+|
+\
+Bee3
+ocd
+7) an
+CE.
+|,
+Wee
+wel)
+tty
+sate
+talaEG?
+ee
+Bess | eit
+we
+ay 9
+at ai
+go Ss | iil
+BR\sGOMEY
+geekil PLENEair
+(esse) ie
+ive
+Wi,
+6 ¢
+Sy SS
+Psgo |
+iin
+SS ae oa GENt eA
+@ | thie :
+550
+4 1 et
+Ve aN
+j\—\-
+|
+\ as
+ete
+AWA
+\ ion GRAS IEE ae
+\ RNG ALY oN
+e
+}
+\\ Ha \\\\ aE]
+[
+“ig3
+et lO
+MyRy
+VSae
+DB Wallis
+OWS
+_&i
+8 acta
+3
+TN)se
+oh
+oat
+LSeee Sat Si
+;
+Hae eo
+4
+7
+es -a
+ia
+4
+o A\ ay
+le
+==
+ie
+P=)
+Fe
+MGSO
+pee eee Vw
+LS
+i a
+ees yA
+Ame
+|
+ele fe)
+|
+esa Se
+| 2 |
+| Fi 7]
+|
+; ry
+|
+F Central Blvd . AS KV \
+8
+He LL UOTE ie wh
+N\\]
+Bead
+[i Jip
+‘Vy
+Cee
+6 \ No
+\N
+3288
+| eat
+1
+KL z\\
+—
+ee 450
+ahah.
+Ue
+ee
+a
+S\N
+=:\\
+SS
+a
+2
+a
+| 6 & & &
+Be
+ANY
+ca et oun: \ D 3 £2.
+ol
+1
+Tl
+Wns
+}
+a0)
+eas
+\
+a>.
+| 4 a a
+2
+COPS sre \A
+BBE: oS eae\
+ogee
+eer ee cet
+CD,Cr
+sa)
+|
+
+===== PAGE 46 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 46 of 47
+Trans ID: LCV20251881442
+eS) ll
+u Li ||
+I\
+4
+Fiery | \ i
+s Low
+Lo
+Nl
+fi ieeemaT
+g 882
+2
+BOL
+_10D LIE
+(E@zsS | a hit
+Van
+\ GF (<4 Elavieliay
+-
+a
+‘ [|
+| 4S §i5c
+ey aa
+| ee ee
+T= =
+\
+i
+BOE 3 > ¥ i ft
+AM\
+geo \
+R
+ih i2\ ‘\ Yel Pe / [2]
+f
+\\ Spay Vesa
+wens
+3 BN aXe
+|
+|
+\ LIne a
+\
+\ SSN a eles) ee
+aw
+| A anny ena WM
+seh
+re, See LsVe
+tia.
+ee
+\\
+HON Taeme a ‘
+Ji)
+HW!
+»
+ASIN
+AGS
+\
+At
+=
+teste
+IL LI
+{ | i % i -| /
+| =
+}
+isrec
+I F i | WY
+| [ in
+i ii
+ia (eo
+| WA Pai
+|
+Bal
+il
+|g
+i
+Ti
+ie
+Central
+Blvd
+SONS
+|
+Pe
+SSe UP Ay WS vsear mac nites MIE
+
+===== PAGE 47 =====
+BER-L-000399-25
+06/27/2025 3:04:08 PM
+Pg 47 of 47
+Trans ID: LCV20251881442
+Wy 4
+cee iAT.yi
+| ‘¥
+825 z
+rth
+on =
+p
+il
+oe
+Hi
+<a
+NTgly
+ean
+|
+\RSSAU] | Be
+ot
+Ae
+\
+a Se 28 ne
+\rai ,
+| TT] SC
+= <a, Aa
+\
+ie
+AI
+v ) AWG RHI
+i
+ees
+We
+VWajetes Ee be yee)
+:
+REN acces ane
+|
+Ch
+1
+1317
+imei
+Centralivi W ‘a
+g
+BQ
+|
+i}
+i
+¥
+=
+lonnat
+¥
+<
+g Ecol SY
+ar a \ \ 0 ies
+AY S ae
+i
+LEIa WN. ony eiquinjos ‘ene SA)
+i
+ZF
+H
+ike ia log
+7 - wa
+:
+!
+:en
+Behe

@@ -1,0 +1,5162 @@
+SOURCE_URL: https://library.njcourts.gov/files/civil/affordable-housing/bergen/franklin-lakes-boro/62025FranklinLakesFourthRoundHEFSPADOPTED.pdf?VersionId=0s40Y1eJh1EEYquLCmcvDPDbFrDvPvdC
+
+===== PAGE 1 =====
+2025 FOURTH ROUND
+HOUSING PLAN 
+HOUSING ELEMENT & FAIR SHARE PLAN 
+FRANKLIN LAKES BOROUGH 
+BERGEN COUNTY 
+NEW JERSEY 
+ADOPTED BY THE PLANNING BOARD  
+June 19, 2025
+PREPARED BY: 
+____________________________ 
+ELIZABETH MCMANUS, PP, AICP, LEED AP 
+NEW JERSEY PROFESSIONAL PLANNER LICENSE 5915 
+KYLE + MCMANUS ASSOCIATES 
+A SIGNED AND SEALED ORIGINAL IS ON FILE WITH THE BOROUGH CLERK 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 1 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 2 =====
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+BOROUGH PLANNING BOARD 
+Michael Ochs, Chair 
+Steven Klenk, Vice Chair 
+Robert Adams 
+Frank Conte 
+Patrick Hunter 
+Charles J. X. Kahwaty, Mayor 
+Joseph Pullaro 
+Constantine Skamas, Council Person 
+Brenda Cristiano, Alternate #1 
+Tomas Diaz, Alternate #2 
+Diane Lilienthal, Board Secretary 
+Mark D. Madaio, Esq. (Mark Madaio Law Office), Board Attorney 
+Eileen Boland, PE (Boswell Engineering), Borough Engineer 
+BOROUGH COUNCIL 
+Charles J. X. Kahwaty, Mayor 
+Gary Sheppard, Council President 
+Joel Ansh, Councilmember 
+Ardith Cardenas, Councilmember 
+Michele DeLuccia, Councilmember 
+Gail A. Kelly, Councilmember 
+Constantine Skamas, Councilmember 
+Gail M. Rulli, RMC, Borough Clerk 
+Gregory C. Hart, CPM, QPA, Borough Administrator 
+William Smith, Esq. (Smith, Crotty, Meyer and Bruins), Borough Attorney  
+Michael Edwards, Esq. (Surenian, Edwards & Nolan), Borough Affordable Housing Attorney 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 2 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 3 =====
+BOROUGH OF FRANKLIN LAKES, BERGEN 
+COUNTY FOURTH ROUND HOUSING PLAN  
+TABLE OF CONTENTS 
+Introduction & Executive Summary ............................................................................................................. 1 
+Affordable Housing in New Jersey ................................................................................................................ 3 
+The Compliance Process ........................................................................................................................... 6 
+Affordability Requirements ...................................................................................................................... 7 
+Overview of Compliance Requirements ................................................................................................... 8 
+Affordable Housing in Franklin Lakes ......................................................................................................... 10 
+Consideration of Lands Most Appropriate for Affordable Housing ............................................................ 12 
+Opportunity for Multigenerational Housing .............................................................................................. 13 
+Demographic, Housing & Employment Analysis ........................................................................................ 13 
+Affordable Housing Obligation & Satisfaction ............................................................................................ 13 
+Rehabilitation Obligation & Satisfaction ................................................................................................ 13 
+First & Second Rounds Obligation .......................................................................................................... 15 
+Third Round Obligation .......................................................................................................................... 15 
+Fourth Round Obligation ........................................................................................................................ 15 
+Vacant Land Adjustment ........................................................................................................................ 16 
+Satisfaction of the RDP ........................................................................................................................... 17 
+Satisfaction of the Unmet Need ............................................................................................................. 23 
+Consistency with the State Development and Redevelopment Plan ......................................................... 27 
+Affordable Housing Administration & Affirmative Marketing .................................................................... 27 
+Affordable Housing Trust Fund .................................................................................................................. 28 
+Appendices 
+1.
+Housing, Demographic & Employment Analysis
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 3 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 4 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 1 
+INTRODUCTION & EXECUTIVE SUMMARY 
+Since the 1975 New Jersey Supreme Court decision known as “Mount Laurel I,” New Jersey municipalities 
+have had a constitutional obligation to provide opportunities for creation of low and moderate housing 
+homes. This 1975 decision led to a body of case law, legislative changes and rulemaking by a state agency 
+that, collectively, is now referred to as the “Mount Laurel Doctrine”. Through these actions, New Jersey 
+municipalities have been assigned a specific number of affordable homes that must be created or planned 
+for creation to have “satisfied” their constitutional obligation, referred to as their affordable housing 
+obligation. The purpose of this Housing Element and Fair Share Plan (hereinafter the “Plan”) is to present 
+how Franklin Lakes Borough will satisfy its constitutional obligation.   
+Affordable housing in New Jersey is defined as homes that are reserved for households with incomes not 
+more than 80% of the regional median income. Each affordable home, depending on the age and type of 
+housing, must remain reserved for low and moderate income households for up to 40 years and it is 
+typically enforced by a deed restriction. Each affordable home is eligible for one “credit” against the 
+obligation and certain homes are eligible for “bonus credits,” which provide more than one credit per 
+home. In addition to providing the minimum number of credits, municipalities must ensure diversity in 
+the home type (at least half of the homes must be available to families and the remaining may be reserved 
+for seniors and those with special needs), diversity in the level of affordability (very low, low and moderate 
+income homes), and diversity in the size of affordable homes (one, two and three bedroom homes).  
+Participation in this process, and therefore satisfaction of the affordable housing obligation, can be 
+achieved voluntarily or involuntarily. However, voluntary compliance is heavily incentivized. 
+Municipalities that do not successfully participate may be vulnerable to exclusionary zoning litigation, 
+which is defined as litigation based on alleged noncompliance with the Fair Housing Act, or the Mount 
+Laurel doctrine, and includes builder’s remedies. A builder’s remedy is a litigation tool that grants a 
+developer the right to construct what is typically a multi-family development on land that was not zoned 
+to permit the use or the residential density desired by the developer, provided a “substantial” percentage 
+of the homes are reserved for low and moderate income households. Franklin Lakes seeks to avoid this 
+possibility and has already taken substantial steps to do so.  
+This Plan supersedes all previously adopted housing plans and will serve as the foundation for the 
+Borough’s application filing with the New Jersey Affordable Housing Dispute Resolution Program and the 
+request for a Compliance Certification. 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 4 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 5 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 2 
+As detailed in this Plan, the Borough – like all New Jersey municipalities – has four components of its 
+affordable housing obligation. Each component of the Borough’s obligation is identified below.  
+§
+Rehabilitation Obligation: 65
+The rehabilitation obligation can be defined as an estimate of the number of deteriorated homes
+existing in Franklin Lakes that are occupied by low- and moderate-income households. This
+component is also referred to as the “present need”.
+§
+First & Second Rounds Obligation: 358
+The first and second rounds obligation can be defined as the cumulative 1987 through 1999 new
+construction affordable housing obligation. This component is also referred to as the “prior
+round” obligation.
+§
+Third Round Obligation: 709
+The third round obligation can be defined as the 1999 through 2025 new construction affordable
+housing obligation.
+§
+Fourth Round Obligation: 480
+The fourth round obligation can be defined as the 2025-2035 new construction affordable housing
+obligation. The current round of affordable housing, now the fourth round, is also referred to as
+the “prospective need”.
+The Borough’s rehabilitation obligation will be satisfied through participation in the Bergen County 
+Housing Improvement Program. 
+Vacant land adjustments are a compliance tool for municipalities whose obligations are outsized as 
+compared to the availability of developable land. The Borough received a vacant land adjustment for the 
+previous rounds and continues the adjustment in the fourth round. The adjustment results in a realistic 
+development potential (hereinafter “RDP”) and an unmet need. The RDP represents the portion of the 
+new construction affordable housing obligation that can theoretically be addressed with inclusionary 
+development (defined as a mix of market and affordable homes) on lots identified as being developable 
+in the vacant land analysis. The unmet need is calculated as the difference between the total obligation 
+and the RDP.  
+The Borough’s vacant land adjustment for the first, second and third rounds has an RDP of 445. There is 
+no additional RDP attributable to the fourth round.  
+The Borough’s RDP will be satisfied with a  combination of existing and planned inclusionary development 
+and 100% affordable housing development. The unmet need is satisfied with overlay zoning throughout 
+the Borough that promotes inclusionary development.   
+Adoption of this Housing Element and Fair Share Plan and complete implementation of the strategies 
+described above to meet the affordable housing obligation will yield a Compliance Certification and 
+protect the Borough from builder’s remedy litigation through July 2035, the maximum time available.  
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 5 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 6 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 3 
+AFFORDABLE HOUSING IN NEW JERSEY 
+In its landmark 1975 decision, now referred to as “Mount Laurel I,” the NJ Supreme Court ruled that 
+developing municipalities have a constitutional obligation to provide variety and choice of housing types 
+affordable to low- and moderate-income households. In its 1983 “Mount Laurel II” decision, the NJ 
+Supreme Court extended the regional fair share obligation to all municipalities with any “growth area” as 
+designated in the State Development Guide Plan (NJDCA 1978) and determined that each municipality 
+would have to establish its fair share obligation and provide zoning strategies to create a realistic 
+opportunity for fulfilment of the fair share obligation. Mount Laurel II also gave developers, under 
+appropriate circumstances, the opportunity to secure a builder’s remedy. A builder’s remedy is a litigation 
+tool that grants a developer the right to develop what is typically a multi-family development on land that 
+was not zoned to permit the use or the residential density desired by the developer, provided a 
+“substantial” percentage of the homes are reserved for low and moderate income households. Franklin 
+Lakes seeks to avoid this possibility and has already taken substantial steps to do so. 
+In 1985, the Legislature enacted the Fair Housing Act in response to Mount Laurel II. The Fair Housing Act 
+created the Council on Affordable Housing (hereinafter “COAH”) as an administrative alternative to 
+compliance in a court proceeding. The Legislature conferred “primary jurisdiction” on COAH and charged 
+COAH with promulgating regulations to establish housing regions, to estimate the state’s low- and 
+moderate-income housing needs, set criteria and guidelines for municipalities to determine and satisfy 
+their affordable housing obligation, and to create a process for the review and approval of appropriate 
+housing elements and fair share plans. Approval of a municipal housing element and fair share plan by 
+COAH was referred to as “substantive certification” and it provided protection from builder’s remedy 
+litigation during the period which the housing element and fair share plan addresses (i.e. the round).  
+COAH created the criteria and guidelines for municipalities to determine and address their respective 
+affordable housing obligation. COAH originally established a formula for determining municipal affordable 
+housing obligation for the six-year period between 1987 and 1993 (N.J.A.C. 5:92-1 et seq.), which became 
+known as the “first round.” These rules established the first round rehabilitation obligation (also referred 
+to as the “present need”) and the first round new construction obligation.  
+The first round formula was superseded by COAH regulations in 1994 (N.J.A.C. 5:93-1.1 et seq.). The 1994 
+regulations recalculated a portion of the first round 1987-1993 affordable housing obligations for each 
+municipality and computed the additional municipal affordable housing need from 1993 to 1999 using 
+1990 U.S. Census data. The regulations COAH adopted in 1994 to identify a municipality’s “cumulative” 
+obligations for the first and second rounds are known as “the second round” regulations. Under 
+regulations adopted for the third round, the obligation of municipalities to create new affordable housing 
+for the first and second rounds was referred to as the “prior round” obligation.  
+On December 20, 2004, COAH’s first version of the third round rules became effective some five years 
+after the end of the second round in 1999. At that time, the third round was defined as the time from 
+1999 to 2014 but condensed into an affordable housing delivery period from January 1, 2004 through 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 6 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 7 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 4 
+January 1, 2014. The third round rules marked a significant departure from the methods utilized in COAH’s 
+earlier rounds by creating a “growth share” approach that linked the production of affordable housing to 
+residential and non-residential development within a municipality.   
+The growth share approach and the rules in which it was created, was the subject to significant litigation 
+and was ultimately overturned by the New Jersey Appellate Court. On January 25, 2007, the New Jersey 
+Appellate Court decision, In re Adoption of N.J.A.C. 5:94 and 5:95, 390 N.J. Super. 1, invalidated key 
+elements of the first version of the third round rules, including the growth share approach. COAH issued 
+revised rules on June 2, 2008 (as well as a further rule revision effective on October 20, 2008). Included in 
+the 2008 rules was a recalculation of the cumulative first and second rounds obligation to account for 
+updated data addressing secondary sources (filtering, demolitions, and residential conversions).  Just as 
+various parties challenged COAH’s initial third round regulations, parties challenged COAH’s 2008 revised 
+third round rules. On October 8, 2010, the Appellate Division issued its decision, In re Adoption of N.J.A.C. 
+5:96 and 5:97, 416 N.J. Super. 462, with respect to the challenge to the second iteration of COAH’s third 
+round regulations. The Appellate Division upheld the COAH regulations that assigned rehabilitation and 
+first and second rounds obligations to each municipality but invalidated the regulations by which the 
+agency assigned housing obligations in the third round, finding that the Agency continued to utilize a 
+growth share approach, albeit an amended approach.  
+COAH sought a stay from the NJ Supreme Court of the deadline to issue new third round housing rules set 
+forth by the Appellate Division. Additionally, there were various challenges to the Appellate Division’s 
+2010 decision. On September 26, 2013, the NJ Supreme Court upheld the Appellate Court decision in In 
+re Adoption of N.J.A.C. 5:96 and 5:97 by New Jersey Council On Affordable Housing, 215 N.J. 578 (2013), 
+and ordered COAH to prepare the necessary rules. Subsequent delays in COAH’s rule preparation and 
+ensuing litigation led to the NJ Supreme Court, on March 14, 2014, setting forth a schedule for adoption.  
+Although ordered by the NJ Supreme Court to adopt revised new rules on or before October 22, 2014, 
+COAH deadlocked 3-3 at its October 20th meeting and failed to adopt the draft rules it had issued on April 
+30, 2014. In response, Fair Share Housing Center (hereinafter “FSHC”) filed a motion in aid of litigant’s 
+rights with the NJ Supreme Court.  
+On March 10, 2015, the NJ Supreme Court issued a ruling on the Motion In Aid of Litigant’s Rights (In re 
+Adoption of N.J.A.C. 5:96 & 5:97, 221 NJ 1, aka “Mount Laurel IV”). This long-awaited decision provided a 
+new direction for how New Jersey municipalities were to comply with the constitutional requirement to 
+provide their fair share of affordable housing. The Court transferred responsibility to review and approve 
+housing elements and fair share plans from COAH to designated Mount Laurel trial judges. The implication 
+was that municipalities were required to apply to Superior Court with a Declaratory Judgement Action, 
+instead of to COAH, if they wished to be protected from exclusionary zoning litigation, including builder’s 
+remedy. These trial judges, with the assistance of an appointed Special Adjudicator to the Court, reviewed 
+municipal plans much in the same manner as COAH previously did.  
+While the NJ Supreme Court’s decision set a process in motion for towns to address their third round 
+obligations, it did not assign those obligations. Instead, the task was completed by the trial courts. 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 7 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 8 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 5 
+However, the NJ Supreme Court did direct that the method of determining municipal affordable housing 
+obligations were to be “similar to” the methodologies used in the first and second round rules and 
+municipalities should rely on COAH’s 1993 second round rules (N.J.A.C. 5:93) and certain components of 
+COAH’s 2008 regulations that were specifically), as well as the Fair Housing Act (N.J.S.A. 52:27D – 301 et 
+seq.), in their preparation of third round housing elements and fair share plans. 
+FSHC, a public interest advocacy organization in New Jersey devoted exclusively to promoting the 
+production of housing affordable to low and moderate income households, was permitted to serve as an 
+interested party in every municipal Declaratory Judgment Action. In this role the organization calculated 
+municipal affordable housing obligations and offered to settle with municipalities. Such settlements 
+addressed the municipal affordable housing obligation, compliance strategies and other terms intended 
+to promote affordable housing production. Most municipalities that filed a Declaratory Judgment Action 
+settled with FSHC, finding it to be in their best interest. The typical alternative to settlement with FSHC 
+was conducting a trial in Superior Court to determine the municipal affordable housing obligation.  
+In addition to the State agency activity and judicial decisions through 2015, the New Jersey Legislature 
+amended the Fair Housing Act in  2008 (P.L. 2008, c. 46, often referred to as the “Roberts Bill”, or “A500”). 
+This amendment established a statewide 2.5% nonresidential development fee, prohibited new regional 
+contribution agreements (hereinafter “RCAs”), required that 13% of all new affordable homes be 
+restricted to very low income households (30% of median income), and added a requirement that 
+municipalities had to commit to spend development fees within four (4) years of the date of collection. 
+Additionally, the Fair Housing Act was amended in 2013 (P.L. 2013, c. 6) to permit municipalities to enter 
+into an agreement with a developer or development owner to provide a preference for veterans who 
+served in time of war or other emergency to occupy up to 50% of the affordable homes in a particular 
+development. The preference is applicable to the first 90 of the 120 days of initial marketing and 
+thereafter may on a special waiting list for future available affordable homes in the development. These 
+amendments to the Fair Housing Act are not promulgated in any valid COAH regulations.  
+On March 20, 2024, an amendment to the Fair Housing Act was adopted (P.L. 2024, c.2.). This amendment 
+creates significant changes to the fourth round of affordable housing, and all subsequent rounds. Such 
+changes include the process in which municipalities obtain protection from builder’s remedy litigation – 
+including but not limited to the elimination of COAH and the creation of the Affordable Housing Dispute 
+Resolution Program, the methodology to calculate municipal prospective need obligations, and the 
+administration of affordable homes. However, the Fair Housing Act does not create or direct the creation 
+of new rules that would provide further guidance, instead it states municipalities shall rely on rules 
+adopted by COAH, unless contradicted by statute or binding court decisions, for municipal crediting, 
+adjustments and compliance strategies. One notable example of contradiction is the generation of and 
+use of bonus credits. See the sections that follow for additional information regarding this amendment to 
+the Fair Housing Act. 
+The Affordable Housing Dispute Resolution Program (hereinafter the “Program”) is a program within the 
+judiciary made up of an odd number of Judges with a minimum of 3 and not to exceed 7.  The Program, 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 8 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 9 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 6 
+in its discretion and in accordance with Rules of Court, may consult or employ services of one or more 
+special adjudicators or staff to assist it in rendering determinations, resolving disputes, and facilitating 
+communication among municipalities and interested partes. The Program is responsible for reviewing 
+municipal affordable housing obligations, housing plans, and conducting mediation. However, final 
+determinations of compliance, disputes, and other issues, as well as Court orders may only be issued by a 
+County-level housing judge.  
+In addition to changes addressing the compliance process and elimination of COAH, the amendment also 
+revised minimum affordability controls for rental homes from 30 years to 40 years and those for extension 
+of affordability controls from 30 years to as little as 20 years, provided the total control period is not less 
+than 60 years. It also created new roles for the Department of Community Affairs (hereinafter “DCA”), 
+including calculation of non-binding rehabilitation and prospective need affordable housing obligations, 
+oversight and adoption of rules regulating municipal affordable housing trust funds, municipal housing 
+liaisons and affordable housing administrative agents, as well as oversight of affordable housing 
+administration. The amendment also directed the New Jersey Housing and Mortgage agency to revise the 
+Uniform Housing Affordability Control Rules (N.J.A.C. 5:80-26.1 et seq.).   
+The Compliance Process 
+The first step in a municipality’s compliance process is to establish the affordable housing obligation. The 
+first, second and third round obligations are already established by COAH or Superior Court, as applicable. 
+Only the rehabilitation obligation and current prospective need, the fourth round obligation, are subject 
+to the determination.  
+The methodology and formulas each municipality must rely upon to determine its rehabilitation, and 
+fourth round obligation (as well as subsequent round obligations) are set forth within N.J.S.A. 52:27D-
+304.1 thru -304.3 of the Fair Housing Act.  The March 8, 2018 unpublished decision of the Superior Court, 
+Law Division, Mercer County, In re Application of Municipality of Princeton (“Jacobson Decision”) is also 
+to be referenced as to datasets and methodologies that are not explicitly addressed in N.J.S.A. 52:27D-
+304.3. Notwithstanding the methodology set forth in the Fair Housing Act, the Act also required the DCA 
+to release a non-binding report calculating  obligations for each municipality in the State.  
+The following provides an overview of the process and deadlines associated with the fourth round. 
+§
+Establishing the Affordable Housing Obligation
+§
+October 20, 2024:  DCA Regional and Municipal Fair Share Obligation Report Issued.
+§
+January 31, 2025:  Deadline for municipalities to adopt a binding resolution committing
+to the affordable housing obligation and seeking a Compliance Certification through
+participation in the Program.
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 9 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 10 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 7 
+§
+February 28, 2025: Deadline for an interested party to challenge the municipality’s
+determination of its obligation to the Program.  It shall apply “an objective assessment
+standard”.
+§
+March 1, 2025:  The municipality’s determination of its obligation will be established by
+default if no challenge.
+§
+March 31, 2025: The Program must issue a decision on the obligation challenge.
+§
+Obtaining a Compliance Certification
+§
+June 30, 2025: Municipality shall adopt a Housing Plan and propose drafts of ordinances
+and resolutions to implement the plan.
+§
+August 31, 2025:  Deadline for an interested party to file a challenge of the Housing Plan
+with the Program.  If no challenge by this date the Program will begin review of the
+Housing Plan for consistency with the FHA.
+§
+December 31, 2025: Deadline for a municipality to settle any challenge or provide an
+explanation as to why it will not make all, or some of the changes brought by the
+challenge.
+§
+March 15, 2026:  Municipality to amend the Housing Plan and implement the agreed upon
+revisions resulting from a challenge and adopt all pertinent ordinances.  The Housing Plan
+and adopted ordinances shall be immediately filed with the Program.
+§
+Ongoing Compliance
+§
+Midpoint (2030):  Action by municipality or interested party filed to seek a realistic
+opportunity review of any developments that have not moved forward.
+Affordability Requirements 
+Affordable housing is defined under New Jersey’s Fair Housing Act as a dwelling, either for sale or rent, 
+that is within the financial means of households of low- or moderate-income, as is measured within each 
+housing region. Franklin Lakes is in Region 1, which includes Bergen, Passaic, Hudson, Sussex counties. 
+Moderate-income households are those with annual incomes greater than 50%, but less than 80% of the 
+regional median income. Low-income households are those with annual incomes that are 50% or less than 
+the regional median income. Very low-income households are a subset of “low-income” households and 
+are defined as those with incomes 30% or less than the regional median income.  
+The Uniform Housing Affordability Controls (hereinafter “UHAC”) at N.J.A.C. 5:80-26.3(d) and (e) requires 
+that the maximum rent for a qualified home be affordable to households with incomes 70% or less than 
+the median income for the region, provided the development includes 13% or more very low income 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 10 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 11 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 8 
+homes. The average rent must be affordable to households with incomes no greater than 52% of the 
+median income. The maximum sale prices for affordable homes must be affordable to households with 
+incomes 70% or less than the median income. The average sale price must be affordable to a household 
+with an income of 55% or less than the median income.  
+The regional median income is defined using the federal income limits established by Department of 
+Housing and Urban Development (hereinafter “HUD”) on an annual basis. In the spring of each year, HUD 
+releases updated regional income limits, and it is from these income limits that the rents and sale prices 
+for affordable homes are derived. The following table reflects the 2025 affordable housing regional 
+income limits for Region 1. 
+2025 Income Limits for Region 1 (Bergen, Passaic, Hudson, Sussex counties) 
+Household Income 
+Levels 
+1-Person
+Household 
+2-Person
+Household 
+3-Person
+Household 
+4-Person
+Household 
+5-Person
+Household 
+Median 
+$89,100 
+$101,800 
+$114,500 
+$127,200 
+$137,400 
+Moderate 
+$71,280 
+$81,440 
+$91,600 
+$101,760 
+$109,920 
+Low 
+$44,550 
+$50,900 
+$57,250 
+$63,600 
+$68,700 
+Very Low 
+$26,730 
+$30,540 
+$34,350 
+$38,160 
+$41,220 
+Source: UHAC 2025 Affordable Housing Regional Income Limits by Household Size, Last updated May 5, 2025, by New Jersey Housing and 
+Mortgage Finance Agency (NJHMFA). 
+Overview of Compliance Requirements 
+There are extensive requirements that municipalities must ensure their affordable housing strategies 
+satisfy to be eligible for a Compliance Certification. Furthermore, those requirements vary by round. The 
+following provides a brief and summarized overview of the requirements.  
+§
+Rental Obligation.  Not less than 25% of the affordable homes addressing the obligation of a round
+must be for rent.
+§
+Family Obligation. Not less than 50% of affordable homes addressing the obligation of a round
+must be available to families, meaning they are not restricted to a particular population.  This
+obligation does not apply to the first and second rounds.
+§
+Family Rental Obligation. Not less than 50% of the homes meeting the rental obligation of a round
+must be available to families, meaning they are not restricted to a particular population. This
+obligation does not apply to the first and second rounds.
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 11 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 12 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 9 
+§
+Senior Maximum. Up to 30% of affordable homes addressing the obligation of a round may be
+reserved for seniors. The maximum was 25% for the first, second and third rounds.
+§
+Income Distribution of Affordable Homes
+§
+Very Low Income Obligation. Not less than 13% of affordable homes created or approved
+on or after July 1, 2008 must be reserved for very low income households (30% or less
+than the regional median income). Very low income homes are a subset of low income
+homes.
+§
+Family Very Low Income Obligation. Not less than 50% of the homes meeting the very low
+income obligation must be available to families, meaning they are not restricted to a
+particular population.
+§
+Low Income Obligation. Not less than 50% of affordable homes in any development must
+be reserved for low income households (50% or less than the regional median income,
+which includes very low income homes). The remaining may be available to moderate
+income households (51-80% of regional median income).
+§
+Bedroom Distribution of Affordable Homes
+§
+The total bedrooms within the affordable homes in any development must be not less
+than twice the number of affordable homes. This requirement does not apply to the first,
+second or third round.
+§
+Studio and 1-bedroom Homes. Not more than 20% of homes in any development.
+§
+2-bedroom Homes. Not less than 30% of homes in any development.
+§
+3-bedroom Homes. Not less than 20% of homes in any development.
+§
+The above requirements do not apply to special needs housing or senior housing.
+§
+Senior developments are subject to a modified bedroom distribution such that the total
+bedrooms within the affordable homes must be not less than the number of affordable
+homes.
+§
+Senior and supportive housing developments with 20 or more affordable homes shall
+have not less than 5% 2-bedroom and 3-bedroom affordable homes. This requirement
+does not apply to the first, second or third round.
+§
+Bonus Credits
+§
+No more than 25% of the obligation for each round.
+§
+Only one type of bonus credit may be applied to a home.
+§
+Rental bonus credits (1.0) are only applicable to the first, second and third rounds.
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 12 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 13 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 10 
+§
+The following home types are eligible for 1.0 bonus credit in the fourth round.
+§
+Supportive and special needs. Note that special needs often receive credit for
+each bedroom.
+§
+Market to affordable (conversion of a market rate home to an affordable home).
+§
+100% affordable developments: Homes within 100% development provided the
+municipality the land or a minimum of 3% of the development costs.
+§
+The following affordable home types are eligible for 0.5 bonus credit in the fourth round.
+§
+Partnership with non-profit.
+§
+Proximity to transit: homes within ½ mile of transit (rail, bus, ferry).
+§
+Senior: limited to 10% of the affordable age-restricted homes provided which is
+capped at 30% of the obligation.
+§
+Homes with at least three bedrooms above the minimum number required by the
+bedroom distribution.
+§
+Redevelopment for homes on land that was previously utilized for retail, office or
+commercial use.
+§
+Extension of affordability controls on rental housing only, provided the
+municipality funds the cost for the preservation.
+§
+Very Low-Income homes above the 13% required.
+AFFORDABLE HOUSING IN FRANKLIN LAKES 
+Franklin Lakes was subject to an exclusionary zoning lawsuit in 1999 brought by University Heights, LLC 
+and Colonial Road Associates (now referred to as Colonial Pointe) that placed the Borough under 
+jurisdiction of Superior Court. On August 27, 2001, Franklin Lakes prepared and submitted to the Court a 
+draft second round Housing Element and Fair Share Plan. This 2001 Housing Element and Fair Share Plan 
+requested a vacant land adjustment of its 358 first and second rounds obligation. By Order of Remand, 
+dated December 13, 2001, by Honorable Judge Jonathan N. Harris, J.S.C. ordered the Borough to revise 
+the Plan to incorporate various changes requested in hearings in October of that year. The Borough 
+amended the Plan and submitted additional documentation accordingly. The Borough received a second 
+round Judgement of Repose on September 27, 2002.  
+The 2002 Judgement of Repose granted the Borough a vacant land adjustment that reduced its 358 first 
+and second rounds round new construction obligation to a realistic development potential (RDP) of 109, 
+with a 249 unmet need. Additionally, the Judgment of Repose approved the manner in which the Borough 
+proposed to satisfy its obligation. 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 13 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 14 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 11 
+On November 19, 2008 Franklin Lakes Borough adopted a third round housing element and fair share plan 
+addressing its third round fair share obligation. On December 30, 2008 Franklin Lakes Borough petitioned 
+COAH for substantive certification of the 2008 plan. On May 20, 2009, COAH determined the Borough’s 
+third round petition for third round substantive certification to be complete.  On July 20, 2010, COAH 
+issued a Pre-Mediation report on the 2008 plan. On October 8, 2010, before the Borough could address 
+COAH’s Pre-Mediation Report, the Appellate Division decided the challenges to COAH’s third round rules 
+(In re Adoption of N.J.A.C. 5:96 and 5:97, 416 N.J. Super. 462 (App. Div. 2010)). This decision invalidated 
+COAH’s key portions of the second iteration of the Round 3 regulations upon which the Borough based 
+the 2008 plan. 
+Upon the April 2014 release of COAH’s draft substantive and procedural rules, N.J.A.C. 5:99 and N.J.A.C. 
+5:98 respectively, the Borough began planning for how best to provide its fair share of affordable housing. 
+To comply with the March 10, 2015 Mt. Laurel IV decision, Franklin Lakes petitioned the Superior Court 
+on July 2, 2015 for a Declaratory Judgment and temporary immunity from builder’s remedy suits. This 
+action entered the Borough into the process of determining its affordable housing obligation and how it 
+would be satisfied. Additionally, the Borough later received immunity from builder’s remedy litigation 
+while doing so.  
+Three parties intervened in the Borough’s Declaratory Judgment: 724 Franklin Avenue, LLC, Sunrise 
+Development, LLC, and Franklin Manor Properties, LLC. Both 724 Franklin Avenue, LLC and Sunrise 
+Development, LLC intervened to seek development of Block 1424.01, Lots 1, 2, 5, 6, 7 & 8. Franklin Manor 
+Properties, LLC intervened to seek development of 1518, Lot 10 and Block 1519, Lot 1. The Borough later 
+reached a settlement agreement with all three intervenors.   
+To avoid a lengthy trial on the Borough’s affordable housing obligation and, potentially, a second trial on 
+how that obligation would be satisfied, Franklin Lakes and FSHC came to terms in an October 3, 2018 
+Settlement Agreement that set forth the Borough’s affordable Housing obligation and preliminary 
+compliance plan. This Settlement Agreement and those with the intervenors were approved by the 
+Honorable Christine A. Farrington, J.S.C. on January 9, 2019.   
+The 2019 Housing Plan was prepared consistent with the 2018 Settlement Agreement between Borough 
+of Franklin Lakes and Fair Share Housing Center (hereinafter “FSHC”) , as well as Sunrise Development, 
+LLC and Franklin Major Properties, LLC. The 2019 Housing Plan was the subject of a Compliance Hearing 
+that resulted in the Borough receiving a Final Judgment of Compliance and Repose, issued by the Hon. 
+Christine A. Farrington, J.S.C. and dated June 26, 2019.  
+As a result of SHG Franklin Lakes, LLC seeking inclusionary development on the former corporate campus 
+referred to as the Cigna site and located at 400 Parsons Pond Road, Block 2607 Lot 1, the Borough entered 
+into a Settlement Agreement with SHG Franklin Lakes, LLC on April 18, 2023 that was later Amended and 
+Restated on August 24, 2023 (hereinafter the “2023 SHG Settlement Agreement”). The 2023 SHG 
+Settlement Agreement creates an opportunity for a mixed-use inclusionary development at the Parsons 
+Pond site. Additionally, the 2023 SHG Settlement Agreement provides a 3.5 acre dedication of land for 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 14 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 15 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 12 
+the Borough to replace the “McCoy Road” 100% affordable housing site, a third round affordable housing 
+development that could not come to fruition. Additionally, the Borough entered into an Amended 
+Settlement Agreement with Fair Share Housing Center on August 24, 2023 (hereinafter the “2023 FSHC 
+Settlement Agreement”) that amends portions of the Borough’s 2018 Settlement Agreement with the 
+organization. The 2023 Settlement Agreements were approved by the Hon. Christine A. Farrington, J.S.C. 
+via an Order dated November 2, 2023. 
+The Borough adopted a 2023 Amendment to the 2019 Housing Plan that incorporated the terms of the 
+2023 SHG Settlement Agreement and the 2023 FSHC Settlement Agreement. This Housing Plan was 
+approved, and the Borough received an Amended Judgment of Repose for the third round on November 
+27, 2024 via an Order issued by the Hon. Christine A. Farrington, J.S.C. Since execution of the 2023 SHG 
+Settlement Agreement, the Borough has focused significant effort toward developing the 3.5 acres with 
+a 100% affordable housing development, as set forth in the 2023 Settlement Agreement with FSHC.  
+The Borough adopted a resolution committing to the rehabilitation and fourth round obligations on 
+January 21, 2025. The resolution committed to the DCA-calculated rehabilitation obligation but reduced 
+the DCA-calculated fourth round obligation. The Borough’s submission received objections from the New 
+Jersey Builder’s Association and FSHC; however, a Mediation Agreement between all 3 parties was 
+executed on April 24, 2025. On May 19, 2025, the Hon. Gregg A. Padovano, J.S.C. issued an order 
+establishing the Borough’s rehabilitation and fourth round obligations of 65 and 480, respectively. 
+CONSIDERATION OF LANDS MOST APPROPRIATE FOR AFFORDABLE HOUSING 
+As part of this Plan, the Borough considered land that is appropriate for the construction of low- and 
+moderate-income housing. Franklin Lakes has limited capacity for future development due to its built-out 
+conditions. Notwithstanding, one developer requested inclusion the Borough’s fourth round housing plan: 
+§
+Trelia Franklin Lakes LLC - 370-378 Pulis Avenue (Block 1510, Lots 7, 8, 9) and) & 705 Anntaramiss
+Lane (Block 1515, Lot 1.04): The developer contacted the Borough seeking zoning to permit as
+many as 48 townhomes. The site is located between Pulis Avenue and Interstate 287 and is
+occupied with a landscape company. The Borough declined to rezone the property due to
+concerns about incompatibility of the proposed development in this area of the Borough, which
+is a single-family residential zone district, and traffic concerns along Pulis Avenue, one of the
+Borough’s few north-south through streets. The site generated RDP1 in the Borough’s 2001
+Judgment of Repose and as such, is already reflected in the Borough’s RDP.
+1 Lot 9, located along Interstate 287 with not street access, was not listed in the vacant land analysis. However, this 
+lot does not have street access and his has been associated with the landscape company on Lots 1, 8 and 1.04 since 
+at least 1995 based on aerial photography.  
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 15 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 16 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 13 
+A portion of Borough’s housing stock may be appropriate for conversion or rehabilitation for affordable 
+housing. Such conversions are most appropriate for Borough homes that are moderate in size, as opposed 
+to those Borough homes that are very significant in size, to enable building and site maintenance costs 
+that are proportionate to the household’s income. Group homes and accessory apartments are also 
+appropriate for many of Franklin Lakes’s single-family homes, and attached and multi-family affordable 
+housing developments may be appropriate where opportunities for such development or redevelopment 
+arises (in addition to those areas which are already zoned for inclusionary development). The Borough’s 
+mandatory set-aside ordinance will capture such opportunities.   
+OPPORTUNITY FOR MULTIGENERATIONAL HOUSING 
+The Fair Housing Act requires “an analysis of the extent to which municipal ordinances and other local 
+factors advance or detract from the goal of preserving multigenerational family continuity as expressed 
+in the recommendations of the Multigenerational Family Housing Continuity Commission”.  As of the date 
+of this Housing Plan there have been no recommendations by the Multigenerational Family Housing 
+Continuity Commission in which to provide an analysis. However, the Commission has the primary goal of 
+enabling senior citizens to reside at the homes of their extended families, thereby preserving and 
+enhancing multigenerational family continuity.  Borough land use policies are not in conflict with this goals 
+and much of the Borough’s housing stock is large enough to accommodate multigenerational living.  
+DEMOGRAPHIC, HOUSING & EMPLOYMENT ANALYSIS 
+See Appendix 1 to the Housing Plan for this analysis. 
+AFFORDABLE HOUSING OBLIGATION & SATISFACTION 
+Fourth round housing plans must address four components of a municipality’s affordable housing 
+obligation.  These include the rehabilitation obligation to improve substandard housing occupied by low- 
+and moderate-income households, the first and second round obligation of new construction from 1987 
+to 1999, third round obligation of new construction from 1999 to 2025, and the fourth round obligation 
+of new construction from 2025 to 2035.  
+Rehabilitation Obligation & Satisfaction 
+The rehabilitation obligation can be defined as an estimate of the number of deteriorated homes existing 
+in Franklin Lakes that are occupied by low- and moderate-income households. The Fair Housing Act, 
+N.J.S.A. 52:27D-304.3.b., describes present need as being determined by “estimating the existing deficient 
+housing units currently occupied by low- and moderate-income households within the municipality, 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 16 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 17 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 14 
+following a methodology comparable to the methodology used to determine third round present need, 
+through the use of datasets made available through the federal decennial census and the American 
+Community Survey, including the Comprehensive Housing Affordability Strategy dataset thereof.” The 
+DCA calculated municipal present need obligations in Affordable Housing Obligations for 2025-2035 
+(Fourth Round) Methodology and Background, released on or about October 18, 2024. The Borough 
+adopted a resolution committing to the rehabilitation obligation on January 21, 2025. The resolution 
+committed to the DCA-calculated rehabilitation obligation. On May 19, 2025, the Hon. Gregg A. Padovano, 
+J.S.C. issued an order establishing the Borough’s obligation of 65. 
+The Borough will address this obligation through participation in the Bergen County Housing Improvement 
+Program, which provides a no-interest loan to income-eligible homeowners to repair major systems in 
+their home. The Borough will address this obligation of 65 through participation in the Bergen County 
+Housing Improvement Program, which provides a no-interest loan to income-eligible homeowners to 
+repair major systems in their home. This County program is funded by the federal Community 
+Development Block Grant (CDBG) program. The loans need not be repaid until the home is sold or the title 
+is transferred. Additionally, the Borough will create a supplementary program that is available to rental 
+homes. This program will be operated by the Borough’s administrative agent.  All rehabilitated homes will 
+comply with the definition of a substandard home in N.J.A.C. 5:93-5.2(b), which states, “a unit with health 
+and safety code violations that require the repair or replacement of a major system.” Major systems 
+include weatherization, roofing, plumbing, heating, electricity, sanitary plumbing, lead paint abatement 
+and/or load bearing structural systems. All rehabilitated homes shall meet the applicable construction 
+code. Additionally, all rehabilitated homes shall be occupied by low- or moderate-income households and 
+subject to 10-year affordability controls, which shall be placed on the property in the form of a lien or 
+deed restriction. The average hard cost will be at least $10,000. 
+Franklin Lakes seeks relief from the rental component of the rehabilitation obligation, as set forth in 
+N.J.A.C. 5:97-6.2(b)6. The request for relief is supported by the following: 
+•
+Extensive rental affordable housing constructed and permitted in the housing plan.
+•
+Less than 12% of the Borough’s occupied homes are for rent (2023 American Community Survey,
+S25009). This low percentage of homes for rent will reduce demand for the program.
+•
+44% of the Borough’s renter-occupied structures were constructed since 2000 and another 30%
+were constructed between 1980 and 2000 (2023 American Community Survey, S25036). This lack
+of older renter-occupied structures will further reduce demand for the program.
+•
+The median household income for renter households is $107,604 (2023 American Community
+Survey, B25119). These high incomes will also further reduce demand for the program as well as
+reduce eligibility.
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 17 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 18 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 15 
+First & Second Rounds Obligation 
+Franklin Lakes Borough’s first and second rounds new construction obligation, also referred to as the prior 
+round obligation, is 358. This obligation is defined as the cumulative new construction obligation from 
+1987 through 1999 (1987-1993 is the first round; 1993-1999 is the second round). The Borough’s 
+obligation was published by COAH in 2008 and originally calculated in 1993-1994 pursuant to N.J.A.C 5:93. 
+Third Round Obligation 
+This obligation of 709 is defined as the new construction obligation for 1999-2025. The third round 
+obligation was established by the Borough’s 2018 Settlement Agreement with FSHC and was confirmed 
+via an Order issued by the Hon. Christine Farrington, J.S.C. on January 9, 2019. 
+It should be noted that the Borough’s third round obligation was subject to the 20% cap (N.J.A.C. 5:93-
+2.16) which states Franklin Lakes’ third round obligation may not exceed 709. COAH’s second round 
+regulations, N.J.A.C. 5:93-2.16, state a municipality’s new construction obligation may not exceed 20% of 
+the estimated 1993 occupied housing stock. In this process, that section has been reinterpreted for the 
+third round to be based on the 2015 estimated occupied housing units (source – 2010 Census and 
+CO/demo data). The 2015 estimated occupied housing in Franklin Lakes was 3,546 homes. The 20% cap 
+was recognized in the Settlement Agreement with FSHC as well as the Order issued by the Hon. Christine 
+Farrington, J.S.C. on January 9, 2019. 
+Fourth Round Obligation 
+Franklin Lakes’s fourth round obligation (also referred to as the prospective need) is 480. This obligation 
+is defined as the new construction obligation for 2025-2035. The Fair Housing Act, N.J.S.A. 52:27D-
+304.3.b., describes the obligation as a “projection of housing needs based on development and growth 
+which is reasonably likely to occur in a region or a municipality, as the case may be, as a result of actual 
+determination of public and private entities. Prospective need shall be determined by the methodology 
+set forth pursuant to sections 6 and 7 of P.L.2024, c. 2 (C.52:27D-304.2 and C.52:27D-304.3) for the fourth 
+round and all future rounds of housing obligations”. The methodology to calculate the obligation begins 
+with determining the need for affordable housing in which the municipality is located. That regional need 
+is then allocated to each municipality in the region, excluding qualified urban aid municipalities, based on 
+an average of three factors: 1) equalized nonresidential valuation factor, which serves as a proxy for the 
+municipal share of the region’s change in employment during the previous affordable housing round, 2) 
+income capacity factor, which is the municipal share of the region’s median household income, and 3) 
+land capacity factor, which is the municipal share of the region’s developable land.  
+The Borough adopted a resolution committing to the fourth round obligation on January 21, 2025. The 
+resolution committed to a reduced the fourth round obligation compared to the DCA-calculated 
+obligation. The Borough’s submission received objections from the New Jersey Builder’s Association and 
+FSHC; however, a Mediation Agreement between all 3 parties was executed on April 24, 2025. On May 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 18 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 19 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 16 
+19, 2025, the Hon. Gregg A. Padovano, J.S.C. issued an order establishing the Borough’s fourth round 
+obligation of 480., respectively. 
+Vacant Land Adjustment 
+A vacant land adjustment is available to those municipalities, such as Franklin Lakes, that cannot satisfy 
+their entire affordable housing obligation using inclusionary housing due to a lack of vacant and 
+developable land. The adjustment process is set forth in COAH's rules and is supplemented by related case 
+law. More specifically, it is a downward adjustment of the obligation to reflect the number of affordable 
+homes a municipality could theoretically create through new inclusionary development on vacant or 
+underutilized land, presuming a density and set-aside consistent with COAH's rules.  
+The downward adjusted obligation is known as the realistic development potential, or "RDP". Requesting 
+this adjustment does not require the municipality to zone or build on the land identified as developable. 
+Notwithstanding, the municipality's Housing Plan must identify compliance strategies that can produce 
+enough affordable homes and bonus credits to satisfy the RDP. The difference between the RDP and the 
+calculated new construction obligation is referred to as the unmet need. COAH’s rules, N.J.A.C. 5:97-5.4(b) 
+or N.J.A.C. 5:93-4.2(h), do not require any specific unmet need strategy. Instead, they state one or any 
+combination of strategies may be required and do not provide a required quantity of strategies or 
+affordable homes. The strategies cited include accessory apartments, market to affordable, overlay 
+zoning, redevelopment with affordable housing and adoption of a development fee ordinance. Unlike the 
+RDP, the unmet need does not need to be fully satisfied; instead, the Borough must create adequate 
+opportunities for future affordable housing.  
+First, Second and Third Rounds Vacant Land Adjustment 
+The Borough’s obligation has always exceeded the amount of vacant and developable land. The Borough 
+conducted a vacant land adjustment of its first and second rounds obligation in its Second Round Housing 
+Plan adopted on August 27, 2001. As part of the Judgment of Repose, the Court granted the Borough’s 
+vacant land adjustment of the 358 first and second rounds obligation that resulted in a realistic 
+development potential (hereinafter “RDP”) of 109. The RDP was based on the vacant and developable 
+parcels in Franklin Lakes at the time the analysis was conducted. Refer to the Borough’s 2001 Housing 
+Plan for more information. 
+The Borough updated its vacant land adjustment as part of its October 3, 2018 Settlement Agreement 
+with FSHC and approval of that Settlement Agreement was granted an Order issued January 9, 2019 by 
+the Hon. Christine A. Farrington, J.S.C. Additionally, the vacant land adjustment was included in the 
+Borough’s 2019 Third Round Housing Plan that was the subject of the Borough’s June 26, 2019 Final 
+Judgment of Compliance and Repose issued by the Hon. Christine A. Farrington, J.S.C.  The resulting RDP 
+for the first, second and third rounds was 340. Refer to the Borough’s 2019 Housing Plan for more 
+information.  
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 19 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 20 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 17 
+The Borough again updated its vacant land adjustment as part of its 2023 Settlement Agreements with 
+SHG, LLC and FSHC and its 2023 Third Round Housing Plan. This updated RDP, which was 445, was 
+approved by the Hon. Christine A. Farrington, J.S.C. on November 2, 2023 in the Court’s approval of the 
+Settlement Agreements as well as the November 27, 2027 Amended Judgment of Compliance and Repose. 
+Refer to the Borough’s 2023 Housing Plan for more information. 
+Fourth Round Vacant Land Adjustment 
+The Borough continues its vacant land adjustment into the fourth round since the fourth round obligation, 
+as well as the previous rounds’ obligations, exceeds the vacant and developable land available. Review of 
+approvals issued by the Planning Board and Zoning Board, anticipated development and construction 
+permits indicate there is no development activity that generates a fourth round RDP since the Borough’s 
+third round RDP was last calculated less than 2 years ago. As such, the Borough’s RDP remains 445.  
+Satisfaction of the RDP 
+The Borough satisfies its RDP with a mix of family, special needs and senior homes, the majority of which 
+are constructed and provide rental housing.  
+Satisfaction of the 445-unit RDP 
+Project 
+Type 
+Status 
+Homes 
+Bonus 
+Credits 
+Garfield RCA 
+RCA 
+Paid 
+54 
+0 
+54 
+Mill Pond 
+Inclusionary, Family, Rental 
+Developed 
+15 
+15 
+30 
+Colonial Pointe 
+Inclusionary, Family, Rental 
+Developed 
+18 
+18 
+36 
+The Reserve 
+Inclusionary, Family, Sale 
+Developed 
+55 
+0 
+55 
+McCoy Place 
+100%, Special Needs, Rental 
+Developed 
+39 
+39 
+78 
+Franklin Manor 
+Inclusionary, Family, Rental 
+Developed 
+8 
+8 
+16 
+Parsons Pond 
+Inclusionary, Family, Rental 
+Zoned 
+62 
+32 
+94 
+Parsons Pond 
+100% Family, Special Needs, Rental 
+Zoned 
+71 
+0 
+71 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 20 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 21 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 18 
+Sunrise 
+Assisted Living 
+Developed 
+11 
+0 
+11 
+Total 
+333 
+112 
+445 
+City of Garfield Regional Contribution Agreement (RCA) 
+The Borough paid an amount of $1,350,000 to the City of Garfield in 2002 as part of a Regional 
+Contribution Agreement to send 54 credits to the City. COAH approved the agreement on July 13, 2004. 
+All funds for this RCA have been transferred. This strategy was approved in the Borough’s third round 
+Judgment of Repose.  
+Mill Pond (aka University Heights) 
+This development, located at Block 2514, Lot 1, consists of a total of ninety (90) rental homes of which 
+fifteen (15) are affordable to low and moderate income households. It has had effective affordability 
+controls since March 28, 2007, and its last certificate of occupancy was issued on October 1, 2008. The 
+site is in the northwestern quadrant of the Borough on Old Mill Road, a short driving distance from the 
+Borough’s downtown and nearby employment centers, schools, and shopping destinations. The portion 
+of the site not already developed is constrained by wetlands.  
+The affordable homes are restricted, regulated and administered consistent with the Borough’s affordable 
+housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the 
+New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to affordability 
+controls, income distribution and bedroom distribution. This strategy was approved in the Borough’s third 
+round Judgment of Repose. 
+Colonial Pointe 
+This development, located at Block 1411, Lot 2, was a product of a builder’s remedy litigation settlement 
+that resulted in creation of the MF-AH2 affordable housing zone and final site plan and subdivision 
+approval in 2003. In years past, it has been referred to as Excelsior, GS Reality, Colonial Road Associates 
+or Kara Homes. The initial plans yielded 12 homes affordable homes. In May 2012, the project received 
+approval to convert to family housing from age restricted housing, on the condition that the affordable 
+set-aside shall be increased to 18 homes. The property is located along Colonial Road, within walking 
+distance of the Borough’s downtown. Much of the site is constrained by wetlands, according to NJ DEP 
+GIS data.  
+The development is complete and occupied. The affordable homes are restricted, regulated and 
+administered consistent with the Borough’s affordable housing regulations, the Uniform Housing 
+Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the New Jersey Fair Housing Act (N.J.S.A. 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 21 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 22 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 19 
+52:27D-301 et seq.). This includes but is not limited to affordability controls, income distribution and 
+bedroom distribution.  This strategy was approved in the Borough’s third round Judgment of Repose. 
+Reserve at Franklin Lakes 
+This inclusionary housing site, previously referred to as High Mountain Golf Club, is a redeveloped golf 
+course located at Block 3104, Lot 1, Block 3105, Lot 1, Block 3205, Lot 2, Block 3206, Lots 1, 1.01, 1.02, 2, 
+Block 3207, Lots 3 and 5, and Block 3208, Lots 2, 3, and 4. It consists of 132 acres located the southern 
+end of the Borough along Ewing Avenue and Franklin Lakes Road that was previously developed as a 
+privately owned golf course and clubhouse.  The Borough entered into an agreement with the contract 
+purchaser of this site on December 12, 2013. The agreement provided for the development of 275 housing 
+homes including 55 affordable family sale homes. The Planning Board approval of the site was granted on 
+May 6, 2015.  
+The development is complete and occupied. The affordable homes are restricted, regulated and 
+administered consistent with the Borough’s affordable housing regulations, the Uniform Housing 
+Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the New Jersey Fair Housing Act (N.J.S.A. 
+52:27D-301 et seq.). This includes but is not limited to affordability controls, income distribution and 
+bedroom distribution.  This strategy was approved in the Borough’s third round Judgment of Repose. 
+McCoy Place 
+This development, also referred to as Franklin Lakes Supportive Housing, is 100% affordable municipally 
+sponsored development for those with special needs. The Borough purchased the property in July of 2012. 
+It consists of Block 1406, Lot 1 and Block 1408, Lot 1, and is located at the corner of McCoy Road and 
+Colonial Road. The Borough acquired the property for the purpose of facilitating a 100% affordable 
+housing development. In June 2014 the Borough adopted the McCoy Road Redevelopment Plan and later 
+selected an affordable housing developer – the Alpert Group – to develop affordable homes. On May 6, 
+2015, the Planning Board approved a 100% special needs housing project on this site with 39 affordable 
+rental homes. The 39 affordable homes and one manager’s home are distributed across five buildings 
+oriented around a central community building. The community building includes a library, fitness room, 
+offices, and gathering rooms. The site fronts on McCoy Road, on the western border of the Borough, and 
+is bound on its north sides by a steep slopes, and active railroad, and the NJ Route 208 highway.  
+The development is complete and occupied. The affordable homes are restricted, regulated and 
+administered consistent with the Borough’s affordable housing regulations, the Uniform Housing 
+Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the New Jersey Fair Housing Act (N.J.S.A. 
+52:27D-301 et seq.). This includes but is not limited to affordability controls, income distribution and 
+bedroom distribution.  This strategy was approved in the Borough’s third round Judgment of Repose. 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 22 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 23 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 20 
+Franklin Manor 
+This site, Block 1518, Lot 10 and Block 1519, Lot 1, is subject to the settlement agreement between the 
+Borough and Franklin Manor Properties, LLC. It is located proximate to the Borough’s downtown along 
+Franklin Avenue but has access via Tice Road. The site has a total acreage of 1.7 acres and is in the MF-
+AH3 Multi-Family Affordable Housing District. The site is developed with a total of 52 multi-family rental 
+homes, including 8 affordable family rental homes.  
+The development is complete and occupied. The affordable homes are restricted, regulated and 
+administered consistent with the Borough’s affordable housing regulations, the Uniform Housing 
+Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the New Jersey Fair Housing Act (N.J.S.A. 
+52:27D-301 et seq.). This includes but is not limited to affordability controls, income distribution and 
+bedroom distribution.  This strategy was approved in the Borough’s third round Judgment of Repose. 
+Parsons Pond 
+This property, also referred to as the Cigna site, includes two components - 71 homes in a 100% affordable 
+development and an inclusionary development that will include 62 family rental homes.  
+Both components are on Block 2607, Lot 1, located at 400 Parsons Pond Drive. This property is 
+approximately 88.72 acres in size. This site is planned for redevelopment with up to 495 multi-family 
+housing homes, with a 12.5% set-aside, and a 100% affordable housing development composed of 71 
+affordable housing homes, of which at least 60 homes shall be family rental homes and up to 11 homes 
+may consist of special needs bedrooms or homes. Alternatively, the site may be developed with a federal 
+use, up to 250 housing homes, with a 24.8% set-aside, and a 100% affordable housing development 
+composed of 71 affordable housing homes, of which at least 60 homes shall be family rental homes and 
+up to 11 homes may consist of special needs bedrooms or homes. At this time, the federal use is not 
+anticipated.  
+There are very limited environmental constraints associated with the Study Area. Based on NJGIN, NJDEP, 
+and NFHL data, there are no wetlands, waterbodies, or flood hazard areas within the Study Area. There 
+are limited steep slopes (greater than 15%) located in the Area, most appear to be a result of the site’s 
+construction rather than natural features. Additionally, at the northern end of the property is a 16 acre 
+“forest conservation area” that is restricted from development.  
+The affordable housing site is suitable, as described below. 
+§
+“Available site” means a site with clear title, free of encumbrances which preclude development
+for low and moderate income housing.
+The Borough and the Developer represent that the site, including the portion of the site to be
+used for the municipally sponsored construction, is available and has a clear title and has no
+encumbrances which would preclude its development with the affordable housing in accordance
+with the Agreement.
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 23 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 24 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 21 
+§
+“Suitable site” means a site that is adjacent to compatible land uses, has access to appropriate
+streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4.
+The site is adjacent to compatible land uses and access is provided via Parsons Pond Road. Directly
+north of the site are single family residential uses and an elementary school in the A-40 Zoning
+District. To the east, along Parsons Pond Road is Parsons Pond Park and Spring Lake Brook, with
+associated wetlands and flood hazard areas. Further east on Wyckoff Avenue are commercial and
+industrial uses in Mahwah Township. Directly adjacent to the south, is a single-family residential
+neighborhood in Wyckoff Township. Additionally, Abma’s Farm Market and the Tomasello Winery
+are located to the south of the site. To the west are single family residences in the A-22.5 Zoning
+District and limited flood hazard areas.
+There are limited environmental constraints associated with the site. Based NJGIN, NJDEP, and
+NFHL data, there are no wetlands, waterbodies, or flood hazard areas within the site. There are
+limited steep slopes (greater than 15%) located in the Area, although most appear to be a result
+of the site’s construction rather than natural features.
+The fully developed site requires asbestos remediation and will be demolished and rendered
+suitable and developable by SHG Frankin Lakes, LLC.
+Approximately 16.5 acres of undeveloped land along a portion of the northern property line is
+subject to an easement restricting future development. As such, there are approximately 72 acres
+of developable land.
+In addition to the municipally sponsored construction, the site will be developed with a mixed-
+use inclusionary development and a Federal Use. The mixed-use inclusionary development is
+compatible with the affordable housing development. The adjacency of such nonresidential uses
+will be mitigated with building design standards and buffering to ensure compatibility.
+The site has access to Parsons Pond Road, which connects to the larger area via Old Mill Road in
+Franklin Lakes and Wyckoff Avenue in Wyckoff Township.
+§
+“Developable site” means a site that has access to appropriate water and sewer infrastructure,
+and is consistent with the applicable areawide water quality management plan (including the
+wastewater management plan) or is included in an amendment to the areawide water quality
+management plan submitted to and under review by DEP.
+Adequate sewer and water capacities are available. Water service will be provided water by Veolia
+Water. Sewer will be provided by the Northwest Bergen County Utilities Authority.
+§
+“Approvable site” means a site that may be developed for low and moderate income housing in
+a manner consistent with the rules or regulations of all agencies with jurisdiction over the site. A
+site may be approvable although not currently zoned for low and moderate income housing.
+The site’s future development appears to be developable consistent with the Residential Site
+Improvement Standards, N.J.A.C. 5:21. The site does not contain any historic or architecturally
+important structures and is not within an historic district.
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 24 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 25 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 22 
+§
+In addition to determining whether the site and proposed development is suitable pursuant to
+the above definitions, COAH’s rules, in N.J.A.C. 5:93-5.4, provide guidance as to where in the state
+inclusionary housing in encouraged. COAH’s rules rely on the 2001 State Development and
+Redevelopment Plan (SDRP) for this guidance and state inclusionary housing in Planning Areas 1,
+2, and Centers is encouraged.
+Pursuant to the adopted 2001 State Plan, the site is in the Metropolitan Planning Area, PA-1. As
+such, the site is in a “Smart Growth Planning Area”, which is where affordable housing is
+encouraged (N.J.A.C. 5:93-5.4.(a))
+The Borough executed an agreement with RPM for development of the 100% affordable housing 
+component. Borough staff and professionals are coordinating with RPM to facilitate a funding application 
+for the next round of Low Income Housing Tax Credits. SHG, LLC is anticipated to serve as the developer 
+of the inclusionary development.   
+The affordable homes will be restricted, regulated and administered consistent with the Borough’s 
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et 
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to 
+affordability controls, income distribution, bedroom distribution and phasing (applicable to the 
+inclusionary component only.  This strategy was approved in the Borough’s 2024 Amended Judgment of 
+Repose. 
+Sunrise 
+This site, Block 1424, Lots 1, 2, 5, 6, 7 and 8, is subject to the settlement agreement between the Borough 
+and 724 Franklin Ave, LLC and Sunrise Development, LLC. It is located east of the Borough’s downtown at 
+the corner of Franklin Avenue and Shirley Avenue and consists of 4.61 acres. The site is in the A22.5 zone 
+and is surrounded by a mix of uses, many of which are single family residential uses. The site was 
+developed with an 88 home assisted living facility, of which 11 beds are  reserved for residents which 
+receive Medicaid. Pursuant to N.J.A.C. 5:93-5.16(a), such beds qualify for affordable housing credit.    
+The development is complete and occupied. The affordable homes are restricted, regulated and 
+administered consistent with the Borough’s affordable housing regulations, the Uniform Housing 
+Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the New Jersey Fair Housing Act (N.J.S.A. 
+52:27D-301 et seq.). This includes but is not limited to affordability controls, income distribution and 
+bedroom distribution.  This strategy was approved in the Borough’s third round Judgment of Repose. 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 25 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 26 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 23 
+Satisfaction of the Unmet Need 
+COAH’s rules, N.J.A.C. 5:97-5.4(b) or N.J.A.C. 5:93-4.2(h), do not require any specific unmet need strategy. 
+Instead, they state one or any combination of strategies may be required and do not provide a required 
+quantity of strategies or affordable homes. The strategies cited include accessory apartments, market to 
+affordable, overlay zoning, redevelopment with affordable housing and adoption of a development fee. 
+Franklin Lakes relies upon 7 overlay zones, as well as the mandatory set-aside ordinance.  
+The Fair Housing Act, N.J.S.A. 52:27D-310.1, now states municipalities that receive a vacant land 
+adjustment shall identify sufficient parcels to likely to redevelop during the current round to address at 
+least 25% of the prospective need obligation that has been adjusted with realistic zoning or demonstrate 
+why the municipality is unable to do so. The Borough’s legal interpretation is that the 25% calculation is 
+based upon the RDP, since the plain language of the statute provides “prospective need obligation that 
+has been adjusted”. Here, the prospective need “has been adjusted” to 0. Since the Borough does not 
+generate an increased RDP for the fourth round, this requirement does not apply (.25 (0) = 0). However, 
+the requirement will be applicable in the event the Borough’s RDP increases.  
+That said, it should be noted that the Parsons Pond inclusionary development, which will yield a 
+substantial amount of affordable housing, is a result of redevelopment that occurred after the Borough 
+had already received full approvals of its Third Round Housing Plan. In other words, the Borough has 
+already taken meaningful and recent steps towards redevelopment subsequent to its 2019 Judgment of 
+Repose. 
+The Borough adopted 7 overlay zone zones and a mandatory set-aside ordinance to address the third 
+round unmet need. The Borough elects to rely on these existing overlay zones to meet the entirety of its 
+unmet need. The densities and related zone standards for the districts were crafted to reflect the 
+Borough’s modest density and character, which consists almost entirely of one and two story buildings. 
+Notwithstanding, the densities of these overlay zones range from 12 to 18 du/ac. Additionally, these 
+overlay zones already apply to nearly all the Borough’s land zoned for commercial uses and which provide 
+the Borough’s retail, services and employment base.  
+Affordable Housing Overlay 1 
+This approximate 16-acre tract will receive mixed-use overlay zoning that permits inclusionary housing at 
+a density 12 du/ac with an affordable housing set-aside of 15% should the homes be for rent and 20% 
+should the homes be for sale. The site, Block 1513, Lot 1, consists of an existing shopping center just west 
+of the Borough’s downtown along Franklin Avenue.  All affordable homes shall be restricted, regulated 
+and administered consistent with the Borough’s affordable housing regulations, the Uniform Housing 
+Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the New Jersey Fair Housing Act (N.J.S.A. 
+52:27D-301 et seq.). This shall include but is not limited to income distribution, bedroom distribution, and 
+phasing. 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 26 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 27 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 24 
+Affordable Housing Overlay 2 
+This approximate 7-acre area will receive mixed-use overlay zoning that permits inclusionary housing at a 
+density 14 du/ac with an affordable housing set-aside of 15% should the homes be for rent and 20% should 
+the homes be for sale. The area, Block 1418, Lot 1.01, Block 1518, Lots 2 and 5.01, consists of existing 
+shopping centers within the Borough’s downtown along Franklin Avenue.  All affordable homes shall be 
+restricted, regulated and administered consistent with the Borough’s affordable housing regulations, the 
+Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the New Jersey Fair Housing 
+Act (N.J.S.A. 52:27D-301 et seq.). This shall include but is not limited to income distribution, bedroom 
+distribution, and phasing. 
+Affordable Housing Overlay 3 
+This approximate 11-acre tract will receive mixed-use overlay zoning that permits inclusionary housing at 
+a density 10 du/ac with an affordable housing set-aside of 15% should the homes be for rent and 20% 
+should the homes be for sale. The tract, Block 2201.08, Lot 2, consists of an existing shopping center and 
+office in the southern portion of the Borough.  All affordable homes shall be restricted, regulated and 
+administered consistent with the Borough’s affordable housing regulations, the Uniform Housing 
+Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the New Jersey Fair Housing Act (N.J.S.A. 
+52:27D-301 et seq.). This shall include but is not limited to income distribution, bedroom distribution, and 
+phasing. 
+Affordable Housing Overlay 4 
+This approximate 28-acre area will receive overlay zoning that permits inclusionary housing at a density 
+13 du/ac with an affordable housing set-aside of 15% should the homes be for rent and 20% should the 
+homes be for sale. The area consists of office and light industrial uses along Commerce Street. The 
+following 28 lots are included: Block 1404, Lots 14, 21.01, 21, 5, 3.01, 11.01, 11.02, 11.07; Block 1404.01, 
+Lots 20, 19, 18, 15, 4, 4.03, 4.02, 4.01, 3, 2.  All affordable homes shall be restricted, regulated and 
+administered consistent with the Borough’s affordable housing regulations, the Uniform Housing 
+Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the New Jersey Fair Housing Act (N.J.S.A. 
+52:27D-301 et seq.). This shall include but is not limited to income distribution, bedroom distribution, and 
+phasing. 
+Affordable Housing Overlay 5 
+This approximate 14-acre area will receive overlay zoning that permits inclusionary housing at a density 
+18 du/ac with an affordable housing set-aside of 15% should the homes be for rent and 20% should the 
+homes be for sale. The area is located along Susquehanna Avenue and consists of Block 1516.01, Lots 1, 
+1.01, 1.16, 1.15, 1.14. 1.13, 1.12, 1.11. The lands are developed with office uses, recreation and auto repair 
+uses, and are proximate to the Borough’s downtown. All affordable homes shall be restricted, regulated 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 27 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 28 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 25 
+and administered consistent with the Borough’s affordable housing regulations, the Uniform Housing 
+Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the New Jersey Fair Housing Act (N.J.S.A. 
+52:27D-301 et seq.). This shall include but is not limited to income distribution, bedroom distribution, and 
+phasing. 
+Affordable Housing Overlay 6 
+This approximate 3-acre area will receive overlay zoning that permits inclusionary housing at a density 16 
+du/ac with an affordable housing set-aside of 15% should the homes be for rent and 20% should the 
+homes be for sale. The area is located along Tice Road and consists of Block 1517, Lots 1 and 2. The lands 
+are developed with office uses and are proximate to the Borough’s downtown. All affordable homes shall 
+be restricted, regulated and administered consistent with the Borough’s affordable housing regulations, 
+the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the New Jersey Fair 
+Housing Act (N.J.S.A. 52:27D-301 et seq.). This shall include but is not limited to income distribution, 
+bedroom distribution, and phasing. 
+Affordable Housing Overlay 7 
+This approximate 2-acre area will receive overlay zoning that permits up to 20 homes of inclusionary 
+housing with an affordable housing set-aside of 15% should the homes be for rent and 20% should the 
+homes be for sale. The area is located along Franklin Avenue just west of the Borough’s downtown. The 
+area includes the following lots: Block 1512.01, Lots 15, 15.01 and 17.  The lands are undeveloped or host 
+a single family residence. All affordable homes shall be restricted, regulated and administered consistent 
+with the Borough’s affordable housing regulations, the Uniform Housing Affordability Controls rules 
+(N.J.A.C. 5:80-26.1 et seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This shall 
+include but is not limited to income distribution, bedroom distribution, and phasing. 
+Mandatory Set-aside Ordinance 
+This ordinance requires all multi-family residential development which is not currently permitted but 
+receives approval for construction or new zoning to provide a 15% affordable housing set-aside where the 
+affordable homes are for rent and a 20% affordable housing set-aside where the affordable homes are for 
+sale. All affordable homes shall be restricted, regulated and administered consistent with the Borough’s 
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et 
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This shall include but is not limited 
+to income distribution, bedroom distribution, and phasing. 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 28 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 29 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 26 
+Distribution of Affordable Homes 
+In addition to meeting the total 445 RDP, the Borough must also meet a rental obligation, maximum senior 
+homes, family obligation, and the very low income obligation.  
+Maximum Bonus 
+§
+Maximum bonus credits = equal to the rental obligation | 112 (see below)
+§
+Maximum bonus credits for any increased RDP will be limited to 25% of the increased RDP. Bonus
+credits equal to the rental obligation are applicable because the RDP was generated in the second
+and third rounds.
+§
+The RDP is satisfied with 112 bonus credits.
+Minimum Rental 
+§
+Minimum rental homes = 25% (units meeting the RDP) |  .25 (445) = 111.25, rounded to up to 112
+§
+The Borough exceeds this requirement with 213 rental homes from all the inclusionary
+developments, except for the Reserve at Franklin Lakes. None of the Borough’s unmet need
+strategies are restricted to for-sale homes.
+Maximum Senior 
+§
+Maximum age-restricted homes = 30% (units meeting the RDP) (25% of the RDP the third round)
+| .25 (445) = 111.25, rounded down to 111.
+§
+Only 11 homes from the Sunrise Assisted Living development are reserved for seniors. None of
+the Borough’s unmet need strategies are restricted to seniors.
+Minimum Family 
+§
+Minimum family homes = 50% (units meeting the RDP) | .5 (333) = 166.5, rounded up to 167
+§
+The Borough exceeds this requirement with 218 family homes from the inclusionary
+developments, except for the 11 special needs homes at the Parson Pond site.
+Minimum Family Rental 
+§
+Minimum family rental = 50% (rental obligation) | .5 (112) = 56
+§
+The Borough provides nearly 3 times more family rental homes than required with the 163 homes
+from the inclusionary developments, except for the 55 family sale homes at the Reserve and 11
+special needs homes at the Parson Pond site.
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 29 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 30 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 27 
+Minimum Very Low Income 
+§
+Minimum very low income homes = 13% (fourth round homes created or approved on or after
+July 1, 2008) | .13 (264) = 34.32, rounded up to 34
+§
+The projects contributing to this calculation include Colonial Pointe, McCoy Place, Franklin Manor,
+Sunrise and Parsons Pond. These same projects will satisfy the very low income obligation.
+Minimum Family Very Low Income 
+§
+Minimum family very low income homes = 50% (very low income obligation) | .5 (34) = 17
+§
+The Borough exceeds this requirement with the very low income homes at Colonial Pointe,
+Franklin Manor, and Parsons Pond
+CONSISTENCY WITH THE STATE DEVELOPMENT AND REDEVELOPMENT PLAN 
+The Borough is in Planning Area 1, the Metropolitan Planning Area. Development and redevelopment with 
+affordable housing is consistent with the goals and policies of the 2001 State Development and 
+Redevelopment Plan. In fact, Planning Area 1 is a preferred location for affordable housing pursuant to 
+5:93-5.4. 
+AFFORDABLE HOUSING ADMINISTRATION & AFFIRMATIVE MARKETING 
+Franklin Lakes Borough’s Affordable Housing Ordinance and affirmative marketing plan is in part, but will 
+be further amended to be, consistent with the Fair Housing Act , the Uniform Housing Affordability Control 
+Rules, N.J.A.C. 5:80-26.1 et seq., and the Division of Local Planning Services Fair Housing Act Rules, N.J.A.C. 
+5:99. As of the adoption of this Housing Plan, the latter two are in the process of being amended.  
+The Borough’s Affordable Housing Ordinance, Section 135 of the Borough Code, governs the 
+establishment of affordable homes in the Borough as well as regulating the occupancy of such homes. The 
+Borough’s Affordable Housing Ordinance addresses the phasing of affordable homes, the low/moderate 
+income split, bedroom distribution, occupancy standards, affordability controls, establishing rents and 
+prices, affirmative marketing, income qualification, etc. All newly created affordable homes, with limited 
+exceptions, will comply with the affordability control period of 30 years for sale homes or 40 years for 
+rental homes, as required by the Fair Housing Act and the Uniform Housing Affordability Control Rules. 
+The Borough created the position of the Municipal Housing Liaison and appointed a staff member to the 
+position. The consultant affordable housing administrator overseeing any affordable housing 
+development will conduct the administration and affirmative marketing of the applicable affordable 
+housing sites. The affirmative marketing plan will be designed to attract buyers and/or renters of all 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 30 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 31 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 28 
+majority and minority groups, regardless of race, creed, color, national origin, ancestry, marital or familial 
+status, gender, affectional or sexual orientation, disability, age or number of children to the affordable 
+homes located in the Borough. Additionally, the affirmative marketing plan is intended to target those 
+potentially eligible persons who are least likely to apply for affordable homes and who reside in the 
+Borough’s housing region, Region 1 consisting of Bergen, Passaic, Hudson, Sussex counties.  
+The affirmative marketing plan provides regulations for qualification of income eligibility, price and rent 
+restrictions, bedroom distribution, affordability control periods, and marketing in accordance with 
+N.J.A.C. 5:80-26.1 et seq. This plan must be adhered to by all private, non-profit, and municipal developers 
+of affordable housing and must cover the period of deed restriction or affordability controls on each 
+affordable home. 
+AFFORDABLE HOUSING TRUST FUND 
+A development fee ordinance creating a dedicated revenue source for affordable housing was originally 
+adopted by Franklin Lakes on May 10, 2000 and was approved by Superior Court on December 13, 2001. 
+Most recently, the Borough’s amended development fee ordinance was approved as part of the 2019 
+Judgement of Repose. The ordinance, which is Section 135 of the Borough Code, creates a dedicated 
+revenue source for affordable housing in the form of residential and nonresidential development fees and 
+establishes and regulates the affordable housing trust fund.  The ordinance requires residential 
+development fees in the amount of 1.5% of the equalized assessed value of  the residential development 
+and nonresidential development fees in the amount of 2.5% of the equalized assessed value of the 
+nonresidential development. 
+The Borough’s Spending Plan discusses anticipated revenues, collection of revenues, and the use of 
+revenues. Collected revenues are placed in the Borough’s Affordable Housing Trust fund and may 
+dispensed for the use of eligible affordable housing activities including, but not limited to:  
+§
+Rehabilitation program activities.
+§
+New construction of affordable housing homes and related development costs.
+§
+Extension of expiring affordability controls.
+§
+Purchase market rate homes for conversion to affordable housing homes.
+§
+Extensions or improvements of roads and infrastructure directly serving affordable housing
+development sites.
+§
+Acquisition and/or improvement of land to be used for affordable housing.
+§
+Maintenance and repair of affordable housing.
+§
+Repayment of municipal bonds issued to finance low- and moderate-income housing activity.
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 31 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 32 =====
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+FOURTH ROUND HOUSING PLAN  
+PAGE 29 
+§
+Any other activity as specified in the approved spending plan.
+As required by the Fair Housing Act, the Borough will expend a portion of its collected development fees 
+on affordability assistance to enhance affordability of affordable homes. Additionally, no more than 20% 
+of the revenues collected from development fees shall be expended on administration, including, but not 
+limited to, salaries and benefits for municipal employees or consultant fees necessary to prepare or 
+implement a rehabilitation program, a new construction program, a housing element and fair share plan, 
+and/or an affirmative marketing program. 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 32 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 33 =====
+BER-L-000503-25
+06/20/2025 3:34:57 PM_
+Pg 33 of 63
+Trans ID: LCV20251815200
+;
+ay
+¢
+P
+>
+$
+ad
+g
+KSC
+\
+BER) ° RH Seco
+are
+St
+a
+RAE
+RES ROT oR
+$
+a
+PREDSF BRETT
+FS
+;
+-
+y
+ATORI> CK XS Ne Se, ayy
+EER
+>
+Sa"
+SRS ISSA
+GES &
+y
+fe
+PENA
+OS
+VAY
+RTD
+sy SE
+,
+:
+PREETI ROT SOR EER Rie Kea A
+cpa,
+(Binet
+a=
+Feee
+ta
+%
+OO NIER— RRIOR ORE BERS
+DS
+setae
+OE
+> tin
+SAE
+:
+ERE EN RY SAIS RAR
+Teoares
+ipo
+=
+EIREN
+A
+ROO.
+ae AROINTL
+Vs
+Ried al
+“hes
+ay
+.
+wy Soe
+77>
+Pas
+KEY
+B
+-
+ae
+or
+¢
+it»
+FSS
+Z
+OSES
+LRSO
+ee
+p)
+.
+ie
+I SOOKE
+4
+A
+70
+Dyssisy
+<7XS?
+*
+SAS,
+bie
+af. NE
+saa
+Zhe MGMey OS
+‘
+)
+Ras"
+a
+aie
+:
+ry
+9
+Ganees
+Ke
+eee)
+\RER
+yr
+zh
+$
+™
+*
+1
+Ry
+wy
+OSS wy i
+4
+2
+Sve
+a.
+-
+.
+6,
+vy
+8
+L2~D
+LIS.
+ZA
+g
+be
+By
+ng
+;
+NSSENG
+wr
+IU
+A
+ae
+:
+;
+;
+:
+D> oe
+XG
+13
+ow
+2
+a
+PD
+RESON GARoe
+aSecERE MCS
+erm
+DFAS DESMA TG MND
+eee ran wetsnase so Oy Weiss
+¢
+PEA
+I A WPEREIRA
+SE EO Sled
+.
+ae
+Ly
+Y
+RORRISER ND isthged Les aa aa seareneaeatese ts ON
+i
+A
+ae
+$
+TORRE
+7
+ES
+IORI
+ORO REESE
+A ya
+;
+OS
+SPINS
+SOU GES So's
+unineyeoe a wa au vaseassse/oy so)
+¢
+Bey PORK PAIS EEE
+HOD ee
+el ESS
+Fu
+:
+Se
+c®@ DER RRO Wisc ten Denny Coscen saantianene tee abEee cs
+:
+enPROSSY
+SE PeVELLEET ell oes TS
+;
+;
+DERRY TEETER AER
+EEE
+POS
+;
+y
+Ly RNY SIS) EIB She ORISA Tet
+Vant
+;
+,
+©
+RR ROR RRS OSS
+eee”
+RAR res
+-
+‘
+A
+LLankliz
+Wis \ieee ae enh
+ee Naor nO a cn
+AS
+RAAT
+INGG, ©
+EE NS. BSR ef
+ees
+;
+CRS.
+PROPIA OORT,
+GERER) SURE
+te
+:
+Aa
+Be
+SSS
+COALYLRNS Eiregeen Ore
+XE
+VORA We 5
+yi
+oe
+P
+”
+REIL AIS
+SST
+TTT
+ASAS— a
+\EEDA
+0
+;
+:
+:
+fe
+is
+eee
+pySieY;LORETTA
+Fos) eer eee
+x
+~~
+SEI EYRE
+EERE
+SOT SSUESDY |”
+Wen?
+PAGER
+USER NESTSERE
+oe PV rapt)
+as
+be
+et
+IST)
+OLR STTy
+Shey
+SR aa;
+ht
+4
+Arma Ue
+3a epee
+a OgOF)
+sim
+Bee
+fetes
+1B Ag: Ken Saaan.o,
+ere WR
+NGS oraeth EB
+¥
+Pe
+’
+x
+;
+Upsieens ay
+aN A
+;
+‘
+;
+4
+UCR
+\ee Sy
+Ratt)
+URS ath
+S
+r¢
+ee
+24
+,
+j
+CEES.
+ISR|
+i)
+Oe Kt
+¢
+,
+UKE,
+= ASHY
+ors
+SSE
+:
+SXSER, Ea
+ae
+AO HN
+AF
+;
+|
+CO SAY
+away aaseer\
+ena
+14
+;
+:
+ARS SOE
+CER hs
+XG
+:
+oe
+\
+\
+Wed Ges
+SATOI
+Lge
+P
+.
+YAS
+LOT
+ei
+_/
+OM
+aes
+Mee
+eset
+He ey RS
+esCasa
+ies
+tase!
+ee
+peattnan BBee onrace
+arin
+Bae:
+v2
+|
+Oso SSE Oey
+“
+aa
+:
+RR
+RD
+oT
+el
+pO
+SICH
+Sina
+3
++
+\ =>
+:
+\
+;
+Y
+cue
+Sad
+|
+t*
+|
+;
+5
+uA
+ST
+|
+ie
+|
+!
+‘e.
+;
+«
+|
+|
+re Po inet yy
+;
+"ick |
+t
+L
+Gngy
+|
+BA, MM
+eS
+AS ode ea
+RSE CY
+=
+Tos
+>
+%
+nh
+pe LL ry
+ts
+oar,
+an
+ome |
+AFFORDABLE HOUSING SITES
+0
+0.5
+1 mi
+FOURTH ROUND HOUSING PLAN
+©
+K M A
+BOROUGH OF FRANKLIN LAKES | BERGEN COUNTY
+KYLE+MCMANUS ASSOCIATES
+DATA SOURCES: Basemap, Google Earth;
+GIS Data, NJ DEP
+
+===== PAGE 34 =====
+APPENDIX 1. 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS 
+2025 FOURTH ROUND HOUSING PLAN 
+HOUSING ELEMENT & FAIR SHARE PLAN 
+BOROUGH OF FRANKLIN LAKES 
+BERGEN COUNTY 
+NEW JERSEY 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 34 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 35 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+TABLE OF CONTENTS 
+ 
+ 
+Table 1: Population Trends (1940-2020) ...................................................................................................... 1 
+Table 2: Population by Age and Sex ............................................................................................................. 2 
+Table 3: Population Change by Age (2013-2023) ......................................................................................... 2 
+Table 4: Household Size ............................................................................................................................... 3 
+Table 5: Household and Family Types .......................................................................................................... 3 
+Table 6: Educational Attainment .................................................................................................................. 4 
+Table 7: Race and Ethnicity .......................................................................................................................... 5 
+Table 8: Household Income .......................................................................................................................... 5 
+Table 9: Poverty Rate ................................................................................................................................... 6 
+Table 10:  Unemployment Rate .................................................................................................................... 6 
+Table 11: Class of Worker ............................................................................................................................. 7 
+Table 12: Occupation ................................................................................................................................... 7 
+Table 13: Industry ......................................................................................................................................... 8 
+Table 14: Means of Transport to Work ........................................................................................................ 9 
+Table 15: Travel Time to Work ..................................................................................................................... 9 
+Table 16: Total Vehicles Available .............................................................................................................. 10 
+Table 17: Tenure ........................................................................................................................................ 10 
+Table 18: Occupancy Status ....................................................................................................................... 11 
+Table 19: Vacancy Status ............................................................................................................................ 11 
+Table 20: Units in Structure ........................................................................................................................ 12 
+Table 21: Units in Structure by Tenure ....................................................................................................... 12 
+Table 22: Year Structure Built ..................................................................................................................... 13 
+Table 23: Number of Bedrooms, Housing Stock ......................................................................................... 14 
+Table 24: Total Rooms ................................................................................................................................ 14 
+Table 25: Housing Quality Indicators .......................................................................................................... 15 
+Table 26: Year Moved In ............................................................................................................................. 16 
+Table 27: Mortgage Status ......................................................................................................................... 17 
+Table 28: Home Value ................................................................................................................................ 17 
+Table 29: Home Sales ................................................................................................................................. 18 
+Table 30: Residential Tax Assessments ...................................................................................................... 18 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 35 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 36 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+Table 31: Burden of Housing Costs, All Households ................................................................................... 19 
+Table 32: Burden of Housing Costs, Owner-Occupied Housing ................................................................. 19 
+Table 33: Monthly Costs, Homeowners with a Mortgage .......................................................................... 19 
+Table 34: Monthly Costs, Homeowners without a Mortgage .................................................................... 20 
+Table 35: Burden of Housing Costs, Renter-Occupied Housing ................................................................. 21 
+Table 36: Gross Rent .................................................................................................................................. 21 
+Table 37: Housing Permits Issued Annually, 2003-2023 ............................................................................ 22 
+Table 38: Share of Housing Permits Issued by Type, 2013-2023 ................................................................ 23 
+Table 39: Certificates of Occupancy, 2013-2023 ........................................................................................ 24 
+Table 40: Demolition Permits, 2013-2023 .................................................................................................. 24 
+Table 41: Nonresidential Construction, 2004-2023 ................................................................................... 25 
+Table 42: Long-term Population, Household and Employment Forecasts ................................................. 26 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 36 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 37 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 1 
+DEMOGRAPHIC ANALYSIS 
+The population of Franklin Lakes has grown steadily over the last century. Since 1940, the number of 
+residents has risen from 1,203 to 11,079 persons. Growth was especially vigorous between World War II 
+and 1970 as people flocked to greenfield development sprouting up in sparsely settled parts of Bergen 
+County. The largest population increase came in the 1960s when the township’s population surged by 
+4,234 persons, or 127.1%. People continued to come during the rest of the twentieth century, particularly 
+in the 1990s, when the population grew by 44%.  During the second half of the twentieth century, 
+population growth Franklin Lakes outpaced that of the larger county and state. The borough’s growth is 
+especially noteworthy in the context of Bergen County, the population of which declined in the 1970s and 
+80s. The community’s growth in the twenty-first century has been more modest, with the county and 
+state gaining population at a faster clip. In specific terms, the number of Franklin Lakes residents increased 
+by 1.6% in the 2000s and 4.6% in the 2010s.  
+It should be noted here that, although the total population data in Table 1 is drawn from the Decennial 
+U.S. Census survey, all subsequent Census Bureau data contained herein comes from the 2019-2023 
+American Community Survey (ACS), which is calculated as a 5-year estimate. 
+Table 1: Population Trends (1940-2020) 
+Year 
+Franklin Lakes 
+Bergen County 
+New Jersey 
+Total 
+Population 
+% Change, 
+Decade-on-
+Decade 
+Total 
+Population 
+% Change, 
+Decade-on-
+Decade 
+Total 
+Population 
+% Change, 
+Decade-on-
+Decade 
+1940 
+1,203 
+-- 
+409,646 
+-- 
+4,160,165 
+-- 
+1950 
+2,021 
+68.0% 
+539,139 
+31.6% 
+4,835,329 
+16.2% 
+1960 
+3,316 
+64.1% 
+780,255 
+44.7% 
+6,066,782 
+25.5% 
+1970 
+7,550 
+127.7% 
+898,012 
+15.1% 
+7,171,112 
+18.2% 
+1980 
+8,769 
+16.1% 
+845,385 
+-5.9% 
+7,365,011 
+2.7% 
+1990 
+9,873 
+12.6% 
+825,380 
+-2.4% 
+7,730,188 
+5.0% 
+2000 
+10,422 
+5.6% 
+884,118 
+7.1% 
+8,414,350 
+8.9% 
+2010 
+10,590 
+1.6% 
+905,116 
+2.4% 
+8,791,894 
+4.5% 
+2020 
+11,079 
+4.6% 
+955,732 
+5.6% 
+9,288,944 
+5.7% 
+Source:  Census Bureau, Decennial Census; NJ Dept. of Labor and Workforce Development 
+Table 2 shows the population cohorts for Franklin Lakes as of 2023. There are an unusually high number 
+of men who live in the community, 52.0%, while women make up 48.0% of the population. The cohort of 
+5-to-19 year old persons is the largest age group, accounting for 26.1% of residents. Notably, the 35-to-
+54 age group, a cohort most likely to have children, has the second-highest share (24.8%). Interestingly, 
+only 2.6% of the population is under the age of 5, suggesting that the population may plateau in the 
+coming decades. Seniors, if defined as age 65 and over, comprise 21.6% of the community. A further 15.8% 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 37 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 38 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 2 
+of residents are between the ages of 55 and 64. The community has a median age of 46.9 years old, with 
+the median age of women older than that of men.  
+Table 2: Population by Age and Sex 
+Age Group 
+Total Population 
+Male 
+Female 
+Number 
+% of 
+Population 
+Number 
+% of 
+Population 
+Number 
+% of 
+Population 
+Under 5 years old 
+285 
+2.6% 
+170 
+3.0% 
+115 
+2.2% 
+5 to 19 years of age 
+2,875 
+26.1% 
+1,763 
+30.8% 
+1,112 
+21.0% 
+20 to 34 years of age 
+998 
+9.1% 
+496 
+8.7% 
+502 
+9.5% 
+35 to 54 years of age 
+2,731 
+24.8% 
+1,316 
+23.0% 
+1,415 
+26.7% 
+55 to 64 years of age 
+1,741 
+15.8% 
+912 
+15.9% 
+829 
+15.7% 
+65 years of age and 
+older 
+2,381 
+21.6% 
+1,064 
+18.6% 
+1,317 
+24.9% 
+Total 
+11,011 
+100.0% 
+5,721 
+100.0% 
+5,290 
+100.0% 
+Median Age 
+46.9 
+45.0 
+48.6 
+Source: Census Bureau, 2019-2023 5-Year American Community Survey 
+Population trends show an aging community. Table 3 illustrates the changes among the various cohorts 
+between 2013 and 2023. During that time, the two oldest cohorts increased by 704 persons. At the same 
+time, the rest of the population decreased by 348 persons. The population of 35-to-54 year old population 
+has actually fallen since 2013, decreasing by 13.5%.  Simultaneously, the under 5 population plunged by 
+32.6%. Together, these two data points suggest that fewer families are putting down roots in Franklin 
+Lakes. 
+Table 3: Population Change by Age (2013-2023) 
+Age Group 
+2013 
+2023 
+Change, 2013 to 2023 
+2013 
+%, Total 
+Population 
+2023 
+%, Total 
+Population 
+Total 
+Change 
+% Change 
+Under 5 years old 
+423 
+4.0% 
+285 
+2.6% 
+-138 
+-32.6% 
+5 to 19 years of age 
+2,710 
+25.4% 
+2,875 
+26.1% 
+165 
+6.1% 
+20 to 34 years of age 
+945 
+8.9% 
+998 
+9.1% 
+53 
+5.6% 
+35 to 54 years of age 
+3,159 
+29.6% 
+2,731 
+24.8% 
+-428 
+-13.5% 
+55 to 64 years of age 
+1,505 
+14.1% 
+1,741 
+15.8% 
+236 
+15.7% 
+65 years of age and 
+older 
+1,913 
+18.0% 
+2,381 
+21.6% 
+468 
+24.5% 
+Source: 2009-2013, 2019-2023 5-Year American Community Survey 
+ 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 38 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 39 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 3 
+A household is defined by the Census Bureau as those persons who occupy a set of rooms constituting a 
+housing unit. These persons may or may not be related. A family is identified as a group of persons where 
+one or more persons related by blood, marriage or adoption who live in the same household.  
+Relative to the broader state, few people in the borough live alone. One-person households only account 
+for approximately 1 in 10 households. In contrast, 24.0% of Bergen County households consist of a single 
+person.  Two-person households, however, are very common, with 36.4% of all households. Four- and 
+five-person households are relatively common as well, representing 20.6% and 16.2%, respectively. Of all 
+households in the community, 20.3% consist of 5 persons or more 
+Table 4: Household Size 
+Household Size 
+Franklin Lakes 
+Bergen County 
+New Jersey 
+Total 
+% 
+Total 
+% 
+Total 
+% 
+1-person 
+352 
+10.5% 
+84,720 
+24.0% 
+918,897 
+26.4% 
+2-person 
+1,221 
+36.4% 
+107,385 
+30.4% 
+1,081,842 
+31.1% 
+3-person 
+411 
+12.3% 
+65,235 
+18.5% 
+594,946 
+17.1% 
+4-person 
+690 
+20.6% 
+60,083 
+17.0% 
+530,520 
+15.3% 
+5-person 
+542 
+16.2% 
+24,662 
+7.0% 
+218,492 
+6.3% 
+6-person 
+120 
+3.6% 
+7,815 
+2.2% 
+79,678 
+2.3% 
+7-person HH or more 
+18 
+0.5% 
+3,407 
+1.0% 
+53,980 
+1.6% 
+Total, HH 
+3,354 
+100.0% 
+353,307 
+100.0% 
+3,478,355 
+100.0% 
+Average HH Size 
+3.12 
+2.67 
+2.61 
+Source: 2019-2023 5-Year American Community Survey 
+Census data on families and household types contain insights into the community’s household trends. 
+Households in Franklin Lakes, with an average household size of 2.92 persons, tend to be larger than those 
+in the rest of the state. Married couples live in 80.2% of households, a number far in excess of the rest of 
+the state, where only one in two households include a married couple. Franklin Lakes is still home to many 
+families with 39.6% of households having at least one member under the age of 18. This exceeds the share 
+for Bergen County, where 32.3% of households have at least one child. At the opposite end of the age 
+spectrum, 41.2% of households have at least one person over the age of 65 years old. This percentage is 
+likely to rise further, considering that middle-aged cohorts grew at much larger rates compared to younger 
+age groups over the last 10 years. The aging of the population should be kept in mind to adequately plan 
+for housing needs and senior services in the future.  
+Table 5: Household and Family Types  
+Household Type 
+Franklin 
+Lakes 
+Bergen 
+County 
+New 
+Jersey 
+Married Couple 
+80.2% 
+55.8% 
+50.0% 
+Cohabitating Couple 
+0.3% 
+5.3% 
+6.6% 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 39 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 40 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 4 
+Household Type 
+Franklin 
+Lakes 
+Bergen 
+County 
+New 
+Jersey 
+Male householder no spouse 
+5.5% 
+14.5% 
+16.1% 
+Female householder, no spouse 
+13.9% 
+24.4% 
+27.3% 
+  
+HH with at least one person under 18 
+39.6% 
+32.3% 
+31.4% 
+HH with at least one person over 65 
+41.2% 
+34.0% 
+32.5% 
+  
+Average Household size 
+2.92 
+2.67 
+2.61 
+Average Family Size 
+3.21 
+3.19 
+3.19 
+Source: 2019-2023 5-Year ACS 
+Residents in Franklin Lakes have exceptionally high rates of educational attainment. Of all residents at 
+least 25 years of age, a staggering 78.9% have at least a bachelor’s degree while 36.4% have a graduate 
+or professional degree. In all, 98.4% have earned a high school diploma. These rates stand out relative 
+even to Bergen County, where the 52.6% of residents have a bachelor’s degree or higher. Given the strong 
+relationship between educational attainment and income, the high levels of education play a major role 
+in shaping the borough’s economy. 
+Table 6: Educational Attainment 
+Highest level of education 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Less than 9th grade 
+0.7% 
+4.0% 
+4.6% 
+9th to 12th grade, no diploma 
+0.9% 
+3.1% 
+4.7% 
+High school graduate (includes equivalency) 
+9.3% 
+20.1% 
+25.7% 
+Some college, no degree 
+5.8% 
+13.5% 
+15.3% 
+Associate's degree 
+4.5% 
+6.7% 
+6.7% 
+Bachelor's degree 
+42.7% 
+31.3% 
+25.8% 
+Graduate or professional degree 
+36.2% 
+21.3% 
+17.1% 
+High school graduate or higher 
+98.4% 
+92.9% 
+90.7% 
+Bachelor's degree or higher 
+78.9% 
+52.6% 
+42.9% 
+Source: 2019-2023 5-Year ACS 
+With regard to race, White persons account for a large majority of residents, or 74.9%. White residents 
+constitute a smaller of Bergen County’s population, 59.2%. Asian residents make up 11.7% of the 
+population, lower than the countywide figure of 16.6%. Black residents comprise 5.6% of the population, 
+significantly less than the statewide figure of 13.0%. The share of multiracial persons amounts to 7.3% of 
+the population. The Hispanic population, which is composed of different racial groups, also makes up 7.3% 
+of the population. For a state with 21.9% of the population is Hispanic, this is relatively small.  
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 40 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 41 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 5 
+Table 7: Race and Ethnicity 
+Race and Ethnicity 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Non-Hispanic (All Races) 
+92.7% 
+77.9% 
+78.1% 
+White 
+74.2% 
+52.5% 
+51.9% 
+Black 
+5.1% 
+5.3% 
+12.3% 
+Asian 
+11.7% 
+16.6% 
+9.8% 
+Other Race Alone 
+0.4% 
+0.8% 
+0.8% 
+Two or more Races 
+1.3% 
+2.7% 
+3.2% 
+Hispanic (All Races) 
+7.3% 
+22.1% 
+21.9% 
+Hispanic, White 
+0.7% 
+6.3% 
+5.0% 
+Hispanic, Black 
+0.5% 
+0.4% 
+0.7% 
+Hispanic, Other 
+0.2% 
+6.7% 
+8.9% 
+Hispanic, Two or More Races 
+6.0% 
+8.6% 
+7.4% 
+Source: 2019-2023 5-Year ACS 
+ 
+ANALYSIS OF SOCIOECONOMIC CHARACTERISTICS 
+Franklin Lakes is a very wealthy community. According to the most recent American Community Survey, 
+56.1% of households have an income of at least $200,000. The median household income is $230,987, 
+almost double the figure for Bergen County, $123,715. For its part, the mean household income for 
+households in the borough is $321,350. Given the upward skew of the mean, it’s reasonable to conclude 
+that Franklin Lakes is home to a small number of extraordinarily high-earning households. In all, 78.3% of 
+households have an income of $100,000 or higher. As for those with fewer means, 12.2% of households 
+have an income less than $50,000. To put that in perspective, 25.2% of households in New Jersey have an 
+income under $50,000. 
+Table 8: Household Income 
+HH Income 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Less than $25,000 
+3.0% 
+9.0% 
+11.9% 
+$25,000-$50,000 
+9.2% 
+10.8% 
+13.3% 
+$50,000-$100,000 
+9.3% 
+21.2% 
+24.3% 
+$100,000-$200,000 
+22.2% 
+30.6% 
+29.7% 
+More than $200,000 
+56.1% 
+28.4% 
+20.7% 
+Median HH Income 
+$230,987 
+ 123,715  
+$101,050 
+Mean HH Income 
+$321,350 
+ 169,191  
+$140,299 
+Source: 2019-2023 5-Year ACS 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 41 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 42 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 6 
+Even so, it’s necessary to note the presence of persons who have limited resources. To that end, the 
+poverty rate for Franklin Lakes is 3.2% (Figure 9). That is just under half the Bergen County rate, or 6.7%. 
+The poverty rate is higher among Franklin Lakes seniors, 7.0% of whom live below the poverty line. The 
+statewide figure is more than four times higher, or 13.3%. The child poverty rate for is 3.2%, far lower 
+than the level in New Jersey overall, or 13.3%.  
+Table 9: Poverty Rate 
+Poverty Status 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Poverty Rate, Overall 
+3.2% 
+6.7% 
+9.8% 
+Poverty Rate, Under 18 years old 
+2.9% 
+7.5% 
+13.3% 
+Poverty Rate, Seniors 
+7.0% 
+8.3% 
+9.5% 
+Source: 2019-2023 5-Year ACS 
+Over the past decade, Franklin Lakes workers have had an easier time finding jobs than their compatriots 
+in the rest of the county and state. During this time, the municipal unemployment rate stayed consistently 
+below the New Jersey and Bergen County rates. In the 2010s, the unemployment rate trended downward, 
+reaching a low of 2.6% in 2019. The unemployment rate subsequently shot up to 7.4% in 2020, with the 
+advent of Covid, before tapering back down to 5.1% in 2021. Even then, Franklin Lakes withstood the 
+economic disruption from the pandemic better than the wider county and state, where the 
+unemployment rate spiked to 9.2% and 9.4%, respectively. The data indicate that employment and, by 
+extension, household finances are relatively stable. 
+Table 10:  Unemployment Rate 
+Year 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+2013 
+5.5% 
+6.8% 
+8.4% 
+2014 
+4.1% 
+5.4% 
+6.7% 
+2015 
+3.9% 
+4.6% 
+5.7% 
+2016 
+3.3% 
+4.1% 
+4.9% 
+2017 
+3.2% 
+3.8% 
+4.5% 
+2018 
+2.9% 
+3.3% 
+4.0% 
+2019 
+2.6% 
+2.8% 
+3.5% 
+2020 
+7.4% 
+9.2% 
+9.4% 
+2021 
+5.1% 
+6.3% 
+6.7% 
+2022 
+3.2% 
+3.5% 
+3.9% 
+2023 
+3.5% 
+3.9% 
+4.4% 
+Source: NJ Dept. of Labor and Workforce Development 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 42 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 43 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 7 
+Examining the labor force further, 23.9% of the working population is self-employed, either as a business 
+owner or a contractor. In New Jersey, by contrast, 9.0% of New Jersey workers are self-employed. Given 
+the relatively high share of self-employed workers suggests the presence of entrepreneurs and workers 
+with specialized talent who can work for themselves. Still, these workers only compose a minority of the 
+local labor force. Almost two-thirds of workers, 65.7%, are employed by for-profit businesses. 
+Government and not-for-profit employees account for a relatively small share of workers, with the former 
+accounting for 5.5% of the labor force and the latter for 4.9%.  
+Table 11: Class of Worker 
+Class of Worker 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+For-profit company employee 
+65.7% 
+67.9% 
+69.2% 
+Not-for-profit employee 
+4.9% 
+8.1% 
+7.6% 
+Government Worker 
+5.5% 
+12.5% 
+14.2% 
+Self-employed, business owner 
+14.9% 
+5.5% 
+3.9% 
+Self-employed, contractor 
+9.0% 
+6.0% 
+5.1% 
+Source: 2019-2023 5-Year ACS 
+Data for various occupation types (Table 12) reinforces how relatively skilled the Franklin Lakes workforce 
+is compared to overall population. Irrespective of the industry, 72.0% of the employed population of 
+Franklin Lakes works in a management, business, science, or arts position. These are individuals who 
+possess the specialized level of skills and knowledge required for these roles. Workers in positions that 
+require fewer skills compose a relatively small share of the employed population.  Relatively small 
+numbers of people who work in more menial occupations live in the township. A mere 2.6 % of Franklin 
+Lakes workers work in production, transportation, and moving while 8.6% of Franklin County and 11.3% 
+of New Jersey workers. Similarly, only 1.5% of employed residents work in natural resources, construction, 
+and maintenance, far less than the share in the county and state, 5.2 and 6.9%, respectively. Workers in 
+service occupations take up 5.8%, less than half the rate for Bergen County.  
+Table 12: Occupation 
+Occupation 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Management, business, science, and arts 
+72.0% 
+53.3% 
+46.9% 
+Service occupations 
+5.8% 
+12.4% 
+14.8% 
+Sales and office occupations 
+18.2% 
+20.4% 
+20.0% 
+Natural resources, construction, and maintenance 
+occupations 
+1.5% 
+5.2% 
+6.9% 
+Production, transportation, and material moving 
+2.6% 
+8.6% 
+11.3% 
+Source: 2019-2023 5-Year ACS 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 43 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 44 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 8 
+Franklin Lakes residents are employed in all the major industrial sectors, but the professional, scientific, 
+and management sector is especially critical to the local economy. According to the US Bureau of Labor 
+Statistics, these are “activities that require a high degree of expertise and training” and encompass 
+professions as disparate as the law, accounting, and engineering. This sector employs 20.6% of Franklin 
+Lakes’s employed population, significantly higher than the county- and statewide rates, 16.4% and 15.4%, 
+respectively. The financial sector also figures prominently. Of working residents, 17.1% work in the 
+finance, insurance, and real estate sector, compared to 10.3% of those statewide. Franklin Lakes is 
+relatively close to New York and its multitude of financial firms, so it makes sense that the affluent 
+community would be home to many Wall Street workers. Healthcare, an important part of the modern 
+economy, employs 15.3% of Franklin Lakes workers. The information and wholesale sectors also employ 
+a higher percentage of borough residents than for either Bergen County or New Jersey. Industries 
+associated with blue collar work like manufacturing, construction, and retail employ fewer Franklin Lakes 
+workers relative to the county and state. The retail sector employs 6.8% of the employed population, less 
+than the 8.7% statewide, while the manufacturing sector employs 7.6%. Just 2.9% of employed persons 
+in Franklin Lakes work in the construction sector, a share that pales in comparison to the 6.2% in New 
+Jersey overall.  
+Table 13: Industry 
+Industry 
+Franklin 
+Lakes 
+Bergen 
+County 
+New 
+Jersey 
+Agriculture, forestry, fishing and hunting, and mining 
+0.2% 
+0.1% 
+0.3% 
+Construction 
+2.9% 
+5.2% 
+6.4% 
+Manufacturing 
+7.6% 
+9.3% 
+9.8% 
+Wholesale trade 
+4.7% 
+4.3% 
+3.4% 
+Retail trade 
+6.2% 
+8.6% 
+8.7% 
+Transportation and warehousing, and utilities 
+2.3% 
+5.5% 
+6.9% 
+Information 
+3.2% 
+3.1% 
+2.9% 
+Finance and insurance, and real estate and rental and leasing 
+17.1% 
+12.0% 
+10.3% 
+Professional, scientific, and management, and administrative 
+and waste management services 
+20.6% 
+16.4% 
+15.4% 
+Educational services 
+8.6% 
+8.8% 
+8.9% 
+Health care and social assistance 
+15.3% 
+14.4% 
+13.3% 
+Arts, entertainment, and recreation, and accommodation 
+and food services 
+5.2% 
+4.9% 
+4.8% 
+Other services except public administration 
+4.1% 
+3.8% 
+3.5% 
+Public administration 
+2.0% 
+3.7% 
+5.3% 
+Source: 2019-2023 5-Year ACS 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 44 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 45 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 9 
+Most Franklin Lakes residents travel to work by car. Approximately 55.8% of the working population drives 
+to work alone while another 4.7% carpool. A sizable segment of the labor force, 6.3%, uses public 
+transportation to get to work. Still, this is less than the comparable figure for Bergen County, a place well-
+served by mass transit and where 11.2% of workers commute via public transportation. Tellingly, 29.2% 
+of employed residents telecommute, close to twice the statewide rate, 15.0%. Work from home is feasible 
+for the many self-employed residents of Franklin Lakes, not to mention the many professional and 
+management workers who inhabit the borough. A small percentage of workers, 1.2%, walk to work, so 
+presumably some businesses are located within walking distance of residential neighborhoods. 
+Table 14: Means of Transport to Work 
+Means of Transport 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Drove alone 
+55.8% 
+60.6% 
+63.7% 
+Carpooled 
+4.7% 
+7.2% 
+7.7% 
+Public transportation 
+6.3% 
+11.2% 
+8.5% 
+Walked 
+1.2% 
+2.5% 
+2.6% 
+Bicycle 
+0.0% 
+0.2% 
+0.3% 
+Taxicab, motorcycle, or other means 
+2.8% 
+1.8% 
+2.1% 
+Worked from home 
+29.2% 
+16.3% 
+15.0% 
+Source: 2019-2023 5-Year ACS 
+Franklin Lakes commuters endure longer travel times than those commuting from elsewhere. A sizable 
+percentage of these commuters, 22.7%, have hourlong commutes or longer.  Another 12.2% have a 
+commute that lasts at least 45 minutes while a further 22.6% have a commute that lasts a minimum of 30 
+minutes. All told, 57.7% of Franklin Lakes commuters have a commute of at least 30 minutes. This eclipses 
+the share for Bergen County and New Jersey, where 47% and 46% of commuting workers, respectively, 
+have a commute of at least 30 minutes. Some residents have a relatively short commute. In particular, 
+27.6% have a commute under 20 minutes, of which 11% can get to work in under 10 minutes. 
+Table 15: Travel Time to Work 
+Travel Time 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Less than 10 minutes 
+11.0% 
+10.2% 
+9.9% 
+10 to 14 minutes 
+7.0% 
+11.6% 
+11.5% 
+15 to 19 minutes 
+9.6% 
+12.1% 
+13.1% 
+20 to 24 minutes 
+10.7% 
+12.4% 
+12.9% 
+25 to 29 minutes 
+4.3% 
+6.6% 
+6.7% 
+30 to 34 minutes 
+13.9% 
+13.2% 
+13.7% 
+35 to 44 minutes 
+8.7% 
+7.2% 
+8.2% 
+45 to 59 minutes 
+12.2% 
+9.9% 
+9.9% 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 45 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 46 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 10 
+Travel Time 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+60 or more minutes 
+22.7% 
+16.7% 
+14.2% 
+Mean travel time to work (minutes) 
+36.5 
+31.3 
+30.9 
+Source: 2019-2023 5-Year ACS 
+The typical Franklin Lakes household has at least 3 cars. To be precise, 55.0% of households have 3 cars 
+or more. This far outstrips the Bergen County number of 29.7%.  An additional 39.6% of households in the 
+borough have 2 automobiles. This means that only 94.6% of households possess at least 2 cars. Of the 
+remaining households, 4% have a single vehicle while 1.4% do not have a car at all.  To put this in context, 
+while 10.5% consist of a single person, only 5.4% have less than 2 cars at their disposal. The data are 
+unusual for Bergen County, where 28.0% of households either have 1 car or do not have a car altogether. 
+Countywide, 29.7% of households have 3 or more vehicles. 
+Table 66: Total Vehicles Available 
+Total Vehicles 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+No vehicle 
+1.4% 
+4.0% 
+6.4% 
+1 vehicle 
+4.0% 
+24.0% 
+23.3% 
+2 vehicles 
+39.6% 
+42.3% 
+39.9% 
+3 or more 
+vehicles 
+55.0% 
+29.7% 
+30.3% 
+Source: NJ 2019-2023 5-Year ACS 
+ 
+ANALYSIS OF HOUSING STOCK 
+Homeownership is the predominant form of tenure in Franklin Lakes. That is, 88.3% of residents live in 
+owner-occupied housing units (Table 18). The remaining 11.7% of the populace are rental tenants. The 
+municipality’s owner-occupied share is far higher than the share statewide, 63.7%. It also greatly exceeds 
+the share for Bergen County of 65.4%. 
+Table 77: Tenure 
+Tenure 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Owner-Occupied 
+88.3% 
+65.4% 
+63.7% 
+Renter-Occupied 
+11.7% 
+34.6% 
+36.3% 
+Source: 2019-2023 5-Year ACS 
+ 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 46 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 47 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 11 
+There are few vacant housing units in Franklin Lakes or, indeed, Bergen County, more generally. To be 
+specific, 2.8% of housing units in Franklin Lakes are vacant while 4.1% of housing units are vacant in the 
+broader county (Figure 19). The vacancy rate statewide of 8.8% greatly outstrips the municipal and county 
+rates. Housing experts generally consider a vacancy rate of approximately 7% to be optimal in the sense 
+that vacant housing units find buyers and renters in a timely manner while the cost of housing remains 
+relatively stable. The borough’s vacancy rate indicates a market where demand far outpaces supply, with 
+intense upward pressures on housing costs. 
+Table 18: Occupancy Status  
+Occupancy Status 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Occupied 
+97.2% 
+95.9% 
+92.1% 
+Vacant 
+2.8% 
+4.1% 
+7.9% 
+Source: 2019-2023 5-Year ACS 
+Houses for sale represent an estimated 49.1% of housing vacancies while 11.1% have been sold, but the 
+new owners have not yet moved in. This makes a stark contrast with the state overall, where 6.4% of 
+vacant units are for sale and another 4.1% have been sold but remain vacant. Vacant units for rent (16.0%) 
+or recently leased (2.7%) account for a greater share of housing vacancies statewide. Census estimates 
+for vacant units in Franklin Lakes show do not include any rentals currently on the market. Housing units 
+used for recreational or seasonal use also do not for any of the vacant units.  
+Table 19: Vacancy Status 
+Vacancy Status 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+For rent 
+0.0% 
+29.4% 
+16.0% 
+Rented, not occupied 
+0.0% 
+4.7% 
+2.7% 
+For sale only 
+49.1% 
+12.5% 
+6.4% 
+Sold, not occupied 
+11.1% 
+10.2% 
+4.1% 
+For seasonal, recreational, or occasional use 
+0.0% 
+4.9% 
+43.7% 
+Other vacant 
+39.8% 
+38.2% 
+27.1% 
+Source: 2019-2023 5-Year ACS 
+The housing stock in Franklin Lakes is composed predominantly of single-family homes. To be exact, 89.1% 
+of homes are detached one-family residences, with a further 3.0% of units single-family attached. This is 
+a far greater share of the housing stock than elsewhere in Bergen County, where one-family detached 
+units represent a narrow majority of the total housing stock, or 53.2%. Attached one-family units account 
+for an even greater share of the statewide housing stock, with 10.0% of all units. 
+Two-family residences account for 0.4% of homes while 1,2% are in buildings with 3 or 4 dwellings. The 
+remainder of the housing stock is situated in multifamily buildings, typically defined in New Jersey as a 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 47 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 48 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 12 
+building with five or more housing units. Of this, 0.7% of housing in Franklin Lakes is in buildings between 
+5 and 20 units; 1.3% is in multifamily buildings of between 20 and 49 units; and 3.9% is comprised of units 
+in apartment buildings with 50 units or more. If the Census is to be believed, there is at least one large 
+apartment building in Co, with 0.4% of homes located in buildings of 50 units or more. Mobile homes, an 
+option for low-income households, make up the remaining 0.5%. Multifamily housing makes up a far 
+larger share countywide, accounting for 22.1% of the Bergen County housing stock, 10.5% of which is in 
+multifamily buildings. 
+Table 20: Units in Structure 
+Housing Type 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+1, detached 
+89.1% 
+53.2% 
+52.7% 
+1, attached 
+3.0% 
+6.0% 
+10.0% 
+2 
+0.4% 
+12.6% 
+8.6% 
+3 or 4 
+1.2% 
+5.5% 
+6.1% 
+5 to 9 
+0.5% 
+3.3% 
+4.7% 
+10 to 19 
+0.2% 
+3.7% 
+4.9% 
+20 to 49 
+1.3% 
+4.6% 
+4.2% 
+50 or more 
+3.9% 
+10.5% 
+7.9% 
+Mobile home 
+0.5% 
+0.4% 
+0.9% 
+Boat, RV, van, etc. 
+0.0% 
+0.0% 
+0.0% 
+Source: 2019-2023 5-Year ACS 
+The scarcity of multifamily housing is likely a significant reason why so few renters live in Franklin Lakes. 
+Buildings with five or more housing units provide for 50.6% of the state’s rental housing. Single-family 
+residences account for a smaller percentage of rental housing in New Jersey, with 11.7% of rental units 
+located in one-family attached residences and 8.4% in one-family attached residences. The split is 
+different for Franklin Lakes, where detached one-family homes account for 36.3% of renter-occupied 
+housing and 2.0% in one-family attached housing. Three- and four-unit structures contain 10.6% of the 
+borough’s rental housing between them while buildings of between 5 and 9 units contain another 4.1%. 
+As for larger structures, buildings with 50 units or more constitute 34.5% of the rental housing stock while 
+11.1% is in buildings with between 20 and 49 units. It should be noted that mobile homes, which can be 
+an affordable option, account for 0.5% of the borough’s owner-occupied housing stock. 
+Table 21: Units in Structure by Tenure 
+Housing Type 
+Franklin Lakes 
+Bergen County 
+New Jersey 
+Owner-
+Occupied 
+Renter-
+Occupied 
+Owner-
+Occupied 
+Renter-
+Occupied 
+Owner-
+Occupied 
+Renter-
+Occupied 
+1, detached 
+95.8% 
+36.3% 
+75.9% 
+12.3% 
+77.1% 
+11.7% 
+1, attached 
+3.2% 
+2.0% 
+6.2% 
+5.7% 
+10.2% 
+8.4% 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 48 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 49 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 13 
+Housing Type 
+Franklin Lakes 
+Bergen County 
+New Jersey 
+Owner-
+Occupied 
+Renter-
+Occupied 
+Owner-
+Occupied 
+Renter-
+Occupied 
+Owner-
+Occupied 
+Renter-
+Occupied 
+2 
+0.4% 
+0.0% 
+7.1% 
+22.4% 
+4.6% 
+15.5% 
+3 or 4 
+0.0% 
+10.6% 
+1.4% 
+13.4% 
+1.7% 
+13.8% 
+5 to 9 
+0.0% 
+4.1% 
+0.8% 
+7.9% 
+1.4% 
+10.6% 
+10 to 19 
+0.0% 
+1.4% 
+1.1% 
+8.6% 
+1.2% 
+11.4% 
+20 to 49 
+0.0% 
+11.1% 
+1.7% 
+9.9% 
+1.0% 
+9.7% 
+50 or more 
+0.0% 
+34.5% 
+5.2% 
+19.5% 
+1.8% 
+18.4% 
+Mobile home 
+0.5% 
+0.0% 
+0.4% 
+0.4% 
+1.1% 
+0.4% 
+Boat, RV, van, etc. 
+0.0% 
+0.0% 
+0.0% 
+0.1% 
+0.0% 
+0.1% 
+Source: 2019-2023 5-Year ACS 
+ 
+As previously mentioned, most of Franklin Lakes’s population growth occurred in the second half of the 
+twentieth century. This history is reflected in Census Bureau data, with only 3.0% of homes in structures 
+built before 1940 and 4.3% before 1950. Housing construction accelerated in the 1950s, but it was in the 
+1960s when development began in earnest, with 17.3% of existing homes dating from that decade. 
+Growth continued apace in subsequent decades, with 17.9% of the borough’s housing stock built in the 
+1970s and another 18.5% in the 1980s. Homebuilding tailed off somewhat during the 1990s, when 9.3% 
+of residences were built before rebounding in the 2000s, a decade when 14.3% of dwellings were built. 
+Since 2010, growth rates have significantly fallen off, with 7.3% of homes built during the 2010s and only 
+2.5% in the 2020s thus far. 
+Table 22: Year Structure Built 
+Year Structure Built 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Built 2020 or later 
+2.5% 
+0.7% 
+0.6% 
+Built 2010 to 2019 
+7.3% 
+5.0% 
+5.8% 
+Built 2000 to 2009 
+14.5% 
+5.8% 
+9.1% 
+Built 1990 to 1999 
+9.3% 
+5.7% 
+9.1% 
+Built 1980 to 1989 
+18.5% 
+8.2% 
+11.9% 
+Built 1970 to 1979 
+17.9% 
+9.4% 
+12.4% 
+Built 1960 to 1969 
+17.3% 
+14.1% 
+13.0% 
+Built 1950 to 1959 
+8.5% 
+21.0% 
+14.1% 
+Built 1940 to 1949 
+1.3% 
+10.7% 
+6.7% 
+Built 1939 or earlier 
+3.0% 
+19.4% 
+17.5% 
+Source: 2019-2023 5-Year ACS 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 49 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 50 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 14 
+Housing in Franklin Lakes is relatively large compared with that of the state as a whole. The residential 
+structures in the borough can generally accommodate larger families.  Tellingly, 37.0% of housing units in 
+Franklin Lakes have five bedrooms or more, more than five times the rate for Bergen County and more 
+than six times the share for New Jersey. The tendency toward larger homes is even more pronounced, 
+considering that 4-bedroom houses represent another 35.4% of homes. While 72.4% of residential units 
+are in 4- and 5-bedroom houses, only 26.3% and a much larger figure than the 26.5 and 19.7% for 25.6% 
+do in Bergen County and the state, respectively. Conversely, the borough has a paucity of smaller housing 
+units. One-bedroom units, for example compose just 2.8% of the housing stock, with 2-bedroom units 
+counting for another 10.2% of homes. Three-bedroom residences make up the remaining 14.2% of the 
+housing stock. To summarize, residential units that have 3 units or less account for 27.6% of Franklin Lakes 
+housing. In contrast, such units make 72.8% of the housing stock in Bergen County overall and 74.5% in 
+New Jersey. 
+Table 23: Number of Bedrooms, Housing Stock 
+Total Bedrooms 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+No bedroom 
+0.0% 
+3.0% 
+3.0% 
+1 bedroom 
+2.8% 
+15.9% 
+14.2% 
+2 bedrooms 
+10.2% 
+22.9% 
+25.5% 
+3 bedrooms 
+14.6% 
+31.0% 
+31.8% 
+4 bedrooms 
+35.4% 
+19.9% 
+19.7% 
+5 or more bedrooms 
+37.0% 
+7.3% 
+5.9% 
+Source: 2019-2023 5-Year ACS 
+Census data on total rooms also illustrate the relatively large size of Franklin Lakes homes. 54.6% of Colts 
+Neck homes have at least 9 rooms, most that a respondent can choose on their ACS questionnaire. Thus, 
+the median rooms per home in Franklin Lakes is given as ‘9.0+’. Countywide, where the median number 
+of rooms per unit is 6.4, only 16.1% of homes have 9 rooms or more. Eight-bedroom units comprise 14.5% 
+of the housing stock while 7-bedroom homes account for 12.6%. In other words, 81.7% of homes in 
+Franklin Lakes have seven units or more. The relatively low number of homes of modest size also shows 
+up in the rooms data. Dwellings with 5 rooms or less make up just 12.7 of the housing stock in Franklin 
+Lakes, far different than the wider county, where 45.3% of homes consist of 5 rooms or less. The single-
+family character of Franklin Lakes and the high incomes of its residents surely contribute to the 
+expansiveness of the homes built in the township.  
+Table 24: Total Rooms 
+Total Rooms 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+1 room 
+0.0% 
+2.7% 
+2.7% 
+2 rooms 
+0.7% 
+3.6% 
+3.0% 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 50 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 51 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 15 
+Total Rooms 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+3 rooms 
+1.9% 
+11.3% 
+10.5% 
+4 rooms 
+6.3% 
+14.0% 
+15.2% 
+5 rooms 
+3.8% 
+13.7% 
+15.8% 
+6 rooms 
+5.5% 
+15.7% 
+15.4% 
+7 rooms 
+12.6% 
+12.5% 
+12.0% 
+8 rooms 
+14.5% 
+10.4% 
+10.4% 
+9 rooms or more 
+54.6% 
+16.1% 
+15.2% 
+Median rooms 
+9.0+ 
+6.4 
+5.7 
+Source: 2019-2023 5-Year ACS 
+Relatively few housing units lack essential facilities, with 1.1% of homes lacking plumbing facilities. Still, 
+perhaps unexpectedly for a place of such affluence, the share of homes that lack such facilities as indoor 
+plumbing is higher than the percentage seen in the state overall, where only 0.3% of homes lack plumbing 
+facilities. The unusually high number of houses with inadequate plumbing may reflect some of the oldest 
+homes in Franklin Lakes, constructed when the area was rural in character and many homes had what 
+would be deemed today as substandard facilities. In terms of other essential facilities, 0.8% of dwellings 
+lack kitchen facilities while 0.8% also lack telephone service.  In addition, 0.7% of residences meet the 
+definition of overcrowding, where the number occupants exceed the number of rooms. Still, this rate is 
+small, compared with the 3.4% of homes in Bergen County and 3.7% in New Jersey that meet the criteria 
+for overcrowding. With regard to fuel, natural gas supplied by a utility is the most popular heating fuel, 
+with 87.2% of households using it to hear their home. Electricity is used by 8.9% of households while oil 
+keeps 3.6% of homes warm in cold weather. 0.2 of households lack fuel to heat their home.  
+Table 25: Housing Quality Indicators 
+Home Heating Fuel 
+Franklin Lakes 
+Bergen County 
+New Jersey 
+Utility gas 
+87.2% 
+77.0% 
+73.3% 
+Bottled, tank, or LP gas 
+0.2% 
+2.7% 
+2.5% 
+Electricity 
+8.9% 
+14.9% 
+15.6% 
+Fuel oil, kerosene, etc. 
+3.6% 
+3.9% 
+6.8% 
+Coal or coke 
+0.0% 
+0.0% 
+0.0% 
+Wood 
+0.0% 
+0.0% 
+0.3% 
+Solar energy 
+0.0% 
+0.1% 
+0.2% 
+Other fuel 
+0.0% 
+0.6% 
+0.5% 
+No fuel used 
+0.2% 
+0.7% 
+0.8% 
+Lacking facilities 
+  
+  
+  
+Lacking complete plumbing 
+facilities 
+1.1% 
+0.3% 
+0.3% 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 51 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 52 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 16 
+Home Heating Fuel 
+Franklin Lakes 
+Bergen County 
+New Jersey 
+Lacking complete kitchen facilities 
+0.8% 
+0.7% 
+0.8% 
+No telephone service available 
+0.8% 
+0.8% 
+0.9% 
+Occupants Per Room 
+  
+  
+  
+1.00 or less 
+99.3% 
+96.6% 
+96.3% 
+1.01 to 1.50 
+0.2% 
+2.0% 
+2.4% 
+1.51 or more 
+0.5% 
+1.4% 
+1.3% 
+Source: 2019-2023 5-Year ACS 
+Franklin Lakes residents moved to the community in waves that mirror the patterns for Bergen County as 
+a whole. 7.6% of households have moved to the borough between 2021 and 2023, close to the 7.7% in 
+the county as a whole. The Franklin Lakes figure is especially remarkable given that relatively few renters, 
+who move frequently, live in the community. It seems reasonable to conclude that many of these 
+households moved in the wake of the work from home revolution. A further 12.6% of households moved 
+between 2018 and 2020 while 29.2% arrived between 2010 and 2017. All told, 70.2% of Franklin Lakes 
+households moved into their current home during the twenty-first century. For the county and state, the 
+comparable figures are 74.2% and 76.9%. Of the remaining households, 17.8% moved into their current 
+home during the 1990s, while 12.1% moved in before 1990.  
+Table 26: Year Moved In 
+Year Moved In 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Moved in 2021 or later 
+7.6% 
+7.7% 
+8.3% 
+Moved in 2018 to 2020 
+12.6% 
+18.1% 
+20.6% 
+Moved in 2010 to 2017 
+29.2% 
+28.8% 
+28.6% 
+Moved in 2000 to 2009 
+20.8% 
+19.6% 
+19.2% 
+Moved in 1990 to 1999 
+17.8% 
+12.0% 
+11.4% 
+Moved in 1989 and earlier 
+12.1% 
+13.8% 
+11.9% 
+Source: 2009-2013 5-Year ACS 
+ 
+ANALYSIS OF HOUSING AFFORDABILITY 
+Approximately 67.4% of Franklin Lakes homeowners have a mortgage while 32.1% do not. The share of 
+homeowners who have a mortgage is higher than the share countywide, where 62.2% of homeowners 
+have a mortgage. This makes sense as many households moved into their home relatively recently. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 52 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 53 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 17 
+Table 27: Mortgage Status 
+Mortgage Status 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+With a mortgage 
+67.4% 
+62.2% 
+64.4% 
+Without a mortgage 
+32.1% 
+37.8% 
+35.6% 
+Source: 2019-2023 5-Year ACS 
+Homes in Franklin Lakes have astronomical values compared with the wider county and state. Roughly 
+two out of three homes are valued more than $1,000,000, compared with 13.2% for Bergen County and 
+6.6% for the broader state. An additional 15.3% are valued at $750,000 or above and while a further 15.9% 
+have values greater than $500,000. In total, 97.7% of owner-occupied residences are valued at $500,000 
+or above. Statewide, 38.2% of homes have a value of at least $500,000, while in Bergen County, where 
+homes are generally expensive, 63.0% do. The upshot is that the median home value for Franklin Lakes is 
+$1,217,500, more than twice the county median of $593,200.  
+Table 28: Home Value 
+Home Value 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Less than $100,000 
+0.2% 
+3.0% 
+4.4% 
+$100,000 to $299,999 
+0.6% 
+7.1% 
+23.6% 
+$300,000 to $499,999 
+1.7% 
+26.9% 
+33.8% 
+$500,000 to $749,999 
+15.9% 
+35.0% 
+23.0% 
+$750,000 to $999,999 
+15.3% 
+14.8% 
+8.6% 
+$1,000,000 or more 
+66.5% 
+13.2% 
+6.6% 
+Median home value 
+$1,217,500  
+$593,200  
+$427,600  
+Source: 2019-2023 5-Year ACS 
+Data from the New Jersey Division of Taxation supports the Census’s home value data. Since 2020, the 
+average sales price in Franklin Lakes has exceeded the Census median of $1,217,500. The number of 
+homes soared during the pandemic, with 171 home sales in 2021, 160 in 2022, and 131 in 2023. In 2024, 
+Franklin Lakes home sales were the lowest of any year since 2015. This was evidently due to low inventory, 
+not low demand, as the average sales price continued to rise, increasing to $1,611,333. and fewer 
+households moving out. Low inventory is an issue for all of Bergen County, with 4,914 homes sold in 2024, 
+the lowest of the 10 years for which New Jersey provides data.  
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 53 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 54 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 18 
+Table 29: Home Sales 
+Year 
+Franklin Lakes 
+Bergen County 
+Total 
+Sales 
+Avg Sales Price 
+Total 
+Sales 
+Avg Sales Price 
+2015 
+82 
+$1,120,670 
+6,659 
+$531,621 
+2016 
+94 
+$1,141,465 
+7,240 
+$542,180 
+2017 
+107 
+$1,072,830 
+7,478 
+$551,413 
+2018 
+112 
+$1,104,180 
+7,220 
+$557,781 
+2019 
+115 
+$1,126,203 
+7,134 
+$564,353 
+2020 
+101 
+$1,244,865 
+6,078 
+$576,109 
+2021 
+171 
+$1,266,247 
+8,976 
+$632,342 
+2022 
+160 
+$1,383,914 
+8,254 
+$710,851 
+2023 
+131 
+$1,522,421 
+5,998 
+$745,400 
+2024 
+86 
+$1,611,333 
+4,914 
+$790,381 
+Source: NJ Division of Taxation, NJ Treasury 
+Despite home prices skyrocketing, homeowners have not yet been hit with higher property tax bills. As of 
+2024, the average assessed value of for residential lots in Franklin Lakes was $1,072,332. In other words, 
+the average residential assessment remains lower than the average sales price of Franklin Lakes homes in 
+2015. Over the same period, the average home assessment in Bergen County increased from $466,051 to 
+$550,530.  
+ Table 30: Residential Tax Assessments 
+Year 
+Total Lots, Franklin 
+Lakes 
+Avg Assessment 
+Total Lots, Bergen 
+County 
+Avg Assessment 
+2016 
+3,446 
+$1,048,526 
+250,060 
+$466,051 
+2020 
+3,530 
+$1,063,494 
+251,684 
+$489,055 
+2024 
+3,716 
+$1,079,332 
+253,254 
+$550,530 
+Source: NJ Division of Taxation, NJ Treasury 
+Given the rise in home values, the cost of housing may become of increasingly serious concern in the years 
+to come. Housing is generally considered to be affordable if the amount of rent, mortgage, and other 
+essential costs consume less than 30% of a household’s income. If a household spends more than 30% if 
+its income on housing, it is considered cost burdened. According to the ACS, a sizable number of 
+households, 32.7%, spend 30% or more of their income on housing. This is lower than the share for the 
+rest of the county and state, 36.1% and 35.8%, respectively. An additional 1.2% have zero or negative 
+income and presumably are living on savings and financial support. 
+ 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 54 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 55 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 19 
+Table 31: Burden of Housing Costs, All Households 
+Housing Costs as % of HH 
+Income 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Less than 20% of HH Income 
+44.0% 
+39.5% 
+39.4% 
+20 to 29% of HH Income 
+20.9% 
+22.3% 
+22.9% 
+30% or more of HH Income 
+32.7% 
+36.1% 
+35.8% 
+Zero or negative income 
+0.2% 
+1.0% 
+1.1% 
+No cash rent 
+2.2% 
+1.1% 
+1.1% 
+Other 
+2.4% 
+2.1% 
+1.9% 
+Source: 2019-2023 5-Year ACS 
+With regard to owner-occupied households, 29.8% spend at least 30% of their income on housing. Of the 
+remaining households, 47.8%, spend less than 20% of their income on housing, consistent with 
+homeowners elsewhere, while 23.9% allot between 20% and 29% of their income on housing.  
+Table 32: Burden of Housing Costs, Owner-Occupied Housing 
+Housing Costs as % of HH 
+Income 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Less than 20% of HH 
+Income 
+47.8% 
+45.7% 
+48.1% 
+20 to 29% of HH Income 
+22.4% 
+23.4% 
+22.7% 
+30% or more of HH Income 
+29.8% 
+30.0% 
+28.6% 
+Zero or negative income 
+0.0% 
+0.9% 
+0.6% 
+No cash rent 
+-- 
+-- 
+-- 
+Other 
+0.0% 
+0.9% 
+0.6% 
+Source: 2019-2023 5-Year ACS 
+In terms of monthly costs, 85.3% of households with a mortgage pay $3,000 or more on housing. This 
+exceeds the rate for Bergen County, or 66.3%. Housing costs are so lofty that the Census simply lists a 
+median monthly cost of ‘$4,000’ by default. Steep housing costs are a deeply concerning issue for the 
+entire state of New Jersey, where the median monthly cost for homeowners with a mortgage is $2,767. 
+In Bergen County, the median cost for homes with a mortgage is $3,470 per month. 
+Table 33: Monthly Costs, Homeowners with a Mortgage 
+Monthly housing costs 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Less than $500 
+0.0% 
+0.4% 
+0.4% 
+$500 to $999 
+0.0% 
+1.3% 
+1.8% 
+$1,000 to $1,499 
+0.4% 
+2.4% 
+6.6% 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 55 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 56 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 20 
+Monthly housing costs 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+$1,500 to $1,999 
+2.0% 
+5.0% 
+13.7% 
+$2,000 to $2,499 
+3.7% 
+9.8% 
+17.7% 
+$2,500 to $2,999 
+8.6% 
+14.8% 
+17.0% 
+$3,000 or more 
+85.3% 
+66.3% 
+42.7% 
+Median monthly housing cost 
+$4,000+ 
+$3,470 
+$2,787 
+Source: 2019-2023 5-Year ACS 
+Monthly housing costs are necessarily lower for those households without a mortgage. Still, housing costs 
+are relatively high for these households as well. These expenditures go towards taxes, insurance 
+payments, utilities, and other fees.  In all, 91.6% of Franklin Lakes households without a mortgage pay 
+$1,000 per month or more in housing costs. This exceeds the countywide share of 83.8% and the statewide 
+share of 67.1%. Here, too, the median cost per month for Franklin Lakes is the Census assigned default, 
+‘$1,500+’. Of remaining households, 2.1% of spend between $800 and $1,000 per month on housing, 3.6% 
+spend between $600 and $800 a month, while only 2.6% spend less than $600 a month on housing. The 
+latter figure contrasts greatly with the county and state, where the comparable rates are 6.8% and 9.5%, 
+respectively. 
+Table 34: Monthly Costs, Homeowners without a Mortgage 
+Monthly housing costs 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Less than $250 
+1.2% 
+2.2% 
+1.9% 
+$250 to $399 
+0.0% 
+2.1% 
+2.6% 
+$400 to $599 
+1.4% 
+2.5% 
+5.0% 
+$600 to $799 
+3.6% 
+2.9% 
+8.8% 
+$800 to $999 
+2.1% 
+6.4% 
+14.6% 
+$1,000 or more 
+91.6% 
+83.9% 
+67.1% 
+Median monthly housing costs 
+$1,500+ 
+$1,475 
+$1,205 
+Source: 2019-2023 5-Year ACS 
+Housing costs put a greater financial strain on renters, given that 54.9% of households that rent spend at 
+least 30% of their income on housing. This exceeds than the percentage statewide, or 48.3%. An additional 
+1.4% of renting households have zero or negative income. A significant number of renters, 19.0%, pay no 
+cash rent, a far greater percentage than in either county or state, with 4.5% of households in the former 
+and 2.9% in the latter not paying cash rent.  
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 56 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 57 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 21 
+Table 35: Burden of Housing Costs, Renter-Occupied Housing 
+Housing Costs as % of HH Income 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Less than 20% of HH Income 
+15.3% 
+19.9% 
+23.8% 
+20 to 29% of HH Income 
+9.5% 
+21.7% 
+23.1% 
+30% or more of HH Income 
+54.9% 
+51.1% 
+48.3% 
+Zero or negative income 
+1.4% 
+2.8% 
+1.9% 
+No cash rent 
+19.0% 
+4.5% 
+2.9% 
+Other 
+0.0% 
+0.0% 
+0.0% 
+Source: 2019-2023 5-Year ACS 
+Relative to other communities, the gross rent for units in Franklin Lakes is quite high. To be precise, 64.9% 
+of renting households pay $3,000 or more in rent. This far outstrips the 13.2% in Bergen County who pay 
+so much in rent. What’s more, 22.0% of households pay between $2,000 and $3,000 in rent per month. 
+This means that 13.1% of households have a rent under $2,000. Again, the contrast with Bergen County 
+is illustrative, as 59.2% of households in the county have a rent under $2,000. The median rent in Franklin 
+Lakes is $3,334, which far outpaces the median rent of $1,863 for Bergen County and $1,633 for New 
+Jersey. 
+Table 86: Gross Rent 
+Gross Rent 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+Less than $500 
+10.6% 
+3.3% 
+6.3% 
+$500 to $999 
+0.0% 
+4.3% 
+8.7% 
+$1,000 to $1,499 
+2.5% 
+18.3% 
+26.3% 
+$1,500 to $1,999 
+0.0% 
+33.3% 
+28.5% 
+$2,000 to $2,499 
+5.8% 
+18.3% 
+15.9% 
+$2,500 to $2,999 
+16.2% 
+9.4% 
+6.7% 
+$3,000 or more 
+64.9% 
+13.2% 
+7.6% 
+Median rent 
+$3,334 
+$1,863 
+$1,653 
+Source: 2019-2023 5-Year ACS 
+ 
+ANALYSIS OF CONSTRUCTION ACTIVITY AND TRENDS 
+The rate at which Borough staffers have issued building permits for housing accelerated in the 2010, 
+hitting a peak in 2017, when permits were approved for 130 new housing units. This marked a sharp 
+departure from the aftermath of the housing crisis when it was unusual for more than a dozen permits to 
+be issued annually. Homebuilding occurred at a steady rate into the pandemic, with an uptick in 2021, 
+when 91 housing permits were approved. Since then, the rate at which permits are issued has fallen off 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 57 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 58 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 22 
+considerably, with only 31 units approved in 2022 and only 9 in 2023, which tied for the second-lowest 
+yearly total since 2003.  For the past 10 years, Franklin Lakes has approved an average of 50 building 
+permits for new units annually. This is higher than the 20-year average of 42 housing permits annually. 
+Table 37: Housing Permits Issued Annually, 2003-2023 
+Year 
+Franklin Lakes 
+Bergen County 
+New Jersey 
+2003 
+30 
+1,291 
+35,165 
+2004 
+44 
+2,334 
+39,238 
+2005 
+37 
+2,765 
+39,688 
+2006 
+139 
+1,689 
+32,048 
+2007 
+26 
+2,745 
+25,948 
+2008 
+12 
+851 
+16,338 
+2009 
+9 
+544 
+11,145 
+2010 
+12 
+879 
+11,885 
+2011 
+14 
+1,903 
+11,882 
+2012 
+7 
+2,054 
+15,270 
+2013 
+13 
+1,557 
+18,795 
+2014 
+18 
+1,620 
+22,896 
+2015 
+79 
+1,213 
+19,503 
+2016 
+10 
+2,584 
+24,170 
+2017 
+130 
+2,059 
+25,961 
+2018 
+45 
+2,366 
+26,048 
+2019 
+78 
+3,249 
+30,770 
+2020 
+44 
+1,609 
+26,680 
+2021 
+98 
+2,588 
+30,044 
+2022 
+31 
+4,232 
+31,792 
+2023 
+9 
+1,804 
+21,682 
+10 YEAR AVG 
+50 
+2,262 
+25,304 
+20-YEAR AVG 
+42 
+1,997 
+24,617 
+Source: NJ Dept. of Community Affairs 
+Most homes permitted in the last 20 years have been 1- or 2-family units. Over the last decade, 1- and 2-
+family houses accounted for an annual average 82.3% of building permits for housing in Franklin Lakes. If 
+one extends the time span to 20 years, the 1- and 2-family share would be 86.5%. Multifamily construction 
+is responsible for almost all the remaining newly built units, with 17.4% of permits for units in multifamily 
+buildings. Mixed-use projects represent a tiny fraction of the housing permitted in the municipality. 
+Homebuilding patterns differ significantly in the rest of the state and county. Countywide, multifamily 
+projects represented an average of 60.0% of all building permits for housing on an annual basis. Statewide, 
+the figure is 61.8% while 1- and 2-family homes compose an average of 37.1% permitted annually. 
+Intriguingly, the share of building permits approved for mixed-use development has jumped in the last 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 58 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 59 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 23 
+two years of data, with 2.3% and 2.7% of residential building permits in 2022 and 2023 issued for mixed-
+use development. 
+Table 38: Share of Housing Permits Issued by Type, 2013-2023 
+Year 
+Franklin Lakes 
+Bergen County 
+New Jersey 
+1-2 
+Units 
+Multifam. 
+Mixed
+-Use 
+1-2 
+Units 
+Multifam. 
+Mixed
+-Use 
+1-2 
+Units 
+Multifam. 
+Mixed-
+Use 
+2004 
+100.0% 
+0.0% 
+0.0% 
+54.6% 
+34.0% 
+11.4% 
+69.1% 
+29.0% 
+1.9% 
+2005 
+97.3% 
+0.0% 
+2.7% 
+54.0% 
+44.8% 
+1.2% 
+67.3% 
+32.0% 
+0.7% 
+2006 
+26.4% 
+71.4% 
+2.1% 
+70.7% 
+29.0% 
+0.4% 
+62.7% 
+36.7% 
+0.6% 
+2007 
+100.0% 
+0.0% 
+0.0% 
+34.6% 
+65.1% 
+0.4% 
+54.9% 
+44.5% 
+0.6% 
+2008 
+100.0% 
+0.0% 
+0.0% 
+73.9% 
+23.0% 
+3.1% 
+54.8% 
+43.5% 
+1.7% 
+2009 
+90.0% 
+0.0% 
+10.0% 
+60.1% 
+39.5% 
+0.4% 
+60.8% 
+38.7% 
+0.5% 
+2010 
+100.0% 
+0.0% 
+0.0% 
+48.9% 
+50.5% 
+0.6% 
+58.3% 
+39.8% 
+1.8% 
+2011 
+93.3% 
+0.0% 
+6.7% 
+20.4% 
+59.3% 
+20.3% 
+52.5% 
+43.6% 
+3.9% 
+2012 
+100.0% 
+0.0% 
+0.0% 
+20.0% 
+79.8% 
+0.2% 
+43.9% 
+55.8% 
+0.3% 
+2013 
+100.0% 
+0.0% 
+0.0% 
+37.4% 
+62.4% 
+0.2% 
+51.4% 
+47.9% 
+0.7% 
+2014 
+100.0% 
+0.0% 
+0.0% 
+47.2% 
+45.6% 
+7.2% 
+46.6% 
+52.0% 
+1.3% 
+2015 
+20.0% 
+80.0% 
+0.0% 
+63.7% 
+36.1% 
+0.2% 
+48.6% 
+51.2% 
+0.2% 
+2016 
+100.0% 
+0.0% 
+0.0% 
+32.2% 
+67.6% 
+0.2% 
+36.8% 
+63.0% 
+0.3% 
+2017 
+59.6% 
+40.4% 
+0.0% 
+37.2% 
+57.2% 
+5.7% 
+35.4% 
+62.2% 
+2.4% 
+2018 
+100.0% 
+0.0% 
+0.0% 
+33.2% 
+66.1% 
+0.7% 
+34.7% 
+64.5% 
+0.8% 
+2019 
+100.0% 
+0.0% 
+0.0% 
+21.9% 
+77.7% 
+0.4% 
+29.1% 
+70.7% 
+0.2% 
+2020 
+100.0% 
+0.0% 
+0.0% 
+39.3% 
+60.2% 
+0.5% 
+32.5% 
+67.3% 
+0.2% 
+2021 
+46.9% 
+53.1% 
+0.0% 
+32.5% 
+65.2% 
+2.3% 
+34.9% 
+64.8% 
+0.3% 
+2022 
+97.0% 
+0.0% 
+3.0% 
+20.7% 
+70.7% 
+8.6% 
+28.8% 
+68.9% 
+2.3% 
+2023 
+100.0% 
+0.0% 
+0.0% 
+38.2% 
+61.7% 
+0.1% 
+44.1% 
+53.2% 
+2.7% 
+10-
+YEAR 
+AVG 
+82.3% 
+17.4% 
+0.3% 
+36.6% 
+60.8% 
+2.6% 
+37.1% 
+61.8% 
+1.1% 
+20-
+YEAR 
+AVG 
+86.5% 
+12.2% 
+1.2% 
+42.0% 
+54.8% 
+3.2% 
+47.4% 
+51.5% 
+1.2% 
+Source: NJ Dept. of Community Affairs 
+A similar pattern can be seen in the certificate of occupancy data. As with building permits, certificates of 
+occupancy in Franklin Lakes were mostly for 1- and 2-familly housing. According to NJ DCA, certificates of 
+occupancy were approved in far lower numbers than building permits. Poor record-keeping could be the 
+culprit for this disparity. Countywide, an average of 504 certificates of occupancy were approved per year 
+for 1- and 2-family units while 904 were approved annually for multifamily. 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 59 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 60 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 24 
+Table 39: Certificates of Occupancy, 2013-2023 
+Year 
+Franklin Lakes 
+Bergen County 
+New Jersey 
+1-2 
+Unit
+s 
+Multifamil
+y 
+Mixed
+-Use 
+1-2 
+Unit
+s 
+Multifamil
+y 
+Mixed
+-Use 
+1-2 
+Units 
+Multifamil
+y 
+Mixed
+-Use 
+2013 
+13 
+0 
+1 
+444 
+552 
+3 
+6,727 
+4,959 
+31 
+2014 
+8 
+0 
+1 
+425 
+928 
+5 
+8,158 
+5,042 
+55 
+2015 
+9 
+0 
+1 
+579 
+762 
+5 
+8,308 
+7,010 
+72 
+2016 
+110 
+87 
+0 
+749 
+837 
+10 
+7,912 
+7,073 
+38 
+2017 
+19 
+0 
+1 
+691 
+1,214 
+21 
+7,511 
+8,955 
+259 
+2018 
+52 
+0 
+0 
+563 
+1,594 
+21 
+7,164 
+9,861 
+293 
+2019 
+67 
+18 
+0 
+466 
+916 
+83 
+5,309 
+11,097 
+389 
+2020 
+6 
+0 
+0 
+317 
+944 
+4 
+5,716 
+9,755 
+54 
+2021 
+1 
+0 
+0 
+268 
+1,277 
+5 
+4,818 
+12,801 
+24 
+2022 
+10 
+0 
+0 
+527 
+312 
+0 
+5,167 
+10,545 
+66 
+2023 
+18 
+0 
+0 
+516 
+720 
+1 
+6,983 
+11,568 
+17 
+10-
+YEAR 
+AVG 
+28 
+10 
+0 
+504 
+914 
+14 
+6,70
+7 
+8,970 
+118 
+Source: NJ Dept. of Community Affairs 
+Table 42 contains the data for demolition permits for the last ten years. Since 2014, Franklin Lakes has 
+approved an average of 12 demolition permits for homes a year. Given that the municipality permitted 
+the construction of 50 units a year on average, this would translate to an average net gain of 34 units per 
+year. This means that township adds an average of 4 units a year to its housing stock annually. 
+Countywide, Bergen County municipalities permitted the demolition of 448 housing units annually on 
+average while, across the state, an average of 4,740 units were approved for demolition. 
+Table 40: Demolition Permits, 2013-2023 
+Year 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+2014 
+10 
+358 
+4415 
+2015 
+12 
+315 
+3067 
+2016 
+8 
+305 
+3222 
+2017 
+9 
+408 
+7295 
+2018 
+15 
+486 
+5232 
+2019 
+17 
+685 
+5651 
+2020 
+8 
+449 
+5457 
+2021 
+6 
+473 
+4715 
+2022 
+12 
+528 
+4252 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 60 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 61 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 25 
+Year 
+Franklin 
+Lakes 
+Bergen 
+County 
+New Jersey 
+2023 
+19 
+470 
+4090 
+10-
+YEAR 
+AVG 
+12 
+448 
+4,740 
+Source: NJ Dept of Community Affairs 
+ 
+Franklin Lakes has experienced a comparatively small amount of nonresidential development over the 
+past 20 years. Following the financial crisis, office and retail development fell off sharply, with only a 
+handful of projects apparently approved (see Table 43). Since 2004, an average of 2,673 square feet of 
+office development was approved every year while 1,480 square feet of retail space was annually 
+permitted on average. Most nonresidential development in the state is made up of uses that NJ DCA 
+aggregates into an ‘Other’ category. The ‘Other’ category encompasses civic, institutional, industrial, and 
+miscellaneous commercial uses, among others. In Franklin Lakes, municipal staffers permitted an average 
+of 24,093 square feet of development that falls under the ‘Other’ label. A careful examination of the NJ 
+DCA data for the ‘Other’ category reveals that the development permitted in Franklin Lakes reflects a wide 
+variety of land uses that includes storage, institutional, religious, and nightlife activities.  
+Statewide, an average of 7,037,338 square feet of office development has been built annually statewide 
+as has 2,937,091 square feet of retail development. With regard to the ‘Other’ category, 38,163,962 
+square feet has been constructed every year.  
+Table 91: Nonresidential Construction, 2004-2023 
+Year 
+Franklin Lakes 
+Bergen County 
+New Jersey 
+Office 
+Retail 
+Other 
+Office 
+Retail 
+Other 
+Office 
+Retail 
+Other 
+2004 
+480 
+0 
+51,456 
+667,773 
+44,912 
+3,817,593 12,219,068 4,911,257 57,206,055 
+2005 
+640 
+0 
+49,521 
+1,098,512 713,712 2,509,753 11,038,132 5,965,258 50,631,439 
+2006 
+2,738 
+0 
+23,301 
+897,543 
+194,868 3,450,328 11,113,555 5,186,662 47,807,864 
+2007 
+12,752 
+0 
+85,458 
+865,896 
+131,131 2,875,336 
+9,569,501 
+5,423,889 53,881,012 
+2008 
+10,016 
+0 
+34,568 
+1,041,289 208,089 1,629,619 
+7,962,998 
+5,557,101 44,127,384 
+2009 
+0 
+0 
+11,589 
+237,494 
+228,352 1,462,954 
+4,253,888 
+2,248,935 19,137,343 
+2010 
+20,557 
+1,371 
+9,907 
+242,640 
+268,097 1,220,213 
+5,496,579 
+2,192,231 20,090,503 
+2011 
+0 
+0 
+22,937 
+951,488 
+125,069 
+988,003 
+4,915,544 
+1,680,445 16,406,225 
+2012 
+0 
+0 
+19,597 
+460,202 
+64,699 
+1,235,639 
+7,395,704 
+2,088,658 24,204,171 
+2013 
+3,419 
+0 
+7,684 
+487,125 
+216,651 1,192,521 
+5,830,508 
+2,240,758 26,512,767 
+2014 
+0 
+28,059 
+2,957 
+536,266 
+507,398 1,174,418 
+5,426,729 
+3,536,522 37,902,289 
+2015 
+0 
+0 
+4,234 
+203,726 
+187,982 1,192,906 
+5,751,737 
+3,544,141 28,999,440 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 61 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 62 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 26 
+Year 
+Franklin Lakes 
+Bergen County 
+New Jersey 
+Office 
+Retail 
+Other 
+Office 
+Retail 
+Other 
+Office 
+Retail 
+Other 
+2016 
+0 
+0 
+8,345 
+647,791 
+125,966 2,344,973 
+7,183,084 
+2,913,461 48,892,163 
+2017 
+0 
+0 
+3,669 
+1,036,690 279,629 2,045,995 
+6,826,372 
+2,153,638 39,842,698 
+2018 
+0 
+163 
+34,271 
+548,474 
+201,638 2,118,110 
+5,316,607 
+3,122,448 36,483,744 
+2019 
+0 
+0 
+13,702 
+179,519 
+41,151 
+1,401,255 
+5,724,671 
+1,286,733 40,886,748 
+2020 
+0 
+0 
+17,665 
+177,944 
+189,047 1,527,822 
+5,525,377 
+2,023,918 37,236,103 
+2021 
+0 
+0 
+39,491 
+658,822 
+25,434 
+4,093,550 
+5,074,155 
+786,303 
+50,338,453 
+2022 
+2,247 
+0 
+25,607 
+757,070 
+80,869 
+2,005,822 
+7,716,195 
+622,440 
+49,613,379 
+2023 
+605 
+0 
+15,901 
+490,857 
+15,246 
+1,778,385 
+6,406,348 
+1,257,019 33,079,451 
+20-
+YEAR 
+AVG 
+2,673 
+1,480 
+24,093 
+609,356 
+192,497 2,003,260 
+7,037,338 
+2,937,091 38,163,962 
+Source: NJ Dept. of Community Affairs 
+ 
+PLANNING PROJECTIONS 
+Bergen County is served by the North Jersey Transportation Planning Authority (NJTPA), one of New 
+Jersey’s three metropolitan planning organizations. NJTPA calculates population and employment 
+projections to anticipate the long-range planning needs of the North Jersey portion of the New York 
+metropolitan area.  
+The agency expects that the population of both Franklin Lakes and Bergen County will grow at the same 
+rate as the rest of NJTPA coverage area. That is, the agency currently projects a 0.4% annualized growth 
+rate a 0.4% for the municipality and county between 2015 and 2050. For Franklin Lakes, this would 
+translate to a population of 12,472 residents. NJTPA anticipates that households will increases at a slightly 
+slower rate for Franklin Lakes than for the county or state. That is, total households are expected to rise 
+at an annualized rate of 0.39%, with 4,070 households residing in the borough by 2050. The agency 
+expects employment growth to be slower, rising at an annualized rate of 0.2%, or approximately half the 
+rate for the county and state. In total, the NJTPA forecasts a labor force of 8,270 workers by 2050. 
+Table 42: Long-term Population, Household and Employment Forecasts 
+  
+Franklin 
+Lakes 
+Bergen 
+County 
+NJTPA 
+Population, 2015 
+10,816 
+926,330 
+6,688,013 
+Population, 2050 
+12,472 
+1,083,869 
+7,743,120 
+Annualized % Population Change 2015-2050 
+0.4% 
+0.4% 
+0.4% 
+Households, 2015 
+3,553 
+339,063 
+2,444,799 
+Households, 2050 
+4,070 
+395,182 
+2,868,943 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 62 of 63   Trans ID: LCV20251815200 
+
+===== PAGE 63 =====
+ 
+ 
+ 
+ 
+ 
+ 
+BOROUGH OF FRANKLIN LAKES, BERGEN COUNTY 
+ 
+ 
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS  
+ 
+ 
+ 
+PAGE 27 
+  
+Franklin 
+Lakes 
+Bergen 
+County 
+NJTPA 
+Annualized % Household Change 2015-2050 
+0.39% 
+0.44% 
+0.46% 
+Employment, 2015 
+7,740 
+421,284 
+2,910,458 
+Employment, 2050 
+8,270 
+483,298 
+3,375,651 
+Annualized % Employment Change 2015-2050 
+0.2% 
+0.4% 
+0.4% 
+Source: NJTPA 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000503-25   06/20/2025 3:34:57 PM   Pg 63 of 63   Trans ID: LCV20251815200 
