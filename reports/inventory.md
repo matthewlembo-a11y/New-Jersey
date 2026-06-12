@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T12:11:05+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T12:15:07+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -76,22 +76,31 @@ _Obligation: 155 · Compliance: settled · HEFSP: adopted_
 
 ## Demarest (Borough)
 
-_Compliance: settled · HEFSP: adopted 2025-06-05_
+_Obligation: 100 · Compliance: settled · HEFSP: adopted 2026-02-04_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Accessory Apartment Program | Borough-wide |  |  |  | accessory-apt |  |  |  |  | rental | adopted-ordinance | medium | [doc](https://demarestnj.gov/government/forms/clerk/public-notices/2020-notice-of-ordinance-introduction-1173-26-an-ordinance-amending-chapter-175-zoning-to-increase-the-subsidy-for-affordable-accessory-apartments-to-implement-the-recommendations-of-the-2025-housing-element-fair-share-plan/file) |
+| Accessory Apartment Program |  |  |  |  | accessory apartment program |  |  |  |  | rental | ongoing | high | [doc](https://ecf.njcourts.gov/lib/BER/DEM001FourthRoundAmendedHEFSPADOPTED.pdf?VersionId=N7nd6OY1H.Gde9cgOyePugdN1HRVZDgx) |
 | 35 Knickerbocker Road Site | 35 Knickerbocker Road, Demarest, NJ |  |  |  | inclusionary-rezoning |  |  |  |  |  | proposed | low | [doc](https://demarestnj.gov/government/forms/planning-board/active-applications-1/active-joint-planning-board-applications/jpb-25-009-35-knickerbocker-rd/1925-engineering-plans-08-28-2025/file) |
+| 95 County Road | 95 County Road | 145 | 5 | 2.13 | inclusionary |  | 8 | 2 | 25.0% | rental | under construction | high | [doc](https://ecf.njcourts.gov/lib/BER/DEM001FourthRoundAmendedHEFSPADOPTED.pdf?VersionId=N7nd6OY1H.Gde9cgOyePugdN1HRVZDgx) |
+| 127 Hardenburgh Avenue (Bergen County United Way) | 127 Hardenburgh Avenue | 23 | 13 | 0.54 | 100% affordable |  | 17 | 17 | 100.0% | rental | approved, construction starts fall 2026 | high | [doc](https://ecf.njcourts.gov/lib/BER/DEM001FourthRoundAmendedHEFSPADOPTED.pdf?VersionId=N7nd6OY1H.Gde9cgOyePugdN1HRVZDgx) |
 | Downtown Rehabilitation/Redevelopment Area (Hardenburgh Avenue Area) | Hardenburgh Avenue corridor, Demarest, NJ 07627 | 23 | 9, 10, 12, 13, 14, 15, 16, 17.01, 17.02, 19, 20, 21, 23 (also Blocks 46 and 49.01) | 11.2 | redevelopment-area |  |  |  |  |  | adopted-ordinance | medium | [doc](https://demarestnj.gov/government/forms/clerk/public-notices/2042-notice-of-introduction-ordinance-no-1177-26-ordinance-of-the-borough-of-demarest-adopting-the-amended-redevelopment-plan-produced-by-colliers-engineering-on-behalf-of-the-borough-of-demarest/file) |
+| Downtown Rehabilitation Area Overlay | Downtown Demarest | 23, 46, 49, 49.01 | 9, 10, 12, 13 (incl. 14), 15, 16, 17.01, 17.02 (incl. 19, 20, 23), 21 / 664, 760, 764 / 39.01, 40.01 (incl. 41.02), 41.01, 50, 51, 52 / 43.01, 43.02, 44, 45, 47.02 | 11.23 | inclusionary overlay / redevelopment | 25-40 |  |  | 50.0% | rental | overlay adopted | high | [doc](https://ecf.njcourts.gov/lib/BER/DEM001FourthRoundAmendedHEFSPADOPTED.pdf?VersionId=N7nd6OY1H.Gde9cgOyePugdN1HRVZDgx) |
+| 232 County Road | 232 County Road | 63 | 5 |  | inclusionary by-right rezoning |  | 7 | 1 | 14.0% | sale | rezoned per Dec 29, 2025 mediation agreement | high | [doc](https://ecf.njcourts.gov/lib/BER/DEM001FourthRoundAmendedHEFSPADOPTED.pdf?VersionId=N7nd6OY1H.Gde9cgOyePugdN1HRVZDgx) |
 
 ## Dumont (Borough)
 
-_Compliance: settled · HEFSP: adopted 2025-06-11_
+_Obligation: 144 · Compliance: settled (binding resolution accepting DCA numbers) · HEFSP: adopted 2025-06-11_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | The Crescent (Redevelopment Site) |  |  |  |  | redevelopment-area |  | 48 | 7 | 15.0% | rental | proposed | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/dumont-boro/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr) |
+| Downtown Overlay Zone | B2 Zone downtown area (~52 acres) |  |  | 52.0 | inclusionary overlay | 20-24 |  |  | 15.0% | rental | adopted March 6, 2018 | high | [doc](https://ecf.njcourts.gov/lib/BER/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr) |
+| Municipal Set-Aside Ordinance |  |  |  |  | mandatory set-aside ordinance |  |  |  | 15.0% |  | adopted March 3, 2018 | high | [doc](https://ecf.njcourts.gov/lib/BER/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr) |
 | 125 Washington Avenue | 125 Washington Avenue, Dumont, NJ | 1216 | 1 |  | redevelopment-area |  |  | 1 |  | rental | proposed | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/dumont-boro/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr) |
+| 125 Washington Avenue (Dunkin) | 125 Washington Avenue | 1216 | 1 |  | inclusionary rental above retail |  |  | 1 |  | rental | proposed | high | [doc](https://ecf.njcourts.gov/lib/BER/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr) |
+| 2 West Madison Avenue | 2 West Madison Avenue | 905 | 11 & 12 |  | redevelopment |  | 48 | 7 | 15.0% | rental | AINR designation adopted January 7, 2025; redevelopment plan in preparation | high | [doc](https://ecf.njcourts.gov/lib/BER/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr) |
+| 219 Washington Avenue | 219 Washington Avenue | 908 | 22 |  | inclusionary (requires special overlay zoning for density) |  | 9 | 2 | 22.0% | sale | proposed; application not yet filed; overlay zoning to be adopted | high | [doc](https://ecf.njcourts.gov/lib/BER/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr) |
 
 ## East Rutherford (Borough)
 
@@ -303,12 +312,15 @@ _Obligation: 495 · Compliance: settled · HEFSP: adopted 2025-06-23_
 
 ## Maywood (Borough)
 
-_Obligation: 143 · Compliance: settled · HEFSP: adopted 2025-04-15_
+_Obligation: 143 · Compliance: certified · HEFSP: adopted with compliance certification 2026-01-19_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Brook Avenue Stacked Townhome Overlay District | Brook Avenue, Maywood, NJ | 107 | 51, 52, 53, 54, and 55 | 4.63 | inclusionary overlay | 16.0 |  | 15 | 20.0% |  | adopted-ordinance (March 13, 2026) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/maywood-boro/MaywoodRound4HEFSP011926.pdf?VersionId=XWbQM7BAtB0VBPw0ev2A3ZmoxzzxXAw3) |
+| Affordable Housing 1 Overlay District (AH-1) - Spring Valley Avenue | Spring Valley Avenue, Maywood, NJ | 3 | 1 | 2.5 | inclusionary overlay | 24.0 |  | 12 | 20.0% |  | adopted-ordinance (March 13, 2026) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/maywood-boro/MaywoodRound4HEFSP011926.pdf?VersionId=XWbQM7BAtB0VBPw0ev2A3ZmoxzzxXAw3) |
 | Brook Avenue Stacked Townhome Overlay District | Brook Avenue, Maywood, NJ | 87 |  |  | overlay |  |  |  | 20.0% | for-sale | proposed | medium | [doc](https://maywoodnj.com/index.asp?DE=47FA0EA9-A0D8-43E4-A3F1-2D05C6367FF7&SEC=CC71ADE4-C190-4EA4-8E27-2E28FC3C4797) |
 | West Passaic Street Stacked Townhome Overlay District | West Passaic Street, Maywood, NJ | 87 |  |  | overlay |  |  |  | 20.0% | for-sale | proposed | medium | [doc](https://www.maywoodnj.com/vertical/sites/%7B3F816141-7A2D-4412-8A8D-6C5C2C1C1341%7D/uploads/West_Passaic_Street_Affordable_Housing_Overlay_District_Ordinance_Final_01-20-26.docx) |
+| West Passaic Street Stacked Townhome Overlay District | West Passaic Street, Maywood, NJ | 87 | 2, 3, and 4 | 2.95 | inclusionary overlay | 18.0 |  | 11 | 20.0% |  | adopted-ordinance (March 13, 2026) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/maywood-boro/MaywoodRound4HEFSP011926.pdf?VersionId=XWbQM7BAtB0VBPw0ev2A3ZmoxzzxXAw3) |
 
 ## Midland Park (Borough)
 
@@ -389,7 +401,7 @@ _Obligation: 216 · Compliance: settled · HEFSP: adopted 2026-01-28_
 
 ## Oradell (Borough)
 
-_Obligation: 180 · Compliance: litigating · HEFSP: adopted 2025-06-24_
+_Obligation: 180 · Compliance: settled · HEFSP: adopted 2025-06-24_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -397,8 +409,14 @@ _Obligation: 180 · Compliance: litigating · HEFSP: adopted 2025-06-24_
 | 690-800 Kinderkamack Road Overlay Zone | 690-800 Kinderkamack Road, Oradell, NJ |  |  |  | overlay | 30.0 |  |  |  | rental | adopted-ordinance | low | [doc](https://theridgewoodblog.net/the-death-of-small-town-nj-how-oradell-was-forced-into-high-density-zoning/) |
 | 445 Kinderkamack Road | 445 Kinderkamack Road, Oradell, NJ |  |  |  | inclusionary-rezoning |  | 25 | 5 | 20.0% | rental | adopted-ordinance | low | [doc](https://theridgewoodblog.net/the-death-of-small-town-nj-how-oradell-was-forced-into-high-density-zoning/) |
 | 480 Reis Avenue (Habitat for Humanity) | 480 Reis Avenue, Oradell, NJ |  |  |  | 100pct-affordable |  | 1 | 1 | 100.0% | for-sale | approved | medium | [doc](https://www.oradell.org/site-home/news/habitat-humanity-bergen-county) |
+| 445-447 Kinderkamack Road (Inclusionary Rezone - Round 4 RDP) | 445-447 Kinderkamack Road, Oradell, NJ |  |  | 0.71 | inclusionary-rezoning | 22.0 | 15 | 3 | 20.0% |  | draft ordinance (Appendix E) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oradell-boro/6.25.25ORDAELLHEFSPADOPTED6.24.25Part1.pdf?VersionId=by7o.pgjg3Itv8UK8wzDhBCi8wwL0R6z) |
+| CBD Overlay Zone Extension (Kinderkamack Road Corridor - Unmet Need) | Kinderkamack Road corridor (Orchard St to Soldier Hill Rd), Oradell, NJ |  |  | 14.0 | inclusionary overlay |  |  |  | 20.0% |  | draft ordinance (Appendix E) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oradell-boro/6.25.25ORDAELLHEFSPADOPTED6.24.25Part1.pdf?VersionId=by7o.pgjg3Itv8UK8wzDhBCi8wwL0R6z) |
+| 505 Kinderkamack Road (Age-Restricted Mandatory Set-Aside) [Prior Round Credit] | 505 Kinderkamack Road, Oradell, NJ |  |  |  | mandatory set-aside |  |  | 3 |  | rental | built | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oradell-boro/6.25.25ORDAELLHEFSPADOPTED6.24.25Part1.pdf?VersionId=by7o.pgjg3Itv8UK8wzDhBCi8wwL0R6z) |
+| 387-393 Kinderkamack Road (CBD Overlay - Family Rental) [Prior Round Credit] | 387-393 Kinderkamack Road, Oradell, NJ |  |  |  | CBD overlay |  |  | 1 |  | rental | built | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oradell-boro/6.25.25ORDAELLHEFSPADOPTED6.24.25Part1.pdf?VersionId=by7o.pgjg3Itv8UK8wzDhBCi8wwL0R6z) |
+| Habitat for Humanity - Reis Avenue (Block 107, Lot 29) | Corner of Kinderkamack Road and Reis Avenue, Oradell, NJ | 107 | 29 |  | 100pct-affordable |  | 1 | 1 | 100.0% | for-sale | under construction | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oradell-boro/6.25.25ORDAELLHEFSPADOPTED6.24.25Part1.pdf?VersionId=by7o.pgjg3Itv8UK8wzDhBCi8wwL0R6z) |
 | 420 Kinderkamack Road | 420 Kinderkamack Road, Oradell, NJ 07649 | 1102 | 1 |  | inclusionary-rezoning |  |  |  |  | rental | proposed | low | [doc](https://www.oradell.org/planning-board-information/files/cal-162-25-420-kinderkamack-rd-borough-engineer-1st-review-3-26) |
 | Bergen County United Way Supportive Housing (Genther Ave / Block 223 Lot 5) | Genther Avenue, Oradell, NJ | 223 | 5 |  | group-home |  | 4 | 4 | 100.0% | rental | approved | medium | [doc](https://www.oradell.org/site-home/news/building-supportive-housing) |
+| Bergen County United Way - Genther Ave (Block 223, Lot 5) [Prior Round Credit] | Genther Avenue, Oradell, NJ | 223 | 5 |  | 100pct-affordable |  | 4 | 4 | 100.0% | rental | approved (ZBA Calendar No. 874-24, May 19, 2025) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/oradell-boro/6.25.25ORDAELLHEFSPADOPTED6.24.25Part1.pdf?VersionId=by7o.pgjg3Itv8UK8wzDhBCi8wwL0R6z) |
 
 ## Palisades Park (Borough)
 

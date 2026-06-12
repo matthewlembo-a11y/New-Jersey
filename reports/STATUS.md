@@ -1,9 +1,9 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T12:11:05+00:00_
+_Generated 2026-06-12T12:15:07+00:00_
 
-- Municipalities: **70/70**  (done: 48, in_progress: 22, blocked: 0, not_started: 0)
-- Sites catalogued: **193**
+- Municipalities: **70/70**  (done: 49, in_progress: 21, blocked: 0, not_started: 0)
+- Sites catalogued: **211**
 
 | # | Municipality | Status | Sites | Oblig. | Compliance | HEFSP | Last researched |
 |---|---|---|---|---|---|---|---|
@@ -15,8 +15,8 @@ _Generated 2026-06-12T12:11:05+00:00_
 | 6 | Cliffside Park | done | 0 | 150 | urban_aid_rehab_only | adopted | 2026-06-12T12:08:53+00:00 |
 | 7 | Closter | done | 2 | 241 | settled | adopted | 2026-06-12T03:22:07+00:00 |
 | 8 | Cresskill | done | 1 | 155 | settled | adopted | 2026-06-12T03:22:07+00:00 |
-| 9 | Demarest | done | 3 |  | settled | adopted | 2026-06-12T03:22:07+00:00 |
-| 10 | Dumont | done | 2 |  | settled | adopted | 2026-06-12T03:22:07+00:00 |
+| 9 | Demarest | done | 7 | 100 | settled | adopted | 2026-06-12T12:14:32+00:00 |
+| 10 | Dumont | done | 7 | 144 | settled (binding resolution accepting DCA numbers) | adopted | 2026-06-12T12:14:32+00:00 |
 | 11 | East Rutherford | in_progress | 2 | 465 | settled | adopted-amended | 2026-06-12T03:23:52+00:00 |
 | 12 | Edgewater | done | 5 | 301 | settled | adopted | 2026-06-12T03:23:52+00:00 |
 | 13 | Elmwood Park | in_progress | 2 | 299 | settled | adopted-amended | 2026-06-12T03:23:52+00:00 |
@@ -40,7 +40,7 @@ _Generated 2026-06-12T12:11:05+00:00_
 | 31 | Lodi | done | 0 | 140 | urban_aid_rehab_only | adopted | 2026-06-12T11:55:22+00:00 |
 | 32 | Lyndhurst | done | 0 | 366 | adopted_challenged_VLA_RDP0 | adopted_challenged | 2026-06-12T11:58:27+00:00 |
 | 33 | Mahwah | done | 4 | 495 | settled | adopted | 2026-06-12T03:22:08+00:00 |
-| 34 | Maywood | done | 2 | 143 | settled | adopted | 2026-06-12T03:22:08+00:00 |
+| 34 | Maywood | done | 5 | 143 | certified | adopted with compliance certification | 2026-06-12T12:15:06+00:00 |
 | 35 | Midland Park | done | 3 | 155 | settled | adopted | 2026-06-12T03:22:08+00:00 |
 | 36 | Montvale | done | 5 | 235 | litigating | adopted | 2026-06-12T03:24:41+00:00 |
 | 37 | Moonachie | done | 0 | 403 | no_adopted_HEFSP_located_REVISIT | not_located | 2026-06-12T12:04:05+00:00 |
@@ -50,7 +50,7 @@ _Generated 2026-06-12T12:11:05+00:00_
 | 41 | Norwood | in_progress | 1 | 130 | litigating | adopted | 2026-06-12T03:25:07+00:00 |
 | 42 | Oakland | done | 5 | 296 | settled | adopted | 2026-06-12T03:25:07+00:00 |
 | 43 | Old Tappan | done | 3 | 216 | settled | adopted | 2026-06-12T03:25:07+00:00 |
-| 44 | Oradell | in_progress | 6 | 180 | litigating | adopted | 2026-06-12T03:25:07+00:00 |
+| 44 | Oradell | done | 12 | 180 | settled | adopted | 2026-06-12T12:14:32+00:00 |
 | 45 | Palisades Park | in_progress | 2 |  | settled | adopted | 2026-06-12T03:25:07+00:00 |
 | 46 | Paramus | done | 2 |  | settled | adopted | 2026-06-12T03:24:41+00:00 |
 | 47 | Park Ridge | done | 1 | 256 | settled | adopted | 2026-06-12T03:24:41+00:00 |
