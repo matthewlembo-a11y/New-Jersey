@@ -1,9 +1,9 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T03:35:50+00:00_
+_Generated 2026-06-12T11:45:10+00:00_
 
-- Municipalities: **70/70**  (done: 43, in_progress: 27, blocked: 0, not_started: 0)
-- Sites catalogued: **186**
+- Municipalities: **70/70**  (done: 44, in_progress: 26, blocked: 0, not_started: 0)
+- Sites catalogued: **191**
 
 | # | Municipality | Status | Sites | Oblig. | Compliance | HEFSP | Last researched |
 |---|---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@ _Generated 2026-06-12T03:35:50+00:00_
 | 2 | Alpine | done | 4 | 117 | settled | adopted | 2026-06-12T03:22:07+00:00 |
 | 3 | Bergenfield | in_progress | 4 |  | QUAM-exempt from prospective need; rehabilitation obligation status unclear | no fourth-round HEFSP found on library.njcourts.gov | 2026-06-12T03:22:07+00:00 |
 | 4 | Bogota | done | 1 | 111 | settled | adopted | 2026-06-12T03:22:07+00:00 |
-| 5 | Carlstadt | in_progress | 0 | 511 | plan_adopted | adopted | 2026-06-12T03:35:42+00:00 |
+| 5 | Carlstadt | done | 5 | 1189 | plan_adopted_VLA | adopted | 2026-06-12T11:45:05+00:00 |
 | 6 | Cliffside Park | done | 0 | 150 | plan_adopted | adopted | 2026-06-12T03:35:42+00:00 |
 | 7 | Closter | done | 2 | 241 | settled | adopted | 2026-06-12T03:22:07+00:00 |
 | 8 | Cresskill | done | 1 | 155 | settled | adopted | 2026-06-12T03:22:07+00:00 |

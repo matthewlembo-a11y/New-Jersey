@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T03:35:50+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T11:45:10+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -44,6 +44,18 @@ _Obligation: 111 · Compliance: settled · HEFSP: adopted 2025-06-17_
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | The Atwater (former Hess Site / River Club Redevelopment) | 1000 West Fort Lee Road, Bogota, NJ 07603 |  |  | 13.125 | redevelopment-area | 32.0 | 421 | 42 | 10.0% | rental | built | medium | [doc](https://jerseydigs.com/new-jersey-real-estate-bogota-river-club-238-west-fort-lee-road-approved/) |
+
+## Carlstadt (Borough)
+
+_Obligation: 1189 · Compliance: plan_adopted_VLA · HEFSP: adopted 2025-06-30_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Block 18 Lots 2,3,4 — 447 Garden St & 632/634 Division St | 447 Garden St; 632 & 634 Division St | 18 | 2, 3, 4 | 0.625 | 100% affordable senior (redevelopment) |  | 16 | 16 | 100.0% | rental | area in need of redevelopment designated 2024-07-17; rezoning pending; LIHTC/HMFA | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/carlstadt-boro/CarlstadtHEFSPcombinedSignedPART1.pdf) |
+| 585 Hoboken Road | 585 Hoboken Road | 25 | 12 |  | inclusionary (family rental) |  | 5 | 1 | 20.0% | rental | constructed (deed-restricted, CO issued) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/carlstadt-boro/CarlstadtHEFSPcombinedSignedPART1.pdf) |
+| 575 Hoboken Road | 575 Hoboken Road | 25 | 13 |  | inclusionary (family rental) |  | 10 | 2 | 20.0% | rental | constructed (deed-restricted, CO issued) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/carlstadt-boro/CarlstadtHEFSPcombinedSignedPART1.pdf) |
+| 491 Broad Street | 491 Broad Street | 59 | 14 |  | inclusionary |  | 8 | 1 |  | rental | renovated; awaiting deed restriction/CO | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/carlstadt-boro/CarlstadtHEFSPcombinedSignedPART1.pdf) |
+| 400 Hackensack Street | 400 Hackensack Street | 63 | 16 |  | inclusionary (family rental) |  | 6 | 2 | 33.0% | rental | constructed, occupied (deed-restricted) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/carlstadt-boro/CarlstadtHEFSPcombinedSignedPART1.pdf) |
 
 ## Closter (Borough)
 
