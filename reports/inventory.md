@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T12:22:51+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T12:25:21+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -188,11 +188,13 @@ _Obligation: 329 · Compliance: no challenge filed (numbers established by defau
 
 ## Fair Lawn (Borough)
 
-_Obligation: 477 · Compliance: pending · HEFSP: not-yet-filed (only resolution in court library)_
+_Obligation: 477 · Compliance: settled_FSHC_HEFSP_not_in_courtlibrary · HEFSP: adopted_not_in_courtlibrary_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Fair Lawn Avenue Site |  |  |  |  | inclusionary zoning / set-aside | 17.65 | 352 |  | 20.0% | for-sale | zoning in place | low | [doc](https://ecode360.com/10050604) |
+| Fair Lawn Avenue Affordable Housing Overlay District |  | 3605, 3609, 3722, 3726, 4601, 4619, 4701, 4701.01 | 3605 L1,2; 3609 L14; 3722 L1-5; 3726 L2,3,5,5.01,6; 4601 L2-6; 4619 L1-4; 4701 L5-7; 4701.01 L1 |  | inclusionary overlay (codified) |  |  |  | 20.0% |  | codified overlay (Borough Code Ch.49) | high | [doc](https://ecode360.com/10050604) |
+| Fair Lawn Avenue Site (Block 4702 Lot 1) — CR Combined Residential District | Corner of Route 208 and Fair Lawn Avenue | 4702 | 1 | 20.0 | inclusionary overlay (codified) | 17.65 | 352 |  | 20.0% |  | codified overlay (Borough Code Ch.49) | high | [doc](https://ecode360.com/10050604) |
+| River Road Overlay (Fair Lawn Ave–Berdan Ave) |  | 5610, 5611, 5612, 5613, 5616, 5626, 5628, 5724 | 5610 L1.01,23-44.01; 5611 L42-81; 5612 L1-22,44-50; 5613 L1-17; 5616 L1; 5626 L1; 5628 L19,20,22; 5724 L1.02-6,15+ |  | inclusionary overlay (codified) |  |  |  | 15.0% |  | codified overlay (Borough Code Ch.49) | medium | [doc](https://ecode360.com/10050604) |
 
 ## Fairview (Borough)
 
@@ -216,26 +218,40 @@ _Obligation: 607 · Compliance: settled · HEFSP: adopted 2025-06-23_
 
 ## Franklin Lakes (Borough)
 
-_Obligation: 545 · Compliance: settled · HEFSP: adopted 2025-06-19_
+_Obligation: 545 · Compliance: settled · HEFSP: adopted 2025-06-20_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Becton Dickinson Campus – Hekemian Inclusionary Townhouses | 1 Becton Drive (campus), Franklin Lakes, NJ (off Route 208) |  |  | 60.0 | inclusionary-rezoning |  | 800 | 160 | 20.0% | for-sale | adopted-ordinance | low | [doc](https://theridgewoodblog.net/franklin-lakes-braces-for-800-unit-inclusionary-nightmare-as-council-bows-to-state-mandates/) |
-| Cigna / Former IBM Site – SHG Multi-Family | 400 Parsons Pond Road, Franklin Lakes, NJ |  |  | 88.0 | inclusionary-rezoning |  | 495 | 62 | 13.0% | rental | adopted-ordinance | medium | [doc](https://www.franklinlakes.org/index.asp?SEC=A8BDF9D5-F886-409E-8444-682824D982E3&DE=632566EF-E091-400D-9290-A6BB55461C8B) |
-| Municipal 100% Affordable Site (SHG Land Donation) |  |  |  | 3.5 | 100pct-affordable |  | 65 | 65 | 100.0% | rental | proposed | medium | [doc](https://www.franklinlakes.org/index.asp?SEC=A8BDF9D5-F886-409E-8444-682824D982E3&DE=632566EF-E091-400D-9290-A6BB55461C8B) |
-| 370-378 Pulis Avenue (Trelia Franklin Lakes) | 370-378 Pulis Avenue, Franklin Lakes, NJ |  |  | 7.4 | inclusionary-rezoning |  | 46 | 9 | 20.0% | for-sale | approved | low | [doc](https://theridgewoodblog.net/franklin-lakes-affordable-housing-1300-new-units-proposed-for-becton-dickinson-and-cigna-sites/) |
+| AH Overlay 4 (Unmet Need - Becton Dickinson/Hekemian Campus Area) |  | 1404, 1404.01 | multiple | 28.0 | inclusionary overlay | 13.0 |  |  |  |  | zoned | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/franklin-lakes-boro/62025FranklinLakesFourthRoundHEFSPADOPTED.pdf?VersionId=0s40Y1eJh1EEYquLCmcvDPDbFrDvPvdC) |
+| McCoy Place (Special Needs 100% Affordable) |  | 1406, 1408 | 1406 L:1; 1408 L:1 |  | 100% affordable |  |  | 39 | 100.0% | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/franklin-lakes-boro/62025FranklinLakesFourthRoundHEFSPADOPTED.pdf?VersionId=0s40Y1eJh1EEYquLCmcvDPDbFrDvPvdC) |
+| Colonial Pointe |  | 1411 | 2 |  | 100% affordable |  |  | 18 |  | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/franklin-lakes-boro/62025FranklinLakesFourthRoundHEFSPADOPTED.pdf?VersionId=0s40Y1eJh1EEYquLCmcvDPDbFrDvPvdC) |
+| AH Overlay 2 (Unmet Need) |  | 1418, 1518 | 1418 L:1.01; 1518 L:2,5.01 | 7.0 | inclusionary overlay | 14.0 |  |  |  |  | zoned | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/franklin-lakes-boro/62025FranklinLakesFourthRoundHEFSPADOPTED.pdf?VersionId=0s40Y1eJh1EEYquLCmcvDPDbFrDvPvdC) |
+| AH Overlay 7 (Unmet Need - Small Residential) |  | 1512.01 | 15, 15.01, 17 | 2.0 | inclusionary overlay |  | 20 |  |  | sale | zoned | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/franklin-lakes-boro/62025FranklinLakesFourthRoundHEFSPADOPTED.pdf?VersionId=0s40Y1eJh1EEYquLCmcvDPDbFrDvPvdC) |
+| AH Overlay 1 (Unmet Need) |  | 1513 | 1 | 16.0 | inclusionary overlay | 12.0 |  |  |  |  | zoned | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/franklin-lakes-boro/62025FranklinLakesFourthRoundHEFSPADOPTED.pdf?VersionId=0s40Y1eJh1EEYquLCmcvDPDbFrDvPvdC) |
+| AH Overlay 5 (Unmet Need) |  | 1516.01 | 1, 1.01, 1.16, 1.15, 1.14, 1.13, 1.12, 1.11 | 14.0 | inclusionary overlay | 18.0 |  |  |  |  | zoned | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/franklin-lakes-boro/62025FranklinLakesFourthRoundHEFSPADOPTED.pdf?VersionId=0s40Y1eJh1EEYquLCmcvDPDbFrDvPvdC) |
+| AH Overlay 6 (Unmet Need) |  | 1517 | 1, 2 | 3.0 | inclusionary overlay | 16.0 |  |  |  |  | zoned | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/franklin-lakes-boro/62025FranklinLakesFourthRoundHEFSPADOPTED.pdf?VersionId=0s40Y1eJh1EEYquLCmcvDPDbFrDvPvdC) |
+| Franklin Manor (Family Rental) |  | 1518, 1519 | 1518 L:10; 1519 L:1 | 1.7 | inclusionary |  | 52 | 8 |  | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/franklin-lakes-boro/62025FranklinLakesFourthRoundHEFSPADOPTED.pdf?VersionId=0s40Y1eJh1EEYquLCmcvDPDbFrDvPvdC) |
+| AH Overlay 3 (Unmet Need) |  | 2201.08 | 2 | 11.0 | inclusionary overlay | 10.0 |  |  |  |  | zoned | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/franklin-lakes-boro/62025FranklinLakesFourthRoundHEFSPADOPTED.pdf?VersionId=0s40Y1eJh1EEYquLCmcvDPDbFrDvPvdC) |
+| Mill Pond Affordable Housing |  | 2514 | 1 |  | 100% affordable |  | 90 | 15 |  | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/franklin-lakes-boro/62025FranklinLakesFourthRoundHEFSPADOPTED.pdf?VersionId=0s40Y1eJh1EEYquLCmcvDPDbFrDvPvdC) |
+| Parsons Pond (Cigna/IBM Site - Mixed Inclusionary + 100% Affordable) | 400 Parsons Pond Drive, Franklin Lakes, NJ | 2607 | 1 | 88.72 | inclusionary overlay + 100% affordable |  |  | 133 |  | rental | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/franklin-lakes-boro/62025FranklinLakesFourthRoundHEFSPADOPTED.pdf?VersionId=0s40Y1eJh1EEYquLCmcvDPDbFrDvPvdC) |
+| The Reserve (Family Sale) |  | 3104, 3105, 3205, 3206, 3207, 3208 | 3104 L:1; 3105 L:1; 3205 L:2; 3206 L:1,1.01,1.02,2; 3207 L:3,5; 3208 L:2,3,4 |  | inclusionary |  |  | 55 |  | sale | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/franklin-lakes-boro/62025FranklinLakesFourthRoundHEFSPADOPTED.pdf?VersionId=0s40Y1eJh1EEYquLCmcvDPDbFrDvPvdC) |
 
 ## Glen Rock (Borough)
 
-_Obligation: 201 · Compliance: settled · HEFSP: adopted 2025-06-16_
+_Obligation: 201 · Compliance: settled · HEFSP: adopted 2025-06-18_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 261 Rock Road (Rock Road Residence / Nouvelle LLC) | 261 Rock Road, Glen Rock, NJ 07452 |  |  |  | 100pct-affordable |  | 11 | 11 | 100.0% | rental | approved | low | [doc](https://patch.com/new-jersey/ridgewood/glen-rock-turning-2-properties-affordable-housing-report) |
-| 23 Kenmore Place (Independent Special Needs / Nouvelle LLC) | 23 Kenmore Place, Glen Rock, NJ |  |  |  | group-home |  |  |  | 100.0% | rental | approved | low | [doc](https://patch.com/new-jersey/ridgewood/glen-rock-turning-2-properties-affordable-housing-report) |
-| AHO-1 Affordable Housing Overlay-I District |  |  |  |  | overlay |  |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/37173055) |
-| AHO-2 Affordable Housing Overlay-II District |  |  |  |  | overlay |  |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/37173056) |
-| 66 Glen Avenue (Intervenor Site) | 66 Glen Avenue, Glen Rock, NJ |  |  |  | inclusionary-rezoning |  |  |  |  |  | proposed | low | [doc](https://glenrocknj.net/government/documents/meeting-documents/mayor-council-meeting/2025-mayor-council-meeting-documents/2025-agendas-mayor-council/1681-12-29-25-mayor-council-special-meeting-agenda-attachments/file) |
+| BCUW/Madeline - 15 Bradford St (Third Round RDP) | 15 Bradford Street, Glen Rock, NJ | 101 | 2 |  | 100% affordable |  |  | 4 | 100.0% | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/glen-rock-boro/ExBPt1GRFinalHEFSPAdopted61625.pdf?VersionId=e4CnyRdW2JYsppHZJVI9bkl.9YYHr0Qz) |
+| 261 Rock Road (Rock Road Residence / Nouvelle LLC) | 261 Rock Road, Glen Rock, NJ | 107 | 1 |  | 100% affordable |  | 11 | 11 | 100.0% | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/glen-rock-boro/ExBPt1GRFinalHEFSPAdopted61625.pdf?VersionId=e4CnyRdW2JYsppHZJVI9bkl.9YYHr0Qz) |
+| Life Opportunities - 34 Valley Rd (Third Round RDP) | 34 Valley Road, Glen Rock, NJ | 109 | 15 |  | 100% affordable |  |  | 3 | 100.0% | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/glen-rock-boro/ExBPt1GRFinalHEFSPAdopted61625.pdf?VersionId=e4CnyRdW2JYsppHZJVI9bkl.9YYHr0Qz) |
+| AHO-2 Overlay (Fourth Round Unmet Need Zone) |  | 111, 112, 115, 116 | varied | 8.42 | inclusionary overlay | 20.0 |  | 33 | 20.0% |  | zoned | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/glen-rock-boro/ExBPt1GRFinalHEFSPAdopted61625.pdf?VersionId=e4CnyRdW2JYsppHZJVI9bkl.9YYHr0Qz) |
+| Reed Next Inc - 11 Jerome Ave (Third Round RDP) | 11 Jerome Avenue, Glen Rock, NJ | 137 | 18 |  | 100% affordable |  |  | 4 | 100.0% | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/glen-rock-boro/ExBPt1GRFinalHEFSPAdopted61625.pdf?VersionId=e4CnyRdW2JYsppHZJVI9bkl.9YYHr0Qz) |
+| Spectrum for Living - 343 Highwood Ave (Third Round RDP) | 343 Highwood Avenue, Glen Rock, NJ | 17 | 15 |  | 100% affordable |  |  | 6 | 100.0% | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/glen-rock-boro/ExBPt1GRFinalHEFSPAdopted61625.pdf?VersionId=e4CnyRdW2JYsppHZJVI9bkl.9YYHr0Qz) |
+| Trafalgar Square - 471 Doremus Ave (Third Round RDP) | 471 Doremus Avenue, Glen Rock, NJ | 43 | 1 |  | 100% affordable |  |  | 2 | 100.0% | sale | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/glen-rock-boro/ExBPt1GRFinalHEFSPAdopted61625.pdf?VersionId=e4CnyRdW2JYsppHZJVI9bkl.9YYHr0Qz) |
+| AHO-1 Overlay - Glen Rock Mall Area (Fourth Round Active Site) | Glen Rock Mall area | 55 | 2, 3, 4, 5, 6, 7, 24 |  | inclusionary overlay |  |  | 14 |  |  | approved, under construction | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/glen-rock-boro/ExBPt1GRFinalHEFSPAdopted61625.pdf?VersionId=e4CnyRdW2JYsppHZJVI9bkl.9YYHr0Qz) |
+| Spectrum for Living - 641 Lincoln Ave (Third Round RDP) | 641 Lincoln Avenue, Glen Rock, NJ | 76 | 14 |  | 100% affordable |  |  | 6 | 100.0% | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/glen-rock-boro/ExBPt1GRFinalHEFSPAdopted61625.pdf?VersionId=e4CnyRdW2JYsppHZJVI9bkl.9YYHr0Qz) |
+| 23 Kenmore Place (Special Needs / Nouvelle LLC) | 23 Kenmore Place, Glen Rock, NJ | 81 | 1 |  | 100% affordable |  |  | 2 | 100.0% | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/glen-rock-boro/ExBPt1GRFinalHEFSPAdopted61625.pdf?VersionId=e4CnyRdW2JYsppHZJVI9bkl.9YYHr0Qz) |
 
 ## Hackensack (City)
 
@@ -273,16 +289,19 @@ _Obligation: 157_
 
 ## Haworth (Borough)
 
-_Compliance: settled · HEFSP: adopted-amended 2026-03-09_
+_Obligation: 178 · Compliance: settled with FSHC · HEFSP: adopted 2025-06-18_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Schaefer's Gardens / Lakeshore Developers |  |  |  | 5.5 | inclusionary-rezoning |  | 41 | 9 | 22.0% | rental | approved | low | [doc](https://thepressgroup.net/haworth-affordable-plan-gets-court-approval/) |
-| Lakeshore Estates |  |  |  |  | 100pct-affordable |  | 9 | 9 | 100.0% | for-sale | built | low | [doc](https://www.piazzanj.com/property/lakeshore-estates/) |
-| White Beeches Driving Range Overlay (Round 4 Unmet Need) |  | 1008 | 1 |  | overlay | 16.0 |  |  |  |  | adopted-ordinance | low | [doc](https://www.haworthnj.org/vertical/sites/%7B3226EF68-541C-456F-8644-AC724E9AC52C%7D/uploads/Minutes_03_10_26_pdf.pdf) |
-| 160 Terrace Street | 160 Terrace Street | 1307 | 3 |  | 100pct-affordable |  | 8 | 2 |  | rental | built | low | [doc](https://www.haworthnj.org/?SEC=D98AAAC9-503F-4FF0-9F1B-00DD76F125A7) |
-| 139 Terrace Street (Former Chase Bank) | 139 Terrace Street | 1308 | 1 | 0.27 | inclusionary-rezoning |  | 10 | 2 | 20.0% | rental | proposed | low | [doc](https://thepressgroup.net/haworth-makes-affordable-progress/) |
-| Massachusetts Avenue Multifamily (Zone G) | Massachusetts Avenue | 1800 | 1 | 2.387 | inclusionary-rezoning |  | 35 | 14 | 40.0% | rental | approved | low | [doc](https://thepressgroup.net/haworth-affordable-plan-gets-court-approval/) |
+| Zone D Overlay (Unmet Need) |  |  |  |  | inclusionary overlay |  |  |  | 20.0% |  | adopted (Third Round/Fourth Round unmet need mechanism) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/haworth-boro/HaworthHEFSPADOPTEDPart1.pdf?VersionId=QeOsfn2sSwK10C_947CLnoTQtN5Y3xA_) |
+| Accessory Apartment Program |  |  |  |  | accessory apartment |  |  | 10 |  | rental | active (Third Round) | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/haworth-boro/HaworthHEFSPADOPTEDPart1.pdf?VersionId=QeOsfn2sSwK10C_947CLnoTQtN5Y3xA_) |
+| Block 1008 Lot 1 (White Beeches Overlay) |  | 1008 | 1 |  | inclusionary overlay |  |  |  |  |  | overlay adopted (Third Round unmet need) | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/haworth-boro/HaworthHEFSPADOPTEDPart1.pdf?VersionId=QeOsfn2sSwK10C_947CLnoTQtN5Y3xA_) |
+| Block 1100 Lot 12 (Lakeshore Developers) |  | 1100 | 12 |  | 100% affordable |  |  | 9 | 100.0% | rental | completed (constructed, Third Round carryover) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/haworth-boro/HaworthHEFSPADOPTEDPart1.pdf?VersionId=QeOsfn2sSwK10C_947CLnoTQtN5Y3xA_) |
+| 320 Haworth Avenue (Zone G Overlay) | 320 Haworth Avenue | 1307 | 2 |  | inclusionary overlay |  | 15 | 3 | 20.0% | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/haworth-boro/HaworthHEFSPADOPTEDPart1.pdf?VersionId=QeOsfn2sSwK10C_947CLnoTQtN5Y3xA_) |
+| 160 Terrace Street (Block 1307 Lot 3) | 160 Terrace Street | 1307 | 3 |  | inclusionary |  | 8 | 2 | 25.0% | rental | completed (CO May 21, 2025) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/haworth-boro/HaworthHEFSPADOPTEDPart1.pdf?VersionId=QeOsfn2sSwK10C_947CLnoTQtN5Y3xA_) |
+| 139 Terrace Street (Zone H Inclusionary District) | 139 Terrace Street | 1308 | 1 |  | inclusionary overlay |  | 10 | 2 | 20.0% | rental | adopted (Ordinance 2026-003, March 10, 2025) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/haworth-boro/Ordinance2026003.pdf?VersionId=VJ571ZSTYz013Wj8p0HHg4TnE5qXcO.p) |
+| Block 1800 Lot 1 (Mass Ave / BCUW) |  | 1800 | 1 |  | 100% affordable / municipally sponsored |  |  | 14 | 100.0% | rental | approved (Third Round carryover) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/haworth-boro/HaworthHEFSPADOPTEDPart1.pdf?VersionId=QeOsfn2sSwK10C_947CLnoTQtN5Y3xA_) |
+| Block 1806 Lot 2 (Spectrum for Living group home) |  | 1806 | 2 |  | group home / supportive housing |  |  | 6 | 100.0% | rental | completed / active (Third Round) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/haworth-boro/HaworthHEFSPADOPTEDPart1.pdf?VersionId=QeOsfn2sSwK10C_947CLnoTQtN5Y3xA_) |
 
 ## Hillsdale (Borough)
 
@@ -655,21 +674,23 @@ _Compliance: compliant_with_objections_settled · HEFSP: adopted 2025-06-20_
 
 ## Westwood (Borough)
 
-_Obligation: 254 · Compliance: conditionally-compliant / litigating · HEFSP: adopted_
+_Obligation: 254 · Compliance: compliant via overlay zones and mandatory set-aside; unmet need acknowledged · HEFSP: adopted 2025-06-12_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| RW-RM Overlay — Block 2001 Lot 62 |  | 2001 | 62 |  | overlay | 20.0 |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/33942011) |
-| RW-RM Overlay — Block 2003 Lot 2 |  | 2003 | 2 |  | overlay | 20.0 |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/33942011) |
-| RW-RM Overlay — Block 2210 Lots 1 and 3.01 |  | 2210 | 1; 3.01 |  | overlay | 20.0 |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/33942011) |
+| 106 Old Hook Road (inclusionary ZBA approval) | 106 Old Hook Road, Westwood, NJ | 1802 | 25 |  | inclusionary (mandatory set-aside / use variance) |  |  | 1 |  |  | ZBA approved, construction not yet begun | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/westwood-boro/FinalHousingElementandFairSharePlanPart1.pdf?VersionId=.SHGAiHtu3A71l_RBa_IpCzAJu2E0ckB) |
+| RW-RM Overlay Zone (easterly area) | Eastern portion of Westwood, RW zone | 2001, 2003, 2210 | 62; 2; 1, 3.01 | 2.2 | inclusionary overlay | 20.0 |  |  | 15.0% | rental | overlay ordinance adopted (Ord 267) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/westwood-boro/FinalHousingElementandFairSharePlanPart1.pdf?VersionId=.SHGAiHtu3A71l_RBa_IpCzAJu2E0ckB) |
+| LB-RM Overlay Zone (Broadway corridor) | Broadway, Westwood, NJ (LB-1 zone) | 701 | 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 16 | 6.52 | inclusionary overlay | 20.0 |  |  | 15.0% | rental | overlay ordinance adopted (Ord 266) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/westwood-boro/FinalHousingElementandFairSharePlanPart1.pdf?VersionId=.SHGAiHtu3A71l_RBa_IpCzAJu2E0ckB) |
+| Irvington Street and Broadway (under construction) | Irvington Street and Broadway, Westwood, NJ | 802 | 1, 2 |  | inclusionary (mandatory set-aside / use variance) |  |  | 1 |  |  | ZBA approved, under construction | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/westwood-boro/FinalHousingElementandFairSharePlanPart1.pdf?VersionId=.SHGAiHtu3A71l_RBa_IpCzAJu2E0ckB) |
 
 ## Wood-Ridge (Borough)
 
-_Compliance: settled · HEFSP: adopted 2025-06-03_
+_Obligation: 147 · Compliance: compliant via unmet need/credits mechanism · HEFSP: adopted 2025-06-03_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Wesmont Station / Curtiss-Wright Redevelopment — Affordable Housing Phase I | Johnson Drive / Wesmont Drive, Wood-Ridge, NJ |  |  |  | redevelopment-area |  | 500 | 80 | 14.0% | rental | built | medium | [doc](https://www.njwoodridge.org/_Content/pdf/Wood-Ridge-HEFSP-FINAL-ADOPTED-June-3-2025.pdf) |
+| Avalon Bay at Wesmont Station | 100 Rosie Square, Wood-Ridge, NJ |  |  |  | redevelopment (Wesmont Station/Curtiss-Wright site) |  |  | 47 |  | rental | constructed and occupied | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wood-ridge-boro/WoodRidgeHEFSPFINALADOPTEDJune32025.pdf?VersionId=Zh18Xdo.4hSEaXPWDQT_FGWAitOrSgmb) |
+| The Willows at Wesmont Station (Ingerman) | 100 Johnson Drive, Wood-Ridge, NJ |  |  |  | redevelopment (Wesmont Station/Curtiss-Wright site) |  |  | 104 |  | rental | constructed and occupied | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wood-ridge-boro/WoodRidgeHEFSPFINALADOPTEDJune32025.pdf?VersionId=Zh18Xdo.4hSEaXPWDQT_FGWAitOrSgmb) |
 
 ## Woodcliff Lake (Borough)
 

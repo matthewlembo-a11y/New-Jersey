@@ -1,0 +1,4028 @@
+SOURCE_URL: https://library.njcourts.gov/files/civil/affordable-housing/bergen/oakland-boro/OaklandRound4Planpart1.pdf?VersionId=TyKyyHmbcr04GxSSl1xYqD0d8Y4zB.1w
+
+===== PAGE 1 =====
+Master Plan Amendment 
+Housing Plan Element and Fair Share Plan 
+Round 4 
+ 
+Borough of Oakland 
+Bergen County, New Jersey 
+ 
+Prepared:  
+June 12, 2025 
+ 
+Prepared for:  
+Borough of Oakland Land Use Board 
+ 
+Prepared by: 
+ 
+T&M Associates 
+11 Tindall Road 
+Middletown, NJ 07748 
+ 
+ 
+ 
+____________________________________ 
+Caroline Z. Reiter, PP, AICP 
+NJ Professional Planner: 33LI00534300 
+ 
+ 
+ 
+ 
+____________________________ 
+Robert E. Dare, PP, AICP 
+NJ Professional Planner: 33LI00596400 
+ 
+ 
+ 
+Adopted on June 23, 2025 by the Borough of Oakland Planning Board 
+Endorsed on June 23, 2025 by the Oakland Borough Council. 
+ 
+The original of this document has been signed and sealed in accordance with Law. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 1 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 2 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+Page ii 
+ 
+OAKLAND BOROUGH 
+ 
+ 
+Mayor and Council 
+Eric Kulmala, Mayor 
+John McCann, Council President 
+Carol Ann Rose, Councilwoman 
+Pat Pignatelli, Councilman 
+Steven Saliani, Councilman 
+Kevin Slasinski, Councilman 
+Russ Talamini, Councilman 
+ 
+ 
+Planning Board 
+Eric Kulmala, Class I Official/Designee 
+Lee Haymon, Class II Official 
+Russ Talamini, Class III Official 
+Andrea Levy, Class IV Official 
+Gregory Liss, Class IV Official 
+Thomas Potash, Class IV Official 
+Joseph Marscovetra, Class IV Official 
+Edward Clark, Class IV Official 
+Andrew Gisonna, Alternate I 
+ 
+Kevin Boswell, Borough Engineer 
+Joseph Russo, Planning Board Attorney 
+Caroline Reiter, T&M Associates, Borough Planner 
+ 
+Borough Officials 
+Richard Kunze, Borough Administrator 
+Wendi Seelin, Acting Borough Clerk 
+ 
+Kathy Gurney, Confidential Secretary 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 2 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 3 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+Page iii 
+ 
+Table of Contents 
+Affordable Housing in New Jersey ...................................................................................................... 1 
+Mandatory Contents of the Housing Element ................................................................................ 2 
+Analysis of Demographic, Housing, and Employment Characteristics ............................... 4 
+Population Characteristics ................................................................................................................ 4 
+Population Composition by Age ...................................................................................................... 6 
+Existing Housing Characteristics ......................................................................................................... 8 
+Type of Household ................................................................................................................................ 8 
+Household Size ....................................................................................................................................... 9 
+Per Capita and Household Income .............................................................................................. 10 
+Family Income Distribution ........................................................................................................... 11 
+Housing Affordability ....................................................................................................................... 12 
+Housing Unit Data .............................................................................................................................. 13 
+Year Householder Moved into Unit ............................................................................................ 14 
+Housing Unit Information ............................................................................................................... 15 
+Housing Conditions ........................................................................................................................... 17 
+Housing Values .................................................................................................................................... 18 
+Contract Rents ..................................................................................................................................... 19 
+Employment Data ............................................................................................................................... 20 
+Residential Construction ................................................................................................................. 23 
+Population and Household Projection ...................................................................................... 24 
+Employment Projection ................................................................................................................... 25 
+Affordable Housing Obligation .......................................................................................................... 26 
+Prior Round & Round 3 Obligations ........................................................................................... 26 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 3 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 4 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+Page iv 
+ 
+Round 4 Present Need ...................................................................................................................... 29 
+Round 4 Prospective Need ............................................................................................................. 29 
+Availability of Existing and Planned Infrastructure ............................................................ 32 
+Consideration of Lands Appropriate for Affordable Housing ......................................... 32 
+Consistency with the State Development and Redevelopment Plan ........................... 33 
+Compliance with the Highlands ................................................................................................... 35 
+Minimums & Maximums ................................................................................................................. 36 
+Multigenerational Housing Continuity ..................................................................................... 36 
+Conclusion ............................................................................................................................................. 37 
+Appendices ............................................................................................................................................ 37 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 4 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 5 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 1 
+Housing Element 
+The Borough of Oakland, Bergen County, has prepared this Housing Element and Fair 
+Share Plan as an amendment to the municipal master plan in accordance with the 
+New Jersey Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.) and the New Jersey 
+Fair Housing Act 2 (N.J.S.A. 52:27D-301 et seq.). 
+The Municipal Land Use Law requires that a municipal master plan include a housing 
+element to enable the municipality to exercise the power to zone and regulate land 
+use. The housing element is adopted by the municipal planning board and endorsed 
+by the municipal governing body, and is drawn to achieve the goal of meeting the 
+municipal obligation to provide for a fair share of the regional need for affordable 
+housing. 
+This Housing Element and Fair Share Plan amends the Borough’s master plan to 
+address affordable housing planning requirements for the time period known as 
+Round 4, which includes the decade between July 2025 and July 2035.  It addresses 
+the Borough’s cumulative fair share obligation for the period from 1987 through 
+2035.  The Borough last adopted a Round 3 Housing Element dated December 21, 
+2022 on February 9, 2023.  This plan will replace the 2022 Round 3 plan. 
+Affordable Housing in New Jersey 
+The Mt. Laurel II doctrine requires that all municipalities provide a realistic 
+opportunity for their fair share of low and moderate income housing. The Oakland 
+Fair Share Plan is the Borough’s proposal for satisfying its share of the regional 
+affordable housing needs under applicable affordable housing regulations.  
+This Plan provides the Borough’s fair share obligation and details its strategies for 
+addressing its present, prior, and prospective housing needs. The New Jersey Fair 
+Housing Act established the New Jersey Council on Affordable Housing (COAH). COAH 
+was responsible for developing rules and regulations on affordable housing, as well 
+as approving municipalities’ submitted affordable housing plans. The COAH approval 
+process was known as Substantive Certification.  
+COAH adopted its first set of rules, known as ‘Round 1,’ for the period of 1987 through 
+1993. COAH ‘Round 2’ covered the 1993 to 1999 time period. These rounds are now 
+combined and collectively referred to as the ‘Prior Round,’ which covers the 1987 to 
+1999 time period. 
+COAH adopted its first Round 3 rules in 2005. The Round 3 rules included a new 
+methodology for calculating affordable housing, known as Growth Share. These rules 
+were challenged, and the Appellate Division invalidated the Round 3 rules in 2007.  
+COAH then adopted its second set of Round 3 rules in 2008; these rules also used the 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 5 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 6 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 2 
+Growth Share methodology and were found invalid by the Appellate Division in 2010. 
+COAH was directed to prepare new rules that used the Prior Round methodologies of 
+establishing the statewide and regional affordable housing obligation and assigning 
+municipalities their fair share of the regional affordable housing obligations. 
+COAH prepared new rules in 2014, but failed to adopt them. In response, a motion 
+was filed with the New Jersey Supreme Court to enforce litigant’s rights in response 
+to COAH’s lack of action. On March 10, 2015 the Supreme Court issued its decision to 
+enforce litigant’s rights and established a procedure for municipalities to transition 
+their COAH applications to the Courts. 
+The Supreme Court established a new procedure that requires participating towns, 
+such as Oakland, to submit a Declaratory Judgment action. The Borough of Oakland 
+filed its action of Declaratory Judgment with the Court on or about July 8, 2015.  
+ 
+ Fair Share Housing Center (FSHC), a nonprofit affordable housing advocacy group, 
+was considered an “interested party” in all municipal Declaratory Actions.  FSHC and 
+the Borough engaged in a mediation process under the supervision of the court-
+appointed Special Master. Oakland and FSHC also settled its affordable housing 
+litigation. Oakland’s Settlement Agreement is dated August 11, 2020. 
+ 
+Round 4 Affordable Housing 
+On March 20, 2024 Governor Murphy signed new legislation known as P.L.2024, c.2 
+that amended the state’s Fair Housing Act and changed the affordable housing 
+process in New Jersey.  
+ 
+The Fair Housing Act (FHA) Amendment (“FHA 2” or the “Act”) eliminated the Council 
+on Affordable Housing (COAH), directed the Department of Community Affairs (DCA) 
+to prepare nonbinding affordable housing obligations, changed certain aspects of the 
+vacant land process, eliminated and revised available bonus credits, and imposed 
+strict deadlines on municipalities.   
+ 
+Pursuant to the FHA 2, municipalities must adopt a Housing Element and Fair Share 
+Plan by June 30, 2025.  This plan conforms to the requirements established in the 
+legislation and FHA 2 and addresses Oakland’s Prior Round, Round 3 and Round 4 
+affordable housing obligations.  
+Mandatory Contents of the Housing Element 
+Pursuant to the New Jersey Fair Housing Act (FHA 2), “a municipality’s housing 
+element shall be designed to achieve the goal of access to affordable housing to meet 
+present and prospective housing needs, with particular attention to low-and 
+moderate-income housing.”  The essential plan components are: 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 6 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 7 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 3 
+• An inventory of the municipality's housing stock by age, condition, purchase 
+or rental value, occupancy characteristics, and type, including the number of 
+units affordable to low- and moderate-income households and substandard 
+housing capable of being rehabilitated; 
+• A projection of the municipality's housing stock, including the probable future 
+construction of low- and moderate-income housing, for the next ten years, 
+taking into account, but not necessarily limited to, construction permits 
+issued, approvals of applications for development and probable residential 
+development of lands; 
+• An analysis of the municipality's demographic characteristics, including but 
+not necessarily limited to, household size, income level, and age; 
+• An analysis of the existing and probable future employment characteristics of 
+the municipality; 
+• A determination of the municipality's present and prospective fair share for 
+low- and moderate-income housing and its capacity to accommodate its 
+present and prospective housing needs, including its fair share for low- and 
+moderate-income housing, as established pursuant to section 3 of P.L.2024, 
+c.2 (C.52:27D-304.1); and, 
+• A consideration of the lands that are most appropriate for construction of low- 
+and moderate-income housing and of the existing structures most appropriate 
+for conversion to, or rehabilitation for, low- and moderate-income housing, 
+including a consideration of lands of developers who have expressed a 
+commitment to provide low- and moderate-income housing; 
+• An analysis of the extent to which municipal ordinances and other local factors 
+advance or detract from the goal of preserving multigenerational family 
+continuity as expressed in the recommendations of the Multigenerational 
+Family Housing Continuity Commission, adopted pursuant to paragraph (1) of 
+subsection f. of section 1 of P.L.2021, c.273 (C.52:27D-329.20);  
+• For a municipality located within the jurisdiction of the Highlands Water 
+Protection and Planning Council, established pursuant to section 4 of P.L.2004, 
+c.120 (C.13:20-4), an analysis of compliance of the housing element with the 
+Highlands Regional Master Plan of lands in the Highlands Preservation Area, 
+and lands in the Highlands Planning Area for Highlands conforming 
+municipalities. This analysis shall include consideration of the municipality’s 
+most recent Highlands Municipal Build Out Report, consideration of 
+opportunities for P.L. 2024, redevelopment of existing developed lands into 
+inclusionary or 100 percent affordable housing, or both, and opportunities for 
+100 percent affordable housing in both the Highlands Planning Area and 
+Highlands Preservation Area that are consistent with the Highlands regional 
+master plan; and  
+• An analysis of consistency with the State Development and Redevelopment 
+Plan, 
+including 
+water, 
+wastewater, 
+stormwater, 
+and 
+multi-modal 
+transportation based on guidance and technical assistance from the State 
+Planning Commission. 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 7 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 8 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 4 
+This Housing Element and Fair Share Plan Amendment addresses the above 
+requirements. 
+Analysis of Demographic, Housing, and Employment 
+Characteristics 
+As required by N.J.S.A. 52:27D-310, all housing elements must contain a discussion of 
+the municipality’s demographic, housing, and economic characteristics. The following 
+subsections fulfill this requirement by providing a profile of information for the 
+Borough of Oakland from the US Census Bureau, the New Jersey Department of Labor 
+and Workforce Development, and the North Jersey Transportation Planning 
+Authority. 
+Population Characteristics 
+ 
+Table 1 shows the population trends for the Borough of Oakland and Bergen County 
+from 1930 to 2020. As shown, Oakland’s population increased by 12,013 residents 
+during this period. The three greatest increases occurred in the periods from: 1950 
+to 1960, when the Borough’s population increased by approximately 419.9 percent; 
+1940 to 1950, when there was an increase of approximately 95.0 percent; and 
+between 1960 and 1970, when population increased by approximately 52.7 percent. 
+There were decreases in population between 1970 and 1980, when the Borough’s 
+population decreased by about 6.8 percent; and 1980 and 1990, when the Borough’s 
+population decreased by about 10.8 percent. 
+Bergen County’s population also increased over the period from 1930 to 2020. 
+Indeed, the County’s population increased by 590,755 residents over this period. As 
+compared to the Borough, however, change in the County’s population was never as 
+great as in the Borough. Indeed, the maximum rate of change in the Borough’s 
+population was about 419.9 percent (between 1950 and 1960), but the change in the 
+County’s population never exceeded about 44.7 percent (also between 1950 and 
+1960) in any ten-year period. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 8 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 9 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 5 
+Table 1 
+POPULATION CHANGE, 1930 – 2020 
+Borough of Oakland and Bergen County 
+ 
+Borough of Oakland 
+ 
+ 
+Change 
+Year 
+Population 
+Number 
+Percent 
+1930 
+735 
+------ 
+------ 
+1940 
+932 
+197 
+26.8 
+1950 
+1,817 
+885 
+95.0 
+1960 
+9,446 
+7,629 
+419.9 
+1970 
+14,420 
+4,974 
+52.7 
+1980 
+13,443 
+-977 
+-6.8 
+1990 
+11,997 
+-1,446 
+-10.8 
+2000 
+12,466 
+469 
+3.9 
+2010 
+12,754 
+288 
+2.3 
+2020 
+12,748 
+-6 
+0.0 
+ 
+Bergen County 
+ 
+ 
+Change 
+Year 
+Population 
+Number 
+Percent 
+1930 
+364,977 
+------ 
+------ 
+1940 
+409,646 
+44,669 
+12.2 
+1950 
+539,139 
+129,493 
+31.6 
+1960 
+780,255 
+241,116 
+44.7 
+1970 
+897,148 
+116,893 
+15.0 
+1980 
+845,385 
+-51,763 
+-5.8 
+1990 
+825,380 
+-20,005 
+-2.4 
+2000 
+884,118 
+58,738 
+7.1 
+2010 
+905,116 
+20,998 
+2.4 
+2020 
+955,732 
+50,616 
+5.6 
+ 
+Sources: 
+1930 - 1950: “Number of Inhabitants, New Jersey.” 
+https://www2.Census.Gov/library/publications/decennial/1950/population-volume-
+2/23024255v2p30ch1.pdf. U.S. Census Bureau, 1950; 
+1940 - 2000: “New Jersey Population Trends 1790 to 2000.” Division of Labor Market and 
+Demographic Research New Jersey State Data Center, August 2001. 
+https://www.nj.gov/labor/labormarketinformation/assets/PDFs/census/2kpub/njsdcp3.pdf; 
+2010: 2010 U.S. Census (Table P3); and, 
+2020: 2020 U.S. Census (Table DP1) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 9 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 10 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 6 
+Population Composition by Age 
+ 
+Table 2 shows population by age cohort in the Borough of Oakland during 2010 and 
+2020. As can be seen, the population decreased by 6 residents or less than 0.0 percent 
+between 2010 and 2020. The three age-cohort with the largest decreases were 5-14, 
+which decreased by 495 residents or about 24.4 percent; 35-44, which decreased by 
+436 residents or about 22.8 percent; and 45-54, which decreased by 488 residents or 
+about 20.2 percent. The three age cohorts with the largest increases were: 15-24, 
+which increased by 456 residents or 33.7 percent; 65-74, which increased by 271 
+residents or 29.5 precent; and 55-64, which increased by 470 residents or 29.0 
+percent. The change in all other age cohorts was less than ± 20 percent. 
+ 
+ 
+Table 2 
+POPULATION BY AGE 
+Borough of Oakland 
+ 
+ 
+2010 Population 
+2020 Population 
+Change 2010-2020 
+Age Group 
+Persons 
+Percent 
+Persons 
+Percent 
+Persons 
+Percent 
+Under 5 
+679 
+5.3 
+ 630  
+4.9 
+-49 
+-7.2 
+5-14 
+2,032 
+15.9 
+ 1,537  
+12.1 
+-495 
+-24.4 
+15-24 
+1,352 
+10.6 
+ 1,808  
+14.2 
+456 
+33.7 
+25-34 
+937 
+7.3 
+ 1,112  
+8.7 
+175 
+18.7 
+35-44 
+1,912 
+15.0 
+ 1,476  
+11.6 
+-436 
+-22.8 
+45-54 
+2,414 
+18.9 
+ 1,926  
+15.1 
+-488 
+-20.2 
+55-64 
+1,621 
+12.7 
+ 2,091  
+16.4 
+470 
+29.0 
+65-74 
+918 
+7.2 
+ 1,189  
+9.3 
+271 
+29.5 
+75-84 
+592 
+4.6 
+ 631  
+4.9 
+39 
+6.6 
+85+ 
+297 
+2.3 
+ 348  
+2.7 
+51 
+17.2 
+TOTALS 
+12,754 
+100.0 
+ 12,748  
+100.0 
+-6 
+< 0.0 
+ 
+Sources: 
+2010: 2010 U.S. Census (Table PCT12); and, 
+2020: U.S. Census (Table DP1) 
+ 
+Table 2 shows considerable growth and decline in several age cohorts. The effects of 
+the change in the distribution of Oakland’s population among age cohorts can be 
+summarized in the change in the median age of the Borough’s population, which 
+increased by one (1.0) year, from 42.8 years to 43.8 years, in the period from 2010 to 
+2020. This represents an increase of about 2.3 percent. By comparison, the median 
+age of Bergen County’s population increased by approximately 0.9 years, from 41.1 
+years to 42.0 years, which equates to an increase of about 2.2 percent. Table 3 
+summarizes the distribution of the Borough’s and County’s populations among age 
+cohorts and the change in the median age of said populations. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 10 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 11 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 7 
+Table 3 
+PERCENTAGE POPULATION DISTRIBUTION, 2010 & 2020 
+Borough of Oakland and Bergen County 
+ 
+ 
+2010 Percentage of Population 
+2020 Percentage of Population 
+Age Group 
+Borough 
+County 
+Borough 
+County 
+Under 5 
+5.3 
+5.6 
+4.9 
+5.0 
+5-14 
+15.9 
+12.9 
+12.1 
+12.0 
+15-24 
+10.6 
+11.6 
+14.2 
+12.0 
+25-34 
+7.3 
+11.6 
+8.7 
+11.8 
+35-44 
+15.0 
+14.3 
+11.6 
+13.2 
+45-54 
+18.9 
+16.3 
+15.1 
+14.0 
+55-64 
+12.7 
+12.7 
+16.4 
+14.3 
+65+ 
+14.2 
+15.1 
+17.0 
+17.7 
+TOTALS 
+100.0 
+100.0 
+100.0 
+100.0 
+ 
+ 
+ 
+ 
+ 
+Median Age 
+42.8 
+41.1 
+43.8 
+42.0 
+ 
+Sources:  
+2010: 2010 U.S. Census (Tables PCT12, P13) 
+2020: 2020 U.S. Census (Tables DP1, P13) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 11 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 12 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 8 
+Existing Housing Characteristics 
+ 
+Type of Household 
+ 
+A household is a group of people who occupy a housing unit as their usual place of 
+residence. As shown in Table 4, there were 4,356 households in the Borough of 
+Oakland in 2020. The majority, or approximately 84.3 percent, of households 
+consisted of two or more persons. The remaining 15.7 percent of households 
+consisted of one person. Table 4 provides additional details on the types of 
+households in Oakland Borough during 2020. 
+ 
+ 
+Table 4 
+TYPES OF HOUSEHOLDS, 2020 
+ 
+Borough of Oakland 
+ 
+Type of Households 
+Total 
+Number in 
+Subgroup 
+Percent of 
+Total 
+TOTAL HOUSEHOLDS 
+4,356 
+ 
+One Person 
+684 
+15.7 
+Male Householder 
+277 
+6.4 
+65 years or older 
+101 
+2.3 
+Female Householder 
+407 
+9.3 
+65 years or older 
+241 
+5.5 
+Two or More Persons 
+3,672 
+84.3 
+Married Couple Families 
+2,985 
+68.5 
+With Own Children Under 18 
+1,309 
+30.1 
+Cohabitating Couple 
+147 
+3.4 
+With Own Children Under 18 
+34 
+0.8 
+Male Householder Not living alone 
+189 
+4.3 
+With Own Children Under 18 
+34 
+0.8 
+Female Householder Not living alone 
+351 
+8.1 
+With Own Children Under 18 
+121 
+2.8 
+ 
+Source: 2020 U.S. Census (Table DP1) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 12 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 13 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 9 
+Household Size 
+ 
+Table 5 provides further details on household size in the Borough of Oakland during 
+2020. As shown, the most frequent household size was two persons, which accounted 
+for 31.0 percent of all households in Oakland and 29.1 percent of all households in 
+Bergen County. The average household size in Oakland was 2.87, which is 0.17 more 
+than the average household size of 2.70 in Bergen County during 2020.   
+ 
+ 
+Table 5 
+HOUSEHOLD SIZE, 2020 
+Borough of Oakland & Bergen County 
+ 
+Borough of Oakland 
+Bergen County 
+Household Size 
+Number 
+Percent 
+Number  Percent 
+1 Person 
+ 684  
+15.7 
+84,254 
+24.0 
+2 Persons 
+ 1,350  
+31.0 
+102,218 
+29.1 
+3 Persons 
+ 849  
+19.5 
+63,130 
+18.0 
+4 Persons 
+ 967  
+22.2 
+61,107 
+17.4 
+5 Persons 
+ 362  
+8.3 
+26,098 
+7.4 
+6+ Persons 
+ 144  
+3.3 
+13,857 
+4.0 
+TOTALS 
+ 4,356  
+100.0 
+350,664 
+100.0 
+Average Household Size 
+2.87 
+ 
+2.70 
+ 
+ 
+Source: 2020 U.S. Census (Tables H12, DP1) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 13 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 14 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 10 
+Per Capita and Household Income 
+ 
+Table 6 displays the per capita income, median household income, and population 
+poverty status of Oakland, Bergen County and the State of New Jersey. This data is 
+derived from the 2023 American Community Survey Five-Year Estimates and 
+represents estimated average conditions over the five-year period ending in 2023. 
+ 
+As shown in Table 6, Oakland had a higher per capita income at $64,120 than in 
+Bergen County and New Jersey, where the per capita incomes were $62,968 and 
+$53,118, respectively. Oakland also had a higher median household income at 
+$162,862 than Bergen County and New Jersey, where the median household incomes 
+were $123,715 and $101,050, respectively. Additionally, the Borough had just 3.2 
+percent of its population living below poverty status, which is lower than the 6.7 
+percent and 9.8 percent exhibited by Bergen County and New Jersey, respectively. 
+ 
+ 
+Table 6 
+PER CAPITA AND HOUSEHOLD INCOME; POVERTY STATUS 2023 
+Borough of Oakland, Bergen County & New Jersey 
+ 
+ 
+Per Capita Income 
+Median Household 
+Income 
+ Percentage of 
+Population Below 
+Poverty Status  
+Borough of Oakland 
+$64,120 
+$162,862 
+3.2 
+Bergen County 
+$62,968 
+$123,715 
+6.7 
+New Jersey 
+$53,118 
+$101,050 
+9.8 
+ 
+Source: 2023 American Community Survey 5-Year Estimates (Tables BP19301, S1901 and S1701) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 14 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 15 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 11 
+Family Income Distribution 
+ 
+Table 7 details family income for the Borough and County as represented by 2023 
+American Community Survey Five-Year Estimates. Approximately 85.6 percent of 
+Oakland’s families earned $75,000 or more. By comparison, just 77.6 percent of 
+Bergen County’s families earned $75,000 or more. 
+ 
+ 
+Table 7 
+FAMILY INCOME DISTRIBUTION, 2023 
+Borough of Oakland & Bergen County 
+ 
+Borough 
+County 
+Income Levels 
+Number 
+Percent 
+Number 
+Percent 
+Less than $10,000 
+13 
+0.4 
+4,882 
+1.9 
+$10,000 - $14,999 
+5 
+0.1 
+2,555 
+1.0 
+$15,000 - $24,999 
+34 
+1.0 
+6,022 
+2.4 
+$25,000 - $34,999 
+63 
+1.8 
+7,350 
+2.9 
+$35,000 - $49,999 
+99 
+2.8 
+12,602 
+5.0 
+$50,000 - $74,999 
+294 
+8.4 
+23,286 
+9.2 
+$75,000 - $99,999 
+265 
+7.6 
+23,706 
+9.4 
+$100,000 - $149,999 
+522 
+14.9 
+45,647 
+18.1 
+$150,000 - $199,999 
+794 
+22.6 
+36,887 
+14.6 
+$200,000 or more 
+1,420 
+40.5 
+89,702 
+35.5 
+TOTALS 
+3,509 
+100.0 
+252,639 
+100.0 
+ 
+Source: 2023 American Community Survey 5-Year Estimates (Table DP03) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 15 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 16 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 12 
+Housing Affordability 
+ 
+Table 8 identifies the maximum income limits for low, very low- and moderate-
+income households in Housing Region 1. All of Bergen, Hudson, Passaic and Sussex 
+counties are in Housing Region 1. 
+ 
+Oakland is in Housing Region 1. As of 2025, the median household income for a three-
+person household in Housing Region 1 was $114,500. A three-person moderate 
+income household, defined as a household with an income in excess of 50 percent but 
+less than 80 percent of the median income, would have an income that does not 
+exceed $91,600. A four-person low-income household, defined as a household with 
+income equal to or less than 50 percent but more than 30 percent of the median 
+income, would have an income that does not exceed $63,600. A two-person very low-
+income household, defined as a household with an income equal to 30 percent or less 
+of the median income, would have an income that does not exceed $30,540. Finally, 
+the 1.5 person, three-person and 4.5-percon columns are used for calculating the 
+pricing for one-, two- and three-bedroom affordable units. 
+ 
+ 
+Table 8 
+2025 REGIONAL INCOME LIMITS 
+HOUSING REGION 1 
+ 
+Household Size 
+Median Income 
+Moderate Income 
+Low Income 
+Very Low Income 
+ 
+1 Person 
+$89,100 
+$71,280 
+$44,550 
+$26,730 
+1.5 Person 
+$95,450 
+$76,360 
+$47,725 
+$28,635 
+2 Person 
+$101,800 
+$81,440 
+$50,900 
+$30,540 
+2.5 Person 
+$108,150 
+$86,520 
+$54,075 
+$32,445 
+3 Person 
+$114,500 
+$91,600 
+$57,250 
+$34,350 
+4 Person 
+$127,200 
+$101,760 
+$63,600 
+$38,160 
+4.5 Person 
+$132,300 
+$105,840 
+$66,150 
+$39,690 
+5 Person 
+$137,400 
+$109,920 
+$68,700 
+$41,220 
+6 Person 
+$147,600 
+$118,080 
+$73,800 
+$44,280 
+7 Person 
+$157,800 
+$126,240 
+$78,900 
+$47,340 
+8 Person 
+$168,000 
+$134,400 
+$84,000 
+$50,400 
+ 
+Source: 2025 Affordable Housing Regional Income Limits by Household Size, Prepared by 
+Affordable Housing Professionals of New Jersey (AHPNJ) – May 16, 2025. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 16 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 17 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 13 
+Housing Unit Data 
+ 
+In 2020, there were 4,561 housing units in Oakland, of which 4,356 or 95.5 percent 
+were occupied. By comparison, the County had 367,383 housing units, of which 
+350,664 or 95.4 percent were occupied.  
+ 
+As shown in Table 9, owner-occupied housing stock comprised a greater percentage 
+of the Borough’s housing stock than in the County’s housing stock. In 2020, 
+approximately 91.2 percent of the Borough’s housing stock was owner-occupied, 
+versus 63.1 percent of the County’s housing stock. 
+ 
+ 
+Table 9 
+HOUSING UNIT DATA, 2020 
+Borough of Oakland & Bergen County 
+ 
+Borough 
+County 
+Number 
+Percent 
+Number 
+Percent 
+Unit Type 
+Occupied 
+4,356 
+95.5 
+350,664 
+95.4 
+Vacant, Seasonal & Migratory 
+205 
+4.5 
+16,719 
+4.6 
+TOTALS 
+4,561 
+100.0 
+367,383 
+100.0 
+Owner vs Renter Occupied Units 
+Owner Occupied 
+3,974 
+91.2 
+221,274 
+63.1 
+Renter Occupied 
+382 
+8.8 
+129,390 
+36.9 
+TOTALS 
+4,356 
+100.0 
+350,664 
+100.0 
+ 
+Source: 2020 U.S. Census (Table DP1) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 17 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 18 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 14 
+Year Householder Moved into Unit 
+Table 10 provides the year the current householders moved into the Oakland and 
+Bergen County homes. As shown, 64.7 percent of the Borough’s households moved 
+into their current residences during or after 2000, compared to 74.2 percent 
+countywide. Approximately 32.6 percent of the Borough’s households and 25.8 
+percent of the County’s households moved into their residences before 2000. 
+ 
+ 
+Table 10 
+YEAR HOUSEHOLDER MOVED INTO UNIT, 2023 
+Borough of Oakland & Bergen County 
+ 
+Borough  
+County 
+Year Householder Moved 
+into Unit 
+Number 
+Percent 
+Number 
+Percent 
+2021 or later 
+ 256  
+5.8 
+27,042 
+7.7 
+2010 - 2020 
+ 1,852  
+42.1 
+165,730 
+46.9 
+2000 - 2009 
+ 856  
+19.5 
+69,267 
+19.6 
+1990 - 1999 
+ 689  
+15.7 
+42,548 
+12.0 
+1989 or earlier 
+ 742  
+16.9 
+48,720 
+13.8 
+TOTALS 
+4,395 
+100.0 
+353,307 
+100.0 
+ 
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 18 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 19 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 15 
+Housing Unit Information 
+ 
+Table 11 includes a variety of information from the American Community Survey on 
+the Borough of Oakland and Bergen County housing stocks, including when the 
+housing unit was built, the number of units per structure, and the number of rooms 
+and bedrooms per unit. 
+ 
+As shown, approximately 91.0 percent of the Borough’s housing stock consists of 
+single-family detached structures. In contrast, single-family detached homes 
+comprise approximately 53.2 percent of the County’s housing stock. 
+ 
+As shown in Table 11, the Borough’s housing stock contains more rooms than the 
+County’s housing stock. In 2023, about 74.0 percent of Oakland’s housing units 
+contained six (6) or more rooms, while approximately 54.7 percent of the County’s 
+housing stock recorded the same number of rooms. About 38.6 percent of the 
+Borough’s housing units contain four or more bedrooms, compared with 
+approximately 27.2 percent of the County’s housing stock. 
+ 
+Finally, approximately 81.8 percent of the Borough’s housing stock was built before 
+1980, Similarly, about 74.6 percent of the County’s housing stock was built before 
+1980. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 19 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 20 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 16 
+Table 11 
+HOUSING UNIT INFORMATION, 2023 
+Borough of Oakland & Bergen County 
+ 
+Borough 
+County 
+Number 
+Percent 
+Number 
+Percent 
+Total Units 
+4,687 
+100.0 
+368,535 
+100.0 
+ 
+ 
+Units in Structure 
+ 
+ 
+One (Single Family Detached) 
+4,265 
+91.0 
+196,102 
+53.2 
+One (Single Family Attached) 
+202 
+4.3 
+22,284 
+6.0 
+Two+ Units 
+215 
+4.6 
+148,595 
+40.3 
+Mobile Home, Trailer, Other 
+5 
+0.1 
+1,554 
+0.4 
+Number of Rooms 
+1 Room 
+9 
+0.2 
+10,090 
+2.7 
+2 or 3 Rooms 
+118 
+2.5 
+54,929 
+14.9 
+4 or 5 Rooms 
+1,092 
+23.3 
+101,934 
+27.7 
+6 or 7 Rooms 
+1,614 
+34.4 
+103,786 
+28.2 
+8+ Rooms 
+1,854 
+39.6 
+97,796 
+26.5 
+Number of Bedrooms 
+No Bedroom 
+9 
+0.2 
+11,192 
+3.0 
+1 Bedroom 
+166 
+3.5 
+58,568 
+15.9 
+2 or 3 Bedrooms 
+2,703 
+57.7 
+198,472 
+53.9 
+4+ Bedrooms 
+1,809 
+38.6 
+100,303 
+27.2 
+Year Structure Built 
+2020 - later 
+0 
+0.0 
+2,486 
+0.7 
+2010 - 2019 
+95 
+2.0 
+18,587 
+5.0 
+2000 - 2009 
+287 
+6.1 
+21,455 
+5.8 
+1990 - 1999 
+261 
+5.6 
+20,951 
+5.7 
+1980 - 1989 
+210 
+4.5 
+30,051 
+8.2 
+1960 - 1979 
+1,469 
+31.3 
+86,461 
+23.5 
+1940 - 1959 
+1,940 
+41.4 
+116,865 
+31.7 
+1939 or earlier 
+425 
+9.1 
+71,679 
+19.4 
+ 
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 20 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 21 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 17 
+Housing Conditions 
+ 
+Housing conditions in Oakland are good. As shown in Table 12, just 1.5 percent of the 
+Borough’s housing units lack complete plumbing facilities or kitchen facilities, and 
+just 1.8 percent lack phone service, compared to 0.3, 0.7 and 0.8 percent, respectively, 
+in the county overall. 
+ 
+In addition to the above, just 1.0 of the Borough’s housing stock has more than one 
+person per room, compared to about 3.4 percent of the County’s housing stock. 
+Having more than one person per room in an indicator of overcrowding. 
+ 
+ 
+Table 12 
+INDICATORS OF HOUSING CONDITIONS, 2023 
+Borough of Oakland & Bergen County 
+ 
+Borough 
+County 
+Number 
+Percent 
+Number 
+Percent 
+Total Occupied Units 
+4,395 
+353,307 
+Units Lacking Complete Plumbing 
+65 
+1.5 
+899 
+0.3 
+Units Lacking Kitchen Facilities 
+65 
+1.5 
+2,541 
+0.7 
+No telephone service 
+78 
+1.8 
+2,797 
+0.8 
+Persons per Room, Occupied Units 
+1.00 or less 
+4,351 
+99.0 
+341,275 
+96.6 
+1.01 to 1.50 
+35 
+0.8 
+7,036 
+2.0 
+1.51 or more 
+9 
+0.2 
+4,996 
+1.4 
+TOTALS 
+4,395 
+100.0 
+353,307 
+100.0 
+ 
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 21 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 22 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 18 
+Housing Values 
+ 
+Table 13 shows 2023 housing values for the Borough of Oakland and Bergen County. 
+As indicated, approximately 94.6 percent of the Borough’s owner-occupied housing 
+units are valued at over $300,000. This is higher than in the County, where only about 
+89.9 percent of the owner-occupied housing units are valued at over $300,000. This 
+higher percentage of units is despite the fact that the median value of owner-occupied 
+units in Bergen County is slightly higher than in the Borough. Indeed, the median 
+value of owner-occupied units is $593,200 in Bergen County, but $567,200 in Oakland 
+Borough. 
+ 
+ 
+Table 13 
+OWNER-OCCUPIED HOUSING VALUES, 2023 
+Borough of Oakland & Bergen County 
+ 
+Borough 
+County 
+Housing Value 
+Number 
+Percent 
+Number 
+Percent 
+Less than $50,000 
+63 
+1.6 
+4,241 
+1.8 
+$50,000 - $99,999 
+23 
+0.6 
+2,583 
+1.1 
+$100,000 - $149,999 
+21 
+0.5 
+2,366 
+1.0 
+$150,000 - $199,999 
+0 
+0.0 
+2,680 
+1.2 
+$200,000 - $299,999 
+112 
+2.8 
+11,285 
+4.9 
+$300,000 - $499,999 
+1294 
+32.1 
+62,212 
+26.9 
+$500,000 - $999,999 
+2435 
+60.4 
+115,000 
+49.8 
+$1,000,000 or more 
+85 
+2.1 
+30,556 
+13.2 
+TOTALS 
+4,033 
+100.0 
+230,923 
+100.0 
+Median Value 
+$ 567,200 
+$ 593,200 
+ 
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 22 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 23 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 19 
+Contract Rents 
+ 
+Table 14 details the gross rents for renter-occupied units in Oakland and Bergen 
+County. As shown, the median monthly rent in Oakland was $1,462. In Bergen County 
+overall, however, the median rent was $1,863. In Oakland, about 19.4 percent of all 
+cash rents were at least $3,000, whereas in Bergen County only about 13.2 percent of 
+all cash rents were $3,000 or more. 
+ 
+ 
+Table 14 
+GROSS RENTS, 2023 
+OCCUPIED UNITS PAYING RENT 
+Borough of Oakland & Bergen County 
+ 
+Borough 
+County 
+Contract Rents 
+Number 
+Percent 
+Number 
+Percent 
+Less than $500 
+17 
+7.2 
+3,870 
+3.3 
+$500 - $999 
+37 
+15.6 
+5,086 
+4.3 
+$1,000 - $1,499 
+75 
+31.6 
+21,678 
+18.3 
+$1,500 - $1,999 
+62 
+26.2 
+39,395 
+33.3 
+$2,000 - $2,499 
+0 
+0.0 
+21,731 
+18.3 
+$2,500 - $2,999 
+0 
+0.0 
+11,103 
+9.4 
+$3,000 or more 
+46 
+19.4 
+15,614 
+13.2 
+TOTALS 
+237 
+100.0 
+118,477 
+100.0 
+Median Rent 
+$ 1,462 
+  
+$ 1,863 
+ 
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 23 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 24 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 20 
+Employment Data 
+ 
+Table 15 details the occupational characteristics of Oakland residents as indicated by 
+2023 American Community Survey Five-Year Estimates. As indicated, the largest 
+occupational group among Oakland residents aged 16 years and over engaged in the 
+civilian labor force is “Management, Business Science & Arts” with about 55.2 percent. 
+This was also the largest occupational group in Bergen County with about 53.3 
+percent of County residents aged 16 years and over engaged in the civilian labor force. 
+The second largest occupational group was “Sales & Office Occupations,” which 
+accounted for 22.8 percent and 20.4 percent of the Borough and County residents 
+aged 16 years and over engaged in the civilian labor force, respectively. The third 
+largest occupational group was “Service Occupations,” which accounted for 11.1 
+percent of the Borough residents and 12.4 percent of the County residents aged 16 
+years and over engaged in the civilian labor force. In total, these three occupational 
+groups accounted for about 89.1 percent of the Borough residents and 86.2 percent 
+of the County residents aged 16 years and over engaged in the civilian labor force. 
+ 
+With regard to the industry of employment, it is noted that the top-three industries 
+of employment among Borough residents aged 16 years and over and engaged in the 
+civilian labor force were “Educational Services, Health Care/Social Assist.” with 30.3 
+percent; “Finance, Insurance and Real Estate” with 9.9 percent; and “Manufacturing” 
+with 9.6 percent. Among County residents, the top-three industries of employment 
+were “Educational Services, Health Care/Social Assist.” with 25.1 percent; 
+“Professional, Scientific, Management” with 15.2 percent; and “Retail Trade” with 
+10.2 percent. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 24 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 25 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 21 
+Table 15 
+OCCUPATIONAL CHARACTERISTICS, 2023 
+Borough of Oakland & Bergen County 
+ 
+Borough 
+County 
+Occupation Group 
+Number 
+Percent 
+Number 
+Percent 
+Management, Business, Science & Arts 
+3,771 
+55.2 
+263,942 
+53.3 
+Service Occupations 
+762 
+11.1 
+61,574 
+12.4 
+Sales & Office Occupations 
+1,561 
+22.8 
+101,185 
+20.4 
+Nat. Resources, Construction & Maint. 
+371 
+5.4 
+25,740 
+5.2 
+Production, Transportation & Material 
+371 
+5.4 
+42,480 
+8.6 
+TOTALS 
+6,836 
+100.0 
+494,921 
+100.0 
+ 
+ 
+ 
+Borough 
+County 
+Industry 
+Number 
+Percent 
+Number 
+Percent 
+Agriculture, Forestry, Fishing 
+39 
+0.6 
+636 
+0.1 
+Construction 
+416 
+6.1 
+25,742 
+5.2 
+Manufacturing 
+653 
+9.6 
+38,180 
+7.7 
+Wholesale Trade 
+231 
+3.4 
+18,362 
+3.7 
+Retail Trade 
+542 
+7.9 
+50,517 
+10.2 
+Transportation & Warehousing 
+214 
+3.1 
+25,586 
+5.2 
+Information 
+157 
+2.3 
+14,303 
+2.9 
+Finance, Insurance, Real Estate 
+678 
+9.9 
+50,356 
+10.2 
+Professional, Scientific, Management 
+1,025 
+15.0 
+75,107 
+15.2 
+Edu. Services, Health Care/Social Assist. 
+2,072 
+30.3 
+124,338 
+25.1 
+Arts, Entertain., Recreation, Food Services 
+439 
+6.4 
+33,665 
+6.8 
+Other Services, Except Public Admin. 
+149 
+2.2 
+22,115 
+4.5 
+Public Administration 
+221 
+3.2 
+16,014 
+3.2 
+TOTALS 
+6,836 
+100.0 
+494,921 
+100.0 
+ 
+Source: 2023 American Community Survey 5-Year Estimates (Tables S2401, S2405) 
+ 
+Data from the New Jersey Department of Labor and Workforce Development 
+indicates that there was an average total of 5,060 private sector jobs located in 
+Oakland during 2023. This represents jobs located in Oakland, not the occupational 
+characteristics of Oakland’s residents.  
+ 
+Table 16 provides data on the sector of employment of 5,060 private jobs located 
+within the Borough of Oakland. Of these jobs, 784 or 15.5 percent were classified as 
+“Manufacturing.” An additional 623 jobs or 12.3 percent were classified as “Retail 
+Trade,” 615 jobs or 12.2 percent were classified as “Wholesale Trade,” and an 
+additional 611 or 12.1 percent were classified as “Health/Social.” These four 
+employment sectors account for about 52.1 percent of all jobs located within the 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 25 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 26 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 22 
+Borough of Oakland. All other sectors for which data was provided accounted for less 
+than 7.0 percent of all jobs. 
+While the New Jersey Department of Labor and Workforce Development has 
+provided information on the sector of employment for 90.8 percent of the private jobs 
+located within the Borough of Oakland, it has not disclosed sector of employment for 
+about 9.2 percent of the 5,060 private jobs located within the Borough. Typical 
+reasons why the New Jersey Department of Labor and Workforce Development 
+would not provide the number of jobs in a particular sector include the presence of 
+only one or very few employers in a particular sector, or the presence of a very limited 
+number of jobs in a sector. In such cases, the New Jersey Department of Labor and 
+Workforce Development withholds information so as to not release what could be 
+perceived as confidential information. 
+ 
+ 
+Table 16 
+PRIVATE EMPLOYMENT BY SECTOR, 2023 
+Borough of Oakland  
+ 
+Borough 
+Employee Sector 
+Number 
+Percent 
+Mining 
+Undisclosed Undisclosed 
+Utilities 
+Undisclosed Undisclosed 
+Construction 
+327 
+6.5 
+Manufacturing 
+784 
+15.5 
+Wholesale Trade 
+615 
+12.2 
+Retail Trade 
+623 
+12.3 
+Transportation/Warehousing 
+80 
+1.6 
+Information 
+Undisclosed Undisclosed 
+Finance/Insurance 
+129 
+2.6 
+Real Estate 
+32 
+0.6 
+Professional/Technical 
+248 
+4.9 
+Management 
+Undisclosed Undisclosed 
+Admin/Waste Remediation 
+335 
+6.6 
+Education 
+233 
+4.6 
+Health/Social 
+611 
+12.1 
+Arts/Entertainment 
+Undisclosed Undisclosed 
+Accommodations/Food 
+344 
+6.8 
+Other Services 
+206 
+4.1 
+Unclassified 
+22 
+0.4 
+TOTAL 
+5,060 
+100.0 
+ 
+Source: New Jersey Department of Labor and Workforce Development 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 26 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 27 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 23 
+Residential Construction 
+ 
+Table 17 contains data on dwelling units authorized by building permit and 
+demolished with a demolition permit from 2012 through 2023. This data has been 
+obtained from the New Jersey Department of Community Affairs. 
+ 
+In the reported period, a total of 42 new units were created and 19 units were 
+demolished, resulting in a net increase of 23 units. The average annual net change in 
+the reported period was slightly more than 1.9 units. 
+ 
+ 
+Table 17 
+NEW DWELLING UNITS AUTHORIZED BY BUILDING PERMIT & HOUSING UNITS 
+DEMOLISHED: 2012 - 2023 
+Borough of Oakland  
+ 
+Year 
+New Units 
+Demolitions 
+Net Increase 
+2012 
+4 
+2 
+2 
+2013 
+4 
+0 
+4 
+2014 
+2 
+1 
+1 
+2015 
+4 
+2 
+2 
+2016 
+4 
+2 
+2 
+2017 
+4 
+0 
+4 
+2018 
+1 
+0 
+1 
+2019 
+5 
+8 
+-3 
+2020 
+4 
+0 
+4 
+2021 
+4 
+0 
+4 
+2022 
+1 
+3 
+-2 
+2023 
+5 
+1 
+4 
+TOTALS 
+42 
+19 
+23 
+ 
+Source: “Development Trends Viewer.” State of New Jersey Department of Community Affairs, 
+September 16, 2024. Accessed February 4, 2025. 
+https://www.nj.gov/dca/codes/reporter/Development_Trend_Viewer.xlsb. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 27 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 28 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 24 
+Population and Household Projection 
+ 
+As has been previously mentioned, the Borough of Oakland’s population was 12,748 
+at the time of the 2020 United States Census. 
+ 
+The North Jersey Transportation Planning Authority has released 2050 population 
+and household projections for its constituent municipalities. The 2050 population 
+projection for Oakland is 15,223, which represents an increase of 2,475 residents 
+over the 2020 United States Census population of 12,748 residents. The 2050 
+household projection for Oakland is 5,072, which represents an increase of 716 
+households over the 2020 United States Census count of 4,356 households. 
+ 
+N.J.S.A. 52:27D-310.b require that Housing Elements and Fair Share Plans include a 
+household projection for the next ten years. When the 2050 projections of the North 
+Jersey Transportation Planning Authority are linearly adjusted to represent 2035 
+values, projections of 13,986 residents and 4,714 households result. This is 
+summarized in Table 18. 
+ 
+ 
+Table 18 
+POPULATION AND HOUSEHOLD PROJECTION, 2015 - 2050 
+Borough of Oakland  
+ 
+2020 Census Population 
+2035 Population Projection 
+(Adjusted from 2050) 
+2050 Population Projection 
+ 
+12,748 
+13,986 
+15,223 
+2020 Census Households 
+2035 Household Projection 
+(Adjusted from 2050) 
+2050 Household Projection 
+ 
+4,356 
+4,714 
+5,072 
+ 
+Sources:  
+2020: United States Census;  
+2035: Calculated by T&M based on 2050 values; and, 
+2050: North Jersey Transportation Planning Authority. 
+ 
+The foregoing information has been provided for informational purposes only and 
+in response to N.J.S.A. 52:27D-310.b. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 28 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 29 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 25 
+Employment Projection 
+ 
+The North Jersey Transportation Planning Authority (NJTPA) has released a 2050 
+employment projection for the Borough of Oakland of 5,850, which represents an 
+increase of 393 jobs over the Borough’s 2023 average total of 5,457 public and private 
+sector jobs (includes: 5,060 private sector jobs; 20 federal government jobs; and 377 
+local government jobs).  
+ 
+When the NJTPA’s 2050 employment projection is linearly adjusted to represent 
+2035 values, an adjusted 2035 employment projection of 5,632 jobs results. This is 
+summarized in Table 19. 
+ 
+ 
+Table 19 
+EMPLOYMENT PROJECTION, 2023 - 2050 
+Borough of Oakland  
+ 
+2023 
+2035 
+2050 
+Public and Private 
+Employment 
+Adjusted Employment 
+Projection 
+Employment 
+Projection 
+5,457 
+5,632 
+5,850 
+ 
+Sources:  
+2023: New Jersey Department of Labor and Workforce Development;  
+2035: Calculated by T&M; and, 
+2050: North Jersey Transportation Planning Authority. 
+ 
+Note: 2023 average of 5,457 public and private sector jobs + ((2050 Employment Projection of 5,850 jobs – 
+2023 average of 5,457 public and private sector jobs) ÷ (2050 – 2023)) × 12 years = 5,632 jobs in 2035. 
+ 
+The foregoing information has been provided for informational purposes only and 
+in response to N.J.S.A. 52:27D-310.d. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 29 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 30 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 26 
+Fair Share Plan 
+Affordable Housing Obligation 
+A municipality’s affordable housing obligation is made up of both a present need 
+(rehabilitation obligation) and a prospective need obligation.  Obligations are 
+calculated in time periods known as “rounds.”  
+Previous Round obligations have either been determined by the New Jersey Council 
+on Affordable Housing (COAH), or by Court decisions.  However, pursuant to  FHA 2, 
+for Round 4 and subsequent rounds, the Department of Community Affairs (DCA) was 
+directed to provide a non-binding calculation of regional need and municipal present 
+and prospective need obligations in accordance with the formula contained in the Act. 
+DCA calculated a Round 4 present need obligation of ten units and a prospective need 
+obligation of 306 units for the Borough of Oakland. The Borough analyzed the data 
+that resulted in the obligation and, as permitted under the FHA 2, calculated a 
+prospective need obligation of 252 units.  The Borough adopted a binding resolution 
+stipulating its Round 4 affordable housing obligation on January 27, 2025. 
+The New Jersey Builders Association (NJBA) objected to the Borough’s asserted 
+prospective need obligation. A settlement was reached between the parties for a 
+prospective need obligation of 286 units, as memorialized in a settlement agreement 
+dated April 8, 2025.    
+Oakland’s affordable housing obligations are as follows: 
+• Prior Round (Rounds 1 & 2, from 1987-1999) Obligation: 220 Units 
+• Round 3 (from 1999-2025) Prospective Need Obligation: 462 Units 
+• Round 4 (from 2025-2035) Present Need (Rehabilitation Oblig.):  10 Units 
+• Round 4 (from 2025-2035) Prospective Need Obligation: 286 Units 
+The Borough’s affordable housing obligation and the manner in which it has met and 
+intends to meet it, is described in the following subsections.  
+Prior Round & Round 3 Obligations 
+For the purposes of the Borough’s settlement with the Fair Share Housing Center, 
+and the subsequent Round 3 Housing Element and Fair Share Plan, Oakland’s Prior 
+Round and Round 3 obligations were combined for a total of 682 units (220 Prior 
+Round + 462 Round 3 = 682 units)   
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 30 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 31 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 27 
+Oakland is located in the New Jersey Highlands, with 46% of the Borough situated in 
+the Highlands Preservation Area and 54% of the Borough in the Highlands Planning 
+Area.  The Borough generally lacks sanitary sewer infrastructure.   
+The Borough’s Round 3 Housing Element and Fair Share Plan states the following: 
+“…it should be noted that Oakland does not contain the land resources necessary to 
+fully fulfill the new construction obligation assigned to the Borough. Understanding 
+this limitation, and consistent with Council on Affordable Housing’s rules, Oakland is 
+entitled to receive a vacant land adjustment.”   
+The plan continues, ‘In addition to lacking the land resources necessary to fully 
+implement its new construction obligation, Oakland generally lacks the sanitary 
+sewer infrastructure necessary to construct higher density housing.  As a result of this 
+lack of infrastructure, Oakland is entitled to a durational adjustment to its new 
+construction obligation pursuant to COAH rules through the end of the Third Round 
+housing cycle. … It is anticipated the need for Oakland to receive a durational 
+adjustment will outlive the Third Round housing cycle and continue into the Fourth 
+Round cycle.” 
+Oakland’s Round 3 plan correctly stated that the durational adjustment outlived the 
+Third Round. As will be described herein, a durational adjustment continues to be 
+necessary for the Borough in Round 4.  
+Oakland also received a Vacant Land Adjustment in Round 3.  The VLA resulted in the 
+calculation of a 148 unit Realistic Development Potential (RDP). The difference, 534 
+units, comprises the unmet need.  
+Oakland’s settlement with Fair Share Housing Center and its adopted Round 3 
+Housing Element and Fair Share Plan include the following affordable housing 
+mechanisms, as shown in Table 20, to address the Round 3 RDP. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 31 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 32 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 28 
+ 
+ 
+Table 20 
+Round 3 Affordable Housing Mechanisms 
+Borough of Oakland, Bergen County 
+Project 
+Block 
+Lot 
+Status 
+Affordable 
+Units 
+Bonus 
+Credits 
+Total 
+RDP Mechanisms 
+Municipal 
+Sponsored 
+Construction, 
+1901 
+14 
+Property 
+Acquired  
+10 
+0 
+10 
+Bi-County 
+3001 
+1, 4, 15, 
+18 
+Intervenor 
+Settlement & 
+Memorandum 
+of Agreement 
+27 
+0 
+27 
+Fanale/K. 
+Hovnanian 
+4202 
+1-3 
+Under 
+Construction  
+40 
+0 
+40 
+W. Oakland 
+Ave. 1 
+1706 
+4.01 
+Ordinance 
+Adopted 
+6 
+0 
+6 
+W. Oakland 
+Ave. 2 
+1707 
+2 
+Ordinance 
+Adopted 
+4 
+0 
+4 
+Terhune Site 
+1802 
+1 
+Ordinance 
+Adopted 
+17 
+0 
+17 
+Raritan Ave. 
+Site 
+4004 
+8, 9 
+Ordinance 
+Adopted 
+20 
+0 
+20 
+Various 
+Bonus Credits Various 
+Various 
+Bonus Credit 
+0 
+25 
+25 
+TOTALS 
+124 
+25 
+149 
+ 
+Unmet Need Mechanisms 
+DT-1 Zone 
+Various 
+Various 
+Ordinance 
+Adopted 
+N/A 
+N/A 
+N/A 
+DT-2 Zone 
+Various 
+Various 
+Ordinance 
+Adopted 
+N/A 
+N/A 
+N/A 
+Mandatory 
+Set-Aside 
+Various 
+Various 
+Ordinance 
+Adopted 
+N/A 
+N/A 
+N/A 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 32 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 33 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 29 
+It is important to note that, for those properties where ordinances have been adopted 
+as referenced above, the lack of sewers in the Borough has impeded development.  
+ 
+Round 4 Present Need 
+The present need is a measure of overcrowded and deficient housing that is occupied 
+by low- and moderate-income households. The present need has previously been 
+called “rehabilitation share.”  Oakland’s Round 4 present need obligation is ten 
+units.  
+The Borough has established a rehabilitation program that is administered by 
+Community Grants, Planning & Housing (CGP&H).  The program is funded via the 
+Borough’s Affordable Housing Trust Fund.  In addition, all income-qualified Borough 
+residents are eligible to participate in Bergen County’s Home Improvement 
+Program.  The Borough’s rehabilitation manual is included in Appendix A.  
+ 
+Four properties have been rehabilitated via Oakland’s Rehabilitation Program since 
+2022.  A summary of the work completed, project funding and date of final 
+inspection follows: 
+ 
+Table 21 
+Properties Rehabilitated 
+Borough of Oakland, Bergen County 
+ 
+ 
+ 
+ 
+Case Number 
+Inspection Date 
+Funding 
+Work Completed 
+ 
+ 
+ 
+ 
+OAK-2204 
+10/9/2023 
+$19,800 
+Weatherization, Roofing, 
+Structural System 
+OAK-2205 
+1/3/2024 
+$37,100 
+Roofing, Structural  
+System, Central Cooling 
+OAL-2308 
+3/5/2024 
+$27,700 
+Weatherization, Roofing, 
+Electrical System 
+OAK-2410 
+9/30/2024 
+$28,500 
+Roofing, Electrical System 
+ 
+ 
+Round 4 Prospective Need 
+Oakland’s Round 4 prospective need obligation is 286 units.  
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 33 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 34 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 30 
+The Borough is continuing its durational adjustment that was granted in Round 3. 
+Oakland continues to lack the sanitary sewer infrastructure necessary to construct 
+higher density housing, with the exception of three (3) small isolated individual 
+service areas, which cannot accept additional waste flow.  As indicted in the 
+Borough’s Round 3 Housing Element and Fair Share Plan, the durational adjustment 
+was expected to extend into future rounds.  
+The NJ Department of Environmental Protection (NJDEP) has approved a Water 
+Quality Management Plan Amendment (WQMPA) for Oakland. The WQMPA notes the 
+reliance upon further agreements between Borough and the receiving sanitary 
+treatment plant, Northwest Bergen County Utilities Authority (NBCUA), to fund the 
+necessary infrastructure. Those agreements are currently under discussion between 
+the respective entities. 1  Consequently, there is no planned, anticipated or even 
+estimated date for the installation of sewer infrastructure in the Borough.  
+Furthermore, it is expected that, were there a date for sewers to be installed in the 
+Borough, Oakland would be aware and advised accordingly no less than a year in 
+advance, and potentially even farther in advance. 
+Therefore, the Borough continues to request a durational adjustment due to lack of 
+sewer infrastructure. Furthermore, should this status change, or potentially change, 
+the Borough recognizes that it would revise its Housing Element and Fair Share Plan 
+accordingly, to continue to provide for the realistic opportunity for the provision of 
+affordable housing.  The durational adjustment creates the opportunity for affordable 
+housing at the time the necessary infrastructure becomes available.  
+Durational Adjustment 
+As indicated, the Borough requests to continue its durational adjustment pursuant to 
+N.J.A.C 5:93-4.3.  A durational adjustment is a deferral of the Borough’s affordable 
+housing obligation based on lack of infrastructure, which constrains Oakland’s ability 
+to create a realistic opportunity for the production of affordable housing.   
+The Borough’s 2022 Housing Element states the following: 
+“Generally speaking, construction of attached housing requires connection to a 
+wastewater treatment facility. The current status of sanitary sewer service in Oakland 
+is limited to just a few discrete isolated areas of town being served by small treatment 
+plants generally beyond their useful service life with no capacity to expand their 
+service areas. Understanding that bringing sanitary sewer infrastructure to 
+significant portions of the Borough is a time-consuming process, Oakland has sought 
+and received a durational adjustment from the Court. This durational adjustment 
+means that although Oakland has an affordable housing obligation, the discharge of 
+this obligation must await the delivery of sanitary sewer service to the community. 
+ 
+1 Per Borough Engineer, June 2025.  
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 34 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 35 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 31 
+Therefore, Oakland's entire new construction obligation is deferred until sanitary 
+sewer service is available. “ 
+The Borough’s settlement agreement references that sewer service is anticipated 
+during the Round 3 time period, which ends in July 2025.  While the settlement 
+agreement was predicated on sewer service being available during Round 3, that has 
+not come to fruition. In fact, as previously stated, there is no planned timeframe for 
+the provision of sewer services during Round 4 (2025-2035).   
+The settlement agreement included the following table with information as to the 
+sewer capacity for the Round 3 sites, with updates from the Borough Engineer: 
+Table 22 
+Potential Future Sewer Capacity per Settlement Agreement 
+Borough of Oakland, Bergen County 
+Use of Sewer Capacity 
+Allocated Capacity 
+Upgrading Three treatment plants for connection to NBCUA 
+(completed 2024) 
+65,000 gpd 
+Connection for properties with failing septic systems nearby 
+to downtown 
+Up to 393,124 gpd 
+Bi-County (200 units at 300 gallons per unit) 
+60,000 gpd 
+Lennar, formerly Fanale/K. Hovnanian (200 units at 300 
+gallons per unit). Under construction 
+56,250  gpd 
+Senior Housing site: Block 1901, Lot 14 (10 units at 225 
+gallons per unit) 
+2,250 gpd 
+West Oakland Ave 1: Block 1706, Lot 4.01 (40 units at 225 
+gallons per unit) 
+9,000 gpd 
+West Oakland Ave 2: Block 1707, Lot 2 (20 units at 225 
+gallons per unit) 
+4,500 gpd 
+Terhune St. site: Block 1802, Lot 1 (95 units at 300 gallons 
+per unit) 
+28,500 gpd 
+Raritan Ave site: Block 4004, Lots 8 & 9 (140 units at 225 
+gallons per units) 
+31,500 gpd 
+CBD I & CBD II zones (now DT-1 and DT-2 zones)  
+116,250 gpd 
+Sub-total of allocated sewer service gallonage 
+766,374 gpd 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 35 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 36 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 32 
+It is noted that the Lennar/Fanale development was actually approved for a total of 
+192  residential units although the above table indicates 200 units.  
+Therefore, the Borough continues its request for a durational adjustment through 
+Round 4.  Should information be provided as to a schedule for sewer installation, the 
+Borough will consider revision of its Housing Element and Fair Share Plan.  
+Finally, the Borough is respectfully requesting  a waiver from N.J.A.C 5:93-4.3(c)(2), 
+requiring that the municipality endorse all applications to the NJDEP or its agent to 
+provide water and/or sewer capacity. The Borough’s settlement agreement with the 
+FSHC appears to waive this requirement for Round 3.  In support of this waiver 
+request, and to further demonstrate Oakland’s commitment to the provision of 
+affordable housing, the Borough proposes the following: 
+Revision of the Existing DT-1 Affordable Housing Overlay.  The DT-1 Affordable 
+Housing Overlay was approved as a Round 3 unmet need mechanism.  The overlay 
+permits mixed-used development, with a nonresidential use on the ground floor and 
+inclusionary residential development on the second and third floors.  
+Presently, the overlay zone permits a residential density of 18 units per acre, with a 
+permitted height of three stories and 44 ft.  The Borough proposes to increase the 
+permitted density to 22 units an acre, resulting in a four (4) unit per acre density 
+increase.  
+Per the Borough’s Round 3 settlement agreement, the DT-1 zone contains 37 acres. 
+Therefore, the four (4) unit per acre density increase results in the possibility of 
+another 148 potential units, of which 30 would be affordable units (assumes a 20% 
+set-aside).  
+A draft ordinance, and the Borough’s Zoning Map, which includes the DT-1 zone, are 
+located in the Appendix.  
+Availability of Existing and Planned Infrastructure 
+As has been explained throughout this plan, the Borough is entitled to a durational 
+adjustment due to a lack of sewer infrastructure. 
+Consideration of Lands Appropriate for Affordable Housing  
+Oakland anticipates that future development and growth will be tied to infrastructure 
+improvements and the provision of sewer services in the Borough.  This plan, and 
+earlier plans, recommend growth along Ramapo Valley Road, which is the Borough’s 
+commercial core; a proposed revision to the  DT-1 AHO zone is included in this area.  
+Access to Rt. 287 is readily available from these locations.  
+Two property owners came forward to  express a commitment to provide affordable 
+housing in Round 4, as follows. 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 36 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 37 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 33 
+Block 4004, Lots 4 & 5.  The attorney representing this 10.7 acre property, which 
+functions as a farm, contacted the Borough and provided a concept plan consisting of 
+80 residential units (64 townhouses and 16 apartments).  The subject property is not 
+included within the approved sewer service area, and therefore, would not have 
+sewer infrastructure, resulting in the property not being developable pursuant to 
+affordable housing regulations.  In addition, the proposed concept plan does not 
+integrate the affordable units with the market units, which is in conflict with 
+affordable housing regulations and practices. Therefore, the site is not suitable for the 
+proposed use.  
+Block 3301, Lot 2 & Block 3401, Lots 11, 12, 19, 40, 41, 43, 57 and 58. These lots 
+appear to comprise the “McBride” property.  To date,  a formal submission to the 
+Borough has not been made on behalf of this site. A presentation was made to 
+Borough officials, but it was for a conceptual development.  This property also is 
+outside of the sewer area, resulting in the site not being developable. Review  of a 
+concept plan, which has not been provided, would be needed for further comment. 
+The above properties are both outside of  the sewer service area with no feasible 
+means of connecting provided. Therefore, they are not realistic opportunities for the 
+provision of affordable housing, and have not been included in the current plan.  The 
+Borough will consider revising its Housing Element and Fair Share Plan at such time 
+that either property presents a realistic plan that includes the necessary 
+infrastructure.  
+Consistency with the State Development and Redevelopment Plan 
+The 2001 New Jersey State Development and Redevelopment Plan (SDRP) contains a 
+series of smart growth goals and policies, and mapping that reflects desired growth 
+patterns within a series of state planning areas. 
+As provided in the SDRP,  the majority of the area of Oakland that is located in the 
+Highlands Planning Area is also situated within the SDRP Planning Area 1, which is 
+also known as the Metropolitan Planning Area.  The Borough’s DT-1 AHO zone is 
+located in Planning Area 1.  Within the Metropolitan Planning Area, the SDRP’s 
+intention is to: 
+• Provide for much of the State’s future redevelopment; 
+• Revitalize cities and towns; 
+• Promote growth in compact forms; 
+• Stabilize older suburbs; 
+• Redesign areas of sprawl; and 
+• Protect the character of existing stable communities. 
+Additionally, it is noted that the 2001 SDRP outlines several policy objectives for the 
+Metropolitan Planning Area, including: 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 37 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 38 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 34 
+• Land Use: Promote redevelopment and development in cores and 
+neighborhoods of centers and in nodes that have been identified through 
+cooperative regional planning efforts. Promote diversification of land uses, 
+including housing where appropriate, in single-use developments and 
+enhance their linkages to the rest of the community. Ensure efficient and 
+beneficial utilization of scarce land resources throughout the Planning Area to 
+strengthen its existing diversified and compact nature. 
+• Housing: Provide a full range of housing choices through redevelopment, new 
+construction, rehabilitation, adaptive reuse of nonresidential buildings, and 
+the introduction of new housing into appropriate nonresidential settings. 
+Preserve the existing housing stock through maintenance, rehabilitation and 
+flexible regulation. 
+Execution of this Housing Element and Fair Share Plan and, therewith, promotion of 
+affordable housing development in the Metropolitan Planning Area would be 
+consistent with the intent and aforementioned policy objectives of said planning area.  
+SDRP Update 
+It is noted that as of the preparation of this Housing Element and Fair Share Plan, the 
+State of New Jersey was in the process of updating the SDRP. While a draft of an 
+updated SDRP was released for public review and comment in December 2024, its 
+finalization and adoption are not anticipated to occur before late 2025 or early 2026. 
+Thus, the 2001 SDRP remained in effect as of the preparation and adoption of this 
+Housing Element and Fair Share Plan. 
+ 
+Notwithstanding the above, it is noted that the draft SDRP incorporates the same 
+planning areas as the 2001 SDRP and associated mapping indicates that the Borough 
+would remain in the Metropolitan Planning Area.  
+In addition to the above, it is noted that the draft SDRP includes several “State 
+Planning Goals.” One of these goals relates to housing and includes the following core 
+objectives: 
+• Increase the Construction of Diverse Housing Types and the Amount of 
+Affordable Housing: Promote varied housing options for all income levels, 
+including rentals, starter homes, senior housing, and market-rate units in 
+transit-rich and mixed-income communities. 
+• Focus on Retaining Residents and Increasing Sustainability: Support 
+inclusionary zoning, green building standards, and Transit-Oriented 
+Development, while reinforcing fair housing practices and preventing the 
+displacement of residents. 
+• Address Housing Needs of Diverse Demographics: Facilitate multi-
+generational households, senior housing, and adaptable options to ensure all 
+residents can age in place and access affordable housing. 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 38 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 39 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 35 
+• Promote Regional Housing Balance: Encourage diverse housing development 
+in areas with strong job markets, educational opportunities, and other 
+amenities which support socio-economic mobility and integrate communities. 
+Based on its continuation of the same planning areas as outlined in the 2001 SDRP 
+and its promotion of affordable housing, it is concluded that this Housing Element and 
+Fair Share Plan is generally consistent the draft SDRP. 
+Compliance with the Highlands  
+For municipalities located within the jurisdiction of the Highlands Water Protection 
+and Planning Council, N.J.S.A. 52:27D-310.h requires an analysis of compliance of the 
+Housing Element and Fair Share Plan with the Highlands Regional Master Plan for 1) 
+lands in the Highlands Preservation Area; and 2) lands in the Highlands Planning Area 
+when the municipality is a Highlands-conforming municipality. 
+The Borough of Oakland is in both the Highlands Preservation Area and the Highlands 
+Planning Area. However, the Borough is not a Highlands-conforming municipality 
+with regard to the Highlands Planning Area. Thus, it is not required to address 
+compliance of the Housing Element and Fair Share Plan with the Highlands Regional 
+Master Plan for lands located within the Highlands Planning Area. 
+With regard to lands located within the Highlands Preservation Area, it is noted that 
+all but one of the areas associated with fair share compliance mechanisms are located 
+in the Highlands Planning Area. The one area associated with a fair share compliance 
+mechanism that is located in the Highlands Preservation Area is: Block 3001, Lots 1, 
+4, 15 and 18. These properties are collectively referred to in this Housing Element 
+and Fair Share Plan as the “Bi-County” site. Said site is subject to a Court-approved 
+Settlement Agreement that was executed in 1991, prior to the adoption of the 
+Highlands Act in 2004. N.J.S.A. 13:20-23 stipulates that nothing in the Highlands Act 
+shall affect protections provided through a grant of substantive certification or a 
+judgment of repose granted prior to the date of its enactment. While a Court-
+approved Settlement Agreement is not technically a substantive certification or 
+judgement of repose, there is a strong foundation for the application of N.J.S.A. 13:20-
+23 in the case of the Bi-County site. 
+Notwithstanding the above, it is noted that this Housing Element and Fair Share Plan 
+requests a durational adjustment through Round 4. A durational adjustment is a 
+deferral of the Borough’s affordable housing obligation based on lack of sewer 
+infrastructure, which constrains Oakland’s ability to create a realistic opportunity to 
+produce affordable housing. Based on the above, it is unlikely that the Bi-County site 
+would be developed during Round 4 unless sewer infrastructure becomes available.  
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 39 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 40 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 36 
+  
+Minimums & Maximums 
+The FHA2 stipulates certain requirements within C.52:27D-311.k(10)1. Oakland is 
+claiming a durational adjustment, which is a deferral of its affordable housing 
+obligation, for Round 4.  Oakland’s plan includes a revision to the DT-1 Overlay to 
+increase the permitted density.   It is noted that such a density increase meets the 
+following as described.  
+• A maximum of 30% of the affordable housing units, exclusive of any bonus 
+credits, to address its prospective need affordable housing obligation, may be 
+addressed with age restricted housing. The Borough’s plan conforms. No 
+Round 4 units are age-restricted housing.  
+• A minimum of 50% of the actual affordable housing units, exclusive of bonus 
+credits, created to address its prospective need obligation must be satisfied 
+with the creation of housing available to families with children.  All units 
+proposed for the Round 4 overlay zone are available to families with children.  
+• A minimum of 25% of the actual affordable housing units, exclusive of bonus 
+credits, created to address its prospective need obligation, must be satisfied 
+with the creation of rental housing. It is expected that all potential units 
+created through the revisions to the DT-2 overlay zone would be rental units.    
+  
+Multigenerational Housing Continuity 
+In 2021, the New Jersey Senate and General Assembly of the State of New Jersey 
+enacted C.52:27D-329.20, which established the Multigenerational Family Housing 
+Continuity Commission. 
+The commission’s responsibilities include preparing and adopting recommendations 
+on how to best advance the goal of “enabling senior citizens to reside at the homes of 
+their extended families, thereby preserving and enhancing multigenerational family 
+continuity, through the modification of State and local laws and policies in the areas 
+of housing, land use planning, parking and streetscape planning, and other relevant 
+areas.”  The commission members and associated staff shall conduct research, 
+obtaining public input, and adopt recommendations on how to most effectively 
+advance the goal of enhancing multigenerational family housing continuity. 
+The Borough of Oakland’s Round 4 Housing Element and Fair Share Plan includes a 
+durational adjustment. Notwithstanding the lack of available infrastructure, the plan 
+encourages inclusionary development in the Borough’s downtown area, along 
+Ramapo Valley Road. An age-restricted development was also included in Oakland’s 
+Round 3 plan.  Finally, the Borough’s rehabilitation program, while open to all income 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 40 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 41 =====
+Housing Element and Fair Share Plan 
+Borough of Oakland — Adopted June 23, 2025 
+ 
+ 
+ 
+Page 37 
+qualified households, assists senior citizens “aging in place” by providing financial 
+support to maintain and upgrade their homes.  
+Oakland’s Senior Center is located on Lawlor Drive.  The Borough offers 
+comprehensive and robust programming for its seniors, including social, educational 
+and health related events.  Referrals to social service agencies,  neighbor assistance 
+programs and transportation assistance is also provided.  Therefore, the Borough’s 
+ordinances advance the goals of preserving multifamily generational continuity.  
+Conclusion 
+Oakland lacks available infrastructure to provide for its affordable housing obligation, 
+and, therefore, is eligible to continue its durational adjustment.  The Borough is 
+proposing to increase density in an overlay zone in an effort to formalize its 
+commitment to providing its fair share of affordable housing. The majority of the 
+Borough’s affordable housing mechanisms are located within the Highlands Planning 
+Area and the SDRP Planning Area 1. 
+All affordable units will conform to necessary rules, legislation and regulations, 
+including but not limited to bedroom distribution and income distribution.  At least 
+13% of all affordable housing units will be available to very low income households. 
+This plan addresses Oakland’ affordable housing obligation within the confines of 
+sound planning, and while respecting its environmental and infrastructure 
+constraints and development characteristics. 
+Appendices  
+This report contains the following appendices. 
+Appendix A:  Rehabilitation Manual 
+Appendix B: Affordable Housing Ordinance & Affirmative Marketing Plan. The 
+Borough’s existing ordinance, affirmative marketing plan and mandatory set-aside 
+ordinance are included. Modifications will be made as needed to comply with any 
+future Round 4 requirements.  
+Appendix C: Development Fee Ordinance. The Borough’s existing ordinance is 
+included. Modifications will be made as needed to comply with any future Round 4 
+requirements. 
+Appendix D: Resolutions Appointing the Municipal Housing Liaison and 
+Administrative Agent. 
+Appendix E: Draft Ordinance– DT-1 Zone Revision and zoning map. 
+Appendix F: Spending Plan 
+ 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 41 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 42 =====
+Appendix A: Rehabilitation Manual 
+Housing Element and Fair Share Plan
+Borough of Oakland — Adopted: June 23, 2025 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 42 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 43 =====
+Home Improvement Program 
+Policies and Procedures Manual 
+ 
+ 
+ 
+Created May 27, 2022 
+NJHMFA promulgated emergency rules to UHAC in December 2024 and will be finalizing 
+rule in 2025.   Manual will be updated when final rules are published in fall of 2025.    
+Borough of Oakland 
+New Jersey 
+Prepared by: 
+1249 South River Road, Suite 301 
+Cranbury, NJ 08512-3633 
+609/664-2769   www.cgph.net 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 43 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 44 =====
+ 
+1
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+Home Improvement Program 
+I.  INTRODUCTION .............................................................................................................. 35 
+A. Fair Housing and Equal Housing Opportunities ...................................................................... 35 
+II. ELIGIBLE PARTICIPANTS ................................................................................................ 46 
+A.
+Program Area ....................................................................................................................... 46 
+B.
+Categories of Participants .................................................................................................... 46 
+C.
+Income Limits ........................................................................................................................ 57 
+D.
+Application Selection ............................................................................................................. 57 
+III. ELIGIBLE ACTIVITIES ....................................................................................................... 79 
+A.
+Eligible Improvements .......................................................................................................... 79 
+B.
+Ineligible Improvements ..................................................................................................... 810 
+C.
+Rehabilitation Standards .................................................................................................... 810 
+D.
+Certifications of Substandard/Standard ............................................................................. 810 
+IV. FUNDING TERMS FOR OWNER OCCUPIED AND INVESTOR OWNED UNITS ..........810 
+A.
+Terms and Conditions for Owner Occupied Units ............................................................... 911 
+B.
+Terms and Conditions on Owner-Occupied Multi-Family Rental Units ............................ 1012 
+C.
+Terms and Conditions on Investor-Owned Multi-Family Rental Units ............................... 1113 
+D.
+Special Needs Waivers for Higher Cost Rehabilitation Projects ........................................ 1214 
+E.
+Use of Recaptured Program Funds ................................................................................... 1315 
+V. IMPLEMENTATION PROCESS ..................................................................................... 1315 
+A.
+Application/Interview ........................................................................................................ 1315 
+B.
+Eligibility Certification ........................................................................................................ 1416 
+C.
+What is Considered Income .............................................................................................. 1416 
+D.
+What is Not Considered Income ....................................................................................... 1517 
+E.
+How to Verify Income ........................................................................................................ 1517 
+F.
+Additional Income Verification Procedures ....................................................................... 1618 
+G.
+Other Eligibility Requirements ........................................................................................... 1719 
+H.
+Requirements of Property Taxes and Municipal Utilities Paid Current ............................. 1719 
+I.
+Sufficient Equity and Carrying Cost ................................................................................... 1719 
+J.
+House Conditions: ............................................................................................................ 1820 
+K.
+Eligibility Scenarios of Multi-Family Structures ................................................................ 1820 
+L.
+Eligibility Certification ........................................................................................................ 1921 
+M.
+Housing Inspection/Substandard Certification/Work Write Up/Cost Estimate ................ 1921 
+N.
+Contractor Selection ......................................................................................................... 2022 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 44 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 45 =====
+                                                                                                                                 
+2
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+O.
+Pre-Construction Conference/Contract Signing ................................................................ 2123 
+P.
+Borough Purchase Order and Contractor Payment Voucher ............................................ 2123 
+Q.
+Progress Inspections ......................................................................................................... 2224 
+R.
+Change Orders.................................................................................................................. 2224 
+S.
+Final Inspection ................................................................................................................. 2224 
+T.
+Payment Structure and Process ........................................................................................ 2426 
+U.
+Standard Certification ....................................................................................................... 2527 
+V.
+Record Mortgage Documentation ................................................................................... 2527 
+W.
+File Closing ....................................................................................................................... 2527 
+X.
+Requests for Subordination or Program Loan Payoff ...................................................... 2527 
+VI. CONTRACTOR REQUIREMENTS AND RECRUITMENT ............................................ 2628 
+A.
+Marketing ......................................................................................................................... 2628 
+B.
+Contractor Qualifications .................................................................................................. 2628 
+VII. Lead Based Paint (LBP): ........................................................................................... 2729 
+VIII. Rental Procedures: .................................................................................................. 2729 
+A.
+Determining Initial Affordable Rents ................................................................................ 2830 
+B.
+Pricing by Household Size ................................................................................................ 2830 
+C.
+Determining Rent Increases .............................................................................................. 2931 
+IX. MARKETING STRATEGY ............................................................................................. 2931 
+X. MAINTENANCE OF RECORDS AND CLIENT FILES.................................................... 3032 
+A.
+Programmatic Recording .................................................................................................. 3032 
+B.
+Participant Record Keeping .............................................................................................. 3032 
+C.
+State Reporting ................................................................................................................. 3234 
+D.
+Financial Recordkeeping .................................................................................................. 3234 
+XI. HOUSING ADVISORY COMMITTEE AND APPEALS PROCESS ........................................ 3234 
+XII. CONCLUSION ............................................................................................................3335 
+APPENDIX A - LIST OF PROGRAM FORMS ........................................................................ 3436 
+APPENDIX B – Approved Calculation of Annual Increases to Income Limits, Resale Prices and 
+Rents ................................................................................................................................. 3537 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 45 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 46 =====
+ 
+3
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+Home Improvement Program 
+Polices & Procedures Manual 
+I. INTRODUCTION
+The purpose of this document is to establish policies, guidelines and procedures which will 
+govern the Home Improvement Program (HIP). The HIP was created by the Borough to assist 
+properties occupied by very low, low and moderate-income households to correct all existing 
+interior and exterior health, safety and code violations in conformity with the standards of the 
+New Jersey State Housing Code, N.J.A.C. 5:28 and the Rehabilitation Subcode, N.J.A.C. 5:23-6. 
+Additionally, the HIP was designed to fulfill Oakland’s rehabilitation obligation, as described in 
+the Borough’s Settlement Agreement with Fair Share Housing Center (FSHC) dated August 11, 
+2020.  The HIP is guided by N.J.A.C. 5:93-5.2 and is subject to all laws, regulations, ordinances, 
+and codes of the New Jersey Department of Community Affairs (DCA) and the Borough of 
+Oakland 1.  The Borough of Oakland contracted with Community Grants, Planning & Housing LLC 
+(CGP&H), a private consulting firm specializing in the implementation of publicly-funded housing 
+rehabilitation programs, to manage and administer the HIP.   The Program’s funding source will 
+be municipal affordable housing trust funds. If the funding source changes, the manual will be 
+updated to reflect the change as well as changes to regulation requirements, if any.   
+A. Fair Housing and Equal Housing Opportunities
+It is unlawful to discriminate against any person making application to participate in
+the housing rehabilitation/home improvement programs or rent a unit with regard
+to race, creed, color, national origin, ancestry, age, marital status, affectional or sexual
+orientation, familial status, disability, nationality, sex, gender identity or expression or source of
+lawful income used for mortgage or rental payments.
+For more information on discrimination or if anyone feels they are a victim of discrimination, 
+please contact the New Jersey Division on Civil Rights at 1-866-405-3050 or 
+http://www.state.nj.us/lps/dcr/index.html. Fair Housing and Equal Housing Opportunities apply 
+to both owner and tenant applications. 
+1 The HIP is guided by N.J.A.C. 5:93 except for the length of affordability controls for both owner- and renter-occupied (10 
+years, not six (6) years) and except for the required minimum average hard cost expenditure ($10,000, not $8,000). 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 46 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 47 =====
+                                                                                                                                 
+4
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+II. ELIGIBLE PARTICIPANTS
+A. Program Area
+The HIP is a Borough wide program currently aimed at scattered site housing rehabilitation of
+housing occupied by very low, low and moderate-income households throughout the Borough
+of Oakland.
+B. Categories of Participants
+Both owner-occupied and renter-occupied housing units are eligible to receive funding for
+rehabilitation provided that the occupants of the units are determined to be income eligible, the
+units are determined to be substandard and for primary residency only. Owners of rental
+properties do not have to be income eligible households.  If a structure contains two or more
+units and an owner, who is not income eligible, occupies one unit, funding may be provided for
+the rehabilitation of the rest of the units if income-eligible households occupy those units.  Rents
+must be affordable to low- or moderate-income households.
+For housing units which received past affordable housing state credit, the following rules for 
+repeat assistance shall apply.  
+
+An owner of a previously rehabbed unit may apply for current rehab assistance if the
+unit was rehabbed prior to 2010 and the affordability period has expired.
+
+An owner of an existing affordable deed restricted ownership unit with an active deed
+restriction that is currently meeting a Round 1 or Round 2 credit may apply for current
+rehab assistance for the municipality to obtain a Round 3 present need credit, unless the
+affordable housing deed restriction received a new affordable housing credit during
+Round 3 due to extended controls.
+
+Housing units which the municipality received an affordable housing credit in Round 3 in
+any category are not eligible for additional assistance from the Borough’s housing
+rehabilitation program during Round 3.
+Basically, a municipality cannot double dip credits on a unit within the same affordable housing 
+Round. 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 47 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 48 =====
+ 
+5
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+C. Income Limits
+Household income is defined as the combined annual income of all family members over 18 years
+of age including wages, Social Security, disability insurance, unemployment insurance, pensions,
+dividend/interest income, alimony, etc. Each unit's total household income must fall within or
+below the State’s moderate-income limits based on family size.
+Since the 2015 NJ Supreme decision declaring COAH nonfunctioning, it is now left to the local 
+court vicinages to approve income, sales and rental increases using similar methodologies that 
+were employed by COAH.   
+The income limits and applicable methodology are in Appendix B, and the plan for properly 
+amending median incomes and rental increases every year going forward until or unless COAH 
+or another state entity becomes functional again is also included in Appendix B at the end of this 
+manual.  The Program Administrator will ensure that the annual chart in Appendix B is updated 
+whenever updates become available. 
+If at any time, COAH (or a successor administrative agency duly empowered by an amendment 
+to the Fair Housing Act) begins to issue updated annual income limits and rules for increasing 
+sales prices and rent levels each year, said updated income limits and rules for increasing sales 
+prices and rent levels each year may be used instead of the methodology set forth herein.   
+D. Application Selection
+At program start-up, and if and when the homeowner intake demand exceeds the number of
+openings, applications will be prioritized based on the reported income of the household as a
+percentage of the maximum allowable income for households of that size.  This will give priority
+to the lowest income applicants and assist the municipality in reaching its goal of providing
+assistance to a minimum of 50% of the properties comprising of low income households.
+Otherwise, the Program will process new applicants added to the waiting list/applicant pool on
+a first-come, first served basis, to qualified applicants. If and when there is a waiting list, priority
+will be given to homeowners with less than $200,000 in liquid assets. Assets in federally
+recognized retirement accounts do not apply to the liquid asset limit. The HIP will establish the
+waiting list from the program marketing efforts identified in Section IX of this manual.
+Emergency Processing Order 
+Properties with safety and/or health hazards, confirmed/certified as an emergency by the 
+municipal Construction Official or Health Department, can by-pass the first-come, first served 
+process however they must meet all the other program requirements including income eligibility 
+and bringing the unit up to code.   
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 48 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 49 =====
+                                                                                                                                 
+6
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+The Program Administrator shall determine that an emergency situation exists based on the 
+following: 
+A. The repair problem is an immediate and serious threat to the health and safety
+of the building’s residents
+B. The problem has been inspected and the threat verified by the appropriate local
+building inspector and/or health official
+Depending on the type and extent of the emergency and with the homeowner’s permission, the 
+Program may by-pass the standard bid process outlined in Section V sub-section N to expedite 
+the bid/contractor selection process. Instead the Program may have a proven qualified contractor 
+familiar with the Program present at the initial property inspection with the homeowner to count 
+as the contractor’s site visit.  This will allow for a quick turn-around on emergency scope of work 
+to be contracted on a single quote basis. To be awarded the emergency work, the contractor ‘s 
+quote must be determined to be a reasonable cost based on the Program Inspector’s cost 
+estimate and the contractor must commit to a tight timeline to resolve the emergency situation. 
+This emergency process may apply to heavily leaking roofs, inoperable heating systems during 
+the winter months, immediately hazardous electrical systems and/or blocked sewer lines 
+unresolvable to unclog via a simple service call for under $1,000.  
+Please note that the loan agreement will state that if the homeowner takes the emergency funds 
+to abate the safety/health hazards and then subsequently decides to voluntarily remove 
+themselves from participation in the Borough’s Home Improvement Program to complete the 
+non-emergency substandard code violation components of their project, essentially negating any 
+opportunity for the municipality to gain credit for a fully rehabilitated home for this unit, those 
+public funds used for the emergency shall be immediately due and payable back to the Borough. 
+To address this potential, any homeowner receiving emergency funds will also be required to 
+execute a statement indicating that the Borough will place a lien on the property assisted for the 
+Borough to recapture the emergency funds, to be repaid with interest, based on the monthly 
+average mortgage loan commitment rates at the time of closing in the event of noncompliance.  
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 49 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 50 =====
+ 
+7
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+III. ELIGIBLE ACTIVITIES
+A. Eligible Improvements
+The purpose of the program is to bring substandard housing up to code. In order to qualify for
+participation in the program, the condition of each home must be certifiable as being
+"substandard" as defined in N.J.A.C. 5:93-1.3.
+In other words, at least one of the following major systems must be in need of replacement or 
+substantial repair:  
+
+Roof
+
+Plumbing (including wells)
+
+Heating
+
+Electrical
+
+Sanitary plumbing (including septic systems)
+
+Load bearing structural systems
+
+Weatherization (building insulation for attic, exterior walls and crawl space, siding
+to improve energy efficiency, replacement storm windows and storm doors and
+replacement windows and doors)
+The related work may include, but not be limited to the following: 
+
+Lead paint remediation
+
+Interior trim work
+
+Interior and/or exterior doors
+
+Interior and/or exterior hardware
+
+Interior stair repair
+
+Exterior step repair or replacement
+
+Porch repair
+
+Wall surface repair
+
+Painting
+
+Exterior rain carrying system repair
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 50 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 51 =====
+                                                                                                                                 
+8
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+B. Ineligible Improvements
+Work not eligible for program funding includes but is not limited to luxury improvements
+(improvements which are upgrades/higher than mid-grade and/or strictly cosmetic), carpets,
+additions, conversions (basement, garage, porch, attic, etc.), repairs to structures separate from
+the living units (detached garage, shed, barn, etc.), furnishings, pools, landscaping, solar panels
+and generators.  If determined unsafe, stoves may be replaced.  The replacement or repair of
+other appliances is prohibited.
+Rehabilitation work performed by property owners shall not be funded under this program. 
+C. Rehabilitation Standards
+Funds are to be used for work and repairs required to make the unit standard and abate all
+interior and exterior violations of the New Jersey State Housing Code (N.J.A.C. 5:28), the
+Rehabilitation Subcode (N.J.A.C. 5:23-6), and the Borough’s local  property maintenance code (
+Chapter 10-3  adopted by Ordinance) (of which the more restrictive requirements will apply),
+conserve energy and remove health and/or safety hazards; and any other work or repairs,
+including finishing and painting, which are directly related to the above listed objectives. For
+projects that require construction permits, the rehabilitated unit shall be considered complete at
+the date of final approval pursuant to the Uniform Construction Code.
+Municipal rehabilitation investment for hard costs shall average at least $10,000 per unit, and 
+include the rehabilitation of at least one major system, as previously defined under eligible 
+improvements. 
+D. Certifications of Substandard/Standard
+The Program Building Inspector will inspect the property to determine which systems, if any, are
+substandard in accordance with sub-section A above and issue a Certification of Substandard.
+Upon program construction completion, all code deficiencies noted in the inspection report must
+be corrected and rehabilitated units must be in compliance with the standards proscribed in sub-
+section C above upon issuance of a municipal certificate of completion/approval.
+IV.
+FUNDING TERMS FOR OWNER OCCUPIED AND
+INVESTOR OWNED UNITS
+Funding will be provided on the following terms: 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 51 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 52 =====
+ 
+9
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+ 
+A. Terms and Conditions for Owner Occupied Units 
+ 
+Table 1 Owner-Occupied Single Family Home Terms & Conditions 
+Owner-Occupied Single Family Unit 
+Terms and Conditions of Loan 
+Minimum Loan Amount 
+The municipality may rehabilitate substandard units 
+that require less than $10,000 of work, provided the 
+municipal rehabilitation activity shall average at least 
+$10,000 per unit.
+Maximum Loan Amount 
+$30,000 per unit 
+Interest Rate  
+0% (No monthly payments) 
+Payment Terms: 
+100% forgivable if homeowner maintains occupancy and title 
+during the 10-year period. Original Principal is due if house is 
+sold and/or title/occupancy changes years 1 through 10 except 
+for Exceptions to Loan Repayment Terms section below. 
+Mechanism for Securing Loan 
+Mortgage and Mortgage Note recorded against property 
+ 
+If the owner decides to sell the property, transfer title, or if the owner should die before the terms 
+of the lien expire, the owner, heirs, executors or legal representatives must repay 100% of the 
+original loan per the schedule above upon a title change. Rental of house is allowable under 
+certain conditions subject to approval by the Administrative Agent.    
+Exceptions to Loan Repayment Terms above during the lien period: 
+1. If the loan transfers due to inheritance by a Class A beneficiary who will take occupancy 
+upon death of Program mortgagee/Borrower and assume the lien (income eligibility not a 
+requirement); or if by inheritance by a qualified income eligible non-Class A beneficiary, or 
+2. If the house is sold at an affordable price pursuant to UHAC to someone who can be 
+qualified as income eligible, takes occupancy and agrees to assume the program lien, or  
+3. If the house is sold at an affordable price pursuant to UHAC to an investor who assumes 
+the lien and also signs a deed restriction for the remaining duration of the affordability 
+period to rent the dwelling at the affordability controls restricted rental rate and according 
+to the affirmative marketing requirements for re-rentals.  When this occurs, the Borough’s 
+Administrative Agent will be responsible for monitoring compliance over that unit. 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 52 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 53 =====
+                                                                                                                                 
+10
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+When a trustee of a trust deed ownership of a single-family property is the applicant occupant 
+of the property, the owner-occupied category terms apply. 
+B. Terms and Conditions on Owner-Occupied Multi-Family Rental Units
+Table 2 Owner-Occupied Multi-Family Home Terms & Conditions 
+Owner-Occupied Multi-Family Including Tenant Unit(s) 
+Terms and Conditions of Loan 
+Minimum Loan Amount 
+The municipality may rehabilitate substandard units 
+that require less than $10,000 of work, provided the 
+municipal rehabilitation activity shall average at least 
+$10,000 per unit.
+Maximum Loan Amount 
+$20,000 per unit 
+Interest Rate 
+0% (No monthly payments) 
+Payment Terms
+100% forgivable if homeowner maintains occupancy and title 
+during the 10 year period. Original Principal is due if not in 
+compliance with affordability controls. Rental restrictions 
+transfer with property. See Restrictions below. 
+Mechanism for Securing Loan 
+Mortgage, Mortgage Note and Deed Restriction 
+recorded on property 
+The assisted housing unit(s) must be occupied by and affordable to a household that is certified 
+as an income eligible household as per either the latest Income Limits by Region, or in compliance 
+with the municipality’s Settlement Agreement and Court Order, whichever is applicable  
+The owner will execute a Mortgage, Mortgage Note, and Deed Restriction, the latter which 
+guarantees the continued availability of the rental unit to low or moderate-income households 
+for the terms of the ten-year deed restricted affordability period.  The affordability terms for the 
+rental units do not expire even if the owner sells the property, transfers title to the property, or 
+dies within the ten-year program deed restricted affordability period.  
+Moreover, if Program funds were expended on the owner-occupied unit, and the homeowner 
+sells, transfers title, dies or is not in compliance during the ten-year deed restricted affordability 
+period, unless ownership is transferred to another low or moderate-income homeowner, any 
+Program funds expended on work done on the owner’s individual unit along with a pro-rata 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 53 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 54 =====
+ 
+11
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+ 
+portion of the shared improvements must be fully repaid to the Borough and used to rehabilitate 
+another housing unit. 
+Additionally, for rental units in a multi-family owner-occupied home: 
+For tenant units, the maximum permitted rent is pursuant to UHAC and subject to annual 
+adjustment.  If a unit is vacant upon initial rental subsequent to rehabilitation, or if a renter-
+occupied unit is re-rented prior to the end of controls on affordability, the Deed Restriction shall 
+require the unit to be rented to a low- or moderate- income household at an affordable rental 
+price and will be affirmatively marketed by the Borough designated Administrative Agent, in 
+accordance with the Borough of Oakland Affordable Housing Affirmative Marketing Plan.  
+Landlords are responsible to pay income certification fees and affirmative marketing cost for re-
+rentals.   
+For information regarding future rental increases:  Please refer to Section VIII C of this manual. 
+ 
+When a trustee of a trust deed ownership of a multi-family property is the applicant occupant 
+of the property, the multi-family category terms apply. 
+ 
+ 
+C. Terms and Conditions on Investor-Owned Multi-Family Rental Units 
+ 
+Table 3 Investor-Owned Terms & Conditions 
+Investor-Owned Multi-Family Unit 
+Terms and Conditions of Loan 
+Minimum Loan Amount 
+Per N.J.A.C. 5:93-5.2, the municipality may rehabilitate 
+substandard units that require less than $8,000 of work, 
+provided the municipal rehabilitation activity shall 
+average at least $10,000 per unit.
+Maximum Loan Amount 
+$20,000 per rental unit   
+Interest Rate  
+0% (No monthly payments) 
+Payment Terms 
+Owner pays 25% of rehab cost at construction agreement 
+signing. 75% balance forgiven if in compliance with rental 
+restrictions. The 25% rehab cost is waived for non-profit 
+corporation rentals, if any.  Rental restrictions transfer with 
+property.  See restrictions below. 
+Mechanism for Securing Loan 
+Mortgage, Mortgage Note and Deed Restriction 
+recorded against property 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 54 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 55 =====
+                                                                                                                                 
+12
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+The ten-year affordability controls against the property will be recorded in a Deed Restriction. 
+The property owner agrees to abide by the rental affordability controls for the life of the Deed 
+Restriction. Additionally, the following conditions apply: 
+The assisted housing unit(s) must be occupied by and affordable to a household that is certified 
+as an income eligible household as per either the latest Income Limits by Region, or in compliance 
+with the municipality’s Settlement Agreement and Court Order, whichever is applicable and as 
+designated by unit in the Deed Restriction. The maximum permitted rent is determined by the 
+Borough’s Administrative Agent and is pursuant to UHAC and subject to annual adjustment. A 
+copy of the income figures for 2021, and the methodology for going forward, until the 
+reinstitution of COAH or another state entity performing this function is included in Appendix B 
+of this document. 
+Throughout the ten year affordability controls, if a rental unit is vacant upon initial rental 
+subsequent to rehabilitation, or if a renter-occupied unit is re-rented prior to the end of controls 
+on affordability, the Deed Restriction shall require the unit to be rented to a low- or moderate- 
+income household(as designated by unit in the Deed Restriction) at an affordable price and will 
+be affirmatively marketed in accordance with the Borough of Oakland Affordable Housing 
+Affirmative Marketing Plan by the Borough’s current Administrative Agent at the rates and terms 
+defined within that Agreement.  Landlords are responsible to pay income certification fees and 
+affirmative marketing costs for re-rentals. 
+The owner will execute a Mortgage, Mortgage Note and Deed Restriction, the latter which will 
+guarantee the continued availability of the unit to income eligible households for the terms of 
+the ten-year lien affordability period.   
+Throughout the ten-year deed restrictive period, the affordability terms do not expire even if the 
+owner sells the property, transfers title to the property, dies, or rents to other than low or 
+moderate-income renters, before the terms of the lien expire. 
+Life estate deed ownership falls under the investor category. Additionally, when a trustee of a 
+trust deed ownership is not the applicant occupant of the property, the investor terms apply.  
+D. Special Needs Waivers for Higher Cost Rehabilitation Projects
+In cases of housing rehabilitation costs exceeding the program maximum loan amounts listed in
+applicable Tables 1, 2 and 3 above:
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 55 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 56 =====
+ 
+13
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+ 
+ 
+The Program will attempt to negotiate with lowest qualified bidding contractor to lower 
+bid price. 
+ 
+The Program will review scope of work to omit work items without jeopardizing code 
+status. 
+ 
+The Program will get confirmation of whether or not the homeowner can contribute 
+personal funding.  It will be mandatory for households with more than $30,000 in liquid 
+assets to contribute personal funding for the difference rather than obtain a special needs 
+waiver.  
+ 
+If needed, the Program will attempt to partner with other possible funding sources such 
+as the Low Income Home Energy Assistance Program (LIHEAP) or the Bergen County 
+Home Improvement Program.  
+ 
+The Program reserves the right to make an exception and allow the expenditure of up to 
+an additional $10,000 per unit to address code violations.  Households with more than 
+thirty thousand dollars in liquid assets will not be considered for additional funding but 
+rather  will be required to contribute personal funding for the difference. The Borough will 
+consider other situations for special needs waivers.  Individual files will be reviewed on a 
+case-by-case basis. Upon Program and Borough approval, a Special Needs Funding Limit 
+Waiver may be issued. 
+ 
+If no viable options, the case will have to be terminated. 
+ 
+E. Use of Recaptured Program Funds 
+All recaptured funds will be deposited into a Oakland Borough affordable housing trust fund in 
+accordance with N.J.A.C. 5:93-8.15  
+V. IMPLEMENTATION PROCESS 
+A. Application/Interview  
+ 
+For each prospective applicant, this process starts with a homeowner either submitting an online 
+preliminary application or the Housing Rehabilitation Specialist pre-qualifies the interested 
+homeowner by phone, whichever is the homeowner’s preference. The information is entered in 
+the program applicant pool/waiting list. If the homeowner passes the preliminary criteria review, 
+program information, guidelines, and an application package will be mailed or emailed to the 
+applicant when their name is reached in the program’s waiting list.  Each prospective applicant is 
+to complete the application and return it to the Housing Rehabilitation Specialist, along with the 
+required verification documents.  Upon receipt of the completed application package, a case file 
+will be opened for the applicant and a case file number will be assigned to the unit. The Housing 
+Rehabilitation Specialist will be available via a direct phone line to assist applicants during this 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 56 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 57 =====
+                                                                                                                                 
+14
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+and all other phases of the process. Additionally, as needed, a Housing Rehabilitation Specialist 
+will be available for face to face prescheduled appointments.   Once a case is assigned a number, 
+the cases are processed in the order of receipt of completed applications. 
+B. Eligibility Certification
+To be eligible for assistance, households in each unit to be assisted must be determined to be
+income eligible. All adult members, 18 years of age and older, of both the owner household and
+tenant household (if any) must be fully certified as income-eligible before any assistance will be
+provided by the Program.  The HIP will income qualify applicant, and when applicable tenant,
+households in accordance with N.J.A.C. 5:93-9 and the Uniform Housing Affordability Controls
+(UHAC) at N.J.A.C. 5:80-16.1 et seq., except for the asset test.
+The following is a list of various types of wages, payments, rebates and credits. Those that are 
+considered as part of the household’s income are listed under Income. Those that are not 
+considered as part of the household’s income are listed under Not Income.  
+C. What is Considered Income
+The following income sources are considered income and will be included in the income eligibility
+determination:
+
+Wages, salaries, tips, commissions
+
+Alimony
+
+Regularly scheduled overtime
+
+Pensions
+
+Social security
+
+Unemployment compensation (verify remaining eligible number of weeks)
+
+TANF  (Temporary Assistance For Needy Families)
+
+Verified regular child support
+
+Disability
+
+Net income from business or real estate
+
+Interest income from assets such as savings, certificates of deposit, money market
+accounts, mutual funds, stocks, bonds
+
+Imputed interest (using a current average annual rate of two percent) from non-
+income producing assets, such as equity in real estate. Rent from real estate is
+considered income, after deduction of any mortgage payments, real estate taxes,
+property owner’s insurance.
+
+Rent from real estate is considered income
+
+Any other forms of regular income reported to the Internal Revenue Service
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 57 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 58 =====
+ 
+15
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+ 
+ 
+D. What is Not Considered Income 
+The following income sources are not considered income and will not be included in the income 
+eligibility determination:  
+ 
+Rebates or credits received under low-income energy assistance programs 
+ 
+Food stamps  
+ 
+Payments received for foster care  
+ 
+Relocation assistance benefits  
+ 
+Income of live-in attendants  
+ 
+Scholarships  
+ 
+Student loans 
+ 
+Personal property such as automobiles 
+ 
+Lump-sum additions to assets such as inheritances, lottery winnings, gifts, 
+insurance settlements 
+ 
+Part-time income of dependents enrolled as full-time students    
+ 
+Court ordered payments for alimony or child support paid to another household 
+shall be deducted from gross annual income  
+E. How to Verify Income 
+To calculate income, the current gross income of the applicant is used to project that income 
+over the next 12 months. Income verification documentation should include, but is not limited to 
+the following for each and every member of a household who is 18 years of age or older:  
+1. Four current consecutive pay stubs, including bonuses, overtime or tips, or a letter from 
+the employer stating the present annual income figure or if self-employed, a current 
+Certified Profit & Loss Statement and Balance Sheet. 
+2. A signed copy of regular IRS Form 1040 (Tax computation form), 1040A or 1040EZ (as 
+applicable) and state income tax returns filed for the last three years prior to the date of 
+interview or notarized tax waiver letter for respective tax year(s)- A Form 1040 Tax 
+Summary for the past three tax years can be requested from the local Internal Revenue 
+Service Center or by calling 1-800-829-1040. 
+3. If applicable, a letter or appropriate reporting form verifying monthly benefits such as: 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 58 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 59 =====
+                                                                                                                                 
+16
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+
+Social Security or SSI – Current award letter or computer printout letter
+
+Unemployment – verification of Unemployment Benefits
+
+Welfare -TANF current award letter
+
+Disability - Worker’s compensation letter or
+
+Pension income (monthly or annually) – a pension letter
+4.
+A letter or appropriate reporting form verifying any other sources of income claimed by
+the applicant, such as alimony or child support – copy of court order or recent original
+letters from the court (includes separation agreement or divorce papers) or education
+scholarship/stipends – current award letter;
+5.
+Reports from the last two consecutive months that verify income from assets to be
+submitted by banks or other financial institutions managing savings and checking
+accounts (bank statements and passbooks), trust funds, money market accounts,
+certificate of deposit, stocks or bonds (In brokerage accounts – most recent statements
+and/or in certificate form – photocopy of certificates), whole life insurance.  Examples
+include copies of all interest and dividend statements for savings accounts, interest and
+non-interest bearing checking accounts, and investments;
+6.
+Evidence or reports of income from directly held assets, such as real estate or businesses
+owned by any household member 18 years and older.
+7.
+Interest in a corporation or partnership – Federal tax returns for each of the preceding
+three tax years.
+8.
+Current reports of assets – Market Value Appraisal or Realtor Comparative Market Analysis
+and Bank/Mortgage Co. Statement indicating Current Mortgage Balance. For rental
+property attach copies of all leases.
+F. Additional Income Verification Procedures
+1.
+Student Income
+Only full-time income of full-time students is included in the income calculation. A full-time
+student is a member of the household reported to the IRS as a dependent who is enrolled in a
+degree seeking program for 12 or more credit hours per semester; and part-time income is
+income earned on less than a 35-hour workweek.
+2.
+Income from Real Estate
+If real estate owned by an applicant for affordable housing is a rental property, the rent is
+considered income.  After deduction of any mortgage payments, real estate taxes, property owner
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 59 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 60 =====
+ 
+17
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+ 
+insurance and reasonable property management expenses as reported to the Internal Revenue 
+Service, the remaining amount shall be counted as income. 
+If an applicant owns real estate with mortgage debt, which is not to be used as rental housing, 
+the Program Housing Rehabilitation Specialist should determine the imputed interest from the 
+value of the property.  The Program Housing Rehabilitation Specialist should deduct outstanding 
+mortgage debt from the documented market value established by a market value appraisal.  
+Based on current money market rates, interest will be imputed on the determined value of the 
+real estate. 
+G. Other Eligibility Requirements 
+Applicant to submit the following in the application package: 
+ 
+Copy of current Homeowner’s insurance declarations page (not the policy or receipt); 
+ 
+Proof of flood insurance, if property is located in a flood zone; 
+ 
+Copy of recorded deed to the property to be assisted; 
+ 
+If deed co-holder resides at another location, provide proof of same (driver’s license, etc); 
+ 
+If widow or widower, copy of spouse’s Death Certificate; 
+ 
+Receipt for paid property taxes; 
+ 
+Proof that all mortgage payments and, when applicable, Homeowner Association (HOA) 
+Fees are paid current;  
+ 
+Copy of any and all other liens recorded against the property; 
+ 
+Personal identification (a copy of any of the following: Driver’s License, Passport, Birth 
+Certificate, Social Security Card, Adoption Papers, Alien Registration Card, etc.); and 
+ 
+Original of signed Eligibility Release form. 
+ 
+Properties for sale are ineligible for program assistance as well as any property the homeowner 
+plans to sell within the next two years. 
+H. Requirements of Property Taxes and Municipal Utilities Paid Current 
+All applicants' property tax accounts and municipal utilities accounts must be paid current. 
+Individual files will be reviewed on a case-by-case basis. Upon approval by the appropriate 
+municipal officials and the Program, a Special Needs Eligibility Requirements Waiver may be 
+issued. 
+I. Sufficient Equity and Carrying Cost 
+Additionally, to be determined eligible, there must be sufficient equity in the home to cover the 
+program lien.  In other words, the market value of the house must be greater than the total of 
+the existing liens and anticipated program lien combined. For the sake of this rule, the market 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 60 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 61 =====
+                                                                                                                                 
+18
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+value of the home will be calculated using the municipality’s assessed value divided by the 
+equalization ratio.  All existing property liens (mortgage, home equity loan, etc.) are then 
+deducted from the calculated house value to determine the current property equity. The Borough 
+may consider a Special Needs Waiver approved by the municipality on a case-by-case basis for 
+limited equity, but not for negative equity.  Additionally, the applicant’s income shall be sufficient 
+to meet the carrying costs of the unit or the homeowner is to demonstrate how the unit’s carrying 
+costs are funded.  This will be reviewed on a case-by-case basis. 
+J.
+House Conditions:
+All areas of the house must be readily accessible, uncluttered, and clean. This is in anticipation of
+the Program Inspector and contractors needs of proper and sanitary access for inspections and
+construction work progress.
+If there are any repairs or renovations currently being undertaken on the home by others or the 
+homeowner or done within the last few years that require or required municipal permits, the work 
+must be completed and the permits closed out prior to the homeowner applying to the Program. 
+K. Eligibility Scenarios of Multi-Family Structures
+Several possibilities exist concerning the determination of eligibility in a multi-family structure.
+Scenario 1. 
+The Program Administrator determines that the owner is income eligible and the 
+renters in each unit are income eligible. In this case, all of the units are eligible for rehabilitation. 
+Scenario 2. 
+The Program Administrator determines that the owner is income eligible, but the 
+renters are not. In this case, only the landlord's unit is eligible for rehabilitation. If a home 
+improvement is undertaken which affects all the units in the house (e.g., replacement of a roof), 
+the HIP will only cover a prorated percentage of the cost. For example, in a two-family home with 
+units of approximately equal size, only 50% of the cost of roof replacement will be covered. Where 
+units differ by more than 10% in size, the proration should be based on percentage of square 
+footage within each unit compared to the total interior square footage of all other units in the 
+structure. Shared common areas should not be counted in the denominator for the pro rata 
+calculation. 
+Scenario 3. 
+The Program Administrator determines that the owner is not income eligible, but 
+the renters are. In this case, the rental units are eligible for rehab, but the owner's is not. If a rehab 
+activity is undertaken which affects all of the units in the house (e.g., replacement of roof), the 
+HIP will only cover a prorated percentage of the cost. For example, in a four-family home, only 
+75% of the cost of roof replacement would be covered. Where units differ in size, the proration 
+is based on percentage of square footage. 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 61 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 62 =====
+ 
+19
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+If any of the conditions above apply to a particular applicant's case, CGP&H sends a letter that 
+explicitly identifies which of the units is eligible for rehabilitation, as well as specifies any 
+applicable percentage of the hard costs of rehabilitation between the Program and the 
+homeowner. The homeowner's monetary contribution is to be paid prior to the start of 
+construction at the preconstruction conference in the form of a money order or certified check 
+made payable to the contractor. The payment is held by the Program until the work is 
+satisfactorily completed, at which time the Program will release the payment to the contractor. 
+L. Eligibility Certification
+After the Program Administrator has determined that the household is income eligible and meets
+all other eligible requirements, the Program Manager will complete and sign the Eligibility
+Certification. This certification is valid for 180 days starting from date of eligibility certification. A
+Construction Agreement must be signed within this time period. If not, the Program
+Administrator must reevaluate the household's eligibility.
+After the household is certified as income eligible, the Homeowner/Program Agreement will be 
+executed between the owner and the program. 
+If an applicant is determined ineligible, for any reason, the Program will issue a Notice of 
+Ineligibility explaining the reason for the ineligibility determination and case termination.  
+M. Housing Inspection/Substandard Certification/Work Write Up/Cost Estimate
+The Program Inspector will perform a comprehensive inspection to determine what work items
+are necessary to bring the home up to code, as identified in section III C.  Photos will be taken at
+the comprehensive inspection to document existing conditions.   As a result of the comprehensive
+inspection, the Program Inspector will prepare a work write-up and cost estimate. All repairs
+needed to bring the home up to code will be identified.  To the extent that the budget may
+permit, home weatherization will also be included.  This work write-up will include a breakdown
+of each work item by category and by location in the house. The work write-up will contain
+information as to the scope of work and specifics on materials such as type, quantity and cost. A
+total cost estimate will be calculated for each housing unit.  Improvements approved under the
+Program shall be based on the cost of mid-grade fixtures and materials.  No upgrades from this
+standard shall be allowed.  Only eligible rehab work will be funded by the Program. In the event
+that not all items can be accomplished due to program funding caps, the Program Inspector will
+establish a priority repair system which addresses the code violations before the non-code
+violations. The HIP's policy is to create Work Write-Ups and Cost Estimates that fall within the HIP
+funding caps. In unusual hardship cases and when the cost to correct all code violations exceeds
+the program funding limit, the HIP will seek the homeowner's monetary contribution. If the
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 62 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 63 =====
+                                                                                                                                 
+20
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+homeowner is unable to contribute funds or obtain funds from another funding source, the HIP 
+will request additional funds from Oakland. 
+For houses built prior to 1978, refer to Section VII Lead Base Paint (LBP). 
+N. Contractor Selection
+The homeowner, with the approval of the Program Inspector, will select the contractor.  The
+Housing Rehabilitation Specialist will provide the homeowner with a copy of the work write up
+and the Program Contractor List. The homeowner will complete the Work Write-Up Review Form
+indicating review and approval of the work write-up and advising of any contractors currently on
+the Program Contractor List that the homeowner does not wish to have notified of the availability
+of the bid package. If the homeowner wishes to solicit a bid from a contractor not currently on
+the Program Contractor List, the homeowner will provide the contractor's name, address and
+telephone number on the Work Write-Up Review Form. Any contractors that have not been
+previously qualified are eligible to participate but must submit their qualifications as well as their
+bid in the bid package.
+The Housing Rehabilitation Specialist will notify at least three (3) currently active contractors that 
+a bid package for the property is available. Each contractor must contact the Housing 
+Rehabilitation Specialist to obtain a full bid package and the contractor must submit a bid to the 
+Housing Rehabilitation Specialist by the submission deadline (usually within three (3) weeks of 
+the date of the bid notification letter). All submitted bids will be opened and recorded by the 
+Program Administrator at a meeting open to all interested parties. 
+The submitted bids will be reviewed by the homeowner and the Program Inspector. Generally, 
+the lowest responsible bid from a qualified contractor will be chosen. If the homeowner selects a 
+higher bid, he/she must pay the difference between the chosen and the lowest responsible bid.  
+The Housing Rehabilitation Specialist will email the following documentation to the Borough 
+Administrator for review and approval:  
+
+Bid Tabulation sheet of all bids received
+
+Awarded contractor’s bid including completed Contractor Award Checklist
+
+Awarded contractor’s Play to Pay form
+For each contractor’s first award in a calendar year, the Housing Rehabilitation Specialist will 
+provide the municipal applicable staff with the awarded contractor Business Registration 
+Certificate (BRC) and W-9 form.  
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 63 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 64 =====
+ 
+21
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+O. Pre-Construction Conference/Contract Signing
+The Program Inspector will conduct a pre-construction conference with the homeowner and
+contractor. Prior to the pre-construction conference the homeowner will be provided with copies
+of the loan documents and the Construction Agreement and the contractor will be provided with
+a copy of the Construction Agreement for review. At the time of the pre-construction conference,
+the scope of work will once again be reviewed. The homeowner and contractor responsibilities
+will also be reviewed, as well as the Program's construction procedures and program limitations.
+The homeowner and contractor will each sign the Construction Agreement and receive copies.
+The homeowner will sign and receive copies of the Mortgage and Mortgage Note in the amount
+of the HIP subsidy.  For rental properties, the property owner will also sign the Deed Restriction
+(COAH form Appendix E-3).
+If the homeowner is providing any funds for the rehabilitation of his/her home, those funds must 
+be provided at the time of the pre-construction conference in the form of a certified check or 
+money order made payable to the contractor. The check will be held by the Program and will be 
+applied towards the contractor's first progress payment. 
+The contractor will be provided with information regarding the Lead-Based Paint Poisoning 
+Prevention Act (4a.USC 483 1 (b)). The homeowner will be advised of the hazards of lead base 
+paint in houses built prior to 1978 and provided with the EPA booklet Renovate Right.  Both 
+contractor and homeowner will each sign the respective Certifications.  Additionally, for houses 
+built prior to 1978, Section VII Lead Base Paint (LBP) applies. 
+Following the pre-construction conference, the Housing Rehabilitation Specialist will provide the 
+Borough with a copy of the Construction Agreement which includes an itemized price list of the 
+work.   
+It is the contractor's responsibility to ensure all required permits are applied for prior to the start 
+of construction and, if applicable, at the time of any change orders. 
+The construction permitting process is handled by the municipality’s Construction office. 
+P. Borough Purchase Order and Contractor Payment Voucher
+Upon contractor award decision, the Borough will execute a blanket purchase order to commit
+the funds.  The Borough will provide the “department” copy to the Housing Rehabilitation
+Specialist for case file retention.  The Borough will provide the “vendor” copy to the contractor
+for the contractor records. The contractor does not sign the blanket purchase order.
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 64 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 65 =====
+                                                                                                                                 
+22
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+The Borough payment voucher for each payment to the contractor will be signed by the 
+contractor at time of payment request.  The process for the municipal payment voucher is 
+further explained below in Section V subsection T. Payment Structure and Process.  
+Q. Progress Inspections
+The Program Inspector will make the necessary inspections of the progress of property
+improvements. Inspections are necessary to ensure that the ongoing improvements coincide with
+the scope of work outlined in the work write-up. It is the contractor's responsibility to notify the
+Program Inspector when a minimum of 40% of the total contract work is completed. The Program
+Inspector will schedule the inspection with the homeowner, at which time the Program Inspector
+will also obtain verbal confirmation from the homeowner that the work is ready for inspection.
+If work passes the satisfactory progress inspection, the Housing Rehabilitation Specialist will 
+follow the procedures spelled out in Section V subsection T Payment Structure and Process to 
+process a contractor’s progress payment request. 
+The Program Inspector will notify the contractor and the homeowner in writing of any work 
+deficiencies discovered during the progress inspection. Work deficiencies must be corrected prior 
+to the contractor's request for the next inspection.  
+For houses built prior to 1978, a work item marked EPA RRP Rule cannot be paid for until the 
+contractor provides a post renovation report to the Program.   Refer to Section VII Lead Base 
+Paint (LBP) for the EPA regulation.  
+R. Change Orders
+If it is determined during rehabilitation that a change from the original work write-up is
+required, a Program Change Order Authorization form must be completed and approved by the
+homeowner, the contractor and the Program. The Housing Rehabilitation Specialist will forward
+the executed change order to the Borough.
+The contractor will be notified by the Housing Rehabilitation Specialist of the results, and no 
+change order work should be undertaken by the contractor until he has received a copy of the 
+fully executed Change Order Authorization or the contractor risks non-payment for the change 
+order work. 
+S. Final Inspection
+Prior to requesting a final inspection, it is the contractor's responsibility to:
+
+Properly close out all the permits and to provide proof of closed out permits to the
+Housing Rehabilitation Specialist via the municipal Certificate of Approval;
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 65 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 66 =====
+ 
+23
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+ 
+ 
+Deliver to the homeowner a complete release of all liens arising out of the Construction 
+Agreement, a receipt in full covering all labor, materials and equipment for which a lien 
+could be filed or a bond satisfactory to the owner indemnifying owner against any lien; 
+and; 
+ 
+Provide the homeowner with all applicable warranties for items installed and work 
+completed during the course of the rehabilitation. 
+ 
+Once the contractor has provided the Housing Rehabilitation Specialist with all required job 
+closeout forms, the contractor will be responsible to request the Program's final inspection. The 
+Program Inspector will schedule the final inspection with the homeowner, at which time the 
+Program Inspector will also obtain verbal confirmation from the homeowner that the 
+rehabilitation work has been completed and is ready for inspection. The Program Inspector will 
+then conduct a final inspection to certify that the required property improvements are complete. 
+The homeowner will be present during the final inspection and the contractor will be present if 
+there are issues to resolve. 
+Construction progress on work line items will be inspected and considered for payment. If the 
+work passes satisfactory final inspection, the Housing Rehabilitation Specialist will follow the 
+procedures spelled out in Section V subsection T. Payment Structure and Process to process the 
+contractor’s final payment request. 
+For houses built prior to 1978, a work item marked EPA RRP Rule cannot be paid for until the 
+contractor provides a post renovation report to the program.   Refer to Section VII Lead Base 
+Paint (LBP) for the EPA regulation.  
+If the Program Inspector identifies any work deficiencies during the final inspection, the Program 
+Inspector will notify the contractor and the homeowner of the deficiencies in writing and the 
+value of said deficiencies will be deducted from the final payment request. Work deficiencies 
+discovered during the final inspection will require the Program Inspector to conduct a subsequent 
+inspection upon contractor's correction of deficiencies. The Rehabilitation Program reserves the 
+right to hold the contractor responsible to pay the cost of any additional inspections beyond the 
+final inspection at a rate of $350 per inspection for prematurely requesting the final inspection 
+with the work not 100% completely done in a workman-like manner. Additional inspections are 
+those in excess of the one progress inspection and the final inspection which are needed to 
+inspect corrected deficiencies. The contractor must issue the failed final inspection penalty 
+payment directly to CGP&H via a check prior to the Program Inspector scheduling and repeating 
+the final inspection process. CGP&H will notify the municipality each time a penalty is levied. 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 66 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 67 =====
+                                                                                                                                 
+24
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+The Program lien period will commence upon satisfactory completion of the final inspection. 
+Photographs will be taken of the rehabilitated housing unit by the Program Inspector at the time 
+of the satisfactory final inspection. 
+T. Payment Structure and Process
+The Borough will issue all payments, which will be made according to the following schedule:
+One progress payment (representing a minimum of 40% of total contract work completed) will 
+be paid. Upon completion of one hundred percent (100%) of the rehabilitation work, the 
+contractor is eligible for final payment of the contract price.  
+Upon a satisfactory program inspection, the Housing Rehabilitation Specialist will coordinate for 
+the contractor to sign the Borough voucher to match the inspection approved payment.  Upon 
+receipt of the signed voucher and confirmation that all contractor's documents have been 
+submitted according to program procedures, the Housing Rehabilitation Specialist will submit to 
+the Borough: 
+
+Program’s Request for Payment form with Owner's and Program’s written approval
+
+The Borough voucher signed by the contractor for the current payment amount
+
+Copy of change order, if one occurred
+The Borough retains the right to make payments to the contractor without homeowner 
+approval should the homeowner become unavailable to sign the Program contractor payment 
+form due to illness or absence. In such instance, the Program shall make reasonable attempts to 
+contact the homeowner.  If such efforts are not successful within a two-week period from the 
+final inspection date, the Program shall advise the Borough, provide documentation of efforts 
+to obtain homeowner approval, and may authorize contractor payment without homeowner 
+sign-off, to not hold up payment rightfully due to the contractor.    
+The Housing Rehabilitation Specialist is to submit the contractor payment request to the 
+Municipal Housing Liaison at least one week in advance of the Council meeting, and, if acceptable, 
+the payment request will be placed on the upcoming Bill List agenda.  The Borough will forward 
+to the Housing Rehabilitation Specialist a copy of the executed payment to the contractor for 
+case file records.  
+Upon job completion, the combined Borough payments will total the Construction Agreement, 
+including all applicable change order(s) if any, and minus owner contribution, if any.  The 
+combined Borough payments will also match the total amount of the Borough Vouchers. 
+Progress and final payments will be made payable to the contractor. 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 67 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 68 =====
+ 
+25
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+ 
+ 
+U. Standard Certification 
+A Certificate of Approval issued by the municipal construction official at the time the contractor 
+closes out the rehabilitation construction permits, will confirm the scope of rehabilitation work 
+has been completed and that the housing unit is now up to code standard. The contractor is to 
+provide the Certificate of Approval to the Housing Rehabilitation Specialist when requesting the 
+final inspection. The Housing Rehabilitation Specialist will ensure that a copy of the Certificate of 
+Approval is placed in the case file. 
+V. Record Mortgage Documentation 
+At construction completion, the Housing Rehabilitation Specialist will forward the executed 
+mortgage to the Borough’s Attorney for recording. The Borough will immediately file the 
+mortgage with the County Clerk.  For rental properties, the Deed Restriction will also be recorded. 
+W. File Closing 
+The Housing Rehabilitation Specialist will close the homeowner's file after the final payment is 
+made and the mortgage, and when applicable, Deed Restriction is/are returned from the County 
+with recorded date, book and page.  
+The Housing Rehabilitation Specialist will send the homeowner a case closeout letter explaining 
+the warranty period, importance of program documents for personal record keeping, explaining 
+the homeowner’s responsibility to continue to maintain the home, providing the homeowner with 
+a home maintenance checklist as guidance, thanking the owner for program participation, and 
+encouraging him/her to recommend the program to other households in the community and, 
+when applicable, reminding owner of the affordable housing rental requirements listed in the 
+program lien documents and deed restriction. 
+X. Requests for Subordination or Program Loan Payoff 
+Oakland may agree to subordination of its lien if the mortgage company supplies an appraisal 
+showing that the new loan plus the balance(s) on all unpaid loans (including the value of the 
+rehabilitation assistance) does not exceed ninety-five (95%) of the appraised value of the unit.  If 
+the homeowner is simply refinancing their primary mortgage to a lower interest rate and not 
+“cashing out” any equity, Oakland will subordinate up to 100% of the appraised value. 
+Subordination requests are to be directed to the Borough’s Attorney. No processing fee to the 
+homeowner. 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 68 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 69 =====
+                                                                                                                                 
+26
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+VI. CONTRACTOR REQUIREMENTS AND RECRUITMENT
+A. Marketing
+The Program will coordinate with the Borough to advertise the availability of construction work
+on the Borough’s website and display a contractor outreach poster and handouts in the municipal
+building, including the local construction office.  Additionally, CGP&H will reach out to home
+improvement contractors registered with Consumer Affairs who are geographically near or in
+Oakland. If determined needed, additional outreach will be conducted in the local newspapers
+and through the posting of community notices. As necessary, the Program will advertise the
+availability of construction work by posting information at local building supply dealers. All
+interested contractors will have the opportunity to apply for inclusion on the Program Contractor
+List, which will be made available for the homeowner's use in selecting rehabilitation contractors.
+The contractor outreach material will also be posted on CGP&H’s website.
+B. Contractor Qualifications
+To qualify, contractors must meet the following minimum requirements:
+
+Contractors must carry at least $1,000,000 in general liability insurance. The Contractor
+shall carry full workmen’s compensation coverage including Employer’s Liability limits of at
+least $500,000 and statutory state coverage for all his/her employees and those of his/her
+subcontractors engaged in program rehab work.  The Contractor must provide the Housing
+Rehabilitation Specialist with a certificate of insurance naming the Program as Certificate
+Holder, and naming the Municipality and CGP&H as additional insureds at time of Program
+job award; and
+
+At least three favorable references on the successful completion of similar work; and
+
+The Contractor’s State Business Registration Certificate; and
+
+Current Consumer Affairs Home Improvement Contractor license; and
+
+Applicable lead certifications for contractors working on houses built prior to 1978. As
+identified in the scope of work, the contractor must comply with the EPA Renovation,
+Repair and Painting (RRP) Rule regarding certification; and
+
+If claiming prior experience with local, state or federally funding housing rehabilitation
+programs, a record of satisfactory performance in a neighborhood rehabilitation program
+or other federal/state programs; and
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 69 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 70 =====
+ 
+27
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+ 
+ 
+Appropriate licenses; e.g. plumbing, electrical.   
+Contractors must also complete a Contractor Qualification Form. The contractor's qualifications 
+will be reviewed and the references cited will be checked by the Program Inspector before the 
+contractor is awarded a job. 
+VII. Lead Based Paint (LBP): 
+For houses built prior to 1978, contractors must comply with the Environmental Protection 
+Agency Renovation, Repair and Painting Rules (40 CFR Part 745) when any work item is marked 
+with (EPA-RRP Rule) in the work specifications.  The requirements are spelled out in the General 
+Conditions of the work specifications. 
+ 
+The Program may refer homeowners of houses built prior to 1978 to the NJ Department of 
+Community Development Lead-Safe Home Remediation Program and HUD Lead-Based Paint 
+Hazard Reduction Program, both found at this link 
+https://www.nj.gov/dca/divisions/dhcr/offices/leadsafe.html for lead-based paint hazards 
+remediation needs.  
+ 
+VIII. Rental Procedures: 
+Rental units are subject to the Uniform Housing Affordability Controls (UHAC) at N.J.A.C.5-80:26.1 
+et. seq. once the rental units are rehabilitated.  In addition to the mortgage and mortgage note, 
+the controls on affordability shall be in the form of a deed restriction.  
+ 
+If a unit is vacant, upon initial rental subsequent to rehabilitation, or if a renter-occupied 
+unit is re-rented prior to the end of controls on affordability, the deed restriction shall 
+require the unit be rented to an income eligible household at an affordable rent and 
+affirmatively marketed pursuant to UHAC.  
+ 
+If a unit is renter-occupied, upon completion of the rehabilitation, the maximum rate of 
+rent shall be the lesser of the current rent or the maximum permitted rent pursuant to 
+UHAC. 
+ 
+Rental Increases:  See section VIII C, below. 
+The municipality’s Administrative Agent will administer the rental affordability controls during the 
+10-year affordability period for each rental property assisted. Landlords are responsible to pay 
+income certification fees for re-rentals. 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 70 of 71   Trans ID: LCV20251842941 
+
+===== PAGE 71 =====
+                                                                                                                                 
+28
+Borough of Oakland Home Improvement Program Policies and Procedures Manual 
+A. Determining Initial Affordable Rents
+The initial maximum affordable rent for a rehabilitated unit is determined by the program staff
+based on several NJ rules and regulations. The Administrative Agent will make every attempt to
+price initial rents to average fifty-two percent (52%) of the median income for the household size
+appropriate to the sized unit within each individual project (N.J.A.C. 5:80-26.3 (d)).  Thirty percent
+(30%) (N.J.A.C. 5:80-26-12 (a)) of that figure is considered the “maximum base rent.” Subtracted
+from the maximum base rent is the cost of all tenant-paid utilities as defined and calculated by
+the HUD Utilities Allowance figures (updated annually). The remainder becomes the maximum
+initial rent for that unit.  The Home Improvement Program staff can provide potential
+applicants/landlords with a reasonable estimate of what the maximum base rent will be on their
+rental unit if they elect to participate in the program.
+B. Pricing by Household Size
+Initial rents are based on the number of legal bedrooms in each unit. Initial rents must adhere to
+the following rules.
+Table 4 Initial Rental Pricing by Housing Size
+
+A studio shall be affordable to a one-person household;
+
+A one-bedroom unit shall be affordable to a one- and one-half person household;
+
+A two-bedroom unit shall be affordable to a three-person household;
+
+A three-bedroom unit shall be affordable to a four- and one-half person household; and
+
+A four-bedroom unit shall be affordable to a six-person household.
+The above rules are only to be used for setting initial rents. 
+Size of Unit 
+Household Size Used to 
+Determined Max Rent 
+Studio/Efficiency 
+ 1 
+1 Bedroom 
+ 1.5 
+2 Bedrooms 
+ 3 
+3 Bedrooms 
+ 4.5 
+4 Bedrooms 
+ 6 
+                                                                                                                                                                                              
+BER-L -000866-25   06/24/2025 9:37:35 PM   Pg 71 of 71   Trans ID: LCV20251842941 

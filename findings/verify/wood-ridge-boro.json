@@ -1,0 +1,91 @@
+{
+  "municipality": "Wood-Ridge",
+  "research_status": "done",
+  "obligation": {
+    "present_need": 17,
+    "prospective_need": 130,
+    "total_obligation": 147,
+    "rdp": 0,
+    "unmet_need": 130,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/wood-ridge-boro/WoodRidgeHEFSPFINALADOPTEDJune32025.pdf?VersionId=Zh18Xdo.4hSEaXPWDQT_FGWAitOrSgmb"
+  },
+  "compliance": {
+    "status": "compliant via unmet need/credits mechanism",
+    "settlement_party": "Fair Share Housing Center (FSHC)",
+    "settlement_date": "2008",
+    "hefsp_status": "adopted",
+    "hefsp_adopted_date": "2025-06-03",
+    "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/wood-ridge-boro/WoodRidgeHEFSPFINALADOPTEDJune32025.pdf?VersionId=Zh18Xdo.4hSEaXPWDQT_FGWAitOrSgmb"
+  },
+  "notes": "Wood-Ridge is a fully built-out municipality. DCA Present Need = 17 (rehab via Bergen County Home Improvement Program); Prospective Need = 130 (accepted DCA figure). Vacant Land Adjustment yields RDP = 0, making Fourth Round Unmet Need = 130. The Borough has 151 affordable units already constructed in the Wesmont Station redevelopment (Avalon Bay/100 Rosie Square: 47 units, 2012; The Willows at Wesmont Station/Ingerman/100 Johnson Drive: 104 units, 2015) under a 2008 Settlement Agreement with FSHC. With prior-round bonus credits, Borough claims 193 credits to apply against cumulative Prospective Need of 338 (prior rounds + 4th round). Unmet Need addressed through: (a) applying 193 existing credits, and (b) an inclusionary zoning ordinance (20% set-aside for ownership, 15% for rental) for any future 5+ unit multifamily development or redevelopment. No new greenfield inclusionary/100%-affordable sites are identified because RDP=0. The plan documents a filed Settlement Agreement (2008) with FSHC that is the operative compliance mechanism.",
+  "sources": [
+    {
+      "doc_type": "HEFSP",
+      "title": "Borough of Wood-Ridge Master Plan: Housing Element and Fair Share Plan (Adopted June 3, 2025)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/wood-ridge-boro/WoodRidgeHEFSPFINALADOPTEDJune32025.pdf?VersionId=Zh18Xdo.4hSEaXPWDQT_FGWAitOrSgmb",
+      "excerpt": "As Wood-Ridge has an RDP of zero units, the Borough's Fourth Round 'unmet need' is 130 units."
+    },
+    {
+      "doc_type": "settlement",
+      "title": "Filed Settlement Agreement (2008, FSHC)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/wood-ridge-boro/Ex.1FiledSettlementAgreement.pdf?VersionId=GGp.AbmJ3LCUA.USp6qnQriJiBecfOMv",
+      "excerpt": "2008 Wesmont Station Settlement Agreement with FSHC"
+    },
+    {
+      "doc_type": "DCA",
+      "title": "DCA Bergen Obligations JSON",
+      "url": "sources/dca_bergen_obligations.json",
+      "excerpt": "Wood-Ridge borough: present_need=17, prospective_need=130, quam=0"
+    }
+  ],
+  "sites": [
+    {
+      "site_name": "Avalon Bay at Wesmont Station",
+      "address": "100 Rosie Square, Wood-Ridge, NJ",
+      "block": null,
+      "lot": null,
+      "acreage": null,
+      "mechanism": "redevelopment (Wesmont Station/Curtiss-Wright site)",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": null,
+      "total_units": null,
+      "affordable_units": 47,
+      "set_aside_pct": null,
+      "tenure": "rental",
+      "adoption_status": "constructed and occupied",
+      "developer": "Avalon Bay",
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/wood-ridge-boro/WoodRidgeHEFSPFINALADOPTEDJune32025.pdf?VersionId=Zh18Xdo.4hSEaXPWDQT_FGWAitOrSgmb",
+      "source_page": "Page 23 / Table 21",
+      "source_date": "2025-06-03",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Avalon Bay Complex, 100 Rosie Square, 2012, 47 [units]",
+      "notes": "Existing affordable units credited to 2nd/3rd round and now applied toward 4th round unmet need. No block/lot listed in plan for this redevelopment site."
+    },
+    {
+      "site_name": "The Willows at Wesmont Station (Ingerman)",
+      "address": "100 Johnson Drive, Wood-Ridge, NJ",
+      "block": null,
+      "lot": null,
+      "acreage": null,
+      "mechanism": "redevelopment (Wesmont Station/Curtiss-Wright site)",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": null,
+      "total_units": null,
+      "affordable_units": 104,
+      "set_aside_pct": null,
+      "tenure": "rental",
+      "adoption_status": "constructed and occupied",
+      "developer": "Ingerman",
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/wood-ridge-boro/WoodRidgeHEFSPFINALADOPTEDJune32025.pdf?VersionId=Zh18Xdo.4hSEaXPWDQT_FGWAitOrSgmb",
+      "source_page": "Page 23 / Table 21",
+      "source_date": "2025-06-03",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "The Willows at Wesmont Station/ Ingerman, 100 Johnson Drive, 2015, 104 [units]",
+      "notes": "Existing affordable units credited to 2nd/3rd round and applied toward 4th round unmet need. No block/lot listed in plan."
+    }
+  ]
+}
