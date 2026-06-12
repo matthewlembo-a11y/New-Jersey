@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T12:28:32+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T12:31:53+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -316,23 +316,31 @@ _Obligation: 178 · Compliance: settled with FSHC · HEFSP: adopted 2025-06-18_
 
 ## Hillsdale (Borough)
 
-_Obligation: 190 · Compliance: settled · HEFSP: adopted 2025-06-25_
+_Obligation: 190 · Compliance: settled with FSHC (mediation agreement) · HEFSP: adopted (amended) 2026-02-03_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| The Piermont / Patterson Street Urban Renewal | 137 Patterson Street |  |  |  | redevelopment-area |  | 256 | 20 | 8.0% | rental | built | low | [doc](https://newyorkyimby.com/2026/04/the-piermont-reaches-completion-at-137-patterson-street-in-hillsdale-new-jersey.html) |
-| Bergen County United Way Group Home (Fourth Round) |  |  |  | 0.61 | group-home |  | 1 | 1 | 100.0% | rental | proposed | low | [doc](https://thepressgroup.net/boroughs-round-4-obligation-plunges-from-190-units-to-4/) |
-| 100-101 West Street Townhomes | 100-101 West Street | 1205 | 10 |  | inclusionary-rezoning |  | 18 | 4 | 22.0% | for-sale | proposed | low | [doc](https://thepressgroup.net/boroughs-round-4-obligation-plunges-from-190-units-to-4/) |
+| 175 Broadway (Verizon site) | 175 Broadway |  |  |  | inclusionary |  | 40 | 6 | 15.0% |  | proposed | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hillsdale-boro/HDBFourthRoundAmendedHEFSPADOPTEDPart1of2.pdf?VersionId=Bb56tVKBbKQidSnDMhTyq2Ez0R19b9xp) |
+| 40 Central Avenue | 40 Central Avenue |  |  |  | inclusionary |  |  | 1 |  |  | proposed / approved | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hillsdale-boro/HDBFourthRoundAmendedHEFSPADOPTEDPart1of2.pdf?VersionId=Bb56tVKBbKQidSnDMhTyq2Ez0R19b9xp) |
+| Affordable Housing Set-Aside Ordinance (Borough-Wide) |  |  |  |  | mandatory set-aside ordinance |  |  |  | 20.0% |  | adopted (Ordinance 2605, February 3, 2026) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hillsdale-boro/260203Ordinance2605Aahsetaside.pdf?VersionId=I7idGJX2tFuhoNwe9ctiyKnusutuM05_) |
+| Block 1102 (Bank of America site) |  | 1102 |  |  | inclusionary |  | 27 | 4 | 15.0% |  | proposed | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hillsdale-boro/HDBFourthRoundAmendedHEFSPADOPTEDPart1of2.pdf?VersionId=Bb56tVKBbKQidSnDMhTyq2Ez0R19b9xp) |
+| 100-101 West Street (Block 1205 Lots 10&11) | 100-101 West Street | 1205 | 10, 11 |  | inclusionary |  | 18 | 4 | 22.0% |  | rezoning ordinance adopted (Feb 3, 2026) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hillsdale-boro/HDBFourthRoundAmendedHEFSPADOPTEDPart1of2.pdf?VersionId=Bb56tVKBbKQidSnDMhTyq2Ez0R19b9xp) |
+| Patterson Street Urban Renewal / Claremont (Redevelopment Area) | 131-145 Patterson Street | 1207, 1208, 1209, 1210, 1211 | 1207: Lots 8,9,10; 1208: Lots 1,2,3,4,5; 1209: Lots 2,3,4; 1210: Lots 8,9,10,11; 1211: Lots 1,2 | 10.72 | redevelopment | 32.0 | 256 | 20 | 20.0% | rental | approved (256 units with permits; under construction) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hillsdale-boro/2610ARedevPlanChIthroughChXreduced.pdf?VersionId=mX9X3FXCUe5HYTDTTggxCQT4FAjEICOs) |
 
 ## Ho-Ho-Kus (Borough)
 
-_Obligation: 218 · Compliance: litigating · HEFSP: adopted 2025-06-01_
+_Obligation: 218 · Compliance: binding resolution accepting DCA numbers (no objections filed) · HEFSP: adopted 2025-05-08_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 619 North (619 N Maple Ave) | 619 N Maple Ave |  |  |  | inclusionary-rezoning |  |  | 10 |  | rental | built | low | [doc](https://www.piazzanj.com/property/619-north/) |
-| Franklin Turnpike R-6 Zone (New Zone) | Franklin Turnpike (between cemetery and Blauvelt Ave) |  |  | 1.5 | overlay |  |  |  |  |  | proposed | low | [doc](https://www.hhkborough.com/sites/g/files/vyhlif6801/f/minutes/02.24.2026_-_public_meeting_minutes.pdf) |
-| Downtown Inclusionary Overlay Zone (OL-1 through OL-4) | North Maple Ave / Warren Ave / Sheridan Ave / Sycamore Ave area |  |  |  | overlay | 9.3 |  |  |  |  | proposed | low | [doc](https://www.hhkborough.com/sites/g/files/vyhlif6801/f/minutes/02.24.2026_-_public_meeting_minutes.pdf) |
+| New Municipally-Sponsored Affordable Unit (Proposed) | Borough-owned or religious/non-profit property (TBD) |  |  |  | 100% affordable / municipally sponsored |  |  | 1 | 100.0% | rental | proposed | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hohokus-boro/Part1.pdf?VersionId=OkZrkIPXwoI7ij9hCAcrUQEhC01KLU6O) |
+| Downtown Inclusionary Overlay Zone (OL-1 through OL-4) | Borough Downtown (~23.5 acres) |  |  | 23.5 | inclusionary overlay | 6-15 |  | 56 | 20.0% |  | adopted (Ordinance 2017-10, July 25, 2017; amended March 27, 2018) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hohokus-boro/Part1.pdf?VersionId=OkZrkIPXwoI7ij9hCAcrUQEhC01KLU6O) |
+| Borough-Wide Mandatory Set-Aside Ordinance |  |  |  |  | mandatory set-aside ordinance | 6+ |  |  | 20.0% |  | adopted (amended March 27, 2018; to be further amended for rental set-aside to 20%) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hohokus-boro/Part1.pdf?VersionId=OkZrkIPXwoI7ij9hCAcrUQEhC01KLU6O) |
+| Brookside / BCUW (100% Affordable Family/Supportive Rental) | Brookside Avenue (near Ho-Ho-Kus rail station) | 1014 | 2.01 |  | 100% affordable / municipally sponsored |  | 13 | 14 | 100.0% | rental | completed (CO May 1, 2023) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hohokus-boro/Part1.pdf?VersionId=OkZrkIPXwoI7ij9hCAcrUQEhC01KLU6O) |
+| 111 First Street | 101-111 First Street | 1015 | 13.01 | 0.48 | inclusionary overlay (OL-1 Downtown Inclusionary Overlay) |  | 8 | 1 | 13.0% | rental | completed (CO August 5, 2024) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hohokus-boro/Part1.pdf?VersionId=OkZrkIPXwoI7ij9hCAcrUQEhC01KLU6O) |
+| 614 North Maple Avenue | 612-614 Maple Avenue | 1015 | 9 |  | inclusionary |  | 4 | 1 | 25.0% | rental | completed (CO February 22, 2021) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hohokus-boro/Part1.pdf?VersionId=OkZrkIPXwoI7ij9hCAcrUQEhC01KLU6O) |
+| The Crossings at Ho-Ho-Kus (619 N Maple Avenue) | 619 North Maple Avenue | 1016 | 3, 5, 11 |  | inclusionary |  | 63 | 10 | 16.0% | rental | completed (temporary CO August 5, 2024) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hohokus-boro/Part1.pdf?VersionId=OkZrkIPXwoI7ij9hCAcrUQEhC01KLU6O) |
+| Life Opportunities Unlimited Group Home (Ferris Court) | Ferris Court | 102 | 19 |  | group home / supportive housing |  |  | 4 | 100.0% | rental | under renovation (as of April 2025; conversion to 4-bedroom group home) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/hohokus-boro/Part1.pdf?VersionId=OkZrkIPXwoI7ij9hCAcrUQEhC01KLU6O) |
 
 ## Leonia (Borough)
 
@@ -539,25 +547,39 @@ _Obligation: 395 · Compliance: settled · HEFSP: adopted 2025-06-18_
 
 ## Ridgefield Park (Village)
 
-_Compliance: settled · HEFSP: adopted 2025-06-23_
+_Obligation: 126 · Compliance: settled · HEFSP: adopted 2025-06-23_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 95 Challenger Road | 95 Challenger Road, Ridgefield Park, NJ 07660 |  |  |  | redevelopment-area |  | 216 | 22 |  | rental | built | low | [doc](https://newyorkyimby.com/2025/10/216-unit-development-breaks-ground-at-95-challenger-road-in-ridgefield-park-new-jersey.html) |
-| 64 Challenger Road | 64 Challenger Road, Ridgefield Park, NJ 07660 |  |  |  | redevelopment-area |  | 600 | 60 | 10.0% | rental | proposed | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
-| 60 Challenger Road | 60 Challenger Road, Ridgefield Park, NJ 07660 |  |  |  | redevelopment-area |  | 552 | 56 |  | rental | approved | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
-| Mt. Vernon Street Redevelopment | Mt. Vernon Street area, Ridgefield Park, NJ 07660 |  |  |  | redevelopment-area |  |  | 27 |  |  | proposed | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
+| 9-13 Lincoln Avenue (Challenger Road Redevelopment District) | 9-13 Lincoln Avenue |  |  |  | redevelopment |  |  | 4 |  | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
+| 95 Challenger Road (Challenger Road Redevelopment District) | 95 Challenger Road |  |  |  | redevelopment |  | 216 | 22 |  | rental | approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
+| 64 Challenger Road (Challenger Road Redevelopment District) | 64 Challenger Road |  |  |  | redevelopment |  | 600 | 60 | 10.0% | rental | approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
+| Samsung Building, 85 Challenger Road (Challenger Road overlay) | 85 Challenger Road | 24.03 | 3.01 | 6.3 | inclusionary overlay |  | 250 | 50 | 20.0% | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
+| AMC Theatre, 75 Challenger Road (Challenger Road overlay) | 75 Challenger Road | 24.03 | 3.02 | 2.9 | inclusionary overlay |  | 140 | 28 | 20.0% | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
+| 60 Challenger Road (Challenger Road Redevelopment District) | 60 Challenger Road | 24.04 | 1 |  | redevelopment |  | 552 | 57 |  | rental | approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
+| 36 Mt. Vernon Street (Mt. Vernon Street Redevelopment Area) | 36 Mt. Vernon Street | 63 | 20, 21, 22, 23 |  | redevelopment |  | 28 | 0 |  | rental | approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
+| 30 Mt. Vernon Street (Mt. Vernon Street Redevelopment Area) | 30 Mt. Vernon Street (intersection of Mt. Vernon Street and Lincoln Avenue) | 64 | 12 | 0.25 | redevelopment |  | 40 | 6 | 15.0% | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
+| Disability Association of New Jersey (Mt. Vernon Street Redevelopment Area) | Mt. Vernon Street (adjacent to 30 Mt. Vernon Street) | 64 | 4, 15, 16 | 0.5 | redevelopment |  | 50 | 7 | 15.0% | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
+| TD Bank Building (Mt. Vernon Street area) | Main Street (northern edge of downtown) | 75 | 5.01, 8 |  | inclusionary overlay |  | 25 | 3 |  | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
+| 78 Mt. Vernon Street | 78 Mt. Vernon Street (north side, east of Main Street) | 80 | 23 |  | inclusionary overlay |  | 7 | 1 |  | rental | approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
+| Lincoln Court (Mt. Vernon Street Redevelopment Area) | Lincoln Avenue / Spruce / Hobart Streets | 86 | 1 |  | redevelopment |  | 70 | 14 | 20.0% | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
+| Elks Club (Mt. Vernon Street Redevelopment Area) | Spruce and Cedar Streets | 96 | 1 | 1.0 | redevelopment |  | 80 | 16 | 20.0% | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
 
 ## Ridgewood (Village)
 
-_Obligation: 4 · Compliance: litigating · HEFSP: adopted 2025-07-01_
+_Obligation: 427 · Compliance: settled · HEFSP: adopted 2025-06-23_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| The Enclave | 257 E. Ridgewood Ave., Ridgewood, NJ 07450 |  |  |  | 100pct-affordable |  |  |  |  | rental | built | low | [doc](https://theridgewoodblog.net/village-of-ridgewood-nj-slashes-affordable-housing-mandate-from-427-to-just-4-units/) |
-| Ridgewood Dayton | 150 S. Broad St., Ridgewood, NJ 07450 |  |  |  | inclusionary-rezoning |  |  |  |  | rental | built | low | [doc](https://theridgewoodblog.net/village-of-ridgewood-nj-slashes-affordable-housing-mandate-from-427-to-just-4-units/) |
-| Chestnut Village | 150-174 Chestnut St., Ridgewood, NJ 07450 |  |  |  | inclusionary-rezoning |  |  |  |  | rental | built | low | [doc](https://theridgewoodblog.net/village-of-ridgewood-nj-slashes-affordable-housing-mandate-from-427-to-just-4-units/) |
-| Kensington Senior Living at North Maple Avenue | North Maple Ave., Marshall St., and Franklin Ave., Ridgewood, NJ 07450 | 3611 | 1, 19, 22 | 1.3 | overlay |  | 125 | 13 | 10.0% | rental | proposed | low | [doc](https://ridgewood-united.com/the-proposal) |
+| Chestnut Street C-R-1 Inclusionary District (4th Round Unmet Need) | Chestnut Street |  |  | 4.18 | inclusionary overlay | 30.0 |  | 25 | 20.0% | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgewood-village/4thRoundAdoptedHousingPlan.pdf?VersionId=qJM0rLzgMeq5v63LgSsE6x80xC6CVTy5) |
+| Downtown B1 & B2 Districts (modified, 4th Round Unmet Need) | Franklin Avenue downtown district |  |  | 78.25 | inclusionary overlay | 20.0 |  | 313 | 20.0% | rental | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgewood-village/4thRoundAdoptedHousingPlan.pdf?VersionId=qJM0rLzgMeq5v63LgSsE6x80xC6CVTy5) |
+| Two-Forty Associates (4th Round RDP credit) | 150-174 Chestnut Street | 2005 | 3 | 1.246 | inclusionary redevelopment |  | 42 | 7 |  | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgewood-village/4thRoundAdoptedHousingPlan.pdf?VersionId=qJM0rLzgMeq5v63LgSsE6x80xC6CVTy5) |
+| 299 Goffle Road — TO-1 Townhouse Overlay (4th Round RDP generation site) | 299 Goffle Road | 2507 | 187.01 | 1.62 | inclusionary overlay | 13.0 |  | 4 | 20.0% | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgewood-village/4thRoundAdoptedHousingPlan.pdf?VersionId=qJM0rLzgMeq5v63LgSsE6x80xC6CVTy5) |
+| Valley Hospital Campus Redevelopment (3rd Round Unmet Need, ongoing) | 223 North Van Dien Avenue | 3301 | 51 |  | redevelopment | 13.0 |  | 40 |  | rental | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgewood-village/4thRoundAdoptedHousingPlan.pdf?VersionId=qJM0rLzgMeq5v63LgSsE6x80xC6CVTy5) |
+| Kensington Assisted Living (4th Round Unmet Need) | Corners of North Maple, Franklin Avenue and Marshall Street | 3611 | 1, 19, 22 | 1.25 | inclusionary overlay |  | 125 | 12 | 10.0% | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgewood-village/4thRoundAdoptedHousingPlan.pdf?VersionId=qJM0rLzgMeq5v63LgSsE6x80xC6CVTy5) |
+| The Enclave (4th Round RDP credit) | 257 Ridgewood Avenue | 3703 | 4, 6, 8.01 | 1.37 | inclusionary redevelopment |  | 40 | 6 | 15.0% | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgewood-village/4thRoundAdoptedHousingPlan.pdf?VersionId=qJM0rLzgMeq5v63LgSsE6x80xC6CVTy5) |
+| Ridgewood Dayton (4th Round RDP credit) | 100-152 South Broad Street | 3707, 3905 | 5.01 (Block 3707); 1.01 (Block 3905) | 2.67 | inclusionary redevelopment |  | 93 | 14 |  | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgewood-village/4thRoundAdoptedHousingPlan.pdf?VersionId=qJM0rLzgMeq5v63LgSsE6x80xC6CVTy5) |
+| AH-3 District (3rd Round Unmet Need, ongoing) | Ridge Road | 4704 | 6.01, 7.04, 15 | 5.4 | inclusionary overlay | 18.0 |  |  | 15.0% | rental | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgewood-village/4thRoundAdoptedHousingPlan.pdf?VersionId=qJM0rLzgMeq5v63LgSsE6x80xC6CVTy5) |
 
 ## River Edge (Borough)
 
@@ -630,12 +652,13 @@ _Obligation: 255 · Compliance: settled · HEFSP: adopted 2025-06-25_
 
 ## South Hackensack (Township)
 
-_Obligation: 181 · Compliance: settled · HEFSP: adopted 2025-06-30_
+_Obligation: 181 · Compliance: plan_adopted · HEFSP: adopted 2025-06-05_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Route 46 District Affordable Housing Overlay |  | 2.01 | 4.01, 4.02, 6.03, 6.04, 8.02, 8.04 |  | overlay |  |  |  | 15.0% |  | adopted-ordinance | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/south-hackensack-twp/SouthHackensackFourthRoundHousingElementFairSharePlan060225.PDF?VersionId=1uvvFxyUWrRXN0c_c8MSzFP6CjJwtxc8) |
 | Grove Street Overlay | 2 & 8 Grove Street | 3 | 17.02, 19 |  | overlay |  | 16 |  | 20.0% | rental | proposed | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/south-hackensack-twp/SouthHackensackFourthRoundHousingElementFairSharePlan060225.PDF?VersionId=1uvvFxyUWrRXN0c_c8MSzFP6CjJwtxc8) |
+| 2 & 8 Grove Street (Grove Street Overlay) | 2 & 8 Grove Street, South Hackensack, NJ | 3 | 17.02, 19 |  | inclusionary_overlay |  | 16 | 4 | 20.0% | rental | proposed_ordinance_amendment | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/south-hackensack-twp/SouthHackensackFourthRoundHousingElementFairSharePlan060225.PDF?VersionId=1uvvFxyUWrRXN0c_c8MSzFP6CjJwtxc8) |
 
 ## Teaneck (Township)
 
@@ -653,21 +676,28 @@ _Obligation: 645 · Compliance: certified · HEFSP: adopted (2026 amendment) 202
 
 ## Tenafly (Borough)
 
-_Obligation: 307 · Compliance: settled · HEFSP: adopted 2025-06-11_
+_Obligation: 365 · Compliance: plan_adopted · HEFSP: adopted 2025-06-11_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Tenafly Senior Housing | Intersection of West Clinton Avenue and Tenafly Road, Tenafly, NJ | 1008 | 2 |  | extension_of_controls |  | 34 | 24 | 100.0% | rental | ordinance_adopted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/tenafly-boro/61225TenaflyHousingElementandFairSharePlanAdopted061125Part1.pdf?VersionId=S_TDB542jrJpsgkCF0H4QeyVBlqmSOBB) |
+| Adoni West Railroad Avenue Site | 66 West Railroad Avenue, Tenafly, NJ | 1104 | 4 |  | inclusionary_approved |  | 40 | 6 | 15.0% | rental | site_plan_approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/tenafly-boro/61225TenaflyHousingElementandFairSharePlanAdopted061125Part1.pdf?VersionId=S_TDB542jrJpsgkCF0H4QeyVBlqmSOBB) |
+| Giesi 31 Central Avenue Site | 31 Central Avenue, Tenafly, NJ | 1104 | 7, 8 |  | inclusionary_approved |  | 10 | 2 | 20.0% | rental | site_plan_approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/tenafly-boro/61225TenaflyHousingElementandFairSharePlanAdopted061125Part1.pdf?VersionId=S_TDB542jrJpsgkCF0H4QeyVBlqmSOBB) |
 | North Summit Street Overlay (AHO-10) | North Summit Street, Tenafly, NJ | 1301 | 1, 3 |  | overlay |  |  |  |  |  | adopted-ordinance | medium | [doc](https://tenaflynj.gov/DocumentCenter/View/5602/Ordinance---25-33---North-Summit-Street?bidId=) |
+| RRD North Summit Street Site | 121-131 North Summit Street, Tenafly, NJ | 1301 | 1, 3 |  | inclusionary_approved |  | 112 | 16 | 15.0% | rental | site_plan_approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/tenafly-boro/61225TenaflyHousingElementandFairSharePlanAdopted061125Part1.pdf?VersionId=S_TDB542jrJpsgkCF0H4QeyVBlqmSOBB) |
+| 33 Engle Street Site | 33 Engle Street, Tenafly, NJ | 2006 | 7 | 0.75 | inclusionary_overlay | 12.0 | 8 | 2 | 25.0% | rental | rezoned | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/tenafly-boro/4168.04HousingElementandFairSharePlanAdopted021126CopyPart1.pdf?VersionId=gDBW6NCk36e8yiWO0r.OczuCP4tsZjkL) |
 | 1-11 Serpentine Road (MF-A-1 District) | 1-11 Serpentine Road, Tenafly, NJ | 715 | 11, 12, 13, 14 |  | 100pct-affordable |  | 16 | 16 | 100.0% | rental | adopted-ordinance | medium | [doc](https://www.tenaflynj.gov/DocumentCenter/View/3216/Ordinance---23-25---Land-Development-Regulations?bidId=) |
 | West Clinton Avenue Overlay (AHO-9) | West Clinton Avenue, Tenafly, NJ | 904 | 3, 4, 5, 6 |  | overlay |  |  |  |  |  | adopted-ordinance | medium | [doc](https://tenaflynj.gov/DocumentCenter/View/5571/Ordinance---25-32--West-Clinton-Ave-Ordinance?bidId=) |
+| West Clinton Avenue Overlay Site | Intersection of West Clinton Avenue and Franklin Street, Tenafly, NJ | 904 | 3, 4, 5, 6 | 1.28 | inclusionary_overlay |  | 13 | 3 | 23.0% | rental | ordinance_adopted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/tenafly-boro/4168.04HousingElementandFairSharePlanAdopted021126CopyPart1.pdf?VersionId=gDBW6NCk36e8yiWO0r.OczuCP4tsZjkL) |
 
 ## Upper Saddle River (Borough)
 
-_Compliance: settled · HEFSP: adopted 2025-06-11_
+_Obligation: 233 · Compliance: plan_adopted · HEFSP: adopted 2025-06-11_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | OL-5 Overlay Zone |  |  |  |  | overlay | 6.0 |  |  |  |  | adopted-ordinance | medium | [doc](https://usrtoday.org/DocumentCenter/View/991/Intro-Ord-06-26---USR-New-OL-5-Ordinance?bidId=) |
+| 10 Mountainview Road (Viewstar Site) | 10 Mountainview Road, Upper Saddle River, NJ 07458 |  |  | 18.85 | redevelopment | 7.0 | 132 | 26 | 20.0% | mixed | proposed_redevelopment | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/upper-saddle-river-boro/61225USRHousingElementandFairSharePlanADOPTED61125.pdf?VersionId=eBgLqLtAjq3Ae2HAxUhvJLg5dtUstaB1) |
 | 10 Mountainview Road (AH-6 District) | 10 Mountainview Road, Upper Saddle River, NJ 07458 | 1002 | 2 | 18.85 | inclusionary-rezoning | 7.2 |  |  | 20.0% | for-sale | adopted-ordinance | medium | [doc](https://usrtoday.org/DocumentCenter/View/1034/Intro-Ord8-26-USR-New-AH-6-10-Mtn-View?bidId=) |
 | Off-site Affordable Units (Block 1016) |  | 1016 | 2, 3, 4, 6 |  | municipal |  | 25 | 25 | 100.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/36972719) |
 | AH-5 District (Commons / Block 601) |  | 601 | 1.01 (proposed) | 38.65 | inclusionary-rezoning | 6.05 |  | 47 |  | for-sale | adopted-ordinance | medium | [doc](https://ecode360.com/36972719) |

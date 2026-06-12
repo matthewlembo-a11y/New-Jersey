@@ -1,0 +1,54 @@
+{
+  "municipality": "South Hackensack",
+  "research_status": "complete",
+  "obligation": {
+    "present_need": 7,
+    "prospective_need": 174,
+    "total_obligation": 181,
+    "rdp": 4,
+    "unmet_need": 170,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/south-hackensack-twp/SouthHackensackFourthRoundHousingElementFairSharePlan060225.PDF?VersionId=1uvvFxyUWrRXN0c_c8MSzFP6CjJwtxc8"
+  },
+  "compliance": {
+    "status": "plan_adopted",
+    "settlement_party": "FSHC",
+    "settlement_date": "2017-11-01",
+    "hefsp_status": "adopted",
+    "hefsp_adopted_date": "2025-06-05",
+    "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/south-hackensack-twp/SouthHackensackFourthRoundHousingElementFairSharePlan060225.PDF?VersionId=1uvvFxyUWrRXN0c_c8MSzFP6CjJwtxc8"
+  },
+  "notes": "DCA obligation accepted: Resolution 2025-01A (Jan 23 2025). HEFSP filed BER-L-000581-25 on 06/27/2025 (42 pages). Planner: Neglia Group (Anthony Kurus PE PP CME; Lyndsay Knight PP AICP). FSHC settlement signed November 1 (date per HEFSP text) or November 3, 2017. Fourth Round RDP is 4 units. Unmet Need of 170 units addressed via overlay extension (Grove Street Overlay). Present Need addressed by Bergen County Housing Rehabilitation Program.",
+  "sources": [
+    {
+      "label": "Fourth Round HEFSP (adopted June 5 2025)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/south-hackensack-twp/SouthHackensackFourthRoundHousingElementFairSharePlan060225.PDF?VersionId=1uvvFxyUWrRXN0c_c8MSzFP6CjJwtxc8",
+      "local_ocr": "sources/ocr/south-hackensack-twp__hefsp.txt"
+    }
+  ],
+  "sites": [
+    {
+      "site_name": "2 & 8 Grove Street (Grove Street Overlay)",
+      "address": "2 & 8 Grove Street, South Hackensack, NJ",
+      "block": "3",
+      "lot": "17.02, 19",
+      "acreage": null,
+      "mechanism": "inclusionary_overlay",
+      "current_zoning": "Affordable Housing Overlay District (existing)",
+      "proposed_zoning": "Grove Street Overlay (extension of Affordable Housing Overlay District)",
+      "density": null,
+      "total_units": 16,
+      "affordable_units": 4,
+      "set_aside_pct": 20,
+      "tenure": "rental",
+      "adoption_status": "proposed_ordinance_amendment",
+      "developer": "Eletherios Sakellaris",
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/south-hackensack-twp/SouthHackensackFourthRoundHousingElementFairSharePlan060225.PDF?VersionId=1uvvFxyUWrRXN0c_c8MSzFP6CjJwtxc8",
+      "source_page": "18-22",
+      "source_date": "2025-06-05",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Block 3, Lots 17.02 and 19 shall be included in the Overlay District. In addition, the ordinance shall be amended to allow up to 16 units with a 20% affordable unit set aside for these lots.",
+      "notes": "Site currently contains Foodies Restaurant (Lot 17.02) and a Two-Family residential dwelling (Lot 19), both owned by Eletherios Sakellaris. Owner has approached Township to develop a multi-family residential dwelling. The 4 RDP credits from this site satisfy the Township's entire Fourth Round RDP obligation. Additionally described at BER-L-000581-25 Pg 21-22: 'Block 3, Lots 17.02 & 19 to be hereafter known as Grove Street Overlay.'"
+    }
+  ]
+}
