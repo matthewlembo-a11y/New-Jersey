@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T12:45:50+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T12:48:20+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -642,13 +642,15 @@ _Obligation: 14 · Compliance: compliance order entered · HEFSP: adopted 2025-0
 
 ## Rutherford (Borough)
 
-_Compliance: settled · HEFSP: adopted 2025-06-12_
+_Obligation: 226 · Compliance: DJ action filed · HEFSP: adopted 2025-06-24_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| B-1 Overlay District |  |  |  |  | overlay |  |  |  | 20.0% |  | proposed | low | [doc](https://rutherfordboronj.com/government/codes-and-ordinances/recently-introduced-ordinances-2026/1292-ordinance-no-3753-26-affordable-housing-overlay-district/file) |
-| Orient Way Overlay District |  | 155 | 10, 11, 12, 28 |  | overlay |  |  |  |  |  | adopted-ordinance | medium | [doc](https://rutherfordboronj.com/government/codes-and-ordinances/2025-1/1284-ordinance-no-3741-26-affordable-housing-overlay-districts/file) |
-| Park Avenue Overlay District |  | 59 | 17 |  | overlay | 68.0 |  |  | 100.0% | rental | adopted-ordinance | medium | [doc](https://rutherfordboronj.com/government/codes-and-ordinances/2025-1/1284-ordinance-no-3741-26-affordable-housing-overlay-districts/file) |
+| Parker 2 (completed multifamily redevelopment) |  |  |  |  | redevelopment (inclusionary) — Fourth Round RDP credit |  | 62 | 9 |  |  | completed (2023) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rutherford-boro/RutherfordHEFSP2.pdf?VersionId=BqJqp34IVDwcEK1ff0WuisjL3i3BV_Lk) |
+| Williams Center Redevelopment Area |  |  |  |  | redevelopment (inclusionary) — Fourth Round RDP |  | 80 | 12 | 15.0% |  | redevelopment area designated; plan approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rutherford-boro/RutherfordHEFSP2.pdf?VersionId=BqJqp34IVDwcEK1ff0WuisjL3i3BV_Lk) |
+| Mandatory Affordable Housing Set-Aside Ordinance (borough-wide) |  |  |  |  | mandatory set-aside ordinance |  |  |  | 15.0% |  | adopted (Borough Code § 51-59, amended) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rutherford-boro/RutherfordHEFSP2.pdf?VersionId=BqJqp34IVDwcEK1ff0WuisjL3i3BV_Lk) |
+| Meadow Road Redevelopment Area |  | 169, 155, 221 | Block 169 Lots 2, 3, 27-41; Block 155 Lot 15.05; Block 221 Lot 3 | 4.0 | redevelopment (inclusionary) — prior round unmet need carryover | 30.0 |  |  | 20.0% |  | previously designated AINR; redevelopment plan agreed to be adopted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rutherford-boro/RutherfordHEFSP2.pdf?VersionId=BqJqp34IVDwcEK1ff0WuisjL3i3BV_Lk) |
+| Kip Avenue Redevelopment Area (100% affordable, planned) | 62 Kip Avenue | 74 | 17, 18, 18.01 |  | redevelopment (100% affordable) |  |  |  | 100.0% |  | redevelopment plan being drafted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rutherford-boro/RutherfordHEFSP2.pdf?VersionId=BqJqp34IVDwcEK1ff0WuisjL3i3BV_Lk) |
 
 ## Saddle Brook (Township)
 
@@ -663,12 +665,15 @@ _Obligation: 321 · Compliance: settled · HEFSP: adopted (amended) 2026-03-13_
 
 ## Saddle River (Borough)
 
-_Obligation: 255 · Compliance: settled · HEFSP: adopted 2025-06-25_
+_Obligation: 325 · Compliance: DJ action filed; 3rd Round settlement with FSHC (June 9, 2020) · HEFSP: adopted 2025-06-25_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 115 E. Allendale Road (Former Rosie O'Donnell Estate) | 115 East Allendale Road |  |  | 10.25 | inclusionary-rezoning |  | 54 | 8 | 15.0% | for-sale | approved | low | [doc](https://theridgewoodblog.net/final-countdown-saddle-river-to-vote-on-affordable-housing-plan-for-former-rosie-odonnell-estate-in-saddle-river/) |
-| Algonquin Trail Townhouse (Toll Brothers) | Algonquin Trail / West Saddle River Road | 1603 | 1, 2.01 | 7.2 | inclusionary-rezoning | 8.3 | 60 | 12 | 20.0% | for-sale | approved | medium | [doc](https://www.saddleriver.org/vertical/sites/%7B2E7E07BD-0A79-4A05-9B79-960D47AACDC0%7D/uploads/4166.02_Saddle_River_Draft_Housing_Element_and_Fair_Share_Plan_-_w_appendices_01.pdf) |
+| Boroline Road Overlay Zone (Block 1302 Lots 1.02, 1.03 & 1.04) — 3rd Round Unmet Need | Boroline Road | 1302 | 1.02, 1.03, 1.04 | 20.0 | inclusionary overlay (30 du/ac, 20% affordable) | 30.0 | 275 | 18 | 20.0% |  | site plan approved with conditions for Lot 1.04 (275 du incl. 18 family AH + 15 supportive housing); construction not yet commenced | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-river-boro/20250625SaddleRiverHEFSPAdopted.pdf?VersionId=TxKH0i9GFZ3rflIUf7IbP3UXQokQZCjw) |
+| O'Donnell Property (Block 1402 Lots 23, 24 & 25) — 3rd Round / Carries to 4th | E. Allendale Road | 1402 | 23, 24, 25 | 10.25 | inclusionary (Townhouse Inclusionary Housing District 1) | 5.85 | 60 | 8 |  | sale | site plan filed; hearings anticipated July 2025 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-river-boro/20250625SaddleRiverHEFSPAdopted.pdf?VersionId=TxKH0i9GFZ3rflIUf7IbP3UXQokQZCjw) |
+| Choctau Trail (Block 1601 Lots 10, 10.01 & 11) — 4th Round Unmet Need Component | Choctau Trail | 1601 | 10, 10.01, 11 | 7.18 | 100% affordable (4th Round unmet need share) | 12.2 | 111 | 32 | 100.0% | rental | site plan approved September 2021; under construction | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-river-boro/20250625SaddleRiverHEFSPAdopted.pdf?VersionId=TxKH0i9GFZ3rflIUf7IbP3UXQokQZCjw) |
+| Algonquin Trail Site (Block 1603 Lots 1 & 2.01) — 3rd Round / Carries to 4th | Algonquin Trail / West Saddle River Road | 1603 | 1, 2.01 | 7.2 | inclusionary (Townhouse Inclusionary Housing District 2) | 8.3 | 60 | 12 |  |  | site plan filed; public hearing commenced June 17, 2025 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-river-boro/20250625SaddleRiverHEFSPAdopted.pdf?VersionId=TxKH0i9GFZ3rflIUf7IbP3UXQokQZCjw) |
+| 20-22 East Allendale Road (AH-6 Zone / Block 1605 Lots 1 & 2) — 4th Round RDP Site | 20-22 East Allendale Road | 1605 | 1, 2 | 1.54 | 100% affordable | 27.2 | 42 | 42 | 100.0% | rental | Planning Board approved site plan for Lot 1 (23 units, Sept 2020); Lot 2 being added via rezoning | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-river-boro/20250625SaddleRiverHEFSPAdopted.pdf?VersionId=TxKH0i9GFZ3rflIUf7IbP3UXQokQZCjw) |
 
 ## South Hackensack (Township)
 
