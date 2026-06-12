@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T12:31:53+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T12:32:32+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -704,13 +704,18 @@ _Obligation: 233 · Compliance: plan_adopted · HEFSP: adopted 2025-06-11_
 
 ## Waldwick (Borough)
 
-_Obligation: 183 · Compliance: settled · HEFSP: adopted 2025-06-23_
+_Obligation: 183 · Compliance: plan_adopted · HEFSP: adopted 2025-06-23_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| AHO-1 Affordable Housing Overlay Zone-1 (Downtown / VC-3 zone) | Central business district, near Waldwick NJ Transit station, Waldwick, NJ |  |  |  | inclusionary_overlay | 15.0 |  |  | 20.0% | mixed | proposed_ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/waldwick-boro/WaldwickHEFSPFINALAdopted.pdf?VersionId=VraZQ9yYosesyVakczqPABhQJMyBtTed) |
 | AHO-2 Overlay Zone |  | 101 | 6.01 |  | overlay |  |  |  | 20.0% |  | adopted-ordinance | low | [doc](https://www.waldwicknj.gov/media/departments/administration/Affordable%20Housing/Waldwick%20HEFSP-FINAL%20ADOPTED%206-23-25.pdf) |
-| Harrison Avenue Redevelopment | Harrison Avenue / West Prospect Street, Waldwick, NJ | 107 | 1, 3, 5, 7, 8, 9, 10, 11 | 1.278 | redevelopment-area |  | 43 | 6 |  | rental | adopted-ordinance | medium | [doc](https://www.waldwicknj.gov/media/redevelopment/Plans/Waldwick-Harrison%20Avenue%20Redevelopment%20Plan%20ADOPTED%20Dec%202024.pdf) |
+| AHO-2 Affordable Housing Overlay Zone-2 | North side Wyckoff Ave (between Harrison Ave and Walter Hammond Place) and Hamilton Square (west side Franklin Turnpike north of North Street), Waldwick, NJ | 101 / 109.02 | 6.01 / 6.04 |  | inclusionary_overlay | 15.0 |  |  | 20.0% | mixed | prior_ordinance_18-2018 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/waldwick-boro/WaldwickHEFSPFINALAdopted.pdf?VersionId=VraZQ9yYosesyVakczqPABhQJMyBtTed) |
+| Harrison Avenue Redevelopment | Harrison Avenue, Waldwick, NJ | 107 | 1, 3, 5, 7, 8, 9, 10, 11 | 1.278 | redevelopment | 33.0 | 42 | 6 | 15.0% | rental | redevelopment_plan_adopted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/waldwick-boro/WaldwickHEFSPFINALAdopted.pdf?VersionId=VraZQ9yYosesyVakczqPABhQJMyBtTed) |
 | AHO-2 Overlay Zone (second parcel) |  | 109.02 | 6.04 |  | overlay |  |  |  | 20.0% |  | adopted-ordinance | low | [doc](https://www.waldwicknj.gov/media/departments/administration/Affordable%20Housing/Waldwick%20HEFSP-FINAL%20ADOPTED%206-23-25.pdf) |
+| Life Opportunities Unlimited Group Home | Waldwick, NJ | 134.01 | 9 |  | group_home |  |  | 4 | 100.0% | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/waldwick-boro/WaldwickHEFSPFINALAdopted.pdf?VersionId=VraZQ9yYosesyVakczqPABhQJMyBtTed) |
+| BCUW/Madeline Housing Partners Group Home | Waldwick, NJ | 163.16 | 18.01 |  | group_home |  |  | 8 | 100.0% | rental | approved_under_construction | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/waldwick-boro/WaldwickHEFSPFINALAdopted.pdf?VersionId=VraZQ9yYosesyVakczqPABhQJMyBtTed) |
+| 1 Franklin Turnpike | 1 Franklin Turnpike, Waldwick, NJ | 18.01 | 17 |  | inclusionary_approved |  | 11 | 2 | 18.0% | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/waldwick-boro/WaldwickHEFSPFINALAdopted.pdf?VersionId=VraZQ9yYosesyVakczqPABhQJMyBtTed) |
 | AHO-4 Overlay Zone (Block 301 Lot 3.05) |  | 301 | 3.05 |  | overlay |  |  |  |  |  | adopted-ordinance | low | [doc](https://www.waldwicknj.gov/media/departments/administration/Affordable%20Housing/03-05-2026--Waldwick-HEFSP-FEB-2026-amendment-ADOPTED-3-10-26.pdf) |
 
 ## Wallington (Borough)
