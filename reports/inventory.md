@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T03:24:28+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T03:24:47+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -299,6 +299,81 @@ _Obligation: 155 · Compliance: settled · HEFSP: adopted 2025-06-16_
 | MFO-2 Multifamily Overlay 2 (density increase) |  |  |  | 2.15 | overlay |  |  | 10 |  | rental | adopted-ordinance | medium | [doc](https://www.midlandparknj.gov/home/news/state-nj-mandated-affordable-housing-requirements-explanation) |
 | MFO-3 Multifamily Overlay 3 (new overlay zone, proposed) |  |  |  |  | overlay |  |  | 17 |  | rental | proposed | medium | [doc](https://www.midlandparknj.gov/home/news/state-nj-mandated-affordable-housing-requirements-explanation) |
 | 90 Midland Avenue – MARD Redevelopment District | 90 Midland Avenue, Midland Park, NJ 07432 | 45 | 9.01 |  | redevelopment-area |  |  | 5 |  |  | adopted-ordinance | medium | [doc](https://www.midlandparknj.gov/planning-board/pages/90-midland-avenue) |
+
+## Montvale (Borough)
+
+_Obligation: 235 · Compliance: litigating · HEFSP: adopted 2025-06-17_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Former Mercedes-Benz USA Site |  |  |  |  | inclusionary-rezoning |  | 308 | 44 |  | rental | approved | low | [doc](https://thepressgroup.net/montvale-affordable-housing-settlements-allow-for-615-new-housing-units/) |
+| Glenview Site |  |  |  |  | inclusionary-rezoning |  | 42 | 9 |  | rental | approved | low | [doc](https://thepressgroup.net/montvale-affordable-housing-settlements-allow-for-615-new-housing-units/) |
+| Former Sony Site |  |  |  | 7.0 | inclusionary-rezoning |  | 185 | 37 | 20.0% | rental | approved | low | [doc](https://thepressgroup.net/montvale-affordable-housing-settlements-allow-for-615-new-housing-units/) |
+| 2 Paragon Drive (Former A&P Campus) | 2 Paragon Drive, Montvale, NJ |  |  | 13.0 | inclusionary-rezoning |  | 80 | 16 | 20.0% | rental | approved | low | [doc](https://thepressgroup.net/montvale-affordable-housing-settlements-allow-for-615-new-housing-units/) |
+| Former KPMG Campus (Annie Sez / Overlay Zone Block 707 Lot 7 area) |  |  |  | 34.0 | overlay | 12.0 | 250 | 50 | 20.0% | rental | proposed | low | [doc](https://thepressgroup.net/judge-town-must-scrap-data-center-plan-on-affordables/) |
+
+## New Milford (Borough)
+
+_Compliance: settled · HEFSP: adopted 2025-05-20_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Block 501 / River Road Redevelopment (Lots 9 & 10) | River Road (C.R. 41), New Milford, NJ (frontage also on Dilworth Road) | 501 | 9, 10 | 4.165 | redevelopment-area |  | 160 | 32 | 20.0% | rental | adopted-ordinance | medium | [doc](https://www.newmilfordnj.gov/file/bb61b9b0-6d5f-11f0-8ef8-1351e530fbdf) |
+
+## North Arlington (Borough)
+
+_Obligation: 228 · Compliance: litigating · HEFSP: adopted 2025-07-28_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 165-173 Ridge Road (Ridge Road Redevelopment) | 165-173 Ridge Road, North Arlington, NJ | 23 | 24, 24.01, 25 |  | redevelopment-area |  | 15 |  |  |  | approved | low | [doc](https://www.northarlington.org/_Content/pdf/agendas/2025-07-28-PB-Agenda.pdf) |
+
+## Paramus (Borough)
+
+_Compliance: settled · HEFSP: adopted 2025-06-25_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 650 Winters Avenue | 650 Winters Avenue, Paramus, NJ 07652 | 6107 | 6 |  | inclusionary-rezoning |  |  |  |  |  | proposed | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/paramus-boro/ParamusHEFSP134.pdf?VersionId=9edtu2phSvLS7QKW02t_LKdxUyeyn5RK) |
+| Liger Crossing / A2 Enterprises (143 W. Ridgewood Ave & 697 Paramus Rd) | 143 W. Ridgewood Avenue / 697 Paramus Road, Paramus, NJ | 6701 | 6 and 7 | 4.0 | inclusionary-rezoning |  | 40 | 8 | 20.0% | for-sale | approved | low | [doc](https://theridgewoodblog.net/major-development-shift-former-paramus-garden-center-to-become-40-luxury-townhomes/) |
+
+## Park Ridge (Borough)
+
+_Obligation: 256 · Compliance: settled · HEFSP: adopted 2025-06-11_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 155 Park Avenue (Park Terrace Apartments expansion) | 155 Park Avenue, Park Ridge, NJ |  |  |  | inclusionary-rezoning |  | 16 | 3 |  | rental | approved | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/park-ridge-boro/4157.04ParkRidge4thRoundHEFSPADOPTED611258.5x11reducedPart1.pdf?VersionId=bqP7hZohhYHSiTJNiryrGihf.K.U2okK) |
+
+## Ramsey (Borough)
+
+_Compliance: settled · HEFSP: adopted 2025-06-18_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| R-5E Island Road Overlay District (Ord. 04-2026) | Island Road area, Ramsey, NJ (off Rt. 17 southbound exit) |  |  | 17.2 | overlay |  | 350 | 70 | 20.0% | rental | proposed | low | [doc](https://theridgewoodblog.net/is-your-neighborhood-changing-ramsey-proposes-major-new-housing-zone-on-island-road/) |
+| R-5F North Franklin Turnpike Overlay District (Ord. 05-2026) | North Franklin Turnpike, Ramsey, NJ |  |  |  | overlay |  |  |  |  |  | proposed | low | [doc](https://www.ramseynj.com/AgendaCenter/ViewFile/Minutes/_02112026-2067) |
+| R-5B Overlay / Former Ramsey Lumber Site | Island Road, Ramsey, NJ | 3801 and 3803 | Block 3801 Lots 1,8; Block 3803 Lot 1 | 7.1 | overlay | 20.0 | 140 |  |  | rental | adopted-ordinance | low | [doc](https://theridgewoodblog.net/is-your-neighborhood-changing-ramsey-proposes-major-new-housing-zone-on-island-road/) |
+| R-5C Overlay / 425 Island Road | 425 Island Road, Ramsey, NJ 07446 | 4201 | 5 and 6 | 8.57 | overlay | 8.2 | 79 | 11 |  | rental | adopted-ordinance | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ramsey-boro/61825RamseyFourthRoundHEFSPADOPTEDPart1.pdf?VersionId=qNhhlWBsizHu9kSQXWZl9cILgK.S4qFy) |
+
+## Ridgefield (Borough)
+
+_Compliance: settled · HEFSP: adopted 2025-06-18_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Maple Avenue / Grand Avenue Overlay Zone (OAR-A) | Northeast corner of Maple Avenue and Grand Avenue, Ridgefield, NJ | 401 | 1 and 2 |  | overlay |  |  |  |  |  | proposed | medium | [doc](https://www.ridgefieldnj.gov/vertical/Sites/%7BB4066A45-ED3A-4321-9A1B-3898EDEEE668%7D/uploads/November_10_2025.pdf) |
+
+## Ridgefield Park (Village)
+
+_Compliance: settled · HEFSP: adopted 2025-06-23_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 95 Challenger Road | 95 Challenger Road, Ridgefield Park, NJ 07660 |  |  |  | redevelopment-area |  | 216 | 22 |  | rental | built | low | [doc](https://newyorkyimby.com/2025/10/216-unit-development-breaks-ground-at-95-challenger-road-in-ridgefield-park-new-jersey.html) |
+| 64 Challenger Road | 64 Challenger Road, Ridgefield Park, NJ 07660 |  |  |  | redevelopment-area |  | 600 | 60 | 10.0% | rental | proposed | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
+| 60 Challenger Road | 60 Challenger Road, Ridgefield Park, NJ 07660 |  |  |  | redevelopment-area |  | 552 | 56 |  | rental | approved | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
+| Mt. Vernon Street Redevelopment | Mt. Vernon Street area, Ridgefield Park, NJ 07660 |  |  |  | redevelopment-area |  |  | 27 |  |  | proposed | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8) |
 
 ## Ridgewood (Village)
 

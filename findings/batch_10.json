@@ -1,0 +1,524 @@
+[
+  {
+    "municipality": "Paramus",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 254,
+      "prospective_need": 1000,
+      "total_obligation": null,
+      "rdp": 24,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/paramus-boro/ParamusHEFSP134.pdf?VersionId=9edtu2phSvLS7QKW02t_LKdxUyeyn5RK"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-25",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/paramus-boro/ParamusHEFSP134.pdf?VersionId=9edtu2phSvLS7QKW02t_LKdxUyeyn5RK"
+    },
+    "notes": "Planning Board unanimously adopted Fourth Round HEFSP on June 25, 2025. DCA calculated prospective need at 1,523 units, capped by statute at 1,000 units; HEFSP claims a vacant-land adjustment reducing the effective build obligation to 316 units (68% reduction). Earlier Third Round settlement with FSHC dated April 2019. Court docket BER-L-000529-25 filed 2025-06-27. Prospective need of 1,000 capped from 1,523. Two primary Fourth Round redevelopment-with-inclusionary sites identified: 650 Winters Avenue (Block 6107, Lot 6) and 143 W. Ridgewood Ave / 697 Paramus Rd (Block 6701, Lots 6 and 7, 'Liger Crossing' / A2 Enterprises). RDP of 24 units from changed-circumstance properties. Specific affordable unit counts and density for each site not confirmed in search snippets.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Borough of Paramus Fourth Round Housing Element and Fair Share Plan (NJ Courts Library)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/paramus-boro/ParamusHEFSP134.pdf?VersionId=9edtu2phSvLS7QKW02t_LKdxUyeyn5RK"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Borough of Paramus Fourth Round HEFSP Draft (paramusborough.gov)",
+        "url": "https://www.paramusborough.gov/DocumentCenter/View/5116/Paramus-4th-Round-DRAFT1-HEFSP-61725_B"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Borough of Paramus Ordinance #2025-17",
+        "url": "https://www.paramusborough.gov/ArchiveCenter/ViewFile/Item/556"
+      },
+      {
+        "doc_type": "news",
+        "title": "Paramus Drastically Reduces Affordable Housing Obligation by 68% in Latest Fair Share Plan",
+        "url": "https://theridgewoodblog.net/paramus-drastically-reduces-affordable-housing-obligation-by-68-in-latest-fair-share-plan/"
+      },
+      {
+        "doc_type": "news",
+        "title": "After Five Years, Paramus Reaches Settlement with Fair Share Housing Center (TAPinto)",
+        "url": "https://www.tapinto.net/towns/paramus/sections/government/articles/after-five-years-paramus-reaches-settlement-with-fair-share-housing-center"
+      },
+      {
+        "doc_type": "other",
+        "title": "NJ DCA 2025-2035 Affordable Housing Calculations",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "650 Winters Avenue",
+        "address": "650 Winters Avenue, Paramus, NJ 07652",
+        "block": "6107",
+        "lot": "6",
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/paramus-boro/ParamusHEFSP134.pdf?VersionId=9edtu2phSvLS7QKW02t_LKdxUyeyn5RK",
+        "source_date": "2025-06-25",
+        "confidence": "medium",
+        "notes": "Identified in HEFSP as redevelopment with inclusionary set-aside eligible for Fourth Round. Block/lot confirmed via NJ Parcels. Specific unit count and density not confirmed in search snippets."
+      },
+      {
+        "site_name": "Liger Crossing / A2 Enterprises (143 W. Ridgewood Ave & 697 Paramus Rd)",
+        "address": "143 W. Ridgewood Avenue / 697 Paramus Road, Paramus, NJ",
+        "block": "6701",
+        "lot": "6 and 7",
+        "acreage": 4.0,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 40,
+        "affordable_units": 8,
+        "set_aside_pct": 20,
+        "tenure": "for-sale",
+        "adoption_status": "approved",
+        "developer": "Liger Crossing LLC",
+        "source_url": "https://theridgewoodblog.net/major-development-shift-former-paramus-garden-center-to-become-40-luxury-townhomes/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "40-unit townhome development approved by Planning Board. 8 affordable units per news sources. Block 6701, Lots 6 and 7 confirmed via njparcels.com and Paramus Planning Board site plan document. Set-aside pct (20%) inferred from 8/40 units; treat as low confidence until confirmed in HEFSP text. Former garden center at signalized intersection of Paramus Road and West Ridgewood Avenue."
+      }
+    ]
+  },
+  {
+    "municipality": "Park Ridge",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 137,
+      "prospective_need": 119,
+      "total_obligation": 256,
+      "rdp": 3,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/park-ridge-boro/4157.04ParkRidge4thRoundHEFSPADOPTED611258.5x11reducedPart1.pdf?VersionId=bqP7hZohhYHSiTJNiryrGihf.K.U2okK"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-11",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/park-ridge-boro/4157.04ParkRidge4thRoundHEFSPADOPTED611258.5x11reducedPart1.pdf?VersionId=bqP7hZohhYHSiTJNiryrGihf.K.U2okK"
+    },
+    "notes": "HEFSP dated May 27, 2025, adopted at Planning Board public hearing June 11, 2025. Docket BER-L-000723-25. Borough adopted binding resolution January 28, 2025, committing to 137 present-need and 119 prospective-need (reduced from DCA figure of 124 for prospective based on Borough's Land Capacity Factor analysis). Court order issued June 16, 2025 by Judge Gregg A. Padovano confirmed 119 prospective need. Settlement conference March 31, 2025 with NJBA yielded no settlement; Program recommended 124 prospective need; court ultimately sided with Borough at 119. Amendment to HEFSP filed June 19, 2025 to conform to court order. RDP is 3 affordable units from one site: 155 Park Avenue (Park Terrace Apartments) based on approved 16-unit addition. No FSHC settlement documented in search results for Fourth Round; challenge was from NJBA. Affordability program relies heavily on Bergen County BCHIP rehabilitation.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Park Ridge 4th Round HEFSP Adopted June 11 2025 (NJ Courts Library)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/park-ridge-boro/4157.04ParkRidge4thRoundHEFSPADOPTED611258.5x11reducedPart1.pdf?VersionId=bqP7hZohhYHSiTJNiryrGihf.K.U2okK"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Amendment to Adopted Park Ridge 2025 HEFSP (June 19, 2025) - parkridgeboro.com",
+        "url": "https://parkridgeboro.com/component/fileman/?view=file&routed=1&itemless=1&name=4157.04+Amendment+to+Adopted+Park+Ridge+2025+HEFSP+-+6-19-25+-+FINAL.pdf&folder=2025/06&container=fileman-files"
+      },
+      {
+        "doc_type": "other",
+        "title": "Park Ridge NJ - Adoption of The Borough's 2025 Housing Element & Fair Share Plan",
+        "url": "https://parkridgeboro.com/government/news/657-adoption-of-the-boroughs-2025-housing-element-fair-share-plan"
+      },
+      {
+        "doc_type": "news",
+        "title": "Vacant land adjustment slashes affordable housing obligation (Pascack Press)",
+        "url": "https://thepressgroup.net/vacant-land-adjustment-slashes-affordable-housing-obligation/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Fast track or detour? Pascack Valley towns diverge on affordable housing plans (Pascack Press)",
+        "url": "https://thepressgroup.net/fast-track-or-detour-pascack-valley-towns-diverge-on-affordable-housing-plans/"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "155 Park Avenue (Park Terrace Apartments expansion)",
+        "address": "155 Park Avenue, Park Ridge, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 16,
+        "affordable_units": 3,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/park-ridge-boro/4157.04ParkRidge4thRoundHEFSPADOPTED611258.5x11reducedPart1.pdf?VersionId=bqP7hZohhYHSiTJNiryrGihf.K.U2okK",
+        "source_date": "2025-06-11",
+        "confidence": "medium",
+        "notes": "Only parcel identified in vacant land analysis; 2023 approval for 16 additional units generating 2-3 affordable units (RDP = 3 per HEFSP text). Block/lot not confirmed in search results. Set-aside pct not stated explicitly."
+      }
+    ]
+  },
+  {
+    "municipality": "Ramsey",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 51,
+      "prospective_need": 450,
+      "total_obligation": null,
+      "rdp": 24,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ramsey-boro/61825RamseyFourthRoundHEFSPADOPTEDPart1.pdf?VersionId=qNhhlWBsizHu9kSQXWZl9cILgK.S4qFy"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2025-03-28",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-18",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ramsey-boro/61825RamseyFourthRoundHEFSPADOPTEDPart1.pdf?VersionId=qNhhlWBsizHu9kSQXWZl9cILgK.S4qFy"
+    },
+    "notes": "DCA calculated present need = 51, prospective need = 503. Borough resolution January 22, 2025 committed to 51 present need but challenged prospective need, claiming 351 based on Land Capacity Factor errors. Settlement conference March 17, 2025 resulted in FSHC mediation agreement March 28, 2025 setting prospective need at 450. HEFSP adopted June 18, 2025. Second settlement December 12, 2025 with FSHC and developer North Franklin LLC settling challenge to HEFSP. Three implementing ordinances adopted/proposed for early 2026: Ord. 04-2026 (R-5E Island Road Overlay, 17.2 ac, 70 affordable, 350 total), Ord. 05-2026 (R-5F North Franklin Turnpike Overlay), Ord. 06-2026 (Mandatory Set-Aside). Existing R-5B overlay (Block 3801 Lots 1 & 8, Block 3803 Lot 1, former Ramsey Lumber, 7.1 ac, 140 units) established 2018. R-5C overlay (Block 4201, Lots 5 and 6, 425 Island Rd, 8.57 ac, 70 age-restricted units, 8.2 units/ac density) adopted June 2025.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Ramsey Borough Fourth Round HEFSP Adopted June 18, 2025 (NJ Courts Library)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ramsey-boro/61825RamseyFourthRoundHEFSPADOPTEDPart1.pdf?VersionId=qNhhlWBsizHu9kSQXWZl9cILgK.S4qFy"
+      },
+      {
+        "doc_type": "other",
+        "title": "Ramsey Planning Board Minutes June 17, 2025",
+        "url": "https://www.ramseynj.com/AgendaCenter/ViewFile/Minutes/_06172025-1964"
+      },
+      {
+        "doc_type": "other",
+        "title": "Ramsey Borough Mayor and Council Regular Session Minutes Feb 11, 2026",
+        "url": "https://www.ramseynj.com/AgendaCenter/ViewFile/Minutes/_02112026-2067"
+      },
+      {
+        "doc_type": "news",
+        "title": "Is Your Neighborhood Changing? Ramsey Proposes Major New Housing Zone on Island Road (Ridgewood Blog)",
+        "url": "https://theridgewoodblog.net/is-your-neighborhood-changing-ramsey-proposes-major-new-housing-zone-on-island-road/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Ramsey Borough Council Faces Community Backlash Over Housing Developments (LocalLens)",
+        "url": "https://thelocallens.org/ramsey-borough-council-faces-community-backlash-over-housing-developments-and-zoning-changes/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Ramsey Residents Voice Concerns Over Proposed Island Road Overlay Zoning (LocalLens)",
+        "url": "https://thelocallens.org/ramsey-residents-voice-concerns-over-proposed-island-road-overlay-zoning/"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "R-5B Overlay / Former Ramsey Lumber Site",
+        "address": "Island Road, Ramsey, NJ",
+        "block": "3801 and 3803",
+        "lot": "Block 3801 Lots 1,8; Block 3803 Lot 1",
+        "acreage": 7.1,
+        "mechanism": "overlay",
+        "current_zoning": "B-3 Highway Commercial",
+        "proposed_zoning": "R-5B Island Road Multifamily Residential Overlay",
+        "density": 20.0,
+        "total_units": 140,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://theridgewoodblog.net/is-your-neighborhood-changing-ramsey-proposes-major-new-housing-zone-on-island-road/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Established in 2018 per news sources. Block/lot from HEFSP snippet. 140 total units; affordable unit count and set-aside pct not confirmed in search results."
+      },
+      {
+        "site_name": "R-5C Overlay / 425 Island Road",
+        "address": "425 Island Road, Ramsey, NJ 07446",
+        "block": "4201",
+        "lot": "5 and 6",
+        "acreage": 8.57,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "R-5C Island Road Multifamily Residential Overlay (age-restricted)",
+        "density": 8.2,
+        "total_units": 79,
+        "affordable_units": 11,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ramsey-boro/61825RamseyFourthRoundHEFSPADOPTEDPart1.pdf?VersionId=qNhhlWBsizHu9kSQXWZl9cILgK.S4qFy",
+        "source_date": "2025-06-18",
+        "confidence": "medium",
+        "notes": "Created June 2025. Age-restricted (55+). Block/lot from HEFSP snippet confirmed via njparcels.com. Density 8.2 units/ac from HEFSP. 79 total units and 11 affordable units stated in LocalLens article. One source states 70 affordable units for this zone vs 11; the 70 may refer to the broader R-5E zone. Use with caution."
+      },
+      {
+        "site_name": "R-5E Island Road Overlay District (Ord. 04-2026)",
+        "address": "Island Road area, Ramsey, NJ (off Rt. 17 southbound exit)",
+        "block": null,
+        "lot": null,
+        "acreage": 17.2,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "R-5E Island Road Multifamily Residential Overlay",
+        "density": null,
+        "total_units": 350,
+        "affordable_units": 70,
+        "set_aside_pct": 20,
+        "tenure": "rental",
+        "adoption_status": "proposed",
+        "developer": "North Franklin LLC (intervenor/settlement party)",
+        "source_url": "https://theridgewoodblog.net/is-your-neighborhood-changing-ramsey-proposes-major-new-housing-zone-on-island-road/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Proposed via Ordinance 04-2026, introduced Feb 2026, final vote March 4, 2026. 17.2 acres; 350 total units zoning capacity; at least 70 affordable units required per Dec 12, 2025 FSHC/North Franklin mediation agreement. Set-aside pct of 20% inferred from 70/350; not explicitly confirmed. Block/lot not confirmed."
+      },
+      {
+        "site_name": "R-5F North Franklin Turnpike Overlay District (Ord. 05-2026)",
+        "address": "North Franklin Turnpike, Ramsey, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "R-5F North Franklin Turnpike Multifamily Residential Overlay",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://www.ramseynj.com/AgendaCenter/ViewFile/Minutes/_02112026-2067",
+        "source_date": "2026-02-11",
+        "confidence": "low",
+        "notes": "Ordinance 05-2026 proposed alongside R-5E and mandatory set-aside Ord. 06-2026. Specific acreage, units, and block/lot not confirmed in search results."
+      }
+    ]
+  },
+  {
+    "municipality": "Ridgefield",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": null,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.ridgefieldnj.gov/"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2019-04-23",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-18",
+      "hefsp_url": null
+    },
+    "notes": "Borough of Ridgefield (not Ridgefield Park) has a Fourth Round Housing and Fair Share Plan dated June 18, 2025, referenced in Ordinance No. 2524 (introduced November 2025) which creates a Maple Avenue / Grand Avenue Affordable Housing Zone (OAR-A Overlay Affordable Residential Zone) implementing both the Round 3 settlement and Round 4 HEFSP. Third Round Settlement Agreement with Fair Share Housing dated April 23, 2019 (docket BER-L-6439-15, Bergen County Superior Court Order July 12, 2019). No HEFSP PDF for Ridgefield Borough (as distinct from Ridgefield Park) was found in the NJ Courts library search results. Specific present-need and prospective-need numbers not confirmed in search results. Block 401, Lots 1 and 2 identified as the OAR-A zone site (northeast corner of Maple and Grand Avenue). The HEFSP document itself was not indexed in search results; a fetch-blocked URL at library.njcourts.gov/bergen/ridgefield-boro/ was not found. Obligation numbers should be verified directly from DCA spreadsheet or municipal website.",
+    "sources": [
+      {
+        "doc_type": "ordinance",
+        "title": "Borough of Ridgefield Agenda Nov 10 2025 (Ordinance 2524 introduction - Maple Ave / Grand Ave AH Zone)",
+        "url": "https://www.ridgefieldnj.gov/vertical/Sites/%7BB4066A45-ED3A-4321-9A1B-3898EDEEE668%7D/uploads/November_10_2025.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Ridgefield December 8 2025 Council Minutes (Ordinance 2524 hearing)",
+        "url": "https://www.ridgefieldnj.gov/vertical/sites/%7BB4066A45-ED3A-4321-9A1B-3898EDEEE668%7D/uploads/December_8_2025_Public_Session_Meeting-APPROVED.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents Index - NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      },
+      {
+        "doc_type": "other",
+        "title": "Affordable Housing - Borough of Ridgefield, NJ (eCode360)",
+        "url": "https://ecode360.com/9122495"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Maple Avenue / Grand Avenue Overlay Zone (OAR-A)",
+        "address": "Northeast corner of Maple Avenue and Grand Avenue, Ridgefield, NJ",
+        "block": "401",
+        "lot": "1 and 2",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": "District-A Single Family Residence",
+        "proposed_zoning": "OAR-A Overlay Affordable Residential Zone",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://www.ridgefieldnj.gov/vertical/Sites/%7BB4066A45-ED3A-4321-9A1B-3898EDEEE668%7D/uploads/November_10_2025.pdf",
+        "source_date": "2025-11-10",
+        "confidence": "medium",
+        "notes": "Block 401, Lots 1 and 2 at northeast corner of Maple and Grand Avenue per ordinance title snippet. Ordinance 2524 introduced November 2025, public hearing December 2025. Purpose is multifamily/medium density affordable housing to comply with Round 3 settlement and Round 4 HEFSP. Total units and affordable unit count not found in search results."
+      }
+    ]
+  },
+  {
+    "municipality": "Ridgefield Park",
+    "research_status": "done",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": 126,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2021-06-24",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-23",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8"
+    },
+    "notes": "Village of Ridgefield Park (NJ Courts docket BER-L-6143-15). Third Round Settlement Agreement with FSHC dated 2018, amended June 24, 2021. Fourth Round HEFSP public hearing held June 23, 2025 in Village Municipal Building; Plan may have been adopted at that hearing. Prospective need reported as 126 units but Village requested lack-of-vacant-land adjustment to markedly reduce build obligation. Village binding resolution dated January 14, 2025 accepted DCA calculated numbers. Present-need (rehabilitation) number not confirmed in search results. Plan addresses obligation principally through Challenger Road redevelopment and Mt. Vernon Street Redevelopment. 85 affordable units total planned: 27 from Mt. Vernon St. Redevelopment, 58 from Challenger Road. Third Round prospective need was 259 units.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Village of Ridgefield Park Fourth Round Housing Plan Element (NJ Courts Library, filed 6/23/2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8"
+      },
+      {
+        "doc_type": "other",
+        "title": "Village Master Plan, Housing Plans and Adopted Zoning Ordinance - ridgefieldpark.org",
+        "url": "https://www.ridgefieldpark.org/home/pages/village-master-plan-housing-plans-and-adopted-zoning-ordinance"
+      },
+      {
+        "doc_type": "other",
+        "title": "Village of Ridgefield Park, NJ: Affordable Housing Requirements (eCode360)",
+        "url": "https://ecode360.com/45299408"
+      },
+      {
+        "doc_type": "news",
+        "title": "Multifamily Development Breaks Ground At 95 Challenger Road (New York YIMBY, Oct 2025)",
+        "url": "https://newyorkyimby.com/2025/10/216-unit-development-breaks-ground-at-95-challenger-road-in-ridgefield-park-new-jersey.html"
+      },
+      {
+        "doc_type": "news",
+        "title": "KABR Group, Hornrock Properties Break Ground on 95 Challenger Road (Yield PRO, Dec 2025)",
+        "url": "https://yieldpro.com/2025/12/challenger-road"
+      },
+      {
+        "doc_type": "news",
+        "title": "Ground Broken on 216-Unit Development at 95 Challenger Road (Jersey Digs)",
+        "url": "https://jerseydigs.com/95-challenger-road-ridgefield-park-development/"
+      },
+      {
+        "doc_type": "news",
+        "title": "JLL: Ridgefield Park site approved for 552-unit rental project on the market for sale (Real Estate NJ)",
+        "url": "https://re-nj.com/jll-ridgefield-park-site-approved-for-552-unit-rental-project-on-the-market-for-sale/"
+      },
+      {
+        "doc_type": "news",
+        "title": "19-Story Mixed-Use Building Could Rise Near N.J. Turnpike at 60 Challenger Road (Jersey Digs)",
+        "url": "https://jerseydigs.com/19-story-mixed-use-building-proposed-60-challenger-road-ridgefield-park/"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "95 Challenger Road",
+        "address": "95 Challenger Road, Ridgefield Park, NJ 07660",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 216,
+        "affordable_units": 22,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "built",
+        "developer": "KABR Group / Hornrock Properties",
+        "source_url": "https://newyorkyimby.com/2025/10/216-unit-development-breaks-ground-at-95-challenger-road-in-ridgefield-park-new-jersey.html",
+        "source_date": "2025-10-01",
+        "confidence": "low",
+        "notes": "Six-story, 216-unit building; 22 affordable units with 30-year deed restriction. Groundbreaking October 2025. Previously approved prior to UHAC; deed-restricted affordability noted. HEFSP cites this as site most likely to begin construction first. Block/lot not confirmed."
+      },
+      {
+        "site_name": "64 Challenger Road",
+        "address": "64 Challenger Road, Ridgefield Park, NJ 07660",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 600,
+        "affordable_units": 60,
+        "set_aside_pct": 10,
+        "tenure": "rental",
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8",
+        "source_date": "2025-06-23",
+        "confidence": "medium",
+        "notes": "600 units in two phases; 60 affordable with 30-year deed restriction. Requires NJDEP permitting and remediation for existing landfill. Set-aside pct of 10% inferred from 60/600; treat as low confidence. Previously approved prior to UHAC. Block/lot not confirmed."
+      },
+      {
+        "site_name": "60 Challenger Road",
+        "address": "60 Challenger Road, Ridgefield Park, NJ 07660",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 552,
+        "affordable_units": 56,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "Spector Companies",
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8",
+        "source_date": "2025-06-23",
+        "confidence": "medium",
+        "notes": "Site plan approved 2020 for 552 units; Village Planning Board granted extension of approvals to 2026. HEFSP cites 56 affordable units from this site. Marketing by JLL as of 2025. One search snippet cited 10% set-aside (approx 55/552); HEFSP snippet states 56 affordable units. Block/lot not confirmed."
+      },
+      {
+        "site_name": "Mt. Vernon Street Redevelopment",
+        "address": "Mt. Vernon Street area, Ridgefield Park, NJ 07660",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": 27,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-park-village/62325RidgefieldParkRd4HEFSPforProgramreviewPart1.pdf?VersionId=BGW5gJ8uWYGrD2nDVrR6obzRYpao95T8",
+        "source_date": "2025-06-23",
+        "confidence": "medium",
+        "notes": "HEFSP addresses need through Mt. Vernon Street Redevelopment Plan providing at least 27 affordable units. Total units, block/lot, and tenure not confirmed in search results."
+      }
+    ]
+  }
+]

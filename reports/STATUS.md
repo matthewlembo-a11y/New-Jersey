@@ -1,9 +1,9 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T03:24:28+00:00_
+_Generated 2026-06-12T03:24:47+00:00_
 
-- Municipalities: **70/70**  (done: 26, in_progress: 19, blocked: 0, not_started: 25)
-- Sites catalogued: **122**
+- Municipalities: **70/70**  (done: 32, in_progress: 21, blocked: 2, not_started: 15)
+- Sites catalogued: **141**
 
 | # | Municipality | Status | Sites | Oblig. | Compliance | HEFSP | Last researched |
 |---|---|---|---|---|---|---|---|
@@ -42,21 +42,21 @@ _Generated 2026-06-12T03:24:28+00:00_
 | 33 | Mahwah | done | 4 | 495 | settled | adopted | 2026-06-12T03:22:08+00:00 |
 | 34 | Maywood | done | 2 | 143 | settled | adopted | 2026-06-12T03:22:08+00:00 |
 | 35 | Midland Park | done | 3 | 155 | settled | adopted | 2026-06-12T03:22:08+00:00 |
-| 36 | Montvale | not_started | 0 |  |  |  |  |
-| 37 | Moonachie | not_started | 0 |  |  |  |  |
-| 38 | New Milford | not_started | 0 |  |  |  |  |
-| 39 | North Arlington | not_started | 0 |  |  |  |  |
-| 40 | Northvale | not_started | 0 |  |  |  |  |
+| 36 | Montvale | done | 5 | 235 | litigating | adopted | 2026-06-12T03:24:41+00:00 |
+| 37 | Moonachie | blocked | 0 |  |  |  | 2026-06-12T03:24:41+00:00 |
+| 38 | New Milford | done | 1 |  | settled | adopted | 2026-06-12T03:24:41+00:00 |
+| 39 | North Arlington | in_progress | 1 | 228 | litigating | adopted | 2026-06-12T03:24:41+00:00 |
+| 40 | Northvale | blocked | 0 |  |  |  | 2026-06-12T03:24:41+00:00 |
 | 41 | Norwood | not_started | 0 |  |  |  |  |
 | 42 | Oakland | not_started | 0 |  |  |  |  |
 | 43 | Old Tappan | not_started | 0 |  |  |  |  |
 | 44 | Oradell | not_started | 0 |  |  |  |  |
 | 45 | Palisades Park | not_started | 0 |  |  |  |  |
-| 46 | Paramus | not_started | 0 |  |  |  |  |
-| 47 | Park Ridge | not_started | 0 |  |  |  |  |
-| 48 | Ramsey | not_started | 0 |  |  |  |  |
-| 49 | Ridgefield | not_started | 0 |  |  |  |  |
-| 50 | Ridgefield Park | not_started | 0 |  |  |  |  |
+| 46 | Paramus | done | 2 |  | settled | adopted | 2026-06-12T03:24:41+00:00 |
+| 47 | Park Ridge | done | 1 | 256 | settled | adopted | 2026-06-12T03:24:41+00:00 |
+| 48 | Ramsey | done | 4 |  | settled | adopted | 2026-06-12T03:24:41+00:00 |
+| 49 | Ridgefield | in_progress | 1 |  | settled | adopted | 2026-06-12T03:24:41+00:00 |
+| 50 | Ridgefield Park | done | 4 |  | settled | adopted | 2026-06-12T03:24:41+00:00 |
 | 51 | Ridgewood | in_progress | 4 | 4 | litigating | adopted | 2026-06-12T03:24:13+00:00 |
 | 52 | River Edge | in_progress | 3 | 192 | settled | adopted | 2026-06-12T03:24:13+00:00 |
 | 53 | River Vale | done | 3 | 228 | settled | adopted | 2026-06-12T03:24:13+00:00 |

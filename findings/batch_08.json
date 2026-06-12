@@ -1,0 +1,402 @@
+[
+  {
+    "municipality": "Montvale",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 30,
+      "prospective_need": 205,
+      "total_obligation": 235,
+      "rdp": 3,
+      "unmet_need": 202,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/montvale-boro/61725MontvaleAdoptedRd4PlanAppendixforProgramXxPart1.pdf?VersionId=PZqbu6b1jPmF9JfYwFbJwhzj.5QBIkpB"
+    },
+    "compliance": {
+      "status": "litigating",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-17",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/montvale-boro/61725MontvaleAdoptedRd4PlanAppendixforProgramXxPart1.pdf?VersionId=PZqbu6b1jPmF9JfYwFbJwhzj.5QBIkpB"
+    },
+    "notes": "DCA initial prospective need was 348 units; borough contested and adopted 205 units with RDP of only 3 (vacant land adjustment), leaving 202 units as unmet need. Planning Board adopted HEFSP June 17, 2025; Borough Council endorsed June 24, 2025; filed June 30, 2025. FSHC challenged plan (one of 16 towns challenged statewide, 6 in Bergen County). Borough also joined Local Leaders for Responsible Planning coalition lawsuit challenging the state AH law — dismissed with prejudice. A separate Fourth Round overlay/KPMG site dispute resulted in a judge (Feb 10, 2026 ruling) requiring borough to retain former KPMG site (34 acres, SHG Montvale MB VI LLC) as inclusionary housing site with up to 250 units / 50 affordable, or find equivalent alternative within 3 yrs. Note: the 615-unit / 106-affordable Round 3 settlement (Mercedes, Sony, A&P sites) was approved Jan 2025 and carries a 44-unit surplus that partially offsets Round 4 obligation.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "2025 Housing Element & Fair Share Plan — Borough of Montvale (Adopted)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/montvale-boro/61725MontvaleAdoptedRd4PlanAppendixforProgramXxPart1.pdf?VersionId=PZqbu6b1jPmF9JfYwFbJwhzj.5QBIkpB"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Montvale Planning Board Resolution Adopting the Fourth Round HEFSP",
+        "url": "https://montvale.org/meetings/forms-documents/department-documents/planning-board/planning-board-documents/1749-resolution-adopting-the-fourth-round-housing-element-fair-share-plan/file"
+      },
+      {
+        "doc_type": "other",
+        "title": "Montvale affordable housing: 615 new housing units (Pascack Press)",
+        "url": "https://thepressgroup.net/montvale-affordable-housing-settlements-allow-for-615-new-housing-units/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Borough slashes housing plan from 348 units to 3 (Pascack Press)",
+        "url": "https://thepressgroup.net/borough-slashes-housing-plan-from-348-units-to-3/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Judge: Town must scrap data center plan on affordables (Pascack Press)",
+        "url": "https://thepressgroup.net/judge-town-must-scrap-data-center-plan-on-affordables/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Montvale Signs Settlement Agreement Allowing Developer to Build Massive Data Center Instead of Affordable Housing — FSHC",
+        "url": "https://www.fairsharehousing.org/press-release/montvale-signs-settlement-agreement-allowing-developer-to-build-massive-data-center-instead-of-affordable-housing/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Montvale Affordable Housing — Borough Website",
+        "url": "https://www.montvale.org/resident/affordable-housing"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Former Mercedes-Benz USA Site",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 308,
+        "affordable_units": 44,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "S. Hekemian Group",
+        "source_url": "https://thepressgroup.net/montvale-affordable-housing-settlements-allow-for-615-new-housing-units/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Part of Round 3 settlement approved by judge Jan 2025; 308 units total at Mercedes site with 44 affordable. Part of larger Hekemian 55-acre parcel assemblage."
+      },
+      {
+        "site_name": "Glenview Site",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 42,
+        "affordable_units": 9,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "S. Hekemian Group",
+        "source_url": "https://thepressgroup.net/montvale-affordable-housing-settlements-allow-for-615-new-housing-units/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "42 units / 9 affordable. Part of Round 3 settlement with Hekemian (Mercedes-Benz + Glenview = 350 total, 53 affordable)."
+      },
+      {
+        "site_name": "Former Sony Site",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": 7.0,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 185,
+        "affordable_units": 37,
+        "set_aside_pct": 20,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "Hornrock Properties",
+        "source_url": "https://thepressgroup.net/montvale-affordable-housing-settlements-allow-for-615-new-housing-units/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "185 units on 7 acres of 37-acre Sony campus (7 acres within borough borders). 37 affordable units. Round 3 settlement. Hearing for site plan set for Jan 2 per local news."
+      },
+      {
+        "site_name": "2 Paragon Drive (Former A&P Campus)",
+        "address": "2 Paragon Drive, Montvale, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": 13.0,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 80,
+        "affordable_units": 16,
+        "set_aside_pct": 20,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "2 Paragon Drive LLC",
+        "source_url": "https://thepressgroup.net/montvale-affordable-housing-settlements-allow-for-615-new-housing-units/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "80 units on 13 acres / 16 affordable. Round 3 settlement approved Jan 2025."
+      },
+      {
+        "site_name": "Former KPMG Campus (Annie Sez / Overlay Zone Block 707 Lot 7 area)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": 34.0,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": 12,
+        "total_units": 250,
+        "affordable_units": 50,
+        "set_aside_pct": 20,
+        "tenure": "rental",
+        "adoption_status": "proposed",
+        "developer": "SHG Montvale MB VI, LLC",
+        "source_url": "https://thepressgroup.net/judge-town-must-scrap-data-center-plan-on-affordables/",
+        "source_date": "2026-02-10",
+        "confidence": "low",
+        "notes": "34-acre former KPMG campus. Feb 10, 2026 judge ruling: must retain as inclusionary site with minimum 12 du/ac density, up to 250 total units / 50 affordable. If not developed for AH within 3 years, borough must identify replacement site. Dispute over data-center alternative ongoing. Annie Sez site (Block 707, Lot 7) is a separate overlay district addressing Third Round unmet need."
+      }
+    ]
+  },
+  {
+    "municipality": "Moonachie",
+    "research_status": "blocked",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": null,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": null,
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": null,
+      "hefsp_adopted_date": null,
+      "hefsp_url": null
+    },
+    "notes": "Extensive web search returned no Fourth Round HEFSP document, no obligation numbers, and no news coverage specific to Moonachie for the 2025-2035 cycle. Moonachie is a small, predominantly industrial/commercial borough (approx. 3,000 residents) with very limited residential land — DCA numbers may be very small. The Bergen County Affordable Housing Documents page at njcourts.gov was identified but no Moonachie-specific document URL surfaced in searches. The borough's planning board holds regular meetings; it is possible a HEFSP was filed but has not been indexed in web-searchable form. No evidence of FSHC challenge (not listed among the 16 challenged towns or the Bergen County 6). Recommend direct check of njcourts.gov/courts/civil/affordable-housing/bergen and moonachie.us for HEFSP document.",
+    "sources": [
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025-2035 Affordable Housing Calculations (spreadsheet — Moonachie specific numbers not retrieved)",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents | NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Moonachie — Official Website",
+        "url": "https://www.moonachie.us/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Planning Board | Moonachie Borough, NJ",
+        "url": "https://www.moonachie.us/planning-board"
+      }
+    ],
+    "sites": []
+  },
+  {
+    "municipality": "New Milford",
+    "research_status": "done",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": 110,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/new-milford-boro/PagesfromNewMilfordHEFSPFINALADOPTED52025tofilePart1.pdf?VersionId=zIYrkCKyJH_MYBIQuPrWJli0cbbdbDGw"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2016-12-29",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-05-20",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/new-milford-boro/PagesfromNewMilfordHEFSPFINALADOPTED52025tofilePart1.pdf?VersionId=zIYrkCKyJH_MYBIQuPrWJli0cbbdbDGw"
+    },
+    "notes": "DCA initial prospective need was 114 units; municipal determination settled at 110 units (modified per FSHC settlement memorialized Dec 29, 2016 for prior rounds, carried forward). Mayor and Council adopted obligation resolution Jan 27, 2025. Planning Board adopted HEFSP at public hearing May 20, 2025. Borough is essentially fully developed with very little vacant land. One primary Fourth Round site identified: Block 501, Lots 9 & 10 (River Road redevelopment, 160 total / 32 affordable rental). Developer is Crossroads Companies or affiliate. Also note the present need (rehabilitation) obligation was not found as a specific number in search results — the HEFSP document URL contains the full figure. Not among the 16 FSHC-challenged towns.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Borough of New Milford Master Plan Housing Element and Fair Share Plan (Final Adopted May 2025) — NJ Courts Library",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/new-milford-boro/PagesfromNewMilfordHEFSPFINALADOPTED52025tofilePart1.pdf?VersionId=zIYrkCKyJH_MYBIQuPrWJli0cbbdbDGw"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of New Milford Planning Board Resolution No. 25- (adopting HEFSP 5/20/2025) — NJ Courts Library",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/new-milford-boro/ResolutionadoptingHEFSPbyPlanningBoard5202025.pdf?VersionId=2vhWWPKgDJB5714X75fz8eAYhStJVs6m"
+      },
+      {
+        "doc_type": "other",
+        "title": "Affordable Housing — Borough of New Milford Official Website",
+        "url": "https://www.newmilfordnj.gov/page/affordable-housing"
+      },
+      {
+        "doc_type": "other",
+        "title": "Redevelopment Plan Block 501, Lots 9 & 10 Borough of New Milford (2025-21 Exhibit A)",
+        "url": "https://www.newmilfordnj.gov/file/bb61b9b0-6d5f-11f0-8ef8-1351e530fbdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "New Milford Affordable Housing — nmaffordablehousing.com",
+        "url": "https://nmaffordablehousing.com/"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Block 501 / River Road Redevelopment (Lots 9 & 10)",
+        "address": "River Road (C.R. 41), New Milford, NJ (frontage also on Dilworth Road)",
+        "block": "501",
+        "lot": "9, 10",
+        "acreage": 4.165,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 160,
+        "affordable_units": 32,
+        "set_aside_pct": 20,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": "Crossroads Companies (or affiliate)",
+        "source_url": "https://www.newmilfordnj.gov/file/bb61b9b0-6d5f-11f0-8ef8-1351e530fbdf",
+        "source_date": "2025-06-01",
+        "confidence": "medium",
+        "notes": "160 dwelling units + 12,500 sq ft retail. 32 affordable rental units (20% set-aside); 8 of the affordable units are age-restricted per HEFSP narrative. Site was previously a supermarket and bank. Borough to enter redevelopment agreement + PILOT with Crossroads. Redevelopment plan adopted as Ordinance 2025-21. Bonus credits apply (previously developed retail land). Acreage 4.165 acres confirmed from redevelopment plan document."
+      }
+    ]
+  },
+  {
+    "municipality": "North Arlington",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": 36,
+      "prospective_need": 192,
+      "total_obligation": 228,
+      "rdp": 0,
+      "unmet_need": 192,
+      "source_url": "https://www.northarlington.org/_Content/pdf/agendas/2025-07-28-PB-Agenda.pdf"
+    },
+    "compliance": {
+      "status": "litigating",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-07-28",
+      "hefsp_url": null
+    },
+    "notes": "Borough filed DJ Complaint (R-58-25) Jan 29, 2025 committing to 36-unit present need and 192-unit prospective need (reduced from DCA's 227 via land-capacity analysis). Vacant Land Analysis found zero available vacant parcels; entire 192-unit prospective need classified as unmet need. Borough is among the 16 towns challenged by FSHC (one of 6 Bergen County towns). As of the July 28, 2025 Planning Board agenda, the HEFSP (RESO-13-25) appears to have been scheduled for adoption then; the exact adoption date may be July 28, 2025 or later. Bergen County Rehabilitation Program addresses 23 of the 36-unit present need obligation. One redevelopment site identified (165-173 Ridge Road) but it appears to be a small mixed-use project not directly tied to Fourth Round inclusionary obligation. Court judge (Hon. Gregg Padovano, J.S.C.) extended deadline to adopt/endorse HEFSP on June 16, 2025. No settlement or consent order found as of research date (June 2026); matter likely unresolved or in expedited court proceeding.",
+    "sources": [
+      {
+        "doc_type": "other",
+        "title": "North Arlington Planning Board Agenda July 28, 2025 (references RESO-13-25 adopting HEFSP)",
+        "url": "https://www.northarlington.org/_Content/pdf/agendas/2025-07-28-PB-Agenda.pdf"
+      },
+      {
+        "doc_type": "news",
+        "title": "These NJ Towns Could Lose Affordable Housing Immunity: See Where (Patch — North Arlington listed)",
+        "url": "https://patch.com/new-jersey/across-nj/16-nj-towns-affordable-housing-plans-challenged-see-where-they-are"
+      },
+      {
+        "doc_type": "news",
+        "title": "KICKING THE CAN DOWN THE ROAD, NORTH ARLINGTON'S HOUSING DILEMMA! (NAToday)",
+        "url": "https://natoday.net/kicking-the-can-down-the-road-north-arlingtons-housing-dilemma/"
+      },
+      {
+        "doc_type": "other",
+        "title": "North Arlington Official Website — Redevelopment Plans",
+        "url": "https://www.northarlington.org/pages/redevelopment-plans"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents | NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "165-173 Ridge Road (Ridge Road Redevelopment)",
+        "address": "165-173 Ridge Road, North Arlington, NJ",
+        "block": "23",
+        "lot": "24, 24.01, 25",
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 15,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "approved",
+        "developer": null,
+        "source_url": "https://www.northarlington.org/_Content/pdf/agendas/2025-07-28-PB-Agenda.pdf",
+        "source_date": "2025-04-21",
+        "confidence": "low",
+        "notes": "15-unit multifamily + ground floor commercial. Approved by Planning Board April 21, 2025 under Ridge Road Redevelopment Plan. Affordable unit count/set-aside not found in search results. Block 23, Lots 24/24.01/25 confirmed from LoopNet parcel data. Not clearly designated as a Fourth Round compliance site — may be credited but no explicit affordable set-aside confirmed."
+      }
+    ]
+  },
+  {
+    "municipality": "Northvale",
+    "research_status": "blocked",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": null,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": null,
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": null,
+      "hefsp_adopted_date": null,
+      "hefsp_url": null
+    },
+    "notes": "Extensive web search returned no Fourth Round HEFSP document for Northvale, no specific obligation numbers, and no news coverage of a 2025 challenge or settlement. eCode360 pages for Northvale confirm existing affordable housing regulations and a prior Housing Element and Fair Share Plan (adopted under prior rounds) but nothing Fourth Round-specific was indexed. Northvale is a small residential/commercial borough adjacent to Rockleigh; Rockleigh's filed HEFSP (library.njcourts.gov Bergen) mentions Northvale as a neighbor but contains no Northvale data. Not among the 16 FSHC-challenged towns per available records. Northvale has previously agreed to annual DCA trust fund reporting with FSHC oversight (third round). Recommend direct check of northvalenj.org, njcourts.gov/courts/civil/affordable-housing/bergen, and Northvale Planning Board minutes for June–July 2025.",
+    "sources": [
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025-2035 Affordable Housing Calculations (Northvale-specific numbers not retrieved)",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents | NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Northvale — Planning Board / Board of Adjustment",
+        "url": "https://www.northvalenj.org/planning-board"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Northvale — Agendas and Minutes",
+        "url": "https://www.northvalenj.org/agendas-and-minutes"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Northvale NJ Affordable Housing Regulations (eCode360)",
+        "url": "https://ecode360.com/36614120"
+      }
+    ],
+    "sites": []
+  }
+]
