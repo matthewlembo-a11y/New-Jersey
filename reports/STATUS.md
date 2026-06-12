@@ -1,9 +1,9 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T03:25:56+00:00_
+_Generated 2026-06-12T03:27:15+00:00_
 
-- Municipalities: **70/70**  (done: 37, in_progress: 26, blocked: 2, not_started: 5)
-- Sites catalogued: **169**
+- Municipalities: **70/70**  (done: 39, in_progress: 29, blocked: 2, not_started: 0)
+- Sites catalogued: **184**
 
 | # | Municipality | Status | Sites | Oblig. | Compliance | HEFSP | Last researched |
 |---|---|---|---|---|---|---|---|
@@ -62,11 +62,11 @@ _Generated 2026-06-12T03:25:56+00:00_
 | 53 | River Vale | done | 3 | 228 | settled | adopted | 2026-06-12T03:24:13+00:00 |
 | 54 | Rochelle Park | in_progress | 3 | 119 | settled | adopted | 2026-06-12T03:24:13+00:00 |
 | 55 | Rockleigh | done | 2 | 14 | settled | adopted | 2026-06-12T03:24:13+00:00 |
-| 56 | Rutherford | not_started | 0 |  |  |  |  |
-| 57 | Saddle Brook | not_started | 0 |  |  |  |  |
-| 58 | Saddle River | not_started | 0 |  |  |  |  |
-| 59 | South Hackensack | not_started | 0 |  |  |  |  |
-| 60 | Teaneck | not_started | 0 |  |  |  |  |
+| 56 | Rutherford | in_progress | 3 |  | settled | adopted | 2026-06-12T03:26:48+00:00 |
+| 57 | Saddle Brook | done | 4 | 321 | settled | adopted | 2026-06-12T03:26:49+00:00 |
+| 58 | Saddle River | in_progress | 2 | 255 | settled | adopted | 2026-06-12T03:26:49+00:00 |
+| 59 | South Hackensack | done | 2 | 181 | settled | adopted | 2026-06-12T03:26:49+00:00 |
+| 60 | Teaneck | in_progress | 4 | 645 | settled | adopted | 2026-06-12T03:26:49+00:00 |
 | 61 | Tenafly | done | 3 | 307 | settled | adopted | 2026-06-12T03:24:17+00:00 |
 | 62 | Teterboro | in_progress | 0 |  | settled | adopted | 2026-06-12T03:24:18+00:00 |
 | 63 | Upper Saddle River | done | 4 |  | settled | adopted | 2026-06-12T03:24:18+00:00 |

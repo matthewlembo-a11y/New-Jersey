@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T03:25:56+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T03:27:15+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -476,6 +476,56 @@ _Obligation: 14 · Compliance: settled · HEFSP: adopted 2025-06-23_
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Spectrum for Living Supervised Apartment Complex |  |  |  |  | group-home |  | 16 | 16 | 100.0% | rental | built | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj) |
 | Accessory Apartment Program |  |  |  |  | accessory-apt |  |  | 5 | 100.0% | rental | adopted-ordinance | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj) |
+
+## Rutherford (Borough)
+
+_Compliance: settled · HEFSP: adopted 2025-06-12_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| B-1 Overlay District |  |  |  |  | overlay |  |  |  | 20.0% |  | proposed | low | [doc](https://rutherfordboronj.com/government/codes-and-ordinances/recently-introduced-ordinances-2026/1292-ordinance-no-3753-26-affordable-housing-overlay-district/file) |
+| Orient Way Overlay District |  | 155 | 10, 11, 12, 28 |  | overlay |  |  |  |  |  | adopted-ordinance | medium | [doc](https://rutherfordboronj.com/government/codes-and-ordinances/2025-1/1284-ordinance-no-3741-26-affordable-housing-overlay-districts/file) |
+| Park Avenue Overlay District |  | 59 | 17 |  | overlay | 68.0 |  |  | 100.0% | rental | adopted-ordinance | medium | [doc](https://rutherfordboronj.com/government/codes-and-ordinances/2025-1/1284-ordinance-no-3741-26-affordable-housing-overlay-districts/file) |
+
+## Saddle Brook (Township)
+
+_Obligation: 321 · Compliance: settled · HEFSP: adopted 2025-06-16_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| AHOZ-5A Supportive Housing (580 North Midland) | 580 North Midland Avenue | 1710 | 38 |  | 100pct-affordable |  | 10 | 10 | 100.0% | rental | adopted-ordinance | medium | [doc](https://saddlebrooknj.us/wp-content/uploads/2026/02/1796-26-Ordinance-Creating-Round-4-Overlay-Zones.pdf) |
+| AHOZ-5B Age-Restricted Inclusionary (580 North Midland) | 580 North Midland Avenue | 1710 | 38 |  | inclusionary-rezoning |  | 12 | 3 | 25.0% | rental | adopted-ordinance | medium | [doc](https://saddlebrooknj.us/wp-content/uploads/2026/02/1796-26-Ordinance-Creating-Round-4-Overlay-Zones.pdf) |
+| AHOZ-6 Overlay Zone (Block 401) |  | 401 | 1, 2.01, 2.02, 3, 4, 5 |  | overlay |  | 220 |  | 20.0% |  | adopted-ordinance | medium | [doc](https://saddlebrooknj.us/wp-content/uploads/2026/02/1796-26-Ordinance-Creating-Round-4-Overlay-Zones.pdf) |
+| Mayhill Apartments | 140 Mayhill Street | 910 | 2 |  | inclusionary-rezoning |  | 156 | 15 | 10.0% | rental | built | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-brook-twp/SaddleBrookHEFSP.pdf?VersionId=C.gkPGgGYC7UFIkMf9a_sPK4jVGD6biD) |
+
+## Saddle River (Borough)
+
+_Obligation: 255 · Compliance: settled · HEFSP: adopted 2025-06-25_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 115 E. Allendale Road (Former Rosie O'Donnell Estate) | 115 East Allendale Road |  |  | 10.25 | inclusionary-rezoning |  | 54 | 8 | 15.0% | for-sale | approved | low | [doc](https://theridgewoodblog.net/final-countdown-saddle-river-to-vote-on-affordable-housing-plan-for-former-rosie-odonnell-estate-in-saddle-river/) |
+| Algonquin Trail Townhouse (Toll Brothers) | Algonquin Trail / West Saddle River Road | 1603 | 1, 2.01 | 7.2 | inclusionary-rezoning | 8.3 | 60 | 12 | 20.0% | for-sale | approved | medium | [doc](https://www.saddleriver.org/vertical/sites/%7B2E7E07BD-0A79-4A05-9B79-960D47AACDC0%7D/uploads/4166.02_Saddle_River_Draft_Housing_Element_and_Fair_Share_Plan_-_w_appendices_01.pdf) |
+
+## South Hackensack (Township)
+
+_Obligation: 181 · Compliance: settled · HEFSP: adopted 2025-06-30_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Route 46 District Affordable Housing Overlay |  | 2.01 | 4.01, 4.02, 6.03, 6.04, 8.02, 8.04 |  | overlay |  |  |  | 15.0% |  | adopted-ordinance | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/south-hackensack-twp/SouthHackensackFourthRoundHousingElementFairSharePlan060225.PDF?VersionId=1uvvFxyUWrRXN0c_c8MSzFP6CjJwtxc8) |
+| Grove Street Overlay | 2 & 8 Grove Street | 3 | 17.02, 19 |  | overlay |  | 16 |  | 20.0% | rental | proposed | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/south-hackensack-twp/SouthHackensackFourthRoundHousingElementFairSharePlan060225.PDF?VersionId=1uvvFxyUWrRXN0c_c8MSzFP6CjJwtxc8) |
+
+## Teaneck (Township)
+
+_Obligation: 645 · Compliance: settled · HEFSP: adopted 2025-06-16_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 827 Teaneck Road (IH-1 Overlay) | 827 Teaneck Road |  |  |  | overlay |  |  |  |  |  | proposed | low | [doc](https://www.teanecknj.gov/media/ibchor4k/ordinance-43-2025-introduced-on-12-9-2025.pdf) |
+| 1387 Hill Street | 1387 Hill Street | 5003 | 16 | 0.22 | inclusionary-rezoning | 31.8 | 7 |  |  |  | approved | low | [doc](https://teaneckvoices.com/wp-content/uploads/2025/07/120291-Inclusionary-Request-Letter-Hill-Street.pdf) |
+| 140 State Street Redevelopment | 140 State Street | 5004 | 1 |  | redevelopment-area |  |  |  |  |  | approved | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/teaneck-twp/FINALENDORSED61725teaneckhousingelementfourthroundREPORTwoappendix.pdf?VersionId=9wMNZgHOP7_NKXE4cmTKGnLRCPByCw9C) |
+| Cedar Lane CBD / American Legion Drive (Crossroads Redevelopment) | American Legion Drive / Cedar Lane / Garrison Avenue / Beverley Road | 819, 707, 705 | 819: 1, 13, 14, 16, 17; 707: 1-5; 705: 4.01 | 9.42 | redevelopment-area |  | 224 | 48 |  | rental | approved | medium | [doc](https://www.teanecknj.gov/media/izzb1uq3/2025-12-18-american-legion-drive-crossroads-rdp.pdf) |
 
 ## Tenafly (Borough)
 
