@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T03:35:20+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T03:35:50+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -141,6 +141,14 @@ _Obligation: 329 · Compliance: settled · HEFSP: adopted 2025-06-26_
 | 800 Sylvan Avenue (former Unilever site) | 800 Sylvan Avenue, Englewood Cliffs, NJ |  |  | 20.0 | inclusionary-rezoning |  | 450 | 90 | 20.0% | rental | approved | low | [doc](https://jerseydigs.com/englewood-cliffs-looks-to-condemn-29-acres-of-land-for-affordable-housing-parks/) |
 | Southern Sylvan Avenue Consent Order Sites (Block 130 / Block 314 / Block 411) | 50-210 Sylvan Avenue and 400-440 Sylvan Avenue, Englewood Cliffs, NJ | 130 / 314 / 411 | Lots 22-25 (Blk 130); Lots 10-12 (Blk 314); Lots 16-17 (Blk 411) |  | overlay |  |  |  |  |  | adopted-ordinance | medium | [doc](https://cdn.townweb.com/englewoodcliffsnj.org/wp-content/uploads/2026/02/Exhibit-A-Englewood-Cliffs-R4-Plan-Consent-Order.pdf) |
 | 20-32 Sylvan Avenue Residences (mixed use) | 20-32 Sylvan Avenue, Englewood Cliffs, NJ | 201 | 10-14 | 1.985 | inclusionary-rezoning |  | 48 |  |  | rental | approved | medium | [doc](https://cdn.townweb.com/englewoodcliffsnj.org/wp-content/uploads/2025/07/Affordable-Housing-Plan-7-22-25.pdf) |
+
+## Fair Lawn (Borough)
+
+_Obligation: 874 · Compliance: settled · HEFSP: adopted_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Fair Lawn Avenue Site |  |  |  |  | inclusionary zoning / set-aside | 17.65 | 352 |  | 20.0% | for-sale | zoning in place | low | [doc](https://ecode360.com/10050604) |
 
 ## Fairview (Borough)
 
