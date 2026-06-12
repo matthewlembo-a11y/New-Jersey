@@ -1,0 +1,629 @@
+[
+  {
+    "municipality": "Norwood",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": 130,
+      "total_obligation": 130,
+      "rdp": 13,
+      "unmet_need": null,
+      "source_url": "https://norwoodboro.org/Fourth%20Round%20Affordable%20Housing%20and%20Fair%20Share%20Plan.pdf"
+    },
+    "compliance": {
+      "status": "litigating",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-04",
+      "hefsp_url": "https://norwoodboro.org/Fourth%20Round%20Affordable%20Housing%20and%20Fair%20Share%20Plan.pdf"
+    },
+    "notes": "DCA initially calculated 162 units; Borough contested and submitted 130 units. NJ Builders Association challenged the Borough's number; mediation failed to produce settlement. Borough is awaiting assignment of a Mount Laurel Judge. Planning Board approved HEFSP on June 4, 2025; HEFSP adopted with three buildable properties identified, yielding RDP of 13 units via overlay zone at 6 units/acre formula. No library.njcourts.gov URL found for Norwood; document hosted on municipal website. Present need (rehab) number not confirmed in search results. Norwood is among 27 'Local Leaders for Responsible Planning' towns in litigation.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Fourth Round Housing Element and Fair Share Plan - Norwood Borough",
+        "url": "https://norwoodboro.org/Fourth%20Round%20Affordable%20Housing%20and%20Fair%20Share%20Plan.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Norwood Planning Board June 4, 2025 Regular Meeting Minutes",
+        "url": "https://www.norwoodboro.org/6-4-25.pdf?t=202510010804300"
+      },
+      {
+        "doc_type": "news",
+        "title": "Valley towns face lawsuits after Fourth Round filings - Pascack Press",
+        "url": "https://thepressgroup.net/valley-towns-face-lawsuits-after-fourth-round-filings/"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "2025 to 2035 Affordable Housing Calculations - NJ DCA",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Three Unidentified Vacant Parcels (Overlay Zone)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": 6,
+        "total_units": 7,
+        "affordable_units": 13,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.norwoodboro.org/6-4-25.pdf?t=202510010804300",
+        "source_date": "2025-06-04",
+        "confidence": "low",
+        "notes": "Planning Board minutes state only three properties in the Borough can be developed. Overlay zone at 6 units per acre yields 7 units (another reference states RDP of 13 units toward unmet need). The discrepancy between 7 and 13 may reflect two separate metrics. No block/lot data available. Identities of three parcels not disclosed in search results."
+      }
+    ]
+  },
+  {
+    "municipality": "Oakland",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 10,
+      "prospective_need": 286,
+      "total_obligation": 296,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.oakland-nj.org/home/news/statement-fourth-round-affordable-housing-requirements-adoption-new-housing-element-and"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "NJ Builders Association / Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2026-03-12",
+      "hefsp_url": "https://www.oakland-nj.org/home/news/planning-board-and-borough-council-take-measures-comply-state-affordable-housing"
+    },
+    "notes": "DCA initially calculated present need 10 units and prospective need 306 units. Borough planner reduced prospective need to 252 units; NJ Builders Association challenged; settled at 286 units. HEFSP first adopted June 23, 2025, then amended after four challengers (Leone, McBride, Ropper, Fair Share Housing Center). Amended HEFSP adopted March 12, 2026 with five implementing ordinances. Borough adopted by March 15, 2026 deadline to retain immunity from builder's remedy lawsuits. Downtown-1 overlay density increased from 18 to 22 units/acre; set-aside increased to 20% in Downtown-1 and Downtown-2. Leone and McBride sites added to amended HEFSP. No library.njcourts.gov URL found for Oakland HEFSP in search results.",
+    "sources": [
+      {
+        "doc_type": "other",
+        "title": "Statement on Fourth Round Affordable Housing Requirements - Borough of Oakland NJ",
+        "url": "https://www.oakland-nj.org/home/news/statement-fourth-round-affordable-housing-requirements-adoption-new-housing-element-and"
+      },
+      {
+        "doc_type": "other",
+        "title": "Planning Board and Borough Council Take Measures to Comply - Borough of Oakland NJ",
+        "url": "https://www.oakland-nj.org/home/news/planning-board-and-borough-council-take-measures-comply-state-affordable-housing"
+      },
+      {
+        "doc_type": "other",
+        "title": "Oakland's Affordable Housing Milestones Explained - Borough of Oakland NJ",
+        "url": "https://www.oakland-nj.org/home/news/oaklands-affordable-housing-milestones-explained"
+      },
+      {
+        "doc_type": "other",
+        "title": "Affordable Housing Ordinances - Borough of Oakland NJ",
+        "url": "https://www.oakland-nj.org/about-borough/pages/ordinances"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Leone Property",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 85,
+        "affordable_units": 17,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": "Leone",
+        "source_url": "https://www.oakland-nj.org/home/news/statement-fourth-round-affordable-housing-requirements-adoption-new-housing-element-and",
+        "source_date": "2026-03-12",
+        "confidence": "medium",
+        "notes": "Maximum 85 housing units with 17 affordable (20% set-aside). Added to HEFSP per settlement reached with Leone challenger. Block/lot not stated in search results."
+      },
+      {
+        "site_name": "McBride Property",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 240,
+        "affordable_units": 48,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": "McBride",
+        "source_url": "https://www.oakland-nj.org/home/news/statement-fourth-round-affordable-housing-requirements-adoption-new-housing-element-and",
+        "source_date": "2026-03-12",
+        "confidence": "medium",
+        "notes": "Maximum 240 housing units with 48 affordable (20% set-aside). Emergency access only from Page Drive. Added to HEFSP per settlement. Block/lot not stated in search results."
+      },
+      {
+        "site_name": "Downtown-1 Affordable Housing Overlay Zone",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": "Downtown-1",
+        "proposed_zoning": "Downtown-1 Affordable Housing Overlay Zone",
+        "density": 22,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.oakland-nj.org/home/news/statement-fourth-round-affordable-housing-requirements-adoption-new-housing-element-and",
+        "source_date": "2026-03-12",
+        "confidence": "medium",
+        "notes": "Ordinance Code 26-CODE-984 amended Downtown-1 zone to increase density from 18 to 22 units/acre and set-aside to 20%. Specific parcels/units not stated in search results."
+      },
+      {
+        "site_name": "Downtown-2 Affordable Housing Overlay Zone",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": "Downtown-2",
+        "proposed_zoning": "Downtown-2 Affordable Housing Overlay Zone",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.oakland-nj.org/home/news/statement-fourth-round-affordable-housing-requirements-adoption-new-housing-element-and",
+        "source_date": "2026-03-12",
+        "confidence": "medium",
+        "notes": "Ordinance Code 26-CODE-985 amended Downtown-2 zone to increase set-aside to 20%. Density not stated. Specific parcels/units not stated in search results."
+      },
+      {
+        "site_name": "Ropper Property",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": "Ropper",
+        "source_url": "https://www.oakland-nj.org/home/news/statement-fourth-round-affordable-housing-requirements-adoption-new-housing-element-and",
+        "source_date": "2026-03-12",
+        "confidence": "low",
+        "notes": "Included in Round 3 HEFSP; challenged in Round 4 regarding sewer service provisions. Settlement reached. Unit counts not found in search results."
+      }
+    ]
+  },
+  {
+    "municipality": "Old Tappan",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 4,
+      "prospective_need": 212,
+      "total_obligation": 216,
+      "rdp": 0,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/old-tappan-boro/OldTappanHousingElement4thRoundClean4156.06202601281.pdf?VersionId=Qiv_vGNHYdUwvfUMBOqBSVoZZHlKXtoR"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "NJ Builders Association",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2026-01-28",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/old-tappan-boro/OldTappanHousingElement4thRoundClean4156.06202601281.pdf?VersionId=Qiv_vGNHYdUwvfUMBOqBSVoZZHlKXtoR"
+    },
+    "notes": "DCA initially identified present need 4 units and Round 4 prospective need 233 units. Borough settled with NJ Builders Association resulting in final Fourth Round obligation of prospective need 212 units. Round 4 RDP adjusted to zero because borough has long been recognized as lacking available land (Vacant Land Adjustment applies). Borough was among 27 'Local Leaders for Responsible Planning' towns in litigation. HEFSP dated May 30, 2025 (initial) and January 28, 2026 (amended/clean). Old Tappan's cumulative obligations across all rounds include First/Second Round 98 units (satisfied), Third Round 271 units, Fourth Round 212 units. Housing rehab program continues via Bergen County Housing Rehabilitation Program. Affordable housing administrator is Piazza & Associates.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Housing Element & Fair Share Plan Borough of Old Tappan (4th Round, Clean 2026-01-28)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/old-tappan-boro/OldTappanHousingElement4thRoundClean4156.06202601281.pdf?VersionId=Qiv_vGNHYdUwvfUMBOqBSVoZZHlKXtoR"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Housing Element & Fair Share Plan Borough of Old Tappan (4th Round, May 2025)",
+        "url": "https://oldtappan.net/media/attachments/2025/05/30/old-tappan-housing-element-4th-round---5-30-25.pdf"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Housing Element & Fair Share Plan Borough of Old Tappan (4th Round, March 2026)",
+        "url": "https://oldtappan.net/media/attachments/2026/03/18/old-tappan-housing-element_4th_round_clean_4156.06_2026_01_28.pdf"
+      },
+      {
+        "doc_type": "news",
+        "title": "225 Units Planned for Former Pearson Site - Pascack Press",
+        "url": "https://thepressgroup.net/225-units-planned-for-former-pearson-site/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Rezoning of Pearson Property in Old Tappan Approved - Pascack Press",
+        "url": "https://thepressgroup.net/rezoning-of-pearson-property-in-old-tappan-approved/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Hearings Continuing for 229-Unit Proposal at Former-Pearson Site - Pascack Press",
+        "url": "https://thepressgroup.net/hearings-continuing-for-229-unit-proposal-at-former-pearson-site-in-old-tappan/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Old Tappan NJ - Affordable Housing Information",
+        "url": "https://www.oldtappan.net/resident/housing-information"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Former Pearson Education Site (200 Old Tappan Road)",
+        "address": "200 Old Tappan Road, Old Tappan, NJ 07675",
+        "block": "1606",
+        "lot": "7",
+        "acreage": 19.1,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": "PRD-2 (Planned Residential Development - Affordable Housing District)",
+        "density": 12,
+        "total_units": 229,
+        "affordable_units": 40,
+        "set_aside_pct": 17,
+        "tenure": "mixed",
+        "adoption_status": "approved",
+        "developer": "200 OTR LLC (purchased Oct 2018 for $11,495,435)",
+        "source_url": "https://thepressgroup.net/225-units-planned-for-former-pearson-site/",
+        "source_date": "2025-01-01",
+        "confidence": "medium",
+        "notes": "19.1-acre former Pearson Education site, vacant since 2014. Rezoning to PRD-2 at 12 units/acre with affordable housing overlay. Development includes: 90 market-rate rental apartments, 79 market-rate townhomes for sale, 20 affordable rental apartments (above retail), 20 affordable for-sale units above 21,000 sf retail space (mixed-use frontage), plus additional units per 229-unit final application. Project reported both as 225 units and 229 units in different news sources; 229 is the more recent figure. Affordable unit set-aside: for-sale units split 50% moderate/37% low/13% very low income. Project under construction per search results. Classified as Third Round settlement fulfillment primarily but part of borough's overall housing compliance strategy. Confidence medium for block/lot (confirmed in news source); confidence low for final unit count breakdown."
+      },
+      {
+        "site_name": "Old Tappan Commons",
+        "address": "32-48 Russell Avenue, Old Tappan, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 29,
+        "affordable_units": 29,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "built",
+        "developer": "Housing Authority of Bergen County",
+        "source_url": "https://habcnj.org/housing_programs/our_buildings/old_tappan_commons.php",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Senior rental apartments managed by Bergen County Housing Authority. Existing prior-round compliance unit, not a new fourth-round site. 29 units cited for seniors."
+      },
+      {
+        "site_name": "Enclave at Old Tappan",
+        "address": "227 Old Tappan Road, Old Tappan, NJ 07675",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": 20,
+        "set_aside_pct": null,
+        "tenure": "for-sale",
+        "adoption_status": "built",
+        "developer": "K. Hovnanian Homes",
+        "source_url": "https://www.oldtappan.net/images/Affordable_Housing/Enclave_at_Old_Tappan_Affordable_Housing.pdf",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "20 affordable for-sale family units developed by K. Hovnanian Homes. Prior-round compliance site. Affordable housing administrator Piazza & Associates. Total market rate units not confirmed in search results."
+      }
+    ]
+  },
+  {
+    "municipality": "Oradell",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": 0,
+      "prospective_need": 180,
+      "total_obligation": 180,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/oradell-boro/6.25.25ORDAELLHEFSPADOPTED6.24.25Part1.pdf?VersionId=by7o.pgjg3Itv8UK8wzDhBCi8wwL0R6z"
+    },
+    "compliance": {
+      "status": "litigating",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-24",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/oradell-boro/6.25.25ORDAELLHEFSPADOPTED6.24.25Part1.pdf?VersionId=by7o.pgjg3Itv8UK8wzDhBCi8wwL0R6z"
+    },
+    "notes": "Oradell's Round 4 prospective need is 180 units; present need (rehab) is zero. HEFSP adopted June 24, 2025 and filed with NJ Courts. Oradell is among 27 'Local Leaders for Responsible Planning' towns listed in litigation challenging fourth round obligations. Borough was forced by mediation with developers (including Avalon Development) to rezone areas along Kinderkamack Road. Areas from 690-800 Kinderkamack rezoned up to 30 units/acre (down from developer demand of 59 units/acre). Multiple sites active before Planning Board and Zoning Board. 505 Kinderkamack had prior ZBA approval. Bergen County United Way / Madeline Corp NFP developing supportive housing at Block 223, Lot 5. Habitat for Humanity broke ground at 480 Reis Ave (single-family, fifth HFH home in borough). Site-level details for fourth-round HEFSP sites are partial — full plan text not accessible via search results.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Master Plan Amendment Housing Plan Element and Fair Share Plan Round 4 - Oradell Borough (Adopted 2025-06-24)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/oradell-boro/6.25.25ORDAELLHEFSPADOPTED6.24.25Part1.pdf?VersionId=by7o.pgjg3Itv8UK8wzDhBCi8wwL0R6z"
+      },
+      {
+        "doc_type": "news",
+        "title": "The Death of Small Town NJ? How Oradell Was Forced into High-Density Zoning",
+        "url": "https://theridgewoodblog.net/the-death-of-small-town-nj-how-oradell-was-forced-into-high-density-zoning/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Valley towns face lawsuits after Fourth Round filings - Pascack Press",
+        "url": "https://thepressgroup.net/valley-towns-face-lawsuits-after-fourth-round-filings/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Oradell Zoning Board Report - 505 Kinderkamack Rd (October 2025)",
+        "url": "https://www.oradell.org/zoning-board-adjustment/files/cal891-25-505-kinderkamack-rd-borough-planning-report-10172025"
+      },
+      {
+        "doc_type": "other",
+        "title": "420 Kinderkamack Rd - Planning Board Engineering Review (March 2025)",
+        "url": "https://www.oradell.org/planning-board-information/files/cal-162-25-420-kinderkamack-rd-borough-engineer-1st-review-3-26"
+      },
+      {
+        "doc_type": "other",
+        "title": "Habitat for Humanity of Bergen County - Oradell 480 Reis Ave",
+        "url": "https://www.oradell.org/site-home/news/habitat-humanity-bergen-county"
+      },
+      {
+        "doc_type": "other",
+        "title": "Building Supportive Housing - Oradell NJ (BCUW / Madeline Corp)",
+        "url": "https://www.oradell.org/site-home/news/building-supportive-housing"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "505 Kinderkamack Road",
+        "address": "505 Kinderkamack Road, Oradell, NJ 07649",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 20,
+        "affordable_units": 3,
+        "set_aside_pct": 15,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "505 Kinderkamack LLC",
+        "source_url": "https://www.oradell.org/zoning-board-adjustment/files/cal891-25-505-kinderkamack-rd-borough-planning-report-10172025",
+        "source_date": "2025-10-17",
+        "confidence": "medium",
+        "notes": "ZBA approved two-story residential apartment building with 20 age-restricted rental units (8 one-bedroom, 12 two-bedroom) with 3 affordable units. CAL #891-25, amendment to CAL #852-21. Letter of Non-Compliance issued April 11, 2025. Block/lot not stated in search results."
+      },
+      {
+        "site_name": "420 Kinderkamack Road",
+        "address": "420 Kinderkamack Road, Oradell, NJ 07649",
+        "block": "1102",
+        "lot": "1",
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "proposed",
+        "developer": "Suryoyo Realty LLC",
+        "source_url": "https://www.oradell.org/planning-board-information/files/cal-162-25-420-kinderkamack-rd-borough-engineer-1st-review-3-26",
+        "source_date": "2025-03-26",
+        "confidence": "low",
+        "notes": "Block 1102, Lot 1. Application by Suryoyo Realty LLC before Planning Board as of March 2025. Architectural plans by Raymond J. Virgona dated January 2025. Unit count and affordable set-aside not found in search results."
+      },
+      {
+        "site_name": "690-800 Kinderkamack Road Overlay Zone",
+        "address": "690-800 Kinderkamack Road, Oradell, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": 30,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": "Avalon Development (proposed)",
+        "source_url": "https://theridgewoodblog.net/the-death-of-small-town-nj-how-oradell-was-forced-into-high-density-zoning/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Area rezoned for up to 30 units/acre after mediation with Avalon Development (which originally sought 59 units/acre). Specific block/lot, total units, and affordable unit count not stated in search results. Source is a news blog, not official municipal document."
+      },
+      {
+        "site_name": "445 Kinderkamack Road",
+        "address": "445 Kinderkamack Road, Oradell, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 25,
+        "affordable_units": 5,
+        "set_aside_pct": 20,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://theridgewoodblog.net/the-death-of-small-town-nj-how-oradell-was-forced-into-high-density-zoning/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Three-story 25-unit complex; 5 of 25 units affordable (20%). Located near historic 1880s Queen Anne-style Victorian structures. Source is news blog, not official document. Block/lot not stated."
+      },
+      {
+        "site_name": "Bergen County United Way Supportive Housing (Genther Ave / Block 223 Lot 5)",
+        "address": "Genther Avenue, Oradell, NJ",
+        "block": "223",
+        "lot": "5",
+        "acreage": null,
+        "mechanism": "group-home",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 4,
+        "affordable_units": 4,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "Bergen County United Way / Madeline Corp NFP",
+        "source_url": "https://www.oradell.org/site-home/news/building-supportive-housing",
+        "source_date": "2025-05-19",
+        "confidence": "medium",
+        "notes": "Borough donated Lot 5 (Block 223) to Bergen County United Way to develop special needs and supportive housing. ZBA approved May 19, 2025: four-bedroom group home on first floor plus one-bedroom and one two-bedroom supportive housing (independent living) units = 4 units total. Developer is BCUW/Madeline Housing Partners LLC. Counted as group home in HEFSP fourth round compliance."
+      },
+      {
+        "site_name": "480 Reis Avenue (Habitat for Humanity)",
+        "address": "480 Reis Avenue, Oradell, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 1,
+        "affordable_units": 1,
+        "set_aside_pct": 100,
+        "tenure": "for-sale",
+        "adoption_status": "approved",
+        "developer": "Habitat for Humanity of Bergen County",
+        "source_url": "https://www.oradell.org/site-home/news/habitat-humanity-bergen-county",
+        "source_date": "2025-01-01",
+        "confidence": "medium",
+        "notes": "Habitat for Humanity broke ground; fifth HFH home in the borough and 31st in Bergen County. Projected move-in April 2026. Single-family for-sale affordable home. Funded through federal/local grants and donations."
+      }
+    ]
+  },
+  {
+    "municipality": "Palisades Park",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": null,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/palisades-park-boro/Segment001of61825PALISADESPARKAdoptedHEFSP.pdf?VersionId=brqpzmPrbzcK23YfmQfVMuzk3RK3elEG"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-18",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/palisades-park-boro/Segment001of61825PALISADESPARKAdoptedHEFSP.pdf?VersionId=brqpzmPrbzcK23YfmQfVMuzk3RK3elEG"
+    },
+    "notes": "Palisades Park HEFSP adopted June 18, 2025 (document filename contains '61825'). Borough has posted all required notices/resolutions/ordinances/settlement agreements for July 15, 2026 Fairness and Compliance Hearing per Superior Court order. Borough faces multiple builder's remedy lawsuits (at least 6 filed by developers); Judge Christine Farrington invalidated previous zoning ordinance and ordered new comprehensive fair-share housing plan within 90 days. Development landscape dominated by high-density residential redevelopment and court-mandated builder's remedy settlements. Borough adopted ADU ordinance unanimously. Governance described as fractured council with mayor tie-breaking vote. Palisades Park is a primarily built-out one- and two-family residential community; median owner-occupied home value $671,400. Specific obligation numbers (present need, prospective need) and specific site details not available from web search results — full HEFSP PDF required for those figures.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Master Plan Housing Element and Fair Share Plan Palisades Park NJ (Adopted 2025-06-18)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/palisades-park-boro/Segment001of61825PALISADESPARKAdoptedHEFSP.pdf?VersionId=brqpzmPrbzcK23YfmQfVMuzk3RK3elEG"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Palisades Park HEFSP Appendices (Vacant Land Map etc.)",
+        "url": "https://palisadesparknj.org/wp-content/uploads/2025/01/HEFSP-Appendices-1.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Palisades Park Borough - Borough of Palisades Park NJ Official Site",
+        "url": "https://palisadesparknj.org/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Palisades Park Faces 90-Day Deadline to Address Affordable Housing Needs",
+        "url": "https://theridgewoodblog.net/palisades-park-faces-90-day-deadline-to-address-affordable-housing-needs"
+      },
+      {
+        "doc_type": "news",
+        "title": "Palisades Park Approves New Zoning for Accessory Dwelling Units",
+        "url": "https://theridgewoodblog.net/palisades-park-approves-new-zoning-for-accessory-dwelling-units-to-boost-affordable-housing/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Development pipeline in Palisades Park NJ - GatherGov",
+        "url": "https://gathergov.com/municipalities/palisades-park-nj/development-pipeline"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Palisades Park NJ: Affordable Housing and Mandatory Set-Aside - eCode360",
+        "url": "https://ecode360.com/46278690"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Accessory Dwelling Units (Borough-Wide ADU Overlay)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "accessory-apt",
+        "current_zoning": "R-1/R-2 (one- and two-family residential)",
+        "proposed_zoning": "ADU overlay",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://theridgewoodblog.net/palisades-park-approves-new-zoning-for-accessory-dwelling-units-to-boost-affordable-housing/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Borough Council unanimously adopted ADU ordinance in response to court ruling and affordable housing obligations. Allows ADUs in one- and two-family homes. Specific unit yield and affordability set-aside requirements not stated in search results."
+      },
+      {
+        "site_name": "Builder's Remedy Sites (Multiple - Details in HEFSP/Settlement)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://gathergov.com/municipalities/palisades-park-nj/development-pipeline",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "At least 6 builder's remedy lawsuits filed by developers. Court-mandated settlements dominate development pipeline per GatherGov. Fairness and Compliance Hearing scheduled July 15, 2026. Specific sites, block/lot, unit counts, and set-aside percentages require review of official settlement agreements posted on palisadesparknj.org per court order. Could not confirm specific site details from web search."
+      }
+    ]
+  }
+]

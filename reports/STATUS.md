@@ -1,9 +1,9 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T03:24:47+00:00_
+_Generated 2026-06-12T03:25:18+00:00_
 
-- Municipalities: **70/70**  (done: 32, in_progress: 21, blocked: 2, not_started: 15)
-- Sites catalogued: **141**
+- Municipalities: **70/70**  (done: 34, in_progress: 24, blocked: 2, not_started: 10)
+- Sites catalogued: **158**
 
 | # | Municipality | Status | Sites | Oblig. | Compliance | HEFSP | Last researched |
 |---|---|---|---|---|---|---|---|
@@ -47,11 +47,11 @@ _Generated 2026-06-12T03:24:47+00:00_
 | 38 | New Milford | done | 1 |  | settled | adopted | 2026-06-12T03:24:41+00:00 |
 | 39 | North Arlington | in_progress | 1 | 228 | litigating | adopted | 2026-06-12T03:24:41+00:00 |
 | 40 | Northvale | blocked | 0 |  |  |  | 2026-06-12T03:24:41+00:00 |
-| 41 | Norwood | not_started | 0 |  |  |  |  |
-| 42 | Oakland | not_started | 0 |  |  |  |  |
-| 43 | Old Tappan | not_started | 0 |  |  |  |  |
-| 44 | Oradell | not_started | 0 |  |  |  |  |
-| 45 | Palisades Park | not_started | 0 |  |  |  |  |
+| 41 | Norwood | in_progress | 1 | 130 | litigating | adopted | 2026-06-12T03:25:07+00:00 |
+| 42 | Oakland | done | 5 | 296 | settled | adopted | 2026-06-12T03:25:07+00:00 |
+| 43 | Old Tappan | done | 3 | 216 | settled | adopted | 2026-06-12T03:25:07+00:00 |
+| 44 | Oradell | in_progress | 6 | 180 | litigating | adopted | 2026-06-12T03:25:07+00:00 |
+| 45 | Palisades Park | in_progress | 2 |  | settled | adopted | 2026-06-12T03:25:07+00:00 |
 | 46 | Paramus | done | 2 |  | settled | adopted | 2026-06-12T03:24:41+00:00 |
 | 47 | Park Ridge | done | 1 | 256 | settled | adopted | 2026-06-12T03:24:41+00:00 |
 | 48 | Ramsey | done | 4 |  | settled | adopted | 2026-06-12T03:24:41+00:00 |

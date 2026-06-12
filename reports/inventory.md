@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T03:24:47+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T03:25:18+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -327,6 +327,58 @@ _Obligation: 228 · Compliance: litigating · HEFSP: adopted 2025-07-28_
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 165-173 Ridge Road (Ridge Road Redevelopment) | 165-173 Ridge Road, North Arlington, NJ | 23 | 24, 24.01, 25 |  | redevelopment-area |  | 15 |  |  |  | approved | low | [doc](https://www.northarlington.org/_Content/pdf/agendas/2025-07-28-PB-Agenda.pdf) |
+
+## Norwood (Borough)
+
+_Obligation: 130 · Compliance: litigating · HEFSP: adopted 2025-06-04_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Three Unidentified Vacant Parcels (Overlay Zone) |  |  |  |  | overlay | 6.0 | 7 | 13 |  |  | adopted-ordinance | low | [doc](https://www.norwoodboro.org/6-4-25.pdf?t=202510010804300) |
+
+## Oakland (Borough)
+
+_Obligation: 296 · Compliance: settled · HEFSP: adopted 2026-03-12_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Leone Property |  |  |  |  | inclusionary-rezoning |  | 85 | 17 | 20.0% |  | adopted-ordinance | medium | [doc](https://www.oakland-nj.org/home/news/statement-fourth-round-affordable-housing-requirements-adoption-new-housing-element-and) |
+| McBride Property |  |  |  |  | inclusionary-rezoning |  | 240 | 48 | 20.0% |  | adopted-ordinance | medium | [doc](https://www.oakland-nj.org/home/news/statement-fourth-round-affordable-housing-requirements-adoption-new-housing-element-and) |
+| Downtown-1 Affordable Housing Overlay Zone |  |  |  |  | overlay | 22.0 |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://www.oakland-nj.org/home/news/statement-fourth-round-affordable-housing-requirements-adoption-new-housing-element-and) |
+| Downtown-2 Affordable Housing Overlay Zone |  |  |  |  | overlay |  |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://www.oakland-nj.org/home/news/statement-fourth-round-affordable-housing-requirements-adoption-new-housing-element-and) |
+| Ropper Property |  |  |  |  | inclusionary-rezoning |  |  |  |  |  | adopted-ordinance | low | [doc](https://www.oakland-nj.org/home/news/statement-fourth-round-affordable-housing-requirements-adoption-new-housing-element-and) |
+
+## Old Tappan (Borough)
+
+_Obligation: 216 · Compliance: settled · HEFSP: adopted 2026-01-28_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Old Tappan Commons | 32-48 Russell Avenue, Old Tappan, NJ |  |  |  | 100pct-affordable |  | 29 | 29 | 100.0% | rental | built | low | [doc](https://habcnj.org/housing_programs/our_buildings/old_tappan_commons.php) |
+| Enclave at Old Tappan | 227 Old Tappan Road, Old Tappan, NJ 07675 |  |  |  | inclusionary-rezoning |  |  | 20 |  | for-sale | built | low | [doc](https://www.oldtappan.net/images/Affordable_Housing/Enclave_at_Old_Tappan_Affordable_Housing.pdf) |
+| Former Pearson Education Site (200 Old Tappan Road) | 200 Old Tappan Road, Old Tappan, NJ 07675 | 1606 | 7 | 19.1 | inclusionary-rezoning | 12.0 | 229 | 40 | 17.0% | mixed | approved | medium | [doc](https://thepressgroup.net/225-units-planned-for-former-pearson-site/) |
+
+## Oradell (Borough)
+
+_Obligation: 180 · Compliance: litigating · HEFSP: adopted 2025-06-24_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 505 Kinderkamack Road | 505 Kinderkamack Road, Oradell, NJ 07649 |  |  |  | inclusionary-rezoning |  | 20 | 3 | 15.0% | rental | approved | medium | [doc](https://www.oradell.org/zoning-board-adjustment/files/cal891-25-505-kinderkamack-rd-borough-planning-report-10172025) |
+| 690-800 Kinderkamack Road Overlay Zone | 690-800 Kinderkamack Road, Oradell, NJ |  |  |  | overlay | 30.0 |  |  |  | rental | adopted-ordinance | low | [doc](https://theridgewoodblog.net/the-death-of-small-town-nj-how-oradell-was-forced-into-high-density-zoning/) |
+| 445 Kinderkamack Road | 445 Kinderkamack Road, Oradell, NJ |  |  |  | inclusionary-rezoning |  | 25 | 5 | 20.0% | rental | adopted-ordinance | low | [doc](https://theridgewoodblog.net/the-death-of-small-town-nj-how-oradell-was-forced-into-high-density-zoning/) |
+| 480 Reis Avenue (Habitat for Humanity) | 480 Reis Avenue, Oradell, NJ |  |  |  | 100pct-affordable |  | 1 | 1 | 100.0% | for-sale | approved | medium | [doc](https://www.oradell.org/site-home/news/habitat-humanity-bergen-county) |
+| 420 Kinderkamack Road | 420 Kinderkamack Road, Oradell, NJ 07649 | 1102 | 1 |  | inclusionary-rezoning |  |  |  |  | rental | proposed | low | [doc](https://www.oradell.org/planning-board-information/files/cal-162-25-420-kinderkamack-rd-borough-engineer-1st-review-3-26) |
+| Bergen County United Way Supportive Housing (Genther Ave / Block 223 Lot 5) | Genther Avenue, Oradell, NJ | 223 | 5 |  | group-home |  | 4 | 4 | 100.0% | rental | approved | medium | [doc](https://www.oradell.org/site-home/news/building-supportive-housing) |
+
+## Palisades Park (Borough)
+
+_Compliance: settled · HEFSP: adopted 2025-06-18_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Accessory Dwelling Units (Borough-Wide ADU Overlay) |  |  |  |  | accessory-apt |  |  |  |  | rental | adopted-ordinance | low | [doc](https://theridgewoodblog.net/palisades-park-approves-new-zoning-for-accessory-dwelling-units-to-boost-affordable-housing/) |
+| Builder's Remedy Sites (Multiple - Details in HEFSP/Settlement) |  |  |  |  | redevelopment-area |  |  |  |  |  | proposed | low | [doc](https://gathergov.com/municipalities/palisades-park-nj/development-pipeline) |
 
 ## Paramus (Borough)
 
