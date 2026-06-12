@@ -1,0 +1,3274 @@
+
+===== PAGE 1 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 1 of 58
+Trans ID: LCV2026524139
+BOROUGH OF ROCKLEIGH
+ORDINANCE 2026-2
+AN
+ORDINANCE
+REPEALING
+CHAPTER
+34,
+ARTICLE
+XI,
+“AFFORDABLE
+HOUSING DEVELOPMENT FEES,” AND REPEALING AND REPLACING CHAPTER
+36 OF THE CODE OF THE BOROUGH OF ROCKLEIGH, ENTITLED “AFFORDABLE
+HOUSING”
+WHEREAS, Chapter 34, Article XI, entitled “Affordable Housing Development Fees,”
+and Chapter 36, entitled “Affordable Housing,” of the Code ofthe Borough of Rockleigh must be
+repealed, and Chapter 36 must be repealed and replaced in its entirety, in order to conform to the
+Fair Housing Act, N.J.S.A. 52:27D-301 et seq., as amended in 2024, the Uniform Housing
+Affordability Controls (““UHAC”), N.J.A.C. 5:80-26.1 et seq., and N.J.A.C. 5:99-1 et seq.; and
+WHEREAS, this Ordinance establishes Borough wide regulations and standards to govern
+the development of very low, low and moderate-income affordable units for multifamily for-sale
+and rental residential developments that may be approved by the Borough or the Borough Planning
+Board, and is designed to regulate these very low, low- and moderate-income units in a manner
+consistent with the FHA, UHAC, N.J.A.C. 5:99-1 et seq., and applicable New Jersey Council on
+Affordable Housing (COAH) regulations; and
+BE IT ORDAINED by the Mayor and Council ofthe Borough ofRockleigh, in the County
+of Bergen and State ofNew Jersey, as follows:
+Section 1. Chapter 34, Article XI, entitled “Affordable Housing Development Fees,” of the Code
+of the Borough ofRockleigh is hereby repealed.
+Section 2. Chapter 36, entitled “Affordable Housing,” ofthe Code ofthe Borough ofRockleigh is
+hereby repealed and replaced as follows:
+§ 36-1 Introduction & Applicability.
+A. This section ofthe Code sets forth regulations regarding the very low-, low- and moderate-
+income housing units in Borough of Rockleigh consistent with the provisions outlined in
+P.L 2024, Chapter 2, including the amended Fair Housing Act (“FHA”) at N.J.S.A.
+52:27D-301 et seq., as well as the Department of Community Affairs, Division of Local
+Planning Services (“LPS”) at N.J.A.C. 5:99 et seq., statutorily upheld existing regulations
+of the now-defunct Council on Affordable Housing (“COAH”) at N.J.A.C. 5:93 and 5:97,
+the Uniform Housing Affordability Controls (“UHAC”) at N.J.A.C. 5:80-26.1 et seq., and
+as reflected in the adopted municipal Fourth Round Housing Element and Fair Share Plan
+(“HEFSP”).
+B. This Ordinance is intended to ensure that very low-, low- and moderate-income units
+(“affordable units”) are created with controls on affordability over time and that very low-
+, low- and moderate-income households shall occupy these units pursuant to statutory
+requirements. This Ordinance shall apply to all inclusionary developments, individual
+affordable units, and 100% affordable housing developments except where inconsistent
+Page 1
+
+===== PAGE 2 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 2of58
+Trans ID: LCV2026524139
+with applicable law. Low-Income Housing Tax Credit financed developments shall adhere
+to the provisions set forth below in item E.3. below.
+C. The Borough ofRockleigh Planning Board has adopted a HEFSP pursuant to the Municipal
+Land Use Law at N.J.S.A. 40:55D-1, et seq. The Fair Share Plan describes the ways the
+municipality shall address its fair share of very low-, low- and moderate-income housing
+as approved by the Superior Court and documented in the Housing Element.
+D. This Ordinance implements and incorporates the relevant provisions of the HEFSP and
+addresses the requirements of P.L 2024, Chapter 2, the FHA, N.J.A.C. 5:99, NJ Supreme
+Court upheld COAH regulations at N.J.A.C. 5:93 and 5:97, and UHAC at N.J.A.C. 5:80-
+26.1, as may be amended and supplemented.
+E.
+Applicability
+1.
+The provisions of this Ordinance shall apply to all affordable housing developments
+and affordable housing units that currently exist and that are proposed to be created
+pursuant to the municipality’s most recently
+adopted HEFSP,
+subject
+to
+any
+modifications for affordable housing units that were subject to a written agreement,
+rezoning or approval prior to the end ofthe Third Round on June 30, 2025.
+2.
+This Ordinance shall also apply to any unanticipated future developments that will
+provide very low-, low- and moderate-income housing units.
+3.
+Projects receiving federal Low Income Housing Tax Credit financing and are proposed
+for credit
+shall comply with the low/moderate
+split and bedroom distribution
+requirements, maximum initial rents and sales prices requirements, affirmative fair
+marketing requirements of UHAC at N.J.A.C. 5:80-26.16 and the length of the
+affordability controls applicable to such projects shall be not less than a 30-year
+compliance period plus a 15-year extended-use period, for a total of not less than 45
+_ years.
+§ 36-2 Definitions.
+As used herein the following terms shall have the following meanings:
+“Accessory apartments” meansa residential dwelling unit that provides complete independent
+living facilities with a private entrance for one or more persons, consisting of provisions for
+living, sleeping, eating, sanitation, and cooking, including a stove and refrigerator, and is
+located within a proposed preexisting primary dwelling, within an existing or proposed
+structure that is an accessory to a dwelling on the same lot, constructed in whole or part as an
+extension to a proposed or existing primary dwelling, or constructed as a separate detached
+structure on the same lot as the existing or proposed primary dwelling. Accessory apartments
+are also referred to as “accessory dwelling units”.
+“Act” means the New Jersey Fair Housing Act, N.J.S.A. 52:27D-301 et seq.
+“Adaptable” means constructed in compliance with the technical design standards of the
+barrier free subcode adopted by the Commissioner ofCommunity Affairs pursuant to the “State
+Uniform Construction Code Act,” P.L.1975, c. 217 (C.52:27D-119 et seq.) and in accordance
+with the provisions ofsection 5 of P.L.2005, c. 350 (C.52:27D-123.15).
+Page 2
+
+===== PAGE 3 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 3of58
+Trans ID: LCV2026524139
+“Administrative agent” means the entity approved by the Division responsible for the
+administration ofaffordable units, in accordance with N.J.A.C. 5:99-7, and UHAC at N.J.A.C.
+5:80-26.15.
+“Affirmative marketing” means a regional marketing strategy designed to attract buyers and/or
+renters of affordable units pursuant to N.J.A.C. 5:80-26.16.
+“Affirmative Marketing Plan” means the municipally adopted plan of strategies from which
+the administrative agent will choose to implement as part of the Affirmative Marketing
+requirements.
+“Affirmative Marketing Process” or “Program” means the actual undertaking of Affirmative
+Marketing activities in furtherance of each project with very low- low- and moderate-income
+units.
+“Affordability assistance” means the use of funds to render housing units more affordable to
+low- and moderate-income households and includes, but is not limited to, down payment
+assistance, security deposit assistance, low interest loans, rental assistance, assistance with
+homeowner’s association or condominium fees and special assessments, common maintenance
+expenses, and assistance with emergency repairs and rehabilitation to bring deed-restricted
+units up to code, pursuant to N.J.A.C. 5:99-2.5.
+“Affordability average” means an average of the percentage of regional median income at
+which restricted units in an affordable development are affordable to low- and moderate-
+income households.
+“Affordable” means, in the case ofan ownership unit, that the sales price for the unit conforms
+to the standards set forth at N.J.A.C. 5:80-26.7 and, in the case of a rental unit, that the rent for
+the unit conforms to the standards set forth at N.J.A.C. 5:80-26.13.
+“Affordable housing development” means a development included in a municipality’s housing
+element and fair share plan, and includes, but is not limited to, an inclusionary development, a
+municipally sponsored affordable housing project, or a 100 percent affordable development.
+This includes developments with affordable units on-site, off-site, or provided as a payment
+in-lieu of construction only if such a payment-in-lieu option has been previously approved by
+the Program or Superior Court as part of the HEFSP. Payments in lieu of construction were
+invalidated per P.L. 2024, c.2.
+“Affordable Housing Dispute Resolution Program” or “the Program” refers to the dispute
+resolution program established pursuant to N.J.S.A. 52:27D-313.2.
+“Affordable Housing Monitoring System” or “AHMS” means the Department’s cloud-based
+software application, which shall be the central repository for municipalities to use for
+reporting detailed information regarding affordable housing developments, affordable housing
+unit completions, and the collection and expenditures of funds deposited into the municipal
+affordable housing trust fund.
+“Affordable Housing Trust Fund” or “AHTF” means that non-lapsing, revolving trust fund
+established in DCA pursuant to N.J.S.A. 52:27D-320 and N.J.A.C. 5:43 to be the repository of
+all
+State funds appropriated
+for affordable housing purposes.
+All references
+to
+the
+“Neighborhood Preservation Nonlapsing Revolving Fund” and “Balanced Housing” mean the
+AHTF.
+Page 3
+
+===== PAGE 4 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 4of58
+Trans ID: LCV2026524139
+“Affordable unit” means a housing unit proposed or developed pursuant to the Act, including
+units created with municipal affordable housing trust funds.
+“Age-restricted housing” means a housing unit that is designed to meet the needs of, and is
+exclusively for, an age-restricted segment of the population such that: 1. All the residents of
+the development where the unit is situated are 62 years or older; 2. At least 80 percent of the
+units are occupied by one person that is 55 years or older; or 3. The development has been
+designated by the Secretary of HUD as “housing for older persons” as defined in Section
+807(b)(2) ofthe Fair Housing Act, 42 U.S.C. § 3607.
+“Agency” means the New Jersey Housing and Mortgage Finance Agency established by
+P.L.1983, c. 530 (C.55:14K-1 et seq.).
+“Assisted living residence” meansa facility licensed by the New Jersey Department of Health
+to provide apartment-style housing and congregate dining and to ensure that assisted living
+services are available when needed for four or more adult persons unrelated to the proprietor.
+Apartment units must offer, at
+a minimum, one unfurnished room, a private bathroom, a
+kitchenette, and a lockable door on the unit entrance.
+“Barrier-free escrow” means the holding of funds collected to adapt affordable unit entrances
+to be accessible in accordance with N.J.S.A. 52:27D-311a et seq. Such funds shall be held in
+a municipal affordable housing trust fund pursuant to N.J.A.C. 5:99-2.6.
+“Builder’s remedy” means court-imposed site-specific relief for a litigant who seeks to build
+affordable housing for which the court requires a municipality to utilize zoning techniques,
+such as mandatory set-asides or density bonuses, including techniques which provide for the
+economic viability of a residential development by including housing that is not for low- and
+moderate-income households.
+“Certified household” means a household that has been certified by an administrative agent as
+a very-low-income household, a low-income household, or a moderate-income household.
+“CHOICE” means the no-longer-active Choices in Homeownership Incentives for Everyone
+Program, as it was authorized by the Agency.
+“COAH?” or the “Council” means the Council on Affordable Housing established in, but not
+of, DCA pursuant to the Act and that was abolished effective March 20, 2024, pursuant to
+section 3 at P.L. 2024, c. 2 (N.J.S.A. 52:27D-304.1).
+“Commissioner” means the Commissioner of the Department of Community Affairs.
+“Compliance certification” means the certification obtained by a municipality pursuant to
+section 3 of P.L.2024, c. 2 (C.52:27D-304.1), that protects the municipality from exclusionary
+zoning litigation during the current round of present and prospective need and through July 1
+of the year the next round begins, which is also known as a “judgment of compliance” or
+“judgment ofrepose.” The term “compliance certification” shall include a judgment ofrepose
+granted in an action filed pursuant to section 13 of P.L.1985, c. 222 (C.52:27D-313).
+“Construction” means new construction and additions, but does not include alterations,
+reconstruction, renovations, conversion, relocation, or repairs, as those terms are defined in the
+State Uniform Construction Code promulgated pursuant to the State Uniform Construction
+Code Act, P.L. 1975, c. 217(N.J.S.A. 52:27D-119 et seq.).
+Page 4
+
+===== PAGE 5 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 5of58
+Trans ID: LCV2026524139
+“County-level housing judge” means a judge appointed pursuant to section 5 at P.L. 2024, c.
+2, to resolve disputes over the compliance of municipal fair share affordable housing
+obligations and municipal Fair Share plans and housing elements with the Act.
+“DCA” and “Department” mean the State ofNew Jersey Department of Community Affairs.
+‘Deficient housing unit” means a housing unit with health and safety code violations that
+require the repair or replacement of a major system. A major system includes weatherization,
+roofing, plumbing (including wells), heating, electricity, sanitary plumbing (including septic
+systems), lead paint abatement and/or load bearing structural systems.
+“Department” means the New Jersey Department of Community Affairs.
+“Developer” means the legal or beneficial owner or owners ofa lot or of any land proposed to
+be included in a proposed development, including the holder of an option or contract to
+purchase, or other person having an enforceable proprietary interest in such land.
+“Development” means the division of a parcel of land into two or more parcels, the
+construction, reconstruction, conversion, structural alteration, relocation, or enlargement of
+any building or other structure, or of any mining, excavation, or landfill, and any use or change
+in the use of any building or other structure, or land or extension of use of land, for which
+permission may be required pursuant to the Municipal Land Use Law, N.J.S.A. 40:55D-1 et
+seq.
+“Development fee” means money paid by a developer for the improvement of residential and
+non-residential property as permitted pursuant to N.J.S.A. 52:27D-329.2 and 40:55D-8.1
+through 40:55D-8.7 and N.J.A.C. 5:99-3.
+“Dispute Resolution Program” means the Affordable Housing Dispute Resolution Program,
+established pursuant to section 5 at P.L. 2024, c. 2 (N.J.S.A. 52:27D-313.2).
+“Division” means the Division of Local Planning Services within the Department of
+Community Affairs.
+“Emergent opportunity” means a circumstance that has arisen whereby affordable housing will
+be able to be produced through a delivery mechanism not originally contemplated by or
+included in a fair share plan that has been the subject of a compliance certification.
+“Equalized assessed value” or “EAV” means the assessed value of a property divided by the
+current average ratio of assessed to true value for the municipality in which the property is
+situated, as determined in accordance with sections 1, 5, and 6 at P.L. 1973, c. 123 (N.J.S.A.
+54:1-35a, 54:1-35b,and 54:1-35c). Estimates at the time of building permit may be obtained
+by the tax assessor using construction cost estimates. Final EAV shall be determined at project
+completion by the municipal assessor.
+“Equity share amount” means the product of the price differential and the equity share, with
+the equity share being the whole number of years that have elapsed since the last non-exempt
+sale of a restricted ownership unit, divided by 100, except that the equity share may not be less
+than five percent and may not exceed 30 percent.
+“Exit sale” means the first authorized non-exempt sale of a restricted unit following the end of
+the control period, which sale terminates the affordability controls on the unit.
+Page 5
+
+===== PAGE 6 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 6of58
+Trans ID: LCV2026524139
+“Exclusionary zoning litigation” means litigation challenging the fair share plan, housing
+element, ordinances, or resolutions that implement the fair share plan or housing element of a
+municipality based on alleged noncompliance with the Act or the Mount Laurel doctrine,
+which litigation shall include, but shall not be limited to, litigation seeking a builder’s remedy.
+“Extension of expiring controls” means extending the deed restriction period on units where
+the controls will expire in the current round of a housing obligation, so that the total years of a
+deed restriction is at least 60 years.
+“Fair share obligation” means the total of the present need and prospective need, including
+prior rounds, as determined by the Affordable Housing Dispute Resolution Program, or a court
+of competent jurisdiction.
+“Fair share plan” means the plan or proposal, with accompanying ordinances and resolutions,
+by which a municipality proposes to satisfy its constitutional obligation to create a realistic
+opportunity to meet its fair share oflow- and moderate-income housing needs of its region and
+which details the affirmative measures the municipality proposes to undertake to achieve its
+fair share of very low-, low- and moderate-income housing, as provided in the municipal
+housing element, and which addresses the development regulations necessary to implement
+the housing element, including, but not limited to, inclusionary requirements and development
+fees, and the elimination of unnecessary housing cost-generating features from the municipal
+land use ordinances and regulations.
+“FHA” means the New Jersey Fair Housing Act, N.J.S.A. 52:27D-301 et seq.
+“Green Building Strategies” means the strategies that minimize the impact of development on
+the environment, and enhance the health, safety and well-being of residents by producing
+durable, low-maintenance, resource-efficient housing while making optimum use of existing
+infrastructure and community services.
+“HMFA” or “the Agency” means the New Jersey Housing and Mortgage Finance Agency
+established pursuant to P.L. 1983, c. 530 (N.J.S.A. 55:14K-1 et seq.).
+“Household income” means a household’s gross annual income calculated in a manner
+consistent with the determination of annual income pursuant to section 8 of the United States
+Housing Act of 1937 (Section 8), not in accordance with the determination of gross income for
+Federal income tax liability.
+“Housing element” means the portion of a municipality’s master plan adopted in accordance
+with the Municipal Land Use Law (MLUL) at N.J.S.A. 40:55D-28.b(3) and the Act consisting
+ofreports, statements proposals, maps, diagrams, and text designed to meet the municipality’s
+fair share of its region’s present and prospective housing needs, particularly with regard to
+low- and moderate-income housing, which shall include the municipal present and prospective
+obligation for affordable housing, determined pursuant to subsection f. at N.J.S.A. 52:27D-
+304.1.
+“Housing region” means a geographic area established pursuant to N.J.S.A. 52:27D-304.2b.
+“Inclusionary development” meansa residential housing development in whicha substantial
+percentage ofthe housing units are provided for a reasonable income range of very low-, low-
+and moderate- income households.
+Page 6
+
+===== PAGE 7 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg7of58
+Trans ID: LCV2026524139
+“Judgment of compliance” or “judgment for repose” means a determination issued by the
+Superior Court approving a municipality’s fair share plan to satisfy its affordable housing
+obligation for a particular 10-year round.
+“Low-income household” means a household with a household income equal to 50 percent or
+less ofthe regional median income.
+“Low-income
+unit”
+means
+a
+restricted
+unit
+that
+is
+affordable
+to
+a
+low-income
+household.
+“Major system” means the primary structural, mechanical, plumbing, electrical, fire protection,
+or occupant service components of a building which include but are not limited
+to,
+weatherization, roofing, plumbing (including wells), heating, electricity, sanitary plumbing
+(including septic systems), lead paint abatement or load bearing structural systems.
+“Mixed use development” means any development that includes both a non-residential
+development component and a
+residential development component, and shall include
+developments for which: (1) there is
+a common developer for both the residential development
+component and the non-residential development component, provided that for purposes of this
+definition, multiple persons and entities maybe considered
+a common developer if there is a
+contractual relationship among them obligating each entity to develop at least a portion of the
+residential or non-residential development, or both, or otherwise to contribute resources to the
+development; and (2) the residential and non-residential developments are located on the same
+lot or adjoining lots, including, but not limited to, lots separated bya street, a river, or another
+geographical feature.
+“Moderate-income household” means a household with a household income in excess of 50
+percent but less than 80 percent of the regional median income.
+“Moderate-income unit” means a restricted unit that is affordable to a moderate-income
+household.
+“MONI” means the no-longer-active Market Oriented Neighborhood Investment Program, as
+it was authorized by the Agency.
+“Municipal housing liaison” or “MHL” means an appointed municipal employee who is,
+pursuant to N.J.A.C. 5:99-6, responsible for oversight and/or administration of the affordable
+units created within the municipality.
+“Municipal affordable housing trust fund” means a separate, interest-bearing account held by
+a municipality for the deposit ofdevelopment fees, payments in lieu of constructing affordable
+units on sites zoned for affordable housing previously approved prior to March 20, 2024 (per
+P.L. 2024, c.2), barrier-free escrow funds, recapture funds, proceeds from the sale ofaffordable
+units, rental income, repayments from affordable housing program loans, enforcement fines,
+unexpended RCA funds remaining from a completed RCA project, application fees, and any
+other funds collected by the municipality in connection with its affordable housing programs,
+which shall be used to address municipal low- and moderate-income housing obligations
+within the time frames established by the Legislature and this chapter.
+“Municipal development fee ordinance” means an ordinance adopted by the governing body
+of a municipality that authorizes the collection of development fees.
+Page 7
+
+===== PAGE 8 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 8 of 58
+Trans ID: LCV2026524139
+“New construction” means the creation of a new housing unit under regulation by a code
+enforcement official regardless of the means by which the unit is created. Newly constructed
+units are evidenced by the issuance of a certificate of occupancy and may include new
+residences created through additions and alterations, adaptive reuse, subdivision, or conversion
+of existing space, and movinga structure from one location to another.
+“New Jersey Affordable Housing Trust Fund” means an account established pursuant to
+N.J.S.A. 52:27D-320.
+“New Jersey Housing Resource Center” or “Housing Resource Center” means the online
+affordable housing listing portal, or its successor, overseen by the Agency pursuant to N.J.S.A.
+52:27D-321.3 et seq.
+“95/5 restriction” means a deed restriction governing a restricted ownership unit that is part of
+a housing element that received substantive certification from COAH pursuant to N.J.A.C.
+5:93, as it was in effect at the time of the receipt of substantive certification, before October 1,
+2001, or any other deed restriction governing a restricted ownership unit with a
+seller
+repayment option requiring 95 percent of the price differential to be paid to the municipality
+or an instrument of the municipality at the closing of a sale at market price.
+“Non-exempt sale” means any sale or transfer of ownership of a restricted unit to one’s self or
+to another individual other than the transfer of ownership between spouses or civil union
+partners; the transfer of ownership between former spouses or civil union partners ordered as
+a result of a judicial decree of divorce or judicial separation, but not including sales to third
+parties; the transfer of ownership between family members as a result of inheritance; the
+transfer of ownership through an executor’s deed to a class A beneficiary; and the transfer of
+ownership by court order.
+“Nonprofit” means an organization granted nonprofit status in accordance with section
+501(c)(3) of the Internal Revenue Code.
+“Non-residential development” means:
+Any building or structure, or portion thereof, including, but not limited to, any appurtenant
+improvements, which is designated to a use group other than a residential use group
+according to the State Uniform Construction Code, N.J.A.C. 5:23, promulgated to
+effectuate the State uniform Construction Code Act, N.J.S.A. 52:27D-119 et seq., including
+any subsequent amendments or revisions thereto;
+Ilotels, motels, vacation timcsharcs, and child-care facilitics; and
+The entirety of all continuing care facilities within a continuing care retirement community
+which is subject to the Continuing Care Retirement Community Regulation and Financial
+Disclosure Act, N.J.S.A.52:27D-330 et seq.
+“Non-residential development fee” means the fee authorized to be imposed pursuant to
+N.J.S.A. 40:55D-8.1 through 40:55D-8.7.
+“Order for repose” means the protection a municipality has from a builder’s remedy lawsuit
+for a period of time from the entry of a judgment of compliance by the Superior Court. A
+judgment of compliance often results in an order for repose.
+Page 8
+
+===== PAGE 9 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg9of58
+Trans ID: LCV2026524139
+“Payment in lieu of constructing affordable units” means the prior approval of the payment of
+funds to the municipality by a developer when affordable units are were not produced ona site
+zoned for an inclusionary development. The statutory permission for payments in lieu of
+constructing affordable units was eliminated per P.L. 2024, c.2.
+“Prospective need” means a projection of housing needs based on development and growth
+which is reasonably likely to occur in a region or a municipality, as the case may be, as a result
+of actual determination ofpublic and private entities. Prospective need shall be determined by
+the methodology set forth pursuant to sections 6 and 7 of P.L.2024, c. 2 (C.52:27D-304.2 and
+C.52:27D-304.3) for the fourth round and all future rounds ofhousing obligations.
+“Qualified Urban Aid Municipality” means a municipality that meets the criteria established
+pursuant to N.J.S.A. 52:27D-304.3.c(1).
+“Person with a disability” means a person with a physical disability, infirmity, malformation,
+or disfigurement which is caused by bodily injury, birth defect, aging, or illness including
+epilepsy and other seizure disorders, and which shall include, but not be limited to, any degree
+of paralysis, amputation, lack of physical coordination, blindness or visual impairment,
+deafness or hearing impairment, the inability to speak or a speech impairment, or physical
+reliance on a service animal, wheelchair, or other remedial appliance or device.
+“Price differential” means the difference between the controlled sale price of a restricted unit
+and the contract price at the exit sale of the unit, determined as of the date of a proposed
+contract of sale for the unit. If there is no proposed contract of sale, the price differential is the
+difference between the controlled sale price of a restricted unit and the appraised value of the
+unit as if it were not subject to UHAC, determined as of the date of the appraisal. If the
+controlled sale price exceeds the contract price or, in the absence of a contract price, the
+appraised value, the price differential is zero dollars.
+“Prior round unit” means a housing unit that addresses a municipality’s fair share obligation
+from a round prior to the fourth round of affordable housing obligations, including any unit
+that: (1) received substantive certification from COAH; (2) is part of a third-round settlement
+agreement orjudgment ofcompliance approved by a court ofcompetent jurisdiction, inclusive
+of units created pursuant to a zoning designation adopted as part of the settlement agreement
+orjudgment ofcompliance to create a realistic opportunity for development; (3) is subject to a
+grant agreement or other contract with either the State or a political subdivision thereof entered
+into prior to July 1, 2025, pursuant to either item (1) or (2) above; or (4) otherwise addresses a
+municipality’s fair share obligation from a round prior to the fourth round of affordable
+housing obligations. A unit created after the enactment of P.L. 2024, c. 2 (N.J.S.A. 52:27D-
+304.1) on March 20, 2024, is not a prior round unit unless: (1) it is created pursuant to a prior
+round development plan or zoning designation that was adopted and/or having received COAH
+or court approval on or before the cutoff date ofJune 30, 2025, or the date that the municipality
+adopts the implementing ordinances and resolutions for the fourth round of affordable housing
+obligations, whichever occurs sooner; and (2) its siting and creation are consistent with the
+form ofthe prior round development plan or zoning designation in effect as of the cutoff date,
+without any amendment or variance.
+“Program” means the Affordable Housing Dispute Resolution Program, established pursuant
+to section 5 of P.L.2024, c. 2 (C.52:27D-313.2).
+Page 9
+
+===== PAGE 10 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 10o0f58
+Trans ID: LCV2026524139
+“Random selection process” means a lottery process by which currently income-eligible
+applicant-households are selected, at random, for placement in affordable housing units such
+that no preference is given to one applicant over another, except in the case of a veterans’
+preference where such an agreement exists; for purposes of matching household income and
+size with an appropriately priced and sized affordable unit; or another purpose allowed
+pursuant to N.J.A.C. 5:80-26.7(k)3. This definition excludes any practices that would allow
+affordable housing units to be leased or sold ona first-come, first-served basis.
+“RCA administrator” means an appointed municipal employee who is responsible for oversight
+and/or administration of affordable units and associated revenues and expenditures within the
+municipality that were funded through regional contribution agreements.
+“RCA project plan” meansa past application, submitted by a receiving municipality in an
+RCA, delineating the manner in which the receiving municipality intended to create or
+rehabilitate low- and moderate-income housing.
+“Receiving municipality” means, for the purposes ofan RCA, a municipality that contractually
+agreed to assume a portion of another municipality’s fair share obligation.
+“Reconstruction” means any project where the extent and nature of the work is such that the
+work area cannot be occupied while the work is in progress and where a new certificate of
+occupancy is required before the work area can be reoccupied, pursuant to the Rehabilitation
+Subcode of the uniform Construction Code, N.J.A.C. 5:23-6. Reconstruction shall not include
+projects comprised only of floor finish replacement, painting or wallpapering, or the
+replacement of equipment or furnishings. Asbestos hazard abatement and lead hazard
+abatement projects shall not be classified as reconstruction solely because occupancy of the
+work area is not permitted.
+“Recreational facilities and community centers” means any indoor or outdoor buildings,
+spaces, structures, or improvements intended for active or passive recreation, including, but
+not limited to, ballfields, meeting halls, and classrooms, accommodating either organized or
+informal activity.
+“Regional contribution agreement” or “RCA” means a contractual agreement, pursuant to the
+Act, into which two municipalities voluntarily entered into and was approved by COAH and/or
+Superior Court prior to July 18, 2008, to transfer a portion of a municipality’s affordable
+housing obligation to another municipality within its housing region.
+“Regional median income” means the median income by household size for an applicable
+housing region, as calculated annually in accordance with N.J.A.C. 5:80-26.3.
+“Rehabilitation” means the repair, renovation, alteration, or reconstruction of any building or
+structure, pursuant to the Rehabilitation Subcode, N.J.A.C. 5:23-6.
+“Rent” means the gross monthly cost of a rental unit to the tenant, including the rent paid to
+the landlord, as well as an allowance for tenant-paid utilities computed in accordance with
+allowances published by DCA for its Section 8 program. With respect to units in assisted living
+residences, rent does not include charges for food and services.
+“Residential development fee” means money paid by a developer for the improvement of
+residential property as permitted pursuant to N.J.S.A. 52:27D-329.2 and N.J.A.C. 5:99-3.2.
+Page 10
+
+===== PAGE 11 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 11 o0f58
+Trans ID: LCV2026524139
+“Restricted unit” means a dwelling unit, whether a rental unit or ownership unit, that is subject
+to the affordability controls of this subchapter but does not include a market-rate unit that was
+financed pursuant to UHORP, MONI, or CHOICE.
+“Spending plan” means a method of allocating funds contained in an affordable housing trust
+fund account, which includes, but is not limited to, development fees collected and to be
+collected pursuant to an approved municipal development fee ordinance, or pursuant to
+N.J.S.A. 52:27D-329.1 et seq., for the purpose of meeting the housing needs of low- and
+moderate-income individuals.
+“State Development and Redevelopment Plan” or “State Plan” means the plan prepared
+pursuant to sections | through 12 ofthe “State Planning Act,” P.L.1985, c. 398 (C.52:18A-196
+et al.), designed to represent a balance of development and conservation objectives best suited
+to meet the needs of the State, and for the purpose of coordinating planning activities and
+establishing Statewide planning objectives in the areas of land use, housing, economic
+development, transportation, natural resource conservation, agriculture and farmland retention,
+recreation, urban and suburban redevelopment, historic preservation, public facilities and
+services, and intergovernmental coordination pursuant to subsection f. ofsection 5 ofP.L.1985,
+c. 398 (C.52:18A-200).
+“Supportive housing household” means a very low-, low- or moderate-income household
+certified as income eligible by an administrative agent in accordance with N.J.A.C. 5:80-26.14,
+in which at least one member is an individual who requires supportive services to maintain
+housing stability and independent living and who is part of a population identified by federal
+or state statute, regulation, or program guidance as eligible for supportive or special needs
+housing. Such populations include, but are not limited to: persons with intellectual or
+developmental disabilities, persons with serious mental illness, person with head injuries (as
+defined in Section 2 of P.L. 1977), persons with physical disabilities or chronic health
+conditions, persons who are homeless as defined by the U.S. Department ofHousing and Urban
+Development at 24 C.F.R. Part 578, survivors of domestic violence, youth aging out of foster
+care, and other special needs populations recognized under programs administered by the U.S.
+Department of Housing and Urban Development, the Low-Income Housing Tax Credit
+Program, the McKinney—Vento Act, or the New Jersey Department of Human Services. A
+supportive housing household may include family members, unrelated individuals, or live-in
+aides, provided that the household meets the income eligibility requirements ofthis subchapter,
+except that in the case ofunrelated individuals not operating as a family unit, income eligibility
+shall be tested on an individual basis rather than in the aggregate; the unit is leased or sold
+subject to the affordability controls established herein; and the supportive services available to
+the household are designed to promote housing stability, independent living, and community
+integration. The determination of whether unrelated individuals are operating as a family unit
+shall be made based on the applicant’s self-identification of household members on the
+affordable housing application.
+“Supportive housing sponsoring program” means grant or loan program which provided
+financial assistance to the development ofthe unit.
+“Supportive housing unit” meansa restricted rental unit, as defined by N.J.S.A. 34:1B-21.24,
+that is affordable to very low-, low- or moderate-income households and is reserved for
+Page 11
+
+===== PAGE 12 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 12o0f58
+Trans ID: LCV2026524139
+occupancy by a supportive housing household. Supportive housing units are also referred to as
+permanent supportive housing units.
+“Transitional housing” means temporary housing that: (1) includes, but is not limited to, single-
+room occupancy housing or shared living and supportive living arrangements; (2) provides
+access to on-site or off-site supportive services for very low-income households who have
+recently been homeless or lack stable housing; (3) is licensed by the department; and (4) allows
+households to remain for a minimum of six months.
+“Treasurer” means the Treasurer ofthe State ofNew Jersey.
+“UHAC” means the Uniform Housing Affordability Controls set forth at N.J.A.C. 5:80-26.
+“UHORP” means the Agency’s Urban Homeownership Recovery Program, as
+it was
+authorized by the Agency Board.
+“Unit type” means type of dwelling unit with various building standards including but not
+limited to single-family detached, single-family attached/townhouse, stacked townhouse
+(attached building containing 2 units each with separate entrances), duplex (detached building
+containing 2 units each with separate entrances), triplex (3 units each with separate entrance),
+quadplex (4 units each with separate entrance), multifamily/ flat (2 or more units with a shared
+entrance). Inclusion of a garage, or not, shall not define the unit type.
+“Very-low-income household” means a household with a household income less than or equal
+to 30 percent of the regional median income.
+“Very-low-income housing” means housing affordable according to the Federal Department
+of Housing and Urban Development or other recognized standards for home ownership and
+rental costs and occupied or reserved for occupancy by households with a gross household
+income equal to 30 percent or less of the median gross household income for households of
+the same size within the housing region in which the housing is located.
+“Very-low-income unit” means a
+restricted unit that is affordable to a very-low-income
+household.
+“Veteran” meansa veteran as defined at N.J.S.A. 54:4-8.10.
+“Veterans” preference” means the agreement between a municipality and a developer or
+residential development owner that allows for low- to moderate-income veterans to be given
+preference for up to 50 percent of rental units in relevant projects, as provided for at N.J.S.A.
+§2:27D-311j.
+“Weatherization” means building insulation (for attic, exterior walls and crawl space), siding
+to improve energy
+efficiency, replacement storm windows, replacement storm doors,
+replacement windows and replacement doors and
+is considered a major system for
+rehabilitation.
+§ 36-3 Monitoring and Reporting Requirements.
+1.
+The municipality shall comply with the following monitoring and reporting requirements
+regarding the status ofthe implementation of its court-approved Housing Element and Fair
+Share Plan:
+Page 12
+
+===== PAGE 13 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 130f58
+Trans ID: LCV2026524139
+a.
+The municipality shall provide electronic monitoring data with the Department
+pursuant to P.L 2024, Chapter 2 and N.J.A.C. 5:99 through the Affordable Housing
+Monitoring System (AHMS). All monitoring information required to be made public
+by the FHA
+shall be available to the public on the Department’s website
+at
+https://www.nj.gov/dca/dlps/hss/MuniStatusReporting.shtml.
+b.
+Onor before February 15 of each year, the municipality shall provide annual reporting
+of its municipal Affordable Housing Trust Fund activity to the Department on the
+AHMS portal. The reporting shall include an accounting of all municipal Affordable
+Housing Trust Fund activity, including the sources and amounts offunds collected and
+the amounts and purposes for which any funds have been expended, for the previous
+year from January 1st to December 31st.
+c.
+On or before February 15 of each year, the annual reporting of the status of all
+affordable housing activity shall be provided to the Department on the AHMS portal,
+for the previous year from January 1st to December 31st.
+§ 36-4 Affordable Housing Programs/Compliance Techniques.
+A. Rehabilitation Programs
+(per N.J.A.C.
+5:93-5.2 with updated provisions herein per
+N.J.A.C. 5:97-6.2 related to credit towards a municipal present need obligation).
+1.
+The
+rehabilitation program shall be designed to renovate deficient housing units
+occupied or intended to be occupied by very low-, low- and moderate-income
+households such that, after rehabilitation, these units will comply with the New Jersey
+State Housing Code pursuant to N.J.A.C. 5:28-1.1 et seq or the Rehabilitation Subcode,
+N.J.A.C. 5:23-6 to the extent applicable.
+2.
+Both ownership and rental units shall be eligible for rehabilitation funds.
+3.
+All rehabilitated units shall remain affordable to very low-, low- and moderate-income
+households for a period of 10 years (the control period). For owner-occupied units, the
+control period shall be enforced with a mortgage and note and for renter-occupied units
+the control period will be enforced with a deed restriction.
+4.
+The municipality shall dedicate
+a minimum average hard cost of $10,000 for each unit
+to be rehabilitated through this program and in addition shall dedicate associated
+rehabilitation program soft costs such as case management, inspection fees and work
+write-ups.
+5.
+The municipality shall designate, subject to the approval of the Department, one or
+more Administrative Agents to administer the rehabilitation program in accordance
+with P.L 2024, Chapter 2. The Administrative Agent(s) shall provide rehabilitation
+manuals for ownership and rental rehabilitation programs. Manuals shall be adopted by
+resolution of the governing body. Both rehabilitation manuals shall be available for
+public inspection in the Office ofthe Municipal Clerk and on the municipal affordable
+housing web page.
+6.
+Households determined to be very low-, low-, or moderate-income may participate in
+arehabilitation program. Rehabilitated units shall be exempt from the very low-income
+requirements, low/mod split, and bedroom distribution requirements of UHAC, but
+shall be administered in accordance with the following:
+Page 13
+
+===== PAGE 14 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 140f58
+Trans ID: LCV2026524139
+i.
+Ifa unit is vacant at the time of rehabilitation, or if a rehabilitated unit becomes
+vacant and is re-rented before the expiration of the affordability controls, the deed
+restriction shall require that the unit be rented to a low- or moderate-income
+household at an affordable rent.
+ii.
+Ifa rental unit is occupied by a tenant at the time rehabilitation is completed, the
+rent charged after rehabilitation shall not exceed the lesser of the tenant’s current
+rent or the maximum rent permitted under UHAC.
+iii. Rents in rehabilitated units may increase annually based on the standards in UHAC.
+iv. At the time of application, applicant households and/or tenant households shall be
+subject to income eligibility determinations in accordance with UHAC.
+B. Extension of Controls Program (for ownership units per N.J.A.C. 5:97-6.14 and UHAC at
+N.J.A.C. 5:80-26.6(h) through (k) and (m); and for rental units per N.J.A.C. 5:97-6.14 and
+N.J.A.C. 5:80-26.12(h) through (k)).
+1. An extension of affordability controls program is established to maintain and extend
+the affordability of deed restricted units scheduled to come out of their affordability
+control period, subject to N.J.A.C. 5:97-6.14 and UHAC, including the following:
+i.
+The affordable unit meets the criteria for prior cycle (April 1, 1980 - December 15,
+1986) or post December 15, 1986 credits set forth in N.J.A.C. 5:97.
+ii. The affordability controls for the unit are scheduled to expire in the current round;
+or in the next round of housing obligations if the municipal election to extend
+controls is made no earlier than one year before the end ofthe current round;
+iii, The municipality shall obtain a continuing certificate of occupancy ora certified
+statement from the municipal building inspector stating that the restricted unit
+meets all code standards.
+iv. Ifa unit requires repair and/or rehabilitation work in order to receive a continuing
+certificate of occupancy or certified statement from the municipal building
+inspector, the municipality shall fund and complete the work.
+v. The municipality shall adhere to the process for extending controls pursuant to
+UHAC for extending ownership units and rental units, either inclusionary or 100%
+affordable developments.
+vi. The deed restriction for the extended control period shall be filed with the County
+Clerk.
+C. Assisted Living Residence (per N.J.A.C. 5:97-6.11).
+1. An assisted living residence is a facility licensed by the New Jersey Department of
+Health to provide apartment-style housing and congregate dining and to assure that
+assisted living services are available. All or a designated number of apartments in the
+facility shall be restricted to low- and moderate-income households.
+2. The unit of credit shall be the apartment. However, a two-bedroom apartment shall be
+eligible for two units of credit if it is restricted to two unrelated individuals.
+Page 14
+
+===== PAGE 15 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 15o0f58
+Trans ID: LCV2026524139
+3. A recipient of a Medicaid waiver shall automatically qualify as a low- or moderate-
+income household.
+4.
+Assisted living units are considered age-restricted housing in
+a HEFSP and shall be
+included with the maximum number ofunits that may be age-restricted.
+5.
+Low- and moderate-income residents cannot be charged any upfront fees.
+6.
+The units shall comply with UHAC with the following exceptions:
+i.
+Affirmative marketing (N.J.A.C. 5:80-26.16); provided that the units are restricted
+to recipients of Medicaid waivers;
+ii.
+The deed restriction may be on the facility, rather than individual apartments or
+rooms;
+iii. Low/moderate income split and affordability average (N.J.A.C. 5:80-26.4); only if
+all ofthe affordable units are affordable to households at a maximum of 60 percent
+ofmedian income; and
+7.
+Tenant income eligibility (N.J.A.C. 5:80-26.14); up to 80 percent of an applicant’s
+gross income may be used for rent, food and services based on occupancy type and the
+affordable unit must receive the same basic services as required by the Agency’s
+underwriting guidelines and financing policies. The cost of non-housing related
+services shall not exceed one and two-thirds times the rent established for each unit.
+D. Supportive Housing and Group Homes (per N.J.A.C. 5:97-6.10).
+1.
+The following provisions shall apply to group homes, residential health care facilities,
+and supportive shared living housing:
+i.
+Units are subject to Affirmative Marketing requirements, household certification,
+and administrative agent oversight; and may, with the approval of the municipal
+housing liaison and the administrative agent, be leased either by the bedroom or to
+a single household in the case of multi-bedroom configurations, provided such
+arrangement is consistent with the Federal Fair Housing Act (Title VIII ofthe Civil
+Rights Act of 1968).
+ii.
+Units may, with the approval of the administrative agent, be subject to a master
+lease by an approved supportive housing operator, provided that all subleases are
+to be certified supportive housing households and remain fully subject to the
+affordability controls of this subchapter. Rents for supportive housing units shall
+not exceed the rent standards established and published by the New Jersey
+Department of Human Services.
+iii. The unit of credit shall be the bedroom. However, the unit of credit shall be the
+unit if occupied by a single person or household.
+iv. Housing that is age-restricted shall be included with the maximum number ofunits
+that may be age-restricted pursuant to the Act.
+y.
+Occupancy shall not be restricted to youth under 18 years of age.
+Page 15
+
+===== PAGE 16 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 16 o0f58
+Trans ID: LCV2026524139
+vi. In affordable developments with 20 or more restricted units that are supportive
+housing, two-bedroom units must compose at least five percent of those restricted
+units.
+vii. The bedrooms
+and/or
+units
+shall comply with UHAC with the
+following
+exceptions:
+(a) Affirmative marketing; however, group homes, residential health care facilities,
+permanent supportive housing, and supportive shared living housing shall be
+affirmatively marketed to broadest possible population of qualified individuals
+with special needs in accordance with a plan approved by the sponsoring
+program;
+(b) Affordability average and bedroom distribution (N.J.A.C. 5:80-26.4).
+viii.
+With the exception of units established with capital funding through a 20-
+year operating contract with the Department of Human Services, Division of
+Developmental
+Disabilities,
+group homes,
+residential
+health
+care
+facilities,
+supportive shared living housing and permanent supportive housing shall have the
+appropriate controls on affordability in accordance with the Act. In the event that a
+supportive housing provider is unable to record or execute a long-term deed
+restriction, the units shall be subject to annual recertification by the Municipal
+Housing Liaison to confirm continued occupancy and compliance with this Section.
+ix. Objective standards shall be applied in the selection of tenants for supportive
+housing units and shall be designed to ensure that individuals are not excluded in
+an arbitrary or capricious manner.
+x. The following documentation shall be submitted by the sponsor to the municipality
+prior to marketing the completed units or facility:
+(a) An Affirmative Marketing Plan in accordance with D1 above; and
+(b) Ifapplicable, proofthat the supportive and/or special needs housing is regulated
+by the New Jersey Department of Health and Senior Services, the New Jersey
+Department ofHuman Services or another State agency in accordance with the
+requirements of this section, which includes validation of the number of
+bedrooms or units in which low- or moderate-income occupants reside.
+xi. The sponsor/owner shall complete annual monitoring as directed by the MHL.
+§ 36-5 Mandatory Set-Aside.
+1. A development, other than single-family family detached, providing a minimum of five
+new housing units created through any municipal rezoning or Zoning Board action, use or
+density variance, redevelopment plan, or rehabilitation plan that provides for densities at
+or above six units per acre, is required to include an affordable housing set-aside oftwenty
+percent (20%).
+2. Any affordable units generated through such mandatory set-aside shall be subject to all
+other provisions of this ordinance.
+3.
+All such affordable units shall be governed by this ordinance the controls on affordability,
+including bedroom distribution, and affirmatively marketed to the housing region in
+Page 16
+
+===== PAGE 17 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 17 of 58
+Trans ID: LCV2026524139
+conformance with UHAC at N.J.A.C. 5:80-26.1 et seq., any successor regulation, and all
+other applicable laws.
+4. No subdivision shall be permitted or approved for the purpose ofavoiding compliance with
+this requirement. Developers cannot, for example, subdivide a project into two lots and
+then make each of them a number ofunits just below the threshold.
+5.
+The mandatory set-aside requirements of this section do not give any developer the right
+to any rezoning, variance or other relief, or establish any obligation on the part of the
+municipality to grant such rezoning, variance or other relief.
+6.
+This municipality-wide mandatory set-aside requirement does not apply to any sites or
+specific zones otherwise identified in the HEFSP,
+for which density and set-aside
+requirements shall be governed by the specific standards as set forth therein.
+7.
+Inthe event that the inclusionary set-aside of twenty percent (20%) of the total number of
+residential units does not result in a full integer, the developer shall choose one of two
+options for addressing the fractional unit:
+a.
+The developer may round the set-aside upward to construct a whole additional
+affordable unit; or
+b.
+Ifthe set-aside includes a fractional unit equal to 0.49 or less, the developer may round
+the set-aside downward and construct the lesser whole number of affordable units and
+shall also contribute the fractional subsidy payment (“fractional subsidy payment”) to
+be made to the municipality and deposited in the municipal Affordable Housing Trust
+Fund. The fractional subsidy payment amount shall be calculated as the fractional unit
+multiplied by the base subsidy payment amount
+currently
+established by the
+municipality as the average subsidy reflected in financial proformas for 100%
+affordable housing or subsidized developments in the municipality or region on file
+with the municipality. For example, ifseven total units are developed at an inclusionary
+site, a 20% set-aside would require 1.4 affordable units. Per the requirements above:
+The developer shall round up the 0.4 unit to one whole affordable unit so as to construct
+a total of two (2) affordable housing units; or The developer shall round the set-aside
+downward so as to construct only one affordable unit AND shall pay into the municipal
+affordable housing trust fund a fractional subsidy payment equal to the dollar amount
+established by the municipality multiplied by 0.4.
+§ 36-6 New Construction (per N.J.A.C. 5:93 as may be updated per various sections in
+N.J.A.C. 5:97 and N.J.S.A. 52:27D-301 et seq.).
+Per the definition of “New Construction,” this section governs the creation of new affordable
+housing units regardless ofthe means by which the units are created. Newly constructed units may
+include new residences constructed or created through other means.
+The following requirements shall apply to all new or planned developments that contain very low-
+, low- and moderate-income housing units. To the extent possible, details related to the adherence
+to the requirements below shall be outlined in the resolution granting municipal subdivision or site
+plan approval of the project to assist municipal representatives, developers and Administrative
+Agents.
+A. Completion Schedule (previously known as phasing).
+Page 17
+
+===== PAGE 18 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 18o0f58
+Trans ID: LCV2026524139
+1.
+Final site plan or subdivision approval shall be contingent upon the affordable housing
+development meeting the following completion schedule for very low-, low- and
+moderate-income units whether developed in a single-phase development, or in a multi-
+phase development:
+Maximum Percentage of Market-Rate
+Minimum Percentage of Affordable
+Units Issued a Temporary or Final
+Units Issued a Temporary or Final
+Certificate of Occupanc
+Certificate of Occupanc
+00
+B. Design. The following design requirements apply to affordable housing developments,
+excluding prior round units.
+1.
+Design of 100 percent affordable developments:
+a.
+Restricted units must meet the minimum square footage required for the number of
+inhabitants for which the unit is marketed and the minimum square footage required
+for each bedroom, as set forth in the Neighborhood Preservation Balanced Housing
+tules at N.J.A.C. 5:43-2.4.
+b.
+Each bedroom in each restricted unit must have at least one window.
+c.
+Restricted units must include adequate air conditioning and heating.
+2.
+Design of developments comprising market-rate rental units and restricted rental units.
+The following does not apply to prior round units, unless stated otherwise.
+a.
+Restricted units must use the same building materials and architectural design
+elements (for example, plumbing, insulation, or siding) as market-rate units of the
+same unit type (for example, flat or townhome) within the same development,
+except that restricted units and market-rate units may use different interior finishes.
+This shall apply to prior round units.
+b.
+Restricted units and market-rate units within the same affordable development must
+be sited such that restricted units are not concentrated in less desirable locations.
+c.
+Restricted units may not be physically clustered so as to segregate restricted and
+market-rate units within the same development or within the same building, but
+must be interspersed throughout the development, except that age-restricted and
+supportive housing units may be physically clustered ifthe clustering facilitates the
+provision of on-site medical services or on-site social services. Prior round
+affordable units shall be integrated with market rate units to the extent feasible.
+d.
+Residents of restricted units must be offered the same access to communal
+amenities as residents ofmarket-rate units within the same affordable development.
+Examples ofcommunal amenities include, but are not limited to, community pools,
+Page 18
+
+===== PAGE 19 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 19o0f58
+Trans ID: LCV2026524139
+fitness and recreation centers, playgrounds, common rooms and outdoor spaces,
+and building entrances and exits. This shall apply to prior round units.
+e.
+Restricted units must include adequate air conditioning and heating and must use
+the same type of cooling and heating sources as market-rate units of the same unit
+type.
+This shall apply to prior round units.
+f.
+Each bedroom in each restricted unit must have at least one window.
+g.
+Restricted units must be ofthe same unit type as market-rate units within the same
+building.
+h.
+Restricted units and bedrooms must be no less than 90 percent ofthe minimum size
+prescribed by the Neighborhood Preservation Balanced Housing rules at N.J.A.C.
+5:43-2.4.
+3.
+Design of developments containing for-sale units, including those with a mix ofrental
+and for-sale units. Restricted rental units shall meet the requirements ofsection b above.
+Restricted sale units shall comply with the below:
+a.
+Restricted units must use the same building standards as market-rate units of the
+same unit type (for example, flat, townhome, or single-family home), except that
+restricted units and market-rate units may use different interior finishes. This shall
+apply to prior round units.
+b.
+Restricted units may be clustered, provided that the buildings or housing product
+types containing the restricted units are integrated throughout the development and
+are not concentrated in an undesirable location or in undesirable locations. Prior
+round affordable units shall be integrated with market rate units to the extent
+feasible.
+c.
+Restricted units may be of different unit housing product types than market-rate
+units, provided that there is a restricted option available for each market rate
+housing type. Developments containing market-rate duplexes, townhomes, and/or
+single-family homes shall offer restricted housing options that also include
+duplexes, townhomes, and/or single-family homes. Penthouses and higher priced
+end townhouses may be exempt from this requirement. The proper ratio for
+restricted to market-rate unit type shall be subject to municipal ordinance or, ifnot
+specified, shall be determined at the time of site plan approval.
+d.
+Restricted units must meet the minimum square footage required for the number of
+inhabitants for which the unit is marketed and the minimum square footage required
+for each bedroom, as set forth in the Neighborhood Preservation Balanced Housing
+tules at N.J.A.C. 5:43-2.4.
+e.
+Penthouse and end units may be reserved for market-rate sale, provided that the
+overall number, value, and distribution of affordable units across the development
+is not negatively impacted by such reservation(s).
+f.
+Residents of restricted units must be offered the same access to communal
+amenities as residents ofmarket-rate units within the same affordable development.
+Examples of communal amenities include, but are not limited to, community pools,
+Page 19
+
+===== PAGE 20 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 20 of 58
+Trans ID: LCV2026524139
+fitness and recreation centers, playgrounds, common rooms and outdoor spaces,
+and building entrances and exits. This shall apply to prior round units.
+g.
+Each bedroom in each restricted unit must have at least one window; and
+h.
+Restricted units must include adequate air conditioning and heating.
+C.
+Utilities.
+1.
+Affordable units shall utilize the same type of cooling and heating source as market-
+rate units within the affordable housing development.
+2.
+Tenant-paid utilities that are included in the utility allowance shall be so stated in the
+lease and shall be consistent with the utility allowance in accordance with N.J.AC 5:80-
+26.13(e).
+D. Low/moderate split and bedroom distribution.
+1.
+Affordable units shall be divided equally between low- and moderate-income units,
+except that where there is an odd number of affordable housing units, the extra unit
+shall be a low-income unit.
+2.
+Ineach affordable housing development, at least 50% ofthe restricted units within each
+bedroom distribution rounded up to the nearest whole number shall be very low- or
+low-income units.
+3.
+Within rental developments, ofthe total number ofaffordable rental units, at least 13%,
+rounded up to the nearest whole number, shall be affordable to very low-income
+households. The very low-income units shall be distributed between each bedroom
+count as proportionally as possible, to the nearest whole unit, to the total number of
+restricted units within each bedroom count, and counted as part ofthe required number
+of low-income units within the development.
+4.
+Affordable housing developments that are not age-restricted or supportive housing
+shall be structured such that:
+a.
+Ataminimum, the number ofbedrooms within the restricted units equals twice the
+number of restricted units;
+b.
+Two-bedroom and/or three-bedroom units compose at least 50 percent of all
+restricted units;
+c.
+The combined number ofefficiency and one-bedroom units shall be no greater than
+20%, rounded down, of the total number of low- and moderate-income units.
+d.
+At least 30% of all low- and moderate-income units, rounded up shall be two-
+bedroom units.
+e.
+At least 20% of all low- and moderate-income units, rounded up shall be three-
+bedroom units.
+f.
+The remaining units may be allocated among two- and three- bedroom units at the
+discretion ofthe developer.
+5.
+Affordable housing developments that are age-restricted or supportive housing, except
+those supportive housing units whose sponsoring program determines the unit
+Page 20
+
+===== PAGE 21 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 21 of 58
+Trans ID: LCV2026524139
+arrangements, shall be structured such that, at
+a minimum, the number of bedrooms
+shall equal the number of age-restricted or supportive housing low- and moderate-
+income units within the inclusionary development. Supportive housing units whose
+sponsoring
+program
+determines
+the
+unit
+arrangement
+shall
+comply
+with
+all
+requirements of the sponsoring program. The standard may be met by having all one-
+bedroom units or by having a two-bedroom unit for each efficiency unit. In affordable
+housing developments with 20 or more restricted units that are age-restricted or
+supportive housing, two-bedroom units must comprise at least 5% of those restricted
+units.
+E.
+Accessibility requirements.
+1.
+Any new construction shall be adaptable; however, elevators shall not be required in
+any building or within any dwelling unit for the purpose of compliance with this
+section. In buildings without elevator service, only ground floor dwelling units shall be
+required to be constructed to conform with the technical design standards ofthe barrier
+free subcode. “Ground floor” means the first floor with a dwelling unit or portion of a
+dwelling unit, regardless of whether that floor is at grade. A building may have more
+than one ground floor.
+2.
+Notwithstanding the exemption for townhouse dwelling units in the barrier free
+subcode, the first floor of all townhouse dwelling units and of all other multifloor
+dwelling units that are attached to at least one other dwelling unit shall be subject to
+the technical design standards of the barrier free subcode and shall include the
+following features:
+a.
+An adaptable toilet and bathing facility on the first floor;
+b. An adaptable kitchen on the first floor;
+c.
+An interior accessible route of travel however an interior accessible route of travel
+shall not be required between stories;
+d. An adaptable room that can be used as a bedroom, with a door, or the casing for the
+installation of a door that is compliant with the Barrier Free Subcode, on the first
+floor;
+e.
+Ifnot all ofthe foregoing requirements in 2.a. through 2.d. can be satisfied, then an
+interior accessible route of travel shall be provided between stories within an
+individual unit; and
+f.
+An accessible entranceway as set forth in P.L. 2005, c. 350 (N.J.S.A. 52:27D-311a
+et seq.) and the Barrier Free Subcode, N.J.A.C. 5:23-7, or evidence that the
+municipality has collected funds from the developer sufficient to make 10% of the
+adaptable entrances in the development accessible:
+(a) Where a unit has been constructed with an adaptable entrance, upon the request
+of a disabled person who is purchasing or will reside in the dwelling unit, an
+accessible entrance shall be installed.
+(b) To this end, the builder of restricted units shall deposit funds within the
+Affordable Housing Trust Fund sufficient to install accessible entrances in 10%
+ofthe affordable units that have been constructed with adaptable entrances.
+Page 21
+
+===== PAGE 22 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 22 0f58
+Trans ID: LCV2026524139
+(c) The funds deposited shall be expended for the sole purpose of making the
+adaptable entrance of an affordable unit accessible when requested to do so by
+a person with a disability who occupies or intends to occupy the unit and
+requires an accessible entrance.
+(d) The developer ofthe restricted units shall submit to the Construction Official a
+design plan and cost estimate for the conversion from adaptable to accessible
+entrances.
+(e) Once the Construction Official has determined that the design plan to convert
+the unit entrances from adaptable to accessible meets the requirements of the
+Barrier Free Subcode, N.J.A.C. 5:23-7, and that the cost estimate of such
+conversion is reasonable, payment shall be made to the Affordable Housing
+Trust Fund and earmarked appropriately.
+g.
+Full compliance with the foregoing provisions shall not be required where an entity
+can demonstrate that it is “site-impracticable” to meet the requirements. If full
+compliance with this section would be site impracticable, compliance with this
+section for any portion of the dwelling shall be required to the extent that it is not
+site impracticable. Determinations of site impracticability shall comply with the
+Barrier Free Subcode at N.J.A.C. 5:23-7.
+F.
+Regional Income Limits.
+1,
+Administrative agents shall use the current regional income limits for the purpose of
+pricing affordable units and determining income eligibility ofhouseholds.
+2.
+Regional income limits are based on regional median income, which is established by
+a regional weighted average of the “median family incomes” published by HUD. The
+procedure for computing the regional median income is detailed in N.J.A.C. 5:80-26.3.
+3. Updated regional income limits are effective as of the effective date of the regional
+Section 8 income limits for the year, as published by HUD, or 45 days after HUD
+publishes the regional Section 8 income limits for the year, whichever comes later. The
+new income limits may not be less than those ofthe previous year.
+G. Maximum Initial Rents And Sales Prices.
+1.
+In establishing rents and sales prices of affordable housing units, the Administrative
+Agent shall follow the procedures set forth in UHAC N.J.A.C. 5:80-26.4.
+2. The average rent for all restricted units within each affordable housing development
+shall be affordable to households earning no more than 52 percent of regional median
+income.
+3.
+The maximum rent for restricted rental units within each affordable housing
+development shall be affordable to households earning no more than 60% of regional
+median income. The maximum rent may be increased to no more than 70 percent of
+regional median income for moderate-income units within affordable developments
+where very-low-income units compose at least 13 percent of the restricted units;
+however, the number of units with rent affordable to households earning 70 percent of
+regional median income may not exceed the number of very-low-income units in
+excess of 13 percent (rounded up) of the restricted units.
+Page 22
+
+===== PAGE 23 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 23 0f 58
+Trans ID: LCV2026524139
+4.
+The developers and/or municipal sponsors of restricted rental units shall establish at
+least one rent for each bedroom type for both low-income and moderate-income units,
+provided that at least 13% of all low- and moderate-income rental units shall be
+affordable to households earning no more than 30% ofmedian income. These very low-
+income units shall be part of the low-income requirement and very-low-income units
+should be distributed between each bedroom count as proportionally as possible, to the
+nearest whole unit, to the total number of restricted units within each bedroom count.
+5.
+The maximum sales price of restricted ownership units within each affordable housing
+development shall be affordable to households earning no more than 70% of median
+income, and each affordable housing development must achieve an affordability
+average that does not exceed 55% for all restricted ownership units. In achieving this
+affordability average, moderate-income ownership units must be available for at least
+three different prices for each bedroom type, and low-income ownership units must be
+available for at least two different prices for each bedroom type when the number of
+low- and moderate-income units permits.
+6.
+The master deeds and declarations of covenants and restrictions
+for affordable
+developments may not distinguish between restricted units and market-rate units in the
+calculation
+of any
+condominium
+or homeowner
+association
+fees
+and
+special
+assessments
+to
+be
+paid
+by
+low-
+and
+moderate-income purchasers and those
+to be paid by market-rate
+purchasers.
+Notwithstanding the foregoing sentence, condominium units subject to a municipal
+ordinance
+adopted before December 20,
+2004, which
+ordinance provides
+for
+condominium or homeowner association fees and/or assessments different from those
+provided for in this subsection are governed by the ordinance.
+7.
+In determining the initial sales prices and rents for compliance with the affordability
+average requirements for restricted family units, the following standards shall be met:
+a. A studio or efficiency unit shall be affordable to a one-person household;
+b. A one-bedroom unit shall be affordable to a one and one-half person household;
+c. A two-bedroom unit shall be affordable to a three-person household;
+d. A three-bedroom unit shall be affordable to a four and one-half person household;
+and
+e. A four-bedroom unit shall be affordable to a six-person household.
+8.
+In determining the initial rents and sales prices for compliance with the affordability
+average requirements for restricted units in assisted living facilities and age-restricted
+and special needs and supportive housing developments, the following standards shall
+be met:
+a. A studio or efficiency unit shall be affordable to a one-person household;
+b. A one-bedroom unit shall be affordable to a one and one-half person household;
+and
+c. A two-bedroom unit shall be affordable to a two-person household or to two one-
+person households. Where pricing is based on two one-person households, the
+Page 23
+
+===== PAGE 24 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 240f58
+Trans ID: LCV2026524139
+developer shall provide a list of units so priced to the Municipal Housing Liaison
+and the Administrative Agent.
+9.
+The initial purchase price for all restricted ownership units shall be calculated so that
+the monthly carrying cost of the unit, including principal and interest (based on a
+mortgage loan equal to 95 percent of the purchase price and the Freddie Mac 30-Year
+Fixed Rate-Mortgage rate ofinterest), property taxes, homeowner and private mortgage
+insurance and condominium or homeowner association fees do not exceed 30 percent
+of the eligible monthly income of the appropriate size household as determined
+pursuant to N.J.A.C. 5:80-26.7, as may be amended and supplemented; provided,
+however, that the price shall be subject to the affordability average requirement of
+N.J.A.C. 5:80-26.4, as may be amended and supplemented.
+10. The initial rent for a restricted rental unit shall be calculated so that the total monthly
+housing expense, including an allowance for tenant-paid utilities, does not exceed 30
+percent of the gross monthly income of a household of the appropriate size whose
+income is targeted to the applicable percentage of median income for the unit, as
+determined pursuant to N.J.A.C. 5:80-26.3, as may be amended and supplemented. The
+rent shall also comply with the affordability average requirement of N.J.A.C. 5:80-
+26.4, as may be amended and supplemented. The initial rent for a restricted rental unit
+shall be calculated so the eligible monthly housing expenses/income, including an
+allowance for tenant-paid utilities does not exceed 30 percent of gross income of and
+the appropriate household size as determined pursuant to N.J.A.C. 5:80-26.3, as may
+be amended and supplemented.
+11. At the anniversary date ofthe tenancy ofthe certified household occupyinga restricted
+rental unit, following proper notice provided to the occupant household pursuant to
+N.J.S.A. 2A:18-61.1.f, the rent may be increased to an amount commensurate with the
+annual percentage increase in the Consumer Price Index for All Urban Consumers
+(CPI-U), specifically U.S. Bureau of Labor Statistics Series CUURO100SAH, titled
+“Housing in Northeast urban, all urban consumers, not seasonally adjusted.” Rent
+increases
+for units
+constructed pursuant to Low-Income Housing Tax
+Credit
+regulations shall be indexed pursuant to the regulations governing Low-Income
+Housing Tax Credits.
+§ 36-7 Affirmative Marketing.
+A. The municipality shall adopt, by resolution, an Affirmative Marketing Plan, subject to
+approval of the Superior Court, compliant with N.J.A.C. 5:80-26.16, as may be amended
+and supplemented.
+B. The Affirmative Marketing Plan is a regional marketing strategy designed to attract buyers
+and/or renters of all majority and minority groups, regardless ofrace, creed, color, national
+origin, ancestry, marital or familial status, gender, affectional or sexual orientation,
+disability, age, or number of children, to housing units which are being marketed by a
+developer, sponsor or owner of affordable housing. The Affirmative Marketing Plan is
+intended to target those potentially eligible persons who are least likely to apply for
+affordable units in that region. It is a continuing program that directs all marketing activities
+toward Housing Region 1 and is required to be followed throughout the period of deed
+restriction.
+Page 24
+
+===== PAGE 25 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 25o0f58
+Trans ID: LCV2026524139
+C. The Affirmative Marketing Plan provides the following preferences, provided that units
+that remain unoccupied after these preferences are exhausted may be offered to households
+without regard to these preferences.
+1.
+Where the municipality has entered into an agreement with a developer or residential
+development owner to provide a preference for very-low-,low-, and moderate-income
+veterans who served in time of war or other emergency, pursuant to N.J.S.A. 52:27D-
+311.j, there shall be a preference for veterans for up to 50 percent ofthe restricted rental
+units in a particular project.
+2.
+There shall be a regional preference for all households that live and/or work in Housing
+Region 1 comprising Bergen, Hudson, Passaic, and Sussex Counties.
+3.
+Subordinate to the regional preference, there shall be a preference for households that
+live and/or work in New Jersey.
+4.
+With respect to existing restricted units undergoing approved rehabilitation for the
+purpose ofpreservation or to restricted units newly created to replace existing restricted
+units undergoing demolition, a preference for the very-low-, low-, and moderate-
+income households
+that are displaced by the rehabilitation or demolition and
+replacement.
+D. The municipality has the ultimate responsibility for adopting the Affirmative Marketing
+Plan and for the proper administration ofthe Affirmative Marketing Process, including the
+marketing of initial sales and rentals and resales and re-rentals. The Administrative Agent
+designated by the municipality shall implement the Affirmative Marketing Process to
+ensure the Affirmative Marketing of all affordable units, with the exception of affordable
+programs that are exempt from Affirmative Marketing as noted herein.
+E. The Affirmative Marketing Process shall describe the media to be used in advertising and
+publicizing the availability of housing. In implementing the Affirmative Marketing
+Process, the Administrative Agent shall consider the use of language translations where
+appropriate.
+F.
+Applications for affordable housing or notices thereof, if offered online, shall be available
+in several locations, including, at
+a minimum, the County Administration Building and/or
+the County Library for each county within the housing region; the municipal administration
+building and municipal library in the municipality in which the units are located; and the
+developer’s rental or sales office. The developer shall mail applications to prospective
+applicants upon request and shall make applications available through a secure online
+website address.
+G. In addition to other Affirmative Marketing strategies, the Administrative Agent shall
+provide specific notice of the availability of affordable housing units on the New Jersey
+Housing Resource Center website. Any other entities, including developers or persons or
+companies retained to implement the Affirmative Marketing Process, shall comply with
+this paragraph. The affirmative marketing plan shall include the following community and
+regional organizations: FSHC; the New Jersey State Conference ofthe NAACP, the Latino
+Action Network (P.O. Box 943, Freehold, NJ 07728), Bergen County NAACP (P.O. Box
+1136, Teaneck, NJ 07666), Jersey City NAACP Branch #2086 (153 Martin Luther King
+Page 25
+
+===== PAGE 26 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 26 o0f58
+Trans ID: LCV2026524139
+Dr., Jersey City, NJ 07305), Passaic NAACP (P.O. Box 1600, Passaic, NJ 07055), and
+Warren—Sussex County NAACP (P.O. Box 229, Washington, NJ 07882).
+H. In implementing the Affirmative Marketing Process, the Administrative Agent shall
+providea list of counseling services to low- and moderate-income applicants on subjects
+such as budgeting, credit issues, mortgage qualification, rental lease requirements, and
+landlord/tenant law.
+I.
+The Affirmative Marketing Process for available affordable units shall begin at least four
+months (120 days) prior to the expected date of occupancy.
+J.
+The cost to affirmatively market the affordable units shall be the responsibility of the
+developer, sponsor or owner, with the exception of Affirmative Marketing for resales.
+§ 36-8 Selection of Occupants of Affordable Housing Units.
+A. The Administrative Agent shall use a random selection process to select occupants of very
+low-, low- and moderate-income housing.
+B. A pool of interested households will be maintained in accordance with the provisions of
+N.J.A.C. 5:80-26.16.
+§ 36-9 Occupancy Standards.
+A. In referring certified households to specific restricted units, to the extent feasible, and
+without causing an undue delay in occupying the unit, the Administrative Agent shall strive
+to:
+1.
+Ensure each bedroom is occupied by at least one person, except for age-restricted and
+supportive and special needs housing units;
+2.
+Provide a bedroom for every two adult occupants;
+3. With regard to occupants under the age of 18, accommodate the household’s requested
+arrangement, except that such arrangement may not result in more than two occupants
+under the age of 18 occupying any bedroom; and
+4.
+Avoid placing a one-person household into a unit with more than one bedroom.
+§ 36-10 Control Periods for Restricted Ownership Units and Enforcement Mechanisms.
+A. Control periods for restricted ownership units shall be in accordance with N.J.A.C. 5:80-
+26.6, as may be amended and supplemented, and each restricted ownership unit shall
+remain subject to the controls on affordability for a period of at least'30 years subject to
+the requirements ofN.J.A.C. 5:80-26.6, as may be amended and supplemented.
+B. Rehabilitated housing units that are improved to code standards shall be subject to
+affordability controls for a period ofnot less than 10 years (crediting towards present need
+only).
+C. The affordability control period for a restricted ownership unit shall commence on the date
+the initial certified household takes title to the unit. The date of commencement shall be
+identified in the deed restriction.
+Page 26
+
+===== PAGE 27 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 27 of 58
+Trans ID: LCV2026524139
+D. If existing affordability controls are being extended, the extended control period for a
+restricted ownership unit commences on the effective date of the extension, which is the
+end of the original control period.
+E.
+After the end of any control period, the restricted ownership unit remains subject to the
+affordability controls set forth in this subchapter until the owner gives notice of their intent
+to make an exit sale, at which point:
+1.
+Ifthe municipality exercises the right to extend the affordability controls on the unit,
+no exit sale occurs and a new control period commences; or
+2.
+If the municipality does not exercise the right to extend the affordability controls on
+the unit, the affordability controls terminate following the exit sale.
+F.
+Prior to the issuance of any building permit for the construction/rehabilitation of restricted
+ownership units, the developer/owner and the municipality shall record a preliminary
+instrument provided by the Administrative Agent.
+G. Prior to the issuance of the initial certificate of occupancy for a restricted ownership unit
+and upon each successive sale during the period ofrestricted ownership, the Administrative
+Agent shall determine the restricted price for the unit and shall also determine the
+nonrestricted, fair market value of the unit based on either an appraisal or the unit’s
+equalized assessed value without the restrictions in place.
+H. At the time ofthe initial sale of the unit and upon each successive price-restricted sale, the
+initial purchaser shall execute and deliver to the Administrative Agent a recapture note
+obliging the purchaser, as well as the purchaser’s heirs, successors, and assigns, to repay,
+upon the first non-exempt sale after the unit’s release from the restrictions set forth in this
+Ordinance, an amount equal to the difference between the unit’s non-restricted fair market
+value and its restricted price, and the recapture note shall be secured by a recapture lien
+evidenced by a duly recorded mortgage on the unit.
+I.
+The affordability controls set forth in this Ordinance shall remain in effect despite the entry
+and enforcement of any judgment offoreclosure with respect to price-restricted ownership
+units.
+§ 36-11 Price Restrictions for Restricted Ownership Units and Resale Prices.
+A. Price restrictions for restricted ownership units shall be in accordance with N.J.A.C. 5:80-
+26.7, as may be amended and supplemented, including:
+1.
+The initial purchase price and affordability percentage for a restricted ownership unit
+shall be set by the Administrative Agent.
+2.
+The Administrative Agent shall approve all resale prices, in writing and in advance of
+the resale, to assure compliance with the standards set forth in N.J.A.C 5:80-26.7.
+a.
+If the resale occurs prior to the one-year anniversary of the date on which title to
+the unit was transferred to a certified household, the maximum resale price for a is
+the most recent non-exempt purchase price.
+b.
+Ifthe resale occurs on or after such anniversary date, the maximum resale price is
+the most recent non-exempt purchase price increased to reflect the cumulative
+Page 27
+
+===== PAGE 28 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 280f58
+Trans ID: LCV2026524139
+annual percentage increases to the regional median income, effective as ofthe same
+date as the regional median income calculated pursuant to N.J.A.C. 5:80-26.3
+3.
+The owners of restricted ownership units may apply to the Administrative Agent to
+increase the maximum sales price for the unit on the basis of anticipated capital
+improvements. Eligible capital improvements shall be:
+a.
+those that render the unit suitable for a larger household or the addition of a
+bathroom.
+b.
+The maximum resale price may be further increased by an amount up to the
+cumulative dollar value of approved capital improvements made after the last non-
+exempt sale for improvements and/or upgrades to the unit, excluding capital
+improvements paid for by the entity favored on the recapture note and recapture
+lien described at N.J.A.C. 5:80-26.6(d);
+4. No increase for capital improvements is permitted ifthe maximum resale price prior to
+adjusting for capital improvements already exceeds whatever initial purchase price the
+unit would have if it were being offered for purchase for the first time at the initial
+affordability percentage. All adjustments for capital improvements are subject to 10-
+year, straight-line depreciation.
+B. Upon the resale of a restricted ownership unit, all items of property that are permanently
+affixed to the unit or were included when the unit was initially restricted (for example,
+refrigerator, range, washer, dryer, dishwasher, wall-to-wall carpeting) shall be included in
+the maximum allowable resale price. Other items may be sold to the purchaser at a
+reasonable price that has been approved by the Administrative Agent at the time of the
+signing of the agreement to purchase but shall be separate and apart from any contract of
+sale for the underlying real estate. The purchase of central air conditioning installed
+subsequent to the initial sale of the unit and not included in the base price may be made a
+condition of the unit resale provided the price of the air conditioning equipment, which
+shall be subject to
+10-year,
+straight-line
+depreciation, has been approved by the
+Administrative Agent. Unless otherwise approved by the Administrative Agent, the
+purchase of any property other than central air conditioning shall not be made a condition
+ofthe unit resale. The seller and the purchaser must personally certify at the time ofclosing
+that no unapproved transfer of funds for the purpose of selling and receiving property has
+taken place at the time of or as a condition of resale.
+§ 36-12 Buyer Income Eligibility.
+A. Buyer income eligibility for restricted ownership units shall be established pursuant to
+N.J.A.C. 5:80-26.17, as may be amended and supplemented, such that very low-income
+ownership units shall be reserved for occupancy by households with a gross household
+income less than or equal to 30% ofmedian income, low-income ownership units shall be
+reserved for occupancy by households with a gross household income less than or equal to
+50% of median income and moderate-income ownership units shall be reserved for
+occupancy by households with a gross household income less than 80% ofmedian income.
+B. Notwithstanding the foregoing, the Administrative Agent may, upon approval by the
+municipality, and subject to the Division’s approval, permit a moderate-income purchaser
+to buy a low-income unit if and only ifthe Administrative Agent can demonstrate that there
+Page 28
+
+===== PAGE 29 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 290f58
+Trans ID: LCV2026524139
+is an insufficient number of eligible low-income purchasers in the housing region to permit
+prompt occupancy of the unit and all other reasonable efforts to attract a low-income
+purchaser, including pricing and financing incentives, have failed. Any such low-income
+unit that is sold to a moderate-income household shall retain the required pricing and
+pricing restrictions for a low-income unit. Similarly, the administrative agent may permit
+low-income purchasers to buy very-low-income units in housing markets where, as
+determined by the Division, units are reserved for very-low-income purchasers, but there
+is an insufficient number of very-low-income purchasers to permit prompt occupancy of
+the units. In such instances, the purchased unit must be maintained as a very-low-income
+unit and sold at a very-low-income price point such that on the next resale the unit will still
+be affordable to very-low-income households and able to be purchased by a very-low-
+income household. A very-low-income unit that is seeking bonus credit pursuant to
+N.J.S.A. 52:27D-311.k(9) must first be advertised exclusively as a very-low-income unit
+according to the Affirmative Marketing requirements
+at N.J.A.C.
+5:80-26.16, then
+advertised as a very-low-income or low-income unit for at least 30 additional days prior to
+referring any low-income household to the unit.
+C. A
+certified household that purchases a restricted ownership unit must occupy it as the
+certified household’s principal residence and shall not lease the unit; provided, however,
+that the Administrative Agent may permit the owner of a restricted ownership unit, upon
+application and a showing of hardship, to lease the restricted unit to another certified
+household for a period not to exceed one year.
+D. The Administrative Agent shall certify a household as eligible for a restricted ownership
+unit when the household is a low-income household or a moderate-income household, as
+applicable to the unit, and the estimated monthly housing cost for the particular unit
+(including principal, interest, property taxes, homeowner and private mortgage insurance
+and condominium or homeowner association fees, as applicable) does not exceed 35
+percent ofthe household’s eligible monthly income; provided, however, that this limit may
+be exceeded if one or more of the following circumstances exists:
+1.
+The household currently pays more than 35% (40% for households eligible for age-
+restricted units) of its gross household income for housing expenses, and the proposed
+housing expenses will reduce its housing costs;
+2.
+The household has consistently paid more than 35% (40% for households eligible for
+age-restricted units) of eligible monthly income for housing expenses in the past and
+has proven its ability to pay; or
+3.
+The household is currently in substandard or overcrowded living conditions;
+4.
+The household documents the existence of assets, within the asset limitation otherwise
+applicable, with which the household proposes to supplement the rent payments
+§ 36-13 Limitations on Indebtedness Secured by Ownership Unit; Subordination.
+A. Prior to incurring any indebtedness to be secured bya restricted ownership unit, the owner
+shall apply to the Administrative Agent for a determination in writing that the proposed
+indebtedness complies with the provisions of this Section, and the Administrative Agent
+shall issue such determination prior to the owner incurring such indebtedness.
+Page 29
+
+===== PAGE 30 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 30 0f58
+Trans ID: LCV2026524139
+B. With the exception of original purchase money mortgages, neither an owner nor a lender
+shall at any time during the control period cause or permit the total indebtedness secured
+bya restricted ownership unit to exceed 95% of the maximum allowable resale price of
+that unit, as such price is determined by the Administrative Agent in accordance with
+N.J.A.C. 5:80-26.7(c).
+§ 36-14 Control Periods for Restricted Rental Units.
+A. Control periods for units that meet the definition of prior round units shall be pursuant to
+the 2001 UHAC rules originally adopted October 1, 2001, 33 N.J.R. 3432, and amended
+December 20, 2004, 36 N.J.R. 5713 and shall remain subject to the requirements of this
+ordinance for a period of at least 30 years as applicable unless otherwise indicated.
+B. Other than for prior round units, control periods for restricted rental units shall be in
+accordance with N.J.A.C. 5:80-26.12, as may be amended and supplemented, and each
+restricted rental unit shall remain subject to the requirements ofthis Ordinance for a period
+of at least 40 years. Restricted rental units created as part of developments receiving 9%
+Low-Income Housing Tax Credits must comply with a control period ofnot less than a 30-
+year compliance period plus a 15-year extended use period for a total of45 years.
+C. The affordability control period for a restricted rental unit shall commence on the first date
+that a unit is issued a certificate of occupancy following the execution of the deed
+restriction or, if affordability controls are being extended, on the effective date of the
+extension, which is the end of the original control period.
+D. Rehabilitated renter-occupied housing units that are improved to code standards shall be
+subject to affordability controls for a period of not less than 10 years.
+E.
+Prior to the issuance of any building permit for the construction/rehabilitation ofrestricted
+rental
+units, the developer/owner and the municipality
+shall record a preliminary
+instrument provided by the Administrative Agent.
+F.
+Deeds of all real property that include restricted rental units shall contain deed restriction
+language. The deed restriction shall have priority over all mortgages on the property. The
+deed restriction shall be recorded by the developer with the county records office, and
+provided as filed and recorded, to the Administrative Agent within 30 days of the receipt
+of a certificate of occupancy.
+G. A restricted rental unit shall remain subject to the affordability controls of this Ordinance
+despite the occurrence of any of the following events:
+1.
+Sublease or assignment of the lease of the unit;
+2.
+Sale or other voluntary transfer of the ownership of the unit;
+3. The entry and enforcement of any judgment of foreclosure on the property containing
+the unit; or
+4.
+The end of the control period, until the occupant household vacates the unit, or is
+certified as over-income and the controls are released in accordance with UHAC.
+§ 36-15 Rent Restrictions for Rental Units; Leases and Fees.
+A. The initial rent for a restricted rental unit shall be set by the Administrative Agent.
+Page 30
+
+===== PAGE 31 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 31 of 58
+Trans ID: LCV2026524139
+B. A written lease shall be required for all restricted rental units, except for units in an assisted
+living residence, and tenants shall be responsible for security deposits and the full amount
+of the rent as stated on the lease. A copy ofthe current lease for each restricted rental unit
+shall be retained on file by the Administrative Agent.
+C. No additional fees, operating costs, or charges shall be added to the approved rent (except,
+in the case of units in an assisted living residence, to cover the customary charges for food
+and services) without the express written approval of the Administrative Agent.
+1.
+Operating costs, for the purposes of this section, include certificate of occupancy fees,
+move-in fees, move-out fees, mandatory internet fees, mandatory cable fees, mandatory
+utility submetering fees, and for developments with more than one anda half off-street
+parking spaces per unit, parking fees for one parking space per household.
+D. Any fee structure that would remove or limit affordable unit occupant access to any
+amenities or services that are required or included for market-rate unit occupants is
+prohibited. Application fees (including the charge for any credit check) shall not exceed
+5% of the monthly rent of the applicable restricted unit to be applied to the costs of
+administering the controls applicable to the unit as set forth in this Ordinance.
+E. Fees for unit-specific, non-communal items that are charged to market-rate unit tenants on
+an optional basis, such as pet fees for tenants with pets, storage spaces, bicycle-share
+programs, or one-time rentals of party or media rooms, may also be charged to affordable
+unit tenants, if applicable.
+F.
+Pet fees may not exceed $30.00 per month and associated one-time payments for optional
+fees pertaining to pets, such as a pet cleaning fee, are prohibited.
+G. Fees charged to affordable unit tenants for other optional, unit-specific, non-communal
+items shall not exceed the amounts charged to market-rate tenants.
+H. For any prior round rental unit leased before December 20, 2024, elements of the existing
+fee structure that are consistent with prior rules, but inconsistent with 5:80-26.13(c)1, may
+continue until the occupant household’s current lease term expires or that occupant
+household vacates the unit, whichever occurs later.
+§ 36-16 Tenant Income Eligibility.
+A. Tenant income eligibility shall be determined pursuant to N.J.A.C. 5:80-26.14, as may be
+amended and supplemented, and shall be determined as follows:
+1.
+Very low-income rental units shall be reserved for households with a gross household
+income less than or equal to 30% ofthe regional median income by household size.
+2.
+Low-income rental units shall be reserved for households with a gross household
+income less than or equal to 50% ofthe regional median income by household size.
+3.
+Moderate-income rental units shall be reserved for households with a gross household
+income less than 80% of the regional median income by household size.
+B. The Administrative Agent shall certify a household as eligible for a restricted rental unit
+when the household is a very low-income, low-income or moderate-income household, as
+applicable to the unit, and the rent proposed for the unit does not exceed 35% (40% for
+age-restricted units) ofthe household’s eligible monthly income as determined pursuant to
+Page 31
+
+===== PAGE 32 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 320f58
+Trans ID: LCV2026524139
+N.J.A.C. 5:80-26.17, as may be amended and supplemented; provided, however, that this
+limit may be exceeded if one or more of the following circumstances exists:
+1.
+The household currently pays more than 35% (40% for households eligible for age-
+restricted units) of its gross household income for rent, and the proposed rent will
+reduce its housing costs;
+2.
+The household has consistently paid more than 35% (40% for households eligible for
+age-restricted units) of eligible monthly income for rent in the past and has proven its
+ability to pay;
+3.
+The household is currently in substandard or overcrowded living conditions;
+4.
+The household documents the existence of assets with which the household proposes
+to supplement the rent payments; or
+5.
+The household documents reliable anticipated third-party assistance from an outside
+source such as a family member in a form acceptable to the Administrative Agent and
+the owner of the unit.
+C. The applicant shall file documentation sufficient to establish the existence of any of the
+circumstances in B.1. through B.5. above with the Administrative Agent, who shall counsel
+the household on budgeting.
+§ 36-17 Administration.
+A. Municipal Housing Liaison.
+1.
+The Municipal Housing Liaison shall be approved by municipal resolution.
+2.
+The Municipal Housing Liaison shall be approved by the Division, or is in the process of
+getting approval, and fully or conditionally meets the requirements for qualifications,
+including initial and periodic training as set forth in in N.J.A.C. 5:99-1 et seq.
+3.
+The Municipal Housing Liaison shall be responsible for oversight and administration of
+the affordable housing program, including the following responsibilities, which may not
+be contracted out to the Administrative Agent:
+a.
+Serving as the primary point of contact for all inquiries from the Affordable Housing
+Dispute Resolution Program, the State, affordable housing providers, administrative
+agents and interested households.
+b. The oversight ofthe Affirmative Marketing Plan and affordability controls.
+c. When applicable, overseeing and monitoring any contracting Administrative Agent.
+d.
+Overseeing the monitoring of the status of all restricted units listed in the Fair Share
+Plan.
+e.
+Verifying, certifying and providing annual information within AHMS at such time and
+in such form as required by the Division.
+f.
+Coordinating meetings with affordable housing providers and administrative agents, as
+needed.
+Page 32
+
+===== PAGE 33 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 33 0f58
+Trans ID: LCV2026524139
+g.
+Attending continuing education opportunities on affordability controls, compliance
+monitoring, and affirmative marketing as offered or approved by the Division.
+h.
+Overseeing the recording of a preliminary instrument in the form set forth at N.J.A.C.
+5:80-26.1 for each affordable housing development.
+i.
+Coordinating with the Administrative Agent, municipal attorney and municipal
+Construction Code Official to ensure that permits are not issued unless the document
+required in C.8. above has been duly recorded.
+j.
+Listing on the municipal website contact information for the MHL and Administrative
+Agents.
+B. Administrative Agent.
+1.
+All municipalities that have created or will create affordable housing programs and/or
+affordable units shall designate or approve, for each project within its HEFSP, an
+administrative agent to administer the affordable housing program and/or affordable
+housing units in accordance with the requirements of the FHA, NJAC 5:99-1 et seq. and
+UHAC.
+2.
+The fees for administrative agents shall be paid as follows:
+a.
+Administrative agent fees related to rental units shall be paid by the developer/owner.
+b.
+Administrative agent fees related to initial sale of units shall be paid by the developer.
+c.
+Administrative agent fees related to resales shall be paid by the seller of the affordable
+home.
+d.
+Administrative agent fees related to ongoing administration and enforcement shall be
+paid by the municipality.
+3. An Operating Manual for each affordable housing program shall be provided by the
+Administrative Agent(s). The Operating Manual(s) shall be available for public inspection
+in the Office of the Clerk and in the office(s) of the Administrative Agent(s). Operating
+manuals shall be adopted by resolution ofthe Governing Body.
+4.
+Subject to the role ofthe Administrative Agent(s), the duties and responsibilities as are set
+forth in N.J.A.C. 5:99-7and which are described in full detail in the Operating Manual,
+including those set forth in UHAC, include:
+a.
+Attending continuing education opportunities on affordability controls, compliance
+monitoring, and affirmative marketing as offered or approved by the Division,
+b.
+Affirmative marketing:
+i.
+Conducting an outreach process to affirmatively market affordable housing units in
+accordance with the Affirmative Marketing Plan of the municipality and the
+provisions ofN.J.A.C. 5:80-26.16.
+ii.
+Providing counseling, or contracting to provide counseling services, to low- and
+moderate-income applicants on subjects such as budgeting, credit issues, mortgage
+qualification, rental lease requirements; and landlord/tenant law.
+c.
+Household certification.
+Page 33
+
+===== PAGE 34 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 340f58
+Trans ID: LCV2026524139
+i.
+Soliciting, scheduling, conducting and following up on interviews with interested
+households.
+ii.
+|Conducting interviews and obtaining sufficient documentation ofgross income and
+assets upon which to base a determination of income eligibility for a low- or
+moderate-income unit;
+iii.
+| Providing written notification to each applicant as to the determination ofeligibility
+or non-eligibility within 5 days of the determination thereof.
+iv.
+Requiring that all certified applicants for restricted units execute a certificate
+substantially in the firm, as applicable, of either the ownership or rental certificates
+set forth in the Appendices J and K of N.J.A.C. 5:80-26.1 et seq.
+v.
+Creating and maintaining a referral list of eligible applicant households living in
+the housing region, and eligible applicant households with members working in the
+housing region, where the units are located.
+vi.
+Employing a random selection process as provided in the Affirmative Marketing
+Plan when referring households for certification to affordable units.
+d.
+Affordability controls.
+i.
+Furnishing to attorneys or closing agents forms of deed restrictions and mortgages
+for the recording at the time of conveyance of title of each restricted unit.
+ii.
+_Ensuring that the removal ofthe deed restrictions and cancellation ofthe mortgage
+note are effectuated and filed properly with the County Register ofDeeds or County
+Clerk’s office after the termination of the affordability controls for each restricted
+unit in accordance with UHAC.
+iii.
+Communicating with lenders and the Municipal Housing Liaison regarding
+foreclosures.
+iv.
+Ensuring the issuance of Continuing Certificates of Occupancy or certifications
+pursuant to N.J.A.C. 5:80-26.11.
+e.
+Records retention.
+i.
+Creating and maintaining a file on each restricted unit for its control period,
+including the recorded deed with restrictions, recorded recapture mortgage, and
+note, as appropriate.
+ii.
+Records received, retained, retrieved, or transmitted in furtherance of crediting
+affordable units of a municipality constitute public records of the municipality as
+defined by N.J.S.A. 47:3-16, and are legal property of the municipality.
+f.
+Resales and re-rentals.
+i.
+Instituting and maintaining an effective means of communicating information
+between owners and the Administrative Agent regarding the availability of
+restricted units for resale or re-rental.
+ii. _ Instituting and maintaining an effective means of communicating information to
+very low-, low-, or moderate-income households regarding the availability of
+restricted units for resale or re-rental.
+Page 34
+
+===== PAGE 35 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 350f58
+Trans ID: LCV2026524139
+g.
+Processing requests from unit owners.
+i.
+Reviewing and approving requests from owners of restricted units who wish to
+refinance or take out home equity loans during the term of their ownership to
+determine that the amount ofindebtedness to be incurred will not violate the terms
+of this ordinance.
+ii.
+Reviewing and approving requests to increase sales prices from owners ofrestricted
+units who wish to make capital improvements to the units that would affect the
+selling price, such authorizations to be limited to those improvements resulting in
+additional bedrooms
+or bathrooms
+and the
+depreciated
+cost of central
+air
+conditioning systems.
+iii.
+Notifying the municipality of an owner’s intent to sell a restricted unit.
+iv.
+Making determinations on requests by owners of restricted units for hardship
+waivers.
+h.
+Enforcement.
+i.
+» Securing annually from the municipality a list of all affordable ownership units for
+which property tax bills are mailed to absentee owners, and notifying all such
+owners that they must either move back to their unit or sell it;
+ii.
+Securing from all developers and sponsors of restricted units, at the earliest point
+of
+contact
+in
+the
+processing
+of
+the
+project
+or
+development,
+written
+acknowledgement of the requirement that no restricted unit can be offered, or in
+any other way committed, to any person, other than a household duly certified to
+the unit by the Administrative Agent;
+iii.
+|Sending annual mailings to all owners of affordable dwelling units reminding them
+ofthe notices and requirements outlined in N.J.A.C. 5:80-26.19(d)4;
+iv.
+Establishing a program for diverting unlawful rent payments to the municipal
+Affordable Housing Trust Fund; and
+v.
+Creating and publishing a written operating manual for each affordable housing
+program administered by the Administrative Agent setting forth procedures for
+administering the affordability controls.
+i.
+The Administrative Agent(s) shall, as delegated by the municipality, have the authority
+to take all actions necessary and appropriate to carry out its/their responsibilities,
+herein.
+C. Responsibilities of The Owner of a development containing affordable units.
+1.
+The owner of all developments containing affordable units subject to this subchapter or the
+assigned management company thereof shall provide to the administrative agent:
+a.
+Site plan, architectural plan, or other plan that identifies the location ofeach affordable
+unit, if subject to the site plan approval, settlement agreement, or other applicable
+document regulating the location of affordable units. The administrative agent shall
+determine the location of affordable units if not set forth in the site plan approval,
+settlement agreement, or other applicable document.
+Page 35
+
+===== PAGE 36 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 36 of 58
+Trans ID: LCV2026524139
+b.
+The total number of units in the project and the number of affordable units.
+c.
+The breakdown of the affordable units by or identification of affordable unit locations
+by bedroom count and income level, including street addresses / unit numbers, if
+subject to the site plan approval, settlement agreement, or other applicable document
+regulating the breakdown ofaffordable units. The administrative agent shall determine
+the bedroom and income distribution ifnot set forth in the site plan approval, settlement
+agreement, or other applicable document.
+d.
+Floor plans of all affordable units, including complete and accurate identification of all
+rooms and the dimensions thereof.
+e. A projected construction schedule.
+f.
+The location of any common areas and elevators.
+g.
+The name of the person who will be responsible for official contact with the
+administrative agent for the duration of the project, which must be updated if the
+contact changes.
+2.
+In addition to 1. above, the owner ofrental developments containing affordable rental units
+subject to this subchapter or the assigned management company thereof shall:
+a.
+Send to all current tenants in all restricted rental units an annual mailing containing a
+notice as to the maximum permitted rent and a reminder ofthe requirement that the unit
+must remain their principal place of residence, which is defined as residing in the unit
+at least 260 days out ofeach calendar year, together with the telephone number, mailing
+address, and email address of the administrative agent to whom complaints of excess
+rent can be issued.
+b.
+Provide to the administrative agent a description of any applicable fees.
+c.
+Provide to the administrative agent a description of the types of utilities and which
+utilities will be included in the rent.
+d. Agree and ensure that the utility configuration established at the start of the rent-up
+process not be altered at any time throughout the restricted period.
+e.
+Provide to the administrative agent a proposed form of lease for any rental units.
+f.
+Ensure that the tenant selection criteria for the applicants for affordable units not be
+more restrictive that the tenant selection criteria for applicants for non-restricted units.
+g.
+Strive to maintain the continued occupancy of the affordable units during the entire
+restricted period.
+3.
+In addition to
+1. above, the owner of affordable for-sale developments containing
+affordable for-sale units subject to this subchapter or the assigned management company
+thereof shall provide the administrative agent:
+a.
+Proposed pricing for all units, including any purchaser options and add-on items.
+b.
+Condominium or homeowner association fees and any other applicable fees.
+c.
+Estimated real property taxes.
+d.
+Sewer, water, trash disposal, and any other utility assessments.
+Page 36
+
+===== PAGE 37 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 37 of 58
+Trans ID: LCV2026524139
+e.
+Flood insurance requirement, if applicable.
+f.
+The State-approved planned real estate development public offering statement and/or
+master deed, where applicable, as well as the full build-out budget.
+§ 36-18 Enforcement of Affordable Housing Regulations.
+A. Upon the occurrence of a breach of any ofthe regulations governing the affordable unit by
+an owner, developer or tenant, the municipality shall have all remedies provided at law or
+equity, including but not limited to foreclosure, tenant eviction, municipal fines, a
+;
+requirement for household recertification, acceleration of all sums due under a mortgage,
+recoupment of any funds froma sale in the violation of the regulations, injunctive relief to
+prevent
+further
+violation of the regulations,
+entry on
+the premises, and
+specific
+performance.
+B. After providing written notice of a violation to an owner, developer or tenant of an
+affordable unit and advising the owner, developer or tenant of the penalties for such
+violations, the municipality may take the following action against the owner, developer or
+tenant for any violation that remains uncured for a period of 60 days after service of the
+written notice:
+1.
+The municipality may file a court action pursuant to N.J.S.A. 2A:58-11 alleging a
+violation, or violations, ofthe regulations governing the affordable housing unit. If the
+owner, developer or tenant is found by the Court to have violated any provision of the
+regulations governing affordable housing units the owner, developer or tenant shall be
+subject to one or more of the following penalties, at the discretion of the Court:
+a. A fine ofnot more than $10,000 or imprisonment for a period not to exceed 90days,
+or both, unless otherwise specified below, provided that each and every day that the
+violation continues or exists shall be considered a separate and specific violation of
+these provisions and not a continuation of the initial offense;
+b.
+In the case of an owner who has rented his or her low- or moderate-income unit in
+violation of the regulations governing affordable housing units, payment into the
+Affordable Housing Trust Fund of the gross amount of rent illegally collected;
+c.
+Inthe case of an owner who has rented his or her affordable unit in violation of the
+regulations governing affordable housing units, payment of an innocent tenant’s
+reasonable relocation costs, as determined by the Court.
+C. The municipality shall have the authority to levy fines against the owner of the
+development for instances of noncompliance with NJHRC advertising requirements
+(N.J.S.A. 52:27D-321.6.e.(2)), following written notice to the owner. The fine for the first
+offense ofnoncompliance shall be $5,000, the fine for the second offense ofnoncompliance
+shall be $10,000, and the fine for each subsequent offense of noncompliance shall be
+$15,000.
+D. The municipality may file a court action in the Superior Court seeking a judgment, which
+would result in the termination of the owner’s equity or other interest in the unit, in the
+nature of a mortgage foreclosure. Any judgment shall be enforceable as ifthe same were a
+judgment ofdefault ofthe first purchase money mortgage and shall constitute a lien against
+the low- or moderate-income unit.
+Page 37
+
+===== PAGE 38 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 38 0f58
+Trans ID: LCV2026524139
+1.
+Such judgment shall be enforceable, at the option of the municipality, by means of an
+execution sale by the Sheriff, at which time the affordable unit of the violating owner
+shall be sold at a sale price which is not less than the amount necessary to fully satisfy
+and pay off any first purchase money mortgage and prior liens and the costs of the
+enforcement proceedings incurred by the municipality , including attorney’s fees. The
+violating owner shall have the right to possession terminated as well as the title
+conveyed pursuant to the Sheriff's sale.
+2.
+The proceeds of the Sheriffs sale shall first be applied to satisfy the first purchase
+money mortgage lien and any prior liens upon the low- or moderate-income unit. The
+excess, if any, shall be applied to reimburse the municipality for any and all costs and
+expenses incurred in connection with either the court action resulting in the judgment
+of violation or the Sheriffs sale. In the event that the proceeds from the Sheriff's sale
+are insufficient to reimburse the municipality in full as aforesaid, the violating owner
+shall be personally responsible for the full extent of such deficiency, in addition to any
+and all costs incurred by the municipality in connection with collecting such deficiency.
+In the event that a surplus remains after satisfying all of the above, such surplus shall
+be placed in escrow by the municipality for the owner and shall be held in such escrow
+for
+a maximum period of two years or until such earlier time as the owner shall make
+a claim with the municipality for such. Failure of the owner to claim such balance
+within the two year period shall automatically result in a forfeiture of such balance to
+the municipality. Any interest accrued or earned on such balance while being held in
+escrow shall belong to and shall be paid to the municipality, whether such balance shall
+be paid to the owner or forfeited to the municipality.
+3.
+Foreclosure due to violation ofthe regulations governing affordable housing units shall
+not extinguish the restrictions ofthe regulations governing affordable housing units as
+they apply to the low- and moderate-income unit. Title shall be conveyed to the
+purchaser at the Sheriff's sale, subject to the restrictions and provisions of the
+regulations governing the affordable housing unit. The owner determined to be in
+violation of the provisions of this plan and from whom title and possession were taken
+by means ofthe Sheriff's sale shall not be entitled to any right of redemption.
+4.
+Ifthere are no bidders at the Sheriff's sale, or if insufficient amounts are bid to satisfy
+the first purchase money mortgage and any prior liens, the municipality may acquire
+title to the affordable unit by satisfying the first purchase money mortgage and any
+prior liens and crediting the violating owner with an amount equal to the difference
+between the first purchase money mortgage and any prior liens and costs of the
+enforcement proceedings, including legal fees and the maximum resale price for which
+the affordable unit could have been sold under the terms of the regulations governing
+affordable housing units. This excess shall be treated in the same manner as the excess
+that would have been realized from an actual sale as previously described.
+5.
+Failure of the low- or moderate-income unit to be either sold at the Sheriff’s sale or
+acquired by the municipality shall obligate the owner to accept an offer to purchase
+from any qualified purchaser that may be referred to the owner by the municipality,
+with such offer to purchase being equal to the maximum resale price of the low- or
+moderate-income unit as permitted by the regulations governing affordable housing
+units.
+Page 38
+
+===== PAGE 39 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 39 0f58
+Trans ID: LCV2026524139
+6.
+The affordable unit owner shall remain fully obligated, responsible and liable for
+complying with the terms and restrictions of governing affordable housing units until
+such time as title is conveyed from the owner.
+E.
+It is the responsibility of the municipal housing liaison and the administrative agent(s) to
+ensure that affordable housing units are administered properly. All affordable units must
+be occupied within a reasonable amount of time and be re-leased within a reasonable
+amount of time upon the vacating of the unit by a tenant. If an administrative agent or
+municipal housing liaison becomes aware of or suspects that a developer, landlord, or
+property manager has not complied with these regulations, it shall report this activity to the
+Division. The Division must notify the developer, landlord, or property manager, in
+writing, of any violation ofthese regulations and provide a 30-day cure period. If, after the
+30-day cure period, the developer, landlord, or property manager remains in violation of
+any terms of this subchapter, including by keeping a unit vacant, the developer, landlord,
+or property manager may be fined up to the amount required to construct a comparable
+affordable unit of the same size and the deed-restricted control period will be extended for
+the length ofthe time the unit was out of compliance, in addition to the remedies provided
+for in this section. For the purposes of this subsection, a reasonable amount of time shall
+presumptively be 60 days, unless a longer period of time is required due to demonstrable
+market conditions and/or failure of the municipal housing liaison or the administrative
+agent to refer a certified tenant.
+F.
+Banks and other lending institutions are prohibited from issuing any loan secured by owner
+occupied real property subject to the affordability controls set forth in this subchapter if
+such loan would be in excess of amounts permitted by the restriction documents recorded
+in the deed or mortgage book in the county in which the property is located. Any loan
+issued in violation of this subsection is void as against public policy.
+G. The Agency and the Department hereby reserve, for themselves and for each administrative
+agent appointed pursuant to this subchapter, all of the rights and remedies available at law
+and in equity for the enforcement of this subchapter, including, but not limited to, fines,
+evictions, and foreclosures as approved by a county-level housing judge.
+§ 36-19 Appeals.
+1.
+Appeals from all decisions of an administrative agent appointed pursuant to this
+subchapter must be filed, in writing, with the municipal housing liaison. A decision by
+the municipal housing liaison may be appealed to the Division. A written decision of
+the Division Director upholding, modifying, or reversing an administrative agent’s
+decision is a final administrative action.
+§ 36-20 Development Fees
+A. Purpose
+1.
+This section establishes standards for the collection, maintenance, and expenditure of
+development fees that are consistent with the amended Fair Housing Act (P.L.2024,
+c.2), N.J.A.C. 5:99, and the Statewide Non-Residential Development Fee Act (C.
+40:55D-8.1 through 8.7). Fees collected pursuant to this Ordinance shall be used for
+the sole purpose of providing very low-, low- and moderate-income housing in
+accordance with a Court-approved Spending Plan.
+Page 39
+
+===== PAGE 40 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 40 of 58
+Trans ID: LCV2026524139
+B. Basic Requirements
+1.
+Ordinance No. 2016-08 established the Municipal Affordable Housing Trust Fund.
+2.
+The municipality shall not spend development fees until the court has approved a plan
+for spending such fees.
+C. Residential Development Fees
+1.
+Imposed fees
+i.
+Residential
+developers, except for developers of the types of development
+specifically exempted below, shall pay a fee of 1.5% ofthe equalized assessed value
+for
+residential
+development,
+provided
+no
+increased
+density
+is
+permitted.
+Development fees shall also be imposed and collected when an additional dwelling
+unit is added to an existing residential structure; in such cases, the fee shall be
+calculated based on the increase in the equalized assessed value ofthe property due
+to the additional dwelling unit.
+ii. When an increase in residential density is permitted pursuant to a “d” variance
+granted under N.J.S.A. 40:55D-70d(5), developers shall be required to pay a
+“bonus” development fee of 6.0% of the equalized assessed value for each
+additional unit that may be realized, except that this provision shall not be
+applicable to a development that will include affordable housing. If the zoning on
+a site has changed during the two-year period preceding the filing ofsuch a variance
+application, the base density for the purposes of calculating the bonus development
+fee shall be the highest density permitted by right during the two-year period
+preceding the filing of the variance application.
+Example: Ifan approval allows four units to be constructed ona site that was zoned
+for two units, the fees could equal 1.5% ofthe equalized assessed value on the first
+two units; and the specified higher percentage of6% ofthe equalized assessed value
+for the two additional units, provided zoning on the site has not changed during the
+two-year period preceding the filing of such a variance application.
+2.
+Eligible exactions, ineligible exactions and exemptions for residential development
+i.
+Affordable housing developments, developments where the developer is providing
+for the construction of affordable units elsewhere in the municipality, and
+developments where the developer has made an eligible payment in lieu of on-site
+construction of affordable units, if permitted by ordinance, or by agreement with
+the municipality and ifapproved by a municipality prior to the statutory elimination
+of payments in-lieu on March 20, 2024 per P.L.2024, c.2, shall be exempt from
+development fees.
+ii. Developments that have received preliminary or final site plan approval prior to the
+adoption of this ordinance and any preceding ordinance permitting the collection
+ofdevelopment fees shall be exempt from the payment ofdevelopment fees, unless
+the developer seeks a substantial change in the original approval. Wherea site plan
+approval does not apply, the issuance of a zoning and/or building permit shall be
+synonymous with preliminary or final site plan approval for the purpose of
+determining the right to an exemption. In all cases, the applicable fee percentage
+Page 40
+
+===== PAGE 41 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 41 of 58
+Trans ID: LCV2026524139
+shall be determined based upon the development fee ordinance in effect on the date
+that the construction permit is issued.
+iii. Development fees shall be imposed and collected when an existing structure
+undergoes a change to a more intense use, is demolished and replaced, or is
+expanded, if the expansion is not otherwise exempt from the development fee
+requirement. The development fee shall be calculated on the increase in the
+equalized assessed value of the improved structure.
+iv. No development fee shall be collected for the demolition and replacement of a
+residential building resulting froma fire or natural disaster.
+D. Non-Residential Development Fees
+1.
+Imposition of fees
+i.
+Within all zoning districts, non-residential developers, except for developers ofthe
+types of development specifically exempted, shall pay a fee equal to 2.5% of the
+equalized assessed value ofthe land and improvements, for all new non-residential
+construction on an unimproved lot or lots.
+ii.
+Within all zoning districts, non-residential developers, except for developers ofthe
+types of development specifically exempted, shall also pay a fee equal to 2.5% of
+the increase in equalized assessed value resulting from any additions to existing
+structures to be used for non-residential purposes.
+iii. Development fees shall be imposed and collected when an existing structure is
+demolished and replaced. The development fee of 2.5% shall be calculated on the
+difference between the equalized assessed value of the pre-existing land and
+improvements and the equalized assessed value of the newly improved structure;
+i.e., land and improvements; and such calculation shall be made at the time a final
+certificate of occupancy is issued. If the calculation required under this section
+results in a negative number, the non-residential development fee shall be zero.
+2.
+Eligible
+exactions,
+ineligible
+exactions
+and
+exemptions
+for
+non-residential
+development
+i.
+The
+non-residential
+portion
+of
+a
+mixed-use
+inclusionary
+or
+market-rate
+development shall be subject to a 2.5% development fee, unless otherwise
+exempted below.
+ii. The 2.5% fee shall not apply to an increase in equalized assessed value resulting
+from
+alterations,
+change
+in
+use
+within
+existing
+footprint,
+reconstruction,
+renovations and repairs.
+3.
+Non-residential developments shall be exempt from the payment of non-residential
+development fees in accordance with the exemptions required pursuant to the Statewide
+Non-Residential Development Fee Act (N.J.S.A. 40:55D-8.1 through 8.7), as specified
+in
+Form
+N-RDF
+“State
+of
+New
+Jersey
+Non-Residential
+Development
+Certification/Exemption.”
+Any
+exemption
+claimed
+by
+a
+developer
+shall
+be
+substantiated by that developer.
+Page 41
+
+===== PAGE 42 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 42 0f58
+Trans ID: LCV2026524139
+4. A developer of a non-residential development exempted from the non-residential
+development fee pursuant to the Statewide Non-Residential Development Fee Act shall
+be subject to the fee at such time as the basis for the exemption no longer applies, and
+shall make the payment of the non-residential development fee, in that event, within
+three years after that event or after the issuance of the final certificate ofoccupancy of
+the non-residential development, whichever is later.
+5.
+Ifa property that was exempted from the collection of a non-residential development
+fee thereafter ceases to be exempt from property taxation, the owner of the property
+shall remit the fees required pursuant to this section within 45 days of the termination
+of the property tax exemption. Unpaid non-residential development fees under these
+circumstances may be enforceable by the municipality as a lien against the real property
+of the owner.
+E.
+Collection Procedures
+1. Upon the granting of a preliminary,
+final or other applicable approval for a
+development, the applicable approving authority shall direct its staff to notify the
+construction official responsible for the issuance of a building permit.
+2.
+For non-residential developments only, the developer shall also be provided with a
+copy of Form N-RDF,
+“State
+of New
+Jersey
+Non-Residential
+Development
+Certification/Exemption,” to be completed by the developer as per the instructions
+provided in the Form N-RDF. The construction official shall verify the information
+submitted by the non-residential developer as per the instructions provided on Form N-
+RDF. The tax assessor shall verify exemptions and prepare estimated and final
+assessments as per the instructions provided in Form N-RDF.
+3. The construction official responsible for the issuance of a building permit shall notify
+the tax assessor of the issuance of the first construction permit for a development that
+is subject to a development fee.
+4. Within 90 days of receipt of that notice, the tax assessor shall provide an estimate,
+based on the plans filed, of the equalized assessed value of the development.
+5. The construction official responsible for the issuance ofa final certificate ofoccupancy
+shall notify the tax assessor of any and all requests for the scheduling of a final
+inspection on property that is subject to a development fee.
+6.
+Within 10 business days of a request for the scheduling of a final inspection, the tax
+assessor shall confirm or modify the previously estimated equalized assessed value of
+the improvements associated with the development; calculate the development fee; and
+thereafter notify the developer of the amount of the fee.
+7.
+Should the municipality fail to determine or notify the developer of the amount of the
+development fee within 10 business days of the request for final inspection, the
+developer may estimate the amount due and pay that estimated amount consistent with
+Page 42
+
+===== PAGE 43 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 43 0f58
+Trans ID: LCV2026524139
+the dispute process set forth in Subsection b. of section 37 of P.L.2008, c.46 (N.J.S.A.
+40:55D-8.6).
+8.
+Fifty percent (50%) ofthe development fee shall be collected at the time ofissuance of
+the construction permit. The remaining portion shall be collected at the time ofissuance
+of the certificate of occupancy. The developer shall be responsible for paying the
+difference between the fee calculated at the time of issuance ofthe construction permit
+and that determined at the time of issuance of certificate of occupancy.
+F.
+Appeal of development fees
+1. A developer may challenge residential development fees imposed by filing a challenge
+with the County Board of Taxation. Pending a review and determination by that board,
+collected fees shall be placed in an interest-bearing escrow account by the municipality.
+Appeals from a determination ofthe board may be made to the Tax Court in accordance
+with the provisions of the State Tax Uniform Procedure Law, R.S. 54:48-1 et seq.,
+within 90 days after the date of such determination. Interest earned on amounts
+escrowed shall be credited to the prevailing party.
+2. A developer may challenge non-residential development fees imposed by filing a
+challenge with the director of the Division of Taxation. Pending a review and
+determination by the director, which shall be made within 45 days of receipt of the
+challenge, collected fees shall be placed in an interest-bearing escrow account by the
+municipality. Appeals from a determination of the director may be made to the Tax
+Court in accordance with the provisions ofthe State Tax Uniform Procedure Law, R.S.
+54:48-1 et seq., within 90 days after the date of such determination. Interest earned on
+amounts escrowed shall be credited to the prevailing party.
+G. Affordable Housing Trust Fund
+1. A separate, interest-bearing Municipal Affordable Housing Trust Fund shall be
+maintained by the chief financial officer of the municipality for the purpose of
+depositing development fees collected from residential and non-residential developers
+and proceeds from the sale ofunits with extinguished controls.
+2.
+The following additional funds shall be deposited in the Municipal Affordable Housing
+Trust Fund and shall at all times be identifiable by source and amount:
+i.
+Payments in lieu of on-site construction of an affordable unit, where previously
+permitted by ordinance or by agreement with the municipality and if approved by
+a municipality prior to the statutory elimination of payments in-lieu on March 20,
+2024 per P.L.2024, c.2;
+ii.
+Funds contributed by developers to make 10% of the adaptable entrances in a
+townhouse or other multistory attached dwelling unit development accessible;
+iii. Rental income from municipally operated units;
+iv. Repayments from affordable housing program loans;
+v.
+Recapture funds;
+vi. Proceeds from the sale of affordable units; and
+Page 43
+
+===== PAGE 44 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 440f58
+Trans ID: LCV2026524139
+vii. Any other funds collected in connection with the municipal affordable housing
+program including but not limited to interest earned on fund deposits.
+3.
+The municipality shall provide the Division with written authorization, in the form of
+a tri-party escrow agreement(s) between the municipality, the Division and the
+financial institution in which the municipal affordable housing trust fund has been
+established to permit the Division to direct the disbursement of the funds as provided
+for in N.J.A.C. 5:99-2.1 et seq.
+4.
+Occurrence of any of the following deficiencies may result in the Division requiring
+the forfeiture of all or a portion ofthe funds in the municipal Affordable Housing Trust
+Fund:
+i.
+Failure to meet deadlines for information required by the Division in its review of
+a development fee ordinance;
+ii.
+Failure to commit or expend development fees within four years of the date of
+collection in accordance with N.J.A.C. 5:99-5.5;
+iii. Failure to comply with the requirements of the Non-Residential Development Fee
+Act and N.J.A.C. 5:99-3;
+iv. Failure to submit accurate monitoring reports pursuant to this subchapter within the
+time limits imposed by the Act, this chapter, and/or the Division;
+v.
+Expenditure of funds on activities not approved by the Superior Court or otherwise
+permitted by law;
+vi. Revocation of compliance certification or a judgment of compliance and repose;
+vii. Failure of a municipal housing liaison or administrative agent to comply with the
+requirements set forth at N.J.A.C. 5:99-6, 7, and 8;
+viii.
+Other good cause demonstrating that municipal affordable housing funds
+are not being used for an approved purpose.
+5.
+All interest accrued in the housing trust fund shall only be used on eligible affordable
+housing purposes approved by the Court.
+H. Use ofFunds
+1.
+The expenditure of all funds shall conform to a Spending Plan approved by Superior
+Court. Funds deposited in the municipal Affordable Housing Trust Fund may be used
+for any activity approved by the Court to address the fair share obligation and may be
+set up as a grant or revolving loan program. Such activities include, but are not limited
+to: preservation or purchase ofhousing for the purpose ofmaintaining or implementing
+affordability controls; housing rehabilitation; new construction of affordable housing
+units and related
+costs; accessory apartments;
+a market-to-affordable program;
+conversion of existing non-residential buildings to create new affordable units; green
+building strategies designed to be cost-saving and in accordance with accepted national
+or state standards; purchase of land for affordable housing; improvement of land to be
+used for affordable housing; extensions or improvements ofroads and infrastructure to
+affordable housing
+sites; financial assistance designed to increase affordability;
+administration necessary for implementation of the Housing Element and Fair Share
+Page 44
+
+===== PAGE 45 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 45o0f58
+Trans ID: LCV2026524139
+Plan; and/or any other activity permitted by Superior Court and specified in the
+approved Spending Plan.
+2.
+Funds shall not be expended to reimburse the municipality or activities that occurred
+prior to the authorization of a municipality to collect development fees.
+3.
+At least a portion of all development fees collected and interest earned shall be used to
+provide affordability assistance to very low-, low- and moderate-income households in
+affordable units included
+in the municipal Fair Share Plan. A portion of the
+development fees which provide affordability assistance shall be used to provide
+affordability assistance to very low-income households.
+i.
+Affordability assistance programs may include down payment assistance, security
+deposit
+assistance,
+low-interest
+loans,
+rental
+assistance,
+assistance
+with
+homeowners
+association
+or
+condominium
+fees
+and
+special
+assessments,
+infrastructure assistance, and assistance with emergency repairs. The specific
+programs to be used for affordability assistance shall be identified and described
+within the Spending Plan.
+ii.
+Affordability assistance for very low income households may include producing
+very low-income units or buying down the cost of low- or moderate-income units
+in the municipal Fair Share Plan to make them affordable to households earning
+30% or less ofmedian income.
+4. No more than 20% of all affordable housing trust funds, exclusive ofthose collected to
+fund an RCA prior to July 17, 2008, shall be expended on administration, including,
+but not limited to, salaries and benefits for municipal employees or consultants’ fees
+necessary to develop or implement a new construction program, prepare and implement
+a Housing Element and Fair Share Plan, administer an Affirmative Marketing Program
+and for compliance with the Superior Court and the Program including the costs to the
+municipality of resolving a challenge.
+I.
+Monitoring
+1.
+On or before February 15 of each year, the municipality shall provide annual electronic
+data reporting of trust fund activity for the previous year from January 1st to December
+31st through the AHMS Reporting System. This reporting shall include an accounting
+of all Municipal Affordable Housing Trust Fund activity, including the sources and
+amounts of all funds collected and the amounts and purposes for which any funds have
+been expended. Such reporting shall include an accounting of development fees
+collected from residential and non-residential developers, previously eligible payments
+in lieu of constructing affordable units on site (if permitted by ordinance or by
+agreement with the municipality prior to the March 20, 2024 statutory elimination per
+P.L. 2024, c.4), funds from the sale of units with extinguished controls, barrier-free
+escrow
+funds, rental income from municipally-owned affordable housing units,
+repayments from affordable housing program loans, interest and any other funds
+collected in connection with municipal housing programs, as well as an accounting of
+the expenditures ofrevenues and implementation ofthe Spending Plan approved by the
+Court.
+J.
+Ongoing Collection of Fees
+Page 45
+
+===== PAGE 46 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 46 of 58
+Trans ID: LCV2026524139
+1.
+The ability to impose, collect and expend development fees shall continue so long as
+the municipality retains authorization from the Court in the form of Compliance
+Certification or the good faith effort to obtain it.
+2.
+Ifthe municipality fails to renew its ability to impose and collect development fees
+prior to the expiration of its Judgment ofCompliance, it may be subject to forfeiture of
+any or all funds remaining within its Affordable Housing Trust Fund. Any funds so
+forfeited shall be deposited into the New Jersey Affordable Housing Trust Fund
+established pursuant to section 20 of P.L.1985, ¢.222 (C. 52:27D-320).
+K. Emergent Affordable Housing Opportunities. Requests to expend affordable housing trust
+funds on emergent affordable housing opportunities not included in the municipal fair share
+plan shall be made to the Division and shall be in the form of a governing body resolution.
+Any request shall be consistent with N.J.A.C. 5:99-4.1.
+Section 3: All ordinances or code provisions or parts thereof inconsistent with this Ordinance are
+hereby repealed to the extent of such inconsistency.
+Section 4: In the event of any inconsistency between the provisions of this Ordinance and the
+Uniform Housing Affordability Controls (UHAC, N.J.A.C. 5:80-26.1 et seq.), as may be amended
+and supplemented, UHAC shall govern and preempt the provisions of this Ordinance to the extent
+of such inconsistency.
+Section 5: All sections ofChapter 34 not amended by this Ordinance shall remain in full force and
+effect.
+Section 6: If any section, subsection, clause or phrase of this ordinance is for any reason held to
+be unconstitutional or invalid by any court or competent jurisdiction, such decision shall not affect
+the remaining portion of this ordinance.
+Section 7: The amendments set forth herein shall take effect immediately upon passage and
+publication, as required by law.
+Introduced: February 16, 2026
+Passed and Approved: March A) 2026
+Attest:
+Attest:
+(releee
+ares Pontone
+Borough Clerk
+ayor
+Page 46
+
+===== PAGE 47 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 47 of 58
+Trans ID: LCV2026524139
+MOTION: Coselwon QUtUKVDe
+SECOND: Op yer (wom ALtman—
+BOROUGH OF ROCKLEIGH
+COUNTY OF BERGEN
+STATE OF NEW JERSEY
+RESOLUTION NO. 2026-23
+RESOLUTION ADOPTING AFFIRMATIVE MARKETING PLAN
+WHEREAS, the Borough of Rockleigh (the “Borough” or “Rockleigh”) filed a resolution
+of participation in the Affordable Housing Dispute Resolution Program (the “Program”) and a
+declaratory judgment action on January 28, 2025; and
+WHEREAS, the Court entered an order on May 5, 2025 setting the Borough’s Fourth
+Round fair share obligations as a Present Need of zero (0) units and a Prospective Need of fourteen
+(14) units, which no party appealed, and ordered the Borough to file
+a Housing Element and Fair
+Share Plan (““HEFSP”) by June 30, 2025; and
+WHEREAS, the Borough filed its HEFSP on June 25, 2025; and
+WHEREAS, FSHC fileda letter pursuant to N.J.S.A. 52:27D-304.1(f)(2)(b) regarding the
+Borough’s HEFSP on August 25, 2025 seeking additional information and documentation before
+the HEFSP may be approved by the Program and trial court; and
+WHEREAS, the Borough supplied the additional information and documentation sought
+by FSHC; and
+WHEREAS, the Court entered a Consent Order approving the HEFSP and granting the
+Borough a conditional Compliance Certification that is subject to the satisfaction of certain
+conditions including the adoption of an updated Affirmative Marketing Plan; and
+WHEREAS, the Borough has prepared an updated Affirmative Marketing Plan that is
+consistent with the applicable statutes and regulations.
+NOW, THEREFORE, BE IT RESOLVED by the Governing Body of the Borough of
+Rockleigh, County of Bergen, State ofNew Jersey as follows:
+1.
+The Borough of Rockleigh (“Borough”) does hereby adopt the Affirmative
+Marketing Plan attached hereto.
+2.
+This Resolution shall take effect immediately.
+
+===== PAGE 48 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 48 of 58
+Trans ID: LCV2026524139
+CERTIFICATION
+The undersigned, Municipal Clerk for the Borough of Rockleigh, County of Bergen,
+State ofNew Jersey, hereby certifies the foregoing to be a true copy of a Resolution adopted by
+the Governing Body of the Borough of Rockleigh on March 2, 2026.
+aecs
+Borough Clerk
+[Councilmember | Motion | Second | Yes | No | Absent | Abstain _|
+[Cumiskey
+|
+|TZ
+[Mendr ||
+|
+[Hansen
+|||CT
+[Bremak
+|
+|
+|ZT
+[Antne
+Ss | S/S |
+er dT YM
+[Altman || YW OTYM
+
+===== PAGE 49 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 49 of 58
+Trans ID: LCV2026524139
+Affirmative Marketing Plan
+Borough of Rockleigh
+This affirmative Marketing Plan applies to all developments that contain low- and moderate-income units.
+The Affirmative Marketing Plan is a regional marketing strategy designed to attract buyers and/or renters
+of all majority and minority groups regardless of race, creed, color, national origin, ancestry, marital or
+familial status, gender, affectional or sexual orientation, disability, age or number of children to housing
+units which are being marketed by a developer/sponsor, municipality and/or designated administrative
+agency or affordable housing. The plan addresses the requirements of N.J.A.C. 5:94-7 and N.J.A.C. 5:80-
+26. In addition, the plan prohibits discrimination in the sale, rental, financing or other services related to
+housing on the basis of race, color, sex, affectional or sexual orientation, religion, handicap, age familial
+status/size or national origin.
+The Borough of Rockleigh
+is in Housing Region 1 consisting of Bergen, Hudson, Passaic, and Sussex
+Counties.
+The affirmative marketing program is a continuing program and will meet the following requirements:
+-
+The affirmative marketing process for available and affordable units shall begin at least four
+months prior to expected occupancy. Advertising and outreach shall take place during the first
+week of the marketing program and each month thereafter until all available units have been
+leased or sold.
+-
+One advertisement will be published in the following newspaper(s) of general circulation within
+the housing region:
+o
+The Record, Newark Star Ledger, the Ridgewood News, the Jersey Journal, The Herald
+News and the New Jersey Herald.
+-
+The advertisement will include the following:
+oO.
+The location of the units;
+o
+Directions to the housing units;
+o
+Arange of prices for the housing units;
+©
+The size as measured in bedrooms, of the housing units;
+o
+The maximum income permitted to qualify for the housing units;
+o
+The business hours when interested households may obtain an application for a housing
+unit; and
+©
+Application fees, if any.
+-
+One advertisement will be broadcast on the following regional radio and/or cable television
+station(s):
+o
+Cablevision of New Jersey, WXKW 101.5
+-
+Additionally, all newspaper articles, announcements and requests for applications for low- and
+moderate-income housing will appear in the following:
+;
+NEGLIA
+
+===== PAGE 50 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 50 of 58
+Trans ID: LCV2026524139
+©
+The Record, Newark Star Ledger, the Ridgewood News, the Jersey Journal, The Herald
+News and the New Jersey Herald.
+-
+Applications will be mailed to prospective applicants upon request.
+-
+The following is the location of applications, brochures, signs, and/or posters used as part ofthe
+affirmative marketing programs:
+©
+The county administrative building and/or the county library for each county within the
+housing region;
+o
+The municipal administrative building and the municipal library;
+o
+The developer’s sales/rental office.
+-
+The following is a list of community and regional organizations that will aid in soliciting low- and
+moderate-income applicants:
+o
+Religious Groups
+o
+Tenant Organizations
+o
+Civic Organizations
+o.
+Fair Share Housing Center
+o
+New Jersey NAACP
+o
+Latino Action Network
+o
+Bergen County NAACP
+o
+Bergen County United Way
+o
+Bergen County Board of Social Services
+o
+Bergen County Housing Authority
+o
+Hudson County Office on Aging
+o
+Sussex County Office on Aging
+oO
+Passaic County Office on Aging
+o
+Bergen County Housing Coalition
+o
+Urban League of Bergen County
+o
+Urban League of Sussex County
+o
+Bergen County Dept. of Senior Services
+o
+Bergen County Housing, Health, and Human Services center
+o
+Latino Action Network
+o
+New Jersey Community Development Corporation
+©
+Habitat for Humanity
+o
+Interreligious Fellowship for the Homeless of Bergen County
+Ril
+
+===== PAGE 51 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 51 of 58
+Trans ID: LCV2026524139
+-
+The following
+is a description of the random selection method that will be used to select
+occupants of low- and moderate-income housing:
+o
+Each applicant upon submission of an application will be designated
+a number. Two
+categories will be created: one for a low-income household and one for moderate-income
+household. A blind drawing will be undertaken; one each for low- and moderate-income
+households who are eligible for the specific affordable units.
+-
+A waiting list of all eligible candidates will be maintained in accordance with the provisions
+contained in N.J.A.C. 5:80-26 et. Seq.
+-
+Household who live or work in Housing Region 1 shall be given preference for sales and rentals
+units constructed within this Housing Region. Applicant living outside this Housing Region will
+have an equal opportunity for units after regional applicants have been initially serviced.
+Rockleigh
+is ultimately responsible for administering the affordability controls and the Affirmative
+Marketing Plan.
+Rockleigh will create the position of a Municipal Liaison and delegate the responsibility to a municipal
+employee, who shall administer the affordable housing program, including administering and enforcing
+the affordability controls and this Affirmative Marketing Plan, in accordance with the provisions of the
+ordinance creating the position of the Municipal Liaison, the regulations of the New Jersey Uniform
+Housing Affordability Controls pursuant to N.J.A.C. 5:80-26 et. seq.
+Subject to approval, Rockleigh may contract with one of more administrative agents to administer some
+of all of the affordability controls and/or the Affirmative Marketing Plan in accordance with the provisions
+of Rockleigh’s Code and the New Jersey Uniform Housing Affordability Controls pursuant to N.J.A.C. 5:80-
+26 et. seq. If Rockleigh enters into such a contract, the Municipal Liaison shall supervise the contracting
+administrative agent(s) and shall serve as liaison to the contracting administrative agent(s).
+Developers of low- and moderate-income units may assist in the marketing of the affordable units in their
+respective developments if so designated by the Governing Body of Rockleigh in accordance with the
+provisions of Rockleigh’s Code and the New Jersey Uniform Housing Affordability Controls pursuant to
+N.J.A.C. 5:80-26 et. seq. If Rockleigh enters into such a contract, the Municipal Liaison shall supervise the
+contracting administrative agent(s) and shall serve as liaison to the contracting administrative agent(s).
+NEGLIA
+
+===== PAGE 52 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 52o0f58
+Trans ID: LCV2026524139
+motion: Counted Antu
+secon:
+Conrnerctran Mondera_—
+BOROUGH OF ROCKLEIGH
+COUNTY OF BERGEN
+STATE OF NEW JERSEY
+RESOLUTION NO. 2026-24
+RESOLUTION ADOPTING FOURTH ROUND SPENDING PLAN
+WHEREAS, the Borough ofRockleigh (the “Borough” or “Rockleigh”) filed a resolution
+of participation in the Affordable Housing Dispute Resolution Program (the “Program”) and a
+declaratory judgment action on January 28, 2025; and
+WHEREAS, the Court entered an order on May 5, 2025 setting the Borough’s Fourth
+Round fair share obligations as a Present Need of zero (0) units and a Prospective Need of fourteen
+(14) units, which no party appealed, and ordered the Borough to file
+a Housing Element and Fair
+Share Plan (“HEFSP”) by June 30, 2025; and
+WHEREAS, the Borough filed its HEFSP on June 25, 2025; and
+WHEREAS, FSHC filed a letter pursuant to N.J.S.A. 52:27D-304.1(f)(2)(b) regarding the
+Borough’s HEFSP on August 25, 2025 seeking additional information and documentation before
+the HEFSP may be approved by the Program and trial court; and
+WHEREAS, the Borough supplied the additional information and documentation sought
+by FSHC; and
+WHEREAS, the Court entered a Consent Order approving the HEFSP and granting the
+Borougha conditional Compliance Certification that is subject to the satisfaction of certain
+conditions including the adoption of a Fourth Round Spending Plan; and
+WHEREAS, the Borough has prepared a Fourth Round Spending Plan, dated February
+2026, that is consistent with the applicable statutes and regulations.
+NOW, THEREFORE, BE IT RESOLVED by the Governing Body of the Borough of
+Rockleigh, County of Bergen, State ofNew Jersey as follows:
+1.
+The Borough of Rockleigh (“Borough”) does hereby adopt the Fourth Round
+Spending Plan, dated February 2026, attached hereto.
+2.
+This Resolution shall take effect immediately.
+
+===== PAGE 53 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 53 of 58
+Trans ID: LCV2026524139
+CERTIFICATION
+The undersigned, Municipal Clerk for the Borough of Rockleigh, County of Bergen,
+State ofNew Jersey, hereby certifies the foregoing to be a true copy of a Resolution adopted by
+the Governing Body of the Borough of Rockleigh on March 2, 2026.
+vifcela ital
+ee
+Clerk
+[Councilmember | Motion | Second | Yes | No | Absent | Abstain _|
+[Cumiskey
+||
+[Mendr
+|
+| ZTYT
+‘Hansen
+||TY
+‘Brsnk |
+|TT
+fAntne
+| OY
+‘Alma
+|
+|
+
+===== PAGE 54 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 54 0f58
+Trans ID: LCV2026524139
+AFFORDABLE HOUSING TRUST FUND SPENDING PLAN
+Borough of Rockleigh
+Bergen County, New Jersey
+February 2026
+INTRODUCTION
+The Borough of Rockleigh, Bergen County, had adopted and will revise its Development Fee Ordinance,
+which established the Borough’s separate interest-bearing Affordable Housing Trust Fund and established
+standards for the collection, maintenance, and expenditure of development fees for affordable housing
+purposes.
+The Borough has prepared this Spending Plan
+in accordance with applicable Affordable Housing
+regulations and judicial requirements to identify and allocate the intended uses of funds within the
+Borough’s Affordable Housing Trust Fund.
+As of December 31, 2025, the Borough’s Affordable Housing Trust Fund had a balance of $384,308.04. All
+development fees, payments in lieu of on-site affordable housing construction, and interest earned on
+such fees are deposited in the Borough’s Affordable Housing Trust Fund to support affordable housing
+initiatives. These funds will be expended in accordance with the Fair Housing Act (“FHA”), applicable
+judicial directives, and the regulations and guidance governing municipal affordable housing trust funds,
+as detailed in the sections that follow.
+1.
+REVENUES FOR CERTIFICATION PERIOD
+To calculate a projection of revenue anticipated during the Fourth Round (2025-2035), the Borough of
+Rockleigh considered the following:
+a)
+Development fees:
+1.
+Residential and nonresidential projects which have had development fees imposed upon
+them at the time of preliminary or final development approvals and that are not exempt;
+2.
+All projects currently before the planning and zoning boards for development approvals that
+may apply for building permits and certificates of occupancy; and
+3.
+Future development that is likely to occur based on historical rates of development.
+b)
+Actual and committed Payment in Lieu (PIL) of construction from developers as follows:
+1.
+There have not been any Payments in Lieu collected by the municipality. If any such payments
+are made to the Borough during the Fourth Round, such payments will be deposited in the
+Borough’s Affordable Housing Trust Fund.
+c)
+Other funding sources:
+1.
+The Borough does not currently anticipate the contribution of any other funds toward the
+municipal Affordable Housing Trust Fund during the Fourth Round. That said, if any such
+funds are collected during the Fourth Round, said funds will be deposited in the Borough’s
+Affordable Housing Trust Fund.
+
+===== PAGE 55 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg55o0f58
+Trans ID: LCV2026524139
+d)
+Projected interest: Interest on the projected revenue in the Affordable Housing Trust Fund is
+projected at the current average interest rate of 2.2%. All interest earned on the affordable
+housing trust funds shall be deposited into the Affordable Housing Trust Fund and used only for
+affordable housing purposes.
+Projected Revenue
+Source of Funds
+|
+2028
+2026
+|
+2027
+|
+2028
+2029
+|
+(2030
+2031
+2032
+2033
+2034
+pee
+Payments in Lieu of Construction | $0.00 | $0.00 | $0.00 | $000| $000
+| s0.00 |
+$0.00
+$0.00
+$0.00
+|
+$0.00
+$0.00
+“$0.00
+Total
+[$384,308.04
+| $392,762.82 |$401,403.60
+|$410,234.48
+| $419,259.64
+| $428,483.35 | $437,909.98
+| $447,544.00 |$457,389.97
+| $467,452,55| $472,594.53 | $472,594.53
+2. ADMINISTRATIVE MECHANISM TO COLLECT AND DISTRIBUTE FUNDS
+The following procedural sequence for the collection and distribution of development fee revenues shall
+be followed by the Borough of Rockleigh:
+a)
+Collection of development fee revenues:
+Collection of development fee revenues shall be conducted in accordance with the Borough of
+Rockleigh’s Development Fee Ordinance for both residential and non-residential developments
+and consistent with the provisions of the Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.), the
+Fair Housing Act (N.J.S.A. 52:27D-301 et seq.), applicable judicial requirements, and the proposed
+Fair Housing Act rules to be promulgated by the New Jersey Department of Community Affairs
+(N.J.A.C. 5:99).
+b)
+Distribution of development fee revenues:
+The governing body shall adopt a resolution authorizing the expenditure of development fee
+revenues consistent with the spending plan. Once a request has been approved by resolution, the
+CFO shall release the requested revenue from the Affordable Housing Trust Fund for the specific
+use approved in the governing body’s resolution.
+3.
+DESCRIPTION OF ANTICIPATED USE OF AFFORDABLE HOUSING FUNDS
+a)
+Rehabilitation:
+The Borough has a Present Need (rehabilitation) obligation of 0 units.
+The
+Borough’s efforts to meet its Present Need include a municipally sponsored local rehabilitation
+program and participation in the County’s rehabilitation program. The Borough will utilize funds
+from the Borough’s Affordable Housing Trust Fund to help fund this program.
+b)
+Other Emergent Housing Opportunities: The Borough will reserve the remaining trust fund
+balance for other emergent opportunities to create affordable housing that may arise during the
+Fourth Round.
+The Borough
+shall
+seek approval
+for any emergent
+affordable
+housing
+opportunities not included in the Borough’s fair share plan in accordance with N.J.A.C. 5:99-4.1.
+c)
+Affordability Assistance: Pursuant to N.J.A.C. 5:99-2.5, the Borough is required to set aside a
+portion of all development fees collected and interest earned for the purpose of providing
+affordability assistance to very low-, low- and moderate-income households in affordable units
+included in the Borough’s fair share plan. Affordability assistance means the use offunds to render
+housing units more affordable to low- and moderate-income households and includes, but is not
+limited to, down payment assistance, security deposit assistance, low interest loans, rental
+assistance,
+assistance
+with homeowner’s association
+or condominium fees and _ special
+assessments, common maintenance expenses, and assistance with emergency repairs and
+
+===== PAGE 56 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 56 of 58
+Trans ID: LCV2026524139
+rehabilitation to bring deed-restricted units up to code, pursuant to N.J.A.C. 5:99-2.5. This may
+also include offering a subsidy to developers of inclusionary or 100% affordable housing
+developments or buying down the cost of low- or moderate-income units in the Borough’s fair
+share plan to make them affordable to very low-income households, including special needs and
+supportive housing opportunities.
+Rockleigh Projected Affordability Assistance
+Actual development fees and Interest
+through 12/31/2025
+|
+$384,308.04
+Payment in Liew
+rs
+ee
+Borough Contributions
+es
+Projected Development Fees, 1/1/2026 thru
+>
+$0
+6/30/2035
+Projected Trust Fund Interest, 1/1/2026 thru
+6/30/2035
++
+$88,286.49
+Less housing expenditures
+[
+-SCOUTt—<“CsSSSCCi‘C
+TOTAL
+f=
+$472,594.53
+$141,778.36
+Less Affordability Assistance, 1/1/2025 thru
+$0
+12/31/2035
+Projected Affordability Assistance, 1/1/2025 thru
+12/31/2035
+$141,778.36
+d)
+Administrative Costs: The Borough of Rockleigh projects that
+a maximum of twenty percent (20%)
+of revenues collected in the Affordable Housing Trust Fund will be used for administrative
+purposes. Eligible administrative costs may include salaries and benefits of municipal staff, and
+fees for legal, planning, or other professional services necessary to implement the Housing
+Element and Fair Share Plan, the rehabilitation program, and affordability assistance activities.
+Administrative Expense Calculation
+Actual Development Fees and
+Projected
+Development
+Fees | +
+and Interest thru 2035
+$88,286.49
+Payments in lieu of construction | +
+$0
+and other deposits
+Less
+RCA
+expenditures
+thru
+$0
+12/31/2035
+Total
+for Admin
+Calculation
+72,594.
+1/1/2025 thru 2035
+PF
+>
+Calculate twenty percent (20%)
+$94,518.91
+Less admin expenditures thru
+$0
+6/30/2025
+Projected Maximum
+available
+for
+administrative
+expenses
+$94,518.91
+Thru December 2035
+
+===== PAGE 57 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 57 of58
+Trans ID: LCV2026524139
+4.
+EXPENDITURE SCHEDULE
+Borough of Rockleigh intends to use affordable housing trust fund revenues for the creation and/or
+rehabilitation of housing units and for affordability assistance programs.
+The Borough of Rockleigh has engaged the services of affordable housing consultants to scope the best fit
+housing solutions that would include the rehabilitation of existing units, construction of new units either
+as a Borough initiative or in the context of significant redevelopment project and per the as Rockleigh
+Borough Affordable Housing Ordinance.
+7
+Projected Expenditures
+|
+to
+[Rehabilitation
+‘|s000
+| $000 |
+$0.00 |So.00|
+$0.00
+$0.00
+|
+$0.00
+$0.00 |$0.00|
+‘Administration
+$4,725.95
+| $9.451.89 | $9,451.89 | $9,451.89
+$9,451.89
+| $9,451.89
+$9,451.89 |
+$4,725.95
+$94,518 91
+|
+Other Emergent Opportunities
+$236,297.26 |
+[Total Expenditures
+___|'s23.629.70
+| $47,259.46
+$47,259.46| $47,259.46
+|$47,259.46 |$47,259.46
+| $47,259.46 | $47,259.46 | _ $23,629.69 _| $472,594.53
+|
+5. EXCESS OF SHORTFALLS OF FUNDS
+In the event of any expected or unexpected shortfall of funds necessary to implement the Borough’s
+Fourth Round Housing Element and Fair Share Plan, the Borough will handle the shortfall of funds through
+an alternative funding source to be identified by the Borough and/or by adopting a resolution with an
+intent to bond. In the event of excess funds, any remaining funds above the amount necessary to satisfy
+the municipal affordable housing obligation will be dedicated toward the Borough’s Rehabilitation
+Program, additional funding for affordability assistance, additional administrative expenditures (up to the
+20% cap) and/or any other emergent affordable housing opportunities that may arise during the Fourth
+Round.
+6.
+BARRIER FREE ESCROW
+Collection and distribution of barrier free funds shall be consistent with the Borough of Rockleigh’s
+Affordable Housing Ordinance and in accordance with applicable regulations.
+7. SUMMARY
+The Borough of Rockleigh intends to spend affordable housing trust fund revenues consistent with the
+requirements of the Fair Housing Act, applicable regulations and the housing programs outlined in the
+Borough’s Fourth Round Housing Element and Fair Share Plan. The Borough of Rockleigh has a balance of
+$384,308.04 as of December 31, 2025 and anticipates to generate $88,286.39 in interest between
+12/31/2025 — 6/30/2035. These funds will be used in accordance with this spending plan.
+See Spending Plan Summary Chart on the next page.
+
+===== PAGE 58 =====
+BER-L-000687-25
+03/04/2026 9:12:58 AM
+Pg 58 of 58
+Trans ID: LCV2026524139
+Rockleigh Spending Plan Summary
+Balance as of 12/31/2025
+|
+$384,308.04
+PROJECTED REVENUE 2025-2035
+ee
+Development Fees
+Payments in Lieu of Construction
+Other Funds
+$88,286.49
+TOTAL AVAILABLE FUNDS
+| = |
+$472,594.53
+PROJECTED EXPENDITURES 2025-2035
+[|
+|
+Rehabilitation Program
+Other Emergent Activities
+$236,297.26
+Affordability Assistance
+$141,778.36
+$94,518.91
+TOTAL PROJECTED EXPENDITURES
+[= |$472,594.53
+REMAINING BALANCE
+[= |go

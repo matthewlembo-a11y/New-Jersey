@@ -1,0 +1,67 @@
+{
+  "municipality": "North Arlington",
+  "research_status": "done",
+  "obligation": {
+    "present_need": 36,
+    "prospective_need": 192,
+    "total_obligation": 228,
+    "rdp": 0,
+    "unmet_need": 192,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/north-arlington-boro/NorthArlingtonHESFPwithPBReso7.28.25.pdf?VersionId=VAU9olOFP4OXQaZiGiQ6P1R3G7DVuCu_"
+  },
+  "compliance": {
+    "status": "complying",
+    "settlement_party": "FSHC (prior round), NJBA (obligation challenge)",
+    "settlement_date": null,
+    "hefsp_status": "adopted",
+    "hefsp_adopted_date": "2025-07-28",
+    "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/north-arlington-boro/NorthArlingtonHESFPwithPBReso7.28.25.pdf?VersionId=VAU9olOFP4OXQaZiGiQ6P1R3G7DVuCu_"
+  },
+  "notes": "HEFSP adopted by Planning Board via Resolution R-13-25 on July 28, 2025 (extended from June 30 deadline). Prospective need reduced from DCA's 227 to 192; Court ruled on June 16, 2025 that borough's numbers were upheld (both FSHC and NJBA challenges resolved). Present need of 36 confirmed by Resolution R-58-25 and court order. Fourth Round RDP = 0: Vacant Land Analysis found ZERO available vacant parcels. Entire 192-unit prospective need is Unmet Need. Borough has NO Third Round plan; Third Round total obligation was 212 units; zero existing credits. Present/rehab need addressed through Bergen County Rehabilitation Program. Because RDP=0, the 25% site-zoning provision (53 units) would apply, but the HEFSP does not identify any specific overlay zones or site-specific affordable housing mechanisms for the Fourth Round. The only approved project mentioned (165-173 Ridge Road, Block 23, Lots 24/24.01/25) is a 15-unit multifamily under the Ridge Road Redevelopment Plan — but the HEFSP specifies NO affordable set-aside units for this project. Ord 2456 is a development fee ordinance only, not a site-specific overlay. This is effectively a site-less HEFSP with 192 units of unmet need carried forward.",
+  "sources": [
+    {
+      "doc_type": "HEFSP",
+      "title": "North Arlington Housing Element and Fair Share Plan with PB Resolution R-13-25",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/north-arlington-boro/NorthArlingtonHESFPwithPBReso7.28.25.pdf?VersionId=VAU9olOFP4OXQaZiGiQ6P1R3G7DVuCu_",
+      "excerpt": "the Borough has a Fourth-Round prospective need obligation (RDP) of 0 affordable housing units. The full vacant land analysis can be found in the appendix of this report. The Vacant Land Analysis disclosed zero (0) available vacant parcels. Therefore, the 192 units will be included as unmet need."
+    },
+    {
+      "doc_type": "ordinance",
+      "title": "Ord 2456 Affordable Housing Ordinance",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/north-arlington-boro/Ord2456AffordableHousingOrdinance.pdf?VersionId=DE2rpjn5VmoYd9emldGU1g_YV2wz0yCr",
+      "excerpt": "Development fee ordinance (Section 80-1 through 80-12) establishing affordable housing trust fund and fee collection procedures. Not a site-specific overlay ordinance."
+    },
+    {
+      "doc_type": "DCA",
+      "title": "DCA Bergen County Fourth Round Obligations",
+      "url": null,
+      "excerpt": "North Arlington borough: present_need=36, prospective_need=227, quam=0"
+    }
+  ],
+  "sites": [
+    {
+      "site_name": "165-173 Ridge Road (Ridge Road Redevelopment)",
+      "address": "165-173 Ridge Road",
+      "block": "23",
+      "lot": "24, 24.01, 25",
+      "acreage": null,
+      "mechanism": "redevelopment",
+      "current_zoning": null,
+      "proposed_zoning": "Ridge Road Redevelopment Plan",
+      "density": null,
+      "total_units": 15,
+      "affordable_units": null,
+      "set_aside_pct": null,
+      "tenure": null,
+      "adoption_status": "approved by Planning Board April 21, 2025",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/north-arlington-boro/NorthArlingtonHESFPwithPBReso7.28.25.pdf?VersionId=VAU9olOFP4OXQaZiGiQ6P1R3G7DVuCu_",
+      "source_page": "Fair Share Plan section",
+      "source_date": "2025-07-28",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "165-173 Ridge Road (Block 23, Lots 24, 24.01, 25) – 15-unit multifamily + ground floor commercial; approved by Planning Board April 21, 2025 under Ridge Road Redevelopment Plan",
+      "notes": "CORRECTION from candidate snapshot: No affordable units are specified for this project in the HEFSP. The document confirms block/lot and unit count but provides NO set-aside requirement or affordable unit count. This project appears to be market-rate only under the redevelopment plan. Not counted as an affordable housing compliance site in the Fourth Round plan."
+    }
+  ]
+}

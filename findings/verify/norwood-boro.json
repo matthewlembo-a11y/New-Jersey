@@ -1,0 +1,109 @@
+{
+  "municipality": "Norwood",
+  "research_status": "done",
+  "obligation": {
+    "present_need": 15,
+    "prospective_need": 162,
+    "total_obligation": 177,
+    "rdp": 13,
+    "unmet_need": 149,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/norwood-boro/fourthroundplan10501120250627144001.pdf?VersionId=lv5jg3uRXCferz5I.ypCzrqGz4e2V751"
+  },
+  "compliance": {
+    "status": "complying",
+    "settlement_party": "Fair Share Housing Center (FSHC)",
+    "settlement_date": "2019-02-24",
+    "hefsp_status": "adopted",
+    "hefsp_adopted_date": null,
+    "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/norwood-boro/fourthroundplan10501120250627144001.pdf?VersionId=lv5jg3uRXCferz5I.ypCzrqGz4e2V751"
+  },
+  "notes": "Borough adopted Resolution 2025-50 on January 22, 2025 committing to Fourth Round obligation. Borough's recalculation yielded prospective need of 130 units (modified from DCA's 162); however the HEFSP text states the borough 'decided to implement' the 162-unit DCA figure while reserving the right to challenge. DCA figure of 162 used here. Rehab obligation: 15 units (matched DCA). Norwood Gardens (24 affordable units, major system rehab 2019-2023) satisfies present need with 9-unit surplus credit. RDP: 13 total = 6 units (Block 93, Lot 12, 400 Livingston approval) + 7 units (VLA remaining parcels). Unmet need = 162 - 13 = 149 units. Fourth Round compliance mechanisms include: (1) 400 Livingston Street (Block 93, Lot 12) multi-family with 6 affordable approved January 29, 2025; (2) Affordable housing overlay on Block 184/185/186, Lot 1 each (100% affordable, 24-unit max); (3) Affordable housing overlay on Block 183, Lot 1.01 (100% affordable, 24-unit max). The Borough executed settlement with FSHC on February 24, 2019; Third Round HEFSP adopted August 15, 2019. Third Round RDP was 46 units (36 VLA + 10 penalty for 521-525 Livingston Avenue approval without affordable units). Atria Assisted Living (Tappan Road) addressed 22 age-restricted units; 100% affordable Borough-owned site on McClellan Street (Blocks 165/168/169) for 24 units was never constructed. Remaining Third Round obligation noted but not quantified in Fourth Round plan.",
+  "sources": [
+    {
+      "doc_type": "HEFSP",
+      "title": "Norwood Borough Fourth Round Housing Element and Fair Share Plan",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/norwood-boro/fourthroundplan10501120250627144001.pdf?VersionId=lv5jg3uRXCferz5I.ypCzrqGz4e2V751",
+      "excerpt": "The Borough of Norwood has performed a vacant land adjustment which resulted in a Realistic Development Potential of seven (7) affordable units. The Borough of Norwood Planning Board recently approved the plans for 400 Livingston, a multi-family residential building inclusive of six (6) affordable units. The six (6) units from this project and the seven (7) units equate to a total RDP of thirteen (13) units."
+    },
+    {
+      "doc_type": "DCA",
+      "title": "DCA Bergen County Fourth Round Obligations",
+      "url": null,
+      "excerpt": "Norwood borough: present_need=15, prospective_need=161, quam=0"
+    }
+  ],
+  "sites": [
+    {
+      "site_name": "400 Livingston Street",
+      "address": "400 Livingston Street",
+      "block": "93",
+      "lot": "12",
+      "acreage": null,
+      "mechanism": "inclusionary overlay",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": null,
+      "total_units": 36,
+      "affordable_units": 6,
+      "set_aside_pct": null,
+      "tenure": null,
+      "adoption_status": "approved by Planning Board January 29, 2025",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/norwood-boro/fourthroundplan10501120250627144001.pdf?VersionId=lv5jg3uRXCferz5I.ypCzrqGz4e2V751",
+      "source_page": "Page 17-18 and Fair Share Plan section",
+      "source_date": null,
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Block 93, Lot 12 - commonly identified as 400 Livingston Street received approval from the Borough of Norwood Planning Board on January 29, 2025. The Applicant was approved to construct a three-story, multi-family building, The proposed building consisted of a total of 36 units inclusive of six (6) affordable units.",
+      "notes": "Three-story multi-family building. Affordable breakdown: 1 one-BR, 3 two-BR, 2 three-BR; 13% minimum very-low-income units per approval. Counts as 6 RDP units."
+    },
+    {
+      "site_name": "Affordable Housing Overlay - Block 184/185/186",
+      "address": null,
+      "block": "184, 185, 186",
+      "lot": "1, 1, 1",
+      "acreage": 0.927,
+      "mechanism": "100% affordable",
+      "current_zoning": null,
+      "proposed_zoning": "Affordable Housing Overlay District",
+      "density": null,
+      "total_units": 24,
+      "affordable_units": 24,
+      "set_aside_pct": 100,
+      "tenure": null,
+      "adoption_status": "overlay in place (ordinance adopted)",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/norwood-boro/fourthroundplan10501120250627144001.pdf?VersionId=lv5jg3uRXCferz5I.ypCzrqGz4e2V751",
+      "source_page": "Page 89 (Section P of Affordable Housing Overlay)",
+      "source_date": null,
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "P, Location. The affordable housing overlay district contains all of the parcels of land designated on the Tax Assessment Map of the Borough of Norwood as Block 184, Lot 1, Block 185, Lot 1, Block 186, Lot 1, (1) Principal permit use. (a) Multiple-family dwellings, in the form of townhouses or apartments, (2) Maximum permitted density (a) 24 units, 100% affordable",
+      "notes": "Three Borough-owned lots totaling 3,716 sq ft (0.085 acres combined per HEFSP; however text says 'assemblage would result in 3,716 of site area'). All three lots owned by Borough. Maximum 2 stories. Townhouses or apartments. 100% affordable, 24-unit maximum. Set as an overlay district in the HEFSP/ordinance."
+    },
+    {
+      "site_name": "Affordable Housing Overlay - Block 183, Lot 1.01",
+      "address": null,
+      "block": "183",
+      "lot": "1.01",
+      "acreage": 2.196,
+      "mechanism": "100% affordable",
+      "current_zoning": null,
+      "proposed_zoning": "Affordable Housing Overlay District",
+      "density": null,
+      "total_units": 24,
+      "affordable_units": 24,
+      "set_aside_pct": 100,
+      "tenure": null,
+      "adoption_status": "overlay in place (ordinance adopted)",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/norwood-boro/fourthroundplan10501120250627144001.pdf?VersionId=lv5jg3uRXCferz5I.ypCzrqGz4e2V751",
+      "source_page": "Page 89 (Section Q of Affordable Housing Overlay)",
+      "source_date": null,
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Q. Location. The affordable housing overlay district contains all of the parcels of land designated on the Tax Assessment Map of the Borough of Norwood as Block 183, Lot 1,01, (1) Principal permit use. (a) Multiple-family dwellings, in the form of townhouses or apartments, (2) Maximum permitted density (a) 24 units, 100% affordable",
+      "notes": "2.196-acre privately owned parcel. Does not require assemblage. Has access to roads and utilities. Maximum 2 stories. 100% affordable, 24-unit maximum. VLA identified 7 affordable units from remaining vacant parcels (including this site and Block 184/185/186 assemblage)."
+    }
+  ]
+}

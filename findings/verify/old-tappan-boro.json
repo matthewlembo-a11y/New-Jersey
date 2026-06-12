@@ -1,0 +1,115 @@
+{
+  "municipality": "Old Tappan",
+  "research_status": "done",
+  "obligation": {
+    "present_need": 4,
+    "prospective_need": 212,
+    "total_obligation": 216,
+    "rdp": 0,
+    "unmet_need": 212,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/old-tappan-boro/OldTappanHousingElement4thRoundClean4156.06202601281.pdf?VersionId=Qiv_vGNHYdUwvfUMBOqBSVoZZHlKXtoR"
+  },
+  "compliance": {
+    "status": "complying",
+    "settlement_party": "Fair Share Housing Center (FSHC) (prior/Third Round); New Jersey Builders Association (NJBA) (Fourth Round obligation challenge)",
+    "settlement_date": "2018-03-06",
+    "hefsp_status": "adopted",
+    "hefsp_adopted_date": "2025-06-11",
+    "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/old-tappan-boro/OldTappanHousingElement4thRoundClean4156.06202601281.pdf?VersionId=Qiv_vGNHYdUwvfUMBOqBSVoZZHlKXtoR"
+  },
+  "notes": "HEFSP adopted by Planning Board June 11, 2025; amended March 11, 2026; filed with court March 18, 2026 (BER-L-000477-25). DCA present need = 4 (accepted). DCA prospective need = 233; borough reduced to 121 (exempt parcels); NJBA challenged upward; settled by Program at 212. Borough adopted binding resolution January 21, 2025. Fourth Round RDP = 0: VLA confirmed no changed circumstances from prior round analysis; Borough lacks developable land. All 212 units = Unmet Need. FHA-2 requires 25% obligation (53 units) to be addressed by overlay zoning on likely-to-redevelop sites. Plan addresses this 53-unit threshold through Town Center Overlay (104 units proposed). Present need addressed via Bergen County Housing Rehabilitation Program (continuation from Third Round). Third Round RDP was 31; Borough satisfied nearly all through completed and proposed developments. Court order of March 6, 2018 established compliance. Town Center Overlay includes 18 parcels totaling 34.5 acres on Old Tappan Road. CORRECTION from DCA obligation (233 prospective need): the actual adopted obligation is 212 by Program settlement.",
+  "sources": [
+    {
+      "doc_type": "HEFSP",
+      "title": "Old Tappan Borough Housing Element and Fair Share Plan (Clean/Amended, Jan 28, 2026)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/old-tappan-boro/OldTappanHousingElement4thRoundClean4156.06202601281.pdf?VersionId=Qiv_vGNHYdUwvfUMBOqBSVoZZHlKXtoR",
+      "excerpt": "By settlement with the New Jersey Builder's Association through the Program settlement process, the Borough of Old Tappan has a Fourth Round Prospective need of 212 affordable units. ... the Borough's RDP is 0. Because the Borough has a 4th Round RDP obligation of zero (0) units, the entirety of the Borough's 4th Round Prospective Need obligation of 212 units is considered Unmet Need."
+    },
+    {
+      "doc_type": "ordinance",
+      "title": "Ordinance 129126 - Town Center Overlay Zone Zoning Amendment",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/old-tappan-boro/Ordinance129126AmendZoning....TownCenterOverlayZones.pdf?VersionId=PHIFoQwIJWfuD265P2_titf7SHDt38v3",
+      "excerpt": "Town Center Overlay Zone amendment"
+    },
+    {
+      "doc_type": "DCA",
+      "title": "DCA Bergen County Fourth Round Obligations",
+      "url": null,
+      "excerpt": "Old Tappan borough: present_need=4, prospective_need=233, quam=0"
+    }
+  ],
+  "sites": [
+    {
+      "site_name": "244 Old Tappan Road - Assisted Living",
+      "address": "244 Old Tappan Road",
+      "block": "1606",
+      "lot": "3",
+      "acreage": null,
+      "mechanism": "100% affordable",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": null,
+      "total_units": 100,
+      "affordable_units": 10,
+      "set_aside_pct": 10,
+      "tenure": "rental",
+      "adoption_status": "approved",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/old-tappan-boro/OldTappanHousingElement4thRoundClean4156.06202601281.pdf?VersionId=Qiv_vGNHYdUwvfUMBOqBSVoZZHlKXtoR",
+      "source_page": "Section 4.C Plan Components, Table 25",
+      "source_date": "2025-06-11",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "244 Old Tappan Road, Block 1606, Lot 3; Assisted Living Housing. The Borough has recently approved a 100-bed senior assisted living facility located at 244 Old Tappan Road. This development is required to set aside 10% or 100 units as affordable beds yielding.",
+      "notes": "Senior assisted living facility. 100 beds total; 10% set-aside = 10 affordable beds. Age-restricted. Table 25 confirms 10 credits. Borough recently approved."
+    },
+    {
+      "site_name": "New Concepts for Living Group Home (1043 Washington Ave / 302 Old Tappan Rd)",
+      "address": "1043 Washington Avenue and 302 Old Tappan Road",
+      "block": "1701",
+      "lot": "7.01 and 7.02",
+      "acreage": null,
+      "mechanism": "100% affordable",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": null,
+      "total_units": 12,
+      "affordable_units": 12,
+      "set_aside_pct": 100,
+      "tenure": "rental",
+      "adoption_status": "completed (occupied)",
+      "developer": "New Concepts for Living",
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/old-tappan-boro/OldTappanHousingElement4thRoundClean4156.06202601281.pdf?VersionId=Qiv_vGNHYdUwvfUMBOqBSVoZZHlKXtoR",
+      "source_page": "Section 4.C Plan Components, Table 25",
+      "source_date": "2025-06-11",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "1043 Washington Avenue & 302 Old Tappan Road, Block 1701, Lots 7.01 and 7.02. A twelve (12) bed group home of adult special needs housing has been constructed and is occupied at 1043 Washington Avenue and adjoining lot located 302 Old Tappan Road. The group home is operated by New Concepts for Living.",
+      "notes": "12-bed adult special needs group home. Constructed and occupied. Operated by New Concepts for Living. Table 25 confirms 12 credits. Adjoining lots (7.01 and 7.02) together constitute the site."
+    },
+    {
+      "site_name": "Town Center Overlay Zone (TCO) - MU and PO Zones",
+      "address": "Old Tappan Road corridor",
+      "block": "1606, 1101, 1102, 1605, 701, 701.01",
+      "lot": "5, 6 (Blk 1606); 1,2,3,5 (Blk 1101); 1-4 (Blk 1102); 4,5,6 (Blk 1605); 8 (Blk 1606); 14.01,14.02,15 (Blk 701); 16 (Blk 701.01)",
+      "acreage": 34.5,
+      "mechanism": "inclusionary overlay",
+      "current_zoning": "B-1, B-2 commercial",
+      "proposed_zoning": "Town Center Overlay (MU-Mixed Use and PO-Professional Office sub-zones)",
+      "density": 15,
+      "total_units": null,
+      "affordable_units": 104,
+      "set_aside_pct": 20,
+      "tenure": "rental",
+      "adoption_status": "proposed overlay (pending ordinance adoption)",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/old-tappan-boro/OldTappanHousingElement4thRoundClean4156.06202601281.pdf?VersionId=Qiv_vGNHYdUwvfUMBOqBSVoZZHlKXtoR",
+      "source_page": "Section 4.C.3, Map 2, Table 25",
+      "source_date": "2025-06-11",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "(a) MU Overlay Zone (21.9 acres): Block 1606, Lots 5 and 6; Block 1101, Lots 1,2,3,5; Block 1102, Lots 1-4 (b) PO Overlay Zone (12.6 acres): Block1605, Lots 4,5 and 6; Block 1606, Lot 8, Block 701, Lots 14.01,14.02 and 15; Block 701.01, Lot16",
+      "notes": "Town Center Overlay covers 18 parcels, 34.5 acres total. Intended density 15 du/acre. Gross potential: 104 affordable units (at 20% set-aside). Anticipated rental units; for-sale permitted subject to FHA minimums. MU Overlay (21.9 ac): promotes mixed use residential/commercial including Bi-State Plaza. PO Overlay (12.6 ac): professional office/residential. Overlay ordinance (Ordinance 129126) provides implementing zoning. This is the primary mechanism addressing the 25% redevelopment obligation (53 units) required for RDP=0 municipalities."
+    }
+  ]
+}

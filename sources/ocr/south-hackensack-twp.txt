@@ -1,0 +1,3201 @@
+SOURCE_URL: https://library.njcourts.gov/files/civil/affordable-housing/bergen/south-hackensack-twp/SouthHackensackFourthRoundHousingElementFairSharePlan060225.PDF?VersionId=1uvvFxyUWrRXN0c_c8MSzFP6CjJwtxc8
+
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+2025 
+ 
+TOWNSHIP OF SOUTH HACKENSACK | BERGEN COUNTY, NEW 
+JERSEY 
+ADOPTED BY THE PLANNING BOARD: 
+ENDORSED BY THE COUNCIL: 
+PREPARED BY: 
+ANTHONY KURUS, PE, PP, CME 
+LYNDSAY KNIGHT, PP, AICP 
+JUNE 5, 2025 
+Fourth Round Housing 
+Element and Fair Share 
+Plan 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 1 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 2 =====
+ 
+1 
+ 
+Contents 
+Introduction .................................................................................................................................................. 2 
+Municipal Summary ................................................................................................................................... 4 
+Affordable Housing Obligation .................................................................................................................. 4 
+Borough Goal............................................................................................................................................. 4 
+Content of Housing Element ......................................................................................................................... 5 
+Inventory of Municipal Housing Stock ....................................................................................................... 6 
+Projection of Housing Stock ...................................................................................................................... 9 
+Analysis of the Township’s Demographic Characteristics ........................................................................ 10 
+South Hackensack Employment Demographics ...................................................................................... 14 
+Capacity for Fair Share ............................................................................................................................ 17 
+Fair Share Plan ............................................................................................................................................. 20 
+Plan Summary ......................................................................................................................................... 20 
+Affirmative Marketing Plan ..................................................................................................................... 21 
+Appendices .................................................................................................................................................. 22 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 2 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 3 =====
+ 
+2 
+ 
+Introduction 
+The Fair Housing Act of 1985 (the “FHA”), provided a constitutional obligation for all municipalities in the 
+State of New Jersey to provide affordable housing. Every municipality in the State was required to provide 
+a “realistic opportunity for a fair share of its region’s present and prospective needs for housing low- and 
+moderate-income families”.  Through this law, a Housing Element became a mandatory part of municipal 
+master plan.  In addition, a Fair Share Plan became mandatory which illustrated the means of achieving 
+the goals of the Housing Element. 
+Initially, the FHA directed the New Jersey Council on Affordable Housing (COAH) to provide regulations 
+that permitted municipalities to prepare a comprehensive planning and implementation response to the 
+constitutional obligation to provide a realistic opportunity for the provision of affordable housing.  At the 
+time, COAH was directed to review the municipal Housing Element and Fair Share Plan and was 
+empowered to grant substantive certification. The Township of South Hackensack was granted 
+substantive certification of its 2008 Third Round Plan on August 12, 2009. 
+The Township of South Hackensack (the “Township”) Planning Board and the Township endorsed a 
+Housing Element and Fair Share Plan in 2008.  Since that endorsement there have been several significant 
+events: 
+1. On August 12, 2009, the Township was granted Substantive Certification with respect to the 
+COAH Third Round 
+2. March 10, 2015 – The Supreme Court held that the Court would dissolve exhaustion-of-
+administrative remedies requirement of the Fair Housing Act of 1985 (FHA), as relief for failure of 
+COAH to adopt the third-round substantive rules for calculation of affordable housing needs and 
+criteria for satisfaction of needs. 
+3. The Township filed for Declaratory Judgement on July 8, 2015, in which the Township asked the 
+Court to exercise jurisdiction over the compliance of South Hackensack’s satisfaction of its 
+constitutional affordable housing obligations, immunity from exclusionary zoning litigation, and a 
+Judgement of Compliance and Repose for a period of 10 years. 
+As a result of the events described above, the framework for the Housing Element and Fair Share Plan 
+was changed.  The March 10, 2015, Supreme Court Decisions found that municipalities that received 
+substantial certification under the Third Round Rules would be required to evaluate its Plan since its 
+approval was based upon rules that had been partially invalidated.  If a Plan placed reliance on the growth 
+share formula, presumptive incentives, or rental bonus credits that were contained within the Third 
+Round Rules but were rejected by the Supreme Court, the plan would need to be addressed. 
+On November 3, 2017, the Settlement agreement was signed by Mayor Frank Cagas of the Township of 
+South Hackensack and by Kevin Walsh, Esq., for FSHC on November 1, 2017.  The agreement sets forth 
+the extent of South Hackensack’s Present Need (Rehabilitation Component), Prior Round, and Third 
+Round fair share obligations and provides a brief description of the compliance mechanisms by which 
+South Hackensack proposes to address those obligations. 
+In the Spring of 2024, the New Jersey Legislature passed, and Governor Murphy signed Law A4/S50 which 
+amended the Fair Housing Act (N.J.S.A. 52:27D-301 et seq.).  The amendments provided direction and 
+deadlines for how a municipality must meet its fourth-round affordable housing obligations.  This 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 3 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 4 =====
+ 
+3 
+ 
+legislative effort was intended to create a more efficient, open, and transparent process for the fourth 
+round and all subsequent rounds.   
+To effectuate compliance with the Fourt Round of Affordable Housing, municipalities must complete a 
+series of steps and, if the steps are timely completed, the municipality retains immunity from all 
+exclusionary zoning lawsuits, including immunity from builder’s remedy lawsuits.  The steps are as 
+follows: 
+1. Establish Present and Prospective Need Obligation Numbers – January 31, 2025.  The legislation 
+required municipalities to adopt a Present- and Prospective Need Obligation numbers by 
+resolution by January 31, 2025.   
+2. Period to Challenge Numbers – February 1, 2025 to February 28, 2025.  Interested parties can file 
+a challenge to the municipality’s adopted numbers.  The Borough did not have any challenges 
+filed against the present and prospective need obligations that were memorialized in the 
+resolution. 
+3. If Challenged, Numbers Reviewed and Settled – March 1, 2025 to April1, 2025.  The Affordable 
+housing Dispute Resolution program will review the municipality’s proposed obligation numbers 
+and review the challenge presented.   
+4. Development of Housing Element and Fair Share Plan – June 30, 2025. The HEFSP must contain 
+several components which must provide a realistic opportunity for the development of affordable 
+housing units that will satisfy the Town’s ultimate fourth-round affordable housing obligation 
+after consideration of adjustments to the Borough’s prospective need number by factors such as 
+insufficient vacant land on which to construct housing.  The statutory components of the HEFSP 
+include, among other things, an inventory of housing, demographic and employment analyses, 
+and considerations of lands for suitable housing development.  This document will also contain 
+areas recommended for rezoning, redevelopment, or other land use strategies to effectuate such 
+housing development.  This document will address all of the statutory criteria required by the 
+legislation to achieve conformance with this step. 
+5. Challenge of Housing Element and Fair Share Plan – August 31, 2025 to December 31, 2025. 
+Interested parties can file a challenge to the validity of the plan and the strategies to address the 
+obligation contained therein- by August 31, 2025.  Municipalities will have until December 31, 
+2025 to settle any challenge or provide an explanation as to why some or all the requested 
+changes from the intervening party will not be made.  If there is a settlement, it must be 
+reviewed and approved by the Supreme Court where the assigned Mount Laurel Judge for the 
+county issues an order approving the settlement and the equivalent of a judgment of compliance 
+and repose which is a form of permanent immunity from exclusionary zoning lawsuits for the 
+Fourth Round.  If there is no settlement the Program will review the plan and issue a 
+recommendation which goes to the Superior Court where the assigned Mount Laurel Judge for 
+the county issues a decision. 
+6. Final Compliance Deadline – March 31, 2026. Deadline for municipalities to amend its HEFSP in 
+the event the Borough needs to make any changes pursuant to a settlement or a decision of the 
+Court in response to a challenge, and the deadline for the Borough to adopt the implementing 
+ordinances to align with the plan. 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 4 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 5 =====
+ 
+4 
+ 
+Municipal Summary 
+The Township of South Hackensack has an area of approximately 0.71 square miles and is located in the 
+southern section of Bergen County, New Jersey.  The Township has a total population of 2,701 as per the 
+2020 Census Data.  The Township of South Hackensack is somewhat unique as it is comprised of three 
+separate, non-contiguous areas.  The main section of the Township is the northeastern primarily 
+residential section that us adjacent to Hackensack, Little Ferry, and Teterboro.  The “Garfield Park” 
+section is the small western portion of the Township that lies between Garfield, Lodi, Wallington, and 
+Woodridge.  The “Meadowlands” section is the smallest of the three areas consisting of the 
+southernmost area of land containing industrial properties lying in the NJSEA district (formerly the NJ 
+Meadowlands Commission) between Carlstadt, Moonachie, and Ridgefield. 
+Affordable Housing Obligation 
+On January 23, 2025, the Township memorialized Resolution #2025-71 stating the Present Need 
+(rehabilitation) Obligation of 7 units and a Prospective Need Obligation of 174 units as reported by the 
+Department of Community Affairs (DCA) and Neglia Group.  The resolution reserved the Township’s rights 
+to a vacant land adjustment, durational adjustments, and all other applicable adjustments permitted in 
+accordance with the act and COAH regulations. 
+Borough Goal 
+It is the overall goal of the Township’s HEFSP to provide the planning context in which access to low- and 
+moderate-income housing can be provided in accordance with the requirements of the Fair Housing Act 
+and the laws of the State of New Jersey. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 5 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 6 =====
+ 
+5 
+ 
+Content of Housing Element 
+The Fair Housing Act requires that “the housing element be designed to achieve the goal of access to 
+affordable housing to meet present and prospective housing needs, with particular attention to low- and 
+moderate-income housing”.  As per the MLUL, specifically N.J.S.A. 52:27D-310, a housing element must 
+contain at least the following items: 
+a. An inventory of the Borough’s housing stock by age, condition, purchase or rental value, 
+occupancy characteristics and type, including the number of units affordable to low- and 
+moderate-income households and substandard housing capable of being rehabilitated, and in 
+conducting this inventory the municipality shall have access, on a confidential bases for the sole 
+purpose of conducting the inventory, to all necessary property tax assessment records and 
+information in the assessor’s office, including but not limited to the property records cards; 
+b. Projection of the municipality’s housing stock, including the probable future construction of low- 
+and moderate-income housing, for the next ten years, taking into account, but not necessarily 
+limited to, construction permits issues, approvals of applications for development and probable 
+residential development of lands; 
+c. An analysis of the municipality's demographic characteristics, including but not necessarily limited 
+to household size, income level, and age; 
+d. An analysis of the existing and probable future employment characteristics of the municipality; 
+e. A determination of the municipality's present and prospective fair share for low- and moderate-
+income housing and its capacity to accommodate its present and prospective housing needs, 
+including its fair share for low- and moderate-income housing, as established pursuant to section 
+3 of P.L.2024.c2(C.52:27D-304.1); 
+f. 
+A consideration of the lands that are most appropriate for construction of low- and moderate-
+income housing and of existing structures most appropriate for conversion to, or rehabilitation 
+for, low- and moderate-income housing, including a consideration of lands of developers who 
+have expressed a commitment to provide low- and moderate-income housing; 
+g. An analysis of the extent to which municipal ordinances and other local factors advance or 
+detract from the goal of preserving multigenerational family continuity as expressed in 
+recommendations of the Multigenerational Family Housing Continuity Commission, adopted 
+pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021.c273(C.52:27D-329.20); 
+h. For a municipality located within the jurisdiction of the Highlands Water Protection and Planning 
+Council, established pursuant to P.L.2024.c2(C.52:27D-304.1), and analysis of compliance of the 
+housing element with the Highlands Regional Master Plan of lands in the Highlands Preservation 
+Area, and lands in the Highlands Planning Area for Highlands-conforming municipalities.  This 
+analysis shall include the consideration of opportunities for redevelopment of existing developed 
+lands into inclusionary or 100 percent affordable housing, or both and opportunities for 100 
+percent affordable housing in both the Highlands Planning Area and Highlands Preservation Area 
+that are consistent with the Highlands regional master plan; and 
+i. 
+An analysis of consistency with the State Development and Redevelopment Plan, including water, 
+wastewater, stormwater, and multi-modal transportations based on guidance and technical 
+assistance from the State Planning Commission. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 6 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 7 =====
+ 
+6 
+ 
+Inventory of Municipal Housing Stock 
+An inventory of the municipality’s housing stock including an analysis of housing characteristics is 
+presented in this section of the report. 
+Housing Age  
+At this time, the Township of South Hackensack is fully developed.  Most of the development activity in 
+the Township occurred between 1950 and 1970 with development declining for the next three decades. 
+The following table illustrates the age of the existing housing stock by year built. 
+Age of Housing Stock 
+Year Built 
+Number of Units  
+Percent 
+        Built 2020 or later 
+0 
+0.0% 
+        Built 2010 to 2019 
+43 
+4.4% 
+        Built 2000 to 2009 
+89 
+9.2% 
+        Built 1990 to 1999 
+74 
+7.6% 
+        Built 1980 to 1989 
+63 
+6.5% 
+        Built 1970 to 1979 
+127 
+13.1% 
+        Built 1960 to 1969 
+232 
+23.9% 
+        Built 1950 to 1959 
+161 
+16.6% 
+        Built 1940 to 1949 
+69 
+7.1% 
+        Built 1939 or earlier 
+112 
+11.5% 
+Total 
+970 
+100% 
+Source: 2023 ACS Table DP04 
+Housing Conditions 
+According to the 2023 ACS, there  
+are 970 housing units in the 
+Township of South Hackensack.  
+The Township’s housing stock 
+includes single-family detached, 
+single 
+family 
+attached 
+(i.e. 
+townhomes), 
+multi-family 
+dwellings, and mobile homes.  
+Single-family detached dwellings 
+total 489 or 50.4% of the 
+Township’s 
+housing 
+stock.  
+Single-family attached homes 
+comprise 95 or 9.8% of South 
+Hackensack’s housing stock.  As 
+the chart on the right indicates, 
+there are 334 or 33.4% 2-unit 
+dwellings.  There are 14, 10-to-
+19-unit dwellings and 38, 20 or 
+more unit dwellings.  
+ 
+Housing Type by Units in Structure 
+Unit Type 
+Number of Units 
+Percent 
+1-unit, detached 
+489 
+50.4% 
+1-unit, attached 
+95 
+9.8% 
+2 units 
+334 
+34.4% 
+3 or 4 units 
+0 
+0.0% 
+5 to 9 units 
+0 
+0.0% 
+10 to 19 units 
+14 
+1.4% 
+20 or more units 
+38 
+3.9% 
+Mobile home 
+0 
+0.0% 
+Other 
+0 
+0.0% 
+Total 
+970 
+100% 
+Source: 2023 ACS Table DC03 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 7 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 8 =====
+ 
+7 
+ 
+The condition of units is generally good and according to the Census data there were no units lacking 
+complete plumbing facilities, 8 units lacking complete kitchen facilities, and only 3 units lacking telephone 
+service.  The majority of the units (82.6%) utilize natural gas as the primary house heating fuel, with the 
+remainder utilizing bottled, tank or LP gas, electric heat, or fuel oil. 
+Condition of Housing Stock 
+Fuel Type 
+Number of Units  
+Percent 
+Lacking complete plumbing facilities 
+0 
+0.0% 
+Lacking complete kitchen facilities 
+8 
+0.9% 
+        No telephone service available 
+3 
+0.3% 
+ 
+House Heating Fuel 
+ 
+        Utility gas 
+770 
+82.6% 
+        Bottled, tank, or LP gas 
+5 
+0.5% 
+        Electricity 
+100 
+10.7% 
+        Fuel oil, kerosene, etc. 
+45 
+4.8% 
+        Coal or coke 
+0 
+0.0% 
+        Wood 
+0 
+0.0% 
+        Solar energy 
+0 
+0.0% 
+        Other fuel 
+6 
+0.6% 
+        No fuel used 
+6 
+0.6% 
+Total 
+932 
+100% 
+Source: 2023 ACS table DP04 
+Housing with 1.01 or more person per room is an index of overcrowding.  In 2023, the ACS found that 
+there were 89 occupied housing units within the Township that were “overcrowded”.  There were 65 
+units with 1.01 to 1.50 occupants per room and 24 units with 1.51 or more occupants per room. 
+Occupants Per Room 
+Occupants 
+Number of Units  
+Percent 
+1.00 or less 
+843 
+90.4% 
+1.01 to 1.50 
+65 
+7.0% 
+1.51 or more 
+24 
+2.6% 
+Total 
+932 
+100% 
+Source: 2023 ACS table DP04 
+ 
+Occupancy Status 
+According to the 2023 ACS estimates, 51.4% of the Township’s occupied housing stock is owner occupied 
+while 48.6% is renter occupied.  The Township’s housing vacancy rate is estimated to be 3.9% in 2023.  A 
+majority of vacant housing units fall under the “Other” category with 25 units or 65.7%.  For sale units 
+comprise 13 units or 34.3%, of South Hackensack’s vacant units.  See the table on the next page for 
+additional details. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 8 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 9 =====
+ 
+8 
+ 
+Occupancy Status 
+ 
+Households 
+Percent 
+Occupied Total 
+932 
+96.1% 
+Owner Occupied 
+479 
+51.4% 
+Renter Occupied 
+453 
+48.6% 
+Vacant Total 
+38 
+3.9% 
+For rent 
+0 
+0.0% 
+Rented, not occupied 
+0 
+0.0% 
+For Sale only 
+13 
+34.3% 
+Sold, no occupied 
+0 
+0.0% 
+Seasonal 
+0 
+0.0% 
+Other 
+25 
+65.7% 
+Total 
+89 
+100% 
+Source: 2023 ACS tables DP04 & B25004 
+Purchase and Rental Values 
+The ACS provides value estimates for owner-occupied housing units.  The majority of South Hackensack’s 
+estimated 479 owner-occupied housing units are valued at $500,000 to $999,999.  Homes valued 
+between $300,000 and $499,999 account for 32.6% of owner-occupied units, while homes valued 
+between $200,000 and $399,999 comprised 8.6% of the owner-occupied housing stock.  See the table 
+below for details. 
+Value of Owner-Occupied Units 
+Value 
+Number of Units 
+Percent 
+Less Than $50,000 
+13 
+2.7% 
+$50,000 to $99,999 
+10 
+2.1% 
+$100,000 to $149,999 
+8 
+1.7% 
+$150,000 to $199,999 
+0 
+0.0% 
+$200,000 to $299,999 
+41 
+8.6% 
+$300,000 to $499,999 
+156 
+32.6% 
+$500,000 to $999,999 
+251 
+52.4% 
+$1,000,000 or more 
+0 
+0.0% 
+Total 
+479 
+100.0% 
+Source: 2023 ACS table DP04  
+The median monthly owner costs for persons with a mortgage was $3,108 and the median monthly 
+owner costs for persons without a mortgage was $1,329. 
+Over 37% of rentals in South Hackensack have rents priced between $1,500 to $1,999 per month.  Units 
+with rents between $2,000 and $2,499 comprise only 21.9% of rentals in the Township.  Additionally, 
+units $3,000 or more per month comprise 21.1% of rentals in the Township.  The median gross rent paid 
+for occupied units paying rent was $1,906. 
+See the table on the next page for more information. 
+ 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 9 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 10 =====
+ 
+9 
+ 
+Cost of Rentals 
+Cost 
+Number of Units 
+Percent 
+Less Than $500 
+10 
+2.6% 
+$500 to $999 
+29 
+7.5% 
+$1,000 to $1,499 
+36 
+9.3% 
+$1,500 to $1,999 
+147 
+37.8% 
+$2,000 to $2,499 
+85 
+21.9% 
+$2,500 to $2,999 
+0 
+0.0% 
+$3,000 or more 
+82 
+21.1% 
+Total 
+389 
+100% 
+Source: 2023 ACS table DP04 
+Projection of Housing Stock 
+As per N.J.S.A. 52:27D-310, a housing element must contain a projection of the municipality’s housing 
+stock, including the probability of future construction of low- and moderate-income housing for the next 
+ten years, taking into account, but not necessarily limited to, construction permits issued, approvals of 
+applications for development, and probability of residential development of lands. 
+The Department of Community Affair’s Division of Codes and Standards website provides data on 
+Certificates of Occupancy and demolition permits for both residential and non-residential development.  
+Within the Division of Codes and Standards website is the New Jersey Construction Reporter, which 
+contains building permit, certificate of occupancy, (hereinafter “CO”), and demolition data that is 
+submitted by municipal construction officials within the State each month.  The New Jersey Construction 
+Reporter has information dating back to 2000, which can be used to show the Township’s historic 
+development trends.  The information provided in the chart below illustrate the trends since the last 
+adopted Housing Element. 
+As shown in the table below, 22 new homes were built and issued COs between 2013 and 2023 while 11 
+units were demolished.  As shown on the table below, a majority of the housing units constructed (6) 
+were issued COs in 2017 and 2022. 
+Looking at historical development patterns shown in the previous table, the Township anticipates one 
+multi-family development between now and 2035.  The Township anticipates the project to have 20% 
+reservation for units for low- to moderate income households.   
+Low- and Moderate-Income Housing Units Previously Constructed 
+The Third Round Housing Element and Fair Share Plan established a Realistic Development Potential of 29 
+units.  The Township addressed this obligation through 7 affordable age restricted units at the 
+Madeline/BCUW 100% affordable housing development, 14 family rental units as part of a proposed 
+Historic Trends of Residential COs and Demolition Permits 
+ 
+2013 2014 2015 2016 2017 
+2018 
+2019 
+2020 
+2021 
+2022 
+2023 
+Total 
+COs Issued  
+1 
+0 
+3 
+4 
+6 
+0 
+0 
+0 
+2 
+6 
+0 
+22 
+Demolitions 
+0 
+0 
+1 
+1 
+7 
+0 
+0 
+1 
+1 
+0 
+0 
+11 
+Total  
+1 
+0 
+4 
+5 
+13 
+0 
+0 
+1 
+3 
+6 
+0 
+33 
+Source: New Jersey Construction Reporter from the NJ DCA 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 10 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 11 =====
+ 
+10 
+ 
+development on the Condemi Site, and 8 rental bonus credits attributed to 8 of the proposed family 
+rentals units at the Condemi Site. 
+Low- and Moderate-Income Housing Units Previously Rehabilitated 
+The Township addressed its 35 units Third Round Present Need obligation through participation in the 
+Bergen County housing rehabilitation program. 
+Projection of Housing Stock for the Next 10 Years 
+During the period of 2013 to 2023, South Hackensack issued 22 certificates of occupancy.  Due to the fully 
+developed character of the Township, current trends are expected to continue.  Based upon these long-
+standing trends and the documented lack of vacant land in South Hackensack, projections for increase in 
+the Township’s housing stock during the next ten-year period are anticipated to be minimal. 
+Vacant Land Adjustment 
+Future development opportunities in South Hackensack were assessed as part of a vacant land 
+adjustment and the imposition of a realistic development potential (RDP) analysis that was undertaken 
+pursuant to COAH’s Second Round regulations. As discussed in more details in the Fair Share Plan section 
+of this report.  The Township has determined that it has a RDP of 4 units. 
+Analysis of the Township’s Demographic Characteristics 
+South Hackensack’s population experienced rapid growth from 1900 until a slight decrease of 4.1% in 
+1940.  The 1950s returned to an increase in population until a slight decrease in the 19980’s and 19990’s.  
+From 2000 until present the Township continued to grow in population. The 2020 US Census Bureau 
+reports the Township’s population to be 2,701 people.  The table and chart below provide additional 
+information.  It shall be noted that the five-year American Community Survey data from the US Census 
+Bureau provided estimates of population, housing and employment estimates between the major Census 
+reports each decade.  In an effort to display the most up to date information, the data used in this report 
+is sourced from the 2018-2023 five-year ACS estimates. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Population Growth 
+Year 
+Population 
+Percent Change 
+1900 
+229 
+- 
+1910 
+693 
+202.6% 
+1920 
+987 
+42.4% 
+1930 
+1,294 
+31.1% 
+1940 
+1,241 
+-4.1% 
+1950 
+1,503 
+21.2% 
+1960 
+1,841 
+22.5% 
+1970 
+2,412 
+31.0% 
+1980 
+2,229 
+-7.6% 
+1990 
+2,106 
+-5.5% 
+2000 
+2,249 
+6.8% 
+2010 
+2,378 
+5.7% 
+2020 
+2,701 
+13.6% 
+Source: US Census Bureau, 2000, 2010, 2020 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 11 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 12 =====
+ 
+11 
+ 
+ 
+ 
+ 
+Age Distribution of Population 
+The 2023 ACS estimates that 44.4% of the population is between the ages of 25 and 54 years, while the 
+percentage of children aged 19 or younger comprised 22% of the Township’s population.  Residents aged 
+85 years or older comprised the second smallest age cohort with approximately 2.1% of residents fall in 
+this category.  The ACS indicates that the Township’s median age was 36.8 years old.  The racial 
+composition of South Hackensack’s population is predominantly white, accounting for 71% of the 
+Township’s residents.  See the tables below and on the next page for additional details. 
+Population By Age Cohort 
+Age 
+2010 Total 
+2010 Percent 
+2020 Total 
+2020 Percent 
+Under 5 years 
+150 
+6.3% 
+38 
+1.4% 
+5 to 9 years 
+132 
+5.6% 
+182 
+6.6% 
+10 to 14 years 
+140 
+5.9% 
+205 
+7.4% 
+15 to 19 years 
+148 
+6.2% 
+184 
+6.6% 
+20 to 24 years 
+140 
+5.9% 
+96 
+3.5% 
+25 to 34 years 
+332 
+13.9% 
+464 
+16.7% 
+35 to 44 years 
+349 
+14.7% 
+437 
+15.8% 
+45 to 54 years 
+350 
+14.7% 
+330 
+11.9% 
+55 to 59 years 
+140 
+5.9% 
+167 
+6.0% 
+60 to 64 years 
+118 
+5.0% 
+146 
+5.3% 
+65 to 74 years 
+194 
+8.2% 
+314 
+11.3% 
+75 to 84 years 
+126 
+5.3% 
+150 
+5.4% 
+85 years and over 
+59 
+2.5% 
+58 
+2.1% 
+Total 
+ 
+ 
+2,771 
+100% 
+ 
+ 
+Source: 2023 ACS Table DP05 
+ 
+ 
+ 
+ 
+0
+500
+1000
+1500
+2000
+2500
+3000
+1900 1910 1920 1930 1940 1950 1960 1970 1980 1990 2000 2010 2020
+Population Growth
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 12 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 13 =====
+ 
+12 
+ 
+Racial Characteristics 
+Race 
+# of Persons 
+Percent 
+One Race 
+1,967 
+71.0% 
+White 
+1,285 
+46.4% 
+Black or African American  
+66 
+2.4% 
+American Indian and Alaska 
+Native 
+0 
+0.0% 
+ Asian  
+195 
+7.0% 
+Native Hawaiian and Other 
+Pacific Islander 
+27 
+1.0% 
+Some Other Race alone 
+394 
+14.2% 
+Two or More Races 
+804 
+29.0% 
+Source: 2023 ACS Table S1101 
+ 
+Household Demographics 
+The Township of South Hackensack is primarily a fully developed one- and two-family residential 
+community.  There were 922 occupied housing units as compared to only 28 vacant housing units.  There 
+were 479 owner occupied housing units compared to 432 renter occupied housing units.  In addition, 
+81.5% or 760 of the housing units were occupied by family households as compared to 18.45% or 172 
+non-family households.   
+Household Type and Size 
+Type 
+Number 
+Percent 
+Family Households 
+760 
+81.5% 
+Married couple family 
+448 
+58.9% 
+with children under 18 
+219 
+48.8% 
+Male Householder, no spouse 
+162 
+21.3% 
+Female Householder, no spouse 
+150 
+19.8% 
+Non-family Households 
+172 
+18.45% 
+Total 
+932 
+100% 
+Source: 2023 ACS Table S1101 
+The average household size of these units was 2.97 persons per household and the average family size 
+was slightly higher at 3.25 persons per family.  The tables on the next page illustrate the Household Size 
+for the Township. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 13 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 14 =====
+ 
+13 
+ 
+Household Size 
+Size 
+Total 
+Percent 
+1-person 
+153 
+16.4% 
+2-person 
+261 
+28.0% 
+3-person 
+234 
+25.1% 
+4 or more person 
+284 
+30.5% 
+Total 
+932 
+100% 
+Source: 2023 ACS Table S2501 
+ 
+Income and Poverty Status 
+The ACS estimates that the median household, family, and per capita incomes for the Township of South 
+Hackensack was below the median household and family incomes for Bergen County and New Jersey.  
+South Hackensack’s median household income was $82,750, compared to $116,709 for the County and 
+$99,781 for the State.  The median family income in the Township is roughly $53,269 less than the county 
+and approximately $31,401 less than the State’s.  The median per capita income is slightly less than the 
+county.  However, the Township’s median per capita income is slightly greater than the State’s. 
+Individual poverty is at 15.3% in South Hackensack compared to 6.6% in the County and 9.7% in the State.  
+See the table and chart below for additional details. 
+Income Characteristics 
+Income type 
+Township of South 
+Hackensack 
+Bergen County 
+New Jersey 
+Median Household Income 
+$82,750 
+$116,709 
+$99,781 
+Median Family Income 
+$90,543 
+$143,812 
+$121,944 
+Per Capita Income 
+$57,787 
+$62,627 
+$52,583 
+Poverty Status (Percent of People) 
+15.3% 
+6.6% 
+9.7% 
+Poverty Status (Percent of Families) 
+11.8% 
+5.1% 
+7.1% 
+Source: 2023 ACS table S1901, B19301, S1702 
+$0
+$50,000
+$100,000
+$150,000
+$200,000
+Township of South
+Hackensack
+Bergen County
+New Jersey
+Income Characteristics
+Median Household Income
+Median Family Income
+Per Capita Income
+1-person
+16%
+2-person
+28%
+3-person
+25%
+4 or more 
+person
+31%
+Household Size
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 14 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 15 =====
+ 
+14 
+ 
+ 
+According to the 2023 ACS data, a majority of households (19%) in South Hackensack earn more than 
+$200,000 per year.  This compares to 27% of households in the County and 20.4% of households in the 
+State.  On the opposite end of the spectrum, 1.5% of households earn $10,000 to $14,999 per year 
+compared to 2.3% in the County and 2.8% in the State. 
+Household Income 
+ 
+Township of South 
+Hackensack 
+Bergen County 
+New Jersey 
+Total 
+Percent 
+Total 
+Percent 
+Total 
+Percent 
+Less Than $10,000 
+63 
+6.8% 
+12,831 
+3.6% 
+152,153.70 
+4.3% 
+$10,000 to $14,999 
+14 
+1.5% 
+8,198 
+2.3% 
+99,076.80 
+2.8% 
+$15,000 to $24,999 
+68 
+7.3% 
+14,257.52 
+4.0% 
+180,461.30 
+5.1% 
+$25,000 to $34,999 
+64 
+6.9% 
+14,257.52 
+4.0% 
+183,999.80 
+5.2% 
+$35,000 to $49,999 
+133 
+14.3% 
+23,168.47 
+6.5% 
+279,538.10 
+7.9% 
+$50,000 to $74,999 
+96 
+10.3% 
+40,633.93 
+11.4% 
+467,076.30 
+13.2% 
+$75,000 to $99,999 
+74 
+7.9% 
+38,851.74 
+10.9% 
+410,461 
+11.6% 
+$100,000 to $149,999 
+140 
+15.0% 
+64,871.72 
+18.2% 
+640,460.07 
+18.1% 
+$150,000 to $199,999 
+103 
+11.0% 
+43,129 
+12.1% 
+403,384.10 
+11.4% 
+$200,000 or more 
+177 
+19.0% 
+96,238.26 
+27.0% 
+721,845.20 
+20.4% 
+Total 
+932 
+100% 
+356,438 
+100% 
+3,538,457 
+100% 
+Source: 2023 ACS table S1901 
+South Hackensack Employment Demographics 
+This chapter provides a snapshot of employment within South Hackensack, including the types of 
+industries within the community.  The 2023 ACS estimates that South Hackensack has 1,511 residents in 
+the labor force.  The labor force consists of approximately 64.8% employed person and 1.9% unemployed 
+persons. 
+The majority of works within the Township are reported to be private wage and salary workers.  Just over 
+1,238 or 81.9% of those employed fall into this category.  Approximately 10.3% of workers are 
+government employees and 7.7% are self-employed.  The ACS estimates 0 workers are unpaid family 
+workers. 
+Class of Worker  
+Class of Worker 
+Number of Workers   
+Percent 
+Private wage and salary workers 
+1,238 
+81.9% 
+Government workers 
+156 
+10.3% 
+Self-employed in own not 
+incorporated business workers 
+117 
+7.7% 
+Unpaid family workers 
+0 
+0.0% 
+Total Employed Residents 
+1,511 
+64.8% 
+Total Unemployed Residents 
+45 
+1.9% 
+Source: 2023 ACS Table DP03 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 15 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 16 =====
+ 
+15 
+ 
+Occupational Characteristics 
+The ACS estimates that 28.1% of the Township’s residents are employed in management, business, 
+science, and arts occupations.  The service occupation employs 387 residents, or 25.6%, of the working 
+population.  Sales and office occupations employs 22.8% or 344 residents.  Natural resources, 
+construction, and maintenance occupations employs 193 residents or 12.8% and production, 
+transportation, and material moving occupations employs 162 residents and 10.7% of the working 
+population. 
+Employed Civilian Population by Occupation (Age 16 Years or Older)  
+Occupation 
+Township of South Hackensack   
+Bergen County 
+Total 
+Percent 
+Total 
+Percent 
+        Management, business, 
+science, and arts occupations 
+425 
+28.1% 
+263,942 
+53.3% 
+        Service occupations 
+387 
+25.6% 
+61,574 
+12.4% 
+        Sales and office occupations 
+344 
+22.8% 
+101,185 
+20.4% 
+        Natural resources, 
+construction, and maintenance 
+occupations 
+193 
+12.8% 
+25,740 
+5.2% 
+        Production, transportation, 
+and material moving occupations 
+162 
+10.7% 
+42,480 
+8.6% 
+Total  
+1,511 
+100% 
+494,921 
+100% 
+Source: 2023 ACS Table DP03 
+ 
+Employment by Professions 
+According to the 2023 ACS there were 1,511 persons in the labor force in the Township of South 
+Hackensack and only 45 persons were unemployed.  Educational services, and healthcare and social 
+assistance made up the largest component of the workforce with 368 persons or 24.5%.  The remainder 
+of the workforce was generally uniformly divided amongst the fields of construction, manufacturing, 
+retail trade, transportation and warehousing and utilities, information, finance and insurance and real 
+estate and rental and leasing, professional, scientific, and management, and administrative and waste 
+management services, arts, entertainment and recreation and accommodation and food services, other 
+services, and public administration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 16 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 17 =====
+ 
+16 
+ 
+Employed Person by Profession  
+Occupation 
+Number of Persons  
+Percent 
+        Agriculture, forestry, fishing and 
+hunting, and mining 
+0 
+0.0% 
+        Construction 
+136 
+9.0% 
+        Manufacturing 
+85 
+5.6% 
+        Wholesale trade 
+58 
+3.8% 
+        Retail trade 
+132 
+8.7% 
+        Transportation and 
+warehousing, and utilities 
+38 
+2.5% 
+        Information 
+41 
+2.7% 
+        Finance and insurance, and real 
+estate and rental and leasing 
+67 
+4.4% 
+        Professional, scientific, and 
+management, and administrative 
+and waste management services 
+199 
+13.2% 
+        Educational services, and health 
+care and social assistance 
+368 
+24.5% 
+        Arts, entertainment, and 
+recreation, and accommodation and 
+food services 
+203 
+13.4% 
+        Other services, except public 
+administration 
+66 
+4.4% 
+        Public administration 
+118 
+7.8% 
+Total 
+1,511 
+100% 
+Source: 2023 ACS Table DP03 
+Other Regional or Community Factors Impacting Upon Future Township 
+Employment 
+There is no single primary regional factor impacting upon future local employment.  The developed 
+character of South Hackensack together with a minimal availability of vacant land act to curtail 
+opportunities for future development. And additional local employment opportunities. 
+ 
+Determination of Present and Prospective Need 
+The Township of South Hackensack approved Resolution 2025-01A on January 23, 2025.  This resolution 
+formally accepted the present and prospective need of the Township as laid out in the DCA’s Report and 
+the report prepared by Neglia Group.  Per Resolution 2025-01A, the Township of South Hackensack has a 
+Present Need or Rehabilitation Need of 7 units and a Prospective Need of New Construction Obligation of 
+174 units.  Both Resolution and Neglia Group’s report can be found in the Appendix of this Report. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 17 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 18 =====
+ 
+17 
+ 
+Capacity for Fair Share 
+This chapter of the HEFSP provides the following information as required by the rules: 
+• 
+The Township’s capacity to accommodate its housing needs. 
+• 
+A consideration of the lands that are most appropriate for construction of low- and moderate-
+income housing and of the existing structures most appropriate for conversion to, or 
+rehabilitation for low- and moderate-income housing. 
+• 
+Lands of developers who have expressed a commitment to provide low- and moderate-income 
+housing. 
+• 
+The location and capacities of existing and proposed water and sewer lines and facilities relevant 
+to the proposed affordable housing sites. 
+Land Capacity 
+The Township of South Hackensack capacity to construct creditable units towards satisfying its affordable 
+housing obligation is determined by available land.  Additionally, land development is limited by 
+environmental constraints and the Township’s proximity to Teterboro airport which consists of strict 
+height restrictions.  
+Utility Capacity 
+The proposed development on 2 & 8 Grove Street has access to water and sewer utilities.  There is 
+sufficient overall water and sewer capacity to serve the proposed development for this site.  However, to 
+determine if infrastructure upgrades are required, the Township would need to perform a detailed study 
+of the site and the surrounding utility infrastructure.  The study would need to include sanitary sewer and 
+water service reports for the development, the condition, size, location, and existing capacity and 
+pressure would need to be determined. 
+Appropriate Locations for Affordable Housing 
+Land that is most appropriate for the construction of low- and moderate-income housing in the Fourth 
+Round includes the following anticipated projects: 
+1. 2 & 8 Grove Street – this site is comprised of Block 3, Lots 17.02 and 19.  The Township plans to 
+adopt an ordinance amendment to rezone this property to permit 16 housing units with a 20% 
+required set aside for affordable housing units. 
+Potential Affordable Housing Developers 
+This section below details the developers who have formally intervened or requested rezoning to build 
+affordable housing within the Township.  The Township has only received one formal from a developer as 
+detailed below: 
+1. 2 & 8 Grove Street – Both lots are currently owned by Eletherios Sakellaris and consist of Foodies 
+Restaurant and a Two-Family residential dwelling.  The owner of the property has approached the 
+Township with an interest in developing the property with a multi-family residential dwelling.  
+The Township is looking to assist the developer with constructing 16 units inclusive of a 20% set 
+aside resulting in 4 affordable housing units. 
+ 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 18 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 19 =====
+ 
+18 
+ 
+Anticipated Development Patterns 
+Anticipated land use patterns within the Township of South Hackensack will follow the established zoning 
+map (shown on the following page).  The Township has a variety of zoning districts including residential 
+district, senior citizen multi-family residential district, mixed district, industrial district, commercial 
+district, and an affordable housing overlay. 
+Multigenerational Family Housing Continuity 
+The Township has not received any correspondence with the Multigenerational Family Housing 
+Continuity Commission.  However, the Township is open to any recommendations from the commission 
+to enable senior citizens to reside at the homes of their extended families. 
+Consistency with the State Development and Redevelopment Plan 
+The State Plan and Redevelopment Plan is in the process of being updated.  The Plan is currently in the 
+Cross-Acceptance process comparing statewide planning policies at government levels to attain a high 
+level of consistency among municipal, county, regional, and State plans and the State Plan.  This process 
+allows various stakeholders to partner to create a more meaningful and viable State Plan to ensure 
+municipal, county, and regional master plans are taken into consideration during the process. 
+The State Plan will reflect current planning principles and best practices in the areas of land use, 
+transportation, housing and environmental protection and enhancement, economic development, 
+provision of public infrastructure, historic preservation, social justice, and adaption to global climate 
+change. 
+The Goals of the updated SDRP are: 
+1. Promote Economic Growth that Benefits all Residents of New Jersey 
+2. Provide an Adequate Supply of Housing For Residents of All Ages and Incomes in Communities of 
+Their Choosing That Meet Their Needs and Offer Ready Access to the Full Range of Supportive 
+Goods and Services 
+3. Economic Opportunity Through nation-leading Infrastructure 
+4. Revitalize and Recenter the State’s Underutilized Developed Areas 
+5. Effectively Address the Adverse Impacts of Global Climate Change 
+6. Protect, Maintain, and Restore the State’s Natural and Water Resources and Ecosystems 
+7. Protect the Environment; Prevent and Clean Up Pollution 
+8. Protect, Enhance, and Improve Access to Areas with Exceptional Archeological, Historic, Cultural, 
+Scenic, Open Space, and Recreational Value 
+9. Implement Equitable Planning Practices to Promote Thriving Communities for all New Jerseyans 
+10. Foster Sound and Integrated Planning and Implementation at all Levels Statewide 
+Once it is finalized, this section shall be updated to include the consistencies with the Township of South 
+Hackensack and the adopted SDRP.  In addition, the Township will seek guidance and technical assistance 
+from the State Planning Commission. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 19 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 20 =====
+BER-L-000581-25
+06/27/2025 3:58:50 PM
+Pg 20 of 42
+Trans ID: LCV20251882227
+LL
+2
+g
+2
+call
+2
+<i
+<
+b
+Bip
+se
+ca
+N
+£
+el
+ea
+| EEE EE BE RES
+i
+‘ll|
+2
+Zi
+22285223 3588
+eS
+ih
+i
+=[
+ees
+liters
+Sel
+dian
+\
+ae,
+ll
+wow
+f
+On|
+°° eh
+‘a
+ise
+i
+analy g gn
+j
+=
+|4 He
+ea
+\ ak
+i
+Ape Rig = es TS
+PS
+7
+ae?
+6
+g
+~
+gg ssMie
+Cem
+~
+1 tes
+yg ESS, RE
+|
+iy
+LLsae)
+a
+ae /
+i
+a
+&
+:
+Fase”
+Bae
+g
+ry
+<n
+s
+hi
+5 fey
+SER.
+semen
+oe
+we
+hy
+>
+FON Zz
+fg}
+£51if/
+LZ.
+SS
+FN
+LF SOON y
+hi
+el
+Ven
+&.
+Ye
+‘4
+4,
+Er sit
+.
+=_
+wig
+'
+wee
+|
+om ~4
+jo)
+as
+7
+DAY
+y
+/
+| LE
+‘/,
+ih ~
+‘
+2
+7
+PSS }
+a
+z
+Tf
+eel
+|
+H
+z
+—-4
+Z
+.
+i |
+LB
+AK.
+fl
+Lo }
+f
+Ss
+™
+[Ll
+IN
+19
+NEGLIA
+
+===== PAGE 21 =====
+ 
+20 
+ 
+Fair Share Plan 
+Plan Summary 
+The Fair Share Plan identifies the manner in which the Township’s fair share affordable housing 
+obligations – inclusive of a 7-unit Present Need (Rehabilitation) obligation and 174-unit Fourth Round 
+Prospective Need obligation are to be addressed.  This is summarized below. 
+1. Present Need – The Township has a Present Need obligation of 7 units.  To satisfy its 
+rehabilitation obligation, the Township will participate in the Bergen County Housing 
+Rehabilitation Program. 
+2. Fourth Round Prospective Need Obligation – South Hackensack has a Fourth Round RDP of 4 
+units and 170 units of Unmet Need from the Fourth Round.  The Township proposes an 
+amendment to the existing Affordable Housing Overlay District.  This amendment will enable a 
+developer in the “Grove Street Overlay” to construct a multi-family dwelling with a 20% 
+affordable housing set aside.  The project would consist of a total of 16 units inclusive of 
+affordable units. 
+Plan Components 
+This section of the plan details the projects, mechanisms and funding sources which will be used to meet 
+the Township’s affordable housing obligations as discussed above. 
+1. Present Need – The Township has a rehabilitation share of 7 units.  The Township will complete 
+the rehabilitation of 7 affordable housing units through its participation with the Bergen County 
+Home Improvement Program. 
+2. Prospective Need – As detailed above, South Hackensack’s Fourth Round Prospective Need 
+obligation is based upon an RDP of 4 units (as established by the Township’s Vacant Land 
+Analysis).  Leaving the Township with a remaining unmet need of 170 units. 
+3. Unmet Need – The difference between the Township’s Fourth Round Prospective Need number 
+and its RDP obligation is what is known as Unmet Need.  Whereas RDP is an obligation that must 
+be affirmatively addressed, Unmet Need is more aspirational.  As discussed previously, the 
+Township’s RDP is 4 units leaving only Unmet Need.  The Township proposes to address the 
+Unmet Need through the established Affordable Housing Overlay Zone and extending the overlay 
+to other areas of the Township.   
+a. Affordable Housing Overlay District - South Hackensack has an established Affordable 
+Housing Overlay District.  The district currently requires: “Low- and moderate-income 
+housing requirements. Neither the Planning Board, Zoning Board of Adjustment or 
+Township Committee on appeal of decisions of either board or in the adoption of a 
+redevelopment plan or zone shall approve any application for residential development or 
+mixed-use development which contains five or more residential dwelling units unless 
+there is a set-aside of at least 15% of said units for affordable housing units for every 
+such unit constructed in the Garfield Park overlay district. The residential development 
+within the Garfield Park overlay zone which received development approvals prior to the 
+adoption of this chapter and commonly known as the Condemi Site and Block 102 Lot 40 
+on the Township Tax Assessment Map shall be subject to a 10% set-aside and shall be 
+allowed a permitted density of 40 units per acre. Any residential development in the 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 21 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 22 =====
+ 
+21 
+ 
+Route 46 Overlay Zone subject to this chapter shall be subject to a 10% set-aside of all 
+proposed residential dwelling units and a density of 30 units per acre.” 
+b. Additional sites to be added to the Overlay District – The Township proposes to amend 
+the ordinance to include two additional lots to the Overlay District.  Block 3, Lots 17.02 
+and 19 shall be included in the Overlay District.  In addition, the ordinance shall be 
+amended to allow up to 16 units with a 20% affordable unit set aside for these lots. 
+Affirmative Marketing Plan 
+Each municipality is required to establish and maintain an Affirmative Marketing Plan which is maintained 
+in accordance with NJAC 5:80-26.  The Affirmative Marketing Plan applies to all developments that 
+contain low and moderate income units. The Affirmative Marketing Plan is a regional marketing strategy 
+design to attract buyers and/or renters of all majority and minority groups, regardless of race, creed, 
+color, national origin, ancestry, marital or familial status, gender, affectional or sexual orientation, 
+disability, age or number of children to housing units which are being marketed by a developer/sponsor, 
+municipality and/or designated administrative agency of affordable housing. 
+The affirmative marketing program is a continuing program and will meet the following requirements: 
+• 
+The affirmative marketing process for available affordable units shall begin at least four months 
+prior to expected occupancy.  Advertising and outreach shall take place during the first week of 
+the marketing program and each month thereafter until all available units have been leased of 
+sold. 
+• 
+One advertisement will be published in the following newspaper(s) of general circulation within 
+the housing region: The Record 
+• 
+This advertisement will include the following: 
+o The location of the units; 
+o Direction to the housing units; 
+o A range of prices for the housing units; 
+o The size, as measure in bedrooms, of the housing units; 
+o The maximum income permitted to qualify the housing units; 
+o The business hours when interested households may obtain an application for a housing 
+unit; and 
+o Application fees, if any. 
+• 
+Signs, posters or brochures of available affordable housing units or affordable housing programs 
+should be displayed at all municipal buildings as well as libraries, and developer’s sales offices. 
+o Available affordable housing units can also be advertised on the Municipality’s various 
+social media channels (i.e. Facebook, Instagram, YouTube, etc.) 
+• 
+The Affirmative Marking Program should reach out to local religious groups and civic 
+organizations that are likely to apply, or help members applying for housing.  This should include 
+sending quarterly flyers and, or applications for circulation. 
+• 
+Developers of affordable housing should be required to aid in the marketing of the affordable 
+units in their prospective developments. 
+• 
+The program should actively continue for as long as low and moderate-income units are initially 
+available and continue when occupancy or re-occupancy becomes necessary. 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 22 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 23 =====
+ 
+22 
+ 
+Appendices 
+A-1 Vacant Land Adjustment 
+A-2 Draft Overlay District Amendment  
+A-3 Draft Overlay Zone Mapping 
+A-4 Spending Plan 
+A-5 Fourth Round Obligation Report 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 23 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 24 =====
+ 
+23 
+ 
+ 
+Appendix 1 (A-1) 
+Township of South Hackensack 
+Vacant Land Inventory 
+BLOCK 
+LOT 
+Property 
+Location 
+Owner's name 
+Class 
+GIS 
+Acreage 
+Above 
+.83 
+Acres 
+Notes 
+1.04 
+8 
+364 PHILLIPS 
+AVE 
+WHITE DOVE 
+INVESTMENTS 
+INCORPORATED 
+1 
+0.11 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+1.05 
+4 
+ROUTE 46 
+NJ BELL TELEPHONE PROP 
+TAX DEPT. 
+1 
+0.00 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+102 
+40 
+71 SADDLE 
+RIVER AVE 
+CONDEMI INTERNATIONAL 
+CO., INC. 
+1 
+4.92 
+Yes 
+Lot to be used to fulfill 
+Third Round 
+Obligation 
+102 
+62 
+1 SADDLE RIVER 
+AVE. 
+D'AMICO,JOSEPH & 
+CAROLE 
+1 
+0.05 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+13.01 
+6.11 
+4 ROSSI COURT 
+M & S SOUTH 
+HACKENSACK LLC 
+1 
+0.13 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+13.01 
+6.12 
+6 ROSSI COURT 
+M & S SOUTH 
+HACKENSACK LLC 
+1 
+0.14 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+13.01 
+6.13 
+18 PARK STREET 
+M & S SOUTH 
+HACKENSACK LLC 
+1 
+0.17 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+13.02 
+10 
+530 HUYLER ST. 
+HUYLER STRATEGIES LLC 
+1 
+1.97 
+Yes 
+  
+13.04 
+1.09 
+GORE 
+UNKNOWN 
+1 
+0.02 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+13.04 
+1.10 
+TAYLOR AVE 
+LACAP, ELLER & JENNIFER 
+1 
+0.01 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+13.07 
+8.02 
+REAR PARK ST 
+MUNOZ, MANUEL 
+ANTONIO 
+1 
+0.01 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+14 
+3 
+436 TAYLOR 
+AVE. 
+CONTI,SALVATORE,& 
+CONCETTA 
+1 
+0.03 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+14 
+4 
+432 TAYLOR AVE 
+COLONNELLI, UMBERTO 
+1 
+0.02 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+14 
+5 
+ASSESSED IN 
+HACKENSACK 
+UNKNOWN 
+1 
+0.00 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+15 
+13 
+399 TAYLOR AVE 
+ROMERO, JENNIFER 
+1 
+0.08 
+No 
+Lot too small to 
+qualify for RDP 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 24 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 25 =====
+ 
+24 
+ 
+BLOCK 
+LOT 
+Property 
+Location 
+Owner's name 
+Class 
+GIS 
+Acreage 
+Above 
+.83 
+Acres 
+Notes 
+Analysis 
+15 
+5 
+VREELAND AVE 
+GUAMAN, KLEVER K & 
+KEVIN K 
+1 
+0.04 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+15 
+9 
+TAYLOR AVE 
+JANB, AMAL M. ABOU 
+1 
+0.05 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+2.01 
+14.01 
+29 RUTA CT. 
+PLATI REALTY CO II LLC 
+1 
+0.34 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+20.02 
+34 
+CHESTNUT AVE 
+QUEZADA,GEURIS A ETAL 
+1 
+0.07 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+20.02 
+36 
+CHESTNUT AVE 
+DE RISO CARMEN & 
+ELENOR 
+1 
+0.05 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+20.02 
+38 
+CHESTNUT AVE 
+SALAS, E. & A. & LUMBA 
+VINCENT 
+1 
+0.04 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+20.03 
+40 
+20 ISE ST. 
+19-21 ISE STREET LLC 
+1 
+0.10 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+21.03 
+38.02 
+DYER AVE 
+BLDG PHILLIPS LLC 
+1 
+0.34 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+25 
+2 
+EAST WESLEY 
+ST. 
+UNKNOWN 
+1 
+0.00 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+3 
+17.02 
+8 GROVE ST 
+SAKELLARIS, ELETHERIOS 
+1 
+0.12 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+3 
+17.03 
+18 GROVE ST 
+GROVE STREET REALTY 
+1 
+0.17 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+32 
+3 
+19 WESLEY ST 
+TRECO ENTERPRISES 
+1 
+0.24 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+37 
+40 
+40 E WESLEY ST 
+REALEXE CANADA INC. 
+1 
+0.18 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+38 
+13.02 
+REAR DINALLO 
+ST 
+UNKNOWN 
+1 
+0.02 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+38 
+16.02 
+225 S. MAIN 
+STREET 
+BRUNO, RALPH & 
+VINCENZA 
+1 
+0.01 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+45.01 
+7.02 
+HOFFMAN ST 
+ASSESSED IN HACKENSACK 
+1 
+0.01 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 25 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 26 =====
+ 
+25 
+ 
+BLOCK 
+LOT 
+Property 
+Location 
+Owner's name 
+Class 
+GIS 
+Acreage 
+Above 
+.83 
+Acres 
+Notes 
+46 
+1 
+158 SO STATE ST 
+CAGAS, RITA 
+1 
+0.02 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+46 
+7 
+58 MICHAEL ST 
+TINEO, ANDRES &LUIS F.& 
+COSTE J. 
+1 
+0.05 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+46 
+8 
+67 MICHAEL ST. 
+CARDOZA, JOEL D. & CRUZ, 
+FIOR 
+1 
+0.00 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+53 
+1.03 
+130 WESLEY ST. 
+PPF JERSEY LLC 
+1 
+0.21 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+59 
+1.07 
+235 GREEN ST 
+235 GREEN ST LLC 
+1 
+0.12 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+59 
+1.08 
+245 GREEN ST 
+235 GREEN ST LLC 
+1 
+0.07 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+59 
+1.10 
+215 GREEN ST 
+CASTRONOVA,BEVERLY A 
+1 
+0.03 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+59 
+1.11 
+211 GREEN ST 
+FRATELLI BERETTA 
+USA,INC. 
+1 
+0.03 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+59 
+1.12 
+207 GREEN ST 
+FRATELLI BERETTA 
+USA,INC. 
+1 
+0.09 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+59 
+1.13 
+GREEN ST 
+UNKNOWN 
+1 
+0.01 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+6 
+3 
+15 AGAR PL 
+15 AGAR PLACE LLC 
+1 
+0.16 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+7.03 
+1 
+473 
+MOONACHIE RD 
+GILMARTIN, LISA 
+1 
+0.07 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+8 
+19 
+MOONACHIE 
+ROAD 
+FAVA,LOUIS 
+1 
+0.04 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+59.00 
+1.04 
+  
+  
+15C 
+0.00 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+100 
+15 
+GARFIELD PLACE 
+PARK 
+INHABITANTS OF GARFIELD 
+PARK 
+15C 
+0.11 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+103 
+12.01 
+SADDLE RIVER 
+AVE 
+TOWNSHIP OF SOUTH 
+HACKENSACK 
+15C 
+0.03 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+106 
+2.05 
+EMPIRE BLVD 
+MEADOWLANDS CONSERV 
+15C 
+0.81 
+No 
+Lot too small to 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 26 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 27 =====
+ 
+26 
+ 
+BLOCK 
+LOT 
+Property 
+Location 
+Owner's name 
+Class 
+GIS 
+Acreage 
+Above 
+.83 
+Acres 
+Notes 
+TRUST 
+qualify for RDP 
+Analysis 
+106 
+3.01 
+EMPIRE BLVD 
+MEADOWLANDS CONSERV 
+TRUST 
+15C 
+14.13 
+Yes 
+Meadowlands 
+106 
+4.01 
+EMPIRE BLVD       
+HM 
+MEADOWLANDS CONSERV 
+TRUST 
+15C 
+5.88 
+Yes 
+Meadowlands 
+106 
+4.02 
+EMPIRE BLVD 
+MEADOWLANDS CONSERV 
+TRUST 
+15C 
+0.04 
+No 
+Meadowlands 
+12 
+1 
+TAYLOR & 4TH 
+AVE 
+TOWNSHIP OF SOUTH 
+HACKENSACK 
+15C 
+0.87 
+Yes 
+ Active Recreation Site 
+13.01 
+3.01 
+PHILIPS AVE 
+TOWNSHIP OF SOUTH 
+HACKENSACK 
+15C 
+3.19 
+Yes 
+ Active Recreation Site 
+13.01 
+4.03 
+PHILLIPS AVE 
+TOWNSHIP OF SOUTH 
+HACKENSACK 
+15C 
+0.36 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+13.02 
+12 
+PHILLIPS AVE 
+TOWNSHIP OF SOUTH 
+HACKENSACK 
+15C 
+0.06 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+13.02 
+4 
+PHILIPS AVE 
+TOWNSHIP OF SOUTH 
+HACKENSACK 
+15C 
+0.47 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+13.04 
+1.08 
+CHESTNUT AVE 
+TOWNSHIP OF SOUTH 
+HACKENSACK 
+15C 
+0.02 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+13.06 
+15 
+PARK ST 
+TOWNSHIP OF SOUTH 
+HACKENSACK 
+15C 
+0.05 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+18 
+16 
+DYER AVE 
+TOWNSHIP OF SOUTH 
+HACKENSACK 
+15C 
+0.03 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+2.01 
+12.03 
+GROVE ST 
+TOWNSHIP OF SOUTH 
+HACKENSACK 
+15C 
+0.06 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+2.01 
+13.03 
+HUYLER ST. 
+TOWNSHIP OF SOUTH 
+HACKENSACK 
+15C 
+0.02 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+2.01 
+9 
+43 GROVE ST 
+TOWNSHIP OF SOUTH 
+HACKENSACK 
+15C 
+0.67 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+20.01 
+3 
+VREELAND AVE 
+TOWNSHIP OF SOUTH 
+HACKENSACK 
+15C 
+0.09 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+21.03 
+36.02 
+9 DYER AVE. 
+STATE OF NJ.DEPT OF 
+TRANSPRTATN 
+15C 
+0.14 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+22 
+1 
+CHARLES ST 
+STATE OF NEW JERSEY 
+15C 
+0.22 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+33.02 
+12.04 
+HUYLER ST 
+C MELTEL LLC 
+15C 
+0.18 
+No 
+Lot too small to 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 27 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 28 =====
+ 
+27 
+ 
+BLOCK 
+LOT 
+Property 
+Location 
+Owner's name 
+Class 
+GIS 
+Acreage 
+Above 
+.83 
+Acres 
+Notes 
+qualify for RDP 
+Analysis 
+4 
+18 
+79 FRANKLIN ST 
+TOWNSHIP OF SOUTH 
+HACKENSACK 
+15C 
+0.29 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+5.01 
+4.02 
+219 PHILLIPS 
+AVE 
+TOWNSHIP OF SOUTH 
+HACKENSACK 
+15C 
+0.17 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+5.01 
+5 
+227 PHILLIPS 
+AVE 
+TOWNSHIP OF SOUTH 
+HACKENSACK 
+15C 
+0.51 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+59 
+1.04 
+GREEN ST 
+STATE OF NEW JERSEY 
+15C 
+0.19 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+6 
+31 
+17 
+CALICOONECK 
+RD 
+SOUTH HACKENSACK HOSE 
+CO.NO.ONE 
+15C 
+0.32 
+No 
+Lot too small to 
+qualify for RDP 
+Analysis 
+ 
+Color Codes 
+Disqualified for active recreational site 
+Disqualified for too small to qualify for RDP Analysis 
+Disqualified for environmentally sensitive area 
+Disqualified since in RDP from Third Round  
+Disqualified since “False” vacant as property has improvements on it 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 28 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 29 =====
+ 
+28 
+ 
+ 
+Map illustrating all properties classified by the Tax Assessor as 1 or 15C 
+Conclusion 
+The preceding analysis demonstrates that the Township lacks sufficient vacant, suitable land to fully 
+address its prospective need obligation of 174 units and the Township’s “realistic development potential” 
+is 4 units based on the redevelopment of a property owned by a developer. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 29 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 30 =====
+ 
+29 
+ 
+TOENSHIP OF SOUTH HACKENSACK 
+COUNTY OF BERGEN 
+ORDINANCE NO. 2025-xx 
+AN ORDINANCE AMENDING AND SUPPLEMENTING CHAPTER 208 OF THE CODE OF THE TOWNSHIP OF 
+SOUTH HACKENSACK ENTITLED “ZONING”  
+BE IT ENACTED AND ORDAINED, by the Township Committee of the Township of South Hackensack that 
+Chapter 208 “Zoning” be amended and supplemented as follows: 
+SECTION 1. Chapter 208-8.2 “AHOD - Affordable Housing Overlay District” shall be amended to include 
+new section D. to read as follows: 
+208-8.2B . Geographic scope. All those portions of land located within the "Garfield Park" section, 
+excluding the exempted cemetery, and those certain properties known and designated on the Tax 
+Assessment as Lots 4.01, 4.02, 6.03, 6.04, 8.02 and 8.04 within Block 2.01 to be hereafter known as the 
+"Route 46 District" shall hereafter be designated as the South Hackensack Affordable Housing Overlay 
+District. Additionally, Block 3, Lots 17.02 & 19 to be hereafter known as “Grove Street Overlay” 
+208-8.2C . Low- and moderate-income housing requirements. Low- and moderate-income housing 
+requirements. Neither the Planning Board, Zoning Board of Adjustment or Township Committee on 
+appeal of decisions of either board or in the adoption of a redevelopment plan or zone shall approve any 
+application for residential development or mixed-use development which contains five or more 
+residential dwelling units unless there is a set-aside of at least 15% of said units for affordable housing 
+units for every such unit constructed in the Garfield Park overlay district. The residential development 
+within the Garfield Park overlay zone which received development approvals prior to the adoption of this 
+chapter and commonly known as the Condemi Site and Block 102 Lot 40 on the Township Tax Assessment 
+Map shall be subject to a 10% set-aside and shall be allowed a permitted density of 40 units per acre. Any 
+residential development in the Route 46 Overlay Zone subject to this chapter shall be subject to a 10% 
+set-aside of all proposed residential dwelling units and a density of 30 units per acre. The residential 
+development or mixed-use development which contains five or more residential dwelling units unless 
+there is a set-aside of at least 20% of said units for affordable housing units for every such unit 
+constructed in the Grove Street Overlay district. The residential development within the Grove Street 
+overlay zone shall be allowed a permitted density of 16 units. In addition, the structure may exceed the 
+permitted height to accommodate a four-story building not to exceed 40 feet. 
+SECTION II: All ordinances or parts of ordinances inconsistent with this ordinance are hereby repealed to 
+the extent of said inconsistency. 
+SECTION III: If any portion of this ordinance is found to be invalid or unconstitutional by court of 
+competent jurisdiction the remainder of this ordinance shall remain in full force and effect. 
+SECTION IV: This ordinance shall take effect after referral to the South Hackensack Planning Board as 
+required by the law and upon passage and publication as required by law. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 30 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 31 =====
+BER-L-000581-25
+06/27/2025 3:58:50 PM
+Pg 31 of 42
+Trans ID: LCV20251882227
+al
+~
+ow
+7
+La
+c
+8
+5
+-
+Wl
+<
+<P>
+o
+5
+ca
+N
+vn
+H
+=
+|
+[Xe"|,
+E 958 8 zs
+23 g
+:
+fe a
+Z:
+SEE
+2
+5
+NED
+a eee
+238828228 95a3|
+oe —
+Sees!
+%
++
+pe ant
+c=
+hy
+=
+MO
+o>
+Se]
+ey
+Eig
+tae
+Ce
+at
+OES BLE
+Ie
+ao
+aa
+ee
+\
+:
+4 in Mea
+i
+~e
+iT
+‘
+7p
+| SOT
+SS SD Lj
+@ A
+i
+~~
+é
+, ~;
+i is se 117]7
+Tee cae
+aap y
+on
+omy
+ot
+Waee
+AY
+ITD Cas:
+aS
+7
+fal.
+Rae:ys
+won
+F
+—
+=)
+A
+a
+yi
+fey in ¢/ : wy
+satem bf
+S'S
+L7)
+Ln
+ai G7
+mls
+i
+J
+=|
+f
+N=
+*
+memes
+a
+F}
+J
+ff
+O17)
+eth
+Sis
+pp he ag1)
+ae
+si
+ays
+S
+=
+~
+sy
+Ash
+“omy
+r
+Ty.
+7
+re
+—<
+by
+Wf aw
+rit
+fs
+7 f r) Aiz
+ar
+XC
+|
+£ 7
+ls
+SS
+on L
+:
+j
+~
+J
+x 8
+N
+>
+i>
+ae
+it
+}
+~
+Re
+i
+“7
+Zit
+a
+4
+Ss x3 ?
+y
+&
+7
+(a)
+AD OA
+(s
+ue
+i
+—y-\
+2
+Z
+, y
+I
+\
+/
+a
+xO
+Y
+tt
+.
+.
+;Se
+#
+ll
+Q
+ye ~
+~
+at
+a Si
+Sl
+/
+5 PALL.
+SA
+We AW)!
+fps ybe
+Py
+FF
+KX
+NAA
+AOC
+nS|
+>
+La
+BOAR eh
+[o}-—
+best
+N
+30
+NEGLIA
+
+===== PAGE 32 =====
+ 
+31 
+ 
+APPENDIX 4 (A-4) 
+Township of South Hackensack 
+DRAFT Affordable Housing Trust Fund Spending Plan 
+INTRODUCTION 
+The Township of South Hackensack, Bergen County, has prepared a Housing Element and Fair Share Plan 
+that addresses its regional fair share of the affordable housing need in accordance with the Municipal 
+Land Use Law (N.J.S.A. 40:55D-1 et seq.) and the Fair Housing Act (N.J.S.A. 52:27D-301). A development 
+fee ordinance creating a dedicated revenue source for affordable housing and establishing the Township 
+of South Hackensack affordable housing trust fund. 
+1. REVENUES FOR CERTIFICATION PERIOD 
+(a) Development Fees: The Township of South Hackensack has collected development fees for its 
+Affordable Housing Trust Fund, and is anticipated to continue these fees through the Fourth 
+Round. 
+(b) Payment in lieu or Other Factors: The Township of South Hackensack does not anticipate the 
+contribution of any payment sin lieu or other funds towards the municipal affordable housing 
+trust fund during the period of the Fourth Round substantive certification. 
+(c) Project Interest: The Township of South Hackensack anticipates that the project revenue in 
+the municipal housing trust fund will continue to accrue interest between 2025 and 2035. 
+2. ADMINISTRATIVE MECHANISMS TO COLLECT AND DISTRIBUTE FUNDS 
+The following procedural sequence for the collector and distribution of development fee 
+revenues shall be followed by the Township: 
+(a) Collection of development fee revenues: Collection of development fee revenues shall be 
+consistent with the Township’s development fee ordinance for both residential and non-
+residential development. 
+(b) Distribution of development fee revenues: The release of funds requires adoption of a 
+governing body resolution.  Once a request is approved by resolution the Chief Financial 
+Officer releases the requested revenue from the trust fund for the specific use approved in 
+the governing body’s resolution. 
+3. DESCRIPTION OF ANTICIPATED USE OF AFFORDABLE HOSUING FUNDS 
+(a) Rehabilitation. The Township will dedicate funding to rehabilitate 7 housing units in 
+conjunction with the Bergen County Home Improvement Program. 
+(b) Affordability Assistance. Pursuant to N.J.A.C. 5:93-8.16(c), the Township will commit to spend 
+at least 30% of the revenues collected from development fees towards affordability 
+assistance to low- and moderate-income households, one-third of which will be spent 
+towards affordability assistance to very low-income households.  The Township’s affordability 
+assistance program will include down payment assistance, special condominium assessment 
+assistance, emergency repair assistance, emergency/hardship mortgage payment assistance, 
+and rental assistance. 
+(c) Administrative Expenses. Per N.J.A.C. 5:93-8.16€, no more than 20% of the revenue collected 
+from the development fees shall be expended on administration.  Projected administration 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 32 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 33 =====
+ 
+32 
+ 
+expenditures, subject to the 20% cap, include the salaries and benefits for municipal 
+employees, consultant fees necessary to develop and implement the following: 
+1. An updated Housing Element and Fair Share Plan. 
+2. A rehabilitation program. 
+3. An affirmative marketing program. 
+4. An affordability assistance program. 
+4. EXPENDITURE SCHEDULE 
+The Township of South Hackensack intends to use affordable housing trust fund revenues 
+towards its mandated affordability assistance program and administrative costs and to support 
+administrative costs. 
+5. EXCESS OR SHORTFALLS OF FUNDS 
+Implementation of the affordable housing program in the Spending Plan will satisfy South 
+Hackensack’s current affordable housing obligation. In the event of excess funds, any remaining 
+funds above the amount necessary to satisfy the municipal affordable housing obligation will be 
+used for a future round of municipal affordable housing obligation and additional affordability 
+assistance funding.  In the event of a shortfall of funds, the Township would use municipal funds 
+through bonding.   It shall be noted that the affordability assistance funding would be allocated to 
+security deposit assistance, rental assistance, and emergency repair assistance. 
+6. SUMMARY 
+The Township of South Hackensack intends to spend affordable housing trust fund revenues 
+pursuant to N.J.A.C 5:97-8.7 through 8.9 and consistent with the housing program outlined in the 
+Housing Element and Fair Share Plan and described in this Spending Plan subject to limited 
+amendments.  
+Any shortfall of funds will be offset by municipal bonding if necessary, based upon actual 
+projected revenues and interest received.  The municipality will dedicate any excess funds or 
+remaining balance toward any future rounds and additional affordability assistance funding.  It 
+shall be noted that the additional affordability assistance funding would be allocated to security 
+deposit assistance, rental assistance, and emergency repair assistance. 
+ 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 33 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 34 =====
+ 
+ 
+ 
+ 
+ 
+ 
+TOWNSHIP OF SOUTH HACKENSACK 
+FOURTH ROUND AFFORDABLE HOUSING REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JANUARY 2025 
+  
+PREPARED BY NEGLIA GROUP 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 34 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 35 =====
+ 
+ 
+ 
+ 
+On March 20, 2024, Governor Murphy signed P.L.2024, c.2 into law, establishing a new framework for 
+determining and enforcing municipalities’ affordable housing obligations under the New Jersey Supreme 
+Court’s Mount Laurel doctrine and the State’s Fair Housing Act. 
+This law required the Department of Community Affairs (DCA) to perform a calculation of regional need 
+and municipal present and prospective need obligations in accordance with the formulas established in 
+the law. The six (6) Housing Regions were derived from the Legislation and used various factors to 
+determine the present and prospective need for each municipality, the methodology will be discussed in 
+more detail later in this report.   
+The Township of South Hackensack is located in the southern portion of Bergen County, one of the four 
+Counties that make up Housing Region 1. Housing Region 1 is comprised of Bergen, Hudson, Passaic, and 
+Sussex Counties and is located in the northern most part of the State. Housing Region 1 has the largest 
+combined population of the six (6) Housing Regions and the largest Present Need and Prospective Need 
+in the State. 
+DCA provided the calculations and obligations for each municipality’s present and prospective need in a 
+non-binding document based strictly on data analysis.  This report applies the methodology used by DCA 
+and includes a narrower level of detail that may not have been available to the DCA during the initial 
+calculations.  Since, there is no standardized way for municipalities to report projects associated with the 
+Third Round Housing Element, zoning board of adjustment and planning board decisions, or more “boots 
+on the ground” specific information, municipalities are given the opportunity to provide this information 
+when applying the DCA’s methodology. 
+The DCA was limited to create a methodology that would be replicated throughout the state across many 
+different municipalities.  Using the methodology and the application of municipal specific information we 
+believe there are certain calculations that shall be amended to provide a more accurate obligation for the 
+Township of South Hackensack. 
+ 
+ 
+Present Need is determined based on the number of existing housing units occupied by low- and 
+moderate- income (LMI) households that are substandard and deficient. The Present Need for third round 
+was determined by three factors: dwelling units lacking complete kitchen facilities, dwelling units lacking 
+complete plumbing facilities, and overcrowded units. While these three metrics have data that tracks them 
+independently, there is no measure accounting for overlap or for their impact to LMI households 
+exclusively. This is the measure that Present Need seeks to address.  It shall be noted that DCA strictly used 
+census data estimates and the number is not based on actual units that have been inspected for the 
+criteria. 
+INTRODUCTION 
+DCA METHODOLOGY 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 35 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 36 =====
+ 
+ 
+We shall further address this obligation and strategy in the Fourth Round Housing Element.  Therefore, it 
+is determined that the present need obligation is as follows: 
+Present Need: 7 
+Prospective Need the DCA determined the prospective need based on three (3) equalized factors averaged 
+into an average allocation factor for each municipality.  The average allocation factor for each municipality 
+was then multiplied by the regional prospective need to determine each municipality’s prospective need 
+obligation.  The three (3) factors used to determine the average allocation were Equalized Nonresidential 
+Valuation (33.33%), Income Capacity Factor (33.33%), and the Land Capacity Factor (33.33%). 
+Equalized Nonresidential Valuation Factor: 1.62% 
+Equalized Nonresidential Valuation Factor is determined by the change in commercial and industrial 
+property valuations from the beginning of the last round and the start of the current round. Therefore, 
+the years being compared are 1999 and 2023, with data from the NJ Division of Local Government Services. 
+For each year being compared, the commercial and industrial valuations were added together and then 
+adjusted by that year’s State Equalization Table Average Ratios. These equalized nonresidential valuations 
+were then used to calculate the change over the 24 years. Each municipality’s values were aggregated to 
+the Housing Region level minus the valuation changes in Qualified Urban Aid municipalities. The Equalized 
+Nonresidential Valuation Factor is the resulting percentage from dividing the municipality’s 24-year change 
+in equalized nonresidential valuations by the adjusted aggregated Housing Region total. Municipalities 
+that experienced increased commercial and industrial valuation received higher obligations according to 
+DCA’s method.  For the Township of South Hackensack, the Equalized Nonresidential Valuation Factor is 
+calculated to be 1.62%. A summary of the calculation is as follows.  
+ 
+1.62% =
+ (86,225,300 + 577,305,600)
+0.8832
+− (32,919,200 + 168,772,100)
+0.9001
+32,549,128,394
+ 
+Where: 
+1.62% = Equalized Nonresidential Valuation Factor for South Hackensack 
+0.8832 = 2023 State Equalization Table Average Ratio for South Hackensack 
+86,225,300 = 2023 Commercial Valuation for South Hackensack 
+577,305,600 = 2023 Industrial Valuation for South Hackensack 
+0.9001 = 1999 State Equalization Table Average Ratio for South Hackensack 
+32,919,200 = 1999 Commercial Valuation for South Hackensack 
+168,772,100 = 1999 Industrial Valuation for South Hackensack 
+32,549,128,394 = 1999 – 2023 Change in Equalized Nonresidential Valuation 
+minus Qualified Urban Aid municipalities for Housing Region 1 
+ 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 36 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 37 =====
+ 
+ 
+Land Capacity Factor: 0.00% 
+The Land Capacity Factor was computed with 2024 MOD-IV Property Tax list from the Division of Taxation 
+in the Department of Community Affairs.  All parcels classified as vacant were included in the initial list. 
+Next, DCA used the land use/land cover (LULC) data courtesy of the New Jersey Department of 
+Environmental Protection and construction permit data from DCA. Using this data in ArcGIS, Land Capacity 
+Factor is calculated by dividing the total developable land for each municipality by the total for the Housing 
+Region excluding that area from the Qualified Urban Aid municipalities. For the Township of South 
+Hackensack, the Land Capacity Factor is calculated to be 0.00%. A summary of the calculation is as follows.  
+ 
+0.00% = 0.058
+1,980 
+ Where: 
+AMENDMENT - The DCA’s methodology was strictly a data analysis that was limited by the information 
+DCA was able to use to determine the land capacity of each municipality.  Since, there is not a standardized 
+method for municipalities to report court settlements from the third round or decisions made by the 
+zoning board of adjustment and planning board properties included in the land capacity may not actually 
+be developable or have already been allocated for development.  Upon reviewing the DCA’s Land Capacity 
+layers on GIS we have determined a number of the sites are not developable.   
+NJ DCA Layer – Land Capacity Analysis for P.L. 2024, c.2 Parcels 
+Block: 102 
+Lot: 40 
+Land Capacity Area: 0.05 Acres 
+Property Owner: Condemi international Co. Inc. 
+Property Class: 1 
+Current Use: Car dealership with surface parking lot 
+Notes: This property is identified as a contaminated lot, habitat 
+location, historic location, and is located in the FEMA Flood Hazard 
+Zone. The GIS dataset does not align correctly with the aerial image 
+and is likely causing the area to appear vacant. This lot should not 
+be included in the land capacity calculation. 
+0.00% = Land Capacity Factor for South Hackensack 
+0.058 = Land Use/Land Cover Methodology Land Area for South Hackensack 
+1,980 = Total Developable Land for Housing Region 1 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 37 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 38 =====
+ 
+ 
+NJ DCA Layer – Land Capacity Analysis for P.L. 2024, c.2 Parcels 
+Block: 102 
+Lot: 61.01 
+Land Capacity Area: 0.00 Acres 
+Property Owner: N.J. Transit Corp. 
+Property Class: 4A 
+Current Use: Wooded buffer along railway 
+Notes: The GIS dataset does not align correctly with the aerial 
+image and is likely causing the area to appear vacant. This lot 
+should not be included in the land capacity calculation. 
+Block: 102 
+Lot: 64 
+Land Capacity Area: 0.01 Acres 
+Property Owner: Home Realty Hackensack LLC 
+Property Class: 15F 
+Current Use: Commercial building and accompanying surface 
+parking lot 
+Notes: The GIS dataset does not align correctly with the aerial 
+image and is likely causing the area to appear vacant. This lot 
+should not be included in the land capacity calculation. 
+ 
+Therefore, we believe the Land Capacity factor should be adjusted to reflect the information provided.  
+Using the additional data from the Township’s records we believe the following calculation is correct: 
+ 
+0.00% = 0.00
+1,980 
+Where: 
+0.00% = Land Capacity Factor for South Hackensack 
+0.00 = Land Use/Land Cover Methodology Land Area for South Hackensack 
+1,980 = Total Developable Land for Housing Region 1 
+Income Capacity Factor: 0.26% 
+The Income Capacity Factor measures the difference between a municipality’s income level and that of 
+the municipality with the lowest-income level in its Housing Region. It is an average of two percentages. 
+The first percentage is the amount that the municipality contributes to the regional difference of income 
+compared to the regional income floor. The second percentage is the municipality’s contribution to the 
+regional difference of income compared to the regional income floor, weighted by the number of 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 38 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 39 =====
+ 
+ 
+households within the municipality. Qualified Urban Aid municipalities were excluded from these 
+calculations. For South Hackensack, located in Housing Region 1, the lowest municipal median household 
+income is Paterson City. Paterson City’s median household income is $52,092. Housing Region 1’s median 
+household income floor is calculated by subtracting $100 from the figure of $52,092, resulting in $51,992. 
+This is the value in which South Hackensack’s median household income will be compared. For the 
+Township of South Hackensack, the Income Capacity is calculated to be 0.26%. A summary of the 
+calculation is as follows. 
+ 
+0.26% =
+918 ∗(87,813 −51,992)
+33,410,794,107
++ 87,813 −51,992
+8,355,312
+2
+ 
+Where:  
+ 
+0.26% = Income Capacity Factor for South Hackensack 
+ 
+918 = Number of Households in South Hackensack 
+ 
+87,813 = Median Household Income in South Hackensack 
+ 
+51,992 = Median Household Income Floor for Housing Region 1 
+33,410,794,107  = Total Median Household Income Differences times Households for Housing 
+Region 1 
+ 
+8,355,312 = Median Household Income Differences for Housing Region 1 
+ 
+Average Allocation Factor: 0.63% 
+The Average Allocation Factor is calculated by averaging three metrics: Equalized Nonresidential Valuation 
+Factor, Land Capacity Factor, and the Income Capacity Factor. For Qualified Urban Aid municipalities, this 
+average was zero as they have no obligation. Municipalities with an average greater then zero, the Average 
+Allocation Factor was multiplied by The Prospective Need for their respective Housing Region to determine 
+the Prospective Need of the municipality. For the Township of South Hackensack, the Average Allocation 
+Factor is calculated to be 0.63%. A summary of the calculation is as follows. 
+ 
+0.63% = 1.62% + 0.00% + 0.26%
+3
+ 
+ 
+Where: 
+ 
+0.63% = Average Allocation Factor for South Hackensack 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 39 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 40 =====
+ 
+ 
+ 
+1.62% = Equalized Nonresidential Valuation Factor for South Hackensack 
+ 
+0.00% = Land Capacity Factor for South Hackensack 
+ 
+0.26% = Income Capacity Factor for South Hackensack 
+Prospective Need: 174 
+The Prospective Need for the Township of South Hackensack has been calculated to be 174 units. This 
+calculation multiplied the Prospective Need of Housing Region 1 by the Average Allocation Factor for the 
+Township of South Hackensack. A summary of the calculation is as follows.  
+ 
+174 = 0.63% ∗27,743  
+Where: 
+ 
+174 = The Prospective Need of Affordable Housing in South Hackensack 
+ 
+0.63% = Average Allocation Factor for South Hackensack 
+ 
+27,743 = The Prospective Need for Housing Region 1 
+AMENDMENT – Since, the land capacity factor appears to be incorrect based on the mapping provided by 
+DCA we believe that the Average Allocation Factor and Prospective Need calculation would also need to 
+be revised. A summary of the calculation is as follows: 
+  
+Amended Average Allocation Factor: 0.63% 
+ 
+0.63% = 1.62% + 0.00% + 0.26%
+3
+ 
+Where: 
+ 
+0.63% = Average Allocation Factor for South Hackensack 
+ 
+1.62% = Equalized Nonresidential Valuation Factor for South Hackensack 
+ 
+0.00% = Land Capacity Factor for South Hackensack 
+ 
+0.26% = Income Capacity Factor for South Hackensack 
+Amended Prospective Need 
+ 
+174 = 0.63% ∗27,743  
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 40 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 41 =====
+ 
+ 
+ 
+Where: 
+ 
+174 = The Prospective Need of Affordable Housing in South Hackensack 
+ 
+0.63% = Average Allocation Factor for South Hackensack 
+ 
+27,743 = The Prospective Need for Housing Region 1 
+ 
+Regional Prospective Need Calculation: 27,743 
+The Prospective Need for the six Housing Regions was determined based on the rate of change in 
+population over the course of ten (10) years. With population data from the 2010 and 2020 Decennial 
+Census, the change is calculated and then divided by 2.5 an assumed factor of Low- and Moderate- Income 
+household growth. This calculation was done for each Housing Region to determine the Prospective Need.  
+For Housing Region 1, the Regional Prospective Need is calculated to be 27,743 A summary of the 
+calculation is as follows.  
+27,743 = (873,062 −803,704
+2.5
+ 
+Where: 
+ 
+27,743 = Regional Prospective Need for Housing Region 1 
+ 
+873,062 = 2020 Households – Decennial Census for Housing Region 1 
+ 
+803,704 = 2010 Households – Decennial Census for Housing Region 1 
+ 
+2.5 = Factor for Assumed Low- and Moderate- Income Household Growth 
+ 
+ 
+Department of Community Affairs released non-binding obligations for affordable housing for each 
+municipality in the state.  By releasing non-binding numbers the DCA offered municipalities the 
+opportunity to provide additional information that may result in amending the numbers calculated by 
+DCA.  Based on the information provided in the Department of Community Affair’s Affordable Housing 
+Obligations for 2025-2035 (Fourth Round) Methodology and Background, the Township of South 
+Hackensack Housing Element and Fair Share Plan, Zoning Board of Adjustment Decisions, and Planning 
+Board Decisions, we believe the calculations shall be amended to identify the inconsistencies found within 
+the datasets. Specifically, the Land Capacity Factor which included property that is not capable of being 
+developed or already being developed.  
+The Township of South Hackensack’s present need obligation shall be 7 units, the same obligation provided 
+by DCA.  However, the Township’s prospective need shall be 174 units as provided by the DCA. While we 
+CONCLUSION 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 41 of 42   Trans ID: LCV20251882227 
+
+===== PAGE 42 =====
+ 
+ 
+do not believe all of the lands identified in the land capacity analysis should be included the amendments 
+do not change the prospective need as the other two factors are still present.  It is in the Township’s best 
+interest to accept the numbers and not file a declaratory judgment to have the numbers changed.  
+Additionally, the Township’s Fourth Round Affordable Housing Element will further investigate Vacant Land 
+Capacity and the Realistic Development Potential for the municipality. 
+                                                                                                                                                                                              
+BER-L-000581-25   06/27/2025 3:58:50 PM   Pg 42 of 42   Trans ID: LCV20251882227 

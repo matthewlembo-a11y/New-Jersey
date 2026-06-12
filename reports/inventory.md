@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T12:33:21+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T12:44:18+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -413,31 +413,33 @@ _Obligation: 155 · Compliance: binding resolution accepting DCA numbers · HEFS
 
 ## Montvale (Borough)
 
-_Obligation: 235 · Compliance: litigating · HEFSP: adopted 2025-06-17_
+_Obligation: 235 · Compliance: litigating · HEFSP: adopted (contested) 2025-06-04_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Former Mercedes-Benz USA Site |  |  |  |  | inclusionary-rezoning |  | 308 | 44 |  | rental | approved | low | [doc](https://thepressgroup.net/montvale-affordable-housing-settlements-allow-for-615-new-housing-units/) |
-| Glenview Site |  |  |  |  | inclusionary-rezoning |  | 42 | 9 |  | rental | approved | low | [doc](https://thepressgroup.net/montvale-affordable-housing-settlements-allow-for-615-new-housing-units/) |
-| Former Sony Site |  |  |  | 7.0 | inclusionary-rezoning |  | 185 | 37 | 20.0% | rental | approved | low | [doc](https://thepressgroup.net/montvale-affordable-housing-settlements-allow-for-615-new-housing-units/) |
-| 2 Paragon Drive (Former A&P Campus) | 2 Paragon Drive, Montvale, NJ |  |  | 13.0 | inclusionary-rezoning |  | 80 | 16 | 20.0% | rental | approved | low | [doc](https://thepressgroup.net/montvale-affordable-housing-settlements-allow-for-615-new-housing-units/) |
-| Former KPMG Campus (Annie Sez / Overlay Zone Block 707 Lot 7 area) |  |  |  | 34.0 | overlay | 12.0 | 250 | 50 | 20.0% | rental | proposed | low | [doc](https://thepressgroup.net/judge-town-must-scrap-data-center-plan-on-affordables/) |
+| Nouvelle LLC 100% Affordable Project |  |  |  |  | 100% affordable |  | 6 | 6 | 100.0% | rental | approved (Planning Board December 2024) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/montvale-boro/61725MontvaleAdoptedRd4PlanAppendixforProgramXxPart1.pdf?VersionId=PZqbu6b1jPmF9JfYwFbJwhzj.5QBIkpB) |
+| 1 Glenview Road (Third Round / S. Hekemian Settlement Site) | 1 Glenview Road |  |  |  | inclusionary overlay |  | 42 |  |  | rental | approved (Third Round settlement; status unknown for Fourth Round credit) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/montvale-boro/61725MontvaleAdoptedRd4PlanAppendixforProgramXxPart1.pdf?VersionId=PZqbu6b1jPmF9JfYwFbJwhzj.5QBIkpB) |
+| 7 E. Grand Avenue (Projected Development) | 7 East Grand Avenue |  |  |  | inclusionary overlay |  | 18 |  |  | rental | projected | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/montvale-boro/61725MontvaleAdoptedRd4PlanAppendixforProgramXxPart1.pdf?VersionId=PZqbu6b1jPmF9JfYwFbJwhzj.5QBIkpB) |
 
 ## New Milford (Borough)
 
-_Compliance: settled · HEFSP: adopted 2025-05-20_
+_Obligation: 124 · Compliance: complying · HEFSP: adopted 2025-05-20_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Block 501 / River Road Redevelopment (Lots 9 & 10) | River Road (C.R. 41), New Milford, NJ (frontage also on Dilworth Road) | 501 | 9, 10 | 4.165 | redevelopment-area |  | 160 | 32 | 20.0% | rental | adopted-ordinance | medium | [doc](https://www.newmilfordnj.gov/file/bb61b9b0-6d5f-11f0-8ef8-1351e530fbdf) |
+| The Nest | 1070 River Road | 104 | 18 |  | inclusionary overlay |  | 38 | 4 |  | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/new-milford-boro/PagesfromNewMilfordHEFSPFINALADOPTED52025tofilePart1.pdf?VersionId=zIYrkCKyJH_MYBIQuPrWJli0cbbdbDGw) |
+| Advanced Housing DNM Group Home |  | 1407 | 56 |  | 100% affordable |  |  |  | 100.0% | rental | completed (prior round credit) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/new-milford-boro/PagesfromNewMilfordHEFSPFINALADOPTED52025tofilePart1.pdf?VersionId=zIYrkCKyJH_MYBIQuPrWJli0cbbdbDGw) |
+| NIPD Group Home |  | 1503 | 15 |  | 100% affordable |  |  |  | 100.0% | rental | completed (prior round credit) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/new-milford-boro/PagesfromNewMilfordHEFSPFINALADOPTED52025tofilePart1.pdf?VersionId=zIYrkCKyJH_MYBIQuPrWJli0cbbdbDGw) |
+| ShopRite and Bank Sites (River Road Redevelopment) | River Road | 501 | 9 and 10 |  | redevelopment |  | 160 | 32 | 20.0% | rental | redevelopment plan adopted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/new-milford-boro/PagesfromNewMilfordHEFSPFINALADOPTED52025tofilePart1.pdf?VersionId=zIYrkCKyJH_MYBIQuPrWJli0cbbdbDGw) |
+| Center for Family Support Group Home |  | 818 | 13 |  | 100% affordable |  |  |  | 100.0% | rental | completed (prior round credit) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/new-milford-boro/PagesfromNewMilfordHEFSPFINALADOPTED52025tofilePart1.pdf?VersionId=zIYrkCKyJH_MYBIQuPrWJli0cbbdbDGw) |
 
 ## North Arlington (Borough)
 
-_Obligation: 228 · Compliance: litigating · HEFSP: adopted 2025-07-28_
+_Obligation: 228 · Compliance: complying · HEFSP: adopted 2025-07-28_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 165-173 Ridge Road (Ridge Road Redevelopment) | 165-173 Ridge Road, North Arlington, NJ | 23 | 24, 24.01, 25 |  | redevelopment-area |  | 15 |  |  |  | approved | low | [doc](https://www.northarlington.org/_Content/pdf/agendas/2025-07-28-PB-Agenda.pdf) |
+| 165-173 Ridge Road (Ridge Road Redevelopment) | 165-173 Ridge Road | 23 | 24, 24.01, 25 |  | redevelopment |  | 15 |  |  |  | approved by Planning Board April 21, 2025 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/north-arlington-boro/NorthArlingtonHESFPwithPBReso7.28.25.pdf?VersionId=VAU9olOFP4OXQaZiGiQ6P1R3G7DVuCu_) |
 
 ## Northvale (Borough)
 
@@ -450,11 +452,13 @@ _Obligation: 112 · Compliance: plan_adopted_settled_NJBA · HEFSP: adopted 2025
 
 ## Norwood (Borough)
 
-_Obligation: 130 · Compliance: litigating · HEFSP: adopted 2025-06-04_
+_Obligation: 177 · Compliance: complying · HEFSP: adopted 2025-06-04_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Three Unidentified Vacant Parcels (Overlay Zone) |  |  |  |  | overlay | 6.0 | 7 | 13 |  |  | adopted-ordinance | low | [doc](https://www.norwoodboro.org/6-4-25.pdf?t=202510010804300) |
+| Affordable Housing Overlay - Block 183, Lot 1.01 |  | 183 | 1.01 | 2.196 | 100% affordable |  | 24 | 24 | 100.0% |  | overlay in place (ordinance adopted) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/norwood-boro/fourthroundplan10501120250627144001.pdf?VersionId=lv5jg3uRXCferz5I.ypCzrqGz4e2V751) |
+| Affordable Housing Overlay - Block 184/185/186 |  | 184, 185, 186 | 1, 1, 1 | 0.927 | 100% affordable |  | 24 | 24 | 100.0% |  | overlay in place (ordinance adopted) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/norwood-boro/fourthroundplan10501120250627144001.pdf?VersionId=lv5jg3uRXCferz5I.ypCzrqGz4e2V751) |
+| 400 Livingston Street | 400 Livingston Street | 93 | 12 |  | inclusionary overlay |  | 36 | 6 |  |  | approved by Planning Board January 29, 2025 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/norwood-boro/fourthroundplan10501120250627144001.pdf?VersionId=lv5jg3uRXCferz5I.ypCzrqGz4e2V751) |
 
 ## Oakland (Borough)
 
@@ -472,13 +476,13 @@ _Obligation: 296 · Compliance: filed; durational adjustment requested due to la
 
 ## Old Tappan (Borough)
 
-_Obligation: 216 · Compliance: settled · HEFSP: adopted 2026-01-28_
+_Obligation: 216 · Compliance: complying · HEFSP: adopted 2025-06-11_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Old Tappan Commons | 32-48 Russell Avenue, Old Tappan, NJ |  |  |  | 100pct-affordable |  | 29 | 29 | 100.0% | rental | built | low | [doc](https://habcnj.org/housing_programs/our_buildings/old_tappan_commons.php) |
-| Enclave at Old Tappan | 227 Old Tappan Road, Old Tappan, NJ 07675 |  |  |  | inclusionary-rezoning |  |  | 20 |  | for-sale | built | low | [doc](https://www.oldtappan.net/images/Affordable_Housing/Enclave_at_Old_Tappan_Affordable_Housing.pdf) |
-| Former Pearson Education Site (200 Old Tappan Road) | 200 Old Tappan Road, Old Tappan, NJ 07675 | 1606 | 7 | 19.1 | inclusionary-rezoning | 12.0 | 229 | 40 | 17.0% | mixed | approved | medium | [doc](https://thepressgroup.net/225-units-planned-for-former-pearson-site/) |
+| 244 Old Tappan Road - Assisted Living | 244 Old Tappan Road | 1606 | 3 |  | 100% affordable |  | 100 | 10 | 10.0% | rental | approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/old-tappan-boro/OldTappanHousingElement4thRoundClean4156.06202601281.pdf?VersionId=Qiv_vGNHYdUwvfUMBOqBSVoZZHlKXtoR) |
+| Town Center Overlay Zone (TCO) - MU and PO Zones | Old Tappan Road corridor | 1606, 1101, 1102, 1605, 701, 701.01 | 5, 6 (Blk 1606); 1,2,3,5 (Blk 1101); 1-4 (Blk 1102); 4,5,6 (Blk 1605); 8 (Blk 1606); 14.01,14.02,15 (Blk 701); 16 (Blk 701.01) | 34.5 | inclusionary overlay | 15.0 |  | 104 | 20.0% | rental | proposed overlay (pending ordinance adoption) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/old-tappan-boro/OldTappanHousingElement4thRoundClean4156.06202601281.pdf?VersionId=Qiv_vGNHYdUwvfUMBOqBSVoZZHlKXtoR) |
+| New Concepts for Living Group Home (1043 Washington Ave / 302 Old Tappan Rd) | 1043 Washington Avenue and 302 Old Tappan Road | 1701 | 7.01 and 7.02 |  | 100% affordable |  | 12 | 12 | 100.0% | rental | completed (occupied) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/old-tappan-boro/OldTappanHousingElement4thRoundClean4156.06202601281.pdf?VersionId=Qiv_vGNHYdUwvfUMBOqBSVoZZHlKXtoR) |
 
 ## Oradell (Borough)
 
@@ -495,12 +499,16 @@ _Obligation: 180 · Compliance: settled · HEFSP: adopted 2025-06-24_
 
 ## Palisades Park (Borough)
 
-_Compliance: settled · HEFSP: adopted 2025-06-18_
+_Obligation: 554 · Compliance: complying · HEFSP: adopted 2025-06-02_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Accessory Dwelling Units (Borough-Wide ADU Overlay) |  |  |  |  | accessory-apt |  |  |  |  | rental | adopted-ordinance | low | [doc](https://theridgewoodblog.net/palisades-park-approves-new-zoning-for-accessory-dwelling-units-to-boost-affordable-housing/) |
-| Builder's Remedy Sites (Multiple - Details in HEFSP/Settlement) |  |  |  |  | redevelopment-area |  |  |  |  |  | proposed | low | [doc](https://gathergov.com/municipalities/palisades-park-nj/development-pipeline) |
+| 100 Grand Avenue (100 Grand Av Inc. Inclusionary) | 100 Grand Avenue (West Edsall Blvd and Grand Ave intersection) | 104 | 16, 17 | 0.529 | inclusionary overlay | 40.0 | 20 | 4 | 20.0% |  | overlay in place (AHMUD Overlay Zone) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/palisades-park-boro/Segment001of61825PALISADESPARKAdoptedHEFSP.pdf?VersionId=brqpzmPrbzcK23YfmQfVMuzk3RK3elEG) |
+| 12 Bellview Place (Municipally Sponsored 100% Affordable) | 12 Bellview Place | 217 | 23 | 0.23 | 100% affordable | 87.0 | 20 | 20 | 100.0% |  | proposed (Borough-owned site) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/palisades-park-boro/Segment001of61825PALISADESPARKAdoptedHEFSP.pdf?VersionId=brqpzmPrbzcK23YfmQfVMuzk3RK3elEG) |
+| 550 Bergen Boulevard (Block 416, Lot 3) | 550 Bergen Boulevard | 416 | 3 | 0.31 | inclusionary overlay |  | 40 | 8 | 20.0% | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/palisades-park-boro/Segment001of61825PALISADESPARKAdoptedHEFSP.pdf?VersionId=brqpzmPrbzcK23YfmQfVMuzk3RK3elEG) |
+| NE Corner 14th Street and East Edsall Avenue (100% Municipally Sponsored) | NE corner of 14th Street and East Edsall Avenue | 433 | 1, 3, 2, 4, 5, 6 | 2.96 | 100% affordable | 40.0 | 118 | 118 | 100.0% | rental | proposed (site assembly in progress; Borough owns Lot 1) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/palisades-park-boro/Segment001of61825PALISADESPARKAdoptedHEFSP.pdf?VersionId=brqpzmPrbzcK23YfmQfVMuzk3RK3elEG) |
+| 125, 129 & 135 Grand Avenue (Block 502, Lots 8-10) | 125, 129, and 135 Grand Avenue | 502 | 8, 9, 10 | 0.41 | inclusionary overlay | 40.0 | 16 | 3 | 20.0% |  | overlay in place (AHMUD Overlay Zone) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/palisades-park-boro/Segment001of61825PALISADESPARKAdoptedHEFSP.pdf?VersionId=brqpzmPrbzcK23YfmQfVMuzk3RK3elEG) |
+| Route 5 Senior Housing Project | Route 5 (between Route 5 and Palisades Park Junior Senior High School) | 724, 725, 726 | 14, 1, 1 | 4.59 | inclusionary overlay |  | 90 | 18 | 20.0% | rental | proposed (zoning amendment or redevelopment designation pending) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/palisades-park-boro/Segment001of61825PALISADESPARKAdoptedHEFSP.pdf?VersionId=brqpzmPrbzcK23YfmQfVMuzk3RK3elEG) |
 
 ## Paramus (Borough)
 
@@ -583,33 +591,44 @@ _Obligation: 427 · Compliance: settled · HEFSP: adopted 2025-06-23_
 
 ## River Edge (Borough)
 
-_Obligation: 192 · Compliance: settled · HEFSP: adopted 2025-06-25_
+_Obligation: 166 · Compliance: compliance order entered · HEFSP: adopted 2025-06-25_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| New Bridge Landing Station Redevelopment Plan (amended) |  |  |  |  | redevelopment-area |  |  |  |  |  | adopted-ordinance | low | [doc](https://www.riveredgenj.org/2026ordinances) |
-| Block 1418 Inclusionary Overlay |  | 1418 | 1, 2, 3, 3.01, 4 |  | overlay |  |  |  |  |  | adopted-ordinance | medium | [doc](https://www.riveredgenj.org/2026ordinances) |
-| Block 203 Inclusionary Overlay |  | 203 | 2, 2.01, 3, 4 |  | overlay |  |  |  |  |  | adopted-ordinance | medium | [doc](https://www.riveredgenj.org/2026ordinances) |
+| Mandatory Affordable Housing Set-Aside Ordinance (borough-wide) |  |  |  |  | mandatory set-aside ordinance |  |  |  | 20.0% |  | adopted (Ord. 20-09, amended 20-12) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-edge-boro/62725RiverEdgeHousingElementFairSharePlanAdopted06252025Part1.pdf?VersionId=vA_9Fvs_gn.PHErVzivt2Rkj3fQUK5m4) |
+| Group Home – New Concepts for Living | 11 June Court | 1004 | 18 |  | group home (prior round credit) |  | 5 | 5 | 100.0% | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-edge-boro/62725RiverEdgeHousingElementFairSharePlanAdopted06252025Part1.pdf?VersionId=vA_9Fvs_gn.PHErVzivt2Rkj3fQUK5m4) |
+| Multifamily and Senior Conditional Use District (MSCUD / New Bridge Crossing) |  | 1005, 1302 | 1005 Lots 6.01–12; 1302 Lots 1 and partial |  | inclusionary conditional use | 37.5 |  |  | 15.0% | rental | adopted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-edge-boro/62725RiverEdgeHousingElementFairSharePlanAdopted06252025Part1.pdf?VersionId=vA_9Fvs_gn.PHErVzivt2Rkj3fQUK5m4) |
+| Group Home – Community Options | 200 Zabriskie Place | 1208 | 7 |  | group home (prior round credit) |  | 3 | 3 | 100.0% | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-edge-boro/62725RiverEdgeHousingElementFairSharePlanAdopted06252025Part1.pdf?VersionId=vA_9Fvs_gn.PHErVzivt2Rkj3fQUK5m4) |
+| AH-1 New Bridge Road Affordable Housing Overlay Zone | New Bridge Road | 1303 | 3, 4, 5 | 2.9 | inclusionary overlay | 20.0 |  |  | 20.0% |  | adopted July 2020 (Ord. 20-10) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-edge-boro/62725RiverEdgeHousingElementFairSharePlanAdopted06252025Part1.pdf?VersionId=vA_9Fvs_gn.PHErVzivt2Rkj3fQUK5m4) |
+| New Bridge Landing Station Redevelopment Area |  | 1411, 1412 | 1411 Lots 1.01 & 1.02; 1412 Lots 1, 2 & 3 | 3.17 | redevelopment (inclusionary) | 25.0 |  |  | 20.0% | rental | adopted November 2020 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-edge-boro/62725RiverEdgeHousingElementFairSharePlanAdopted06252025Part1.pdf?VersionId=vA_9Fvs_gn.PHErVzivt2Rkj3fQUK5m4) |
+| Kinderkamack Road Redevelopment Area |  | 1413 | 1, 2.01, 5 | 0.59 | redevelopment (inclusionary) | 20.0 |  |  | 20.0% |  | adopted November 2020 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-edge-boro/62725RiverEdgeHousingElementFairSharePlanAdopted06252025Part1.pdf?VersionId=vA_9Fvs_gn.PHErVzivt2Rkj3fQUK5m4) |
+| Senior Residence at St. Peter the Apostle | 415 Fifth Avenue | 701 | 19.01 |  | 100% affordable age-restricted rental (prior round credit/surplus) |  | 23 | 5 |  | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-edge-boro/62725RiverEdgeHousingElementFairSharePlanAdopted06252025Part1.pdf?VersionId=vA_9Fvs_gn.PHErVzivt2Rkj3fQUK5m4) |
+| Group Home – EIHAB Human Services | 328 Valley Road | 905 | 19 |  | group home (prior round credit) |  | 4 | 4 | 100.0% | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-edge-boro/62725RiverEdgeHousingElementFairSharePlanAdopted06252025Part1.pdf?VersionId=vA_9Fvs_gn.PHErVzivt2Rkj3fQUK5m4) |
 
 ## River Vale (Township)
 
-_Obligation: 228 · Compliance: settled · HEFSP: adopted 2025-06-18_
+_Obligation: 228 · Compliance: settlement order entered · HEFSP: adopted 2025-06-23_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| River Vale Senior Residence | 430 Cedar Ln, River Vale, NJ 07675 |  |  |  | 100pct-affordable |  | 49 | 49 | 100.0% | rental | built | medium | [doc](https://habcnj.org/housing_programs/our_buildings/river_vale_senior_residence.php) |
-| CareOne Assisted Living and Skilled Nursing Facility | 2601-2621 Highway 138, River Vale, NJ | 745 | 4.01, 16 |  | overlay |  |  | 32 |  | rental | adopted-ordinance | low | [doc](https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/4491/Trv/4875afbe-1577-4f8b-8ec4-155fea2cd2a6/2025-0618_Adopted_River_Vale_HEFSP_with_Append.pdf?disposition=inline) |
-| Forcellati Nursery Site (Incandescent Development) | 691-693 Rivervale Road, River Vale, NJ 07675 | 813 | 17, 18 | 5.4 | inclusionary-rezoning |  | 75 | 15 | 20.0% | for-sale | approved | low | [doc](https://thepressgroup.net/breaking-river-vale-oks-75-homes-on-nursery-site-to-avoid-bigger-project-court-fight/) |
+| Downtown 'Four Corners' OL Zone Overlay – 215 River Vale Road (Westcott Properties) | 215 River Vale Road | 1716 | 1.01, 1, 6 |  | inclusionary overlay (OL-1/OL-2 subzones) |  | 8 | 2 | 20.0% |  | adopted 2025 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-vale-twp/FourthRoundPlan.pdf?VersionId=RHVYB6JlmV2iDGuRoxoO_M6ALGbw_pzP) |
+| Downtown 'Four Corners' OL Zone Overlay – 233 & 237 River Vale Road (Westcott Properties) | 233 & 237 River Vale Road | 1801 | 20, 21, 22 |  | inclusionary overlay (OL-1/OL-2 subzones) |  | 24 | 5 | 20.0% |  | adopted 2025 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-vale-twp/FourthRoundPlan.pdf?VersionId=RHVYB6JlmV2iDGuRoxoO_M6ALGbw_pzP) |
+| Collignon Estates | 122 & 124 Collignon Way | 1801 | 8.01 | 1.25 | inclusionary |  |  | 2 |  | rental | adopted 2025 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-vale-twp/FourthRoundPlan.pdf?VersionId=RHVYB6JlmV2iDGuRoxoO_M6ALGbw_pzP) |
+| Special Needs Housing – 860 Westwood Ave | 860 Westwood Ave | 1901 | 10 | 2.1 | group home / special needs housing |  | 4 | 4 | 100.0% | rental | existing/completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-vale-twp/FourthRoundPlan.pdf?VersionId=RHVYB6JlmV2iDGuRoxoO_M6ALGbw_pzP) |
+| Jewish Home for the Aged | 685 Westwood Avenue | 2101 | 2.01 | 4.81 | 100% affordable age-restricted assisted living (prior round/surplus) |  | 107 | 11 |  | rental | completed/existing | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-vale-twp/FourthRoundPlan.pdf?VersionId=RHVYB6JlmV2iDGuRoxoO_M6ALGbw_pzP) |
+| Special Needs Housing – 49 Greenhaigh Lane | 49 Greenhaigh Lane | 701 | 8.03 |  | group home / special needs housing |  | 4 | 4 | 100.0% | rental | existing/completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-vale-twp/FourthRoundPlan.pdf?VersionId=RHVYB6JlmV2iDGuRoxoO_M6ALGbw_pzP) |
+| Special Needs Housing – 100 Scully Way | 100 Scully Way | 701 | 8.04 |  | group home / special needs housing |  | 4 | 4 | 100.0% | rental | existing/completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-vale-twp/FourthRoundPlan.pdf?VersionId=RHVYB6JlmV2iDGuRoxoO_M6ALGbw_pzP) |
+| Forcellati Site (Incandescent Development) | 691 Rivervale Road | 813 | 18 | 5.54 | inclusionary |  | 75 | 15 | 20.0% | rental | settlement/adopted 2025 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/river-vale-twp/FourthRoundPlan.pdf?VersionId=RHVYB6JlmV2iDGuRoxoO_M6ALGbw_pzP) |
 
 ## Rochelle Park (Township)
 
-_Obligation: 119 · Compliance: settled · HEFSP: adopted 2025-06-25_
+_Obligation: 119 · Compliance: DJ action filed · HEFSP: adopted 2025-06-25_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| The Delford at Village Center | 120 W. Passaic St., Rochelle Park, NJ 07662 |  |  |  | inclusionary-rezoning |  | 160 | 24 | 15.0% | rental | built | low | [doc](https://www.piazzanj.com/property/the-delford-at-village-center/) |
-| West Passaic Street Site (29 Fairfield Dr / 70 W. Passaic St) | 29 Fairfield Dr / 70 W. Passaic St., Rochelle Park, NJ |  |  | 1.3 |  |  |  |  |  |  | proposed | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp) |
-| 375 West Passaic Street Site | 375 West Passaic St., Rochelle Park, NJ |  |  |  |  |  |  |  |  |  | proposed | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp) |
+| 375 West Passaic Street (Ramada Inn) | 375 West Passaic Street | 103.01 | 1.01, 2 | 3.89 | inclusionary (unmet need) | 30.0 | 116 | 23 | 20.0% |  | proposed; site anticipated available ~2028 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp) |
+| 210 & 222 Rochelle Avenue | 210 & 222 Rochelle Avenue | 23, 24.01 | Block 23 Lot 2.03; Block 24.01 Lots 1, 2 & 3 | 1.45 | inclusionary redevelopment (AINR 2019) | 20.0 | 29 | 6 | 20.0% |  | AINR designated 2019; adopted in HEFSP 2025 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp) |
+| 29 Fairfield Dr / 70 West Passaic Street | 29 Fairfield Dr / 70 West Passaic Street | 90, 91.01.1 | Block 90 Lots 2.02 & 3; Block 91.01.1 Lots 1-5 & 9 | 1.3 | inclusionary | 15.0 | 19 | 4 | 20.0% |  | proposed/adopted in HEFSP 2025 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp) |
 
 ## Rockleigh (Borough)
 
@@ -736,11 +755,14 @@ _Obligation: 173 · Compliance: plan_adopted · HEFSP: adopted 2025-06-30_
 
 ## Washington Township (Township)
 
-_Compliance: compliant_with_objections_settled · HEFSP: adopted 2025-06-20_
+_Obligation: 184 · Compliance: compliant via RDP sites (AH-1 and AH-2 zones) plus prior-round credits and overlay zoning · HEFSP: adopted 2025-06-18_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Inclusionary Zoning Program (general) |  |  |  |  | inclusionary zoning |  |  |  |  |  | adopted | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/washington-twp/LtrtoJudgePadovanoResolutionandHousingElementandFairSharePlan.pdf?VersionId=fnXQu6RImeih_rK7dUp1cNj11hhwaKYA) |
+| Franklin Court / 283 Van Emburgh Avenue (prior round rental) | 283 Van Emburgh Avenue, Washington Township, NJ | 1102 | 1.04, 2, 11 |  | 100% affordable (family rental) |  |  | 7 |  | rental | under construction (as of plan adoption 2025) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/washington-twp/MCResolutionwithadoptedHEFSP.pdf?VersionId=LrULyjlsSMsfMCzn7kuN0Mq9PFpQ8VBF) |
+| 660 Pascack Road (AH-2 Zone) – 4th Round Site | 660 Pascack Road, Washington Township, NJ | 2110 | 1, 6, 7, 8, 9, 10, 11 | 2.14 | inclusionary (new AH-2 Affordable Housing District rezoning) | 13.5 | 32 | 7 | 20.0% | sale | zoning ordinance adopted (Ord. 26-02, March 2026); not yet constructed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/washington-twp/OrdinancesandLettertoJudgePadovano3.17.26.pdf?VersionId=_3zc_806w8x4H1Uo716u9OxPw1OcmJaj) |
+| 370 Pascack Road (AH-1 Zone) – 4th Round Site | 370 Pascack Road, Washington Township, NJ | 2329 | 2 | 5.16 | inclusionary (new AH-1 Affordable Housing District rezoning) | 14.0 | 72 | 15 | 20.0% | sale | zoning ordinance adopted (Ord. 26-02, March 2026); not yet constructed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/washington-twp/OrdinancesandLettertoJudgePadovano3.17.26.pdf?VersionId=_3zc_806w8x4H1Uo716u9OxPw1OcmJaj) |
+| VFW / 639 Jefferson Street (Habitat for Humanity, prior round) | 639 Jefferson Street, Washington Township, NJ | 3103 | 25 |  | 100% affordable (senior sales, Habitat for Humanity) |  |  | 4 |  | sale | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/washington-twp/MCResolutionwithadoptedHEFSP.pdf?VersionId=LrULyjlsSMsfMCzn7kuN0Mq9PFpQ8VBF) |
 
 ## Westwood (Borough)
 
@@ -764,22 +786,37 @@ _Obligation: 147 · Compliance: compliant via unmet need/credits mechanism · HE
 
 ## Woodcliff Lake (Borough)
 
-_Obligation: 360 · Compliance: settled · HEFSP: adopted 2025-06-24_
+_Obligation: 360 · Compliance: compliant via amended HEFSP with redevelopment plans and overlay zones; settlement reached with FSHC and SIG 100 Tice · HEFSP: amended plan adopted 2026-03-16_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 188 Broadway — Residential Redevelopment (Prior Settlement) | 188 Broadway, Woodcliff Lake, NJ 07677 |  |  |  | redevelopment-area |  | 46 | 8 | 17.0% | mixed | approved | low | [doc](https://thepressgroup.net/its-settled-46-housing-units-at-188-broadway/) |
-| VFW Site — Veterans Affordable Housing Overlay (AH-VO) | North Broadway (north of Woodcliff Avenue), Woodcliff Lake, NJ | 25 | 1 |  | 100pct-affordable |  |  | 8 | 100.0% | rental | adopted-ordinance | low | [doc](https://wclnj.com/meetings/meeting-documents/affordable-housing-compliance-hearing/838-amendment-to-housing-element-fair-share-woodcliff-lake-07-03-2023/file) |
-| North Broadway / 230 Broadway — 100% Affordable Family Rental | 230 North Broadway, Woodcliff Lake, NJ | 2602 | 1; 2; 9 | 2.6 | 100pct-affordable |  | 24 | 24 | 100.0% | rental | approved | medium | [doc](https://wclnj.com/meetings/meeting-documents/affordable-housing-compliance-hearing/819-north-broadway-affordable-housing-zone/file) |
-| 100 Tice Boulevard — Former Party City HQ (AHO4 Overlay) | 100 Tice Boulevard, Woodcliff Lake, NJ 07677 | 301 | 3.05 |  | overlay |  | 91 | 18 | 20.0% | rental | adopted-ordinance | medium | [doc](https://thepressgroup.net/former-party-city-site-deal-on-housing-91-units-including-18-affordable-age-55-plus-apartments/) |
+| 126 Broadway | 126 Broadway, Woodcliff Lake, NJ |  |  |  | inclusionary |  | 8 | 2 |  | rental | site plan pending approval | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/woodcliff-lake-boro/FINALWCLK4thRoundPlanAmendment3.16.26wappendicesred1.pdf?VersionId=mF1SyApauk8c7gbLur_pZZeF5nq_7591) |
+| 240 Broadway (expanded redevelopment) | 240 Broadway (with 258 and 264 Broadway), Woodcliff Lake, NJ | 2601 | 15, 16 |  | redevelopment |  | 63 | 12 |  | rental | redevelopment plan pending; originally LUB approved 41 units/7 AH January 28, 2025 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/woodcliff-lake-boro/FINALWCLK4thRoundPlanAmendment3.16.26wappendicesred1.pdf?VersionId=mF1SyApauk8c7gbLur_pZZeF5nq_7591) |
+| Hilton Redevelopment (former Hilton Hotel, 200 Tice Boulevard) | 200 Tice Boulevard, Woodcliff Lake, NJ | 301 | 3.04 |  | redevelopment (formerly non-residential Hilton hotel) |  | 147 | 30 |  | sale | redevelopment plan pending adoption (per amendment plan) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/woodcliff-lake-boro/FINALWCLK4thRoundPlanAmendment3.16.26wappendicesred1.pdf?VersionId=mF1SyApauk8c7gbLur_pZZeF5nq_7591) |
+| 100 Tice Boulevard (SIG 100 Tice / Party City building) | 100 Tice Boulevard, Woodcliff Lake, NJ | 301 | 3.05 | 12.9 | inclusionary overlay (new zone per settlement with SIG 100 Tice) |  | 91 | 18 |  | rental | overlay ordinance to be adopted per settlement (March 2026 deadline) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/woodcliff-lake-boro/FINALWCLK4thRoundPlanAmendment3.16.26wappendicesred1.pdf?VersionId=mF1SyApauk8c7gbLur_pZZeF5nq_7591) |
+| BMW Redevelopment (former BMW Headquarters) | Block 602 Lot 1, Woodcliff Lake | 602 | 1 |  | redevelopment (formerly non-residential BMW HQ) |  | 370 | 74 |  |  | redevelopment plan adopted July 21, 2025; not yet constructed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/woodcliff-lake-boro/FINALWCLK4thRoundPlanAmendment3.16.26wappendicesred1.pdf?VersionId=mF1SyApauk8c7gbLur_pZZeF5nq_7591) |
+| THOH Townhouse Overlay Zone (88 Overlook Drive) | 88 Overlook Drive, Woodcliff Lake, NJ | 908 | 2 |  | inclusionary overlay |  |  | 4 | 20.0% | sale | overlay zone created 2022; not yet constructed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/woodcliff-lake-boro/FINALWCLK4thRoundPlanAmendment3.16.26wappendicesred1.pdf?VersionId=mF1SyApauk8c7gbLur_pZZeF5nq_7591) |
 
 ## Wyckoff (Township)
 
-_Obligation: 374 · Compliance: settled · HEFSP: adopted 2025-06-25_
+_Obligation: 374 · Compliance: compliant via RDP (3rd round carry-forward = 46) plus 4th round unmet need overlay zones and mandatory set-aside ordinance · HEFSP: adopted 2025-06-25_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Abma Farm Tract — Existing Inclusionary Zone (undeveloped) | Abma's Farm, Wyckoff, NJ 07481 |  |  |  | inclusionary-rezoning |  |  |  |  |  | adopted-ordinance | low | [doc](https://www.wyckoffnj.gov/sites/g/files/vyhlif12106/f/pages/june_2025_housing_element_fair_share_plan.pdf) |
-| Block 216 — Overlay Zone (Ordinances 1897 and 1898) |  | 216 |  |  | overlay |  |  |  |  |  | adopted-ordinance | low | [doc](https://www.wyckoffnj.gov/sites/g/files/vyhlif12106/f/pages/june_2025_housing_element_fair_share_plan.pdf) |
-| Block 259 Lots 1 and 2 — Franklin Avenue Inclusionary Overlay | Franklin Avenue, Wyckoff, NJ 07481 | 259 | 1; 2 |  | overlay | 12.0 | 22 | 3 | 15.0% | rental | adopted-ordinance | medium | [doc](https://www.wyckoffnj.gov/sites/g/files/vyhlif12106/f/pages/june_2025_housing_element_fair_share_plan.pdf) |
+| ECCR Group Home – 832 Mountain Avenue (3rd Round RDP) | 832 Mountain Avenue, Wyckoff, NJ |  |  |  | 100% affordable (group home, special needs) |  | 5 | 5 |  | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wyckoff-twp/20250625231737.pdf) |
+| CHCC Evergreen Court (RDP portion – 6 senior rental units) (3rd Round RDP) | Christian Health Care Center campus, Wyckoff, NJ |  |  |  | affordability control extension (30-year UHAC deed restriction on 24 existing independent living units) |  | 24 | 6 |  | rental | completed (deed restrictions placed) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wyckoff-twp/20250625231737.pdf) |
+| 168 & 174 Franklin Avenue (4th Round Unmet Need) | 168 & 174 Franklin Avenue, Wyckoff, NJ |  |  | 2.5 | inclusionary (overlay rezoning for townhouses + single-family) | 4.5 |  |  | 20.0% | sale or rental | zoning strategy in adopted 4th round plan; ordinance to be adopted | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wyckoff-twp/20250625231737.pdf) |
+| B-1 District along Godwin Ave. and Franklin Ave. (4th Round Unmet Need) | Godwin Avenue and Franklin Avenue, Wyckoff, NJ |  |  | 7.2 | inclusionary (district overlay, mixed-use multi-family/townhouse) | 10.0 |  |  | 20.0% | sale or rental | zoning strategy in adopted 4th round plan; ordinance to be adopted | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wyckoff-twp/20250625231737.pdf) |
+| B-2 District along Godwin Ave. and Crescent Ave. (4th Round Unmet Need) | Godwin Avenue and Crescent Avenue, Wyckoff, NJ |  |  | 4.64 | inclusionary (district overlay, mixed-use multi-family/townhouse) | 10.0 |  |  | 20.0% | sale or rental | zoning strategy in adopted 4th round plan; ordinance to be adopted | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wyckoff-twp/20250625231737.pdf) |
+| Goffle Road Expanded Area (4th Round Unmet Need) | Goffle Road area, Wyckoff, NJ |  |  | 4.27 | inclusionary (overlay expansion, mixed-use multi-family/townhouse) | 10.0 |  |  | 20.0% | sale or rental | zoning strategy in adopted 4th round plan; ordinance to be adopted | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wyckoff-twp/20250625231737.pdf) |
+| 825 Wyndham Court – Block 203, Lot 3.04 (4th Round Unmet Need) | 825 Wyndham Court, Wyckoff, NJ | 203 | 3.04 | 4.0 | inclusionary (overlay rezoning for townhouse and multi-family) | 10.0 |  |  | 20.0% | sale or rental | zoning strategy in adopted 4th round plan; ordinance to be adopted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wyckoff-twp/20250625231737.pdf) |
+| 139 Franklin Avenue – Block 208, Lots 76, 77 (4th Round Unmet Need) | 139 Franklin Avenue, Wyckoff, NJ | 208 | 76, 77 | 6.55 | inclusionary (overlay rezoning for townhouses + single-family) | 8.0 |  |  | 20.0% | sale or rental | zoning strategy in adopted 4th round plan; ordinance to be adopted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wyckoff-twp/20250625231737.pdf) |
+| Block 216, Lots 13.08, 13.09, 13.10 – (formerly Lots 12.01 and 13.04) (3rd Round RDP) | Wyckoff, NJ (near Boulder Run Shopping Center area) | 216 | 13.08, 13.09, 13.10 | 2.39 | inclusionary (overlay, apartments over commercial) |  |  | 2 | 15.0% | rental | zoned (3rd round); not yet constructed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wyckoff-twp/20250625231737.pdf) |
+| Block 216, Lots 17.01, 18, 19 – Greenwood Avenue (3rd Round RDP) | Greenwood Avenue, Wyckoff, NJ | 216 | 17.01, 18, 19 | 0.537 | inclusionary (overlay, mixed-use apartments + small commercial component) | 12.0 | 6 | 1 | 15.0% | rental | zoned (3rd round); not yet constructed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wyckoff-twp/20250625231737.pdf) |
+| 500 West Main Street – Block 222, Lot 1.01 (4th Round Unmet Need) | 500 West Main Street, Wyckoff, NJ | 222 | 1.01 | 13.7 | inclusionary (overlay rezoning, mixed-use multi-family/townhouse) | 10.0 |  |  | 20.0% | sale or rental | zoning strategy in adopted 4th round plan; ordinance to be adopted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wyckoff-twp/20250625231737.pdf) |
+| United Way/Madeline Group Home – Block 238, Lot 2 / 370 Clinton Avenue (3rd Round RDP) | 370 Clinton Avenue, Wyckoff, NJ | 238 | 2 |  | 100% affordable (group home, special needs) |  | 6 | 6 |  | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wyckoff-twp/20250625231737.pdf) |
+| Block 259, Lots 1 & 2 – Franklin Avenue (3rd Round RDP) | Franklin Avenue, Wyckoff, NJ | 259 | 1, 2 | 3.35 | inclusionary (overlay, mixed-use with ground floor retail + upper residential) | 12.0 | 22 | 3 | 15.0% | rental | zoned (3rd round); not yet constructed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wyckoff-twp/20250625231737.pdf) |
+| Maple Lake (Sarna) – Block 320, Lots 10.02, 11 (3rd Round RDP) | Wyckoff, NJ (Maple Lake/Sarna property) | 320 | 10.02, 11 |  | inclusionary (settlement with intervenor; 60 family apartments + 1 superintendent) |  | 61 | 9 | 15.0% | rental | zoned (3rd round); not yet constructed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wyckoff-twp/20250625231737.pdf) |
+| Squaw Brook Church – Block 437, Lots 18, 19, 20.02 (4th Round Unmet Need) | Squaw Brook Road, Wyckoff, NJ | 437 | 18, 19, 20.02 | 6.0 | inclusionary (overlay rezoning for townhouses + limited single-family) | 3.0 |  |  | 20.0% | sale or rental | zoning strategy in adopted 4th round plan; ordinance to be adopted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wyckoff-twp/20250625231737.pdf) |
+| 475 Lafayette Avenue – Block 483, Lots 38.01, 46 (4th Round Unmet Need) | 475 Lafayette Avenue, Wyckoff, NJ | 483 | 38.01, 46 | 6.23 | inclusionary (overlay rezoning for townhouses + single-family) | 8.0 |  |  | 20.0% | sale or rental | zoning strategy in adopted 4th round plan; ordinance to be adopted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wyckoff-twp/20250625231737.pdf) |
 
