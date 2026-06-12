@@ -1,9 +1,9 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T03:27:15+00:00_
+_Generated 2026-06-12T03:35:20+00:00_
 
-- Municipalities: **70/70**  (done: 39, in_progress: 29, blocked: 2, not_started: 0)
-- Sites catalogued: **184**
+- Municipalities: **70/70**  (done: 41, in_progress: 29, blocked: 0, not_started: 0)
+- Sites catalogued: **185**
 
 | # | Municipality | Status | Sites | Oblig. | Compliance | HEFSP | Last researched |
 |---|---|---|---|---|---|---|---|
@@ -38,15 +38,15 @@ _Generated 2026-06-12T03:27:15+00:00_
 | 29 | Leonia | done | 2 | 172 | settled | adopted | 2026-06-12T03:23:26+00:00 |
 | 30 | Little Ferry | in_progress | 4 |  | in_progress | proposed | 2026-06-12T03:23:26+00:00 |
 | 31 | Lodi | in_progress | 0 |  |  |  | 2026-06-12T03:22:08+00:00 |
-| 32 | Lyndhurst | in_progress | 0 |  | litigating | challenged | 2026-06-12T03:22:08+00:00 |
+| 32 | Lyndhurst | in_progress | 0 | 366 | challenged | adopted_challenged | 2026-06-12T03:35:04+00:00 |
 | 33 | Mahwah | done | 4 | 495 | settled | adopted | 2026-06-12T03:22:08+00:00 |
 | 34 | Maywood | done | 2 | 143 | settled | adopted | 2026-06-12T03:22:08+00:00 |
 | 35 | Midland Park | done | 3 | 155 | settled | adopted | 2026-06-12T03:22:08+00:00 |
 | 36 | Montvale | done | 5 | 235 | litigating | adopted | 2026-06-12T03:24:41+00:00 |
-| 37 | Moonachie | blocked | 0 |  |  |  | 2026-06-12T03:24:41+00:00 |
+| 37 | Moonachie | in_progress | 0 |  | implementing | ordinances_adopted | 2026-06-12T03:35:04+00:00 |
 | 38 | New Milford | done | 1 |  | settled | adopted | 2026-06-12T03:24:41+00:00 |
 | 39 | North Arlington | in_progress | 1 | 228 | litigating | adopted | 2026-06-12T03:24:41+00:00 |
-| 40 | Northvale | blocked | 0 |  |  |  | 2026-06-12T03:24:41+00:00 |
+| 40 | Northvale | in_progress | 0 | 112 | challenged_or_litigating | unknown | 2026-06-12T03:35:04+00:00 |
 | 41 | Norwood | in_progress | 1 | 130 | litigating | adopted | 2026-06-12T03:25:07+00:00 |
 | 42 | Oakland | done | 5 | 296 | settled | adopted | 2026-06-12T03:25:07+00:00 |
 | 43 | Old Tappan | done | 3 | 216 | settled | adopted | 2026-06-12T03:25:07+00:00 |
@@ -68,11 +68,11 @@ _Generated 2026-06-12T03:27:15+00:00_
 | 59 | South Hackensack | done | 2 | 181 | settled | adopted | 2026-06-12T03:26:49+00:00 |
 | 60 | Teaneck | in_progress | 4 | 645 | settled | adopted | 2026-06-12T03:26:49+00:00 |
 | 61 | Tenafly | done | 3 | 307 | settled | adopted | 2026-06-12T03:24:17+00:00 |
-| 62 | Teterboro | in_progress | 0 |  | settled | adopted | 2026-06-12T03:24:18+00:00 |
+| 62 | Teterboro | done | 0 |  | compliant | adopted | 2026-06-12T03:35:04+00:00 |
 | 63 | Upper Saddle River | done | 4 |  | settled | adopted | 2026-06-12T03:24:18+00:00 |
 | 64 | Waldwick | done | 4 | 183 | settled | adopted | 2026-06-12T03:24:18+00:00 |
 | 65 | Wallington | done | 3 | 237 | settled | adopted | 2026-06-12T03:24:18+00:00 |
-| 66 | Washington Township | in_progress | 0 |  | settled | adopted | 2026-06-12T03:25:50+00:00 |
+| 66 | Washington Township | done | 1 |  | compliant_with_objections_settled | adopted | 2026-06-12T03:35:04+00:00 |
 | 67 | Westwood | in_progress | 3 | 254 | conditionally-compliant / litigating | adopted | 2026-06-12T03:25:50+00:00 |
 | 68 | Wood-Ridge | done | 1 |  | settled | adopted | 2026-06-12T03:25:50+00:00 |
 | 69 | Woodcliff Lake | done | 4 | 360 | settled | adopted | 2026-06-12T03:25:50+00:00 |

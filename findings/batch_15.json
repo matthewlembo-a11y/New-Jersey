@@ -1,0 +1,254 @@
+[
+  {
+    "municipality": "Carlstadt",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": null,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": "plan_adopted",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-30",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/carlstadt-boro/CarlstadtHEFSPcombinedSignedPART1.pdf"
+    },
+    "notes": "Carlstadt adopted its Fourth Round HEFSP by June 30, 2025 (NJ Courts docket BER-L-000796-25). The plan is also posted on the Borough website. Carlstadt is a highly industrialized, predominantly non-residential borough (~2 sq mi) in southeast Bergen County with very limited vacant residential land. Specific present-need and prospective-need obligation numbers are contained in the HEFSP PDF but were not surfaced in web-search snippets; the DCA calculation spreadsheet (nj.gov/dca/dlps/4th_Round_Numbers.shtml) would provide authoritative numbers. No individual site-level data (block/lot, unit counts) was returned in any search snippet. Research status remains in_progress pending document review of the HEFSP PDF.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Carlstadt Fourth Round HEFSP (BER-L-000796-25, adopted June 30, 2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/carlstadt-boro/CarlstadtHEFSPcombinedSignedPART1.pdf"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Housing Element and Fair Share Plan – Carlstadt Borough (municipal website copy)",
+        "url": "https://www.carlstadtnj.us/_Content/pdf/Carlstadt-HEFSP-4th-Round-2025.pdf"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025–2035 Fourth Round Affordable Housing Calculations",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents Index – NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      }
+    ],
+    "sites": []
+  },
+  {
+    "municipality": "Cliffside Park",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 150,
+      "prospective_need": 0,
+      "total_obligation": 150,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/pdf/FourthRoundCalculation_Methodology.pdf"
+    },
+    "compliance": {
+      "status": "plan_adopted",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": null,
+      "hefsp_url": "https://www.cliffsideparknj.gov/departments/building_department/cliffside_park_fourth_round_housing_element_and_fair_share_plan_.php"
+    },
+    "notes": "Cliffside Park is a Qualified Urban Aid Municipality (QUAM) for the Fourth Round. Under the DCA's calculation methodology, QUAMs with zero land capacity, equalized nonresidential valuation, and income capacity factors receive a prospective need of zero. DCA methodology documents indicate Cliffside Park has a Present Need (rehabilitation share) of approximately 150 units and a Prospective Need of 0 (all allocation factors = 0.00%; prospective need capped at 0 after the 1,000/20% QUAM rules apply). The borough adopted a binding resolution determining its Fourth Round affordable housing obligations for the period July 1, 2025 through June 30, 2035, and has a Fourth Round HEFSP on its building department webpage. Because prospective need is zero, there are no inclusionary new-construction sites required. The borough's only Fourth Round obligation is a rehabilitation program (present need ~150 units). This is the legitimate reason for zero prospective-need/inclusionary sites.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Cliffside Park Fourth Round Housing Element and Fair Share Plan (Borough website)",
+        "url": "https://www.cliffsideparknj.gov/departments/building_department/cliffside_park_fourth_round_housing_element_and_fair_share_plan_.php"
+      },
+      {
+        "doc_type": "other",
+        "title": "Cliffside Park Affordable Housing Ordinances & Resolutions",
+        "url": "https://www.cliffsideparknj.gov/affordable_housing_/index.php"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA Fourth Round Affordable Housing Obligation Calculation Methodology (FY2025)",
+        "url": "https://www.nj.gov/dca/dlps/pdf/FourthRoundCalculation_Methodology.pdf"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025–2035 Fourth Round Affordable Housing Calculations (live spreadsheet)",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      }
+    ],
+    "sites": []
+  },
+  {
+    "municipality": "Fair Lawn",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": 224,
+      "prospective_need": 650,
+      "total_obligation": 874,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.fairlawn.org/index.asp?SEC=8A4E6486-AEC0-45BE-8FAA-6BB50E6FC165"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2025-04-02",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": null,
+      "hefsp_url": "https://www.fairlawn.org/index.asp?SEC=8A4E6486-AEC0-45BE-8FAA-6BB50E6FC165"
+    },
+    "notes": "Fair Lawn Borough has a substantial Fourth Round obligation: Present Need 224 units and Prospective Need 650 units, agreed via a mediation agreement with Fair Share Housing Center dated April 2, 2025 (Program Order March 31, 2025; Superior Court Order April 14, 2025). The borough has an inclusionary zoning ordinance requiring 20% set-aside for-sale and 15% for-rent for developments of 5+ units. One site referenced in search snippets is 'Fair Lawn Avenue' (maximum density 17.65 du/ac, up to 352 total units with 20% affordable set-aside). A Bergen County affordable housing pre-application program was accepting applications for Fair Lawn alongside East Rutherford, Teaneck, Haworth, and Glen Rock as of 2025–2026. The HEFSP PDF document was not located in the NJ Courts library search results (no 'fair-lawn-boro' folder surfaced), suggesting it may be under a different filing name or not yet indexed. Site-level specifics (block/lot, acreage) were not surfaced in search snippets; the full HEFSP PDF must be reviewed for complete site inventory. Research status is in_progress because the adopted HEFSP document was not directly retrieved.",
+    "sources": [
+      {
+        "doc_type": "other",
+        "title": "Fair Lawn Affordable Housing (Borough website)",
+        "url": "https://www.fairlawn.org/index.asp?SEC=8A4E6486-AEC0-45BE-8FAA-6BB50E6FC165"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Chapter 49: Affordable Housing – Borough of Fair Lawn, NJ (eCode360)",
+        "url": "https://ecode360.com/10050604"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025–2035 Fourth Round Affordable Housing Calculations",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Pre-Applications – East Rutherford, Fair Lawn, Teaneck, Haworth & Glen Rock",
+        "url": "https://www.oakland-nj.org/home/news/bergen-county-affordable-housing-pre-applications-now-being-accepted-east-rutherford-fair"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents Index – NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Fair Lawn Avenue Site",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary zoning / set-aside",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": 17.65,
+        "total_units": 352,
+        "affordable_units": null,
+        "set_aside_pct": 20.0,
+        "tenure": "for-sale",
+        "adoption_status": "zoning in place",
+        "developer": null,
+        "source_url": "https://ecode360.com/10050604",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Referenced in Fair Lawn's municipal code (Chapter 49) as an inclusionary site with 20% affordable set-aside for-sale and maximum density 17.65 du/ac up to 352 units. Block/lot, exact address, and affordable unit count not confirmed from available snippets. This appears to be a carried-over site from a prior round plan; unclear if it is the Fourth Round site inventory or an earlier provision."
+      }
+    ]
+  },
+  {
+    "municipality": "Garfield",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 0,
+      "prospective_need": 0,
+      "total_obligation": 0,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/garfield-city/4300.00GarfieldHousingElementMay222025forfiling.pdf"
+    },
+    "compliance": {
+      "status": "plan_adopted",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-05-22",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/garfield-city/4300.00GarfieldHousingElementMay222025forfiling.pdf"
+    },
+    "notes": "Garfield is a fully developed, densely urbanized city (~2.22 sq mi) in southwest Bergen County. Its Fourth Round Housing Element (filed with NJ Courts, May 22, 2025) establishes that the City has zero prospective need obligation. The DCA initially calculated a Present Need (rehabilitation) of 322 units for Garfield, but a May 5, 2025 court order recalculated and found both the rehabilitation obligation and prospective need to be zero. The City adopted a binding resolution on January 21, 2025 accepting the DCA numbers, which were then recalculated to zero by court order. As a fully developed community with predominantly residential, duplex, and multifamily uses and no meaningful vacant or underutilized developable land, there is no basis for inclusionary new-construction sites. Garfield's Garfield Housing Authority manages 456 units of public housing. Zero prospective need = zero inclusionary new-construction sites required in the Fourth Round.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Housing Element City of Garfield Bergen County NJ (NJ Courts library, filed May 22, 2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/garfield-city/4300.00GarfieldHousingElementMay222025forfiling.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents Index – NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025–2035 Fourth Round Affordable Housing Calculations",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "City of Garfield NJ – 2025 Master Plan Reexamination Report",
+        "url": "https://www.garfieldnj.org/_Content/pdf/forms/Final-Garfield-Limited-Re-Exam-Report-09-12-25.pdf"
+      }
+    ],
+    "sites": []
+  },
+  {
+    "municipality": "Lodi",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": null,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": null,
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": null,
+      "hefsp_adopted_date": null,
+      "hefsp_url": null
+    },
+    "notes": "No Fourth Round HEFSP document for Lodi Borough was found in the NJ Courts library search results (no 'lodi-boro' folder surfaced in library.njcourts.gov/civil/affordable-housing/bergen/ searches). The Borough of Lodi's own website (lodi-nj.org) and planning board page were identified but do not reference a publicly posted HEFSP. Lodi is a densely urbanized borough in Bergen County (approximately 2.1 sq mi), functionally fully developed, similar to Garfield and Cliffside Park. Given its urban character, it is plausible that Lodi is also a QUAM or has very low/zero prospective need, but this could not be confirmed from available web search snippets. The DCA FY2025 urban aid list includes 62 municipalities; whether Lodi qualifies as a QUAM cannot be confirmed without the DCA Excel spreadsheet data. Research status is in_progress: the HEFSP document was not located via web search, and the DCA calculation spreadsheet data for Lodi was not surfaced. Next steps: directly review the NJ Courts Bergen County affordable housing directory and the DCA Excel spreadsheet.",
+    "sources": [
+      {
+        "doc_type": "other",
+        "title": "Borough of Lodi – Home",
+        "url": "https://www.lodi-nj.org/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Lodi – Planning Board",
+        "url": "https://www.lodi-nj.org/p/planning-board"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025–2035 Fourth Round Affordable Housing Calculations",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA Fourth Round Affordable Housing Obligation Calculation Methodology",
+        "url": "https://www.nj.gov/dca/dlps/pdf/FourthRoundCalculation_Methodology.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents Index – NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      }
+    ],
+    "sites": []
+  }
+]

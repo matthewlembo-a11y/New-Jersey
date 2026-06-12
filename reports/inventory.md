@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T03:27:15+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T03:35:20+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -568,6 +568,14 @@ _Obligation: 237 · Compliance: settled · HEFSP: adopted 2025-06-30_
 | 380 Mount Pleasant Avenue (AR-2 Zone) | 380 Mount Pleasant Avenue, Wallington, NJ 07057 | 70.01 | 78 |  | inclusionary-rezoning |  | 275 | 48 | 18.0% | rental | adopted-ordinance | medium | [doc](https://ecode360.com/WA1327/laws/LF1334595.pdf) |
 | Spring Street Residences (35 Spring Street) | 35 Spring Street, Wallington, NJ 07057 | 70.05 | 8.01 | 1.5 | 100pct-affordable |  | 8 | 8 | 100.0% | rental | built | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV) |
 | Morningside / New Wallington Homes Site (Block 71) |  | 71 | 35 |  | inclusionary-rezoning |  |  |  |  |  |  | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV) |
+
+## Washington Township (Township)
+
+_Compliance: compliant_with_objections_settled · HEFSP: adopted 2025-06-20_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Inclusionary Zoning Program (general) |  |  |  |  | inclusionary zoning |  |  |  |  |  | adopted | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/washington-twp/LtrtoJudgePadovanoResolutionandHousingElementandFairSharePlan.pdf?VersionId=fnXQu6RImeih_rK7dUp1cNj11hhwaKYA) |
 
 ## Westwood (Borough)
 

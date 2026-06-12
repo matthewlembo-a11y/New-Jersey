@@ -1,0 +1,249 @@
+[
+  {
+    "municipality": "Lyndhurst",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": null,
+      "total_obligation": 366,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://patch.com/new-jersey/across-nj/16-nj-towns-affordable-housing-plans-challenged-see-where-they-are"
+    },
+    "compliance": {
+      "status": "challenged",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted_challenged",
+      "hefsp_adopted_date": null,
+      "hefsp_url": null
+    },
+    "notes": "Lyndhurst Township is one of 16 NJ municipalities whose Fourth Round Housing Element and Fair Share Plan was challenged by Fair Share Housing Center (FSHC) ahead of the August 31, 2025 deadline. It is one of six Bergen County towns challenged (along with Franklin Lakes, Montvale, North Arlington, Park Ridge, and Saddle River). A total fourth-round obligation of 366 units was reported in search snippets, but the breakdown between present need and prospective need was not confirmed from an official source. FSHC sought revocation of Lyndhurst's immunity from builders' remedy lawsuits. Per state law, municipalities had until December 31, 2025 to settle any challenge, with expedited court proceedings available in early 2026. As of June 2026 the settlement outcome and any adopted revised HEFSP could not be confirmed from available web sources. No HEFSP document for Lyndhurst was found on library.njcourts.gov Bergen County page. No specific prospective-need sites were identified in search results. Status remains in_progress pending confirmation of settlement or revised plan.",
+    "sources": [
+      {
+        "doc_type": "news",
+        "title": "These NJ Towns Could Lose Affordable Housing Immunity: See Where",
+        "url": "https://patch.com/new-jersey/across-nj/16-nj-towns-affordable-housing-plans-challenged-see-where-they-are"
+      },
+      {
+        "doc_type": "other",
+        "title": "Housing Plan Challenge Deadline: Many of NJ's Largest Suburbs Adopt Strongest Plans Ever, While A Small Few Attempt to Flaunt Law - Fair Share Housing Center",
+        "url": "https://www.fairsharehousing.org/press-release/housing-plan-challenge-deadline-many-of-njs-largest-suburbs-adopt-strongest-plans-ever-while-a-small-few-attempt-to-flaunt-law/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents | NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      }
+    ],
+    "sites": []
+  },
+  {
+    "municipality": "Moonachie",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": null,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": null
+    },
+    "compliance": {
+      "status": "implementing",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "ordinances_adopted",
+      "hefsp_adopted_date": "2026-04-23",
+      "hefsp_url": null
+    },
+    "notes": "Moonachie Borough adopted implementing ordinances for its Fourth Round affordable housing obligations in April 2026. Ordinance #2026-2 and Ordinance #2026-4 were both finally adopted on April 23, 2026 at the Municipal Building, 70 Moonachie Road. Ordinance #2026-3 was introduced in early 2026. The content of these ordinances (sites, zoning changes, unit counts) was not available in web search snippets. No HEFSP document for Moonachie was found on the NJ Courts library Bergen County document page (library.njcourts.gov). Moonachie is a small industrial Meadowlands borough; its specific present need and prospective need obligation numbers from the DCA Fourth Round calculations could not be confirmed from available sources. The existence of multiple adopting ordinances indicates a HEFSP was adopted prior to April 2026, consistent with the state's June 30, 2025 adoption deadline and March 15, 2026 implementing ordinance deadline. No specific prospective-need sites were identified.",
+    "sources": [
+      {
+        "doc_type": "ordinance",
+        "title": "Adoption of Ordinance #2026-4 - Moonachie, NJ",
+        "url": "https://www.moonachie.us/m/newsflash/Home/Detail/30"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Adoption of Ordinance #2026-2 - Moonachie, NJ",
+        "url": "https://www.moonachie.us/CivicAlerts.aspx?AID=32"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Introduction of Ordinance #2026-3 - Moonachie, NJ",
+        "url": "https://www.moonachie.us/CivicAlerts.aspx?AID=22"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents | NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      }
+    ],
+    "sites": []
+  },
+  {
+    "municipality": "Northvale",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": null,
+      "total_obligation": 112,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": "challenged_or_litigating",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "unknown",
+      "hefsp_adopted_date": null,
+      "hefsp_url": null
+    },
+    "notes": "Northvale Borough's Fourth Round obligation was reported in a search snippet as 112 units (total), attributed to DCA Fourth Round calculations (confidence low — not confirmed from the DCA spreadsheet directly). Northvale is in the Pascack Valley area; all eight Pascack Valley towns received Vacant Land Adjustments (VLAs) reducing their formal obligations. Under NJ law, any town receiving a VLA must identify and rezone parcels for at least 25% of the adjusted obligation. Most Pascack Valley towns faced NJBA (NJ Builders Association) lawsuits challenging how they reduced their obligations, with FSHC also separately challenging some towns. Northvale is not listed among the 16 FSHC-challenged towns. No HEFSP document for Northvale was found on the NJ Courts library Bergen County page. Northvale has a multiple-family housing district and an affordable housing regulations chapter in its code (eCode360). Specific sites, unit counts, and VLA-adjusted obligation breakdown could not be confirmed. eCode360 references an existing affordable housing regulations chapter (ecode360.com/36614120) which may reflect the Fourth Round ordinance but content not accessible.",
+    "sources": [
+      {
+        "doc_type": "DCA",
+        "title": "2025 to 2035 Affordable Housing Calculations - NJ DCA",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "news",
+        "title": "Valley towns face lawsuits after Fourth Round filings - Pascack Press",
+        "url": "https://thepressgroup.net/valley-towns-face-lawsuits-after-fourth-round-filings/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Fast track or detour? Pascack Valley towns diverge on affordable housing plans - Pascack Press",
+        "url": "https://thepressgroup.net/fast-track-or-detour-pascack-valley-towns-diverge-on-affordable-housing-plans/"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Borough of Northvale, NJ: Affordable Housing Regulations - eCode360",
+        "url": "https://ecode360.com/36614120"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents | NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      }
+    ],
+    "sites": []
+  },
+  {
+    "municipality": "Teterboro",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 0,
+      "prospective_need": null,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://ecode360.com/33122451"
+    },
+    "compliance": {
+      "status": "compliant",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-24",
+      "hefsp_url": "https://www.teterboronj.org/news-announcements/336-adopted-resolution-relating-to-fourth-round-affordable-housing-obligations"
+    },
+    "notes": "Teterboro Borough's Planning Board adopted a Resolution on June 24, 2025 relating to its Fourth Round Affordable Housing Obligations. Teterboro has a ZERO rehabilitation (present need) obligation as confirmed by both Fair Share Housing Center and Econsult Solutions, Inc. — the Borough's retained consultant — because there are no substandard housing units requiring rehabilitation. This is consistent with Teterboro's unique character: the Borough is dominated almost entirely by Teterboro Airport (approximately 827 acres of the total land area), leaving virtually no residential land. Teterboro is one of three NJ municipalities (with Walpack Township and Tavistock Borough) that did not have 2018-22 Median Household Income estimates available for the DCA's Fourth Round calculations, indicating an extremely sparse residential population. The Borough's eCode360 code has an affordable housing chapter (ecode360.com/33122451) and requires all future residential developments of 5+ units to provide a minimum 20% affordable set-aside. Affordable units must be constructed on-site due to the Borough's unique land-use patterns. The prospective need obligation total could not be confirmed from web search snippets. No prospective-need development sites were found because there is essentially no developable residential land in the Borough. No FSHC challenge was identified. The adopted resolution and Fair Share Element are posted on the Borough's website.",
+    "sources": [
+      {
+        "doc_type": "other",
+        "title": "Teterboro NJ - Adopted Resolution Relating to Fourth Round Affordable Housing Obligations",
+        "url": "https://www.teterboronj.org/news-announcements/336-adopted-resolution-relating-to-fourth-round-affordable-housing-obligations"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Borough of Teterboro, NJ Affordable Housing - eCode360",
+        "url": "https://ecode360.com/33122451"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "Affordable Housing Obligations for 2025-2035 (Fourth Round) - NJ DCA Methodology",
+        "url": "https://www.nj.gov/dca/dlps/pdf/FourthRoundCalculation_Methodology.pdf"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "2025 to 2035 Affordable Housing Calculations - NJ DCA",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      }
+    ],
+    "sites": []
+  },
+  {
+    "municipality": "Washington Township",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 40,
+      "prospective_need": 334,
+      "total_obligation": null,
+      "rdp": 11,
+      "unmet_need": 74,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/washington-twp/LtrtoJudgePadovanoResolutionandHousingElementandFairSharePlan.pdf?VersionId=fnXQu6RImeih_rK7dUp1cNj11hhwaKYA"
+    },
+    "compliance": {
+      "status": "compliant_with_objections_settled",
+      "settlement_party": "NJ Builders Association and Fair Share Housing Center",
+      "settlement_date": "2025-05-30",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-20",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/washington-twp/LtrtoJudgePadovanoResolutionandHousingElementandFairSharePlan.pdf?VersionId=fnXQu6RImeih_rK7dUp1cNj11hhwaKYA"
+    },
+    "notes": "Washington Township (Bergen County, zip 07676, near Westwood) adopted a binding resolution for Fourth Round obligations on January 21, 2025. The rehabilitation obligation is 40 units; the Fourth Round prospective need obligation is reported as 334 units in one source and 362 units in another (both low confidence as drawn from search snippets of the HEFSP PDF, not a direct verified table). The Township was assigned a 1st-and-2nd-Round obligation of 85 units with an RDP of 11 units, leaving an unmet need of 74 units. On May 30, 2025 the court established the Township's rehabilitation and fourth-round obligations of 40 and 334 respectively. The Township's submission received objections from both the NJ Builders Association and FSHC; the Township settled with both parties on the fourth-round obligation. A Fourth Round HEFSP was adopted and filed with the court on approximately June 20, 2025, addressed to Judge Padovano in Bergen County Superior Court. A separate copy of the HEFSP is on the Township's own website (cms2.revize.com). Prior rounds: Township has a history of FSHC Settlement Agreement for Third Round. The 362-unit figure appeared in one snippet referencing prospective need addressed through inclusionary zoning; the 334-unit figure appeared in a different snippet citing the court-established obligation — the discrepancy may reflect a VLA or plan revision. Specific site names, block/lot, and unit breakdowns were NOT found in web search snippets and are not included to avoid fabrication.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "2025 Housing Element & Fair Share Plan - Washington Township Bergen County (NJ Courts Library)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/washington-twp/LtrtoJudgePadovanoResolutionandHousingElementandFairSharePlan.pdf?VersionId=fnXQu6RImeih_rK7dUp1cNj11hhwaKYA"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Fourth Round Housing Element and Fair Share Plan - Washington Township (Municipal Website)",
+        "url": "https://cms2.revize.com/revize/washingtontownshipnj/Clerk/Washington%20Township%20-%20Fourth%20Round%20HEFSP_sealed9.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Affordable Housing Info - The Township of Washington",
+        "url": "https://www.twpofwashington.us/page/affordable-housing-info"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "2025 to 2035 Affordable Housing Calculations - NJ DCA",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents | NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Inclusionary Zoning Program (general)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary zoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/washington-twp/LtrtoJudgePadovanoResolutionandHousingElementandFairSharePlan.pdf?VersionId=fnXQu6RImeih_rK7dUp1cNj11hhwaKYA",
+        "source_date": "2025-06-20",
+        "confidence": "low",
+        "notes": "The HEFSP references that the 362/334-unit prospective need obligation will be addressed through inclusionary zoning (per search snippet). No individual sites with block/lot or address were identified in web search results. Specific site inventory is within the HEFSP PDF which was not fetched (network-blocked). Confidence is low because the only confirmation is a paraphrased search snippet, not a direct quote from the document."
+      }
+    ]
+  }
+]
