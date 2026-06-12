@@ -1,0 +1,482 @@
+[
+  {
+    "municipality": "Washington Township",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": null,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/washington-twp/LtrtoJudgePadovanoResolutionandHousingElementandFairSharePlan.pdf?VersionId=fnXQu6RImeih_rK7dUp1cNj11hhwaKYA"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-20",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/washington-twp/LtrtoJudgePadovanoResolutionandHousingElementandFairSharePlan.pdf?VersionId=fnXQu6RImeih_rK7dUp1cNj11hhwaKYA"
+    },
+    "notes": "This is Washington Township in Bergen County (zip 07676, near Westwood/Hillsdale) — NOT Warren, Morris, Gloucester, or Mercer County. The HEFSP was filed with Bergen County Superior Court Judge Padovano on or around June 20, 2025. Prior-round 1st-and-2nd Round obligation was 85 units with RDP of 11 units. One search snippet referenced a 362-unit Prospective Need for this township, but this could not be independently confirmed from official source snippets — setting to null per accuracy rules. A second document appears at cms2.revize.com/revize/washingtontownshipnj which is the Bergen County township's own municipal website. Specific site block/lot data not recoverable from search snippets. Settlement details (date, intervenor) not confirmed in snippets.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "2025 Housing Element & Fair Share Plan — Washington Township Bergen County (Letter to Judge Padovano)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/washington-twp/LtrtoJudgePadovanoResolutionandHousingElementandFairSharePlan.pdf?VersionId=fnXQu6RImeih_rK7dUp1cNj11hhwaKYA"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Fourth Round Housing Element and Fair Share Plan — Washington Township (municipal website)",
+        "url": "https://cms2.revize.com/revize/washingtontownshipnj/Clerk/Washington%20Township%20-%20Fourth%20Round%20HEFSP_sealed9.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents — NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      },
+      {
+        "doc_type": "other",
+        "title": "Fair Share Obligation Info — Township of Washington (Bergen County official site)",
+        "url": "https://www.twpofwashington.us/blog/news-alerts/affordable-housing-plan-summary"
+      }
+    ],
+    "sites": []
+  },
+  {
+    "municipality": "Westwood",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": 19,
+      "prospective_need": 235,
+      "total_obligation": 254,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.westwoodnj.gov/392/Affordable-Housing"
+    },
+    "compliance": {
+      "status": "conditionally-compliant / litigating",
+      "settlement_party": "Fair Share Housing Center; Legacy Development Group (intervenor)",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": null,
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/westwood-boro/FinalHousingElementandFairSharePlanPart1.pdf?VersionId=.SHGAiHtu3A71l_RBa_IpCzAJu2E0ckB"
+    },
+    "notes": "Fourth Round prospective need is 235 units; present need (rehabilitation) referenced as 19 units in search snippet from westwoodnj.gov/392/Affordable-Housing. HEFSP was submitted on time by June 30, 2025. Plan was challenged by Fair Share Housing Center and Legacy Development Group (a developer with interest in Broadway properties). An administrative judge ruled conditionally compliant with recommended adjustments to overlay zones. As of search date (June 2026), the ruling is subject to final Superior Court review — status best characterized as conditionally compliant / pending final adjudication. Ordinances 25-15 and 25-17 adopted June 3, 2025; Ordinance 25-29 adopted December 16, 2025. Exact HEFSP adoption date not confirmed in snippets. The 19 present need figure is from municipal website snippet — confidence low. RW-RM overlay zone covers Block 2001 Lot 62; Block 2003 Lot 2; Block 2210 Lots 1 and 3.01.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Housing Element and Fair Share Plan — Westwood Borough (NJ Courts library)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/westwood-boro/FinalHousingElementandFairSharePlanPart1.pdf?VersionId=.SHGAiHtu3A71l_RBa_IpCzAJu2E0ckB"
+      },
+      {
+        "doc_type": "other",
+        "title": "Affordable Housing — Borough of Westwood Official Page",
+        "url": "https://www.westwoodnj.gov/392/Affordable-Housing"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Article XXV: Affordable Housing — Borough of Westwood (eCode360)",
+        "url": "https://ecode360.com/33942011"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents — NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "RW-RM Overlay — Block 2001 Lot 62",
+        "address": null,
+        "block": "2001",
+        "lot": "62",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": "RW (Retail/Wholesale)",
+        "proposed_zoning": "RW-RM (Retail/Wholesale — Residential Multifamily Affordable Housing Overlay)",
+        "density": 20,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/33942011",
+        "source_date": "2025-06-03",
+        "confidence": "medium",
+        "notes": "Ordinance 25-17 adopted June 3, 2025. Set-aside is 20% for-sale or 15% rental per zoning code. Density 20 du/acre, max 38 ft / 3 stories."
+      },
+      {
+        "site_name": "RW-RM Overlay — Block 2003 Lot 2",
+        "address": null,
+        "block": "2003",
+        "lot": "2",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": "RW (Retail/Wholesale)",
+        "proposed_zoning": "RW-RM (Retail/Wholesale — Residential Multifamily Affordable Housing Overlay)",
+        "density": 20,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/33942011",
+        "source_date": "2025-06-03",
+        "confidence": "medium",
+        "notes": "Same RW-RM overlay; Ordinance 25-17 June 3, 2025."
+      },
+      {
+        "site_name": "RW-RM Overlay — Block 2210 Lots 1 and 3.01",
+        "address": null,
+        "block": "2210",
+        "lot": "1; 3.01",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": "RW (Retail/Wholesale)",
+        "proposed_zoning": "RW-RM (Retail/Wholesale — Residential Multifamily Affordable Housing Overlay)",
+        "density": 20,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/33942011",
+        "source_date": "2025-06-03",
+        "confidence": "medium",
+        "notes": "Same RW-RM overlay; Ordinance 25-17 June 3, 2025. Two lots combined in one overlay district."
+      }
+    ]
+  },
+  {
+    "municipality": "Wood-Ridge",
+    "research_status": "done",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": 338,
+      "total_obligation": null,
+      "rdp": 0,
+      "unmet_need": 130,
+      "source_url": "https://www.njwoodridge.org/_Content/pdf/Wood-Ridge-HEFSP-FINAL-ADOPTED-June-3-2025.pdf"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2008-01-01",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-03",
+      "hefsp_url": "https://www.njwoodridge.org/_Content/pdf/Wood-Ridge-HEFSP-FINAL-ADOPTED-June-3-2025.pdf"
+    },
+    "notes": "Cumulative prospective need is 338 units. Wood-Ridge has RDP of zero (essentially fully built-out, almost no vacant land). Borough has 193 prior-round affordable housing credits (inclusive of bonus credits) which can offset the Fourth Round unmet need, leaving 130 units of unmet need (338 minus 193 credits = 145, but snippet states 130 — using 130 as stated). Resolution accepting DCA obligations adopted January 15, 2025. HEFSP adopted June 3, 2025 by Planning Board. The 2008 FSHC settlement is for the Curtiss-Wright / Wesmont Station redevelopment (Phase I: 500 market rate + 80 affordable). Present need rehabilitation obligation not found in snippets — setting to null. Borough's main site is the ongoing Wesmont Station redevelopment. New fourth-round sites not enumerated in available snippets. Settlement date of 2008 is for the Wesmont Station agreement; fourth-round compliance is via the 2025 HEFSP submission. Mandatory set-aside for new multifamily development is 20% for sale / 15% rental per HEFSP.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Borough of Wood-Ridge Master Plan Housing Element and Fair Share Plan — Adopted June 3, 2025",
+        "url": "https://www.njwoodridge.org/_Content/pdf/Wood-Ridge-HEFSP-FINAL-ADOPTED-June-3-2025.pdf"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Borough of Wood-Ridge HEFSP — Mirror URL (woodridgenj.gov)",
+        "url": "https://www.woodridgenj.gov/_Content/pdf/Wood-Ridge-HEFSP-FINAL-ADOPTED-June-3-2025.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "NJ Courts — Bergen County Affordable Housing Documents",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      },
+      {
+        "doc_type": "news",
+        "title": "Wesmont Station Redevelopment in Wood-Ridge — The Ridgewood Blog",
+        "url": "https://theridgewoodblog.net/wesmont-station-redevelopment-in-wood-ridge-47-5m-in-state-funds-a-revived-borough-and-ongoing-questions/"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Wesmont Station / Curtiss-Wright Redevelopment — Affordable Housing Phase I",
+        "address": "Johnson Drive / Wesmont Drive, Wood-Ridge, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 500,
+        "affordable_units": 80,
+        "set_aside_pct": 14,
+        "tenure": "rental",
+        "adoption_status": "built",
+        "developer": "Wood-Ridge Redevelopment LLC / Somerset Development",
+        "source_url": "https://www.njwoodridge.org/_Content/pdf/Wood-Ridge-HEFSP-FINAL-ADOPTED-June-3-2025.pdf",
+        "source_date": "2025-06-03",
+        "confidence": "medium",
+        "notes": "2008 FSHC settlement governs this site. Phase I of Wesmont Station: 500 market-rate + 80 affordable units. Of 80 affordable: 73 credited to Third Round, 7 to Second Round. All affordable units within 0.5-mile radius of NJ Transit Wesmont Station. Rosera Wesmont (JCMLiving) completed construction June 2025. Block/lot not confirmed in snippets."
+      }
+    ]
+  },
+  {
+    "municipality": "Woodcliff Lake",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 0,
+      "prospective_need": 360,
+      "total_obligation": 360,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/woodcliff-lake-boro/WCL001WoodcliffLakeCoverLetterHEFSP2025.06.255354001.1.pdf?VersionId=tTsNgqCVQscMgfQS_kYtqk5eS5JFa3xM"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center; SIG 100 Tice LLC (intervenor)",
+      "settlement_date": "2025-12-18",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-24",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/woodcliff-lake-boro/WCL001WoodcliffLakeCoverLetterHEFSP2025.06.255354001.1.pdf?VersionId=tTsNgqCVQscMgfQS_kYtqk5eS5JFa3xM"
+    },
+    "notes": "Original DCA assignment was 423-unit prospective need — highest in Pascack Valley. Court Order dated May 13, 2025 set Present Need = 0, Prospective Need = 360. HEFSP adopted and endorsed at Joint Land Use Board and Council meeting June 24, 2025; filed June 25, 2025 (Docket BER-L-740-25). Borough council voted 6-0 on December 18, 2025 to approve mediated settlement with FSHC and SIG 100 Tice LLC for 91-unit mixed-use project (18 affordable age-restricted apartments + 73 market-rate townhouses) at former Party City HQ (100 Tice Blvd, Block 301 Lot 3.05). Settlement folded into First Amendment to HEFSP, adopted by Land Use Board March 24, 2026. Ordinance 26-04 created AHO4 overlay on Block 301 Lot 3.05; Ordinance 26-08 amended that overlay. SIG 100 Tice LLC contributing $300,000 to affordable housing trust fund. North Broadway site (Block 2602, Lots 1/2/9) is a 100% affordable 24-unit family rental project. VFW site (Block 25, Lot 1) has AH-VO Veterans overlay for 8-12 units. 188 Broadway site has 46 units with 8 affordable per prior third-round settlement.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Woodcliff Lake HEFSP Cover Letter to Court — June 25, 2025 (NJ Courts library)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/woodcliff-lake-boro/WCL001WoodcliffLakeCoverLetterHEFSP2025.06.255354001.1.pdf?VersionId=tTsNgqCVQscMgfQS_kYtqk5eS5JFa3xM"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Ordinance No. 26-04 — Creating Affordable Housing Overlay 4 Zone (100 Tice / Block 301 Lot 3.05)",
+        "url": "https://wclnj.com/add-public-notice/mayor-and-council-notices/1171-introduced-ordinance-no-26-04-creating-affordable-housing-overlay-4-zone-100-tice/file"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Ordinance No. 26-08 — 100 Tice Overlay Zone Amendment",
+        "url": "https://wclnj.com/add-public-notice/mayor-and-council-notices/1195-ordinance-no-26-08-100-tice-overlay-zone-amendment-publication/file"
+      },
+      {
+        "doc_type": "settlement",
+        "title": "Land Use Board Resolution of Action — First Amendment to Fourth Round HEFSP (March 24, 2026)",
+        "url": "https://wclnj.com/add-public-notice/land-use-board-notices/1201-03-24-2026-resolution-of-action-first-amendment-to-fourth-round-housing-element-fair-share-plan/file"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Woodcliff Lake — Affordable Housing page",
+        "url": "https://wclnj.com/resident/affordable-housing"
+      },
+      {
+        "doc_type": "news",
+        "title": "Former Party City site deal: 91 units including 18 affordable age-55+ apartments — Pascack Press",
+        "url": "https://thepressgroup.net/former-party-city-site-deal-on-housing-91-units-including-18-affordable-age-55-plus-apartments/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Fast track or detour? Pascack Valley towns diverge on affordable housing plans — Pascack Press",
+        "url": "https://thepressgroup.net/fast-track-or-detour-pascack-valley-towns-diverge-on-affordable-housing-plans/"
+      },
+      {
+        "doc_type": "other",
+        "title": "North Broadway Affordable Housing Zone — Woodcliff Lake",
+        "url": "https://wclnj.com/meetings/meeting-documents/affordable-housing-compliance-hearing/819-north-broadway-affordable-housing-zone/file"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "100 Tice Boulevard — Former Party City HQ (AHO4 Overlay)",
+        "address": "100 Tice Boulevard, Woodcliff Lake, NJ 07677",
+        "block": "301",
+        "lot": "3.05",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "AHO4 (Affordable Housing Overlay 4 Zone)",
+        "density": null,
+        "total_units": 91,
+        "affordable_units": 18,
+        "set_aside_pct": 20,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": "SIG 100 Tice LLC",
+        "source_url": "https://thepressgroup.net/former-party-city-site-deal-on-housing-91-units-including-18-affordable-age-55-plus-apartments/",
+        "source_date": "2025-12-18",
+        "confidence": "medium",
+        "notes": "Mediated settlement approved Dec 18, 2025. 91 total units: 18 affordable age-restricted (age 55+) rental apartments + 73 market-rate age-targeted townhouses + 20,000 sq ft commercial. Ordinance 26-04 (creating AHO4) and Ordinance 26-08 (amending AHO4). Developer also contributing $300,000 to borough affordable housing trust fund. Site plan application expected to Land Use Board in 2026."
+      },
+      {
+        "site_name": "North Broadway / 230 Broadway — 100% Affordable Family Rental",
+        "address": "230 North Broadway, Woodcliff Lake, NJ",
+        "block": "2602",
+        "lot": "1; 2; 9",
+        "acreage": 2.6,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 24,
+        "affordable_units": 24,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "Bergen County United Way (BCUW)",
+        "source_url": "https://wclnj.com/meetings/meeting-documents/affordable-housing-compliance-hearing/819-north-broadway-affordable-housing-zone/file",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Borough housing trust fund purchasing three lots (Block 2602 Lots 1, 2, 9) totaling ~2.6 acres on Broadway north of Highview Avenue (near 15 Highview Ave). 100% affordable family rental, 24 units. Steep slopes limit buildable area to ~1.15 acres. BCUW is developer per amended 2022 settlement with FSHC. Borough reserving $94,250 for construction."
+      },
+      {
+        "site_name": "VFW Site — Veterans Affordable Housing Overlay (AH-VO)",
+        "address": "North Broadway (north of Woodcliff Avenue), Woodcliff Lake, NJ",
+        "block": "25",
+        "lot": "1",
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": "R-22.5",
+        "proposed_zoning": "AH-VO (Veterans Affordable Housing Overlay District)",
+        "density": null,
+        "total_units": null,
+        "affordable_units": 8,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://wclnj.com/meetings/meeting-documents/affordable-housing-compliance-hearing/838-amendment-to-housing-element-fair-share-woodcliff-lake-07-03-2023/file",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Ordinance 18-10 created AH-VO in 2018. Intent: 8 family rental units for veterans and their families. Parties acknowledge 12 affordable units originally designated may not be feasible; borough obligated for initial feasibility investigation only. Former VFW hall site."
+      },
+      {
+        "site_name": "188 Broadway — Residential Redevelopment (Prior Settlement)",
+        "address": "188 Broadway, Woodcliff Lake, NJ 07677",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 46,
+        "affordable_units": 8,
+        "set_aside_pct": 17,
+        "tenure": "mixed",
+        "adoption_status": "approved",
+        "developer": "188 Broadway LP",
+        "source_url": "https://thepressgroup.net/its-settled-46-housing-units-at-188-broadway/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "46 units total: 37 rental (long-term PILOT) + 9 townhouse (5-year abatement). 8 affordable units required; however per settlement the 8 affordable units are being built at the North Broadway site instead. Resolution of prior zoning board denials and federal court litigation. Block/lot not confirmed in search snippets."
+      }
+    ]
+  },
+  {
+    "municipality": "Wyckoff",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 40,
+      "prospective_need": 334,
+      "total_obligation": 374,
+      "rdp": 46,
+      "unmet_need": null,
+      "source_url": "https://www.wyckoffnj.gov/sites/g/files/vyhlif12106/f/pages/june_2025_housing_element_fair_share_plan.pdf"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center; New Jersey Builders Association",
+      "settlement_date": "2025-12-22",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-25",
+      "hefsp_url": "https://www.wyckoffnj.gov/sites/g/files/vyhlif12106/f/pages/june_2025_housing_element_fair_share_plan.pdf"
+    },
+    "notes": "Court Order of May 30, 2025 (Hon. Lina P. Corriston, J.S.C.) established rehabilitation obligation of 40 and Fourth Round prospective need of 334. Township Resolution 2025-82 committed to these obligations. HEFSP originally adopted June 25, 2025; submitted to State Affordable Housing Dispute Resolution Program. Plan challenged by both FSHC and New Jersey Builders Association (NJBA). Mediation Agreement with FSHC signed December 22, 2025, requiring amendment to plan (change of 6 dwelling units). Planning Board voted on ordinances 2066-2074 for consistency review March 11, 2026. Ordinance 2064 repealed and replaced Chapter 77 (Affordable Housing). Township uses 7 overlay zones plus mandatory set-aside ordinance to meet 93-affordable-unit target (25% of 334 prospective need = 84 required; plan yields 93). Abma Farm tract (still active family farm) has had inclusionary zoning since 1990s but remains undeveloped. RDP of 46 units cited in prior-round context. Block 259 Lots 1 and 2 (Franklin Avenue) has overlay via Ordinance 1896 for ~22 total / 3 affordable rental units at 12 du/acre with 15% set-aside.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "2025 Fourth Round Housing Plan Housing Element & Fair Share Plan — Wyckoff Township (June 25, 2025)",
+        "url": "https://www.wyckoffnj.gov/sites/g/files/vyhlif12106/f/pages/june_2025_housing_element_fair_share_plan.pdf"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Ordinance 2064 — Repeal/Replace Chapter 77 Affordable Housing, Township of Wyckoff",
+        "url": "https://www.wyckoffnj.gov/sites/g/files/vyhlif12106/f/pages/2064_ordinance_only.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Affordable Housing Compliance — wyckoffnj.gov",
+        "url": "https://www.wyckoffnj.gov/municipal-records/pages/affordable-housing-compliance"
+      },
+      {
+        "doc_type": "other",
+        "title": "Wyckoff Planning Board March 11, 2026 Meeting Minutes",
+        "url": "https://www.wyckoffnj.gov/sites/g/files/vyhlif12106/f/minutes/planning_board_minutes_-_march_11_2026.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Affordable Housing — wyckoffnj.gov",
+        "url": "https://www.wyckoffnj.gov/affordable-housing"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Block 259 Lots 1 and 2 — Franklin Avenue Inclusionary Overlay",
+        "address": "Franklin Avenue, Wyckoff, NJ 07481",
+        "block": "259",
+        "lot": "1; 2",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "Affordable Housing Zoning Overlay Zone (Ordinance 1896)",
+        "density": 12,
+        "total_units": 22,
+        "affordable_units": 3,
+        "set_aside_pct": 15,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.wyckoffnj.gov/sites/g/files/vyhlif12106/f/pages/june_2025_housing_element_fair_share_plan.pdf",
+        "source_date": "2025-06-25",
+        "confidence": "medium",
+        "notes": "Established by Ordinance 1896. Density up to 12 du/acre; first-floor retail required, residential on upper levels only. At 15% rental set-aside: ~22 total units, ~3 affordable rental. Block 259 Lot 2 is on Franklin Avenue. This site also included in 2018 FSHC Settlement Agreement and 2021 Final Judgment of Repose. Also incorporated in June 2025 HEFSP."
+      },
+      {
+        "site_name": "Block 216 — Overlay Zone (Ordinances 1897 and 1898)",
+        "address": null,
+        "block": "216",
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "Affordable Housing Zoning Overlay Zone",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.wyckoffnj.gov/sites/g/files/vyhlif12106/f/pages/june_2025_housing_element_fair_share_plan.pdf",
+        "source_date": "2025-06-25",
+        "confidence": "low",
+        "notes": "Block 216 is referenced with Ordinances 1897 and 1898 establishing overlay zone. Specific lots, unit counts, and set-aside percentage not confirmed in search snippets."
+      },
+      {
+        "site_name": "Abma Farm Tract — Existing Inclusionary Zone (undeveloped)",
+        "address": "Abma's Farm, Wyckoff, NJ 07481",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.wyckoffnj.gov/sites/g/files/vyhlif12106/f/pages/june_2025_housing_element_fair_share_plan.pdf",
+        "source_date": "2025-06-25",
+        "confidence": "low",
+        "notes": "Abma Farm has had inclusionary residential zoning since the 1990s but remains an active family farm / commercial recreation operation and has never developed. Township does not expect near-term development. Constitutes part of the prior-round satisfaction gap. Block/lot not confirmed in snippets."
+      }
+    ]
+  }
+]

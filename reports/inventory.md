@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T03:25:18+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T03:25:56+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -518,4 +518,43 @@ _Obligation: 237 · Compliance: settled · HEFSP: adopted 2025-06-30_
 | 380 Mount Pleasant Avenue (AR-2 Zone) | 380 Mount Pleasant Avenue, Wallington, NJ 07057 | 70.01 | 78 |  | inclusionary-rezoning |  | 275 | 48 | 18.0% | rental | adopted-ordinance | medium | [doc](https://ecode360.com/WA1327/laws/LF1334595.pdf) |
 | Spring Street Residences (35 Spring Street) | 35 Spring Street, Wallington, NJ 07057 | 70.05 | 8.01 | 1.5 | 100pct-affordable |  | 8 | 8 | 100.0% | rental | built | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV) |
 | Morningside / New Wallington Homes Site (Block 71) |  | 71 | 35 |  | inclusionary-rezoning |  |  |  |  |  |  | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/wallington-boro/WallingtonHousingElement4thRoundAdoptedR4170.1020250630.pdf?VersionId=bhpODaWHmNFPaLGtSINO_C6x7ro62vFV) |
+
+## Westwood (Borough)
+
+_Obligation: 254 · Compliance: conditionally-compliant / litigating · HEFSP: adopted_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| RW-RM Overlay — Block 2001 Lot 62 |  | 2001 | 62 |  | overlay | 20.0 |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/33942011) |
+| RW-RM Overlay — Block 2003 Lot 2 |  | 2003 | 2 |  | overlay | 20.0 |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/33942011) |
+| RW-RM Overlay — Block 2210 Lots 1 and 3.01 |  | 2210 | 1; 3.01 |  | overlay | 20.0 |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/33942011) |
+
+## Wood-Ridge (Borough)
+
+_Compliance: settled · HEFSP: adopted 2025-06-03_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Wesmont Station / Curtiss-Wright Redevelopment — Affordable Housing Phase I | Johnson Drive / Wesmont Drive, Wood-Ridge, NJ |  |  |  | redevelopment-area |  | 500 | 80 | 14.0% | rental | built | medium | [doc](https://www.njwoodridge.org/_Content/pdf/Wood-Ridge-HEFSP-FINAL-ADOPTED-June-3-2025.pdf) |
+
+## Woodcliff Lake (Borough)
+
+_Obligation: 360 · Compliance: settled · HEFSP: adopted 2025-06-24_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 188 Broadway — Residential Redevelopment (Prior Settlement) | 188 Broadway, Woodcliff Lake, NJ 07677 |  |  |  | redevelopment-area |  | 46 | 8 | 17.0% | mixed | approved | low | [doc](https://thepressgroup.net/its-settled-46-housing-units-at-188-broadway/) |
+| VFW Site — Veterans Affordable Housing Overlay (AH-VO) | North Broadway (north of Woodcliff Avenue), Woodcliff Lake, NJ | 25 | 1 |  | 100pct-affordable |  |  | 8 | 100.0% | rental | adopted-ordinance | low | [doc](https://wclnj.com/meetings/meeting-documents/affordable-housing-compliance-hearing/838-amendment-to-housing-element-fair-share-woodcliff-lake-07-03-2023/file) |
+| North Broadway / 230 Broadway — 100% Affordable Family Rental | 230 North Broadway, Woodcliff Lake, NJ | 2602 | 1; 2; 9 | 2.6 | 100pct-affordable |  | 24 | 24 | 100.0% | rental | approved | medium | [doc](https://wclnj.com/meetings/meeting-documents/affordable-housing-compliance-hearing/819-north-broadway-affordable-housing-zone/file) |
+| 100 Tice Boulevard — Former Party City HQ (AHO4 Overlay) | 100 Tice Boulevard, Woodcliff Lake, NJ 07677 | 301 | 3.05 |  | overlay |  | 91 | 18 | 20.0% | rental | adopted-ordinance | medium | [doc](https://thepressgroup.net/former-party-city-site-deal-on-housing-91-units-including-18-affordable-age-55-plus-apartments/) |
+
+## Wyckoff (Township)
+
+_Obligation: 374 · Compliance: settled · HEFSP: adopted 2025-06-25_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Abma Farm Tract — Existing Inclusionary Zone (undeveloped) | Abma's Farm, Wyckoff, NJ 07481 |  |  |  | inclusionary-rezoning |  |  |  |  |  | adopted-ordinance | low | [doc](https://www.wyckoffnj.gov/sites/g/files/vyhlif12106/f/pages/june_2025_housing_element_fair_share_plan.pdf) |
+| Block 216 — Overlay Zone (Ordinances 1897 and 1898) |  | 216 |  |  | overlay |  |  |  |  |  | adopted-ordinance | low | [doc](https://www.wyckoffnj.gov/sites/g/files/vyhlif12106/f/pages/june_2025_housing_element_fair_share_plan.pdf) |
+| Block 259 Lots 1 and 2 — Franklin Avenue Inclusionary Overlay | Franklin Avenue, Wyckoff, NJ 07481 | 259 | 1; 2 |  | overlay | 12.0 | 22 | 3 | 15.0% | rental | adopted-ordinance | medium | [doc](https://www.wyckoffnj.gov/sites/g/files/vyhlif12106/f/pages/june_2025_housing_element_fair_share_plan.pdf) |
 

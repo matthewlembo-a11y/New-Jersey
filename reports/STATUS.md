@@ -1,9 +1,9 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T03:25:18+00:00_
+_Generated 2026-06-12T03:25:56+00:00_
 
-- Municipalities: **70/70**  (done: 34, in_progress: 24, blocked: 2, not_started: 10)
-- Sites catalogued: **158**
+- Municipalities: **70/70**  (done: 37, in_progress: 26, blocked: 2, not_started: 5)
+- Sites catalogued: **169**
 
 | # | Municipality | Status | Sites | Oblig. | Compliance | HEFSP | Last researched |
 |---|---|---|---|---|---|---|---|
@@ -72,8 +72,8 @@ _Generated 2026-06-12T03:25:18+00:00_
 | 63 | Upper Saddle River | done | 4 |  | settled | adopted | 2026-06-12T03:24:18+00:00 |
 | 64 | Waldwick | done | 4 | 183 | settled | adopted | 2026-06-12T03:24:18+00:00 |
 | 65 | Wallington | done | 3 | 237 | settled | adopted | 2026-06-12T03:24:18+00:00 |
-| 66 | Washington Township | not_started | 0 |  |  |  |  |
-| 67 | Westwood | not_started | 0 |  |  |  |  |
-| 68 | Wood-Ridge | not_started | 0 |  |  |  |  |
-| 69 | Woodcliff Lake | not_started | 0 |  |  |  |  |
-| 70 | Wyckoff | not_started | 0 |  |  |  |  |
+| 66 | Washington Township | in_progress | 0 |  | settled | adopted | 2026-06-12T03:25:50+00:00 |
+| 67 | Westwood | in_progress | 3 | 254 | conditionally-compliant / litigating | adopted | 2026-06-12T03:25:50+00:00 |
+| 68 | Wood-Ridge | done | 1 |  | settled | adopted | 2026-06-12T03:25:50+00:00 |
+| 69 | Woodcliff Lake | done | 4 | 360 | settled | adopted | 2026-06-12T03:25:50+00:00 |
+| 70 | Wyckoff | done | 3 | 374 | settled | adopted | 2026-06-12T03:25:51+00:00 |
