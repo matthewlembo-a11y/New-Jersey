@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T12:20:48+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T12:22:31+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -196,23 +196,23 @@ _Obligation: 477 · Compliance: pending · HEFSP: not-yet-filed (only resolution
 
 ## Fairview (Borough)
 
-_Obligation: 117 · Compliance: settled · HEFSP: adopted 2025-06-23_
+_Obligation: 408 · Compliance: settled · HEFSP: adopted 2025-06-23_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Existing 100% Affordable Municipal Site (3rd Round expansion) |  |  |  |  | 100pct-affordable |  |  | 4 | 100.0% | rental | proposed | low | [doc](https://fairviewborough.com/all-public-notices/ordinance-intro-passage/393-introduced-ordinance-26-05-repeal-and-replace-affordable-housing-provisions/file) |
-| Affordable Housing Overlay Zones (existing, density increase) |  |  |  |  | overlay |  |  |  | 20.0% |  | adopted-ordinance | low | [doc](https://fairviewborough.com/all-public-notices/ordinance-intro-passage/393-introduced-ordinance-26-05-repeal-and-replace-affordable-housing-provisions/file) |
+| 429-439 Fairview Avenue (ZBA Approved Inclusionary) | 429-439 Fairview Avenue, Fairview, NJ | 217 | 12 |  | inclusionary overlay |  | 30 | 5 | 15.0% | rental | ZBA approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/fairview-boro/FinalHEFSPPart1.pdf?VersionId=b01A7bWthzTcUUZmk5cZPLKcF.YBJtKC) |
+| 251-281 Broad Avenue (ZBA Approved Inclusionary) | 251-281 Broad Avenue, Fairview, NJ | 802 | 1-4 |  | inclusionary overlay |  | 112 | 11 | 10.0% | rental | ZBA approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/fairview-boro/FinalHEFSPPart1.pdf?VersionId=b01A7bWthzTcUUZmk5cZPLKcF.YBJtKC) |
 
 ## Fort Lee (Borough)
 
-_Obligation: 601 · Compliance: settled · HEFSP: adopted 2025-06-23_
+_Obligation: 607 · Compliance: settled · HEFSP: adopted 2025-06-23_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Center Lofts / Fort Lee Municipal Building Site (100% affordable + Senior Center) |  |  |  |  | 100pct-affordable |  | 124 | 124 | 100.0% | rental | built | low | [doc](https://www.dmrarchitects.com/projects/residential/center-lofts/) |
-| 2 Executive Drive (100% affordable proposal) | 2 Executive Drive, Fort Lee, NJ |  |  |  | 100pct-affordable |  | 40 | 40 | 100.0% | rental | proposed | low | [doc](https://jerseydigs.com/affordable-housing-complex-proposed-2-executive-drive-fort-lee/) |
-| Lower Main Street Redevelopment Area | 55, 51, 47, 41 Main Street and 1636-1640 Kaufer Lane, Fort Lee, NJ | 4355 | 11, 12, 20, 21, 22, 23 |  | redevelopment-area |  | 203 |  |  | rental | approved | medium | [doc](https://www.fortleenj.org/DocumentCenter/View/6048/Settlement-Agreement-FSHC) |
-| Upper Main Street Redevelopment Area | 90-100 Main Street and vicinity, Fort Lee, NJ | 4355 | 14, 15, 16 |  | redevelopment-area |  | 150 |  |  | rental | approved | medium | [doc](https://www.fortleenj.org/DocumentCenter/View/6048/Settlement-Agreement-FSHC) |
+| 511 Main Street Redevelopment (Family Rental) | 511 Main Street, Fort Lee, NJ | 4454 | 22 |  | redevelopment |  |  | 2 |  | rental | approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/fort-lee-boro/SignedFinalFortLeeFourthroundHousingElementandFairSharePlan62325.pdf?VersionId=oyVwlKT1wB.e5bwRIcuoGAmL7DUTpAl4) |
+| 2130 Center Ave Redevelopment (Family Rental) | 2130 Center Avenue, Fort Lee, NJ | 5952 | 1 |  | redevelopment |  |  |  |  | rental | approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/fort-lee-boro/SignedFinalFortLeeFourthroundHousingElementandFairSharePlan62325.pdf?VersionId=oyVwlKT1wB.e5bwRIcuoGAmL7DUTpAl4) |
+| 1550 Bergen Blvd Redevelopment (Family Rental) | 1550 Bergen Boulevard, Fort Lee, NJ | 6451 | 5.02, 5.03 |  | redevelopment |  |  | 5 |  | rental | approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/fort-lee-boro/SignedFinalFortLeeFourthroundHousingElementandFairSharePlan62325.pdf?VersionId=oyVwlKT1wB.e5bwRIcuoGAmL7DUTpAl4) |
+| 2464 Lemoine Ave Redevelopment (Family Rental) | 2464 Lemoine Avenue, Fort Lee, NJ | 7151 | 4 |  | redevelopment |  |  | 2 |  | rental | approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/fort-lee-boro/SignedFinalFortLeeFourthroundHousingElementandFairSharePlan62325.pdf?VersionId=oyVwlKT1wB.e5bwRIcuoGAmL7DUTpAl4) |
 
 ## Franklin Lakes (Borough)
 
@@ -326,14 +326,21 @@ _Compliance: in_progress · HEFSP: proposed_
 
 ## Mahwah (Township)
 
-_Obligation: 495 · Compliance: settled · HEFSP: adopted 2025-06-23_
+_Obligation: 531 · Compliance: adopted HEFSP; multiple rounds of obligation settled; Fourth Round obligation set by Decision and Order May 13, 2025 · HEFSP: adopted 2025-06-23_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 457 Ridge Road | 457 Ridge Road, Mahwah, NJ 07430 |  |  |  | 100pct-affordable |  |  | 74 |  | rental | approved | low | [doc](https://theridgewoodblog.net/mahwah-slashes-affordable-housing-mandate-from-629-to-just-3-units-in-groundbreaking-new-plan/) |
-| 1 Fyke Road | 1 Fyke Road, Mahwah, NJ |  |  |  | 100pct-affordable |  |  | 5 |  |  | approved | low | [doc](https://theridgewoodblog.net/mahwah-slashes-affordable-housing-mandate-from-629-to-just-3-units-in-groundbreaking-new-plan/) |
-| 70 Island Road – Supportive Housing | 70 Island Road, Mahwah, NJ |  |  |  | 100pct-affordable |  | 15 | 15 |  | rental | approved | low | [doc](https://theridgewoodblog.net/mahwah-slashes-affordable-housing-mandate-from-629-to-just-3-units-in-groundbreaking-new-plan/) |
-| 42 Stag Hill Road – Group Home | 42 Stag Hill Road, Mahwah, NJ |  |  |  | group-home |  |  |  |  | rental | approved | low | [doc](https://theridgewoodblog.net/mahwah-slashes-affordable-housing-mandate-from-629-to-just-3-units-in-groundbreaking-new-plan/) |
+| 70 Island Road | 70 Island Road, Mahwah, NJ |  |  |  | 100% affordable — MF-2 Multi-Family-2 Zone |  |  | 15 | 100.0% | rental | Ordinance 1870 adopted June 27, 2019; under construction | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/mahwah-twp/62325MahwahRoundHEFSPreducedPart1.pdf?VersionId=.KnE7tZfXAAYpCyPcN1PYaEotZimsEZa) |
+| 457 Ridge Road (Crossroads) | 457 Ridge Road, Mahwah, NJ | 139 | 41 |  | inclusionary overlay — MF-3 Multi-Family-3 Overlay District |  | 75 | 74 |  |  | Ordinance 2003 adopted March 20, 2012; Board approval received | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/mahwah-twp/62325MahwahRoundHEFSPreducedPart1.pdf?VersionId=.KnE7tZfXAAYpCyPcN1PYaEotZimsEZa) |
+| 24 Jahn Court (Group Home) | 24 Jahn Court, Mahwah, NJ | 152 | 68.01 |  | community residence / group home |  | 1 | 1 | 100.0% | rental | Under construction (New Concepts for Living) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/mahwah-twp/62325MahwahRoundHEFSPreducedPart1.pdf?VersionId=.KnE7tZfXAAYpCyPcN1PYaEotZimsEZa) |
+| 46 Strong Street (Group Home) | 46 Strong Street, Mahwah, NJ | 167 | 45.02 |  | community residence / group home |  | 1 | 1 | 100.0% | rental | planned (building permits not yet issued) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/mahwah-twp/62325MahwahRoundHEFSPreducedPart1.pdf?VersionId=.KnE7tZfXAAYpCyPcN1PYaEotZimsEZa) |
+| 42 Stag Hill Road (Group Home) | 42 Stag Hill Road, Mahwah, NJ | 2 | 15 |  | community residence / group home |  | 1 | 1 | 100.0% | rental | Board approval received; building permits issued | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/mahwah-twp/62325MahwahRoundHEFSPreducedPart1.pdf?VersionId=.KnE7tZfXAAYpCyPcN1PYaEotZimsEZa) |
+| 1 Fyke Road | 1 Fyke Road, Mahwah, NJ | 21 | 21, 22, 23 |  | inclusionary — MF-1 Multi-Family-1 Zone District |  |  | 25 |  |  | Ordinance 2002 adopted March 20, 2023 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/mahwah-twp/62325MahwahRoundHEFSPreducedPart1.pdf?VersionId=.KnE7tZfXAAYpCyPcN1PYaEotZimsEZa) |
+| 109 Cedar Hill Avenue — Block 70, Lot 37 | 109 Cedar Hill Avenue, Mahwah, NJ | 70 | 37 |  | 100% affordable — redevelopment (Block 70 Redevelopment Plan) |  |  | 6 | 100.0% |  | Redevelopment Plan Ord. 2028 adopted April 22, 2024; Planning Board approval received | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/mahwah-twp/62325MahwahRoundHEFSPreducedPart1.pdf?VersionId=.KnE7tZfXAAYpCyPcN1PYaEotZimsEZa) |
+| 111 Cedar Hill Avenue — Block 70, Lot 38 | 111 Cedar Hill Avenue, Mahwah, NJ | 70 | 38 |  | 100% affordable — redevelopment (Block 70 Redevelopment Plan) |  |  | 1 | 100.0% |  | Redevelopment Plan Ord. 2028 adopted April 22, 2024 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/mahwah-twp/62325MahwahRoundHEFSPreducedPart1.pdf?VersionId=.KnE7tZfXAAYpCyPcN1PYaEotZimsEZa) |
+| 111 Franklin Turnpike — Block 70, Lot 40 | 111 Franklin Turnpike, Mahwah, NJ | 70 | 40 |  | inclusionary — redevelopment (Block 70 Redevelopment Plan) |  |  | 4 |  |  | Redevelopment Plan Ord. 2028 adopted April 22, 2024 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/mahwah-twp/62325MahwahRoundHEFSPreducedPart1.pdf?VersionId=.KnE7tZfXAAYpCyPcN1PYaEotZimsEZa) |
+| Franklin Turnpike Overlay — Block 71 | Franklin Turnpike, Mahwah, NJ | 71 | 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 |  | inclusionary overlay — proposed |  |  |  |  |  | overlay zone creation proposed in HEFSP (only zoning change to map per HEFSP) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/mahwah-twp/62325MahwahRoundHEFSPreducedPart1.pdf?VersionId=.KnE7tZfXAAYpCyPcN1PYaEotZimsEZa) |
+| Block 82 Redevelopment Area | Block 82, Mahwah, NJ | 82 | 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 | 3.786 | redevelopment — inclusionary (14 du/ac) | 14.0 |  | 49 |  |  | Redevelopment Plan Ord. 1985 adopted Oct 27, 2022; amended Ord. 2009 July 17, 2023; amended Ord. 2039 Sept 9, 2024 | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/mahwah-twp/62325MahwahRoundHEFSPreducedPart1.pdf?VersionId=.KnE7tZfXAAYpCyPcN1PYaEotZimsEZa) |
 
 ## Maywood (Borough)
 

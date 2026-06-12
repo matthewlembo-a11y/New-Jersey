@@ -1,0 +1,3870 @@
+
+===== PAGE 1 =====
+Housing Element 
+& Fair Share Plan
+Borough of River Edge 
+Bergen County, New Jersey
+June 12, 2025 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 1 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 2 =====
+Community Planning
+Principals:
+Land Development and Design
+Joseph H. Burgis PP, AICP
+Landscape Architecture
+Edward Snieckus, Jr. PP, LLA, ASLA
+David Novak PP, AICP
+b a
+B
+U
+R
+G
+I
+S
+A S S O C I A T E S,
+I N C.
+HOUSING ELEMENT & FAIR SHARE PLAN
+BOROUGH OF RIVER EDGE
+BERGEN COUNTY, NEW JERSEY
+PREPARED FOR: 
+BOROUGH OF RIVER EDGE LAND USE BOARD
+BA# 4163.10
+The original document was appropriately signed and sealed on June 12, 2025 in accordance with Chapter 41 of Title 13 
+of the State Board of Professional Planners.
+________________________________
+Thomas Behrens, Jr., P.P., AICP
+Professional Planner #6323
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 2 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 3 =====
+MEMBERS OF THE BOROUGH OF RIVER EDGE LAND USE BOARD
+Christopher Caslin, Chairman 
+Michael Krey, Vice Chairman 
+Thomas Papaleo, Mayor 
+David Glass, Councilman 
+Eileen Boland 
+Dario Chinigo 
+Bruce Feffer 
+Joseph Gautier 
+Ryan Gibbons 
+Jorge Salva, Alternate No. 1 
+LAND USE BOARD CLERK
+Edwin Alter 
+BOROUGH ADMINISTRATOR 
+Lissette Aportela 
+PLANNING BOARD ATTORNEY 
+Marina Stinely, Esq. 
+Cleary Giacobbe Alfieri Jacobs, LLC 
+AFFORDABLE HOUSING ATTORNEY
+Edward Buzak, Esq. & Keli Gallo, Esq. 
+Surenian, Edwards, Buzak & Nolan, LLC
+BOROUGH ENGINEER
+Robert Costa, P.E., P.P, C.M.E. 
+Costa Engineering Corporation 
+BOROUGH LAND ZONING OFFICER 
+Stephen Depken 
+BOROUGH PLANNER 
+Tom Behrens, Jr., P.P., A.I.C.P. 
+Burgis Associates, Inc. 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 3 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 4 =====
+Contents
+Executive Summary .................................................................................................................................................................................................. 1
+Section 1: Introduction ................................................................................................................................................... 5
+1.1 
+Defining Affordable Housing ................................................................................................................................................................... 5
+1.2
+History of Affordable Housing in New Jersey ................................................................................................................................... 6
+1.3
+Housing Element and Fair Share Plan Requirements ..................................................................................................................... 8
+Section 2: Housing Element..........................................................................................................................................10
+2.1
+Community Overview ............................................................................................................................................................................... 10
+2.2
+Data Sources ................................................................................................................................................................................................ 14
+2.3 
+Inventory of Municipal Housing Stock ............................................................................................................................................... 15
+2.4 
+Projection of Municipal Housing Stock ............................................................................................................................................. 21
+2.5 
+Population Analysis .................................................................................................................................................................................... 22
+2.6 
+Employment Characteristics ................................................................................................................................................................... 25
+2.7 
+Employment Projections .......................................................................................................................................................................... 27
+Section 3: Fair Share Obligation ...................................................................................................................................29
+3.1 
+Summary of Fair Share Obligation ...................................................................................................................................................... 29
+3.2 
+Realistic Development Potential (RDP) .............................................................................................................................................. 30
+Section 4: Fair Share Plan ..............................................................................................................................................32
+4.1 
+General Provisions ...................................................................................................................................................................................... 32
+4.2 
+Plan Components ....................................................................................................................................................................................... 33
+4.3 
+Development Sites & Plan Mechanisms ........................................................................................................................................... 35
+4.4 
+Site Suitability .............................................................................................................................................................................................. 41
+4.5 
+Rejected Development Sites .................................................................................................................................................................. 45
+4.6 
+Crediting Documentation & Ongoing Compliance ...................................................................................................................... 45
+4.7 
+Consistency with State Planning Initiatives ...................................................................................................................................... 45
+Appendix........................................................................................................................................................................47
+4th Round Complaint for Declaratory Relief Pursuant to AOC Directive #14-24 .............................................................................. 
+Resolution No. 25-73 Determining Fourth Round Obligation .................................................................................................................. 
+Court Order Fixing Fourth Round Obligation .................................................................................................................................................. 
+Fourth Round Vacant Land Analysis (VLA) ........................................................................................................................................................ 
+2019 (Third Round) Settlement Agreement with Fair Share Housing Center ..................................................................................... 
+Third Round Final Judgment of Compliance and Repose ........................................................................................................................... 
+NJHMFA UHAC 2025 Affordable Housing Regional Income Limits by Household Size ................................................................. 
+Structural Conditions Survey ................................................................................................................................................................................... 
+Draft Spending Plan ................................................................................................................................................................................................... 
+Draft Ordinance Amending Mandatory Affordable Housing Set-Aside Ordinance ......................................................................... 
+Resolution Adopting Ord. No. 20-10 Creating AH-1 New Bridge Landing Affordable Housing Overlay Zone .................... 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 4 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 5 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+1
+Executive Summary
+The Borough of River Edge’s 2025 Housing Element and Fair Share Plan (“HE&FSP”) of the Master Plan has been 
+prepared to address the manner in which the Borough will fulfill its Fourth Round affordable housing obligations in 
+accordance with P.L. 2024, c.2. commonly referred to as the “Fair Housing Act 2” or “2024 Fair Housing Act 
+Amendments”.  As detailed herein, the Borough’s Fourth Round and Prior Round affordable housing obligations are 
+derived from several sources.  These sources include the regulatory provisions of the Council on Affordable Housing 
+(“COAH”), prior settlement agreement with Fair Share Housing Center (“FSHC”) for the Third Round, Prior Court-
+approved Judgments of Compliance and Repose, and the recent legislation establishing a new Fourth Round Process 
+and associated housing need calculations prepared by the Department of Community Affairs (“DCA’). 
+The Borough’s affordable housing obligations are summarized as follows: 
+TABLE 1 – RIVER EDGE AFFORDABLE HOUSING OBLIGATIONS SUMMARY 
+Round
+Obligation 
+RDP 
+Unmet Need 
+Present Need (Rehabilitation) Obligation 
+7 (1)
+-
+-
+First & Second Round Obligation (1987-1999) 
+73 
+-
+-
+Third Round Obligation (1999 – 2025)
+197
+0 (2)
+197 
+Fourth Round Obligation (2025 – 2035)
+159 
+0 (3)
+159 
+(1)
+Present Need as adjusted through completion of Structural Conditions/Windshield Survey.
+(2)
+As established through Court-approved VLA.
+(3)
+As established through Fourth Round VLA.
+The Borough of River Edge has adopted several HE&FSPs to address its affordable housing obligations through the first 
+three rounds of the published affordable housing obligations.  These are described below.   
+Prior (First, Second & Third) Round Obligation 
+The Borough’s June 24, 2019 Settlement Agreement with Fair Share Housing Center (“FSHC”) established the 
+municipality’s Prior Round Obligation of 73 units, Third Round Prospective Need Obligation of 197 units and Present 
+Need (Rehabilitation) Obligation of 32 units.  The Borough adopted its Third Round HE&FSP on February 6, 2020 that 
+was later supplemented via an Amendment to the 2020 HE&FSP: Site Suitability Analysis dated September 24, 2020 
+that detailed the manner in which River Edge addressed its Prior and Third Round obligations.  The Borough’s Court-
+approved 2020 HE&FSP included a Vacant Land Analysis (“VLA”) which calculated a realistic development potential 
+(“RDP”) of 0 units resulting in an Unmet Need (difference between Prospective Need Obligation and RDP) of 197 units.  
+In addition, the Borough conducted a structural conditions/windshield survey in accordance with N.J.A.C. 5:93-5.2 which 
+adjusted its Present Need Obligation from 32 units to 6 units.  The Borough received a Third Round Judgement of 
+Compliance and Repose (Third Round “JOR”) from Judge Padovano on March 4, 2021 (see appendix) extending the 
+Borough’s immunity from exclusionary zoning litigation through July 8, 2025. 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 5 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 6 =====
+2
+2
+The Borough satisfied its combined First and Second Round Obligation of 73 units in full with several plan mechanisms, 
+including senior affordable housing at the Senior Residence at St. Peter the Apostle, group homes and two 
+redevelopment plans as summarized in the table below.  All Court-approved plan mechanisms satisfying the Borough’s 
+73-unit combined Prior Round Obligation are developed or adopted, as applicable.
+TABLE 2 – RIVER EDGE PLAN MECHANISMS TO ADDRESS PRIOR ROUND OBLIGATION 
+Plan Mechanisms
+# Units
+Bonus
+Credits
+Total
+Credits
+Status
+Prior Cycle Credits (Pre-1986)
+Senior Residence at St. Peter the Apostle Church (23 total units)
+18
+-
+-
+Completed
+Group Homes
+New Concepts for Living, 11 June Ct. 
+Community Options, 200 Zabriskie Pl. 
+EIHAB Human Services, 328 Valley Rd. 
+5 
+3 
+4 
+- 
+- 
+- 
+5 
+3 
+4 
+Completed 
+Completed 
+Completed
+Redevelopment Plans
+New Bridge Landing Station Redevelopment Area 
+Kinderkamack Road Redevelopment Area
+19 
+5
+19 
+- 
+38 
+5 
+Adopted 
+Adopted 
+Total
+54
+19 (1) 
+73 
+- 
+(1)
+COAH regulations permit a maximum number of bonus credits not to exceed 25% of RDP.
+Fourth Round Obligation 
+Governor Murphy signed the A-40/S-50 Bill into law on March 20, 2024 after the Senate and Assembly adopted it. This 
+legislation (FHA-2) amended the Fair Housing Act (FHA or the Act) by abolishing COAH and created a new process that 
+involved the creation of an entity known as the Affordable Housing Dispute Resolution Program (“The Program”), which 
+is overseen by seven retired Mount Laurel judges.  The Program has taken the place of the trial courts and COAH 
+regarding the approval process involving municipal HE&FSPs.  The DCA and the Administrative Office of the Courts 
+(AOC) are both also involved in assisting the Program with this process. 
+FHA-2 directed the DCA to calculate the Present Need (also referred to as the Rehabilitation obligation) 
+and the Prospective Need (also known as the new construction obligation) for 
+based upon the 
+standards set forth in the Act. The DCA in its October 18, 2024 publication “Affordable Housing Obligations for 
+2025-2035 (Fourth Round) Methodology and Background” made public October 18, 2024 issued River Edge a 
+Fourth Round Prospective Need Obligation of 159 units and Present Need (Rehabilitation) Obligation of 3  units.  In 
+accordance with the FHA-2, the DCA report made clear that the obligations generated by the report were advisory 
+only and were non-binding.  Since the DCA report calculations are non-binding, River Edge conducted an analysis to 
+determine the extent to which the DCA calculations could be modified.  The Borough ultimately accepted its DCA 
+assigned Fourth Round Obligations by Resolution No. 25-73, adopted January 23, 2025, that was fixed by the Order 
+of Judge Corriston, dated May 13, 2025.  
+The Borough’s January 2025 Resolution also noted that the Borough reserved the right to seek an adjustment of its 
+Fourth Round Prospective Need number based upon a lack of vacant, developable and suitable land.  In addition, the 
+Borough is eligible to conduct a structural conditions/windshield survey in accordance with N.J.A.C. 5:93-5.2 to assess 
+the extent to which it may adjust its Fourth Round Present Need Obligation. 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 6 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 7 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+3
+Accordingly, the Borough conducted a Fourth Round VLA which concluded that the Borough has a Fourth Round RDP 
+of 0 units and therefore an Unmet Need (difference between Prospective Need and RDP) of 159 units.  The Borough’s 
+structural conditions survey (see Appendix) modifies its DCA calculated Present Need of 33 units to 7 units. 
+The Borough’s Unmet Need Obligation will be addressed by the several plan mechanisms listed below, including surplus 
+units from the Senior Residence at St. Peter the Apostle Church, New Bridge Crossing inclusionary development senior 
+units, Multifamily and Senior Conditional Use District, overlay zone and mandatory affordable set-aside ordinance as 
+summarized in the table below.  The Borough will also continue to consider emergent opportunities to create new 
+affordable housing in appropriate locations consistent with the Borough’s Master Plan and Zoning Ordinance. 
+TABLE 3 – RIVER EDGE PLAN MECHANISMS TO ADDRESS UNMET NEED
+Plan Mechanisms
+# Units
+Status
+Senior Residence at St. Peter the Apostle Church (23 total units)
+5
+Completed
+New Bridge Crossing Inclusionary Development (69 total units)
+7
+Completed
+Multifamily and Senior Conditional Use District 
+ 
+Adopted
+AH-1 New Bridge Road Affordable Housing Overlay Zone
+ 
+Adopted
+Mandatory Affordable Set-Aside Ordinance 
+- 
+Adopted
+Development Fee Ordinance 
+Adopted
+Total
+ 
+-
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 7 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 8 =====
+4
+4
+The Borough’s 2025 HE&FSP addressing its Fourth Round affordable housing obligations is divided into the following 
+sections: 
+Section 1: Introduction
+The first section of the 2025 HE&FSP provides an introduction to affordable housing. It summarizes what
+affordable housing is, offers an overview of the history of affordable housing in the state, and explains the role
+of a housing element and fair share plan.
+Section 2: Housing Element
+Section 2 contains the Housing Element for the Borough of River Edge. It offers a community overview of the
+Borough, as well as background information regarding its population, housing, and employment characteristics.
+It also provides projections of the Borough’s housing stock and employment.
+Section 3: Fair Share Obligation
+Next, Section 3 provides an overview of the Borough’s fair share obligation. It includes a brief history of the
+methodologies utilized to calculate affordable housing obligations throughout the state.
+Section 4: Fair Share Plan
+Finally, Section 4 details the manner in which the Borough has addressed its prior First, Second and Third Round
+obligations, how it will address its Fourth Round Prospective Need Obligation, and how same is consistent with
+the FHA, applicable COAH and UHAC regulations, and state planning initiatives.
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 8 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 9 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+5 
+Section 1: Introduction 
+The following section provides an overview of affordable housing in New Jersey, the role of a housing element 
+and fair share plan and the Borough’s previous compliance efforts. 
+1.1 Defining Affordable Housing 
+Affordable housing is income-restricted housing that is available for sale or rent at varying income thresholds generally 
+characterized as very-low (30%), low (50%) and moderate-income (80%) households in relation to the respective 
+housing region’s median income.  New Jersey is divided into six housing regions.  River Edge is located in Region 1 
+which includes Bergen, Hudson, Passaic and Sussex Counties 
+The State’s regional income limits are updated annually with different categories based on income levels and household 
+size.  Table 4 provides a sample of the 2025 regional income limits for Region 1.  For example, a four-person household 
+with a maximum income of $101,760 could qualify for affordable housing in River Edge.  The complete 2025 NJHMFA 
+income table is provided in the Appendix. 
+TABLE 4 – 2025 REGION 1 INCOME LIMITS 
+Income Level 
+2 Person 
+3 Person 
+4 Person 
+5 Person 
+Median (100%)
+$101,800 
+$114,500
+$127,200 
+$137,400
+Moderate (80%) 
+$81,440
+$91,600
+$101,760 
+$109,920
+Low (50%) 
+$50,900
+$57,250
+$63,600 
+$68,700
+Very-Low (30%) 
+$30,540
+$34,350 
+$38,160
+$41,220 
+Source: NJHMFA UHAC 2025 Affordable Housing Regional Income Limits by Household Size effective May 16, 2025. 
+Affordable housing exists in several forms which may be available for sale or rent including 100% affordable 
+developments, deed-restricted accessory apartments, special needs/supportive housing or group homes, assisted living 
+facilities, age-restricted housing and inclusionary development in which a certain percentage of the housing units are 
+reserved for affordable housing while the remaining units are market rate. 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 9 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 10 =====
+6
+6
+1.2 History of Affordable Housing in New Jersey 
+Municipal affordable housing requirements in New Jersey began in 1975 when the New Jersey Supreme Court rendered 
+its ‘Mount Laurel I’ decision which established that every developing municipality in the State has a constitutional 
+obligation to provide a realistic opportunity for the creation of affordable housing.  The Mount Laurel I decision was 
+followed by a series of New Jersey Supreme Court decisions known as the ‘Mount Laurel Doctrine’ and State legislation 
+which provided further clarity regarding municipal housing need calculations, compliance requirements and 
+administrative review.  Most recently, in March 2024, the State Legislature adopted amendments to the Fair Housing 
+Act originally enacted in 1985 to create a new Fourth Round municipal compliance program for the period 2025 to 
+2035. 
+Mount Laurel I In 1975, the New Jersey Supreme Court in its So. Burlington Cty. NAACP v. Township of Mount
+Laurel decision, commonly referred to as ‘Mount Laurel I’, determined that every developing municipality in
+New Jersey has a constitutional obligation to provide a realistic opportunity for the construction its fair share of
+affordable housing.  A ‘realistic opportunity’ means that municipalities cannot have exclusionary zoning that
+prohibits the development of affordable housing.  Municipalities initially disregarded this obligation given the
+decision’s general lack of guidance including regulatory standards, housing need numbers and an agency to
+administer such a program.
+Mount Laurel II The New Jersey Supreme Court’s 1983 decision known as ‘Mount Laurel II’ clarified that all
+municipalities, whether developing or not, have a constitutional obligation to provide for their fair share of
+affordable housing.  The Mount Laurel II decision called upon the State Legislature to enact legislation that
+would shift the responsibility of the courts from having to administer the affordable housing process and
+determine municipal housing need numbers.  The decision also introduced the concept of the ‘builder’s remedy’
+suit whereby developers could challenge municipal zoning to develop affordable housing where municipalities
+did not otherwise meet their fair share obligation.
+Fair Housing Act The State Legislature responded to the Mount Laurel II decision by passing the Fair Housing
+Act in 1985 which established the framework for an administrative affordable housing process and creation of
+the Council on Affordable Housing (COAH), the agency intended to implement the process.  COAH would be
+responsible for assigning municipal fair share housing obligations, reviewing municipal affordable housing plans
+and issuing substantive certification for compliant plans.  A town in receipt of substantive certification would be
+immune from builder’s remedy suits.   
+Mount Laurel III  The New Jersey Supreme Court affirmed the validity of the Fair Housing Act in its 1986 ‘Mount
+Laurel III’ decision.
+First Round The First Round of affordable housing governed by COAH covered the period 1987 to 1993 utilizing
+a “fair shar” methodology.
+Second Round The Second Round of affordable housing spanned from 1993 to 1999 utilizing a “fair share”
+methodology.  
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 10 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 11 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+7 
+Third Round While the First and Second Rounds utilized a ‘fair share’ methodology, COAH utilized a new
+‘growth share’ methodology in preparing the Third Round substantive and procedural rules and affordable
+housing need numbers first adopted in 2004, 5 years after the expiration of the Second Round, intending to
+cover the period from 1999 to 2014.  However, these rules were challenged and ultimately invalidated by the
+Appellate Division in 2007 which directed to adopt revised rules.  COAH adopted its second iteration of the
+Third Round rules in 2008 that were also challenged and again invalidated by the Appellate Division in 2010
+which directed COAH to revert back to the original ‘fair share’ methodology.  This decision was affirmed by the
+New Jersey Supreme Court in 2013.  COAH published its third iteration of Third Round rules in 2014 but failed
+to adopt the regulations in a deadlocked 3-3 vote.
+Mount Laurel IV  In the New Jersey Supreme Court’s 2015 ‘Mount Laurel IV’ decision, the Court decided that
+COAH had become dysfunctional and returned jurisdiction of municipal affordable housing administration to
+the trial courts as had been the arrangement prior to the creation of COAH in 1985.  The decision included
+procedures for municipal participation but did not provide housing need numbers leaving municipalities to
+determine their affordable housing obligations.  Several sets of housing need numbers were prepared by
+various entities which, in most cases, led to individual municipal settlement agreements with Fair Share Housing
+Center and intervening developers.  Municipalities receiving a judgment of compliance and repose (“JOR”) for
+their Third Round plans from the courts received immunity until the end of the Third Round in July 2025.
+Gap Period Decision  On January 18, 2017, the New Jersey Supreme Court ruled that municipalities are
+responsible for affordable housing obligations that accrued during the “gap-period” between 1999 and 2015
+when prior iterations of the Third Round rules were being litigated.
+Fair Housing Act Amendments (A-4/S-50) On March 20, 2024, Governor Murphy signed the A4/S50 Bill into law, which 
+significantly amended the FHA for the 4th Round and beyond (FHA-2”). The amendments to the FHA eliminated COAH, 
+kept superior oversight of the trial courts to ultimately approve municipal HE&FSPs, and created a new entity to act as 
+an intermediary in resolving disputes and reviewing municipal plans known as the Affordable Housing Dispute 
+Resolution Program, commonly referred to as “the Program,” which consists of seven retired Mount Laurel Judges who 
+have the discretion to hire “Special Adjudicators,” which were formerly called Court Master in previous rounds.  FHA-2 
+also involved the DCA and the AOC in the process.    
+The DCA was designated by the FHA-2 as the entity responsible for calculating the state’s regional needs as well as 
+each municipality’s present and prospective fair share obligations pursuant to the methodology set forth in the Jacobson 
+Decision.  However, the FHA-2 makes it clear that these numbers are advisory and non-binding, and that each 
+municipality must set its own obligation number utilizing the same methodology. The Program was tasked to handle 
+any disputes regarding affordable housing obligations and plans, and issuing recommendations to the Superior Court 
+judges, as the Courts were kept in the process to ultimately issue a Compliance Certification formally approving a 
+municipality’s HE&FSP, which would continue immunity from all exclusionary zoning lawsuits until July 30, 2035. 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 11 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 12 =====
+8
+8
+1.3 Housing Element and Fair Share Plan Requirements 
+The Municipal Land Use Law (“MLUL”) (N.J.S.A. 40:55D-1 et seq.) is the enabling legislation for municipal land use and 
+development, planning and zoning for the State of New Jersey.  The MLUL stipulates that municipalities must adopt a 
+master plan containing at least a land use plan element and housing plan element in order to lawfully adopt and enforce 
+a zoning ordinance.  The HE&FSP serves as the blueprint for how a municipality will satisfy its fair share of affordable 
+housing.  Municipalities without an approved HE&FSP are susceptible to a builder’s remedy (exclusionary zoning) lawsuit 
+whereby a prospective developer can file suit to circumvent the municipality’s zoning ordinance and rezone specific 
+property to permit housing development at higher densities and intensities than a municipality would otherwise allow 
+for the provision of a certain percentage of units reserved as affordable.    
+C.52:27D-310, Essential components of municipality’s housing element, of the 2024 Fair Housing Act Amendments sets
+forth the required HE&FSP components as follows:
+a.
+An inventory of the municipality's housing stock by age, condition, purchase or rental value, occupancy
+characteristics, and type, including the number of units affordable to  low- and moderate-income households
+and substandard housing capable of being rehabilitated, and in conducting this inventory the municipality shall
+have access, on a confidential basis for the sole purpose of conducting the inventory, to all necessary property
+tax assessment records and information in the assessor's office, including but not limited to the property record
+cards;
+b.
+A projection of the municipality's housing stock, including the probable future construction of low- and
+moderate-income housing, for the next ten years, taking into account, but not necessarily limited to,
+construction permits issued, approvals of applications for development and probable residential development
+of lands;
+c.
+An analysis of the municipality's demographic characteristics, including but not necessarily limited to, household
+size, income level and age;
+d.
+An analysis of the existing and probable future employment characteristics of the municipality;
+e.
+A determination of the municipality's present and prospective fair share for low- and moderate-income housing
+and its capacity to accommodate its present and prospective housing needs, including its fair share for low- 
+and moderate-income housing, as established pursuant to section 3 of P.L.2024, c.2 (C.52:27D-304.1);
+f.
+A consideration of the lands that are most appropriate for construction of low- and moderate-income housing
+and of the existing structures most appropriate for conversion to, or rehabilitation for, low- and moderate-
+income housing, including a consideration of lands of developers who have expressed a commitment to provide
+low- and moderate-income housing;
+g.
+An analysis of the extent to which municipal ordinances and other local factors advance or detract from the
+goal of preserving multigenerational family continuity as expressed in the recommendations of the
+Multigenerational Family Housing Continuity Commission, adopted pursuant to paragraph (1) of subsection f.
+of section 1 of P.L.2021, c.273 (C.52:27D-329.20);
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 12 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 13 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+9 
+h.
+For a municipality located within the jurisdiction of the Highlands Water Protection and Planning Council,
+established pursuant to section 4 of P.L.2004, c.120 (C.13:20-4), an analysis of compliance of the housing element
+with the Highlands Regional Master Plan of lands in the Highlands Preservation Area, and lands in the Highlands
+Planning Area for Highlands conforming municipalities.  This analysis shall include consideration of the
+municipality’s most recent Highlands Municipal Build Out Report, consideration of opportunities for
+redevelopment of existing developed lands into inclusionary or 100 percent affordable housing, or both, and
+opportunities for 100 percent affordable housing in both the Highlands Planning Area and Highlands
+Preservation Area that are consistent with the Highlands regional master plan; and
+i.
+An analysis of consistency with the State Development and Redevelopment Plan, including water, wastewater,
+stormwater, and multi-modal transportation based on guidance and technical assistance from the State
+Planning Commission.
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 13 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 14 =====
+10
+10
+Section 2: Housing Element 
+This section provides the Housing Element portion of River Edge’s Fourth Round HE&FSP including an overview of the 
+Borough’s existing land use pattern and information pertaining to population, housing and employment characteristics 
+and projections. 
+2.1 Community Overview 
+The Borough of River Edge is approximately 1.9 square miles in area located in central Bergen County bordered 
+by five other municipalities including Oradell to the north, New Milford and Teaneck to the east, Hackensack to 
+the south and Paramus to the west.  River Edge has historically benefitted from its convenient regional access
+including at first its two bridges spanning the Hackensack River at River Edge Road and New Bridge Road (“The 
+Bridge that Saved a Nation” adjacent to the historic Von Steuben House), rail line before the ubiquitous use of the 
+automobile and proximity to Hackensack, a major regional hub.  Later came the expansion and reconfiguration of 
+Route 4 in the 1950’s providing better connectivity to the George Washington Bridge located just over 8 miles to 
+the southeast and surrounding environs which helped facilitate the post-World War II development of a significant 
+portion of the Borough’s existing housing stock up until 1970.   
+In addition, River Edge has frontage on Route 4, is within close proximity to Route 17 and Garden State Parkway 
+and is at the crossroads of several major County roads.  Public transportation options include NJ Transit train 
+service via the Pascack Valley line accessible at both the River Edge and New Bridge Landing train stations and 
+bus service along Kinderkamack Road and Route 4.  
+Other notable features include Bergen County’s Van Saun Park and Van Saun Mill Brook located along the 
+Borough’s western boundary and the tidal Hackensack River along its eastern boundary.  Both waterways 
+contribute to flooding experienced in several areas of the Borough which remains a challenge to existing and 
+future development.   
+The Borough’s land use pattern has remained stable for decades where nonresidential uses are concentrated at 
+the south end of town around the New Bridge Landing train station, along Kinderkamack Road and limited to a 
+few lots on River Edge Road.  The Borough’s single-family neighborhoods are generally developed around its two 
+public elementary schools, including Roosevelt School to the north and Cherry Hill School to the south, as well as 
+River Dell Regional Middle School to the north near the border of Oradell.  In addition, a significant portion of 
+River Edge’s housing stock is comprised of a diversity of housing types, including multifamily, townhouses, age-
+restricted and group homes.  Over 650 existing garden apartments were constructed south of Howland Avenue 
+in the 1950s and several newer townhouse developments were constructed in the north end of town within walking 
+distance to the River Edge train station.  These characteristics of the Borough existing land use pattern are indicative 
+of the Borough’s longstanding tradition of balanced land use planning.  Table 5 below quantifies the existing 
+distribution of land uses in River Edge by land area accompanied by a general community map and existing land 
+use map.  
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 14 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 15 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+11 
+TABLE 5 – RIVER EDGE DISTRIBUTION OF EXISTING LAND USES
+Land Use 
+Sub-
+Category 
+Acres 
+% of 
+Total 
+Acres
+Parcels 
+% of Total 
+Parcels 
+Residential
+Single & 
+Two-Family
+589.0 
+63.41% 
+3,206 
+91.81% 
+Multifamily
+51.9 
+5.59%
+17 
+0.49%
+Commercial
+Commercial
+52.2
+5.62%
+126
+3.61%
+Public/Semi-Public 
+Municipal 
+Property
+44.2 
+4.76% 
+42 
+1.20% 
+Park & Open 
+Space
+102.1
+10.99% 
+22 
+0.63% 
+Public School
+20.6
+2.22%
+3 
+0.09%
+Private 
+School
+7.3 
+0.79% 
+1 
+0.03% 
+Church & 
+Charitable
+13.7 
+1.47% 
+7 
+0.20% 
+Other 
+Vacant 
+26.8
+2.89%
+34 
+0.97%
+Industrial
+5.5 
+0.59%
+7 
+0.20%
+Railroad
+0.4 
+0.04%
+2
+0.06%
+Other Exempt 
+15.2 
+1.64%
+25 
+0.72%
+Totals 
+929
+100.00%
+3,492 
+100.00% 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 15 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 16 =====
+BER-L-000602-25
+06/27/2025 10:31:55 AM
+Pg 16 o0f66
+Trans ID: LCV20251872450
+ad
+>
+es
+zi
+28
+3
+rr©
+ee
+Loa
+ie
+=> S
+Cla eeeie
++
+ace EE esfes
+|
+6 0
+8
+ais
+F
+GATES AVE
+ids!
+:
+Fromm
+a BL Favlantaun
+Fac
+Onn
+Q
+:rT
+\
+tate =
+&
+Santini
+&
+iin L
+iJ
+pitt
+SndNviadom is ue GES
+#
+=
+ts
+Es
+5
+Fittstntitt
+is
+at
+i
+=
+As
+ee
+8
+Fa Se
+5
+Tae omg
+7
+ES
+Feil
+alts
+tig
+BS
+ROT
+alee
+ener
+ara
+Eau
+8
+He | - ad cal
+i
+-
+<
+=
+[pues
+gi
+25
+irn
+ate
+°
+fe aad
+aS
+S.
+AY_TVINANIINOD:
+(
+le op
+=e
+ia
+i lang a
+2ONIAV anne —Jauth =a
+:
+c
+a.
+; HeHUMENSIaneay
+a
+f
+FETGER en oT
+|
+ee
+a
+com
+SHYNosiaw eaeNosiayw '
+=
+a
+[SeoEET
+ee
+Le ees |
+i
+=
+a
+;
+ot
+u40349 ,
+\nia
+>
+A2
+(o eaeae
+2
+h
+33
+Za
+%
+a
+\h
+Parca
+ennNN
+,
+H.
+=
+uy
+a cere ‘a
+“anv Nave
+|
+=
+Sy UNUGH:
+z
+Ae
+\
+.
+ace
+ce
+Y
+oe a
+3Nor\\%
+a
+.
+ai:
+: Ao.Manhio
+eenay
++
+§
+= CEH
+wanyansell
+iB
+q
+2
+S
+r oS
+Ari
+AC
+ANSSAUN-AVE,
+8
+E
+KS
+rs)
+2
+A
+}
+oO =
+c
+(e}
+‘ia stun
+&
+J
+iy,
+§
++
+Werk ae)
+=r bono lL
+\
+>
+&
+ex
+PRINCETON-DR
+Ge 8
+<
+2
+Ea
+oe
+/
+f
+‘
+&
+GE
+BO
+eH IEE
+go
+ALT FELT
+t
+A
+as
+&
+ue
+\
+Z
+Ioana,
+URE
+(
+ay
+oleae Ae a
+NN
+Ls
+ageoca\
+“
+<i
+“ae
+eal
+7g
+orf
+©
+SAS ey
+2 >
+4
+FOC
+arNlll
+irs;
+oT
+eat ae
+;
+el
+Ss
+ty QE
+Ls)
+Yi
+Tt
+
+===== PAGE 17 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+13
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 17 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 18 =====
+14
+14
+2.2 Data Sources 
+The information contained in the Housing Element section of this document was obtained from a variety of publicly 
+available data sources including the U.S. Decennial Census, American Community Survey (“ACS”), New Jersey 
+Department of Health, New Jersey Department of Community Affairs (“DCA”) and New Jersey Department of Labor 
+and Workforce Development. 
+1.
+United States Decennial Census. The US Census is described in Article I, Section 2 of the Constitution of the
+United States, which calls for an enumeration of the people every ten years for the apportionment of seats in
+the House of Representatives. Since the time of the first Census conducted in 1790, it has become the leading
+source of data about the nation’s people and economy. Please note that all incomes reported in the Census
+are adjusted for inflation.
+2.
+American Community Survey.  The American Community Survey is a nationwide ongoing survey conducted
+by the US Census Bureau. The ACS gathers information previously contained only in the long form version of
+the decennial census, such as age, ancestry, educational attainment, income, language proficiency, migration,
+disability, employment, and housing characteristics. It relies upon random sampling to provide ongoing,
+monthly data collection. Please note that all incomes reported in the ACS are adjusted for inflation.
+3.
+New Jersey Department of Health.  The New Jersey Department of Health is a governmental agency of the
+State of New Jersey. The department contains the Office of Vital Statistics and Registry, which gathers data
+regarding births, deaths, marriages, domestic partnerships, and civil unions.
+4.
+New Jersey Department of Health.  The New Jersey Department of Community Affairs is a governmental
+agency of the State of New Jersey. Its function is to provide administrative guidance, financial support, and
+technical assistance to local governments, community development organizations, businesses, and individuals
+to improve the quality of life in New Jersey.
+5.
+New Jersey Department of Labor and Workforce Development.  The New Jersey Department of Labor and
+Workforce Development is a governmental agency of the State of New Jersey. One of its roles is to collect labor
+market information regarding employment and wages throughout the state.
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 18 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 19 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+15 
+2.3 Inventory of Municipal Housing Stock 
+This section of the Housing Element provides an inventory of the Borough’s housing stock as required by the Fair 
+Housing Act as amended in 2024.  The inventory details such housing characteristics as age, condition, purchase/rental 
+value, and occupancy of the Borough’s existing housing stock.  It also details the number of affordable housing units 
+available to low-and-moderate income households and the number of substandard housing units capable of being 
+rehabilitated. 
+It is noted that there may be inconsistencies in some of the data presented herein derived from the various data sources 
+which include estimates that in some cases clearly exhibit margins of error.  However, this information from the U.S. 
+Decennial Census and American Community Survey Estimates prepared by the U.S. Census Bureau is considered among 
+the most reliable and current data available and as such, is utilized in this document to illustrate trends and projections 
+impacting the Borough. 
+1.
+Number of Dwelling Units.  As shown in the table below, the Borough’s housing stock experienced
+significant growth until 1970 after which it continued to grow at a much slower but steady pace.  Since
+2000, the Borough’s housing stock increased an estimated 269 units or 6.3% to its peak in 2023 of 4,479
+units.  This figure is likely overestimated as the Borough’s housing stock did not increase by 142 units from
+2020 to 2023.  It is noted that there has been no recent demolition of any significant housing developments
+other than the replacement of single-family dwellings.
+TABLE 6 - DWELLING UNITS (1940-2023)
+RIVER EDGE, NEW JERSEY 
+Year
+Total
+Dwelling 
+Units
+Numerical 
+Change
+Percentage 
+Change
+1940 
+1,118*
+-
+-
+1950
+2,918*
+1,800
+161.0%
+1960
+3,892*
+974
+33.4%
+1970 
+4,146*
+254
+6.5%
+1980
+4,158**
+12
+0.3%
+1990
+4,161
+3
+0.07%
+2000 
+4,210
+49
+1.2%
+2010
+4,261
+51
+1.2%
+2020 
+4,337
+76
+1.8%
+2023 
+4,479
+142
+3.3%
+Source: US Census Bureau Decennial Census; 2023 American Community Survey 5-Year Estimates. 
+*Figures from 1971 Borough Master Plan.
+**Figure from 1984 Borough Master Plan.
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 19 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 20 =====
+16
+16
+2. Tenure and Occupancy.  The following table provides details regarding the tenure and occupancy of the 
+Borough’s housing stock.  The percentages of owner-occupied and renter-occupied units of the Borough’s 
+housing stock have remained relatively stable since 2000 at about 74.1% and 23.6%, respectively, in 2023.  
+The residential vacancy rate in River Edge has increased from 1.1% in 2000 to 2.3% in 2023.  
+TABLE 7 - HOUSING UNITS BY TENURE AND OCCUPANCY STATUS (2000 - 2023)
+RIVER EDGE, NEW JERSEY 
+Characteristics
+2000
+2010
+2020 
+2023 
+Number
+Percent
+Number
+Percent
+Number
+Percent
+Number
+Percent
+Owner-occupied 
+3,096 
+73.5%
+3,074 
+72.1% 
+3,128 
+72.1% 
+3,320
+74.1%
+Renter-occupied
+1,069
+25.4% 
+1,060 
+24.9%
+991
+22.8% 
+1,057 
+23.6%
+Vacant units 
+45 
+1.1%
+127
+3.0%
+146
+3.4%
+102 
+2.3%
+Total
+4,210
+100.0%
+4,261
+100.0%
+4,337
+100.0%
+4,479
+100.0%
+Source: U.S. Decennial Census; 2023 American Community Survey 5-Year Estimates. 
+2. 
+Housing Characteristics.  The following data provides additional information on the characteristics of the 
+Borough’s housing stock. The Borough’s housing stock is generally comprised of detached single-family 
+dwellings at 73%, attached single-family (townhouses) at 3.0% and multifamily (3 units or more) at 23.9%.  
+These figures have remained stable since at least 2000. 
+TABLE 8 - UNITS IN STRUCTURE (2000-2023) 
+RIVER EDGE, NEW JERSEY 
+Units in 
+Structure
+2000 
+2010 
+2020 
+2023 
+Number
+Number
+Number
+Percent 
+Number
+Percent
+Number 
+Percent
+Single-Family, 
+Detached 
+3,098
+73.6% 
+3,036
+72.1%
+3,129
+73.4% 
+3,261 
+72.8%
+Single-Family, 
+Attached 
+86 
+2.0%
+65
+1.5% 
+101 
+2.4% 
+135 
+3.0%
+2 
+77
+1.8% 
+119 
+2.8% 
+87
+2.0% 
+10
+0.2%
+3 or 4 
+695
+16.5%
+584
+13.9%
+646
+15.2%
+679
+15.2% 
+5 to 9  
+67 
+1.6% 
+164
+3.9% 
+111 
+2.6% 
+118 
+2.6%
+10 to 19 
+53 
+1.3% 
+114 
+2.7% 
+43
+1.0% 
+12
+0.3%
+20 or more 
+134 
+3.2%
+41
+1.0% 
+145
+3.4% 
+249
+5.6%
+Other  
+0
+0.0%
+129 
+3.1% 
+0
+0.0% 
+15
+0.3%
+Total 
+4,210
+100.0% 
+4,211
+100.0%
+4,262 
+100.0%
+4,479 
+100.0% 
+Source: U.S. Decennial Census; 2020 & 2023 American Community Survey 5-Year Estimates. 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 20 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 21 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+17 
+Based on the American Community Survey data provided below, 66.2% of the housing stock consists of 3 and 
+4 bedrooms, while 5.8% has 5 or more bedrooms and 28.3% have 1 or 2 bedrooms. 
+ 
+TABLE 9 - NUMBER OF BEDROOMS IN HOUSING UNITS (2010 AND 2023) 
+River Edge, New Jersey
+Bedrooms
+2010 
+2023 
+Number
+Percent
+Number
+Percent
+0
+0
+0.0%
+0
+0.0% 
+1 
+759 
+18.0%
+797
+17.8%
+2
+554
+13.2%
+471
+10.5%
+3
+1,973
+46.9%
+1,581
+35.3%
+4
+817
+19.4%
+1,370
+30.6%
+5 or more
+108
+2.6%
+260
+5.8%
+Total
+4,211
+100.0% 
+4,479 
+100.0% 
+Source: 2010 & 2023 American Community Survey 5-Year Estimates. 
+ 
+ 
+3. 
+Housing Age. Table 10 indicates that 77% of the Borough’s housing stock was constructed prior to 1970, 
+more than 55 years ago.  While the ACS data indicates there have been 0 new units constructed since 
+2000, this figure appears to be in accurate given the number of dwellings in that period that have been 
+replaced entirely with new dwellings or had “alterations” that were effectively new construction. 
+TABLE 10 - YEAR STRUCTURE BUILT (2023) 
+RIVER EDGE, NJ
+Year Units Built
+Number 
+Percent 
+2020 or later
+0
+0.0%
+2010 to 2019
+199
+4.4%
+2000 to 2009
+208 
+4.6%
+1980 to 1999
+155
+3.5%
+1980 to 1989
+171
+3.8%
+1970 to 1979
+299 
+6.7% 
+1960 to 1969
+546 
+12.2% 
+1950 to 1959
+1,029 
+23.0% 
+1940 to 1949 
+1,109 
+24.8% 
+1939 or earlier 
+763
+17.0% 
+Total 
+4,479
+100.0% 
+Source: 2023 American Community Survey 5-Year Estimates.
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 21 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 22 =====
+18
+18
+4.
+Housing Conditions.  The table below provides the number of occupants per room within occupied housing 
+units. Housing units containing more than one occupant per room are considered overcrowded. The data 
+indicates that 1.2% of units were estimated as overcrowded in 2023 which represents a decrease from 2.8% 
+in 2000. 
+TABLE 11 - OCCUPANTS PER ROOM (2000 - 2023) 
+RIVER EDGE, NJ
+Occupants Per Room
+2000 
+2010
+2023 
+Number
+Percent
+Number
+Percent
+Number
+Percent
+1.00 or less
+4,049
+97.2%
+4,050
+99.5%
+4,326
+98.8%
+1.01 to 1.50 
+70
+1.7%
+22
+0.5%
+0
+0.0%
+1.51 or more
+46
+1.1%
+0
+0.0%
+51
+1.2%
+Total Occupied Units
+4,165 
+100.0% 
+4,072
+100.0%
+4,377
+100.0% 
+Source: U.S. Decennial Census; 2023 American Community Survey 5-Year Estimates. 
+Table 12 presents data regarding the presence of complete plumbing and kitchen facilities and the type of 
+heating equipment used.  The ACS data indicates that in 2023 less than 1% of housing units lacked 
+complete kitchen facilities and none lacked complete plumbing facilities.  0.5% of units used solar heating 
+while another 1.0% reportedly use other non-standard fuel sources. 
+TABLE 12 - EQUIPMENT AND PLUMBING FACILITIES FOR OCCUPIED DWELLING UNITS (2000 - 2023)
+RIVER EDGE, NJ
+Facilities
+2000 
+2010
+2023
+Number 
+Percent 
+Number
+Percent
+Number
+Percent
+Kitchen: 
+With Complete Facilities  
+Lacking Complete Facilities
+4,203 
+7
+99.8% 
+0.2%
+4,072 
+0
+ 
+100.0% 
+0.0%
+4,340 
+37
+99.2% 
+0.8%
+Plumbing: 
+With Complete Facilities  
+Lacking Complete Facilities  
+4,198 
+12
+99.7% 
+0.3% 
+4,065 
+7 
+99.8% 
+0.2%
+4,377 
+0
+100.0% 
+0.0%
+Heating Equipment: 
+Standard Heating Facilities  
+Solar 
+Other Means, No Fuel Used 
+4,125 
+0 
+40 
+98.0% 
+0.0% 
+2.0% 
+4,034 
+0 
+15
+ 
+99.6% 
+0.0% 
+0.4% 
+4,315 
+18 
+4 
+98.5% 
+0.5% 
+1.0% 
+Source: U.S. Decennial Census; 2010 & 2023 American Community Survey 5-Year Estimates. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 22 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 23 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+19 
+3.
+Purchase and Rental Values.  The Borough’s median gross housing rent has increased about 86.9% since
+2000.  In 2023, 87.5% of renter-occupied housing units had monthly rents of $1,500 or more, where 27.1%
+were $2,000 or more per month.  In 2010, only 28.6% had rents of $1,500 or more.
+TABLE 13 - GROSS RENT OF SPECIFIED RENTER-OCCUPIED UNITS (2000 - 2023)
+RIVER EDGE, NJ
+Rent 
+2000
+2010
+2023
+Number 
+Percent
+Number 
+Percent 
+Number 
+Percent
+Less than $500
+14 
+1.3% 
+14 
+1.5%
+53 
+5.0%
+$500 to $999
+600
+56.1%
+34
+3.6%
+7
+0.7%
+$1,000 to $1,499
+338
+31.6%
+622
+66.2%
+72
+6.8%
+$1,500 to $1,999
+79 (1)
+7.4%
+269 (1)
+28.6%
+638
+60.4%
+$2,000 to $2,499
+-
+-
+-
+-
+236
+22.3%
+$2,500 to $2,999 
+- 
+- 
+-
+-
+28 
+2.6%
+$3,000 or more
+- 
+- 
+-
+-
+23 
+2.2%
+No cash rent 
+39 
+2.6% 
+25 
+0
+0.0%
+Total
+1,070 
+100.0%
+964 
+2.6%
+1,057 
+100.0%
+Median Gross Rent 
+$969
+$1,378 
+$1,811
+Source: U.S. Decennial Census; 2023 American Community Survey 5-Year Estimates. 
+(1)
+Represents $1,500 or more per 2000 Decennial Census categorizations.
+In 2023, 83% of the Borough’s owner-occupied housing was valued at $500,000 or more where 8.2% was 
+estimated at $1,000,000 or more.  The Borough’s median home value increased 153% from 2000 to 2023. 
+TABLE 14 - VALUE OF SPECIFIED OWNER-OCCUPIED HOUSING UNITS (2000 – 2023) 
+RIVER EDGE, NJ
+Value
+2000 
+2010
+2023
+Number 
+Percent
+Number 
+Percent 
+Number 
+Percent
+Less than $50,000
+6 
+0.2%
+9 
+0.3%
+0 
+0.0%
+$50,000 to $99,999
+6
+0.2%
+48
+1.5%
+8
+0.2%
+$100,000 to $149,999
+40
+1.3%
+14 
+0.5%
+0 
+0.0%
+$150,000 to $199,999
+429 
+14.4%
+25 
+0.8%
+0 
+0.0%
+$200,000 to $299,999
+1,917 
+64.2%
+127
+4.1% 
+17
+0.5%
+$300,000 to $499,999 
+566 
+18.9%
+1,578 
+50.8% 
+538 
+16.2%
+$500,000 to $999,999
+24
+0.8%
+1,307 
+42.1% 
+2,484
+74.8%
+$1,000,000 or more
+0 
+0.0%
+0 
+0.0%
+273
+8.2%
+Total
+2,988 
+100.0% 
+3,108 
+100.0% 
+3,320 
+100.0%
+Median Value
+$251,600
+$478,100
+$637,500
+Source: U.S. Decennial Census; 2023 American Community Survey 5-Year Estimates. 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 23 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 24 =====
+20
+20
+6. Number of Units Affordable to Low- and Moderate-Income Households. River Edge is placed in housing 
+Region 1 comprised of Bergen, Hudson, Passaic and Sussex Counties.  Based on the New Jersey Housing 
+and Mortgage and Finance Agency’s May 16, 2025 update of its UHAC 2025 Affordable Housing Regional 
+Income Limits by Household Size, the median income for a four-person household in Region 1 is $127,200.  A 
+four-person moderate-income household earning 80% of the region’s median income would have an income 
+not to exceed $101,760. 
+ 
+An affordable sales price for a four-bedroom moderate-income household earning 80% of the median income 
+is estimated at $335,000.  In 2023, the percentage of housing units in River Edge valued at less than $500,000 
+was estimated to be 16.9 and 0.7% for homes $300,000 and less.   
+For renter-occupied housing, an affordable monthly rent for a four-person moderate-income household 
+is estimated at approximately $2,544. An affordable monthly rent for a four-person low-income household 
+is estimated at approximately $1,590.  The 2023 American Community Survey data indicates River Edge’s 
+median gross housing rent was $1,811.   
+ 
+7. Substandard Housing Capable of Being Rehabilitated. The DCA’s October 18, 2024 of “Affordable Housing 
+Obligations for 2025-2035 (Fourth Round) Methodology and Background” calculated Present Need 
+obligations representing the number of units in a municipality that are in need of rehabilitation and are not 
+likely to experience ‘spontaneous rehabilitation’.  This DCA report assigned River Edge a Fourth Round 
+Present Need or Rehabilitation Obligation of 32 units which has been adjusted to 7 units through the 
+Borough’s structural conditions/windshield survey.  The Borough will address its Present Need Obligation 
+by continuing to collaborate with the Bergen County Home Improvement Program or administer its own 
+rehabilitation program to the extent that such is necessary to address its Fourth Round Present Need 
+Obligation. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 24 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 25 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+21 
+2.4 Projection of Municipal Housing Stock 
+The FHA-2 regulations require the HE&FSP to include a projection of the community’s housing stock, including the 
+probable future construction of low and moderate-income housing for the ten-year round, which for the Fourth Round 
+is from 2025 to 2035.  This projection shall be based upon an assessment of data which minimally must include the 
+number of residential construction permits issued, approvals of applications for residential development, and probable 
+residential development of lands. Each of these items are identified and outlined below. 
+1.
+Housing Units Constructed During the Last Ten Years.  The table below provides data concerning residential
+building permits issued for new residential construction during the past 10 years. During this period, a total
+of 86 residential building permits were issued including 68 for multifamily development.  River Edge has
+issued, on average, 8.6 building permits for new housing construction per year since 2014.  A total of 34
+residential demolition permits were issued since 2014 resulting in net housing growth of 52 units.
+TABLE 15 - NUMBER OF RESIDENTIAL BUILDING PERMITS ISSUED FOR NEW CONSTRUCTION (2009-2023) 
+RIVER EDGE, NJ
+Year Issued
+One & Two
+Family
+Multi-
+Family 
+Mixed-
+Use 
+Total 
+Demos
+Net 
+Growth
+2014
+5
+0
+0
+5
+3
+2
+2015
+2
+0
+1
+3
+0
+3
+2016
+0
+0
+0
+0
+11 
+(11)
+2017 
+5
+68
+0
+73
+12
+61
+2018
+2
+0
+0
+2
+1
+1
+2019
+0
+0
+0
+0
+0
+0
+2020 
+0
+0
+0
+0
+1
+(1)
+2021
+1
+0
+0
+1
+1
+0
+2022 
+1
+0
+0
+1
+3
+(2)
+2023
+1
+0
+0
+1
+2
+(1)
+Total
+17
+68
+1
+86
+34
+52 
+Source: New Jersey Construction Reporter 
+2.
+Probable Residential Development of Lands. As indicated in the Borough’s 1988 Housing Plan, River Edge
+is a fully developed community that lacks vacant developable land available for new housing construction.
+Opportunities for new housing growth are limited to the improvement or replacement of aging detached
+single-family dwelling or multifamily development in the Borough’s Multifamily Conditional Use District,
+AH-1 District, Kinderkamack Road Redevelopment Area and New Bridge Landing Redevelopment Area as
+discussed in Section 4.
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 25 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 26 =====
+22
+22
+2.5 Population Analysis 
+The MLUL requires that the Housing Element of this plan provide data on the municipality’s population, including 
+population size, age and income characteristics.
+1.
+Population Size. The Borough’s population growth until it reached its peak of 13,264 residents in 1960
+followed by three decades of decline until 2000 when it began to steadily increase again.  In 2023, River
+Edge had an estimated population of 12,024 residents which is 9.0% less than its peak in 1960.
+TABLE 16 - POPULATION GROWTH (1930-2023) 
+RIVER EDGE, NJ
+Year 
+Population 
+Change ( # ) 
+Change (%)
+1930
+2,210
+-
+-
+1940
+3,287 
+1,077 
+48.7%
+1950 
+9,204
+5,917 
+180.0% 
+1960 
+13,264 
+4,060
+44.1%
+1970 
+12,850 
+(414) 
+(3.1%)
+1980 
+11,111
+(1,739)
+(13.5%)
+1990 
+10,603 
+(508) 
+(4.6%) 
+2000
+10,946 
+343 
+3.2%
+2010 
+11,340
+394 
+3.6%
+2020
+12,049 
+709 
+6.3%
+2023
+12,024 
+(25)
+(0.2%)
+Source: U.S. Decennial Census; 2023 American Community Survey 5-Year Estimates. 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 26 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 27 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+23 
+2.
+Age Characteristics.  The Borough’s age characteristics are represented in the table below. In 2023, 19.3%
+of the Borough’s population was comprised of school-aged (ages 5-19) children which represents an
+increase from 18.4% in 2000.  The age cohorts 55 to 59 and 60 to 64 experienced the most significant
+growth in that period increasing from 8.9% of the population in 2000 to 16.5% in 2023.  The percentage
+of the population under age 5 decreased from 7.1% to 4.4% in that period while the percentage of residents
+ages 65 and older also decreased from 16.9% of the population to 15.2%.  The median age increased from
+40 in 2000 to 42.2 in 2023.
+TABLE 17 - AGE CHARACTERISTICS (2000-2023)
+RIVER EDGE, NJ
+2000
+2010
+2020
+2023
+Age Group
+Number
+Percent
+Number
+Percent
+Number
+Percent
+Number
+Percent
+Under 5
+781
+7.1%
+672
+5.9%
+641
+5.3%
+525
+4.4%
+5-9
+691
+6.3%
+862
+7.6%
+903
+7.5%
+740
+6.2%
+10-14
+741
+6.8%
+897
+7.9%
+899
+7.5%
+855
+7.1%
+15-19
+580
+5.3%
+702
+6.2%
+769
+6.4%
+716
+6.0%
+20-24
+383
+3.5%
+476
+4.2%
+648
+5.4%
+840
+7.0%
+25-34
+1,310
+12.0%
+948
+8.3%
+1,089
+9.0%
+1,068
+8.9%
+35-44
+1,991
+18.2%
+1,853
+16.3%
+1,696
+14.1%
+1,718
+14.3%
+45-54
+1,642
+15.0%
+1,958
+17.3%
+1,926
+16.0%
+1,743
+14.5%
+55-59
+490
+4.5%
+722
+6.4%
+893
+7.4%
+974
+8.1%
+60-64
+478
+4.4%
+685
+6%
+763
+6.3%
+1,011
+8.4%
+65-74
+882
+8.0%
+707
+6.2%
+1,116
+9.2%
+1,171
+9.7%
+75-84
+712
+6.5%
+585
+5.1%
+456
+3.8%
+395
+3.3%
+85 and older
+265
+2.4%
+273
+2.4%
+250
+2.1%
+268
+2.2%
+Total 
+10,946
+100.0%
+11,340
+100.0%
+12,049
+100.0%
+12,024
+100.0%
+Median Age
+40.0
+41.4
+41.3
+42.2
+Source: U.S. Decennial Census; 2023 American Community Survey 5-Year Estimates. 
+3.
+Average Household Size. The average household size in River Edge has remained steady around 2.7
+residents per household since at least 1980.
+TABLE 18 - AVERAGE HOUSEHOLD SIZE (1980 - 2023)
+RIVER EDGE, NJ
+Year 
+Average Household Size
+1980
+2.7 
+1990
+2.6 
+2000
+2.6 
+2010
+2.7 
+2020
+2.8 
+2023
+2.7 
+Source: U.S. Decennial Census; 2020 & 2023 American Community Survey 5-Year Estimates. 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 27 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 28 =====
+24
+24
+4.
+Household Income. The median income for River Edge households increased 117% between 2000 and
+2023.  The distribution of various household income levels are shown in the table below. It is noted that
+roughly 69% of Borough households had incomes greater than $100,000 and 41.3% of $200,000 or more in
+2023.
+TABLE 19 - HOUSEHOLD INCOME DISTRIBUTION (2000 - 2023)
+RIVER EDGE, NJ
+Income Category
+2000
+2010
+2023
+Number
+Percent
+Number
+Percent
+Number
+Percent
+Less than $10,000
+107
+2.6%
+130
+3.2%
+74
+1.7%
+$10,000 to $14,999 
+109 
+2.6%
+126 
+3.1%
+101 
+2.3%
+$15,000 to $24,999
+323 
+7.7%
+110
+2.7%
+114 
+2.6%
+$25,000 to $34,999 
+305 
+7.3%
+204 
+5.0%
+118 
+2.7%
+$35,000 to $49,999 
+619 
+14.8%
+228 
+5.6%
+162 
+3.7%
+$50,000 to $74,999
+735 
+17.6% 
+745 
+18.3% 
+381 
+8.7%
+$75,000 to $99,999 
+720 
+17.2% 
+574 
+14.1% 
+394 
+9.0%
+$100,000 to $149,999 
+673 
+16.1% 
+965 
+23.7%
+783 
+17.9% 
+$150,000 to $199,999
+340
+8.1%
+599 
+14.7% 
+446 
+10.2% 
+$200,000 or more 
+254
+6.1%
+391 
+9.6%
+1,808 
+41.3% 
+Total 
+4,185 
+100.0% 
+4,072
+100.0% 
+4,377 
+100.0%
+Median 
+$71,792 
+$97,816
+$155,827
+Source: U.S. Decennial Census; 2010 & 2023 American Community Survey 5-Year Estimates. 
+5.
+Housing cost-burden.  Households that pay more than 30 percent of their income for housing are considered
+cost burdened.  The 2023 American Community Survey data indicates that 29.0% of Borough homeowners
+and 44.3% of renters allocate 30% or more of their income toward housing costs.
+TABLE 20 - HOUSING COST AS PERCENTAGE OF INCOME (2023)
+RIVER EDGE, NJ
+Percentage of 
+Income 
+Owner-occupied
+Renter
+Number
+Percent
+Number
+Percent
+Less than 20 percent
+1,328
+42.5%
+309
+32.0%
+20 to 29.9 percent
+886
+28.3%
+229
+23.7%
+30 percent or more
+914
+29.2%
+427
+44.3%
+Occupied Units
+3,128
+100.0%
+965
+100.0%
+Sources: 2023 American Community Survey 5-Year Estimates. 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 28 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 29 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+25 
+2.6 Employment Characteristics 
+The FHA-2 requires a Housing Element to include data on employment levels in the community. The following 
+tables present information on the Borough’s employment characteristics. 
+ 
+1. Employment Status. The table below provides information on River Edge’s employment status for the 
+segment of the population 16 and over.  In 2023, approximately 70.2% of the population ages 16 and over 
+were in the labor force as compared to 64.2% in 2000.  From 2000 to 2023, the unemployment rate of 
+residents in the labor force increased from 1.8% to 3.3%. 
+TABLE 21 - EMPLOYMENT STATUS - POPULATION 16 & OVER (2000 - 2023)
+RIVER EDGE, NJ
+Employment Status
+2000
+2010
+2023
+Number
+Percent
+Number
+Percent 
+Number
+Percent
+In labor force 
+5,498
+64.2%
+5,873
+66.9% 
+6,824 
+70.2%
+Civilian labor force 
+5,498
+64.2%
+5,873
+66.9% 
+6,824 
+70.2%
+Employed 
+5,341 
+62.4%
+5,465 
+62.3% 
+6,506 
+66.9%
+Unemployed
+157 
+1.8%
+408
+4.6% 
+318 
+3.3%
+Armed Forces 
+0 
+0.0%
+0 
+0.0% 
+0 
+0.0%
+Not in labor force
+3,067 
+35.8%
+2,903 
+33.1% 
+2,901 
+29.8%
+Total Population 16 & Over
+8,565 
+100.0% 
+8,776
+100.0%
+9,725 
+100.0%
+Source: U.S. Decennial Census; 2010 & 2023 American Community Survey. 
+2. 
+Employment Characteristics of Employed Residents. The following two tables detail information on the 
+employment characteristics of River Edge’s working residents.  In 2023, 63.1% of the Borough’s employed 
+residents 16 and over worked in management, professional and related occupations and another 22.4% 
+worked in sales and office jobs representing a total of 85.5% of the River Edge workforce.  The data 
+indicates there was a significant increase in the percentage of those working in management, professional 
+and related field from 51.0% of the employed population to 63.1% since 2000.  Sales and office jobs saw a 
+decline from 30.0% of the workforce to 22.4% in that period. 
+TABLE 22 - EMPLOYED RESIDENTS AGE 16 AND OVER, BY OCCUPATION (2000 – 2023)
+RIVER EDGE, NJ
+Occupation
+2000
+2010 
+2023
+Number
+Percent 
+Number  
+Percent 
+Number
+Percent
+Management, professional, and related  
+2,722
+51.0%
+2,961 
+54.2% 
+4,103
+63.1%
+Service 
+467 
+8.7% 
+670
+12.3% 
+464
+7.1%
+Sales and office 
+1,600 
+30.0% 
+1,325 
+24.2% 
+1,458
+22.4%
+Natural resources, construction, and maintenance 
+271
+5.1% 
+314
+5.7% 
+292
+4.5%
+Production, transportation, and material moving 
+281
+5.3% 
+195
+3.6% 
+189
+2.9%
+Total
+5,341
+100.0%
+5,465 
+100.0%
+6,506
+100.0%
+Source: U.S. Decennial Census; 2010 & 2023 American Community Survey 5-Year Estimates. 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 29 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 30 =====
+26
+26
+In 2023, the industries representing the three largest categories of employed residents in River Edge were 
+education, health and social services at 21.6%, professional and related services at 19.5% and finance, insurance 
+and real estate at 13.3% totaling 54.4% of the population.   
+TABLE 23 - EMPLOYED RESIDENTS AGE 16 AND OVER, BY INDUSTRY (2000 - 2023)
+RIVER EDGE, NJ
+Industry 
+2000 
+2010
+2023
+Number 
+Percent 
+Number 
+Percent 
+Number
+Percent 
+Agriculture, Forestry, Fisheries & Mining 
+0
+0.0% 
+0
+0.0% 
+19 
+0.3% 
+Construction
+224 
+4.2% 
+230 
+4.2% 
+293
+4.5% 
+Manufacturing
+403
+7.5%
+459
+8.4%
+714
+11.0%
+Wholesale Trade
+241
+4.5%
+149
+2.7%
+336
+5.2%
+Retail Trade 
+729
+13.6%
+533
+9.8%
+544
+8.4%
+Transportation, Warehousing, and Utilities
+207
+3.9%
+194
+3.5%
+177
+2.7%
+Information
+413
+7.7%
+255 
+4.7% 
+125
+1.9%
+Finance, Insurance & Real Estate 
+703
+13.2%
+756 
+13.8%
+868
+13.3%
+Professional & Related Services
+599
+11.2%
+631 
+11.5%
+1,269
+19.5%
+Education, Health and Social Services
+1,079 
+20.2%
+1,257
+23.0%
+1,406
+21.6%
+Arts, Entertainment & Recreational Services 
+317
+5.9% 
+338 
+6.2% 
+233
+3.6% 
+Public Administration 
+233
+4.4%
+343 
+6.3%
+268
+4.1%
+Other Services 
+193
+3.6%
+320 
+5.9%
+254
+3.9%
+Total 
+5,341
+100.0%
+5,465 
+100.0%
+6,506
+100.0%
+Source: U.S. Decennial Census; 2010 & 2023 American Community Survey 5-Year Estimates. 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 30 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 31 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+27 
+2.7 Employment Projections 
+A projection of the Borough’s probable future employment characteristics is based on an assessment of historic 
+employment trends, the number of non-residential construction permits issued, and probable non-residential 
+development of lands.  Each of these items are identified and outlined below. 
+1.
+Historic Employment Trends. The number of jobs in River Edge within the last 10 years peaked in 2018 at
+3,395.  The Borough’s job market experienced declines in employment in 2019 and 2020 due in part to the
+COVID-19 pandemic.
+TABLE 24 - AVERAGE COVERED EMPLOYMENT TRENDS (2014-2023)
+RIVER EDGE, NJ
+Year 
+Number of Jobs
+Change in
+Number of Jobs
+Percent Change 
+2014
+2,960
+- 
+-
+2015
+3,108
+148
+5.0%
+2016
+3,135
+27
+0.9%
+2017
+3,217
+82
+2.6%
+2018
+3,395
+178
+5.5%
+2019
+3,135
+(260)
+(7.7%)
+2020 
+2,922
+(213)
+(6.8%)
+2021
+3,071
+149
+5.1%
+2022 
+3,137
+66
+2.1%
+2023 
+3,139
+2 
+0.1%
+Sources: Department of Labor and Workforce Development 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 31 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 32 =====
+28
+28
+2.
+Non-Residential Square Footage Constructed During the Last Ten Years. The table below indicates there was
+minimal nonresidential development in River Edge from 2014 to 2023. The permit data indicates there were
+several improvements to office space totaling 9,338 square feet, the construction of the New Bridge Land
+multifamily development and 8,026 square feet of educational space.
+TABLE 25 - NON-RESIDENTIAL SPACE AUTHORIZED BY BUILDING PERMITS (2014 – 2023)
+RIVER EDGE, NEW JERSEY
+Year 
+Issued
+Office
+Retail
+A-1
+thru
+A-5
+Multifamily/ 
+Dormitories
+Hotel/ 
+Motel
+Education
+Industrial
+Institutional
+Storage
+Signs, 
+Fences, 
+Utility 
+& Misc.
+2014 
+0
+0
+0
+0
+0
+8,026
+0
+0
+0
+0
+2015
+2,400
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2016
+650
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2017
+3,984
+0
+0
+123,777
+0
+0
+0
+0
+0
+0
+2018
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2019 
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2020 
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2021 
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2022 
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2023 
+2,304
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total 
+9,338
+0
+0
+123,777
+0
+0
+0
+0
+0
+0
+Source: New Jersey Department of Community Affairs (DCA) Construction Reporter. 
+3.
+Probable Non-Residential Development of Lands. Opportunities for non-residential development in River
+Edge are limited given the lack of vacant land.  Any new nonresidential development or redevelopment is
+likely to occur as infill development along Kinderkamack Road or around the New Bridge Landing Train
+Station area south of Main Street.
+4.
+Probable Future Employment Characteristics. The Borough’s employment trend of the last 10 years,
+combined with few opportunities for new non-residential development, suggests that employment growth
+within the Borough in the next decade will be limited and has yet to reach the number of jobs that existed
+prior to the COVID-19 pandemic.
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 32 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 33 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+29 
+Section 3: Fair Share Obligation 
+The following section provides an overview of the Borough’s Fourth Round fair share obligation. It includes a brief 
+overview of the methodology utilized to calculate affordable housing obligations throughout the State.  
+3.1 Summary of Fair Share Obligation 
+On March 20, 2024, Governor Murphy signed Bill A4/S50 Bill into law, thereby significantly amending the Fair Housing 
+Act (“FHA”) originally adopted in 1985.  The amended FHA commonly referred to as the Fair Housing Act-2 (“FHA-2”) 
+eliminated COAH and created the new Affordable Housing Dispute Resolution Program (“The Program”) consisting of 
+seven retired Mount Laurel judges to review municipal compliance plans and resolve disagreements between 
+municipalities and objectors.  The legislation also tasked the DCA with calculating municipal Present and Prospective 
+Need obligations, and the Administrative Office of the Courts (AOC) with creating rules related to the required 
+procedures for the Program and the Courts to function together in accordance with the FHA-2.  The FHA-2 also 
+established a new methodology for calculating municipal affordable housing-need numbers, municipal compliance 
+requirements and administrative review process through the Program for the 4th and subsequent rounds.  These rounds 
+span a period of 10 years each whereas the 1st and 2nd Rounds administered by COAH covered 6-year periods.  The 
+3rd Round extending from 1999 to 2025 (26 years) was an anomaly due to extensive litigation and COAH becoming 
+dysfunctional to such a degree that the Court ruled it could no longer administer the State’s affordable housing process 
+and returned it to the trial courts.
+The FHA-2 designates DCA as the entity responsible for calculating the State’s regional affordable housing needs.  
+Specifically, N.J.S.A. 52:27D-304.2 establishes the methodology to be utilized by DCA to determine the State’s regional 
+prospective needs of low- and moderate-income housing for the ten-year period spanning from July 1, 2025 to June 
+30, 2035. In summary, the projected household change for this period is estimated by establishing the household 
+change experienced in each of the State’s six regions between the most recent federal decennial census and the second-
+most recent decennial census. This household change, if positive, is then divided by 2.5 to estimate the number of low- 
+and moderate-income homes needed to address low- and moderate-income household change in the region for the 
+next ten years. According to the DCA, this methodology resulted in a statewide prospective need of 84,698 low- and 
+moderate-income units. 
+In addition, the DCA was tasked with calculating individual municipal present need (rehabilitation) and prospective 
+need obligations.  However, the FHA-2 states that these DCA calculations are advisory and non-binding, and that 
+each municipality is responsible for determining its own obligation utilizing the same methodology. 
+On January 23, 2025, River Edge adopted binding Resolution No. 25-73 (see Appendix) accepting the DCA’s 
+calculated Present Need of 3  units and Prospective Need of 159 units thereby establishing its Fourth Round 
+affordable housing obligations.  The Borough’s Fourth Round obligations were subsequently confirmed by Judge 
+Corriston’s Order on May 13, 2025 (see Appendix). 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 33 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 34 =====
+30
+30
+Resolution No. 25-73 also noted that the Borough reserves the right to conduct a Vacant Land Adjustment (VLA) 
+to determine its realistic development potential (RDP) and to adjust its Present Need through the completion of a 
+structural conditions/windshield survey as discussed in greater detail herein.  These analyses resulted in a Fourth 
+Round RDP of 0 units, an Unmet Need of 159 units and Present Need of 7 units as summarized in the table below. 
+TABLE 26 – RIVER EDGE SUMMARY OF FOURTH ROUND OBLIGATION
+Affordable Obligation 
+# Units
+Present Need (Rehabilitation) 
+7 
+Prospective Need
+159 
+Fourth Round RDP 
+0
+Unmet Need
+159 
+3.2 Realistic Development Potential (RDP) 
+River Edge is a fully developed community and is therefore entitled to conduct a vacant land analysis (“VLA”) to 
+adjust its Prospective Need Obligation by calculating its RDP in accordance with the procedures set forth in the 
+FHA-2 (N.J.S.A. 52:27D-310.1).  The Borough received Court-approval of its Third Round HE&FSP, inclusive of a 
+vacant land adjustment, resulting in a Final Judgment of Compliance and Repose and this is a continuation of that 
+acknowledgement that the Borough is fully developed and entitled to a VLA and RDP adjustment.
+A VLA is intended to identify sites in a municipality that are likely to develop with affordable housing.  Municipalities 
+are required to consider all privately and municipally owned vacant parcels and underutilized sites such as driving 
+ranges, farms in the State’s Planning Areas 1 and 2, nurseries, golf courses not owned by their members and 
+nonconforming uses.  Upon identification of such potential sites, municipalities are permitted to eliminate a site 
+entirely or a portion of a site based on a variety of factors, including: lands dedicated for public uses other than 
+housing since 1997; park lands or open space; vacant contiguous parcels in private ownership of a size (0.83 acres 
+or less) which would accommodate fewer than five housing units; historic and architecturally important sites listed 
+on the State Register of Historic Places or the National Register of Historic Places; preserved architectural lands; 
+sites designated for active recreation; and environmentally sensitive lands. 
+1.
+Prior Round Obligation & RDP
+The Borough’s combined First and Second Round Obligation of 73 units, Third Round Prospective Need
+of 197 units and Third Round RDP of 0 units were established by the Borough’s 2019 Settlement Agreement
+with FSHC.  The Borough’s Settlement Agreement and 2020 HE&FSP, inclusive of its VLA, were approved
+by the Court in the Borough’s Third Round JOR issued by Judge Padovano on March 4, 2021.
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 34 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 35 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+31 
+2.
+Fourth Round Obligation.
+As stated previously, River Edge is a fully developed community that continues to lack vacant, developable
+land that is entitled to rely on its previous court-approved VLA, which established its Prior Rounds’ (First,
+Second and Third) RDP.  This is informed by COAH’s regulations regarding same at N.J.A.C. 5:97-5.1(c) and
+(d), as well as the Borough’s 2019 Settlement Agreement with FSHC.  Specifically, N.J.A.C. 5:97-5.1(c) and
+(d) state that:
+A vacant land adjustment that was granted as part of a (previous) round certification or judgment of
+compliance shall continue to be valid provided the municipality has implemented all of the terms of the
+substantive certification or judgment of compliance. If the municipality failed to implement the terms of
+the substantive certification or judgment of compliance, the Council may reevaluate the vacant land
+adjustment.
+Further, the Borough’s Court-approved 2019 Settlement Agreement with FSHC states that “the Borough’s 
+RDP shall not be revisited by FSHC or any other interested party absent a substantial changed 
+circumstance.” FSHC vs Twp. of Cherry Hill, 173 NJ 303 (2002) is the leading case that required a possible 
+recalibration of an RDP based upon “changed circumstances.” 
+As such, the Borough’s Fourth Round VLA included a review of development applications and activity since 
+2019, vacant private and publicly owned parcels (Property Classes 1 and 15C) and farm qualified (Class 3B) 
+properties within Planning Areas 1 and 2 in the Borough.  The VLA revealed there are no changed 
+circumstances or newly vacant properties which meet the criteria to qualify as contributing to the Borough’s 
+RDP.  Therefore, the Borough’s Fourth Round RDP is zero (0) units.  A summary of the Borough’s Fourth 
+Round VLA is provided in the Appendix. 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 35 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 36 =====
+32
+32
+Section 4: Fair Share Plan 
+This Fair Share Plan component of River Edgel’s 2025 HE&FSP outlines the manner in which the Borough will address 
+its affordable housing obligations.  These obligations are summarized as follows: 
+TABLE  27 – RIVER EDGE AFFORDABLE HOUSING OBLIGATIONS SUMMARY
+Round
+Obligation
+RDP
+Unmet Need
+Present Need (Rehabilitation) Obligation
+7 (1)
+-
+-
+First & Second Round Obligation (1987-1999) 
+73 
+-
+-
+Third Round Obligation (1999 – 2025)
+197
+0 (2)
+197 
+Fourth Round Obligation (2025 – 2035)
+159 
+0 (3)
+159 
+(1)
+Present Need as adjusted through completion of Structural Conditions/Windshield Survey.
+(2)
+As established through Court-approved VLA.
+(3)
+As established through Fourth Round VLA.
+As detailed herein, the Housing Element and Fair Share Plan addresses the manner in which the Borough will 
+address its affordable housing obligations through 2035 in a manner that affirmatively addresses affordable 
+housing need, while at the same time addressing planning concerns and maintaining the overall character of the 
+community. 
+4.1 General Provisions 
+The following additional compliance requirements are noted: 
+1.
+Fourth Round Bonuses. Fourth Round bonuses will be applied in accordance with N.J.A.C. 52:27d-311.k.
+2.
+Very-Low Income and Low-Income Units. At least 50% of the units addressing the Fourth Round Prospective
+Need obligation shall be affordable to very low-income and low-income households with the remainder
+affordable to moderate-income households. A minimum of 13% of the affordable units will be made available
+to very low-income households, defined as households earning 30% or less of the regional median income by
+household size.
+3.
+Rental Component. At least 25% of the Fourth Round Prospective Need obligation shall be met through rental
+units, including at least half in rental units available to families.
+4.
+Family Units. At least half of the actual units created to address the Fourth Round Prospective Need obligation
+must be available to families.
+5.
+Age-Restricted Cap. No more than 30% of all units developed or planned to meet the Fourth Round Prospective
+Need obligation may be satisfied with age-restricted units.
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 36 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 37 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+33 
+4.2 Plan Components 
+The Borough’s various plan mechanisms to address its affordable housing obligations are summarized below.  
+Present Need (Rehabilitation) Obligation
+The DCA assigned River Edge a Present Need obligation of 
+units which the Borough accepted on
+January 23, 2025 in its Resolution No. 25-73.  The Borough modified its 4th Round Present Need Obligation
+to 7 units through a structural conditions/windshield survey in accordance with N.J.A.C. 5:93-5.2, which is
+attached hereto in the Appendix.  The Borough will continue to co
+with Bergen County’s Home
+Improvement Program to provide assistance to qualifying households in River Edge or administer its own
+rehabilitation program to the extent necessary to satisfy its Fourth Round Present Need Obligation.
+Prior Round (First, Second & Third Round) Obligation
+In accordance with the Borough’s 2019 Settlement Agreement with FSHC, River Edge has a combined First
+and Second Round obligation of 73 units and Third Round Prospective Need of 197 units.  The Borough’s
+Court-approved vacant land analysis resulted in the adjustment of its Third Round Prospective Need of 197
+units to its Third Round RDP of 0 units.  The Borough satisfied its combined First and Second Round Obligation
+of 73 units in full with several plan mechanisms, including senior affordable housing at the Senior Residence at
+St. Peter the Apostle, group homes and two redevelopment plans as summarized in the table below.
+TABLE 28 – RIVER EDGE PLAN MECHANISMS TO ADDRESS PRIOR ROUND OBLIGATION 
+Plan Mechanisms
+# Units
+Bonus
+Credits
+Total 
+Credits
+Status
+Prior Cycle Credits (Pre-1986) 
+Senior Residence at St. Peter the Apostle Church (23 total units)
+18 
+- 
+-
+Completed
+Group Homes 
+New Concepts for Living, 11 June Ct.
+Community Options, 200 Zabriskie Pl. 
+EIHAB Human Services, 328 Valley Rd. 
+5 
+3 
+4 
+- 
+- 
+- 
+5 
+3 
+4 
+Completed
+Completed 
+Completed
+Redevelopment Plans
+New Bridge Landing Station Redevelopment Area 
+Kinderkamack Road Redevelopment Area
+19 
+5
+19 
+- 
+38 
+5 
+Adopted 
+Adopted 
+Total
+54
+19 (1) 
+73 
+- 
+(1)
+COAH regulations permit a maximum number of bonus credits not to exceed 25% of RDP.
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 37 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 38 =====
+34
+34
+3.
+Fourth Round Obligation
+The DCA in its October 18, 2024 publication “Affordable Housing Obligations for 2025-2035 (Fourth Round)
+Methodology and Background” made public October 18, 2024 issued River Edge a Fourth Round Prospective
+Need Obligation of 159 units and Present Need (Rehabilitation) Obligation of 3  units.  The Borough ultimately
+accepted its DCA assigned Fourth Round Obligations by Resolution No. 25-73, dated January 23, 2025, that
+was fixed by Order of Judge Corriston, dated May 13, 2025.
+River Edge as a fully developed community conducted a Fourth Round VLA which adjusts the Borough’s Fourth
+Round Prospective Need from 159 units to a Fourth Round RDP of 0 units in accordance with the applicable
+FHA-2 and COAH regulations. Therefore, River Edge has an Unmet Need (difference between Prospective Need
+and RDP) of 159 units.  The Borough’s structural conditions survey (see Appendix) adjusts its DCA calculated
+Present Need of 33 units to 7 units.
+The Borough’s Unmet Need Obligation will be addressed by the several plan mechanisms listed below, including
+surplus units from the Senior Residence at St. Peter the Apostle Church, New Bridge Crossing inclusionary
+development senior units, Multifamily and Senior Conditional Use District, overlay zone and mandatory
+affordable set-aside ordinance as summarized in the table below.  The Borough will also continue to consider
+emergent opportunities to create new affordable housing in appropriate locations consistent with the Borough’s
+Master Plan and Zoning Ordinance.
+TABLE 29 – RIVER EDGE PLAN MECHANISMS TO ADDRESS UNMET NEED 
+Plan Mechanisms
+# Units
+Status
+Senior Residence at St. Peter the Apostle Church (23 total units)
+5
+Completed
+New Bridge Crossing Inclusionary Development (69 total units)
+7
+Completed
+Multifamily and Senior Conditional Use District 
+ 
+Adopted
+AH-1 New Bridge Road Affordable Housing Overlay Zone
+ 
+Adopted
+Mandatory Affordable Set-Aside Ordinance 
+- 
+Adopted
+Total
+ 
+-
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 38 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 39 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+35 
+4.3 Development Sites & Plan Mechanisms 
+The Borough’s affordable housing sites and plan mechanisms identified in Section 4.2 are discussed in this section.  
+The Plan Components Map below illustrates the locations of the sites identified herein. 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 39 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 40 =====
+36
+36
+1.
+Senior Residence at St. Peter the Apostle.
+Located at 415 Fifth Avenue, Block 701 Lot 19.01, this senior housing facility accommodates 23 seniors offering
+a range of services in a quiet area of the Borough adjacent to St. Peter the Apostle Roman Catholic Church and
+Bergen County’s Van Saun Park.
+2.
+Group Homes
+The Borough has three existing group homes that provide residential accommodations and services for the
+developmentally disabled totaling 12 beds.  These group homes include:
+New Concepts for Living located at 11 June Court, Block 1004 Lot 18 with 5 beds;
+Community Options located at 200 Zabriskie Place, Block 1208 Lot 7 with 3 beds; and
+EIHAB Human Services, Inc. located at 328 Valley Road, Block 905 Lot 19 with 4 beds.
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 40 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 41 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+37
+3.
+New Bridge Landing Station Redevelopment Area
+The Borough originally adopted a redevelopment plan to accommodate mixed use development of Block 1411
+Lots 1.01 and 1.02 and Block 1412 Lots 1, 2 and 3, dated June 8, 2007.  The plan for the site currently developed
+as surface parking for the adjacent train station was never realized in the 10-year period prior to the adoption
+of the Borough’s 2020 HE&FSP and was determined to be unrealistic.  As a component of the Settlement
+Agreement, the Borough adopted a new redevelopment plan for the site in November 2020 which includes an
+inclusionary development component consisting of a maximum density of 25 dwellings units per acre and
+required affordable housing set-aside of 20%.
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 41 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 42 =====
+38
+38
+4.
+Kinderkamack Road Redevelopment Area
+The Borough adopted a redevelopment plan for Block 1413 Lots 1, 2.01, 4 and 5, dated April 27, 2010 to
+accommodate multifamily residential development of the site.  As the plan for the site was never realized
+in the nearly 10-year period preceding the preparation of the Borough’s 2020 HE&FSP, among other
+reasons, the Borough adopted a new redevelopment plan for the site in November 2020, which includes
+a maximum residential density of 20 dwelling units per acre with a required minimum 20% affordable
+housing set-aside.
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 42 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 43 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+39 
+5.
+New Bridge Crossing Apartments
+The New Bridge Crossing Apartments is a 69-unit multifamily development located on the east side of
+Kinderkamack Road between Howland Avenue and Reservoir Avenue at Block 1302 Lot 3.  The development
+includes 7 age-restricted low and moderate-income housing units.  This development was completed in 2019
+and is now occupied.
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 43 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 44 =====
+40
+40
+6.
+AH-1 New Bridge Road Affordable Housing Overlay Zone
+In accordance with the Borough’s 2019 Settlement Agreement with FSHC, on July 13, 2020 the Borough adopted
+Resolution No. 20-10 creating a new overlay zone encompassing Block 1303 Lots 3, 4 and 5 totaling 3.3 acres
+to accommodate a residential density of at least 20 dwelling units per acre
+.  The overlay zone requires a 20%affordable housing set-aside for all residential development.
+Multifamily and Senior Conditional Use District
+Section 416-36.1 of the Borough Code sets forth the provisions of this district which requires a 15% affordable
+housing set-aside for rental development and 20% of for sale units.  The prescribed maximum density of the
+district is 37.5 dwelling units per acre encompassing Block 1005 Lots 6.01 through 12 and Block 1302 Lots 1 and
+The New Bridge Crossing 
+development is located in and was developed in accordance with the District’s requirements
+.
+Mandatory Affordable Housing Set-Aside Ordinance
+The Borough adopted its Mandatory Affordable Housing Set-Side Ordinance on June 22, 2020 via Ordinance
+No. 20-09 that was subsequently amended on September 21, 2020 by Ordinance No. 20-12 which requires an
+affordable housing set-aside for multifamily residential development of five or more dwelling units at rates of
+20% of for sale units and 15% of rental units. This requirement will ensure that new multifamily development in
+the Borough will provide its fair share of affordable units and continue to assist the Borough in its efforts to
+address its Unmet Need obligations. To be clear, this does not obligate the Borough to grant any subdivision
+or site plan approvals, rezonings, use variances or redevelopment/rehabilitation designations for any such
+development which are required to comply with the Borough’s Zoning Ordinance and development application
+review procedures.
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 44 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 45 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+41 
+7. Development Fees.   
+River Edge will continue to impose residential and non-residential development fees in accordance with the 
+Borough’s Development Fee Ordinance to be collected in the Borough’s existing affordable housing trust fund.  
+The funds generated from these development fees will be applied directly towards any activity approved by 
+State regulations for addressing the Borough’s affordable housing obligations.  The Borough’s Spending Plan 
+(see draft spending plan in the Appendix) projects estimated annual revenues and prescribes how the funds 
+will be allocated over the course of the Fourth Round 10-year period.   
+ 
+4.4 Site Suitability 
+All sites included in the Borough’s Fair Share Plan must meet the site suitability criteria set forth in N.J.A.C. 5:93-1.3 list 
+below.  While a site suitability analysis is not technically required for plan mechanisms addressing unmet need, this 
+analysis includes a review of the Borough’s several undeveloped plan mechanisms as it relates to the statutory site 
+suitability criteria. 
+ 
+Approvable Site:
+a site that may be developed for low and moderate-income housing in a manner 
+consistent with the rules or regulations of all agencies with jurisdiction over the 
+site. A site may be approvable although not currently zoned for low and 
+moderate-income housing.
+Available Site:
+a site with clear title, free of encumbrances which preclude development for low 
+and moderate-income housing.  
+ 
+Developable Site:
+a site that has access to appropriate water and sewer infrastructure, and is 
+consistent with the applicable areawide water quality management plan 
+(including the wastewater management plan) or is included in an amendment 
+to the areawide water quality management plan submitted to and under review 
+by DEP. 
+ 
+Suitable Site:  
+a site that is adjacent to compatible land uses, has access to appropriate streets 
+and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4. 
+ 
+The Borough’s various affordable housing sites were selected based a comprehensive range of factors including 
+proximity to public and regional transportation, location within developed areas and surrounding development 
+patterns.  In addition, the sites are located within or adjacent to existing water and sewer utilities allowing for future 
+connectivity as may be required to accommodate the developments.  It is noted the availability of water and sewer 
+capacity is adequate to provide for all of the residential development contemplated in the 2025 HE&FSP. Ultimately, the 
+2025 HE&FSP continues provides a realistic opportunity to satisfy the Borough’s constitutional affordable housing 
+obligation for the Third Round. 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 45 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 46 =====
+42
+42
+1.
+New Bridge Landing Station Redevelopment Plan.
+The River Edge Council adopted the New Bridge Landing Station Redevelopment Plan in November 2020.  The 
+Plan establishes the development regulations for the New Bridge Landing Station Redevelopment Area 
+intended to facilitate development of the site as a mixed-use transit-oriented development containing a 
+residential component with a maximum density of 25 units per acre, allows for a mix of nonresidential uses and 
+includes a public parking and train station facility.  The New Bridge Landing Station Redevelopment Area 
+encompasses the following parcels: 
+ 
+TABLE 30 - REDEVELOPMENT AREA PARCELS 
+Block
+Lot
+Owner
+Land Area
+1411 
+1.01 
+NJ Transit Corp.
+0.15 ac
+1411 
+1.02
+Borough of River Edge 
+0.77 ac 
+1412
+1 
+NJ Transit Corp.
+1.53 ac
+1412
+2
+NJ Transit Corp.
+0.33 ac
+1412
+3
+Borough of River Edge 
+0.39 ac
+Total
+3.17 ac 
+ 
+All five parcels in the redevelopment area available are publicly owned, including 3 owned by NJ Transit and 2 
+owned by the Borough.  The Borough has previously been in touch with NJ Transit to discuss the future 
+development of the site and anticipates full cooperation between both parties.  
+ 
+The site is developable as it is already cleared and developed as paved surface commuter parking lots 
+associated with the New Bridge Landing Station.  Though the site is partially impacted by a 100-year floodplain 
+and wetlands area, the site has been deemed to be developable. 
+ 
+The New Bridge Landing Station Redevelopment Area represents a suitable site for the development of the 
+contemplated mixed-use transit-oriented development with an affordable housing component as it 
+immediately surrounds the New Bridge Landing Station facilities providing direct access to NJ Transit’s Pascack 
+Valley line with connections to Secaucus Junction and Hoboken.  In addition, there are several public bus routes 
+with stops within close walking distance to the redevelopment area and several regional roadways in near 
+proximity.  The site is also surrounded by a mix of uses within walking distance, including retail, restaurant, 
+service and office uses that will complement the proposed redevelopment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 46 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 47 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+43 
+2.
+Kinderkamack Road Redevelopment Plan
+The River Edge Council adopted the Kinderkamack Road Redevelopment Plan in November 2020.  The Plan 
+establishes the development regulations for the Kinderkamack Road Redevelopment Area intended to facilitate 
+mixed-use or multifamily transit-oriented development of the site containing a residential component with a 
+maximum density of 20 units per acre.  The Kinderkamack Road Redevelopment Area encompasses the 
+following parcels: 
+ 
+TABLE 31 - REDEVELOPMENT AREA PARCELS
+Block 
+Lot 
+Owner 
+Land Area
+1413
+1
+R.O.S. Realty Associates 
+0.15 ac
+1413
+2.01 (& 4) 
+Shake Down Street, LLC
+0.28 ac
+1413
+5 
+55 Kinderkamack Road, LLC 
+0.16 ac
+Total
+0.59 ac
+All of the redevelopment area parcels are privately owned with no known title issues.  A private entity is able to 
+submit a site plan application to the Borough Land Use Board for review based on the redevelopment plan 
+requirements.  The site is developable as it is already developed and occupied with a several nonresidential 
+uses, including a landscape contractors office and garage with associated site improvements and a laundromat 
+with related improvements.  The site remains developable though a 100-year floodplain impacts a portion of 
+the site. 
+ 
+The site is suitable for the contemplated mixed-use or multifamily development of the site with an affordable 
+housing component given its context in the community, adjacency to the New Bridge Landing Train Station and 
+walking distance to several public bus route stops and amenities. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 47 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 48 =====
+44
+44
+3.
+AH-1 New Bridge Road Affordable Housing Overlay Zone
+The Borough adopted Ordinance No. 20-10 in July 2020 creating the New Bridge Road Overlay Zone which is 
+intended to facilitate mixed-use development of the site consisting of nonresidential uses on the first floor with 
+residential units above the first floor.  The Overlay Zone permits a maximum residential density of 20 units per 
+acre and requires a 20% affordable housing set-aside.  The AH-1 Zone encompasses Block 1303 Lots 3, 4 and 
+5 totaling approximately 2.5 acres.   
+ 
+Parcels in the AH-1 Overlay Zone are available as the parcels are privately owned with Lots 3 and 4 held in 
+common ownership with no known title issues.  A site plan application may be submitted by a developer as 
+such opportunities present themselves. 
+ 
+The AH-1 Overlay Zone is developable as it is currently developed with a number of uses including a gas station, 
+indoor sports facility and vacant retail building with associated site improvements.  The Overlay Zone is generally 
+characterized by nearly 100% impervious coverage.  Portions of the site are impacted by a 100-year floodplain 
+and area of wetlands associated with the Hackensack River but do not limit the site’s development potential as 
+prescribed by the Overlay Zone standards. 
+ 
+The site is suitable given its context in the community.  It is within walking distance to the New Bridge Landing 
+Train Station, public bus service and nearby commercial and service uses and is separated from adjacent single-
+family uses by the rail corridor.  The site presents a unique development opportunity in the Borough with views 
+of the Hackensack River and Historic New Bridge Landing Site located directly across New Bridge Road to the 
+east. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 48 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 49 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+45 
+4.5 Rejected Development Sites 
+There are no sites for which inclusionary development was considered that were rejected and not included in this Plan. 
+4.6 Crediting Documentation & Ongoing Compliance 
+River Edge intends to adhere to the applicable State requirements pertaining to affordable unit monitoring and 
+reporting.  This includes compliance with the statutorily required updates to the municipal housing project status report 
+by the DCA deadline of February 15, 2025.  These updates are included in the State’s new Affordable Housing 
+Monitoring System and fulfill the Borough’s obligation to specify the creditworthiness of all existing affordable housing 
+units in River Edge.  In addition, all crediting documentation submitted to and approved by the Court as part of the 
+Borough’s Third Round Housing Element and Fair Share Plan remains on file with and accessible from the Court. 
+4.7 Consistency with State Planning Initiatives 
+As noted in Section 1 of this plan, a HE&FSP must also include: 
+ An analysis of the extent to which municipal ordinances and other local factors advance or detract from the 
+goal of preserving multigenerational family continuity as expressed in the recommendations of the 
+Multigenerational Family Housing Continuity Commission; and 
+ 
+ An analysis of consistency with the State Development and Redevelopment Plan, including water, wastewater, 
+stormwater, and multi-modal transportation based on guidance and technical assistance from the State 
+Planning Commission. 
+ 
+Accordingly, the following subsection analyzes the consistency of this HE&FSP to the above referenced state planning 
+initiatives. 
+ 
+1. Multigenerational Family Housing Continuity Commission 
+The Multigenerational Family Housing Continuity Commission was established by the State of New Jersey in 
+2021. As noted in N.J.S.A. 52:27D-329.20, one of the primary duties of the Commission is to “prepare and adopt 
+recommendations on how State government, local government, community organizations, private entities, and 
+community members may most effectively advance the goal of enabling senior citizens to reside at the homes 
+of their extended families, thereby preserving and enhancing multigenerational family continuity, through the 
+modification of State and local laws and policies in the areas of housing, land use planning, parking and 
+streetscape planning, and other relevant areas.” 
+ 
+ 
+As of the date of this HE&FSP, the Multigenerational Family Housing Continuity Commission has not yet adopted 
+any recommendations. 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 49 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 50 =====
+46
+46
+2.
+State Development and Redevelopment Plan
+As established by N.J.S.A. 52:18A-200(f), the purpose of the State Development and Redevelopment Plan (SDRP) 
+is to “coordinate planning activities and establish Statewide planning objectives in the following areas: land use, 
+housing, economic development, transportation, natural resource conservation, agriculture and farmland 
+retention, recreation, urban and suburban redevelopment, historic preservation, public facilities and services, 
+and intergovernmental coordination.” 
+ 
+As such, the SDRP establishes a number of goals and strategies related to a number of different topics, including 
+economic redevelopment. One such goal is to revitalize existing urban centers by directing growth and 
+development to those areas. Specifically, the SDRP seeks to revitalize the State’s cities and towns by protecting, 
+preserving, and developing the valuable human and economic assets in cities, town, and other urban areas. 
+ 
+As indicated by the SDRP’s Policy Map, the majority of River Edge is located in the PA-1 Metropolitan Planning 
+Area, wherein development and redevelopment is intended to be directed. The intent of this Planning Area is 
+to: 
+ 
+ Provide for much of the state’s future redevelopment; 
+ Revitalize cities and towns; 
+ Promote growth in compact forms; 
+ Stabilize older suburbs; 
+ Redesign areas of sprawl; and; 
+ Protect the character of existing stable communities. 
+ 
+Accordingly, this HE&FSP is consistent with the intents of the PA-1. Specifically, it is designed to encourage 
+redevelopment and growth in a compact form within the portion of the municipality designated as PA-1, while 
+also protecting the character of the existing community. 
+ 
+It is noted that the State is in the process of preparing a new State Development and Redevelopment Plan by 
+the end of 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 50 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 51 =====
+2025 Housing Element and Fair Share Plan
+Borough of River Edge
+47 
+Appendix
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 51 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 52 =====
+Fourth Round Complaint for Declaratory Relief 
+Pursuant to AOC Directive #14-24
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 52 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 53 =====
+1
+SURENIAN, EDWARDS, BUZAK & NOLAN LLC
+311 Broadway, Suite A
+Point Pleasant Beach, NJ  08742
+(732) 612-3100
+By:
+Edward J. Buzak, EJB@Surenian.com; Attorney ID: 002131973
+Keli L. Gallo, KLG@Surenian.com; Attorney ID: 017672000
+Attorneys for Declaratory Plaintiff, Borough of River Edge
+IN 
+THE 
+MATTER 
+OF 
+THE 
+APPLICATION OF THE BOROUGH OF 
+RIVER EDGE, COUNTY OF BERGEN,
+STATE OF NEW JERSEY
+SUPERIOR COURT OF NEW JERSEY
+LAW DIVISION: BERGEN COUNTY
+DOCKET NO.: BER-L-____
+CIVIL ACTION 
+AFFORDABLE HOUSING 
+PER DIRECTIVE # 14-24
+COMPLAINT FOR DECLARATORY 
+RELIEF PURSUANT TO
+DIRECTIVE# 14-24
+Declaratory Plaintiff, the Borough of River Edge, County of Bergen, State of New Jersey 
+(hereinafter, River Edge
+Borough ), a municipal corporation of the State of New Jersey, 
+with principal offices located at 705 Kinderkamack Road, River Edge, NJ 07661, by way of this 
+14-24 of the 
+Administrative Office of the Courts, alleges and says:
+Background
+1.
+River Edge is a municipal corporation of the State of New Jersey.
+2.
+The Planning Board of the Borough of River Edge (
+is a municipal agency created and organized under the Municipal Land Use Law, N.J.S.A. 40:55D-
+and, among other duties and obligations, is responsible for adopting the 
+Housing Element and Fair Share Plan 
+of River Edge
+Master Plan.
+3.
+Through this DJ Action, River Edge seeks the following relief in relation to its
+Fourth Round (2025-2035) affordable housing obligation: (a) to secure the jurisdiction of the 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 53 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 54 =====
+ 
+2
+pursuant to P.L. 2024, c.2 
+-24; (b) to have the Program and 
+the Court approve the Borough of River Edge  Present and Prospective affordable housing 
+obligations as set forth in the binding resolution adopted by the Borough, attached hereto as 
+Exhibit 1; (c)  to have the Program and the Court approve a HEFSP to be adopted by the Planning 
+Board and endorsed by the Council and issue a 
+;  (d) to the extent it is not 
+automatically granted pursuant to the Act, through the filing of this DJ Action and binding 
+resolution, to have the Program and the Court confirm River Edge  immunity from all 
+process outlined in the Act and for the duration of Fourth Round, i.e., through June 30, 2035; and 
+(e) to have the Program and the Court take such other actions and grant such other relief  as may 
+be appropriate to ensure that the Borough receive and obtain all protections as afforded to it in 
+complying with the requirements of the Act, including, without limitation, all immunities and 
+presumptions of validity  necessary to satisfy its affordable housing obligations voluntarily without 
+having to endure the expense and burdens of unnecessary third-party litigation.  
+COUNT I 
+ 
+ESTABLISHMENT OF JURISDICTION UNDER P.L.2024, C. 2 
+ 
+4. 
+The Borough of River Edge repeats and realleges each and every allegation as set 
+forth in the previous paragraphs of this DJ Action as if set forth herein in full. 
+5. 
+The Act represents a major revision of the Fair Housing Act of 1985, N.J.S.A. 
+52:27D-301 et seq. 
+6. 
+Among other things, the Act abolished the Council on Affordable Housing 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 54 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 55 =====
+ 
+3
+Program. Among other things, the Act authorized the Director of the Administrative Office of the 
+applications for a compliance certification. 
+7. 
+On or about December 13, 2024, the Director issued Directive # 14-24, which 
+among other things, required municipalities seeking compliance certification  to file an action in 
+the form of a declaratory judgment complaint and Civil Case Information Statement  in the County 
+resolution as authorized under the Act and attach a copy of said binding resolution to the DJ Action. 
+8. 
+River Edge adopted a binding resolution establishing its present and prospective 
+affordable housing obligations within the statutory window of time set forth in the Act and in 
+accordance with the methodology and formula set forth in the Act, a certified copy of which 
+resolution is attached to this DJ Action as Exhibit 1.  
+9. 
+Based on the foregoing, River Edge has established the jurisdiction of the Program 
+and the Court in regard to this DJ Action for a compliance certification as set forth hereinafter. 
+WHEREFORE, the Borough of River Edge seeks a declaratory judgment for the 
+following relief: 
+a. Declaring that the Borough has established jurisdiction for the Program and the 
+Court to confirm its present and prospective affordable housing needs as set 
+forth in the binding resolution attached as Exhibit 1 to this DJ Action or to adjust 
+such determination consistent with the Act; 
+b. Declaring the present and prospective affordable housing obligations of the 
+Borough under the Act; 
+c. Declaring the approval of the Borough
+the Planning Board and its endorsement by the Borough Council, including, as 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 55 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 56 =====
+ 
+4
+appropriate and applicable, (i) a Vacant Land Adjustment predicated upon a 
+lack of vacant, developable and suitable land; (ii) a Durational Adjustment 
+(whether predicated upon lack of sanitary sewer or lack of water); (iii) an 
+adjustment predicated upon regional planning entity formulas, inputs or 
+considerations, as applicable; (iv) an adjustment based on any future legislation 
+that may be adopted that allows an adjustment of the affordable housing 
+obligations; (v)  an adjustment based upon any ruling in litigation involving 
+affordable housing obligations; (vi) an adjustment based upon the undertaking 
+ and/or (vii) any other 
+applicable adjustment  permitted in accordance with the Act and/or applicable 
+COAH regulations; 
+d. Declaring that the Borough continues to have immunity from all exclusionary 
+zoning litigation and all litigation related to its affordable housing obligations 
+as established under the Program; 
+e. Declaring and issuing compliance certification and immunity from 
+exclusionary zoning litigation in accordance with the Act and Directive # 14-
+24 to the Borough of River Edge for the period beginning July 1, 2025 and 
+ending June 30, 2035; and 
+f. Declaring such other relief that the Program and Court deems just and proper 
+within the parameters of the Act and applicable COAH regulations. 
+ 
+COUNT II 
+ 
+DETERMINATION OF THE PRESENT AND PROSPECTIVE NEED OF THE 
+BOROUGH OF RIVER EDGE 
+ 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 56 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 57 =====
+ 
+5
+10. 
+River Edge repeats and realleges each and every allegation set forth in the previous 
+paragraphs of this DJ Action as if set forth herein in full. 
+11. 
+present and 
+prospective need affordable housing obligation for the Fourth Round (2025-2035) and beyond. 
+12. 
+methodology and to render a non-
+prospective affordable housing obligations to be contained in a report to be issued not later than 
+October 20, 2024. 
+13. 
+The DCA issued its report on October 18, 2024.  
+14. 
+Pursuant to the October 18, 2024 report, the DCA calculated River Edge  present 
+and prospective affordable housing obligations as follows:   
+PRESENT NEED 
+(REHABILITATION 
+OBLIGATION) 
+FOURTH ROUND 
+PROSPECTIVE NEED  
+OBLIGATION (2025-2035) 
+33 
+159 
+ 
+15. 
+Pursuant to the Act, a municipality desiring to participate in the Program is 
+housing obligations to which it will commit based upon the methodology set forth in the Act.   
+16. 
+River Edge adopted a binding resolution, a copy of which resolution is attached 
+hereto and made a part hereof as Exhibit 1 to this DJ Action.   
+17. 
+The binding resolution maintains that, subject to the right to undertake a Windshield 
+Survey as part of the preparation and adoption of the HEFSP, the Present ( Rehabilitation") Need 
+obligation of River Edge is 33 and its Prospection Need obligation is 159. 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 57 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 58 =====
+ 
+6
+18. 
+River Edge seeks the approval of and confirmation by the Program and the Court 
+of the Present and Prospective affordable housing obligations as set forth in the binding resolution 
+attached hereto and made a part hereof as Exhibit 1. 
+19. 
+Pursuant to the binding resolution, the Borough of River Edge reserves all rights to 
+amend its affordable housing obligations in the event of a successful legal challenge, or legislative 
+change, to the Act.  
+20. 
+Pursuant to the binding resolution, River Edge specifically reserves the right to seek 
+and obtain 1) a Vacant Land Adjustment predicated upon a lack of vacant, developable and suitable 
+land; 2) a Durational Adjustment (whether predicated upon lack of sanitary sewer or lack of water); 
+3) an adjustment predicated upon regional planning entity formulas, inputs or considerations, as 
+applicable; 4) an adjustment based on any future legislation that may be adopted that allows an 
+adjustment of the affordable housing obligations; 5)  an adjustment based upon any ruling in 
+litigation involving affordable housing obligations; 6) an adjustment based upon the undertaking 
+of a Windshield Survey and/or 7) any other applicable adjustment permitted in accordance with 
+the Act and/or applicable COAH regulations. 
+WHEREFORE, the Borough of River Edge seeks a declaratory judgment for the 
+following relief: 
+a. Declaring that the Borough has established jurisdiction for the Program and the 
+Court to confirm its present and prospective affordable housing needs as set 
+forth in the binding resolution attached as Exhibit 1 to this DJ Action or to adjust 
+such determination consistent with the Act; 
+b. Declaring the present and prospective affordable housing obligations of River 
+Edge under the Act; 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 58 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 59 =====
+ 
+7
+c. Declaring the approval of River Edge  HEFSP subsequent to its adoption by 
+the Planning Board and its endorsement by the Council, including, as 
+appropriate and applicable, (i) a Vacant Land Adjustment predicated upon a 
+lack of vacant, developable and suitable land; (ii) a Durational Adjustment 
+(whether predicated upon lack of sanitary sewer or lack of water); (iii) an 
+adjustment predicated upon regional planning entity formulas, inputs or 
+considerations, as applicable; (iv) an adjustment based on any future legislation 
+that may be adopted that allows an adjustment of the affordable housing 
+obligations; (v)  an adjustment based upon any ruling in litigation involving 
+affordable housing obligations; (vi) an adjustment based upon the undertaking 
+of a Windshield Survey and/or (vii) any other applicable adjustment  permitted 
+in accordance with the Act and/or applicable COAH regulations; 
+d. Declaring that the Borough continues to have immunity from all exclusionary 
+zoning litigation and all litigation related to its affordable housing obligations 
+as established under the Program; 
+e. Declaring and issuing compliance certification and immunity from 
+exclusionary zoning litigation in accordance with the Act and Directive # 14-
+24 to River Edge for the period beginning July 1, 2025 and ending June 30, 
+2035; and 
+f. Declaring such other relief that the Program and Court deems just and proper 
+within the parameters of the Act and applicable COAH regulations. 
+COUNT III 
+ 
+HOUSING ELEMENT AND FAIR SHARE PLAN 
+ 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 59 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 60 =====
+8
+21.
+The Borough of River Edge repeats and realleges each and every allegation set forth
+in the previous paragraphs of this DJ Action as if set forth herein in full.
+22.
+Pursuant to the Act, a Housing Element and Fair Share Plan (hereinafter,
+(
+and adopted by the Planning Board, and endorsed by the Council,
+by June 30, 2025. 
+23.
+River Edge hereby commits for its professionals to prepare the appropriate HEFSP
+to address its affordable housing obligations, as determined by the Program and the Court which 
+HEFSP shall apply as appropriate, any applicable adjustments, including, without limitation,  1) a 
+Vacant Land Adjustment predicated upon a lack of vacant, developable and suitable land; 2) a 
+Durational Adjustment (whether predicated upon lack of sanitary sewer or lack of water); 3) an 
+adjustment predicated upon regional planning entity formulas, inputs or considerations, as 
+applicable; 4) an adjustment based on any future legislation that may be adopted that allows an 
+adjustment of the affordable housing obligations; 5)  an adjustment based upon any ruling in 
+litigation involving affordable housing obligations; 6) an adjustment based upon the undertaking 
+of a Windshield Survey and/or 7) any other applicable adjustment  permitted in accordance with 
+the Act and/or applicable COAH regulations.
+WHEREFORE, the Borough of River Edge seeks a declaratory judgment for the 
+following relief:
+a. Declaring that River Edge has established jurisdiction for the Program and the
+Court to confirm its present and prospective affordable housing needs as set
+forth in the binding resolution attached as Exhibit 1 to this DJ Action or to adjust
+such determination consistent with the Act;
+b. Declaring the present and prospective affordable housing obligations of River
+Edge under the Act;
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 60 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 61 =====
+ 
+9
+c. Declaring the approval of River Edge  HEFSP subsequent to its adoption by 
+the Planning Board and its endorsement by the Council, including, as 
+appropriate and applicable, (i) a Vacant Land Adjustment predicated upon a 
+lack of vacant, developable and suitable land; (ii) a Durational Adjustment 
+(whether predicated upon lack of sanitary sewer or lack of water); (iii) an 
+adjustment predicated upon regional planning entity formulas, inputs or 
+considerations, as applicable; (iv) an adjustment based on any future legislation 
+that may be adopted that allows an adjustment of the affordable housing 
+obligations; (v)  an adjustment based upon any ruling in litigation involving 
+affordable housing obligations; (vi) an adjustment based upon the undertaking 
+of a Windshield Survey and/or (vii) any other applicable adjustment  permitted 
+in accordance with the Act and/or applicable COAH regulations; 
+d. Declaring that the Borough of River Edge continues to have immunity from all 
+exclusionary zoning litigation and all litigation related to its affordable housing 
+obligations as established under the Program; 
+e. Declaring and issuing compliance certification and immunity from 
+exclusionary zoning litigation in accordance with the Act and Directive # 14-
+24 to the Borough of River Edge for the period beginning July 1, 2025 and 
+ending June 30, 2035; and 
+f. Declaring such other relief that the program and Court deems just and proper 
+within the parameters of the Act and applicable COAH regulations. 
+COUNT IV 
+ 
+CONFIRMATION OF IMMUNITY 
+ 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 61 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 62 =====
+ 
+10
+24. 
+The Borough of River Edge repeats and realleges each and every allegation set forth 
+in the previous paragraphs of this declaratory judgment complaint as if set forth herein in full. 
+25. 
+Pursuant to the Act, a municipality that complies with the deadlines in the Act for 
+both determining present and prospective affordable housing obligations and for adopting an 
+appropriate HEFSP shall have immunity from exclusionary zoning litigation. 
+26. 
+The Borough of River Edge has met the deadline for the adoption and filing of its 
+binding resolution (and the filing of this DJ Action in accordance with Directive # 14-24) not later 
+than January 31, 2025 by adopting the binding resolution attached to this DJ Action as Exhibit 1, 
+and has committed to the adoption of its HEFSP by June 30, 2025. 
+27. 
+Without waiving any judicial immunity from exclusionary zoning litigation that 
+River Edge possesses as a result of any applicable Judgment of Compliance and Repose entered 
+in favor of the Borough in Round 3, River Edge has qualified for continued immunity under the 
+Act while pursuing its certification of compliance in the instant matter. 
+WHEREFORE, the Borough of River Edge seeks a declaratory judgment for the 
+following relief: 
+a. Declaring that the Borough has established jurisdiction for the Program and the 
+Court to confirm its present and prospective affordable housing needs as set 
+forth in the binding resolution attached as Exhibit 1 to this DJ Action or to adjust 
+such determination consistent with the Act; 
+b. Declaring the present and prospective affordable housing obligations of River 
+Edge under the Act; 
+c. Declaring the approval of River Edge  HEFSP subsequent to its adoption by 
+the Planning Board and its endorsement by the Council, including, as 
+appropriate and applicable, (i) a Vacant Land Adjustment predicated upon a 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 62 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 63 =====
+ 
+11
+lack of vacant, developable and suitable land; (ii) a Durational Adjustment 
+(whether predicated upon lack of sanitary sewer or lack of water); (iii) an 
+adjustment predicated upon regional planning entity formulas, inputs or 
+considerations, as applicable; (iv) an adjustment based on any future legislation 
+that may be adopted that allows an adjustment of the affordable housing 
+obligations; (v)  an adjustment based upon any ruling in litigation involving 
+affordable housing obligations; (vi) an adjustment based upon the undertaking 
+of a Windshield Survey and/or (vii) any other applicable adjustment  permitted 
+in accordance with the Act and/or applicable COAH regulations; 
+d. Declaring that River Edge continues to have immunity from all exclusionary 
+zoning litigation and all litigation related to its affordable housing obligations 
+as established under the Program; 
+e. Declaring and issuing compliance certification and immunity from 
+exclusionary zoning litigation in accordance with the Act and Directive # 14-
+24 to River Edge for the period beginning July 1, 2025 and ending June 30, 
+2035; and 
+f. Declaring such other relief that the Program and Court deems just and proper 
+within the parameters of the Act and applicable COAH regulations. 
+ 
+SURENIAN, EDWARDS, BUZAK & NOLAN LLC  
+Attorneys for the Declaratory Plaintiff  
+Borough of River Edge 
+ 
+Edward J. Buzak 
+By: __________________________________ 
+ 
+     
+ 
+ 
+Edward J. Buzak, Esq.  
+ 
+Dated:  January 24, 2025 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 63 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 64 =====
+ 
+12
+CERTIFICATION PURSUANT TO R. 4:5-1 
+ 
+Edward J. Buzak, Esq., of full age, hereby certifies as follows: 
+ 
+1. 
+I am a member of the Firm of Surenian, Edwards, Buzak & Nolan LLC, attorneys 
+for declaratory plaintiff, Borough of River Edge.  
+2. 
+To the best of my knowledge, there is no other action pending in any court or any 
+pending arbitration proceeding of which the matter in controversy herein is the subject and no such 
+other action or arbitration proceeding is contemplated.  To the best of my knowledge, there are no 
+other parties who should be joined in this action. 
+3. 
+The within Complaint was filed and served within the time prescribed by the Rules 
+of Court. 
+I hereby certify that the foregoing statements made by me are true.  I am aware that if any 
+of the foregoing statements made by me are willfully false, I am subject to punishment. 
+ 
+SURENIAN, EDWARDS, BUZAK & NOLAN LLC  
+Attorneys for the Declaratory Plaintiff  
+Borough of River Edge 
+ 
+Edward J. Buzak 
+By: __________________________________ 
+ 
+     
+ 
+ 
+Edward J. Buzak, Esq.  
+ 
+Dated:  January 24, 2025 
+ 
+ 
+CERTIFICATION PURSUANT TO R. 1:38-7(b) 
+ 
+Edward J. Buzak, Esq., of full age, hereby certifies as follows: 
+ 
+1. 
+ I am a member of the firm of Surenian, Edwards, Buzak & Nolan LLC, attorneys 
+for Declaratory Plaintiff, Borough of River Edge. 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 64 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 65 =====
+ 
+13
+2. 
+I certify that confidential personal identifiers have been redacted from documents 
+now submitted to the Court and will be redacted from all documents submitted in the future in 
+accordance with R. 1:38-7(b).  
+I hereby certify that the foregoing statements made by me are true.  I am aware that if any 
+of the foregoing statements made by me are willfully false, I am subject to punishment. 
+ 
+SURENIAN, EDWARDS, BUZAK & NOLAN LLC  
+Attorneys for the Declaratory Plaintiff  
+Borough of River Edge 
+ 
+Edward J. Buzak 
+By: __________________________________ 
+ 
+     
+ 
+ 
+Edward J. Buzak, Esq.  
+ 
+Dated:  January 24, 2025 
+ 
+ 
+ 
+DESIGNATION OF TRIAL COUNSEL 
+ 
+ 
+Pursuant to R. 4:25-4, notice is hereby given that Edward J. Buzak, Esq., attorney for the 
+Declaratory Plaintiff, Borough of River Edge is designated as trial counsel in the above captioned 
+matter. 
+SURENIAN, EDWARDS, BUZAK & NOLAN LLC  
+Attorneys for the Declaratory Plaintiff  
+Borough of River Edge 
+ 
+Edward J. Buzak 
+By: __________________________________ 
+ 
+     
+ 
+ 
+Edward J. Buzak, Esq.  
+ 
+Dated:  January 24, 2025 
+ 
+                                                                                                                                                                                              
+BER-L-000602-25   06/27/2025 10:31:55 AM   Pg 65 of 66   Trans ID: LCV20251872450 
+
+===== PAGE 66 =====
+BER-L-000602-25
+06/27/2025 10:31:55 AM
+Pg 66 of 66
+Trans ID: LCV20251872450
+EXHIBT 1
+RESOLUTION OF THE TOWNSHIP OF HOPEWELL, COUNTY OF
+CUMBERLAND, COMPLYING WITH AMENDED FAIR HOUSING ACT
+RESOLUTION #2025-35
+WHEREAS, on March 20, 2024, Governor Murphy signed into law an Amendment to the
+Fair Housing Act (N.J.S.A. 52:27D-301 et seq.) (hereinafter “Amended FHA”); and
+WHEREAS, the Amended FHA requires the Department ofCommunity Affairs (“DCA”)
+to produce a report of non-binding estimates of the present need obligations (also known as the
+rehabilitation obligation) and the Round 4 prospective need by October 20, 2024; and
+WHEREAS, the DCA issued a report on October 18, 2024 (“DCA Report”) wherein it
+reported its estimate of the obligation for all municipalities based upon its interpretation of the
+standards in the Amended FHA; and
+WHEREAS, the DCA Report calculates the Round 4 (2025-2035) obligations of the
+Township of Hopewell as follows: a Present Need or Rehabilitation Obligation of 31 and a
+Prospective Need or New Construction Obligation of 67; and
+WHEREAS, the Amended FHA provides that the DCA Report is non-binding, thereby
+inviting municipalities to demonstrate that the Amended FHA would support lower calculations
+of Round 4 affordable housing obligations; and
+WHEREAS, the Amended FHA further provides that “[a]ll parties shall be entitled to rely
+upon regulations on municipal credits, adjustments, and compliance mechanisms adopted by
+COAH unless those regulations are contradicted by statute, including P.L. 2024, c.2, or binding
+court decisions” (N.J.S.A 52:27D-311 (m)); and
+WHEREAS, COAH regulations authorize adjustments to the rehab obligation through a
+visual exterior survey and vacant land adjustments as well as durational adjustments to the new
+construction obligations; and
+WHEREAS, based on the foregoing, the Township of Hopewell accepts the DCA
+calculations of its fair share obligations and commits to its fair share of 31 units present need and
+67 unit Round 4 prospective need subject to any adjustments it may seek in accordance with COAH
+regulations as part of the Housing Element and Fair Share Plan it subsequently submits in
+accordance with the Amended FHA; and
+WHEREAS, in addition to setting forth its fair share affordable housing obligations for
+the reasons summarized above, substantial activity has occurred and is ongoing that warrants the
+reservation ofcertain rights to avoid any claim that it has waived them; and
+WHEREAS, for example, the New Jersey Institute of Local Government Attorneys
+(“NJILGA”)
+has
+expressed
+its
+support
+for
+proposed
+legislation
+(hereinafter “NJILGA
+Legislation”) that would reduce Hopewell’s Round 4 Prospective Need and would give the
+Page 1 of 4
+TC Resolution 2025-35
