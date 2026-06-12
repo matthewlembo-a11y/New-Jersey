@@ -1,0 +1,434 @@
+[
+  {
+    "municipality": "Cliffside Park",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": null,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": "QUAM-exempt",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted-resolution",
+      "hefsp_adopted_date": null,
+      "hefsp_url": "https://www.cliffsideparknj.gov/departments/building_department/cliffside_park_fourth_round_housing_element_and_fair_share_plan_.php"
+    },
+    "notes": "Cliffside Park holds QUAM (Qualified Urban Aid Municipality) status under the Fourth Round, making it exempt from the standard prospective-need new-construction obligation. The borough adopted a Resolution Determining Affordable Housing Obligations for July 1, 2025 through June 30, 2035. A dedicated Fourth Round Housing Element and Fair Share Plan page exists on the municipal website. No library.njcourts.gov HEFSP document was found for Cliffside Park specifically, suggesting the borough may be proceeding under QUAM provisions rather than filing a full HEFSP with the Affordable Housing Dispute Resolution Program. Specific present-need and prospective-need unit counts were not surfaced by search results; numeric obligations are likely zero or near-zero due to QUAM status. No development sites were identified in search results.",
+    "sources": [
+      {
+        "doc_type": "other",
+        "title": "Cliffside Park Fourth Round Housing Element and Fair Share Plan (municipal webpage)",
+        "url": "https://www.cliffsideparknj.gov/departments/building_department/cliffside_park_fourth_round_housing_element_and_fair_share_plan_.php"
+      },
+      {
+        "doc_type": "other",
+        "title": "Affordable Housing Ordinances & Resolutions - Cliffside Park",
+        "url": "https://www.cliffsideparknj.gov/affordable_housing_/index.php"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "2025 to 2035 Affordable Housing Calculations - NJ DCA",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents - NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      }
+    ],
+    "sites": []
+  },
+  {
+    "municipality": "Closter",
+    "research_status": "done",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": null,
+      "total_obligation": 241,
+      "rdp": 0,
+      "unmet_need": 241,
+      "source_url": "https://hometownecho.com/new-jersey/bergen-county/closter/closter-planning-board-june-26-2025/"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-26",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/closter-boro/PlanningBdResolutionHEFSP.pdf?VersionId=THCHDrR.p9RB7lOkAHMd5Md647glECF4"
+    },
+    "notes": "Closter's Fourth Round obligation is 241 affordable units. The borough has a zero-unit RDP (vacant land adjustment), yielding 241 units of unmet need. The law requires providing realistic zoning for at least 25% of unmet need (61 units). HEFSP adopted June 26, 2025 by Planning Board and endorsed same day by Borough Council. Mechanisms include an Affordable Housing Overlay (AHO) District over Commercial (District 4) and Industrial (District 5 and 5A) areas at 12 units/acre density with 20% set-aside; owner-occupied townhouses permitted at 8 units/acre with 20% set-aside. Village School Commons (511 Durie Ave) is a fully separate 100%-affordable 35-unit project (groundbreaking January 21, 2026) financed with 4% LIHTC and bond financing. Ordinance 2025-1352 provided $2M grant to the Village School developer. Specific individual site block/lot numbers beyond Village School not surfaced in searches.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Closter Planning Board Resolution Adopting HEFSP - library.njcourts.gov",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/closter-boro/PlanningBdResolutionHEFSP.pdf?VersionId=THCHDrR.p9RB7lOkAHMd5Md647glECF4"
+      },
+      {
+        "doc_type": "news",
+        "title": "Closter Planning Board Approves Major Affordable Housing Plan Update - Hometown Echo",
+        "url": "https://hometownecho.com/new-jersey/bergen-county/closter/closter-planning-board-june-26-2025/"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Borough of Closter Ordinance No. 2025-1352 (bond ordinance for Village School project)",
+        "url": "https://ecode360.com/CL0218/laws/LF2367451.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Article XIB: Affordable Housing Overlay - Borough of Closter, NJ - eCode360",
+        "url": "https://ecode360.com/7051698"
+      },
+      {
+        "doc_type": "other",
+        "title": "Village School Commons - Affordable Housing Information Update - Closter Borough",
+        "url": "https://www.closterboro.com/article/2637745"
+      },
+      {
+        "doc_type": "news",
+        "title": "Closter Village School Commons groundbreaking - Pascack Press",
+        "url": "https://thepressgroup.net/a-great-day-for-closter-cheers-as-groundbreaking-marks-adaptive-reuse-of-1900-school-into-35-homes/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Closter Village School Commons - Mastermind Ltd developer page",
+        "url": "https://www.mastermindltd.com/projects/closter-village-school-commons/"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Village School Commons",
+        "address": "511 Durie Avenue, Closter, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 35,
+        "affordable_units": 35,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "Mastermind Development",
+        "source_url": "https://www.mastermindltd.com/projects/closter-village-school-commons/",
+        "source_date": "2026-01-21",
+        "confidence": "medium",
+        "notes": "Adaptive reuse of former Closter Village School. 35 income-restricted rental units (1-, 2-, and 3-BR mix). Financed with 4% LIHTC and tax-exempt bond financing through NJHMFA. Borough provided $2M grant via Ordinance 2025-1352. Groundbreaking January 21, 2026."
+      },
+      {
+        "site_name": "Affordable Housing Overlay District - Commercial/Industrial Areas",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": "Commercial District 4 / Industrial District 5 / Industrial District 5A",
+        "proposed_zoning": "Affordable Housing Overlay (AHO)",
+        "density": 12,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/7051698",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Borough's AHO District permits apartments at 12 units/acre with 20% affordable set-aside and owner-occupied townhouses at 8 units/acre with 20% set-aside. At least 13% of affordable units to be very-low-income. Created to satisfy borough's 61-unit minimum zoning requirement (25% of 241 unmet need)."
+      }
+    ]
+  },
+  {
+    "municipality": "Cresskill",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 0,
+      "prospective_need": 155,
+      "total_obligation": 155,
+      "rdp": 0,
+      "unmet_need": 155,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/CresskillHousingElementFairSharePlanEndorsedandSigned.pdf?VersionId=9vgOwyGNroV3HNw6sFmpQ2LXluWz6M8q"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": null,
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/CresskillHousingElementFairSharePlanEndorsedandSigned.pdf?VersionId=9vgOwyGNroV3HNw6sFmpQ2LXluWz6M8q"
+    },
+    "notes": "Cresskill has a Fourth Round prospective need of 155 units and zero present need (rehabilitation). The borough's RDP was found to be zero after vacant land assessment, making all 155 units unmet need. Borough must provide realistic zoning for at least 25% (approximately 39 units). A fully executed settlement agreement with FSHC exists. HEFSP is endorsed and signed, filed with library.njcourts.gov. Borough continues Third-Round overlay programs and modifies them for Fourth Round, specifically increasing density and set-aside on Block 181, Lot 1. Existing mandatory set-aside applies to developments of 5+ market-rate units. Set-aside is 15% for rental, 20% for for-sale. Specific settlement date not identified in search results.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Fourth Round Housing Element and Fair Share Plan - Borough of Cresskill (endorsed and signed) - library.njcourts.gov",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/CresskillHousingElementFairSharePlanEndorsedandSigned.pdf?VersionId=9vgOwyGNroV3HNw6sFmpQ2LXluWz6M8q"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Cresskill Resolution No. 5 - Affordable Housing Determination Round 4",
+        "url": "https://www.cresskillboro.com/index.php/government/forms/affordable-housing/1198-resolution-no-5-affordable-housing-determination-round-4/file"
+      },
+      {
+        "doc_type": "other",
+        "title": "Cresskill NJ - Affordable Housing",
+        "url": "https://www.cresskillboro.com/government/forms/affordable-housing"
+      },
+      {
+        "doc_type": "other",
+        "title": "Article XXIX: Affordable Housing - Borough of Cresskill, NJ - eCode360",
+        "url": "https://ecode360.com/6272453"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Cresskill, NJ TR Townhouse Residence Zone - eCode360",
+        "url": "https://ecode360.com/6272164"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Block 181, Lot 1 - TR Zone Inclusionary Site",
+        "address": null,
+        "block": "181",
+        "lot": "1",
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": "TR (Townhouse Residence)",
+        "proposed_zoning": "TR with increased density and set-aside (Fourth Round modification)",
+        "density": 15,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 15,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/CresskillHousingElementFairSharePlanEndorsedandSigned.pdf?VersionId=9vgOwyGNroV3HNw6sFmpQ2LXluWz6M8q",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Fourth Round HEFSP specifically increases both the allowable density and mandatory affordable set-aside for this parcel compared to Third Round. Maximum permitted density is 15 units/acre. Permitted uses include mixed-use inclusionary (market-rate and affordable) housing development. 15% affordable set-aside applies to rental units; 20% for for-sale. Height limit 35 feet or 3 stories; additional Borough subsidy available up to 15 units. Borough may provide financial incentive from trust fund. Total unit count not stated in search results."
+      }
+    ]
+  },
+  {
+    "municipality": "Demarest",
+    "research_status": "done",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": null,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/demarest-boro/DemarestHEFSP.pdf?VersionId=Qf_L.KIfrX5BMgvXX0GS.A9Mm7v6kmYh"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-05",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/demarest-boro/DemarestHEFSP.pdf?VersionId=Qf_L.KIfrX5BMgvXX0GS.A9Mm7v6kmYh"
+    },
+    "notes": "Demarest's Joint Planning Board adopted the 2025 Housing Element & Fair Share Plan (prepared by Colliers Engineering & Design, dated May 16, 2025) on June 5, 2025, via Resolution RES-JPB-009-25. Borough Council endorsed it and it was filed with the Affordable Housing Dispute Resolution Program. The plan implements multiple mechanisms: (1) Accessory Apartment Program administered by Housing Authority of Bergen County - subsidy of $25,000/low-income unit and $20,000/moderate-income unit (max creditable = 10 or 10% of obligation, whichever is greater); (2) Downtown Rehabilitation/Redevelopment Area centered on Hardenburgh Avenue (11.2 acres, 23 tax lots including Block 23 Lots 9-23 and Blocks 46 and 49.01) - Ordinance 1177-26 (March 12, 2026) adopted amended Redevelopment Plan by Colliers Engineering to conform to 2025 HEFSP; (3) Overlay zones for unmet need. Implementing ordinances: Ord. 1173-26 (accessory apt subsidies), Ord. 1174-26, Ord. 1175-26 (development fees), Ord. 1176-26 (affordable housing regulations, replacing Article X), Ord. 1177-26 (amended redevelopment plan). HEFSP was amended and a public hearing held February 4, 2026. Specific total obligation unit counts (present need/prospective need) not confirmed in search results; the HEFSP document at library.njcourts.gov should contain those figures.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "2025 Housing Element & Fair Share Plan - Borough of Demarest - library.njcourts.gov",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/demarest-boro/DemarestHEFSP.pdf?VersionId=Qf_L.KIfrX5BMgvXX0GS.A9Mm7v6kmYh"
+      },
+      {
+        "doc_type": "other",
+        "title": "Resolution RES-JPB-009-25 Adopting 2025 Housing Element and Fair Share Plan - Demarest Joint Planning Board",
+        "url": "https://demarestnj.gov/government/documents/meeting-documents/planning-board-meetings/2025-planning-board-meeting-documents/2025-resolutions-planning-board/1581-res-jpb-009-25-adopting-2025-housing-element-and-fair-share-plan/file"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Borough of Demarest Ordinance #1173-26 - Amending Affordable Accessory Apartment Subsidies",
+        "url": "https://demarestnj.gov/government/forms/clerk/public-notices/2020-notice-of-ordinance-introduction-1173-26-an-ordinance-amending-chapter-175-zoning-to-increase-the-subsidy-for-affordable-accessory-apartments-to-implement-the-recommendations-of-the-2025-housing-element-fair-share-plan/file"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Borough of Demarest Ordinance #1175-26 - Development Fees",
+        "url": "https://demarestnj.gov/government/forms/clerk/public-notices/2051-amended-notice-of-public-hearing-and-consideration-of-adoption-ordinance-no-1175-26/file"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Borough of Demarest Ordinance #1176-26 - Affordable Housing Regulations",
+        "url": "https://demarestnj.gov/government/forms/clerk/public-notices/2041-notice-of-introduction-ordinance-no-1176-26-an-ordinance-deleting-and-replacing-article-x-affordable-housing-obligations-of-chapter-175-zoning-to-be-called-affordable-housing-and-deleting-sections-175-46-through-175-46-5-to-update-the-borough-s-a/file"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Borough of Demarest Ordinance #1177-26 - Amended Redevelopment Plan (Colliers Engineering)",
+        "url": "https://demarestnj.gov/government/forms/clerk/public-notices/2042-notice-of-introduction-ordinance-no-1177-26-ordinance-of-the-borough-of-demarest-adopting-the-amended-redevelopment-plan-produced-by-colliers-engineering-on-behalf-of-the-borough-of-demarest/file"
+      },
+      {
+        "doc_type": "other",
+        "title": "Demarest's Downtown Zoning is Updated in New Rehabilitation Area Plan - Pascack Press",
+        "url": "https://thepressgroup.net/demarests-downtown-zoning-is-updated-in-new-rehabilitation-area-plan/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Demarest Affordable Housing page",
+        "url": "https://demarestnj.gov/government/affordable-housing"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Downtown Rehabilitation/Redevelopment Area (Hardenburgh Avenue Area)",
+        "address": "Hardenburgh Avenue corridor, Demarest, NJ 07627",
+        "block": "23",
+        "lot": "9, 10, 12, 13, 14, 15, 16, 17.01, 17.02, 19, 20, 21, 23 (also Blocks 46 and 49.01)",
+        "acreage": 11.2,
+        "mechanism": "redevelopment-area",
+        "current_zoning": "Area in Need of Rehabilitation",
+        "proposed_zoning": "Amended Redevelopment Plan (Colliers Engineering, January 2026)",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://demarestnj.gov/government/forms/clerk/public-notices/2042-notice-of-introduction-ordinance-no-1177-26-ordinance-of-the-borough-of-demarest-adopting-the-amended-redevelopment-plan-produced-by-colliers-engineering-on-behalf-of-the-borough-of-demarest/file",
+        "source_date": "2026-03-12",
+        "confidence": "medium",
+        "notes": "11.2-acre downtown rehabilitation area includes 23 tax lots in Block 23 and other blocks (46, 49.01). Amended Redevelopment Plan adopted via Ordinance 1177-26 (March 12, 2026) conforming to 2025 HEFSP. Includes commercial/retail and residential uses. Plan enables mixed-use and residential development to generate affordable units. Specific density, unit counts, and set-aside percentages not stated in available search results."
+      },
+      {
+        "site_name": "Accessory Apartment Program",
+        "address": "Borough-wide",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "accessory-apt",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": "Housing Authority of Bergen County (administrator)",
+        "source_url": "https://demarestnj.gov/government/forms/clerk/public-notices/2020-notice-of-ordinance-introduction-1173-26-an-ordinance-amending-chapter-175-zoning-to-increase-the-subsidy-for-affordable-accessory-apartments-to-implement-the-recommendations-of-the-2025-housing-element-fair-share-plan/file",
+        "source_date": "2026-02-09",
+        "confidence": "medium",
+        "notes": "Ordinance 1173-26 (adopted February 9, 2026) increases subsidy: $25,000/low-income unit, $20,000/moderate-income unit. Maximum creditable accessory apartments = 10 or 10% of total obligation, whichever is greater. Administered by Housing Authority of Bergen County (Piazza and Associates previously cited as administrative entity). Ord. 1173-26 adoption notice filed 2026."
+      },
+      {
+        "site_name": "35 Knickerbocker Road Site",
+        "address": "35 Knickerbocker Road, Demarest, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://demarestnj.gov/government/forms/planning-board/active-applications-1/active-joint-planning-board-applications/jpb-25-009-35-knickerbocker-rd/1925-engineering-plans-08-28-2025/file",
+        "source_date": "2025-08-28",
+        "confidence": "low",
+        "notes": "Active Joint Planning Board application JPB-25-009 for 35 Knickerbocker Road, with engineering plans filed August 28, 2025. Connection to affordable housing obligation not definitively confirmed in search results; may be a related development application under the HEFSP framework. Block/lot and unit counts not stated in available search results."
+      }
+    ]
+  },
+  {
+    "municipality": "Dumont",
+    "research_status": "done",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": null,
+      "total_obligation": null,
+      "rdp": 0,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/dumont-boro/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-11",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/dumont-boro/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr"
+    },
+    "notes": "Dumont's adopted Fourth Round HEFSP (Exhibit B) was filed with library.njcourts.gov on June 11, 2025. Dumont is a dense, mature municipality designated Metropolitan Planning Area (PA1) with effectively zero RDP from vacant land. The borough previously received a Judgment of Compliance and Repose on March 8, 2019 covering through July 1, 2025. The Fourth Round plan relies heavily on redevelopment-area infill sites. Two specific sites identified: (1) The Crescent - a redevelopment project expected to generate 48 total units with 7 affordable (15% set-aside rental), with an additional 3.5 infill bonus credits for 10.5 total credits; (2) 125 Washington Avenue (Block 1216, Lot 1) - multi-family rental above existing retail, 1 affordable unit with 0.5 infill bonus for 1.5 total credits. Note: information about these sites from search result synthesis may partially reflect the Third Round/amended plan context; the Fourth Round HEFSP document at njcourts.gov should be verified directly for current unit counts. Specific total Fourth Round obligation units (present need and prospective need) not surfaced by search results.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Dumont Borough Adopted HEFSP Final (Exhibit B) - library.njcourts.gov",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/dumont-boro/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr"
+      },
+      {
+        "doc_type": "other",
+        "title": "Affordable Housing FAQs - Dumont Borough",
+        "url": "https://dumontnj.us/frequently-asked-questions/140-affordable-housing-faqs"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "2025 to 2035 Affordable Housing Calculations - NJ DCA",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents - NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "The Crescent (Redevelopment Site)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 48,
+        "affordable_units": 7,
+        "set_aside_pct": 15,
+        "tenure": "rental",
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/dumont-boro/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr",
+        "source_date": "2025-06-11",
+        "confidence": "low",
+        "notes": "Project is expected to generate 48 total units with 7 affordable units (15% set-aside rental). An additional 3.5 infill bonus credits applied (qualifies for 0.5 credit per unit), totaling 10.5 credits against the obligation. Unit counts and set-aside from search result synthesis of HEFSP document; values should be verified against the source PDF. Block/lot not stated in search results."
+      },
+      {
+        "site_name": "125 Washington Avenue",
+        "address": "125 Washington Avenue, Dumont, NJ",
+        "block": "1216",
+        "lot": "1",
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": 1,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/dumont-boro/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr",
+        "source_date": "2025-06-11",
+        "confidence": "low",
+        "notes": "Multi-family rental development above existing retail. 1 affordable unit plus 0.5 infill bonus credit = 1.5 total credits against obligation. Block 1216, Lot 1 stated in search result synthesis of HEFSP document; should be verified against source PDF. Total unit count for this project not stated in search results."
+      }
+    ]
+  }
+]

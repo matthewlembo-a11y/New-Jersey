@@ -1,0 +1,612 @@
+[
+  {
+    "municipality": "Garfield",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": 322,
+      "prospective_need": 0,
+      "total_obligation": 322,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/garfield-city/4300.00GarfieldHousingElementMay222025forfiling.pdf?VersionId=c_jz6.q7XgIzCwKh8eJnFJs98YmmURpZ"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-05-22",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/garfield-city/4300.00GarfieldHousingElementMay222025forfiling.pdf?VersionId=c_jz6.q7XgIzCwKh8eJnFJs98YmmURpZ"
+    },
+    "notes": "Garfield is designated as a Qualified Urban Aid (QUA) municipality and therefore has only a rehabilitation (present need) obligation of 322 units and zero prospective (new construction) obligation for the Fourth Round. The City adopted a binding resolution on January 21, 2025. Court case docket is BER-L-000506-25. A May 5, 2025 court order initially listed rehabilitation as zero, but the Town Attorney confirmed this was an error; the DCA-determined rehabilitation obligation is 322 units. The HEFSP was filed May 22, 2025. Because the obligation is rehabilitation-only and Garfield is a dense urban city, specific development sites in the conventional sense (block/lot rezoning for new construction) were not surfaced in search results. No individual inclusionary or redevelopment sites found in available snippets.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Housing Element City of Garfield Bergen County, New Jersey (May 22, 2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/garfield-city/4300.00GarfieldHousingElementMay222025forfiling.pdf?VersionId=c_jz6.q7XgIzCwKh8eJnFJs98YmmURpZ"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "2025 to 2035 Affordable Housing Calculations - NJ DCA",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents | NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      }
+    ],
+    "sites": []
+  },
+  {
+    "municipality": "Glen Rock",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 0,
+      "prospective_need": 201,
+      "total_obligation": 201,
+      "rdp": 0,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/glen-rock-boro/ExBPt1GRFinalHEFSPAdopted61625.pdf?VersionId=e4CnyRdW2JYsppHZJVI9bkl.9YYHr0Qz"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2019-09-20",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-16",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/glen-rock-boro/ExBPt1GRFinalHEFSPAdopted61625.pdf?VersionId=e4CnyRdW2JYsppHZJVI9bkl.9YYHr0Qz"
+    },
+    "notes": "On June 4, 2025, Judge Gregg A. Padovano (Bergen Vicinage Mount Laurel judge) entered an order setting Present Need = 0 and Prospective Need = 201. The Borough filed a declaratory judgment action on January 23, 2025. The Fourth Round HEFSP was adopted June 16, 2025 (filename indicates '61625'). The 2019 settlement with FSHC addressed Prior Round and Third Round obligations. A challenge to the Fourth Round HEFSP was filed by 66 Glen Ave, L.L.C. on August 28, 2025; after mediation a settlement agreement was being considered for approval by the Borough Council on December 29, 2025. Borough Council adopted Ordinance No. 1957 creating new AHO-2A, AHO-3, and AHO-4 overlay districts. The Borough's RDP for the Fourth Round was set at 0 additional units (i.e., existing overlay zones and set-aside requirements are relied upon to demonstrate realistic opportunity). The AHO-1 zone requires 20% affordable set-aside for for-sale and 15% for rental. Municipal program includes converting 2 Borough-owned properties to affordable housing via Nouvelle LLC (261 Rock Road - 11 units; 23 Kenmore Place - independent special needs). Pre-applications for the Rock Road building were accepted via Bergen County.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Housing Element and Fair Share Plan - Glen Rock Borough (Adopted June 16, 2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/glen-rock-boro/ExBPt1GRFinalHEFSPAdopted61625.pdf?VersionId=e4CnyRdW2JYsppHZJVI9bkl.9YYHr0Qz"
+      },
+      {
+        "doc_type": "other",
+        "title": "Glen Rock NJ - Notice of Final Affordable Housing Compliance Hearing",
+        "url": "https://www.glenrocknj.net/government/news/432-notice-of-final-affordable-housing-compliance-hearing"
+      },
+      {
+        "doc_type": "other",
+        "title": "AHO-1 Affordable Housing Overlay-I District - Borough of Glen Rock, NJ",
+        "url": "https://ecode360.com/37173055"
+      },
+      {
+        "doc_type": "other",
+        "title": "AHO-2 Affordable Housing Overlay-II District - Borough of Glen Rock, NJ",
+        "url": "https://ecode360.com/37173056"
+      },
+      {
+        "doc_type": "other",
+        "title": "Glen Rock - December 29, 2025 Mayor and Council Special Meeting Agenda (66 Glen Ave settlement)",
+        "url": "https://glenrocknj.net/government/documents/meeting-documents/mayor-council-meeting/2025-mayor-council-meeting-documents/2025-agendas-mayor-council/1681-12-29-25-mayor-council-special-meeting-agenda-attachments/file"
+      },
+      {
+        "doc_type": "news",
+        "title": "Glen Rock Turning 2 Properties Into Affordable Housing: Report | Patch",
+        "url": "https://patch.com/new-jersey/ridgewood/glen-rock-turning-2-properties-affordable-housing-report"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Pre-Applications - Glen Rock | Borough of Oakland NJ",
+        "url": "https://www.oakland-nj.org/home/news/bergen-county-affordable-housing-pre-applications-now-being-accepted-east-rutherford-fair"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "261 Rock Road (Rock Road Residence / Nouvelle LLC)",
+        "address": "261 Rock Road, Glen Rock, NJ 07452",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 11,
+        "affordable_units": 11,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "Nouvelle LLC",
+        "source_url": "https://patch.com/new-jersey/ridgewood/glen-rock-turning-2-properties-affordable-housing-report",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Three-story, 11-unit 100% affordable residence on Rock Road. Borough contributing $605,000 from Affordable Housing Trust Fund. Pre-applications accepted via Bergen County. Exact block/lot not found in search results."
+      },
+      {
+        "site_name": "23 Kenmore Place (Independent Special Needs / Nouvelle LLC)",
+        "address": "23 Kenmore Place, Glen Rock, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "group-home",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "Nouvelle LLC",
+        "source_url": "https://patch.com/new-jersey/ridgewood/glen-rock-turning-2-properties-affordable-housing-report",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Independent special needs affordable housing project. Unit count not confirmed in search snippets. Exact block/lot not found."
+      },
+      {
+        "site_name": "AHO-1 Affordable Housing Overlay-I District",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "AHO-1",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/37173055",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Municipalwide overlay. Set-aside is 20% for for-sale units, 15% for rental units. Established under prior settlement with FSHC. Specific block/lot list not available in web search results."
+      },
+      {
+        "site_name": "AHO-2 Affordable Housing Overlay-II District",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "AHO-2",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/37173056",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Second overlay district established under Court-approved Settlement Agreement with FSHC. Specific block/lot list not available in web search results."
+      },
+      {
+        "site_name": "66 Glen Avenue (Intervenor Site)",
+        "address": "66 Glen Avenue, Glen Rock, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "proposed",
+        "developer": "66 Glen Ave, L.L.C.",
+        "source_url": "https://glenrocknj.net/government/documents/meeting-documents/mayor-council-meeting/2025-mayor-council-meeting-documents/2025-agendas-mayor-council/1681-12-29-25-mayor-council-special-meeting-agenda-attachments/file",
+        "source_date": "2025-12-29",
+        "confidence": "low",
+        "notes": "66 Glen Ave, L.L.C. challenged the Fourth Round HEFSP on August 28, 2025 and reached a settlement agreement with the Borough by December 2025. Unit counts and set-aside details not found in search results."
+      }
+    ]
+  },
+  {
+    "municipality": "Hackensack",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 593,
+      "prospective_need": 0,
+      "total_obligation": 593,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/hackensack-city/6112025HackensackFourthRoundHEFSPwoutappendicesADOPTED.pdf?VersionId=Qu2zBKhRwv.CoVO96mXNgzJNgYZAuDOu"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2020-09-10",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-11",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/hackensack-city/6112025HackensackFourthRoundHEFSPwoutappendicesADOPTED.pdf?VersionId=Qu2zBKhRwv.CoVO96mXNgzJNgYZAuDOu"
+    },
+    "notes": "Hackensack is a Qualified Urban Aid municipality with a present need (rehabilitation) obligation of 593 and zero prospective (new construction) obligation for the Fourth Round. Binding resolution adopted January 28, 2025; declaratory judgment complaint filed January 29, 2025 (Docket BER-L-000724-25). HEFSP adopted June 11, 2025. Court adopted the spending plan on June 26, 2025 (separate resolution). Settlement with FSHC approved by Superior Court November 5, 2020. Affordable Housing Trust Fund balance as of March 31, 2025 was $6,644,917.16; city projects ~$15,178,831 in development and redevelopment fees through 2035. The Inclusionary Overlay Zone (IO-1) along northern Main Street, Johnson Avenue, Essex Street, and Hudson Street (Ordinance No. 02-21, adopted January 26, 2021) requires 10% affordable set-aside. Several specific redevelopment projects tracked as credits toward the rehabilitation obligation.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Fourth Round Housing Element and Fair Share Housing Plan - City of Hackensack (Adopted June 11, 2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/hackensack-city/6112025HackensackFourthRoundHEFSPwoutappendicesADOPTED.pdf?VersionId=Qu2zBKhRwv.CoVO96mXNgzJNgYZAuDOu"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Hackensack Fourth Round HEFSP Appendix 1 of 12",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/hackensack-city/APPENDIX1of12AFHackensack4thRoundHEFSP.pdf?VersionId=J_RmyDuCwglGmAxxQLOsSTKotD0P1jpL"
+      },
+      {
+        "doc_type": "settlement",
+        "title": "Hackensack Resolution Adopting Spending Plan (June 26, 2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/hackensack-city/62625HackensackResoAdoptSP.pdf?VersionId=Nuh3fhdX5p0m_bDwUa9.UzxvXOPZRVWc"
+      },
+      {
+        "doc_type": "other",
+        "title": "Affordable Housing Information - City of Hackensack",
+        "url": "https://www.hackensack.org/affordable/"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "City of Hackensack Ordinance No. 02-2021 (IO-1 Inclusionary Overlay Zone)",
+        "url": "https://ecode360.com/HA0454/laws/LF1285914.pdf"
+      },
+      {
+        "doc_type": "news",
+        "title": "Hackensack will Build on a Municipal Parking Lot to Meet its Affordable Housing Obligations",
+        "url": "https://theridgewoodblog.net/hackensack-will-build-on-a-municipal-parking-lot-to-meet-its-affordable-housing-obligations/comment-page-1/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Affordable Housing Projects Progress in Hackensack: Essex Street and Railroad Place Developments",
+        "url": "https://theridgewoodblog.net/affordable-housing-projects-progress-in-hackensack-essex-street-and-railroad-place-developments/"
+      },
+      {
+        "doc_type": "news",
+        "title": "One of Downtown Hackensack's Largest Undeveloped Sites Moves Closer to Redevelopment (1 Essex St) | Jersey Digs",
+        "url": "https://jerseydigs.com/1-essex-street-hackensack-redevelopment/"
+      },
+      {
+        "doc_type": "other",
+        "title": "111 Essex Street & 142-144 Kansas Street Redevelopment Plan (Feb 2024)",
+        "url": "https://www.hackensack.org/wp-content/uploads/2024/05/111-Essex-Street-Redevelopment-Plan-02.15.24.pdf"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Parking Lot T Redevelopment",
+        "address": "Parking Lot T, off Main Street, Hackensack, NJ",
+        "block": "305",
+        "lot": "2",
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 268,
+        "affordable_units": 60,
+        "set_aside_pct": 22,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "Capodagli Properties",
+        "source_url": "https://theridgewoodblog.net/hackensack-will-build-on-a-municipal-parking-lot-to-meet-its-affordable-housing-obligations/comment-page-1/",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "15-story, 268-unit building with 60 affordable units on city-owned Parking Lot T, Block 305, Lot 2. Amended Settlement Agreement approved by governing body November 9, 2021. Developer identified as Capodagli Properties per news reports. Set-aside pct calculated from 60/268 = ~22%; not directly stated. Site plan was in progress as of 2023-2024."
+      },
+      {
+        "site_name": "111 Essex Street / 142-144 Kansas Street (NRP Holdings)",
+        "address": "111 Essex Street & 142-144 Kansas Street, Hackensack, NJ 07601",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": "IO-1 Inclusionary Overlay",
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 68,
+        "affordable_units": 68,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "NRP Holdings",
+        "source_url": "https://www.hackensack.org/wp-content/uploads/2024/05/111-Essex-Street-Redevelopment-Plan-02.15.24.pdf",
+        "source_date": "2024-02-15",
+        "confidence": "medium",
+        "notes": "100% affordable family rental project by NRP Holdings (Cleveland, OH). Final site plan approval received August 2024. Five-story building with 68 affordable apartments and 97 parking spaces. Per 2024 City Manager Year End Report, project was awaiting HMFA affordable housing production funds with potential start date of Q1 2026. Block/lot not surfaced in available snippets."
+      },
+      {
+        "site_name": "1 Essex Street (Inclusionary Mixed-Use)",
+        "address": "1 Essex Street, Hackensack, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": "2.5",
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": "IO-1 Inclusionary Overlay",
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 250,
+        "affordable_units": 25,
+        "set_aside_pct": 10,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": null,
+        "source_url": "https://jerseydigs.com/1-essex-street-hackensack-redevelopment/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "7-story, 250-unit mixed-use building at corner of Essex and Main streets. 10% affordable set-aside per IO-1 overlay requirement = 25 affordable units. Final site plan approval received January (year not specified in snippet). 2.5-acre site comprising 10 parcels. Developer name not confirmed. Construction timeline not confirmed."
+      },
+      {
+        "site_name": "251 West Railroad Place (Greater Bergen Community Action)",
+        "address": "251 West Railroad Place, Hackensack, NJ",
+        "block": "356",
+        "lot": "1",
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 24,
+        "affordable_units": 24,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "Greater Bergen Community Action",
+        "source_url": "https://theridgewoodblog.net/affordable-housing-projects-progress-in-hackensack-essex-street-and-railroad-place-developments/",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "100% affordable family rental project, 24 low-rise townhome units at Block 356, Lot 1. Redevelopment Plan Area adopted August 12, 2024. Developer: Greater Bergen Community Action. Site plan approval received; construction expected to start Q4 2025 per 2024 City Manager report. Listed as 251 Railroad Place LLC as the redevelopment entity."
+      },
+      {
+        "site_name": "IO-1 Inclusionary Overlay Zone (Northern Main Street / Johnson Ave / Essex St / Hudson St)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "IO-1",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 10,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/HA0454/laws/LF1285914.pdf",
+        "source_date": "2021-01-26",
+        "confidence": "medium",
+        "notes": "Citywide inclusionary overlay zone along northern Main Street, Johnson Avenue, Essex Street, and Hudson Street. Established by Ordinance No. 02-21, adopted January 26, 2021. Requires minimum 10% affordable set-aside for all residential projects in the zone. Enacted per 2020 FSHC settlement."
+      }
+    ]
+  },
+  {
+    "municipality": "Harrington Park",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 0,
+      "prospective_need": 188,
+      "total_obligation": 188,
+      "rdp": 12,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/HarringtonParkHEFSPADOPTED06.24.2025.pdf?VersionId=recf2oc2zSrDkgTgyq5IXpEoqQFcQjnD"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2025-12-15",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-24",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/HarringtonParkHEFSPADOPTED06.24.2025.pdf?VersionId=recf2oc2zSrDkgTgyq5IXpEoqQFcQjnD"
+    },
+    "notes": "Court set Fourth Round obligations on May 19, 2025: Present Need = 0, Prospective Need = 188. The Borough also had a prior obligation from the New Jersey Builders Association (NJBA) settlement for prospective need of 188 units. Per the December 15, 2025 settlement agreement with FSHC, the Borough's Fourth Round RDP (Realistic Development Potential) is 12 affordable units. The HEFSP was adopted June 24, 2025 and filed June 25, 2025. A Borough Council Special Meeting was held June 26, 2025. An amendment to the HEFSP was prepared in February 2026 to be consistent with the December 2025 FSHC settlement. Implementing ordinances Ord. 794-26 (amended affordable housing chapter) and Ord. 795-26 (affordable housing overlay expansion) were adopted March 16, 2026. The overlay expansion under Ord. 795-26 designates specific blocks/lots presently zoned B-2 and R-1 for inclusionary development (15% rental / 20% for-sale). Bergen County Utilities Authority (BCUW) has 60 days from January 5, 2026 to perform due diligence on Borough-owned parcels for a group home; if viable it counts toward the 12-unit RDP.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Fourth Round Housing Element and Fair Share Plan - Borough of Harrington Park (Adopted June 24, 2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/HarringtonParkHEFSPADOPTED06.24.2025.pdf?VersionId=recf2oc2zSrDkgTgyq5IXpEoqQFcQjnD"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Amendment to the Fourth Round Housing Element & Fair Share Plan - Harrington Park (February 2026)",
+        "url": "https://www.harringtonparknj.gov/government/documents/forms-documents/department-documents/planning-board/937-fair-share-housing-plan-amendment-to-the-fourth-round-housing-element-fair-share-plan-for-the-borough-of-harrington-park-february-2026/file"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Ordinance 794-26 - Repeal and Replace Chapter 85 Affordable Housing (Adopted March 16, 2026)",
+        "url": "https://www.harringtonparknj.gov/government/documents/forms-documents/ordinances/2026-1/adopted-ordinances-2/957-ordinance-794-26-repeal-and-replace-affordable-housing-chapter-85-adopted-03-16-2026/file"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Ordinance 795-26 - Affordable Housing Overlay Expansion (Adopted March 16, 2026)",
+        "url": "https://www.harringtonparknj.gov/government/documents/forms-documents/ordinances/2026-1/adopted-ordinances-2/956-ordinance-795-26-affordable-housing-overlay-expansion-adopted-03-16-2026/file"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Harrington Park Special Meeting Minutes - June 26, 2025",
+        "url": "https://harringtonparknj.gov/agenda-library/mayor-council-meeting/mayor-and-council-meeting-documents-2025/2025-minutes-mayor-council/809-06-26-2025-mayor-council-special-meeting-minutes/file"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Harrington Park NJ: Affordable Housing - eCode360",
+        "url": "https://ecode360.com/13391207"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "72 & 76 Schraalenburgh Road (Mixed-Use Inclusionary)",
+        "address": "72 & 76 Schraalenburgh Road, Harrington Park, NJ 07640",
+        "block": "1205",
+        "lot": "1 & 2",
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": "B-2 (Commercial)",
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 28,
+        "affordable_units": 4,
+        "set_aside_pct": 14,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/HarringtonParkHEFSPADOPTED06.24.2025.pdf?VersionId=recf2oc2zSrDkgTgyq5IXpEoqQFcQjnD",
+        "source_date": "2025-06-24",
+        "confidence": "medium",
+        "notes": "Zoning Board of Adjustment approval received September 2022. Three-story mixed-use complex with 28 residential units, ground-level parking garage, and 2 commercial spaces. Conversion of existing two-story commercial building. Borough also eligible for 2 bonus credits (0.5 credit each) because the site was previously commercial space. Block 1205, Lots 1 and 2 confirmed via njparcels.com (0224_1205_1 and 0224_1205_2). Structural engineering work by NJ Structural Engineers referenced for 76 Schraalenburgh Rd."
+      },
+      {
+        "site_name": "Affordable Housing Overlay Zone - Block 1316 (Ord. 795-26)",
+        "address": null,
+        "block": "1316",
+        "lot": "1-7, 9, 11",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": "B-2",
+        "proposed_zoning": "AHO (Affordable Housing Overlay)",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 15,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.harringtonparknj.gov/government/documents/forms-documents/ordinances/2026-1/adopted-ordinances-2/956-ordinance-795-26-affordable-housing-overlay-expansion-adopted-03-16-2026/file",
+        "source_date": "2026-03-16",
+        "confidence": "medium",
+        "notes": "Designated under Ordinance 795-26, adopted March 16, 2026. Presently zoned B-2. Minimum set-aside 15% for rental and 20% for for-sale. Adopted as part of Fourth Round HEFSP amendment implementing December 2025 FSHC settlement. Total unit capacity not stated in available snippets."
+      },
+      {
+        "site_name": "Affordable Housing Overlay Zone - Block 1406 (Ord. 795-26)",
+        "address": null,
+        "block": "1406",
+        "lot": "24, 25, 26",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": "R-1",
+        "proposed_zoning": "AHO (Affordable Housing Overlay)",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": "for-sale",
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.harringtonparknj.gov/government/documents/forms-documents/ordinances/2026-1/adopted-ordinances-2/956-ordinance-795-26-affordable-housing-overlay-expansion-adopted-03-16-2026/file",
+        "source_date": "2026-03-16",
+        "confidence": "medium",
+        "notes": "Designated under Ordinance 795-26, adopted March 16, 2026. Presently zoned R-1. Minimum set-aside 20% for for-sale projects and 15% for rental. Total unit capacity not stated in available snippets."
+      },
+      {
+        "site_name": "BCUW Group Home (Borough-Owned Parcels)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "group-home",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "proposed",
+        "developer": "Bergen County Utilities Authority (BCUW)",
+        "source_url": "https://www.harringtonparknj.gov/government/documents/forms-documents/department-documents/planning-board/937-fair-share-housing-plan-amendment-to-the-fourth-round-housing-element-fair-share-plan-for-the-borough-of-harrington-park-february-2026/file",
+        "source_date": "2026-02",
+        "confidence": "low",
+        "notes": "Bergen County Utilities Authority (BCUW) has 60 days from January 5, 2026 to conduct due diligence on Borough-owned parcels for a group home development. If BCUW determines parcels are suitable, Borough will reserve land by ordinance deed. If not completed by July 1, 2030 (midpoint of Fourth Round), Borough commits to alternative compliance. Specific block/lot not identified in available search results."
+      },
+      {
+        "site_name": "Accessory Apartment Program",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "accessory-apt",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/HarringtonParkHEFSPADOPTED06.24.2025.pdf?VersionId=recf2oc2zSrDkgTgyq5IXpEoqQFcQjnD",
+        "source_date": "2025-06-24",
+        "confidence": "low",
+        "notes": "Accessory apartment program expansion cited in HEFSP as second compliance mechanism. Each accessory unit must contain at least 500 sq ft and minimum two rooms per Ord. 794-26 (adopted March 16, 2026). Target number of units not found in available search results."
+      }
+    ]
+  },
+  {
+    "municipality": "Hasbrouck Heights",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": 8,
+      "prospective_need": 149,
+      "total_obligation": 157,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": null,
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": null,
+      "hefsp_adopted_date": null,
+      "hefsp_url": null
+    },
+    "notes": "DCA calculations show Hasbrouck Heights has a prospective need of 149 units and a present need of 8 units (rehabilitation) for the Fourth Round 2025-2035. The DCA figure of 149 units is confirmed in multiple secondary sources citing the Fourth Round calculation methodology spreadsheet. The Borough's COAH filings page (hasbrouck-heightsnj.org/pages/coah-filings) shows a Superior Court filing on January 16, 2025, indicating the Borough filed a declaratory judgment action or binding resolution at that time. However, a Fourth Round HEFSP document for Hasbrouck Heights was not located on library.njcourts.gov or the Borough website in available search results - it is possible the plan is not yet online or was filed under a different naming convention. A prior inclusionary development on Longview Avenue (18 townhouses, 4 affordable units) was approved by the Land Use Board in April 2024, which may be counted toward the Fourth Round obligation. The Borough's prior Housing Element and Fair Share Plan from 2019 was referenced in zoning code. Existing senior housing (Hasbrouck Heights Senior Housing, Housing Authority of Bergen County) provides existing affordable units. Settlement party and settlement date not confirmed; no FSHC settlement document found. Research status set to 'in_progress' pending discovery of the adopted HEFSP.",
+    "sources": [
+      {
+        "doc_type": "DCA",
+        "title": "2025 to 2035 Affordable Housing Calculations - NJ DCA",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Affordable Housing (COAH Filings) - Borough of Hasbrouck Heights",
+        "url": "https://hasbrouck-heightsnj.org/pages/coah-filings"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents | NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      },
+      {
+        "doc_type": "news",
+        "title": "Hasbrouck Heights Land Use Board Approves 18 Townhouses, Affordable Housing Project | TAPinto",
+        "url": "https://www.tapinto.net/towns/hasbrouck-heights-slash-wood-ridge-slash-teterboro/sections/real-estate/articles/hasbrouck-heights-land-use-board-approves-18-townhouses-affordable-housing-project"
+      },
+      {
+        "doc_type": "other",
+        "title": "Hasbrouck Heights Senior Housing - Housing Authority of Bergen County",
+        "url": "https://habcnj.org/housing_programs/our_buildings/hasbrouck_heights_senior_housing.php"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Longview Avenue Inclusionary Development",
+        "address": "Longview Avenue, Hasbrouck Heights, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 18,
+        "affordable_units": 4,
+        "set_aside_pct": 22,
+        "tenure": "for-sale",
+        "adoption_status": "approved",
+        "developer": null,
+        "source_url": "https://www.tapinto.net/towns/hasbrouck-heights-slash-wood-ridge-slash-teterboro/sections/real-estate/articles/hasbrouck-heights-land-use-board-approves-18-townhouses-affordable-housing-project",
+        "source_date": "2024-04-07",
+        "confidence": "low",
+        "notes": "Land Use Board approved an application for 18 townhouses with 4 affordable units in April 2024. Set-aside pct calculated from 4/18 = ~22%; not directly stated. Block/lot, developer, and exact address not confirmed in available search results. Whether this project is formally designated as a Fourth Round compliance site not confirmed."
+      }
+    ]
+  }
+]

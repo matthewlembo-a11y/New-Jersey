@@ -1,0 +1,524 @@
+[
+  {
+    "municipality": "Allendale",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 159,
+      "prospective_need": 200,
+      "total_obligation": null,
+      "rdp": 4,
+      "unmet_need": 196,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/allendale-boro/61725AllendaleHEFSPFinaladopted61625reducedPart1.pdf?VersionId=OS80HMqcQEJ9KXkqylWVs6qi4JkWPnvl"
+    },
+    "compliance": {
+      "status": "settled-with-FSHC; also party to LLRP constitutional lawsuit",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-16",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/allendale-boro/61725AllendaleHEFSPFinaladopted61625reducedPart1.pdf?VersionId=OS80HMqcQEJ9KXkqylWVs6qi4JkWPnvl"
+    },
+    "notes": "DCA advisory present need was 159 and prospective need 200. Borough sought a structural conditions survey to reduce present need from 159 to 10 but Program deferred consideration. RDP accepted is 4 units, leaving unmet need of 196 to be addressed via overlay zoning. Borough is a member of the 'Local Leaders for Responsible Planning' coalition challenging the amended FHA constitutionality, but still adopted HEFSP June 16, 2025. FSHC has an existing settlement agreement with the Borough. HEFSP also filed June 17, 2025 on njcourts. Borough submitted structural survey requesting present need reduction; outcome not confirmed. Second part of HEFSP PDF (Part 2) may exist separately on njcourts.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Housing Element and Fair Share Plan Approved June 16, 2025 Borough of Allendale (Part 1)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/allendale-boro/61725AllendaleHEFSPFinaladopted61625reducedPart1.pdf?VersionId=OS80HMqcQEJ9KXkqylWVs6qi4JkWPnvl"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Housing Element and Fair Share Plan June 5, 2025 Submitted for Approval (draft)",
+        "url": "https://www.allendalenj.gov/media/oo3bpjem/housing-element-and-fair-share-plan-fraft-final-for-approval-6-5-25.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Allendale Affordable & Fair Share Housing Page",
+        "url": "https://www.allendalenj.gov/residents-businesses/housing/affordable-fair-share-housing/"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Ramsey Golf Course Inclusionary Overlay Residential District (MFRO-2) - eCode360",
+        "url": "https://ecode360.com/34130382"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Allendale Corporate Center Inclusionary Overlay Residential District (MFRO-3) - eCode360",
+        "url": "https://ecode360.com/34130450"
+      },
+      {
+        "doc_type": "news",
+        "title": "Valley towns face lawsuits after Fourth Round filings — Pascack Press",
+        "url": "https://thepressgroup.net/valley-towns-face-lawsuits-after-fourth-round-filings/"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Ramsey Golf Course (Ramsey Country Club) Inclusionary Overlay",
+        "address": null,
+        "block": "301 and 406",
+        "lot": "37 (Block 301) and 21.01 (Block 406)",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "MFRO-2 (Ramsey Golf Course Inclusionary Overlay Residential District)",
+        "density": 10,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/34130382",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Block 301 Lot 37 and Block 406 Lot 21.01; max density 10 units/acre; 20% affordable set-aside; zoning ordinance adopted (appears in eCode360). Total units and affordable units not stated in search results."
+      },
+      {
+        "site_name": "Allendale Corporate Center Inclusionary Overlay",
+        "address": null,
+        "block": "702",
+        "lot": "14",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "MFRO-3 (Allendale Corporate Center Inclusionary Overlay Residential District)",
+        "density": 26,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/34130450",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Block 702 Lot 14; density 26 units/acre (from search snippet); 20% affordable set-aside. Total and affordable unit counts not confirmed in search results."
+      },
+      {
+        "site_name": "320 Franklin Turnpike Unmet Need Overlay",
+        "address": "320 Franklin Turnpike, Allendale, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": 12,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": null,
+        "developer": "Church of the Guardian (property owner)",
+        "source_url": "https://www.allendalenj.gov/media/oo3bpjem/housing-element-and-fair-share-plan-fraft-final-for-approval-6-5-25.pdf",
+        "source_date": "2025-06-05",
+        "confidence": "low",
+        "notes": "Mentioned as unmet need overlay site at 12 units/acre in search snippet from HEFSP draft. Block/lot not stated. Confirmation of adoption status not found."
+      },
+      {
+        "site_name": "220 West Crescent Avenue Senior Rental",
+        "address": "220 West Crescent Avenue, Allendale, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 4,
+        "affordable_units": 4,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": null,
+        "developer": null,
+        "source_url": "https://www.allendalenj.gov/media/oo3bpjem/housing-element-and-fair-share-plan-fraft-final-for-approval-6-5-25.pdf",
+        "source_date": "2025-06-05",
+        "confidence": "low",
+        "notes": "Described as proposed affordable senior rental development with 4 units per search snippet. Block/lot not stated. Confirmation of adoption or construction status not found."
+      }
+    ]
+  },
+  {
+    "municipality": "Alpine",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 0,
+      "prospective_need": 117,
+      "total_obligation": 117,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/alpine-boro/62625Alpine4thRoundHEFSP62425Adoptedwithappendices.pdf?VersionId=GtHT6t7iqBn2veBcdyliouEPdf4H9zff"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-24",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/alpine-boro/62625Alpine4thRoundHEFSP62425Adoptedwithappendices.pdf?VersionId=GtHT6t7iqBn2veBcdyliouEPdf4H9zff"
+    },
+    "notes": "Borough adopted Resolution No. 048:01-2025 on January 22, 2025 committing to 0 present need and 117 prospective need. HEFSP adopted June 24, 2025 and filed with NJ Courts June 26, 2025. Prior settlement agreement with FSHC governs. Developer sued to intervene for Frick Estate rezoning (19 acres at 858 Closter Dock Road, 1 Appletree Lane, 14 Frick Drive) but was denied by Superior Court Judge Richard L. Polifroni. Some sites listed below carry over from 3rd round plan. Borough website also hosts HEFSP copy. 4th round specific new sites are not separately identified in search results - document mainly continues 3rd round sites.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "2025 Housing Element & Fair Share Plan Borough of Alpine (adopted June 24, 2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/alpine-boro/62625Alpine4thRoundHEFSP62425Adoptedwithappendices.pdf?VersionId=GtHT6t7iqBn2veBcdyliouEPdf4H9zff"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "2025 Housing Element & Fair Share Plan Borough of Alpine (municipal website copy)",
+        "url": "http://www.alpinenj07620.org/sitebuildercontent/sitebuilderfiles/4throundhefspadoptedwithappendices.pdf"
+      },
+      {
+        "doc_type": "news",
+        "title": "Frick Estate Owner's High-Density Alpine Housing Lawsuit Denied - Pascack Press",
+        "url": "https://thepressgroup.net/frick-estate-owners-high-density-alpine-housing-lawsuit-denied/"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025 to 2035 Affordable Housing Calculations",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Sylco Site - Closter Dock Road (Townhouses)",
+        "address": "Closter Dock Road, Alpine, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 40,
+        "affordable_units": 8,
+        "set_aside_pct": 20,
+        "tenure": "for-sale",
+        "adoption_status": null,
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/alpine-boro/62625Alpine4thRoundHEFSP62425Adoptedwithappendices.pdf?VersionId=GtHT6t7iqBn2veBcdyliouEPdf4H9zff",
+        "source_date": "2025-06-24",
+        "confidence": "medium",
+        "notes": "40 townhouses with 8 deed-restricted affordable units. Carried from 3rd Round Plan. Block/lot not stated in search results."
+      },
+      {
+        "site_name": "Sylco Site - Group Home / Supportive Housing Apartments",
+        "address": "Closter Dock Road, Alpine, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "group-home",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": null,
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/alpine-boro/62625Alpine4thRoundHEFSP62425Adoptedwithappendices.pdf?VersionId=GtHT6t7iqBn2veBcdyliouEPdf4H9zff",
+        "source_date": "2025-06-24",
+        "confidence": "medium",
+        "notes": "Four-bedroom group home plus a mix of 1- and 2-bedroom supportive housing apartments (aggregating 14 bedrooms) placed on Alpine's existing 8-unit 100% affordable site. These 8 units also count separately. Carried from 3rd Round Plan."
+      },
+      {
+        "site_name": "Radio/Telecommunications Tower Site - Block 80 Overlay",
+        "address": null,
+        "block": "80",
+        "lot": "10 and 11",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 35,
+        "affordable_units": 7,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/alpine-boro/62625Alpine4thRoundHEFSP62425Adoptedwithappendices.pdf?VersionId=GtHT6t7iqBn2veBcdyliouEPdf4H9zff",
+        "source_date": "2025-06-24",
+        "confidence": "medium",
+        "notes": "Block 80, Lots 10 and 11 (former Radio/Telecom Tower site); 35 total dwellings, 7 affordable; mandatory affordable housing set-aside ordinance adopted. Carried from 3rd Round Plan."
+      },
+      {
+        "site_name": "Accessory Apartment Program",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "accessory-apt",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 4,
+        "affordable_units": 4,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": null,
+        "developer": null,
+        "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/alpine-boro/62625Alpine4thRoundHEFSP62425Adoptedwithappendices.pdf?VersionId=GtHT6t7iqBn2veBcdyliouEPdf4H9zff",
+        "source_date": "2025-06-24",
+        "confidence": "low",
+        "notes": "4 accessory apartment units referenced in 3rd Round plan description within 2025 HEFSP. No block/lot."
+      }
+    ]
+  },
+  {
+    "municipality": "Bergenfield",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": 0,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": "QUAM-exempt from prospective need; rehabilitation obligation status unclear",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "no fourth-round HEFSP found on library.njcourts.gov",
+      "hefsp_adopted_date": null,
+      "hefsp_url": null
+    },
+    "notes": "Bergenfield is designated as a Qualified Urban Aid Municipality (QUAM) for the Fourth Round (2025-2035), which exempts it from prospective need (new construction) obligations under P.L.2024, c.2. QUAMs are exempt because lower-income housing is already disproportionately concentrated there. A fourth-round HEFSP filing was not located on library.njcourts.gov. The Borough maintains existing AHO overlay zones (B-1 AHO, B-2 AHO per Article VIIA, and Unmet Need Overlay Zone per Article VIIB) enacted under prior rounds. Rehabilitation present need number was not found in search results (would appear in DCA Excel spreadsheet). No fourth-round settlement with FSHC identified. Borough is NOT part of the LLRP lawsuit coalition. The 15% rental / 20% for-sale inclusionary requirement is codified in Borough zoning. Specific present need rehabilitation obligation number requires direct access to DCA spreadsheet.",
+    "sources": [
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025 to 2035 Affordable Housing Calculations (QUAM list)",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Bergenfield Affordable Housing COAH page",
+        "url": "https://bergenfieldnj.gov/affordable-housing-coah/"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Article VIIA: B-1 AHO and B-2 AHO Affordable Housing Overlay Zones - Bergenfield eCode360",
+        "url": "https://ecode360.com/36042774"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Article VIIB: AHO Affordable Housing Unmet Need Overlay Zone - Bergenfield eCode360",
+        "url": "https://ecode360.com/36042793"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Article VIID: Affordable Housing - Bergenfield eCode360",
+        "url": "https://ecode360.com/37044073"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents - NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "B-1 AHO Affordable Housing Overlay Zone",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": "B-1",
+        "proposed_zoning": "B-1 AHO",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 15,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/36042774",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Overlay zone enabling affordable units on upper floors of commercial buildings. 15% rental set-aside per Borough ordinance. Specific block/lot numbers for designated parcels not found in search results. This is a prior-round mechanism; fourth-round applicability not confirmed."
+      },
+      {
+        "site_name": "B-2 AHO Affordable Housing Overlay Zone",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": "B-2",
+        "proposed_zoning": "B-2 AHO",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 15,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/36042774",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Second commercial overlay zone for affordable housing. 15% rental set-aside per Borough ordinance. Specific block/lot numbers not found. Prior-round mechanism; fourth-round applicability as QUAM unclear."
+      },
+      {
+        "site_name": "AHO Affordable Housing Unmet Need Overlay Zone",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "AHO Unmet Need Overlay",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://ecode360.com/36042793",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Article VIIB unmet need overlay. Specific block/lot designations, unit counts, and set-aside percentages not found in search results. Prior-round mechanism."
+      },
+      {
+        "site_name": "51-59 Bedford Avenue Affordable Apartment",
+        "address": "51-59 Bedford Avenue, Bergenfield, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 1,
+        "affordable_units": 1,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": null,
+        "source_url": "https://bergenfieldnj.gov/affordable-rentals-in-bergenfield/",
+        "source_date": "2025-10-16",
+        "confidence": "low",
+        "notes": "One new affordable apartment at 51-59 Bedford Ave ready for occupancy Winter 2026 per Borough rental listing. Unit amenities include central AC. Not a development site per se - likely a scattered-site unit in existing building. Block/lot not stated."
+      }
+    ]
+  },
+  {
+    "municipality": "Bogota",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 26,
+      "prospective_need": 85,
+      "total_obligation": 111,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/bogota-boro/61825BogotaAdoptedPlan6.17.25.pdf?VersionId=iwgH_0lyLTCPRF7lrwoIygYfZRWMj7e8"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "New Jersey Builders Association (NJBA)",
+      "settlement_date": "2025-03-21",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-17",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/bogota-boro/61825BogotaAdoptedPlan6.17.25.pdf?VersionId=iwgH_0lyLTCPRF7lrwoIygYfZRWMj7e8"
+    },
+    "notes": "Mayor and Council adopted resolution on January 16, 2025 committing to present need of 26 and prospective need of 83 (initial round 4 commitment). NJBA filed objection February 25, 2025 challenging the reduction from DCA's 88. Before the scheduled settlement conference on March 21, 2025, NJBA offered settlement adjusting prospective need to 85 (from DCA's 88); Borough agreed. Borough's modified Fourth Round Prospective Need is 85. Borough satisfied Rounds 1-3 prospective need of 100 units. Borough is essentially fully built out with insufficient vacant land for Round 4. The Atwater/River Club development (former Hess fuel tank farm at 1000 West Fort Lee Road) with 421 units and 42 affordable was the prime redevelopment site from prior rounds and is now complete. Fourth-round compliance mechanism for remaining unmet need unclear from search results - HEFSP likely relies on RDP adjustments and/or other programs. FSHC not identified as intervenor in search results.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Borough of Bogota Master Plan Housing Element and Fair Share Plan (adopted June 17, 2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/bogota-boro/61825BogotaAdoptedPlan6.17.25.pdf?VersionId=iwgH_0lyLTCPRF7lrwoIygYfZRWMj7e8"
+      },
+      {
+        "doc_type": "news",
+        "title": "Bogota's River Club Officially Moving Forward - Jersey Digs",
+        "url": "https://jerseydigs.com/new-jersey-real-estate-bogota-river-club-238-west-fort-lee-road-approved/"
+      },
+      {
+        "doc_type": "news",
+        "title": "New 421-Unit Rental Community on Bogota Riverfront Snags $60M Loan - Jersey Digs",
+        "url": "https://jerseydigs.com/river-club-238-west-fort-lee-road-bogota-secures-financing/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bogota NJ Planning/Zoning Board",
+        "url": "https://www.bogotaonline.org/planningzoning-board"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025 to 2035 Affordable Housing Calculations",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "The Atwater (former Hess Site / River Club Redevelopment)",
+        "address": "1000 West Fort Lee Road, Bogota, NJ 07603",
+        "block": null,
+        "lot": null,
+        "acreage": 13.125,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": 32,
+        "total_units": 421,
+        "affordable_units": 42,
+        "set_aside_pct": 10,
+        "tenure": "rental",
+        "adoption_status": "built",
+        "developer": "River Development",
+        "source_url": "https://jerseydigs.com/new-jersey-real-estate-bogota-river-club-238-west-fort-lee-road-approved/",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Former Hess fuel tank farm on Hackensack River; purchased by River Development in 2014; redevelopment plan approved; 421 units with 42 affordable (10% set-aside due to site-specific remediation costs). 31 of 42 affordable units reserved for low/moderate-income military veterans. Development now complete. Counted toward prior-round obligation. Block/lot not stated in search results. This is a prior-round credit site, not a new fourth-round site."
+      }
+    ]
+  },
+  {
+    "municipality": "Carlstadt",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": 0,
+      "prospective_need": 511,
+      "total_obligation": 511,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": "adopted-HEFSP; settlement status unclear",
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": null,
+      "hefsp_url": "https://www.carlstadtnj.us/_Content/pdf/Carlstadt-HEFSP-4th-Round-2025.pdf"
+    },
+    "notes": "DCA advisory calculation: present need 0, prospective need 511 (one of the highest in Bergen County, likely due to nonresidential valuation). HEFSP document dated June 2025 available on Borough website. No separate njcourts library link found for Carlstadt HEFSP in search results; may not yet be posted there or may be filed under a different document reference. Settlement with FSHC or NJBA not confirmed in search results. Carlstadt is a small, heavily commercial/industrial borough adjacent to Meadowlands; prospective need of 511 reflects the equalized nonresidential valuation methodology. No specific sites found in search results - full HEFSP PDF would contain site inventory. Borough is not listed in the LLRP lawsuit coalition.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Carlstadt Housing Element and Fair Share Plan 4th Round 2025 (municipal website)",
+        "url": "https://www.carlstadtnj.us/_Content/pdf/Carlstadt-HEFSP-4th-Round-2025.pdf"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025 to 2035 Affordable Housing Calculations",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents - NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      },
+      {
+        "doc_type": "news",
+        "title": "NJ Sets New Affordable Housing Quotas: Check Your Town's Numbers - Hackensack Daily Voice",
+        "url": "https://dailyvoice.com/new-jersey/hackensack/nj-sets-new-affordable-housing-quotas-check-your-towns-quota/"
+      }
+    ],
+    "sites": []
+  }
+]

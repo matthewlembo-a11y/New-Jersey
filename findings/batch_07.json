@@ -1,0 +1,434 @@
+[
+  {
+    "municipality": "Lodi",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": null,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": null,
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": null,
+      "hefsp_adopted_date": null,
+      "hefsp_url": null
+    },
+    "notes": "No Lodi-specific Fourth Round HEFSP document was found in library.njcourts.gov Bergen County folder or on the municipal website during searches. The Borough's planning board page is at lodi-nj.org/p/planning-board. DCA obligation numbers are in the statewide spreadsheet at nj.gov/dca/dlps/4th_Round_Numbers.shtml but could not be accessed via WebSearch. No challenge by FSHC against Lodi was identified in the August 2025 challenge list of 16 towns. Lodi Housing Authority operates existing public housing (De Vries Park 100 units, DiChiara Senior 40 units, Caniano Senior 40 units, Ciliberto Senior 40 units) but these predate Round 4. No specific sites, obligation numbers, or HEFSP document were surfaced. Further review of the municipal website and NJ Courts library directly is needed.",
+    "sources": [
+      {
+        "doc_type": "DCA",
+        "title": "2025 to 2035 Affordable Housing Calculations – NJ DCA",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents | NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Lodi – Planning Board",
+        "url": "https://www.lodi-nj.org/p/planning-board"
+      }
+    ],
+    "sites": []
+  },
+  {
+    "municipality": "Lyndhurst",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": 366,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": "litigating",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "challenged",
+      "hefsp_adopted_date": null,
+      "hefsp_url": null
+    },
+    "notes": "Lyndhurst is one of 16 municipalities whose Fourth Round Housing Element and Fair Share Plans were challenged by FSHC ahead of the August 31, 2025 deadline, and is one of six Bergen County towns on the challenge list (along with Franklin Lakes, Montvale, North Arlington, Park Ridge, Saddle River). FSHC sought revocation of immunity from builder's remedy lawsuits. The December 31, 2025 mediation deadline and the March 15, 2026 revised HEFSP deadline likely apply; resolution status as of June 2026 is not confirmed in search results. A prospective need figure of 366 units was cited in one search synthesis but could not be traced to a primary document URL — treat as low-confidence. The NJSEA is located in Lyndhurst and previously operated a Lyndhurst Block 228 Lot 3 Redevelopment Plan with AvalonBay Communities (older agreement, not confirmed to be part of Round 4 plan). No specific Round 4 HEFSP document URL for Lyndhurst was found in library.njcourts.gov.",
+    "sources": [
+      {
+        "doc_type": "news",
+        "title": "These NJ Towns Could Lose Affordable Housing Immunity – NJ Patch",
+        "url": "https://patch.com/new-jersey/across-nj/16-nj-towns-affordable-housing-plans-challenged-see-where-they-are"
+      },
+      {
+        "doc_type": "news",
+        "title": "NJ Affordable Housing Crackdown: 16 Towns Face Dec. 31 Deadline – The Ridgewood Blog",
+        "url": "https://theridgewoodblog.net/nj-affordable-housing-crackdown-16-towns-including-ridgewood-park-ridge-franklin-lakes-face-dec-31-deadline/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Housing Plan Challenge Deadline – Fair Share Housing Center Press Release",
+        "url": "https://www.fairsharehousing.org/press-release/housing-plan-challenge-deadline-many-of-njs-largest-suburbs-adopt-strongest-plans-ever-while-a-small-few-attempt-to-flaunt-law/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Lyndhurst Block 228 Lot 3 Redevelopment Plan (AvalonBay) – NJSEA Archive",
+        "url": "https://s3.us-east-2.amazonaws.com/doc1-archive/NJMC%20Doc%20Archive/econgrow_docs/redelv_docs/redeveloper%20agreement%20lyndhurst%20block%20228%20lot%203%20(Avalon%20Bay).pdf"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "2025 to 2035 Affordable Housing Calculations – NJ DCA",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      }
+    ],
+    "sites": []
+  },
+  {
+    "municipality": "Mahwah",
+    "research_status": "done",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": 495,
+      "total_obligation": 495,
+      "rdp": 3,
+      "unmet_need": 492,
+      "source_url": "https://www.mahwahtwp.org/570/Round-4-Affordable-Housing-Updates"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2025-04-02",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-23",
+      "hefsp_url": "https://www.mahwahtwp.org/590/Draft-Fourth-Round-2025-Housing-Element-"
+    },
+    "notes": "Mahwah's initial DCA obligation was 629 units (second highest in Bergen County). Township contested, proposing 444; Program-mediated settlement agreed to 495 on March 31, 2025; Superior Court Order entered April 14, 2025. Fourth Round Present Need Obligation: 224 (per one search synthesis – treat as low-confidence; not traced to primary document). Prospective Need settled at 650 per same synthesis (conflict: Township website says 444 adopted Jan 29, and mediation produced 495 total). The 108-page HEFSP was unanimously adopted by Planning Board and Council on June 23, 2025. The plan invokes the Highlands Water Protection and Planning Act buildout analysis to reduce actual new construction from 495 to only 3 units; remaining 492 units addressed via credits. Plan submitted to Program and court for certification. DCA initial figure was 629; the municipality is in the Highlands Preservation Area which materially limits buildable land.",
+    "sources": [
+      {
+        "doc_type": "other",
+        "title": "Round 4 Affordable Housing Updates – Mahwah Township Official Page",
+        "url": "https://www.mahwahtwp.org/570/Round-4-Affordable-Housing-Updates"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Draft Fourth Round 2025 Housing Element and Fair Share Plan – Mahwah Township",
+        "url": "https://www.mahwahtwp.org/590/Draft-Fourth-Round-2025-Housing-Element-"
+      },
+      {
+        "doc_type": "news",
+        "title": "Mahwah Slashes Affordable Housing Mandate from 629 to Just 3 Units – The Ridgewood Blog",
+        "url": "https://theridgewoodblog.net/mahwah-slashes-affordable-housing-mandate-from-629-to-just-3-units-in-groundbreaking-new-plan/"
+      },
+      {
+        "doc_type": "news",
+        "title": "What Happened to Affordable Housing in Mahwah – Mahwah Times",
+        "url": "https://mahwahtimes.com/2025/08/15/what-happened-to-affordable-housing-in-mahwah/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Township of Mahwah Planning Board Special Meeting Minutes – June 23 2025",
+        "url": "https://www.mahwahtwp.org/AgendaCenter/ViewFile/Minutes/_06232025-2834"
+      },
+      {
+        "doc_type": "other",
+        "title": "Mahwah able to reduce requirement from 629 to 3 – Worldnews.com",
+        "url": "https://article.wn.com/view/2025/06/25/Mahwah_able_to_reduce_its_next_round_of_affordable_housing_r/"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "457 Ridge Road",
+        "address": "457 Ridge Road, Mahwah, NJ 07430",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": 74,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": null,
+        "source_url": "https://theridgewoodblog.net/mahwah-slashes-affordable-housing-mandate-from-629-to-just-3-units-in-groundbreaking-new-plan/",
+        "source_date": "2025-06-25",
+        "confidence": "low",
+        "notes": "74 family rental affordable units credited in Round 4 HEFSP (74 standard credits + 74 bonus credits). Described as existing/proposed project. Block/lot not stated in sources."
+      },
+      {
+        "site_name": "1 Fyke Road",
+        "address": "1 Fyke Road, Mahwah, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": 5,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "approved",
+        "developer": null,
+        "source_url": "https://theridgewoodblog.net/mahwah-slashes-affordable-housing-mandate-from-629-to-just-3-units-in-groundbreaking-new-plan/",
+        "source_date": "2025-06-25",
+        "confidence": "low",
+        "notes": "5 affordable units credited (5 standard + 5 bonus credits) in Round 4 HEFSP. Block/lot not stated in sources."
+      },
+      {
+        "site_name": "70 Island Road – Supportive Housing",
+        "address": "70 Island Road, Mahwah, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 15,
+        "affordable_units": 15,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": null,
+        "source_url": "https://theridgewoodblog.net/mahwah-slashes-affordable-housing-mandate-from-629-to-just-3-units-in-groundbreaking-new-plan/",
+        "source_date": "2025-06-25",
+        "confidence": "low",
+        "notes": "15-unit supportive housing project yielding 19 credits + 19 bonus credits in Round 4 HEFSP. Block/lot not stated in sources."
+      },
+      {
+        "site_name": "42 Stag Hill Road – Group Home",
+        "address": "42 Stag Hill Road, Mahwah, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "group-home",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": null,
+        "source_url": "https://theridgewoodblog.net/mahwah-slashes-affordable-housing-mandate-from-629-to-just-3-units-in-groundbreaking-new-plan/",
+        "source_date": "2025-06-25",
+        "confidence": "low",
+        "notes": "Group home yielding 6 credits + 6 bonus credits in Round 4 HEFSP. Exact unit count not stated in sources. Block/lot not stated."
+      }
+    ]
+  },
+  {
+    "municipality": "Maywood",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 12,
+      "prospective_need": 131,
+      "total_obligation": 143,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.maywoodnj.com/vertical/sites/%7B3F816141-7A2D-4412-8A8D-6C5C2C1C1341%7D/uploads/Maywood_Round_4_Final_HEFSP_04-15-25_w._Appendices.pdf"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2025-12-09",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-04-15",
+      "hefsp_url": "https://www.maywoodnj.com/vertical/sites/%7B3F816141-7A2D-4412-8A8D-6C5C2C1C1341%7D/uploads/Maywood_Round_4_Final_HEFSP_04-15-25_w._Appendices.pdf"
+    },
+    "notes": "Maywood filed Declaratory Judgment action (docket BER-L-000699-25) on January 29, 2025. Resolution 64-25 (Jan 28, 2025) authorized DJ action. Round 4 Final HEFSP adopted April 15, 2025. Mediation Agreement BER-L-699-25 led to settlement with FSHC; Borough adopted Resolution 278-25 Authorizing Settlement with Fair Share on December 9, 2025. Program Settlement Recommendation issued January 8, 2026. Borough submitted revised Round 4 HEFSP on January 19, 2026. Obligation numbers 12 present / 131 prospective cited in search synthesis; the HEFSP document itself also references a Rehabilitation Obligation of 28 units (may reflect prior rounds combined). Maywood is a built-out community; future housing primarily from site-specific redevelopment. Overlay ordinances introduced February 10, 2026: Ord 1-26 (Affordable Housing 1 Overlay), Ord 2-26 (Brook Avenue Stacked Townhome Overlay), Ord 3-26 (West Passaic Street Stacked Townhome Overlay), Ord 4-26 (repeal/replace Ch.211 Affordable Housing).",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Master Plan Housing Element and Fair Share Plan – Maywood NJ (Round 4, April 15, 2025)",
+        "url": "https://www.maywoodnj.com/vertical/sites/%7B3F816141-7A2D-4412-8A8D-6C5C2C1C1341%7D/uploads/Maywood_Round_4_Final_HEFSP_04-15-25_w._Appendices.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "BER-L-000699-25 Declaratory Judgment Complaint – Maywood (Jan 29 2025)",
+        "url": "https://www.maywoodnj.com/vertical/sites/%7B3F816141-7A2D-4412-8A8D-6C5C2C1C1341%7D/uploads/1.29.25_McNamara_Declaratory_Judgment_Complaint_of_Compliance_with_the_Fair_Housing_Act.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Maywood Affordable Housing Documentation – Borough of Maywood Official Page",
+        "url": "https://maywoodnj.com/index.asp?DE=47FA0EA9-A0D8-43E4-A3F1-2D05C6367FF7&SEC=CC71ADE4-C190-4EA4-8E27-2E28FC3C4797"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "West Passaic Street Affordable Housing Overlay District Ordinance 3-26 (Jan 20 2026)",
+        "url": "https://www.maywoodnj.com/vertical/sites/%7B3F816141-7A2D-4412-8A8D-6C5C2C1C1341%7D/uploads/West_Passaic_Street_Affordable_Housing_Overlay_District_Ordinance_Final_01-20-26.docx"
+      },
+      {
+        "doc_type": "other",
+        "title": "Borough of Maywood Work Session Minutes March 10 2026",
+        "url": "https://www.maywoodnj.com/vertical/sites/%7B3F816141-7A2D-4412-8A8D-6C5C2C1C1341%7D/uploads/03-10-2026_Work_Session_Minutes.pdf"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Brook Avenue Stacked Townhome Overlay District",
+        "address": "Brook Avenue, Maywood, NJ",
+        "block": "87",
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "Stacked Townhome Overlay District (Ord 2-26)",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": "for-sale",
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://maywoodnj.com/index.asp?DE=47FA0EA9-A0D8-43E4-A3F1-2D05C6367FF7&SEC=CC71ADE4-C190-4EA4-8E27-2E28FC3C4797",
+        "source_date": "2026-02-10",
+        "confidence": "medium",
+        "notes": "Ordinance 2-26 introduced February 10, 2026. Applies to Block 87 Lots 2, 3, and 4 (three separate lots under same overlay). 20% affordable set-aside requirement; at least 50% of affordable units must be low-income; at least 13% of low-income units must be very-low-income. Exact total units not stated in sources. Lot numbers per West Passaic Street ordinance reference (Block 87, Lots 2/3/4 confirmed for that district; confirm whether same block applies to Brook Ave or different block)."
+      },
+      {
+        "site_name": "West Passaic Street Stacked Townhome Overlay District",
+        "address": "West Passaic Street, Maywood, NJ",
+        "block": "87",
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "Stacked Townhome Overlay District (Ord 3-26)",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": "for-sale",
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://www.maywoodnj.com/vertical/sites/%7B3F816141-7A2D-4412-8A8D-6C5C2C1C1341%7D/uploads/West_Passaic_Street_Affordable_Housing_Overlay_District_Ordinance_Final_01-20-26.docx",
+        "source_date": "2026-01-20",
+        "confidence": "medium",
+        "notes": "Ordinance 3-26 introduced February 10, 2026. Applies to Block 87, Lots 2, 3, and 4. 20% affordable set-aside; at least 50% of affordable units low-income; at least 13% of low-income units very-low-income. Exact total units not stated in sources."
+      }
+    ]
+  },
+  {
+    "municipality": "Midland Park",
+    "research_status": "done",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": 155,
+      "total_obligation": 155,
+      "rdp": 0,
+      "unmet_need": null,
+      "source_url": "https://www.midlandparknj.gov/home/news/state-nj-mandated-affordable-housing-requirements-explanation"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2026-01",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-16",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/midland-park-boro/61725MidlandParkHEFSPPart1.pdf?VersionId=Q6LNHYaFujCFppV.eW_d1uTOVSSitCO6"
+    },
+    "notes": "DCA assigned Midland Park an obligation of 155 affordable units for Round 4. Under the 25% minimum RDP rule, planning for at least 39 units is required (25% of 155). The vacant land assessment found RDP = 0 (no new vacant land identified since prior round). Borough reached a settlement with FSHC in January 2026. HEFSP adopted June 16, 2025 and filed with NJ Courts library. Settlement affirmed RDP of 0. Plan addresses the 39-unit minimum through: (a) proposed new MFO-3 overlay zone (at least 17 affordable units); (b) increased density in existing MFO-2 overlay (at least 10 additional affordable units). Additionally, Block 45 Lot 9.01 (90 Midland Avenue) was rezoned from R-2 to MARD (90 Midland Avenue Redevelopment District), contributing at least 5 affordable units. MFO-1 is approximately 0.85 acres and MFO-2 is approximately 2.15 acres. No active development applications pending as of HEFSP adoption date.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Midland Park Housing Element & Fair Share Plan – Adopted June 16, 2025 (NJ Courts Library)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/midland-park-boro/61725MidlandParkHEFSPPart1.pdf?VersionId=Q6LNHYaFujCFppV.eW_d1uTOVSSitCO6"
+      },
+      {
+        "doc_type": "other",
+        "title": "State of NJ Mandated Affordable Housing Requirements – Explanation | Midland Park NJ",
+        "url": "https://www.midlandparknj.gov/home/news/state-nj-mandated-affordable-housing-requirements-explanation"
+      },
+      {
+        "doc_type": "other",
+        "title": "Fair Share Housing / Affordable Housing Updates | Midland Park NJ",
+        "url": "https://www.midlandparknj.gov/borough-clerk/pages/fair-share-housing-affordable-housing-updates"
+      },
+      {
+        "doc_type": "other",
+        "title": "90 Midland Avenue Planning Board Page | Midland Park NJ",
+        "url": "https://www.midlandparknj.gov/planning-board/pages/90-midland-avenue"
+      },
+      {
+        "doc_type": "other",
+        "title": "Special Meeting of the Midland Park Planning Board – May 28, 2025",
+        "url": "https://www.midlandparknj.gov/sites/g/files/vyhlif896/f/minutes/05.28.2025_special_planning_meeting.pdf"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "MFO-2 Multifamily Overlay 2 (density increase)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": 2.15,
+        "mechanism": "overlay",
+        "current_zoning": "MFO-2 Multifamily Overlay 2",
+        "proposed_zoning": "MFO-2 (increased density)",
+        "density": null,
+        "total_units": null,
+        "affordable_units": 10,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.midlandparknj.gov/home/news/state-nj-mandated-affordable-housing-requirements-explanation",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Existing MFO-2 zone, approximately 2.15 acres. Density increase per Round 4 HEFSP/settlement to yield at least 10 additional affordable units. Block/lot not stated in sources."
+      },
+      {
+        "site_name": "MFO-3 Multifamily Overlay 3 (new overlay zone, proposed)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "MFO-3 Multifamily Overlay 3",
+        "density": null,
+        "total_units": null,
+        "affordable_units": 17,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://www.midlandparknj.gov/home/news/state-nj-mandated-affordable-housing-requirements-explanation",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Proposed new overlay zone, minimum lot size 1.5 acres (may require lot assembly). At least 17 affordable units per HEFSP/settlement. No active development applications. Block/lot not stated in sources."
+      },
+      {
+        "site_name": "90 Midland Avenue – MARD Redevelopment District",
+        "address": "90 Midland Avenue, Midland Park, NJ 07432",
+        "block": "45",
+        "lot": "9.01",
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": "R-2 Multifamily Residential",
+        "proposed_zoning": "MARD – 90 Midland Avenue Redevelopment District",
+        "density": null,
+        "total_units": null,
+        "affordable_units": 5,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://www.midlandparknj.gov/planning-board/pages/90-midland-avenue",
+        "source_date": null,
+        "confidence": "medium",
+        "notes": "Block 45 Lot 9.01 rezoned from R-2 to MARD as part of Round 4 compliance. At least 5 affordable units per redevelopment plan. Listed as Redevelopment Area Investigation site. Specific unit count, acreage, and developer not stated in sources."
+      }
+    ]
+  }
+]

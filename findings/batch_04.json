@@ -1,0 +1,544 @@
+[
+  {
+    "municipality": "Englewood Cliffs",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 0,
+      "prospective_need": 329,
+      "total_obligation": 329,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/englewood-cliffs-boro/HEFSPEnglewoodCliffsPart1.pdf?VersionId=OwZ34YGfpjExt9jmEHqDI_fwEoUGH0OV"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": "2026-01-27",
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-26",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/englewood-cliffs-boro/HEFSPEnglewoodCliffsPart1.pdf?VersionId=OwZ34YGfpjExt9jmEHqDI_fwEoUGH0OV"
+    },
+    "notes": "Resolution No. 25-27 (Jan 28 2025) committed borough to 0 present need / 329 prospective need. Planning Board public hearing on HEFSP held June 26 2025; HEFSP adopted. Consent Order filed Jan 27 2026 with FSHC (Resolution 2026-86). Concurrent eminent domain controversy: Mayor & Council voted to advance condemnation ordinance against 800 Sylvan Ave (Senlac Partners/former Unilever site, Block not confirmed in snippets) to acquire it for public use, displacing developer plan for 450 units / 90 affordable; borough's alternative called for 120 affordable. Ordinance 2026-04 amends affordable housing legislation; Ordinance 2026-06 enacts Southern Sylvan Avenue Overlay Zone D (§30-5.20). Prior round total obligation noted as 584 units (219 prior + 365 third round). Block/lot citations came from consent order snippet and municipal HEFSP/overlay ordinances — confidence medium where drawn from those official sources.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Housing Element and Fair Share Housing Plan Borough of Englewood Cliffs (Part 1)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/englewood-cliffs-boro/HEFSPEnglewoodCliffsPart1.pdf?VersionId=OwZ34YGfpjExt9jmEHqDI_fwEoUGH0OV"
+      },
+      {
+        "doc_type": "settlement",
+        "title": "Englewood Cliffs R4 Plan Consent Order (Exhibit A) - Fair Share Housing Center",
+        "url": "https://cdn.townweb.com/englewoodcliffsnj.org/wp-content/uploads/2026/02/Exhibit-A-Englewood-Cliffs-R4-Plan-Consent-Order.pdf"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Ordinance No. 2026-06 – Southern Sylvan Avenue Overlay Zone D",
+        "url": "https://cdn.townweb.com/englewoodcliffsnj.org/wp-content/uploads/2026/02/2026-06-ORDINANCE-TO-ENACT-%C2%A7-30-5.19-SOUTHERN-SYLVAN-AVENUE-OVERLAY-ZONE-D-IN-CHAPTER-30-ZONING-.pdf"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Ordinance No. 2026-04 – Amending Section 19 Affordable Housing Legislation",
+        "url": "https://cdn.townweb.com/englewoodcliffsnj.org/wp-content/uploads/2026/02/2026-04-Ordinance-Amending-Section-19-Affordable-Housing-Legislation.pdf"
+      },
+      {
+        "doc_type": "HEFSP",
+        "title": "Borough of Englewood Cliffs Housing Element and Fair Share Plan Draft (June 16 2025)",
+        "url": "https://cdn.townweb.com/englewoodcliffsnj.org/wp-content/uploads/2025/06/6.16.25-FINALw-APPENDIX-Englewood-Cliffs-HEFSP-Draft.pdf"
+      },
+      {
+        "doc_type": "other",
+        "title": "Affordable Housing Plan for 20-32 Sylvan Avenue Residences",
+        "url": "https://cdn.townweb.com/englewoodcliffsnj.org/wp-content/uploads/2025/07/Affordable-Housing-Plan-7-22-25.pdf"
+      },
+      {
+        "doc_type": "news",
+        "title": "Englewood Cliffs Looks to Condemn 29 Acres for Affordable Housing – Jersey Digs",
+        "url": "https://jerseydigs.com/englewood-cliffs-looks-to-condemn-29-acres-of-land-for-affordable-housing-parks/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Englewood Cliffs Affordable Housing page",
+        "url": "https://englewoodcliffsnj.org/affordable-housing/"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "800 Sylvan Avenue (former Unilever site)",
+        "address": "800 Sylvan Avenue, Englewood Cliffs, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": 20,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 450,
+        "affordable_units": 90,
+        "set_aside_pct": 20,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "Senlac Partners",
+        "source_url": "https://jerseydigs.com/englewood-cliffs-looks-to-condemn-29-acres-of-land-for-affordable-housing-parks/",
+        "source_date": "2025",
+        "confidence": "low",
+        "notes": "Existing court-approved settlement from prior round; 450 total / 90 affordable per developer plan. Borough advanced condemnation ordinance in 2025 to block or replace plan with 120 affordable-unit alternative. Acreage cited as ~20 acres (one source says 28.75 acres / 29 acres) – leaving null to avoid fabrication; acreage from snippet is low confidence. Block/lot not confirmed in any snippet."
+      },
+      {
+        "site_name": "20-32 Sylvan Avenue Residences (mixed use)",
+        "address": "20-32 Sylvan Avenue, Englewood Cliffs, NJ",
+        "block": "201",
+        "lot": "10-14",
+        "acreage": 1.985,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 48,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": "CFI Development, LLC",
+        "source_url": "https://cdn.townweb.com/englewoodcliffsnj.org/wp-content/uploads/2025/07/Affordable-Housing-Plan-7-22-25.pdf",
+        "source_date": "2025-07-22",
+        "confidence": "medium",
+        "notes": "Also involves Block 205, Lots 1, 2, and 4. 3-story 48-unit mixed-use rental development; 86,455 sq ft site. Affordable unit count and set-aside % not confirmed in snippets – set to null."
+      },
+      {
+        "site_name": "Southern Sylvan Avenue Consent Order Sites (Block 130 / Block 314 / Block 411)",
+        "address": "50-210 Sylvan Avenue and 400-440 Sylvan Avenue, Englewood Cliffs, NJ",
+        "block": "130 / 314 / 411",
+        "lot": "Lots 22-25 (Blk 130); Lots 10-12 (Blk 314); Lots 16-17 (Blk 411)",
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "Southern Sylvan Avenue Overlay Zone C / Zone D",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://cdn.townweb.com/englewoodcliffsnj.org/wp-content/uploads/2026/02/Exhibit-A-Englewood-Cliffs-R4-Plan-Consent-Order.pdf",
+        "source_date": "2026-01-27",
+        "confidence": "medium",
+        "notes": "Consent Order (Jan 27 2026) specifically permits these blocks/lots for inclusionary multifamily affordable housing. Overlay Zones C (§30-5.19) and D (§30-5.20) enacted by Ordinances 2026-05 and 2026-06. Unit counts and densities not confirmed in snippets."
+      }
+    ]
+  },
+  {
+    "municipality": "Fair Lawn",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": null,
+      "prospective_need": null,
+      "total_obligation": null,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+    },
+    "compliance": {
+      "status": null,
+      "settlement_party": null,
+      "settlement_date": null,
+      "hefsp_status": null,
+      "hefsp_adopted_date": null,
+      "hefsp_url": null
+    },
+    "notes": "Multiple searches for Fair Lawn's Fourth Round HEFSP document, obligation numbers, or settlement did not surface any specific document on library.njcourts.gov or a municipal page with confirmed Fourth Round numbers. The borough website (fairlawn.org/affordable-housing) and planning board pages exist but no document URL was returned with confirmed Fourth Round present-need or prospective-need figures. A Bergen County announcement references affordable housing pre-applications being accepted for Fair Lawn (alongside East Rutherford, Teaneck, Haworth, Glen Rock), suggesting the borough has active affordable housing programs. Fair Lawn also appears in a reference to the Fair Share Plan describing settlement with FSHC, but that reference language may predate the Fourth Round. No confirmed HEFSP adoption date, no confirmed obligation numbers, and no confirmed sites were found. DCA spreadsheet at nj.gov/dca/dlps/4th_Round_Numbers.shtml contains Fair Lawn numbers but was not accessible via search synthesis. Research status: in_progress — recommend direct review of fairlawn.org planning documents and DCA spreadsheet.",
+    "sources": [
+      {
+        "doc_type": "other",
+        "title": "Affordable Housing – Borough of Fair Lawn official page",
+        "url": "https://www.fairlawn.org/index.asp?SEC=8A4E6486-AEC0-45BE-8FAA-6BB50E6FC165"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025-2035 Affordable Housing Calculations (spreadsheet source)",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Pre-Applications (references Fair Lawn)",
+        "url": "https://www.oakland-nj.org/home/news/bergen-county-affordable-housing-pre-applications-now-being-accepted-east-rutherford-fair"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents – NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      }
+    ],
+    "sites": []
+  },
+  {
+    "municipality": "Fairview",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": 0,
+      "prospective_need": 117,
+      "total_obligation": 117,
+      "rdp": 0,
+      "unmet_need": null,
+      "source_url": "https://fairviewborough.com/all-public-notices/ordinance-intro-passage/393-introduced-ordinance-26-05-repeal-and-replace-affordable-housing-provisions/file"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-23",
+      "hefsp_url": null
+    },
+    "notes": "Docket No. BER-L-000541-25 filed January 23 2025. Borough adopted Resolution No. 048:01'2025 (January 22 2025) establishing Fourth Round obligations: 0 rehab / 117 prospective need. HEFSP adopted June 23 2025 per special Planning Board meeting. Consent order process with FSHC underway to implement amendments to Borough Code. Ordinances 26-04 and 26-05 introduced in 2026 to repeal/replace affordable housing provisions and implement consent order. Affordable Housing Overlay (AHO) zones require minimum 20% set-aside. Borough satisfies unmet need by slightly increasing density in one of five existing overlay zones from Third Round. Third-round carryover: 4 units to be fulfilled by expanding existing 100% affordable site with 2 family units + 2 beds. A Regional Contribution Agreement (RCA) with Alpine Borough involves an 8-rental-unit 100% affordable municipally-sponsored development with 8 rental bonus credits (legacy RCA). No HEFSP document URL confirmed on library.njcourts.gov for Fairview; the fairview-boro subfolder did not appear in search results. Specific sites, addresses, block/lot data not confirmed in search snippets. Settlement date for consent order not found.",
+    "sources": [
+      {
+        "doc_type": "ordinance",
+        "title": "Borough of Fairview Ordinance 26-05 (repeal/replace affordable housing provisions) – references HEFSP and consent order",
+        "url": "https://fairviewborough.com/all-public-notices/ordinance-intro-passage/393-introduced-ordinance-26-05-repeal-and-replace-affordable-housing-provisions/file"
+      },
+      {
+        "doc_type": "ordinance",
+        "title": "Borough of Fairview Ordinance 26-04 (affordable housing amendments)",
+        "url": "https://fairviewborough.com/add-public-notice/ordinance-intro-passage/392-introduced-ordinance-26-04-affordable-housing/file"
+      },
+      {
+        "doc_type": "other",
+        "title": "Bergen County Affordable Housing Documents – NJ Courts",
+        "url": "https://www.njcourts.gov/courts/civil/affordable-housing/bergen"
+      },
+      {
+        "doc_type": "DCA",
+        "title": "NJ DCA 2025-2035 Affordable Housing Calculations",
+        "url": "https://www.nj.gov/dca/dlps/4th_Round_Numbers.shtml"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Existing 100% Affordable Municipal Site (3rd Round expansion)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": null,
+        "affordable_units": 4,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://fairviewborough.com/all-public-notices/ordinance-intro-passage/393-introduced-ordinance-26-05-repeal-and-replace-affordable-housing-provisions/file",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Borough intends to expand existing 100% affordable housing site with 2 additional family units and 2 additional beds to fulfill 4 carryover units from 3rd Round. Address/block/lot not confirmed in snippets."
+      },
+      {
+        "site_name": "Affordable Housing Overlay Zones (existing, density increase)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "overlay",
+        "current_zoning": null,
+        "proposed_zoning": "Affordable Housing Overlay (AHO) – density increase",
+        "density": null,
+        "total_units": null,
+        "affordable_units": null,
+        "set_aside_pct": 20,
+        "tenure": null,
+        "adoption_status": "adopted-ordinance",
+        "developer": null,
+        "source_url": "https://fairviewborough.com/all-public-notices/ordinance-intro-passage/393-introduced-ordinance-26-05-repeal-and-replace-affordable-housing-provisions/file",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "Borough satisfies 4th Round unmet need by increasing permitted density in one of five existing Third Round AHO zones. Minimum 20% set-aside within AHO zones per ordinance snippet. Specific zone locations, blocks, lots, total units not confirmed in snippets."
+      }
+    ]
+  },
+  {
+    "municipality": "Fort Lee",
+    "research_status": "in_progress",
+    "obligation": {
+      "present_need": 241,
+      "prospective_need": 360,
+      "total_obligation": 601,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://www.fortleenj.org/AgendaCenter/ViewFile/Minutes/_06232025-1009"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-23",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/fort-lee-boro/SignedFinalFortLeeFourthroundHousingElementandFairSharePlan62325.pdf?VersionId=oyVwlKT1wB.e5bwRIcuoGAmL7DUTpAl4"
+    },
+    "notes": "Planning Board adopted Fourth Round HEFSP and memorializing resolution at June 23 2025 meeting. Initial DCA prospective need was 360 units; NJ Builders Association challenged that number and parties agreed to 366 units — the 360 vs. 366 discrepancy is noted; 241 present need was agreed as correct. Prior rounds: borough had not previously reached compliance with its Fair Share Plan and sought to address third and fourth rounds simultaneously. Resolution R-5 adopted at January 16 2025 Mayor & Council meeting. Existing settlement agreement with FSHC (pre-4th Round, doc at fortleenj.org) identified Upper Main Street (Block 4355, Lots 14-16) with capacity of 150 family rental units and Lower Main Street (Block 4355, Lots 11-12 and 20-23) with capacity of 203 family rental units — these are Third Round era settlements. Fort Lee Housing Authority administers 40-unit public housing site on Teresa Drive and Section 8 vouchers for ~490 families (legacy). A 124-unit 100% affordable project at the Fort Lee Municipal Building site (Center Lofts) including a Senior Center is referenced. Fourth Round HEFSP document confirmed on library.njcourts.gov. Settlement date with FSHC for Fourth Round not confirmed. R-10A zone requires 20% affordable set-aside. Site-level details for Fourth Round plan not confirmed beyond the documents found.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "Signed Final Fort Lee Fourth Round Housing Element and Fair Share Plan (June 23 2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/fort-lee-boro/SignedFinalFortLeeFourthroundHousingElementandFairSharePlan62325.pdf?VersionId=oyVwlKT1wB.e5bwRIcuoGAmL7DUTpAl4"
+      },
+      {
+        "doc_type": "other",
+        "title": "Fort Lee Planning Board Meeting Minutes – June 23 2025",
+        "url": "https://www.fortleenj.org/AgendaCenter/ViewFile/Minutes/_06232025-1009"
+      },
+      {
+        "doc_type": "settlement",
+        "title": "Fort Lee Settlement Agreement with FSHC (prior round)",
+        "url": "https://www.fortleenj.org/DocumentCenter/View/6048/Settlement-Agreement-FSHC"
+      },
+      {
+        "doc_type": "other",
+        "title": "Fort Lee Affordable Housing Ordinances & Resolutions",
+        "url": "https://www.fortleenj.org/730/Affordable-Housing-Ordinances-Resolution"
+      },
+      {
+        "doc_type": "news",
+        "title": "Affordable Housing Complex Planned for Fort Lee – Jersey Digs (2 Executive Drive)",
+        "url": "https://jerseydigs.com/affordable-housing-complex-proposed-2-executive-drive-fort-lee/"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Upper Main Street Redevelopment Area",
+        "address": "90-100 Main Street and vicinity, Fort Lee, NJ",
+        "block": "4355",
+        "lot": "14, 15, 16",
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 150,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": null,
+        "source_url": "https://www.fortleenj.org/DocumentCenter/View/6048/Settlement-Agreement-FSHC",
+        "source_date": "2021-01-25",
+        "confidence": "medium",
+        "notes": "From Third Round era settlement agreement with FSHC (Jan 25 2021). Capacity listed as 150 family rental units. This settlement may carry forward into Fourth Round plan; confirm against adopted Fourth Round HEFSP document."
+      },
+      {
+        "site_name": "Lower Main Street Redevelopment Area",
+        "address": "55, 51, 47, 41 Main Street and 1636-1640 Kaufer Lane, Fort Lee, NJ",
+        "block": "4355",
+        "lot": "11, 12, 20, 21, 22, 23",
+        "acreage": null,
+        "mechanism": "redevelopment-area",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 203,
+        "affordable_units": null,
+        "set_aside_pct": null,
+        "tenure": "rental",
+        "adoption_status": "approved",
+        "developer": null,
+        "source_url": "https://www.fortleenj.org/DocumentCenter/View/6048/Settlement-Agreement-FSHC",
+        "source_date": "2021-01-25",
+        "confidence": "medium",
+        "notes": "From Third Round era settlement agreement with FSHC. Capacity listed as 203 family rental units. Verify against Fourth Round HEFSP adopted June 23 2025."
+      },
+      {
+        "site_name": "Center Lofts / Fort Lee Municipal Building Site (100% affordable + Senior Center)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 124,
+        "affordable_units": 124,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "built",
+        "developer": null,
+        "source_url": "https://www.dmrarchitects.com/projects/residential/center-lofts/",
+        "source_date": null,
+        "confidence": "low",
+        "notes": "148,000 sq ft development on site of Fort Lee Municipal Building; 124 affordable 1- and 2-bedroom units plus Senior Center and Health Department. May be a legacy/completed project credited toward prior round compliance. Address/block/lot not confirmed in snippets."
+      },
+      {
+        "site_name": "2 Executive Drive (100% affordable proposal)",
+        "address": "2 Executive Drive, Fort Lee, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": null,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 40,
+        "affordable_units": 40,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://jerseydigs.com/affordable-housing-complex-proposed-2-executive-drive-fort-lee/",
+        "source_date": "2019",
+        "confidence": "low",
+        "notes": "2019-era proposal for 40 all-affordable units at 2 Executive Drive. Status as of 2025-2026 not confirmed. Block/lot not confirmed in snippets."
+      }
+    ]
+  },
+  {
+    "municipality": "Franklin Lakes",
+    "research_status": "done",
+    "obligation": {
+      "present_need": 65,
+      "prospective_need": 480,
+      "total_obligation": 545,
+      "rdp": null,
+      "unmet_need": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/franklin-lakes-boro/62025FranklinLakesFourthRoundHEFSPADOPTED.pdf?VersionId=0s40Y1eJh1EEYquLCmcvDPDbFrDvPvdC"
+    },
+    "compliance": {
+      "status": "settled",
+      "settlement_party": "Fair Share Housing Center",
+      "settlement_date": null,
+      "hefsp_status": "adopted",
+      "hefsp_adopted_date": "2025-06-19",
+      "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/franklin-lakes-boro/62025FranklinLakesFourthRoundHEFSPADOPTED.pdf?VersionId=0s40Y1eJh1EEYquLCmcvDPDbFrDvPvdC"
+    },
+    "notes": "Superior Court Judge Gregg A. Padovano set the borough's Fourth Round obligations at 65 present need and 480 prospective need. DCA's initial calculation was 497 units; Borough planner found errors in land data reducing it to 463; court settled on 480. HEFSP adopted by Planning Board June 19 2025. Borough Council adopted rezoning resolution for Becton Dickinson campus December 22 2025. Borough pursuing Certification of Compliance and Repose by March 15 2026 to secure immunity through 2035. Three main development sites: (1) Becton Dickinson campus (800 units, 160 affordable — Hekemian Group / SHG Franklin Lakes LLC); (2) Cigna/former IBM site at 400 Parsons Pond Road (495 units, 62 affordable — SHG, settled November 2023 via Ordinance No. 1927; amended October 1 2024 via Ordinance No. 1964); (3) Municipally-sponsored 100% affordable site on 3.5 acres donated by SHG (65 units, 71 affordable credits). Originally sited near McCoy Road; 3.5 acres comes from SHG under Cigna settlement. Mayor and Council approved settlement agreements with SHG and FSHC for Cigna site. Settlement date for Fourth Round consent order with FSHC not confirmed. Surprise late proposal for a portion of the Becton Dickinson site emerged during planning discussions.",
+    "sources": [
+      {
+        "doc_type": "HEFSP",
+        "title": "2025 Fourth Round Housing Plan Housing Element & Fair Share Plan – Franklin Lakes (Adopted June 19 2025)",
+        "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/franklin-lakes-boro/62025FranklinLakesFourthRoundHEFSPADOPTED.pdf?VersionId=0s40Y1eJh1EEYquLCmcvDPDbFrDvPvdC"
+      },
+      {
+        "doc_type": "news",
+        "title": "Franklin Lakes \"Affordable Housing\": 1,300+ New Units Proposed for Becton Dickinson and Cigna Sites – Ridgewood Blog",
+        "url": "https://theridgewoodblog.net/franklin-lakes-affordable-housing-1300-new-units-proposed-for-becton-dickinson-and-cigna-sites/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Franklin Lakes Braces for 800-Unit Inclusionary Nightmare – Ridgewood Blog",
+        "url": "https://theridgewoodblog.net/franklin-lakes-braces-for-800-unit-inclusionary-nightmare-as-council-bows-to-state-mandates/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Landmark Land Deal: Becton Dickinson May Sell 60 Acres in Franklin Lakes – Ridgewood Blog",
+        "url": "https://theridgewoodblog.net/landmark-land-deal-becton-dickinson-may-sell-60-acres-in-franklin-lakes-for-affordable-housing/"
+      },
+      {
+        "doc_type": "news",
+        "title": "Surprise Proposal for Part of Becton Dickinson Site – Daily Voice",
+        "url": "https://dailyvoice.com/new-jersey/wyckoff/surprise-proposal-for-part-of-becton-dickinson-site-shakes-up-franklin-lakes-housing-talks/"
+      },
+      {
+        "doc_type": "other",
+        "title": "Franklin Lakes Affordable Housing Update 2025 (municipal page)",
+        "url": "https://www.franklinlakes.org/index.asp?SEC=1EAA46DD-746C-40C2-84D7-6B2D899087C6&DE=33A3B06A-8276-452F-AEA2-94071C70AC49"
+      },
+      {
+        "doc_type": "other",
+        "title": "Franklin Lakes Affordable Housing and Cigna Property Update (municipal page – settlement details)",
+        "url": "https://www.franklinlakes.org/index.asp?SEC=A8BDF9D5-F886-409E-8444-682824D982E3&DE=632566EF-E091-400D-9290-A6BB55461C8B"
+      },
+      {
+        "doc_type": "news",
+        "title": "Franklin Lakes approves rezoning of Cigna property – AOL/NorthJersey",
+        "url": "https://www.aol.com/franklin-lakes-approves-rezoning-cigna-033843578.html"
+      }
+    ],
+    "sites": [
+      {
+        "site_name": "Becton Dickinson Campus – Hekemian Inclusionary Townhouses",
+        "address": "1 Becton Drive (campus), Franklin Lakes, NJ (off Route 208)",
+        "block": null,
+        "lot": null,
+        "acreage": 60,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": "High-Density Residential Overlay (entire 140-acre campus covered; ~60 acres targeted for purchase)",
+        "density": null,
+        "total_units": 800,
+        "affordable_units": 160,
+        "set_aside_pct": 20,
+        "tenure": "for-sale",
+        "adoption_status": "adopted-ordinance",
+        "developer": "SHG Franklin Lakes LLC (S. Hekemian Group)",
+        "source_url": "https://theridgewoodblog.net/franklin-lakes-braces-for-800-unit-inclusionary-nightmare-as-council-bows-to-state-mandates/",
+        "source_date": "2025",
+        "confidence": "low",
+        "notes": "Mayor & Council adopted rezoning resolution December 22 2025. Hekemian Group (SHG Franklin Lakes LLC) agreed to acquire ~60 acres from 128-acre BD HQ campus; overlay zone covers entire 140 acres. 800 total townhouses (640 market-rate + 160 affordable). Acreage refers to the portion being acquired, not the entire campus. Block/lot not confirmed. Source is news blog – medium-to-low confidence on unit counts which were consistent across multiple articles."
+      },
+      {
+        "site_name": "Cigna / Former IBM Site – SHG Multi-Family",
+        "address": "400 Parsons Pond Road, Franklin Lakes, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": 88,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": "Multi-Family Residential (Ordinance No. 1927, amended by Ordinance No. 1964)",
+        "density": null,
+        "total_units": 495,
+        "affordable_units": 62,
+        "set_aside_pct": 13,
+        "tenure": "rental",
+        "adoption_status": "adopted-ordinance",
+        "developer": "SHG Franklin Lakes LLC (S. Hekemian Group)",
+        "source_url": "https://www.franklinlakes.org/index.asp?SEC=A8BDF9D5-F886-409E-8444-682824D982E3&DE=632566EF-E091-400D-9290-A6BB55461C8B",
+        "source_date": "2023",
+        "confidence": "medium",
+        "notes": "Owned by Cigna (Medco Health Solutions); formerly IBM/Express Scripts campus. Settlement approved November 2023 (Ordinance 1927); amended October 1 2024 (Ordinance 1964). 495 total units: 433 market-rate townhouses + 62 affordable rental apartments. Additional 70,000 sq ft retail/office. Borough also receives 3.5 acres for municipal affordable site. Set-aside pct calculated from 62/495 = 12.5%, rounded to 13%. Source is municipal page – medium confidence."
+      },
+      {
+        "site_name": "Municipal 100% Affordable Site (SHG Land Donation)",
+        "address": null,
+        "block": null,
+        "lot": null,
+        "acreage": 3.5,
+        "mechanism": "100pct-affordable",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 65,
+        "affordable_units": 65,
+        "set_aside_pct": 100,
+        "tenure": "rental",
+        "adoption_status": "proposed",
+        "developer": null,
+        "source_url": "https://www.franklinlakes.org/index.asp?SEC=A8BDF9D5-F886-409E-8444-682824D982E3&DE=632566EF-E091-400D-9290-A6BB55461C8B",
+        "source_date": "2023",
+        "confidence": "medium",
+        "notes": "3.5 acres to be transferred to borough by SHG under Cigna settlement. Borough issuing RFP for design/construction of 100% affordable project. Generates 71 affordable credits. Originally planned near McCoy Road (may reflect alternate location). Address/block/lot not confirmed."
+      },
+      {
+        "site_name": "370-378 Pulis Avenue (Trelia Franklin Lakes)",
+        "address": "370-378 Pulis Avenue, Franklin Lakes, NJ",
+        "block": null,
+        "lot": null,
+        "acreage": 7.4,
+        "mechanism": "inclusionary-rezoning",
+        "current_zoning": null,
+        "proposed_zoning": null,
+        "density": null,
+        "total_units": 46,
+        "affordable_units": 9,
+        "set_aside_pct": 20,
+        "tenure": "for-sale",
+        "adoption_status": "approved",
+        "developer": "Trelia Franklin Lakes 1, L.L.C.",
+        "source_url": "https://theridgewoodblog.net/franklin-lakes-affordable-housing-1300-new-units-proposed-for-becton-dickinson-and-cigna-sites/",
+        "source_date": "2025",
+        "confidence": "low",
+        "notes": "Borough authorized settlement with Trelia Franklin Lakes 1 LLC. 7.4 acres; 42 townhouses + 4 single-family homes = 46 total; 9 affordable. Public hearings before Planning Board and Mayor & Council required. Set-aside pct: 9/46 ≈ 20% calculated. Block/lot not confirmed. Source is news blog."
+      }
+    ]
+  }
+]

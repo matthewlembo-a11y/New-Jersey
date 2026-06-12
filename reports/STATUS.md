@@ -1,47 +1,47 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T03:04:02+00:00_
+_Generated 2026-06-12T03:22:23+00:00_
 
-- Municipalities: **70/70**  (done: 0, in_progress: 0, blocked: 0, not_started: 70)
-- Sites catalogued: **0**
+- Municipalities: **70/70**  (done: 15, in_progress: 10, blocked: 0, not_started: 45)
+- Sites catalogued: **59**
 
 | # | Municipality | Status | Sites | Oblig. | Compliance | HEFSP | Last researched |
 |---|---|---|---|---|---|---|---|
-| 1 | Allendale | not_started | 0 |  |  |  |  |
-| 2 | Alpine | not_started | 0 |  |  |  |  |
-| 3 | Bergenfield | not_started | 0 |  |  |  |  |
-| 4 | Bogota | not_started | 0 |  |  |  |  |
-| 5 | Carlstadt | not_started | 0 |  |  |  |  |
-| 6 | Cliffside Park | not_started | 0 |  |  |  |  |
-| 7 | Closter | not_started | 0 |  |  |  |  |
-| 8 | Cresskill | not_started | 0 |  |  |  |  |
-| 9 | Demarest | not_started | 0 |  |  |  |  |
-| 10 | Dumont | not_started | 0 |  |  |  |  |
+| 1 | Allendale | done | 4 |  | settled-with-FSHC; also party to LLRP constitutional lawsuit | adopted | 2026-06-12T03:22:07+00:00 |
+| 2 | Alpine | done | 4 | 117 | settled | adopted | 2026-06-12T03:22:07+00:00 |
+| 3 | Bergenfield | in_progress | 4 |  | QUAM-exempt from prospective need; rehabilitation obligation status unclear | no fourth-round HEFSP found on library.njcourts.gov | 2026-06-12T03:22:07+00:00 |
+| 4 | Bogota | done | 1 | 111 | settled | adopted | 2026-06-12T03:22:07+00:00 |
+| 5 | Carlstadt | in_progress | 0 | 511 | adopted-HEFSP; settlement status unclear | adopted | 2026-06-12T03:22:07+00:00 |
+| 6 | Cliffside Park | in_progress | 0 |  | QUAM-exempt | adopted-resolution | 2026-06-12T03:22:07+00:00 |
+| 7 | Closter | done | 2 | 241 | settled | adopted | 2026-06-12T03:22:07+00:00 |
+| 8 | Cresskill | done | 1 | 155 | settled | adopted | 2026-06-12T03:22:07+00:00 |
+| 9 | Demarest | done | 3 |  | settled | adopted | 2026-06-12T03:22:07+00:00 |
+| 10 | Dumont | done | 2 |  | settled | adopted | 2026-06-12T03:22:07+00:00 |
 | 11 | East Rutherford | not_started | 0 |  |  |  |  |
 | 12 | Edgewater | not_started | 0 |  |  |  |  |
 | 13 | Elmwood Park | not_started | 0 |  |  |  |  |
 | 14 | Emerson | not_started | 0 |  |  |  |  |
 | 15 | Englewood | not_started | 0 |  |  |  |  |
-| 16 | Englewood Cliffs | not_started | 0 |  |  |  |  |
-| 17 | Fair Lawn | not_started | 0 |  |  |  |  |
-| 18 | Fairview | not_started | 0 |  |  |  |  |
-| 19 | Fort Lee | not_started | 0 |  |  |  |  |
-| 20 | Franklin Lakes | not_started | 0 |  |  |  |  |
-| 21 | Garfield | not_started | 0 |  |  |  |  |
-| 22 | Glen Rock | not_started | 0 |  |  |  |  |
-| 23 | Hackensack | not_started | 0 |  |  |  |  |
-| 24 | Harrington Park | not_started | 0 |  |  |  |  |
-| 25 | Hasbrouck Heights | not_started | 0 |  |  |  |  |
+| 16 | Englewood Cliffs | done | 3 | 329 | settled | adopted | 2026-06-12T03:22:07+00:00 |
+| 17 | Fair Lawn | in_progress | 0 |  |  |  | 2026-06-12T03:22:07+00:00 |
+| 18 | Fairview | in_progress | 2 | 117 | settled | adopted | 2026-06-12T03:22:07+00:00 |
+| 19 | Fort Lee | in_progress | 4 | 601 | settled | adopted | 2026-06-12T03:22:07+00:00 |
+| 20 | Franklin Lakes | done | 4 | 545 | settled | adopted | 2026-06-12T03:22:08+00:00 |
+| 21 | Garfield | in_progress | 0 | 322 | settled | adopted | 2026-06-12T03:22:08+00:00 |
+| 22 | Glen Rock | done | 5 | 201 | settled | adopted | 2026-06-12T03:22:08+00:00 |
+| 23 | Hackensack | done | 5 | 593 | settled | adopted | 2026-06-12T03:22:08+00:00 |
+| 24 | Harrington Park | done | 5 | 188 | settled | adopted | 2026-06-12T03:22:08+00:00 |
+| 25 | Hasbrouck Heights | in_progress | 1 | 157 |  |  | 2026-06-12T03:22:08+00:00 |
 | 26 | Haworth | not_started | 0 |  |  |  |  |
 | 27 | Hillsdale | not_started | 0 |  |  |  |  |
 | 28 | Ho-Ho-Kus | not_started | 0 |  |  |  |  |
 | 29 | Leonia | not_started | 0 |  |  |  |  |
 | 30 | Little Ferry | not_started | 0 |  |  |  |  |
-| 31 | Lodi | not_started | 0 |  |  |  |  |
-| 32 | Lyndhurst | not_started | 0 |  |  |  |  |
-| 33 | Mahwah | not_started | 0 |  |  |  |  |
-| 34 | Maywood | not_started | 0 |  |  |  |  |
-| 35 | Midland Park | not_started | 0 |  |  |  |  |
+| 31 | Lodi | in_progress | 0 |  |  |  | 2026-06-12T03:22:08+00:00 |
+| 32 | Lyndhurst | in_progress | 0 |  | litigating | challenged | 2026-06-12T03:22:08+00:00 |
+| 33 | Mahwah | done | 4 | 495 | settled | adopted | 2026-06-12T03:22:08+00:00 |
+| 34 | Maywood | done | 2 | 143 | settled | adopted | 2026-06-12T03:22:08+00:00 |
+| 35 | Midland Park | done | 3 | 155 | settled | adopted | 2026-06-12T03:22:08+00:00 |
 | 36 | Montvale | not_started | 0 |  |  |  |  |
 | 37 | Moonachie | not_started | 0 |  |  |  |  |
 | 38 | New Milford | not_started | 0 |  |  |  |  |
