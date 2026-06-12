@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T12:25:21+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T12:25:45+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -269,15 +269,22 @@ _Obligation: 593 · Compliance: QUAM — prospective need exempt; rehabilitation
 
 ## Harrington Park (Borough)
 
-_Obligation: 188 · Compliance: settled · HEFSP: adopted 2025-06-24_
+_Obligation: 188 · Compliance: settled · HEFSP: adopted-amended 2026-03-04_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| BCUW Group Home (Borough-Owned Parcels) |  |  |  |  | group-home |  |  |  | 100.0% | rental | proposed | low | [doc](https://www.harringtonparknj.gov/government/documents/forms-documents/department-documents/planning-board/937-fair-share-housing-plan-amendment-to-the-fourth-round-housing-element-fair-share-plan-for-the-borough-of-harrington-park-february-2026/file) |
-| Accessory Apartment Program |  |  |  |  | accessory-apt |  |  |  |  | rental | adopted-ordinance | low | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/HarringtonParkHEFSPADOPTED06.24.2025.pdf?VersionId=recf2oc2zSrDkgTgyq5IXpEoqQFcQjnD) |
-| 72 & 76 Schraalenburgh Road (Mixed-Use Inclusionary) | 72 & 76 Schraalenburgh Road, Harrington Park, NJ 07640 | 1205 | 1 & 2 |  | inclusionary-rezoning |  | 28 | 4 | 14.0% | rental | approved | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/HarringtonParkHEFSPADOPTED06.24.2025.pdf?VersionId=recf2oc2zSrDkgTgyq5IXpEoqQFcQjnD) |
-| Affordable Housing Overlay Zone - Block 1316 (Ord. 795-26) |  | 1316 | 1-7, 9, 11 |  | overlay |  |  |  | 15.0% | rental | adopted-ordinance | medium | [doc](https://www.harringtonparknj.gov/government/documents/forms-documents/ordinances/2026-1/adopted-ordinances-2/956-ordinance-795-26-affordable-housing-overlay-expansion-adopted-03-16-2026/file) |
-| Affordable Housing Overlay Zone - Block 1406 (Ord. 795-26) |  | 1406 | 24, 25, 26 |  | overlay |  |  |  | 20.0% | for-sale | adopted-ordinance | medium | [doc](https://www.harringtonparknj.gov/government/documents/forms-documents/ordinances/2026-1/adopted-ordinances-2/956-ordinance-795-26-affordable-housing-overlay-expansion-adopted-03-16-2026/file) |
+| Allegro Assisted Living (Medicaid Beds - RDP) |  |  |  |  | 100% affordable |  |  | 9 | 100.0% | rental | existing/completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/ResolutionofPBAdoptionofAmendedHEFSP4throundsigned03052026wAmendmenttoPlan.pdf?VersionId=nu6Bn571rOyuxVV86.ER2oNlXa0dUBE7) |
+| Accessory Apartment Program (RDP) |  |  |  |  | accessory-apt |  |  | 3 |  | rental | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/ResolutionofPBAdoptionofAmendedHEFSP4throundsigned03052026wAmendmenttoPlan.pdf?VersionId=nu6Bn571rOyuxVV86.ER2oNlXa0dUBE7) |
+| Overlay B-1 Area - Block 1204 Lots 1 & 2 |  | 1204 | 1, 2 |  | inclusionary overlay |  | 16 | 3 |  |  | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/ResolutionofPBAdoptionofAmendedHEFSP4throundsigned03052026wAmendmenttoPlan.pdf?VersionId=nu6Bn571rOyuxVV86.ER2oNlXa0dUBE7) |
+| Overlay B-1 Area - Block 1204 Lots 4 & 5 |  | 1204 | 4, 5 |  | inclusionary overlay |  | 15 | 3 |  |  | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/ResolutionofPBAdoptionofAmendedHEFSP4throundsigned03052026wAmendmenttoPlan.pdf?VersionId=nu6Bn571rOyuxVV86.ER2oNlXa0dUBE7) |
+| Overlay B-1 Area - Block 1204 Lots 6, 9, 10, 11 |  | 1204 | 6, 9, 10, 11 |  | inclusionary overlay |  | 30 | 6 |  |  | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/ResolutionofPBAdoptionofAmendedHEFSP4throundsigned03052026wAmendmenttoPlan.pdf?VersionId=nu6Bn571rOyuxVV86.ER2oNlXa0dUBE7) |
+| Overlay B-1 Area - Block 1204 Lot 8 |  | 1204 | 8 |  | inclusionary overlay |  | 8 | 2 |  |  | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/ResolutionofPBAdoptionofAmendedHEFSP4throundsigned03052026wAmendmenttoPlan.pdf?VersionId=nu6Bn571rOyuxVV86.ER2oNlXa0dUBE7) |
+| Overlay I-1 Area - Block 1205 Lots 2 & 5 |  | 1205 | 2, 5 |  | inclusionary overlay |  | 36 | 7 |  |  | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/ResolutionofPBAdoptionofAmendedHEFSP4throundsigned03052026wAmendmenttoPlan.pdf?VersionId=nu6Bn571rOyuxVV86.ER2oNlXa0dUBE7) |
+| Overlay I-1 Area - Block 1205 Lot 4 |  | 1205 | 4 |  | inclusionary overlay |  | 8 | 2 |  |  | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/ResolutionofPBAdoptionofAmendedHEFSP4throundsigned03052026wAmendmenttoPlan.pdf?VersionId=nu6Bn571rOyuxVV86.ER2oNlXa0dUBE7) |
+| Overlay I-1 Area - Block 1206 Lot 1 |  | 1206 | 1 |  | inclusionary overlay |  | 10 | 2 |  |  | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/ResolutionofPBAdoptionofAmendedHEFSP4throundsigned03052026wAmendmenttoPlan.pdf?VersionId=nu6Bn571rOyuxVV86.ER2oNlXa0dUBE7) |
+| Overlay I-1 Area - Block 1207 Lot 2 |  | 1207 | 2 |  | inclusionary overlay |  | 60 | 12 |  |  | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/ResolutionofPBAdoptionofAmendedHEFSP4throundsigned03052026wAmendmenttoPlan.pdf?VersionId=nu6Bn571rOyuxVV86.ER2oNlXa0dUBE7) |
+| Overlay B-2 Area - Block 1316 Lots 1-7, 9, 11 |  | 1316 | 1, 2, 3, 4, 5, 6, 7, 9, 11 |  | inclusionary overlay |  | 47 | 9 |  |  | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/ResolutionofPBAdoptionofAmendedHEFSP4throundsigned03052026wAmendmenttoPlan.pdf?VersionId=nu6Bn571rOyuxVV86.ER2oNlXa0dUBE7) |
+| Overlay R-1 Area - Block 1406 Lots 24, 25, 26 |  | 1406 | 24, 25, 26 |  | inclusionary overlay |  | 71 | 14 |  |  | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/ResolutionofPBAdoptionofAmendedHEFSP4throundsigned03052026wAmendmenttoPlan.pdf?VersionId=nu6Bn571rOyuxVV86.ER2oNlXa0dUBE7) |
 
 ## Hasbrouck Heights (Borough)
 
@@ -373,13 +380,15 @@ _Obligation: 143 · Compliance: certified · HEFSP: adopted with compliance cert
 
 ## Midland Park (Borough)
 
-_Obligation: 155 · Compliance: settled · HEFSP: adopted 2025-06-16_
+_Obligation: 155 · Compliance: binding resolution accepting DCA numbers · HEFSP: adopted 2025-06-17_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| MFO-2 Multifamily Overlay 2 (density increase) |  |  |  | 2.15 | overlay |  |  | 10 |  | rental | adopted-ordinance | medium | [doc](https://www.midlandparknj.gov/home/news/state-nj-mandated-affordable-housing-requirements-explanation) |
-| MFO-3 Multifamily Overlay 3 (new overlay zone, proposed) |  |  |  |  | overlay |  |  | 17 |  | rental | proposed | medium | [doc](https://www.midlandparknj.gov/home/news/state-nj-mandated-affordable-housing-requirements-explanation) |
-| 90 Midland Avenue – MARD Redevelopment District | 90 Midland Avenue, Midland Park, NJ 07432 | 45 | 9.01 |  | redevelopment-area |  |  | 5 |  |  | adopted-ordinance | medium | [doc](https://www.midlandparknj.gov/planning-board/pages/90-midland-avenue) |
+| Mandatory Set-Aside Ordinance (Borough-Wide) |  |  |  |  | mandatory set-aside ordinance |  |  |  | 20.0% |  | adopted | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/midland-park-boro/61725MidlandParkHEFSPPart1.pdf?VersionId=Q6LNHYaFujCFppV.eW_d1uTOVSSitCO6) |
+| Block 22 Site (MFO-3 Overlay) |  | 22 | 1, 2, 3, 4, 5, 10, 11, 12, 13 | 1.33 | inclusionary overlay | 18.0 | 23 | 4 | 17.0% | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/midland-park-boro/61725MidlandParkHEFSPPart1.pdf?VersionId=Q6LNHYaFujCFppV.eW_d1uTOVSSitCO6) |
+| 577 Godwin Avenue | 577 Godwin Avenue | 41 | 2 |  | inclusionary |  | 6 | 1 | 17.0% |  | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/midland-park-boro/61725MidlandParkHEFSPPart1.pdf?VersionId=Q6LNHYaFujCFppV.eW_d1uTOVSSitCO6) |
+| 90 Midland Avenue MARD (Block 45 Lot 9.01) | 90 Midland Avenue | 45 | 9.01 |  | redevelopment | 21.0 | 28 | 5 | 18.0% | rental | adopted (Ordinance #14-2024, October 10, 2024) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/midland-park-boro/61725MidlandParkHEFSPPart1.pdf?VersionId=Q6LNHYaFujCFppV.eW_d1uTOVSSitCO6) |
+| Nouvelle LLC / 714 Godwin Avenue (100% Affordable Veterans) | 714 Godwin Avenue | 55 | 8 |  | 100% affordable |  | 5 | 5 | 100.0% | rental | completed (amended October 2024) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/midland-park-boro/61725MidlandParkHEFSPPart1.pdf?VersionId=Q6LNHYaFujCFppV.eW_d1uTOVSSitCO6) |
 
 ## Montvale (Borough)
 
@@ -483,11 +492,14 @@ _Compliance: settled · HEFSP: adopted 2025-06-25_
 
 ## Park Ridge (Borough)
 
-_Obligation: 256 · Compliance: settled · HEFSP: adopted 2025-06-11_
+_Obligation: 124 · Compliance: settled · HEFSP: adopted 2025-06-11_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 155 Park Avenue (Park Terrace Apartments expansion) | 155 Park Avenue, Park Ridge, NJ |  |  |  | inclusionary-rezoning |  | 16 | 3 |  | rental | approved | medium | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/park-ridge-boro/4157.04ParkRidge4thRoundHEFSPADOPTED611258.5x11reducedPart1.pdf?VersionId=bqP7hZohhYHSiTJNiryrGihf.K.U2okK) |
+| NB Neighborhood Zone (Unmet Need) | Park Avenue and Broadway corridor (vicinity of train station) |  |  | 44.0 | inclusionary overlay |  |  | 87 | 20.0% | rental | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/park-ridge-boro/4157.04ParkRidge4thRoundHEFSPADOPTED611258.5x11reducedPart1.pdf?VersionId=bqP7hZohhYHSiTJNiryrGihf.K.U2okK) |
+| AH-1 Affordable Housing Zones (Unmet Need) | Hawthorne Avenue / Wampum Road | 1401, 1403, 1602 | 4, 5, 6 (Block 1401); 1 (Block 1403); 5 (Block 1602) | 6.47 | inclusionary overlay | 12.0 |  | 11 | 20.0% | rental | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/park-ridge-boro/4157.04ParkRidge4thRoundHEFSPADOPTED611258.5x11reducedPart1.pdf?VersionId=bqP7hZohhYHSiTJNiryrGihf.K.U2okK) |
+| 155 Park Avenue (Park Terrace Apartments addition) | 155 Park Avenue | 1807 | 5 | 3.21 | inclusionary overlay (density bonus) |  | 16 | 2 | 20.0% | rental | approved | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/park-ridge-boro/4157.04ParkRidge4thRoundHEFSPADOPTED611258.5x11reducedPart1.pdf?VersionId=bqP7hZohhYHSiTJNiryrGihf.K.U2okK) |
+| Landmark (Former Sony Site) | 1 Sony Drive (Brae Boulevard and Sony Drive) | 301 | 1 | 29.9 | inclusionary redevelopment |  | 448 | 68 | 15.0% | rental | under-construction | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/park-ridge-boro/4157.04ParkRidge4thRoundHEFSPADOPTED611258.5x11reducedPart1.pdf?VersionId=bqP7hZohhYHSiTJNiryrGihf.K.U2okK) |
 
 ## Ramsey (Borough)
 
