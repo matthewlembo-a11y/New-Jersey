@@ -1,0 +1,109 @@
+{
+  "municipality": "Ridgefield",
+  "research_status": "done",
+  "obligation": {
+    "present_need": 62,
+    "prospective_need": 223,
+    "total_obligation": 395,
+    "rdp": 11,
+    "unmet_need": 384,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-boro/RidgefieldHEFSP1.pdf?VersionId=8fMP7N64zBhNgWW2UuINT3j0pmtp.bpt"
+  },
+  "compliance": {
+    "status": "settled",
+    "settlement_party": "V&R Developers",
+    "settlement_date": null,
+    "hefsp_status": "adopted",
+    "hefsp_adopted_date": "2025-06-18",
+    "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-boro/RidgefieldHEFSP1.pdf?VersionId=8fMP7N64zBhNgWW2UuINT3j0pmtp.bpt"
+  },
+  "notes": "DCA obligations: present_need=62, prospective_need=223. Total 4th Round obligation per HEFSP = 395 units (Prior Round Unmet Need 47 + Prospective Unmet Need 337 + RDP 11). Round 3 VLA originally yielded 0 RDP; changed circumstances (V&R Developers acquiring land) created 11-unit RDP from 2 sites. RDP comprises 3 units from Block 401 Lots 1&2 + 5 units from Block 2801 Lot 1 (total stated as 11 but text shows 3+5=8 for RDP; likely 3+8=11 with bonus credits). TOD-1 overlay is the primary unmet need mechanism (19.269 ac, 25 du/ac, 20% set-aside, 96 affordable units capacity). Block 503 Lot 1 overlay ELIMINATED in 2024 Master Plan Reexamination. Developer agreement with V&R Developers in place for both RDP sites. Candidate snapshot had only Block 401 Lots 1&2 (1 site) and no obligations set — corrected to 2 sites and obligations stated.",
+  "sources": [
+    {
+      "doc_type": "HEFSP",
+      "title": "Housing Element and Fair Share Plan Round 4, Borough of Ridgefield (Adopted June 18, 2025)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-boro/RidgefieldHEFSP1.pdf?VersionId=8fMP7N64zBhNgWW2UuINT3j0pmtp.bpt",
+      "excerpt": "Present Need (Rehab): 62 ... Prospective Need: 223 ... Total Obligation: 395 units (Prior Round Unmet Need 47 + Prospective Unmet Need 337 + RDP 11) ... Trans ID: LCV20251847762"
+    },
+    {
+      "doc_type": "DCA",
+      "title": "DCA Bergen County Obligations",
+      "url": "sources/dca_bergen_obligations.json",
+      "excerpt": "Ridgefield borough: present_need=62, prospective_need=223"
+    }
+  ],
+  "sites": [
+    {
+      "site_name": "Block 401 Lots 1 & 2 — V&R Developers Inclusionary (Group Home + MF)",
+      "address": "Grand Avenue (adjacent to childcare center)",
+      "block": "401",
+      "lot": "1, 2",
+      "acreage": 0.822,
+      "mechanism": "inclusionary redevelopment",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": 27.98,
+      "total_units": 24,
+      "affordable_units": 7,
+      "set_aside_pct": 15.0,
+      "tenure": "rental",
+      "adoption_status": "proposed",
+      "developer": "V&R Developers",
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-boro/RidgefieldHEFSP1.pdf?VersionId=8fMP7N64zBhNgWW2UuINT3j0pmtp.bpt",
+      "source_page": "pp. 16-17 (Block 401 Lots 1 & 2 section)",
+      "source_date": "2025-06-18",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Block 401, Lots 1 & 2 had been acquired by V&R Developers. A total of 23 units are proposed for this site, plus one group home. ... The total number of affordable units on this site is 4 group home bedrooms + 2 supportive housing + 1 family unit = 7 affordable housing units. Three (3) of the affordable housing units are allocated to meet the total RDP for both this site and Block 2801, Lot 1.",
+      "notes": "0.822 total acres; 0.666 usable acres for 21-unit MF portion + 0.156 acres for group home subdivision. 23 MF units + 1 group home = 24 total. 7 affordable: 4 group home bedrooms (Bergen County United Way) + 2 supportive housing + 1 family unit. 3 of the 7 count toward combined RDP with Block 2801. Developer agreement in place as of 2025. $153,071.10 affordable housing trust fund pledged to NJ Housing and Finance Agency for group home."
+    },
+    {
+      "site_name": "Block 2801 Lot 1 — Former Borough Municipal Building (V&R Developers)",
+      "address": "Grand Avenue / Hillside Street (former Borough Municipal Building)",
+      "block": "2801",
+      "lot": "1",
+      "acreage": 0.7,
+      "mechanism": "redevelopment",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": 45.71,
+      "total_units": 32,
+      "affordable_units": 5,
+      "set_aside_pct": 15.0,
+      "tenure": "rental",
+      "adoption_status": "proposed",
+      "developer": "V&R Developers",
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-boro/RidgefieldHEFSP1.pdf?VersionId=8fMP7N64zBhNgWW2UuINT3j0pmtp.bpt",
+      "source_page": "pp. 18-19 (Block 2801, Lot 1 section)",
+      "source_date": "2025-06-18",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Block 2801, Lot 1 is a .7-acre site that contains the former Borough Municipal Building. This site will be sold to V&R Developers for construction of a market-rate and affordable housing development. A total of 32 units are proposed, including three (3) family affordable units, two (2) supportive affordable housing units, and twenty-seven (27) market rate units. This site will provide 5 units of affordable housing to meet the total RDP for both this site and Block 401, Lots 1 &2.",
+      "notes": "0.7 acres; 32 total units (27 market + 3 family affordable + 2 supportive affordable). 5 affordable units toward combined RDP for both sites. Borough selling property to V&R Developers. Site previously rezoned as part of Redevelopment Plan, modified to reflect described development. Developer agreement in place as of 2025. Not in candidate snapshot — new site identified in HEFSP."
+    },
+    {
+      "site_name": "TOD-1 Overlay Zone (Transit-Oriented Development)",
+      "address": null,
+      "block": null,
+      "lot": null,
+      "acreage": 19.269,
+      "mechanism": "inclusionary overlay",
+      "current_zoning": "TOD-1",
+      "proposed_zoning": null,
+      "density": 25.0,
+      "total_units": null,
+      "affordable_units": 96,
+      "set_aside_pct": 20.0,
+      "tenure": "rental",
+      "adoption_status": "adopted-ordinance",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-boro/RidgefieldHEFSP1.pdf?VersionId=8fMP7N64zBhNgWW2UuINT3j0pmtp.bpt",
+      "source_page": "p. 20 (TOD-1 Overlay Zone section)",
+      "source_date": "2025-06-18",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "The TOD 1 overlay zone consists of 19.269 total acres. The TOD-1 zone is proposed for multifamily residential with a mandatory 20% affordable housing set-aside at a density of 25 du/ac. The TOD-1 zone can produce a total of 96 affordable units. 2025 update: No units have been built in the TOD-1 zone to date.",
+      "notes": "Unmet Need mechanism. 19.269 acres total; 25 du/ac density; 20% mandatory set-aside; capacity of 96 affordable units. No individual block/lot specified in HEFSP. Established in 2024 Master Plan Reexamination replacing prior R-TH/R-SR zones. No units built to date."
+    }
+  ]
+}

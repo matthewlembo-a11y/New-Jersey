@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T12:27:30+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T12:28:32+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -352,14 +352,16 @@ _Obligation: 167 · Compliance: settled with NJBA · HEFSP: adopted 2025-06-25_
 
 ## Little Ferry (Borough)
 
-_Compliance: in_progress · HEFSP: proposed_
+_Obligation: 213 · Compliance: settled with FSHC · HEFSP: adopted (amended) 2026-06-01_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Osprey Point Senior / Supportive Housing | 250 Mehrhof Road |  |  |  | 100pct-affordable |  | 85 | 85 | 100.0% | rental | built | medium | [doc](https://www.nj.gov/dca/hmfa/about/pressreleases/2023/20231006.shtml) |
-| UNI Independent Senior Living (Block 107, Lot 2.01) - Potential Conversion |  | 107 | 2.01 |  | 100pct-affordable |  | 117 | 117 | 100.0% | rental | proposed | low | [doc](https://ecode360.com/34747526) |
-| 273-281 Main Street (Royale Reality LLC) | 273-281 Main Street | 38 | 22, 23, 24 |  | inclusionary-rezoning |  | 24 | 2 | 8.0% | for-sale | approved | medium | [doc](https://ecode360.com/34747526) |
-| Riverfront Development Inclusionary Overlay Zone |  | 5.01 and 25 | Block 5.01 (all); Block 25 Lots 1, 2, 3.01, 4.01, 4.02, 5 |  | overlay |  |  |  | 20.0% |  | adopted-ordinance | medium | [doc](https://ecode360.com/34747526) |
+| 75 & 87 Bergen Turnpike | 75 & 87 Bergen Turnpike |  |  |  | inclusionary / redevelopment |  | 65 | 13 | 20.0% | rental | proposed (ordinance being adopted as of June 2026) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/little-ferry-boro/4147.11LittleFerryAmendedHousingElementandFairSharePlan.pdf?VersionId=aADaL_xA9zBUEqBaHJ0SKeB4C2bVLqEG) |
+| 21 Main Street | 21 Main Street |  |  |  | inclusionary / redevelopment |  | 135 | 27 | 20.0% | rental | proposed (ordinance being adopted as of June 2026) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/little-ferry-boro/4147.11LittleFerryAmendedHousingElementandFairSharePlan.pdf?VersionId=aADaL_xA9zBUEqBaHJ0SKeB4C2bVLqEG) |
+| 220 & 230 US Route 46 | 220 & 230 US Route 46 |  |  |  | inclusionary |  | 86 | 13 | 15.0% | rental | approved (Planning Board Resolution, June 12, 2024) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/little-ferry-boro/4147.11LittleFerryAmendedHousingElementandFairSharePlan.pdf?VersionId=aADaL_xA9zBUEqBaHJ0SKeB4C2bVLqEG) |
+| Mandatory Set-Aside Ordinance |  |  |  |  | mandatory set-aside ordinance |  |  |  | 20.0% |  | to be adopted (updated) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/little-ferry-boro/4147.11LittleFerryAmendedHousingElementandFairSharePlan.pdf?VersionId=aADaL_xA9zBUEqBaHJ0SKeB4C2bVLqEG) |
+| Rehabilitation Program |  |  |  |  | rehabilitation |  |  | 114 |  |  | program active (Bergen County Housing Rehabilitation Program) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/little-ferry-boro/4147.11LittleFerryAmendedHousingElementandFairSharePlan.pdf?VersionId=aADaL_xA9zBUEqBaHJ0SKeB4C2bVLqEG) |
+| Osprey Point Apartments (250 Mehrhof Road) — Regan Development Corp | 250 Mehrhof Road | 107, 106.01 | 2.01, 17 (Blk 107); 13.06 (Blk 106.01) |  | 100% affordable |  | 85 | 31 | 100.0% | rental | completed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/little-ferry-boro/4147.11LittleFerryAmendedHousingElementandFairSharePlan.pdf?VersionId=aADaL_xA9zBUEqBaHJ0SKeB4C2bVLqEG) |
 
 ## Mahwah (Township)
 
@@ -527,11 +529,13 @@ _Obligation: 450 · Compliance: settled · HEFSP: adopted 2025-06-18_
 
 ## Ridgefield (Borough)
 
-_Compliance: settled · HEFSP: adopted 2025-06-18_
+_Obligation: 395 · Compliance: settled · HEFSP: adopted 2025-06-18_
 
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Maple Avenue / Grand Avenue Overlay Zone (OAR-A) | Northeast corner of Maple Avenue and Grand Avenue, Ridgefield, NJ | 401 | 1 and 2 |  | overlay |  |  |  |  |  | proposed | medium | [doc](https://www.ridgefieldnj.gov/vertical/Sites/%7BB4066A45-ED3A-4321-9A1B-3898EDEEE668%7D/uploads/November_10_2025.pdf) |
+| TOD-1 Overlay Zone (Transit-Oriented Development) |  |  |  | 19.269 | inclusionary overlay | 25.0 |  | 96 | 20.0% | rental | adopted-ordinance | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-boro/RidgefieldHEFSP1.pdf?VersionId=8fMP7N64zBhNgWW2UuINT3j0pmtp.bpt) |
+| Block 2801 Lot 1 — Former Borough Municipal Building (V&R Developers) | Grand Avenue / Hillside Street (former Borough Municipal Building) | 2801 | 1 | 0.7 | redevelopment | 45.71 | 32 | 5 | 15.0% | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-boro/RidgefieldHEFSP1.pdf?VersionId=8fMP7N64zBhNgWW2UuINT3j0pmtp.bpt) |
+| Block 401 Lots 1 & 2 — V&R Developers Inclusionary (Group Home + MF) | Grand Avenue (adjacent to childcare center) | 401 | 1, 2 | 0.822 | inclusionary redevelopment | 27.98 | 24 | 7 | 15.0% | rental | proposed | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/ridgefield-boro/RidgefieldHEFSP1.pdf?VersionId=8fMP7N64zBhNgWW2UuINT3j0pmtp.bpt) |
 
 ## Ridgefield Park (Village)
 

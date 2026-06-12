@@ -1,0 +1,4398 @@
+SOURCE_URL: https://library.njcourts.gov/files/civil/affordable-housing/bergen/oradell-boro/6.25.25ORDAELLHEFSPADOPTED6.24.25Part1.pdf?VersionId=by7o.pgjg3Itv8UK8wzDhBCi8wwL0R6z
+
+===== PAGE 1 =====
+Master Plan Amendment
+Housing Plan Element and Fair Share Plan
+Round 4
+Borough of Oradell
+Bergen County, New Jersey
+Prepared: 
+June 13, 2025
+Prepared for:
+Borough of Oradell Planning Board
+Prepared by:
+T&M Associates
+11 Tindall Road
+Middletown, NJ 07748
+___
+____________________________ 
+Caroline Z. Reiter, PP, AICP 
+NJ Professional Planner: 33LI00534300 
+_______________
+_____________ 
+Robert E. Dare, PP, AICP
+NJ Professional Planner: 33LI00596400
+Adopted on
+by the Borough of Oradell Planning Board 
+Endorsed on
+by the Oradell Borough Council. 
+The original of this document has been signed and sealed in accordance with Law.
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 1 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 2 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page ii
+ORADELL BOROUGH 
+Mayor and Council 
+James G. Koth III, Mayor
+Stephen Carnevale, Council President
+Michael Staff, Councilmember 
+Roger Tashjian, Councilmember 
+Jonathan Kern, Councilmember 
+Ted Gullo, Councilmember 
+Thomas Kelly, Councilmember 
+ 
+ 
+Planning Board
+Edward Pfleging, Chair 
+Gregory Derian, Vice Chair 
+Stephen Carnevale, Council Liaison 
+Edward Hynes, Regular Member
+Min Woo Kang, Regular Member
+Dan Dressel, Regular Member
+Vincent Scalcione, Regular Member 
+William Snider, Regular Member 
+Michael Forte, Member - 1st Alt 
+Brian Giblin, Esq., Board Attorney 
+Vincent Scalcione, Secretary 
+Borough Officials
+Edward Hynes, Borough Administrator 
+Sam Shin, Assistant to Administrator 
+ 
+Laura J. Lyons, Borough Clerk 
+Melissa Presta, Deputy Borough Clerk
+William Bailey, Esq., Municipal Attorney 
+Jeffrey R. Surenian, Esq., Affordable Housing Counsel
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 2 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 3 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page iii
+Table of Contents
+Affordable Housing in New Jersey.................................................................................................... 1
+Mandatory Contents of the Housing Element.............................................................................. 3
+Analysis of Demographic, Housing, and Employment Characteristics .............................. 5
+Population Characteristics ............................................................................................................. 5
+Population Composition by Age ................................................................................................... 7
+Existing Housing Characteristics ...................................................................................................... 9
+Type of Household ............................................................................................................................. 9
+Household Size ................................................................................................................................. 10
+Per Capita and Household Income ........................................................................................... 11
+Family Income Distribution ........................................................................................................ 12
+Housing Affordability .................................................................................................................... 13
+Housing Unit Data ........................................................................................................................... 14
+Year Householder Moved into Unit .......................................................................................... 15
+Housing Unit Information ............................................................................................................ 16
+Housing Conditions ........................................................................................................................ 18
+Housing Values ................................................................................................................................. 19
+Contract Rents .................................................................................................................................. 20
+Employment Data ........................................................................................................................... 21
+Residential Construction.............................................................................................................. 24
+Population and Household Projection .................................................................................... 25
+Employment Projection ................................................................................................................ 26
+Affordable Housing Obligation ....................................................................................................... 27
+Prior Round and Round 3 Obligation ...................................................................................... 28
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 3 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 4 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page iv 
+Round 4 Present Need ................................................................................................................... 29
+Round 4 Prospective Need .......................................................................................................... 30
+Consideration of Lands Appropriate for Affordable Housing ........................................ 32
+Consistency with the State Development and Redevelopment Plan........................... 34
+Minimums & Maximums .............................................................................................................. 35
+Multigenerational Housing Continuity ................................................................................... 36
+Conclusion .......................................................................................................................................... 36
+Appendices ........................................................................................................................................ 37 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 4 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 5 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 1 
+Housing Element 
+The Borough of Oradell, Bergen County, has prepared this Housing Element and Fair 
+Share Plan as an amendment to the municipal master plan in accordance with the 
+New Jersey Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.) and the New Jersey
+Fair Housing Act 2 (N.J.S.A. 52:27D-301 et seq.). 
+The Municipal Land Use Law requires that a municipal master plan include a housing 
+element to enable the municipality to exercise the power to zone and regulate land 
+use. The housing element is adopted by the municipal planning board and endorsed 
+by the municipal governing body and is designed to achieve the goal of addressing the 
+municipal obligation to provide for a fair share of the regional need for affordable 
+housing. 
+This Housing Element and Fair Share Plan amends the Borough’s master plan to 
+address affordable housing planning requirements for the time period known as 
+Round 4, which includes the decade between July 1, 2025 and June 30, 2035.  It 
+addresses the Borough’s cumulative fair share obligation for the period from 1987 
+through 2035.   
+This plan will replace the Round 3 Housing Element and Fair Share Plan. In this 
+regard,  the Borough adopted a Round 3 Housing Element on November 5, 2018 that 
+implemented a settlement the Borough reached with Fair Share Housing Center, Inc 
+(FSHC) and that the Court formally approved when it entered a Judgment of 
+Compliance and Repose. The Borough and its Planning Board amended that Round 3 
+Plan in 2022.   
+Affordable Housing in New Jersey 
+The Mt. Laurel doctrine requires municipalities to  provide a realistic opportunity for 
+their fair share of low and moderate income housing unless the municipality lacks 
+sufficient land to meet the new construction component of its fair share in which case, 
+the municipality is entitled to an adjustment. The adjusted number is called the 
+“realistic development potential” or the “RDP” and land-poor municipalities must 
+create a realistic opportunity for satisfaction of their realistic development potential. 
+The balance of the obligation that municipalities lack sufficient land to address is 
+called the unmet need. Land-poor municipalities have lower responsibilities with 
+respect to their unmet need. 
+This plan summarizes how the Borough satisfied its realistic  development potential
+and unmet need for through Round 3. This Plan will also detail how the Borough will 
+address its responsibilities in Round 4. 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 5 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 6 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 2 
+In 1985, the Legislature adopted the New Jersey Fair Housing Act (FHA). The FHA 
+established the New Jersey Council on Affordable Housing (COAH) and charged COAH 
+with the responsibility to develop rules and regulations to implement the Act. The 
+FHA also charged COAH with processing applications by municipalities to secure 
+approval of their Housing Element and Fair Share Plans. Under the FHA, 
+municipalities would petition COAH for approval of their Housing Element and Fair 
+Share Plans and when COAH reached the point where it found a plan to be 
+satisfactory, it would adopt a resolution granting substantive certification.
+In 1986, COAH adopted its first set of rules, known as ‘Round 1’ for the period of 1987 
+through 1993. In 1994, COAH adopted Round 2 regulations identifying each 
+municipality’s obligations for Rounds 1 and 2. These rounds are now combined and
+collectively referred to as the ‘Prior Round,’ and cover the period from 1987 to 1999.
+In 2005, COAH adopted its first Round 3 rules. The Round 3 rules included a new 
+methodology for calculating affordable housing, known as Growth Share. These rules 
+were challenged, and the Appellate Division invalidated many of them in 2007.  COAH 
+then adopted its second set of Round 3 rules in 2008; and these rules also used the 
+Growth Share methodology.  In 2010, the Appellate Division invalidated many of 
+these rules again. The Court directed COAH to prepare new rules that used the Prior 
+Round methodologies to establish the fair share of each municipality and not a 
+growth share approach. In the prior rounds, COAH determined a municipality’s 
+obligation by determining the region within which the municipality was located; the 
+need for affordable housing in that region; and the municipality’s fair share of that 
+regional need.  
+Municipalities appealed the Appellate Division’s decision to the Supreme Court and, 
+in 2013, the Supreme Court affirmed the Appellate Division’s invalidation of several 
+Round 3 regulations. The Supreme Court also directed COAH to adopt valid 
+regulations in five months using the methodologies from Rounds 1 and 2 to determine 
+the fair share of municipalities and not a growth share approach.  
+In 2014, in response to the Supreme Court’s rulings, COAH proposed new regulations 
+that used the approach from prior rounds to determine fair share responsibilities and 
+not growth share. However, when it came time to adopt the proposed regulations, 
+COAH deadlocked 3-3 and then never made any efforts to break the deadlock. In 
+response to COAH’s failure to act, Fair Share Housing Center (FSHC) filed a motion to 
+enforce litigant’s rights with the Supreme Court  
+On March 10, 2015 the Supreme Court issued its decision in response to the motion. 
+In this decision, commonly referred to as “Mount Laurel IV”, the Court declared COAH 
+“moribund” and transferred COAH’s responsibilities back to the courts. Instead of 
+COAH adopting regulations to implement the FHA, the courts would determine the 
+rules through their decisions. Instead of COAH processing petitions for approvals of 
+Housing Element and Fair Share Plans, the courts would.   In this regard, the Court 
+also established a new procedure to allow towns, like Oradell, that wished (a) to 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 6 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 7 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 3 
+comply to comply in a procedure overseen by a court and (b) to obtain immunity 
+while they sought court approval of their plans. That procedure required a 
+municipality to file a declaratory relief action and to seek approval of a Housing 
+Element and Fair Share Plan in that judicial proceeding. 
+On or about July 8, 2015, the Borough of Oradell filed its action of Declaratory 
+Judgment with the Court in accordance with this new procedure. In this lawsuit, FSHC 
+challenged the Housing Element and Fair Share Plan that the Borough filed.  FSHC and 
+the Borough then engaged in a mediation process under the supervision of the court-
+appointed Special Master. Mediation culminated in a settlement between Oradell and
+FSHC. These parties entered into a settlement on June 10, 2018 and amended their 
+settlement on May 18, 2021.  
+Oradell adopted a Housing Element and Fair Share Plan to implement the June 10, 
+2018 settlement and on September 19, 2019, the Court entered a judgment of 
+compliance and repose (JOR) formally approving that Plan. In the settlement, FSHC 
+and the Borough agreed that the Borough was entitled to a vacant land adjustment
+and on the means by which the Borough would create a realistic opportunity for 
+satisfaction of its realistic development potential and how it would address its unmet
+need. Accordingly, the Housing Element and Fair Share Plan the Court approved 
+included the vacant land adjustment; the means by which the Borough would create 
+a realistic opportunity for satisfaction of its realistic development potential and the 
+means by which the Borough would address its unmet need.  
+Round 4 Affordable Housing 
+On March 20, 2024 Governor Murphy signed an amendment to the FHA into law that 
+made sweeping changes to the Act. The Amended FHA (“FHA 2”) abolished the 
+Council on Affordable Housing (COAH), directed the Department of Community 
+Affairs (DCA) to prepare nonbinding affordable housing obligations based on 
+standards in the Act. FHA II also recast the standards for securing bonuses, and 
+imposed strict deadlines on municipalities.  
+Pursuant to the FHA 2, municipalities must commit to a fair share number in January 
+of 2025 and adopt a Housing Element and Fair Share Plan to address that number by 
+June 30, 2025.  This plan conforms to the requirements established in FHA 2. It
+summarizes how the Borough satisfied its responsibilities in Rounds 1- 3 and explains 
+how it is addressing its new obligations in Round 4. 
+Mandatory Contents of the Housing Element 
+Pursuant to the FHA 2, “a municipality’s housing element shall be designed to achieve 
+the goal of access to affordable housing to meet present and prospective housing 
+needs, with particular attention to low-and moderate-income housing.”  The essential 
+plan components are: 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 7 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 8 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 4 
+An inventory of the municipality's housing stock by age, condition, purchase 
+or rental value, occupancy characteristics, and type, including the number of 
+units affordable to low- and moderate-income households and substandard 
+housing capable of being rehabilitated; 
+ A projection of the municipality's housing stock, including the probable future 
+construction of low- and moderate-income housing, for the next ten years, 
+taking into account, but not necessarily limited to, construction permits 
+issued, approvals of applications for development and probable residential 
+development of lands; 
+ An analysis of the municipality's demographic characteristics, including but 
+not necessarily limited to, household size, income level, and age; 
+ An analysis of the existing and probable future employment characteristics of 
+the municipality; 
+ A determination of the municipality's present and prospective fair share for 
+low- and moderate-income housing and its capacity to accommodate its 
+present and prospective housing needs, including its fair share for low- and 
+moderate-income housing, as established pursuant to section 3 of P.L.2024, 
+c.2 (C.52:27D-304.1); and, 
+ A consideration of the lands that are most appropriate for construction of low- 
+and moderate-income housing and of the existing structures most appropriate 
+for conversion to, or rehabilitation for, low- and moderate-income housing, 
+including a consideration of lands of developers who have expressed a 
+commitment to provide low- and moderate-income housing; 
+ An analysis of the extent to which municipal ordinances and other local factors 
+advance or detract from the goal of preserving multigenerational family 
+continuity as expressed in the recommendations of the Multigenerational 
+Family Housing Continuity Commission, adopted pursuant to paragraph (1) of 
+subsection f. of section 1 of P.L.2021, c.273 (C.52:27D-329.20);  
+ For a municipality located within the jurisdiction of the Highlands Water 
+Protection and Planning Council, established pursuant to section 4 of P.L.2004, 
+c.120 (C.13:20-4), an analysis of compliance of the housing element with the 
+Highlands Regional Master Plan of lands in the Highlands Preservation Area, 
+and lands in the Highlands Planning Area for Highlands conforming 
+municipalities. This analysis shall include consideration of the municipality’s 
+most recent Highlands Municipal Build Out Report, consideration of 
+opportunities for P.L. 2024, redevelopment of existing developed lands into 
+inclusionary or 100 percent affordable housing, or both, and opportunities for 
+100 percent affordable housing in both the Highlands Planning Area and 
+Highlands Preservation Area that are consistent with the Highlands regional 
+master plan; and  
+ An analysis of consistency with the State Development and Redevelopment 
+Plan, 
+including 
+water, 
+wastewater, 
+stormwater, 
+and 
+multi-modal 
+transportation based on guidance and technical assistance from the State 
+Planning Commission. 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 8 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 9 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 5 
+This Housing Element and Fair Share Plan Amendment addresses the above 
+requirements. 
+Analysis of Demographic, Housing, and Employment 
+Characteristics 
+As required by N.J.S.A. 52:27D-310, all housing elements must discuss the 
+municipality’s demographic, housing, and economic characteristics. The following 
+subsections fulfill this requirement by providing a profile of information for the 
+Borough of Oradell from the US Census Bureau, the New Jersey Department of Labor 
+and Workforce Development, and the North Jersey Transportation Planning 
+Authority. 
+Population Characteristics 
+Table 1 shows the population trends for the Borough of Oradell and Bergen County 
+from 1930 to 2020. As shown, Oradell’s population increased by 5,884 residents 
+during this period. The greatest increases occurred in the periods from: 1950 to 1960, 
+when the Borough’s population increased by approximately 104.3 percent; 1940 to 
+1950, when there was an increase of approximately 30.8 percent; between 1960 and 
+1970, when population increased by approximately 18.9 percent; and between 1930 
+and 1940, when population increased by 18.7 percent. In no other decades did the 
+Borough’s population increase by more than 3.3 percent. There were decreases in 
+population between 1980 and 1990, when the Borough’s population decreased by 
+about 7.3 percent; 1970 and 1980, when the Borough’s population decreased by 2.8
+percent; and 2000 and 2010, when the Borough’s population decreased by about 0.9
+percent.
+Bergen County’s population also increased over the period from 1930 to 2020. 
+Indeed, the County’s population increased by 590,755 residents over this period. As 
+compared to the Borough, however, change in the County’s population was never as 
+great as in the Borough. Indeed, the maximum rate of change in the Borough’s 
+population was about 104.3 percent (between 1950 and 1960), but the change in the 
+County’s population never exceeded about 44.7 percent (also between 1950 and 
+1960) in any ten-year period.
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 9 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 10 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 6 
+Table 1
+POPULATION CHANGE, 1930 – 2020 
+Borough of Oradell and Bergen County
+Borough
+ 
+Change
+Year 
+Population 
+Number
+Percent
+1930 
+2,360 
+------
+------ 
+1940 
+2,802 
+442
+18.7
+1950 
+3,665 
+863
+30.8
+1960 
+7,487 
+3,822 
+104.3
+1970 
+8,903 
+1,416 
+18.9
+1980 
+8,658 
+-245
+-2.8 
+1990 
+8,024 
+-634
+-7.3 
+2000
+8,047
+23
+0.3
+2010 
+7,978 
+-69 
+-0.9 
+2020 
+8,244 
+266
+3.3 
+County 
+ 
+Change
+Year 
+Population 
+Number
+Percent
+1930 
+364,977
+------
+------ 
+1940 
+409,646
+44,669
+12.2
+1950 
+539,139
+129,493
+31.6
+1960 
+780,255
+241,116
+44.7
+1970 
+897,148
+116,893
+15.0
+1980 
+845,385
+-51,763
+-5.8
+1990
+825,380
+-20,005
+-2.4
+2000 
+884,118
+58,738
+7.1
+2010 
+905,116
+20,998
+2.4
+2020 
+955,732
+50,616
+5.6
+Sources: 
+1930 - 1950: “Number of Inhabitants, New Jersey.” 
+https://www2.Census.Gov/library/publications/decennial/1950/population-volume-
+2/23024255v2p30ch1.pdf. U.S. Census Bureau, 1950; 
+1940 - 2000: “New Jersey Population Trends 1790 to 2000.” Division of Labor Market and 
+Demographic Research New Jersey State Data Center, August 2001. 
+https://www.nj.gov/labor/labormarketinformation/assets/PDFs/census/2kpub/njsdcp3.pdf;
+2010: 2010 U.S. Census (Table P3); and, 
+2020: 2020 U.S. Census (Table DP1) 
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 10 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 11 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 7 
+Population Composition by Age
+Table 2 shows population by age cohort in the Borough of Oradell during 2010 and 
+2020. As can be seen, the population increased by 266 residents or 3.3 percent 
+between 2010 and 2020. The age cohorts with the largest increases were: 65-74, 
+which increased by 225 residents or 33.8 percent; 15-24, which increased by 235
+residents or 28.1 precent; 25-34, which increased by 111 residents or 22.9 percent; 
+and 55-64, which increased by 121 residents or 10.9 percent. The maximum increase 
+in any other age-cohort was 8.2 percent. The following age-cohorts experienced 
+declines in population between 2010 and 2020: 45-54, which decreased by 238 
+residents or about 16.5 percent; 5-14, which decreased by 147 residents or about 
+11.4 percent; and 35-44, which decreased by 86 residents or about 7.9 percent. 
+Table 2 
+POPULATION BY AGE 
+Borough of Oradell
+2010 Population 
+2020 Population
+Change 2010-2020
+Age Group 
+Persons 
+Percent 
+Persons
+Percent
+Persons 
+Percent
+Under 5 
+404 
+5.1 
+412 
+5.0 
+8
+2.0
+5-14
+1,289
+16.2
+ 1,142  
+13.9
+-147 
+-11.4 
+15-24
+837 
+10.5
+ 1,072  
+13.0
+235 
+28.1
+25-34
+485
+6.1
+596 
+7.2
+111
+22.9
+35-44
+1,092
+13.7
+ 1,006  
+12.2
+-86
+-7.9
+45-54
+1,440
+18.0
+ 1,202  
+14.6
+-238 
+-16.5 
+55-64
+1,108
+13.9
+ 1,229  
+14.9
+121 
+10.9
+65-74
+665 
+8.3 
+890 
+10.8
+225 
+33.8
+75-84
+440 
+5.5 
+476 
+5.8 
+36 
+8.2
+85+
+218
+2.7
+219 
+2.7
+1
+0.5
+TOTALS
+7,978
+100.0
+8,244 
+100.0
+266
+3.3
+Sources: 
+2010: 2010 U.S. Census (Table PCT12); and, 
+2020: U.S. Census (Table DP1) 
+Table 2 shows considerable growth and decline in several age cohorts. The effects of 
+the change in the distribution of Oradell’s population among age cohorts can be 
+summarized in the change in the median age of the Borough’s population, which 
+decreased by two-tenths (0.2) of a year, from 44.1 years to 43.9 years, in the period 
+from 2010 to 2020. This represents a decrease of about 0.5 percent. By comparison, 
+the median age of Bergen County’s population increased by approximately 0.9 years, 
+from 41.1 years to 42.0 years, which equates to an increase of about 2.2 percent. Table 
+3 summarizes the distribution of the Borough’s and County’s populations among age 
+cohorts and the change in the median age of said populations. 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 11 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 12 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 8 
+Table 3
+PERCENTAGE POPULATION DISTRIBUTION, 2010 & 2020
+Borough of Oradell and Bergen County
+2010 Percentage of Population
+2020 Percentage of Population
+Age Group
+Borough
+County
+Borough
+County
+Under 5
+5.1
+5.6
+5.0
+5.0
+5-14
+16.2
+12.9
+13.9
+12.0
+15-24
+10.5
+11.6
+13.0
+12.0
+25-34
+6.1
+11.6
+7.2
+11.8
+35-44
+13.7
+14.3
+12.2
+13.2
+45-54
+18.0
+16.3
+14.6
+14.0
+55-64
+13.9
+12.7
+14.9
+14.3
+65+
+16.6
+15.1
+19.2
+17.7
+TOTALS 
+100.0
+100.0
+100.0
+100.0 
+ 
+ 
+ 
+Median Age
+44.1
+41.1 
+43.9 
+42.0
+Sources:  
+2010: 2010 U.S. Census (Tables PCT12, P13)
+2020: 2020 U.S. Census (Tables DP1, P13) 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 12 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 13 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 9 
+Existing Housing Characteristics
+Type of Household
+A household is a group of people who occupy a housing unit as their usual place of 
+residence. As shown in Table 4, there were 2,782 households in the Borough of 
+Oradell in 2020. The majority, or approximately 84.9 percent, of households consisted 
+of two or more persons. The remaining 15.1 percent of households consisted of one 
+person. Table 4 provides additional details on the types of households in Oradell
+Borough during 2020. 
+ 
+ 
+Table 4 
+TYPES OF HOUSEHOLDS, 2020
+Borough of Oradell
+Type of Households 
+ Total 
+Number in 
+Subgroup 
+Percent of 
+Total 
+TOTAL HOUSEHOLDS 
+2,782
+One Person
+419
+15.1 
+Male Householder
+138
+5.0
+65 years or older 
+49 
+1.8
+Female Householder 
+281
+10.1 
+65 years or older 
+177
+6.4
+Two or More Persons 
+2,363 
+84.9 
+Married Couple Families
+2,036
+73.2
+With Own Children Under 18
+933
+33.5 
+Cohabitating Couple
+56
+2.0
+With Own Children Under 18
+20
+0.7
+Male Householder Not living alone
+76 
+2.7
+With Own Children Under 18
+25 
+0.9
+Female Householder Not living alone 
+195
+7.0
+With Own Children Under 18
+56 
+2.0
+Sources:  
+2020 U.S. Census (Table DP1)
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 13 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 14 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 10 
+Household Size
+Table 5 provides further details on household size in the Borough of Oradell during 
+2020. As shown, the most frequent household size was two persons, which accounted 
+for 28.2 percent of all households in Oradell and 29.1 percent of all households in 
+Bergen County. The average household size in Oradell was 2.94, which is 0.24 years 
+more than the average household size of 2.70 in Bergen County during 2020.   
+Table 5 
+HOUSEHOLD SIZE, 2020 
+Borough of Oradell & Bergen County 
+ 
+Borough of Oradell
+Bergen County
+Household Size 
+Number
+Percent
+Number 
+Percent
+1 Person
+ 419  
+15.1
+84,254 
+24.0 
+2 Persons 
+ 784  
+28.2
+102,218
+29.1 
+3 Persons 
+ 582  
+20.9
+63,130 
+18.0 
+4 Persons 
+680 
+24.4
+61,107 
+17.4 
+5 Persons 
+ 235  
+8.4 
+26,098 
+7.4
+6+ Persons
+82 
+2.9 
+13,857 
+4.0
+TOTALS
+2,782 
+100.0
+350,664
+100.0 
+Average Household Size 
+2.94 
+2.70
+Source: 2020 U.S. Census (Tables H12, DP1) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 14 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 15 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 11 
+Per Capita and Household Income
+Table 6 displays the per capita income, median household income, and population 
+poverty status of Oradell, Bergen County and the State of New Jersey. This data is 
+derived from the 2023 American Community Survey Five-Year Estimates and 
+represents estimated average conditions over the five-year period ending in 2023.
+As shown in Table 6, Oradell had a higher per capita income at $77,497 than in Bergen 
+County and New Jersey, where the per capita incomes were $62,968 and $53,118, 
+respectively. Oradell also had a higher median household income at $214,736 than 
+Bergen County and New Jersey, where the median household incomes were $123,715 
+and $101,050, respectively. Additionally, the Borough had just 3.6 percent of its 
+population living below poverty status, which is lower than the 6.7 percent and 9.8 
+percent exhibited by Bergen County and New Jersey, respectively. 
+ 
+ 
+Table 6 
+PER CAPITA AND HOUSEHOLD INCOME; POVERTY STATUS 2023 
+Borough of Oradell, Bergen County & New Jersey 
+Per Capita Income 
+Median Household 
+Income 
+ Percentage of 
+Population Below 
+Poverty Status 
+Borough of Oradell 
+$77,497
+$214,736
+3.6 
+Bergen County 
+$62,968
+$123,715
+6.7 
+New Jersey
+$53,118
+$101,050
+9.8 
+Source: 2023 American Community Survey 5-Year Estimates (Tables BP19301, S1901 and S1701) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 15 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 16 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 12 
+Family Income Distribution
+Table 7 details family income for the Borough and County as represented by 2023 
+American Community Survey Five-Year Estimates. Approximately 88.8 percent of 
+Oradell’s families earned $75,000 or more. By comparison, just 77.6 percent of 
+Bergen County’s families earned $75,000 or more. 
+Table 7
+FAMILY INCOME DISTRIBUTION, 2023 
+Borough of Oradell & Bergen County 
+Borough
+County 
+Income Levels 
+Number
+Percent
+Number
+Percent 
+Less than $10,000 
+84
+3.6
+4,882
+1.9 
+$10,000 - $14,999 
+0 
+0.0
+2,555
+1.0 
+$15,000 - $24,999 
+0 
+0.0
+6,022
+2.4 
+$25,000 - $34,999 
+7 
+0.3
+7,350
+2.9 
+$35,000 - $49,999 
+51
+2.2
+12,602
+5.0 
+$50,000 - $74,999 
+118
+5.1
+23,286
+9.2 
+$75,000 - $99,999 
+176
+7.6
+23,706
+9.4 
+$100,000 - $149,999
+228
+9.8
+45,647
+18.1 
+$150,000 - $199,999
+231
+9.9
+36,887
+14.6 
+$200,000 or more
+1,428 
+61.5
+89,702
+35.5 
+TOTALS 
+2,323 
+100.0 
+252,639 
+100.0
+Source: 2023 American Community Survey 5-Year Estimates (Table DP03) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 16 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 17 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 13 
+Housing Affordability
+Table 8 identifies the maximum income limits for low, very low- and moderate-
+income households in Housing Region 1. All of Bergen, Hudson, Passaic and Sussex 
+counties are in Housing Region 1.
+ 
+Oradell is in Housing Region 1. As of 2025, the median household income for a three-
+person household in Housing Region 1 was $114,500. A three-person moderate 
+income household, defined as a household with an income in excess of 50 percent but 
+less than 80 percent of the median income, would have an income that does not 
+exceed $91,600. A four-person low-income household, defined as a household with 
+income equal to or less than 50 percent but more than 30 percent of the median 
+income, would have an income that does not exceed $63,600. A two-person very low-
+income household, defined as a household with an income equal to 30 percent or less 
+of the median income, would have an income that does not exceed $30,540. Finally, 
+the 1.5 person, three-person and 4.5-percon columns are used for calculating the 
+pricing for one-, two- and three-bedroom affordable units. 
+Table 8 
+2025 REGIONAL INCOME LIMITS 
+HOUSING REGION 1 
+ 
+Household Size
+Median Income
+Moderate Income
+Low Income
+Very Low Income
+1 Person
+$89,100
+$71,280 
+$44,550 
+$26,730 
+1.5 Person 
+$95,450
+$76,360 
+$47,725 
+$28,635 
+2 Person
+$101,800 
+$81,440 
+$50,900 
+$30,540 
+2.5 Person 
+$108,150 
+$86,520 
+$54,075 
+$32,445 
+3 Person
+$114,500
+$91,600
+$57,250
+$34,350
+4 Person
+$127,200 
+$101,760
+$63,600 
+$38,160 
+4.5 Person 
+$132,300 
+$105,840
+$66,150 
+$39,690 
+5 Person
+$137,400 
+$109,920
+$68,700 
+$41,220 
+6 Person
+$147,600 
+$118,080
+$73,800 
+$44,280 
+7 Person
+$157,800 
+$126,240
+$78,900 
+$47,340 
+8 Person
+$168,000 
+$134,400
+$84,000 
+$50,400 
+Source: 2025 Affordable Housing Regional Income Limits by Household Size, Prepared by 
+Affordable Housing Professionals of New Jersey (AHPNJ) – May 16, 2025 
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 17 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 18 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 14 
+Housing Unit Data
+In 2020, there were 2,850 housing units in Oradell, of which 2,782 or 97.6 percent 
+were occupied. By comparison, the County had 367,383 housing units, of which 
+350,664 or 95.4 percent were occupied. 
+ 
+As shown in Table 9, owner-occupied housing stock comprised a greater percentage 
+of the Borough’s housing stock than in the County’s housing stock. In 2020, 
+approximately 89.0 percent of the Borough’s housing stock, versus 63.1 percent of 
+the County’s housing stock, was owner-occupied. 
+Table 9 
+HOUSING UNIT DATA, 2020
+Borough of Oradell & Bergen County
+Borough 
+County 
+Number 
+Percent 
+Number 
+Percent 
+Unit Type
+Occupied
+2,782 
+97.6 
+350,664
+95.4 
+Vacant, Seasonal & Migratory
+68
+2.4
+16,719 
+4.6
+TOTALS
+2,850 
+100.0 
+367,383
+100.0
+Owner vs Renter Occupied Units
+Owner Occupied 
+2,477 
+89.0 
+221,274
+63.1 
+Renter Occupied 
+305
+11.0 
+129,390
+36.9 
+TOTALS
+2,782 
+100.0 
+350,664
+100.0
+Source: 2020 U.S. Census (Table DP1)
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 18 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 19 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 15 
+Year Householder Moved into Unit
+Table 10 provides the year the current householders moved into the Oradell and 
+Bergen County homes. As shown, 65.1 percent of the Borough’s households moved 
+into their current residences during or after 2000, compared to 74.2 percent 
+countywide. Approximately 34.9 percent of the Borough’s households and 25.8 
+percent of the County’s households moved into their residences before 2000. 
+ 
+ 
+Table 10
+YEAR HOUSEHOLDER MOVED INTO UNIT, 2023
+Borough of Oradell & Bergen County 
+Borough  
+County
+Year Householder Moved 
+into Unit 
+Number 
+Percent 
+Number 
+Percent 
+2021 or later 
+102 
+3.8 
+27,042
+7.7 
+2010 - 2020 
+952 
+35.4 
+165,730 
+46.9
+2000 - 2009 
+695 
+25.9 
+69,267
+19.6
+1990 - 1999 
+503 
+18.7 
+42,548
+12.0
+1989 or earlier
+435 
+16.2 
+48,720
+13.8
+TOTALS
+2,687
+100.0
+353,307 
+100.0
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04)
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 19 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 20 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 16 
+Housing Unit Information
+Table 11 includes a variety of information from the American Community Survey on 
+the Borough of Oradell and Bergen County housing stocks, including when the 
+housing unit was built, the number of units per structure, and the number of rooms 
+and bedrooms per unit. 
+As shown, approximately 91.2 percent of the Borough’s housing stock consists of 
+single-family detached structures. In contrast, single-family detached homes 
+comprise approximately 53.2 percent of the County’s housing stock. 
+As shown in Table 11, the Borough’s housing stock contains more rooms than the 
+County’s housing stock. In 2023, about 86.4 percent of Oradell’s housing units 
+contained six (6) or more rooms, while approximately 54.7 percent of the County’s 
+housing stock recorded the same number of rooms. On the other hand, about 50.9 
+percent of the Borough’s housing units contain four (4) or more bedrooms, compared 
+with approximately 27.2 percent of the County’s housing stock.
+Finally, approximately 88.4 percent of the Borough’s housing stock was built before 
+1980. Similarly, about 74.6 percent of the County’s housing stock was built before 
+1980.
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 20 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 21 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 17 
+Table 11
+HOUSING UNIT INFORMATION, 2023
+Borough of Oradell & Bergen County 
+Borough 
+County 
+Number 
+Percent 
+Number 
+Percent 
+Total Units
+2,749 
+100.0 
+368,535
+100.0
+Units in Structure
+One (Single Family Detached) 
+2,508
+91.2
+196,102
+53.2
+One (Single Family Attached) 
+65
+2.4
+22,284 
+6.0 
+Two+ Units
+176
+6.4
+148,595
+40.3
+Mobile Home, Trailer, Other
+0
+0.0
+1,554
+0.4
+Number of Rooms 
+1 Room
+8 
+0.3
+10,090 
+2.7 
+2 or 3 Rooms
+91 
+3.3
+54,929 
+14.9
+4 or 5 Rooms
+274 
+10.0 
+101,934
+27.7
+6 or 7 Rooms
+999 
+36.3 
+103,786
+28.2
+8+ Rooms
+ 1,377  
+50.1 
+97,796 
+26.5
+Number of Bedrooms 
+No Bedroom 
+8 
+0.3
+11,192 
+3.0 
+1 Bedroom
+118
+4.3
+58,568 
+15.9
+2 or 3 Bedrooms 
+1,223 
+44.5 
+198,472
+53.9
+4+ Bedrooms
+1,400 
+50.9 
+100,303
+27.2
+Year Structure Built 
+2020 - later
+ 8  
+0.3
+2,486
+0.7
+2010 - 2019
+110 
+4.0
+18,587 
+5.0 
+2000 - 2009
+94 
+3.4
+21,455 
+5.8 
+1990 - 1999
+ 6  
+0.2
+20,951 
+5.7 
+1980 - 1989
+100 
+3.6
+30,051 
+8.2 
+1960 - 1979
+680 
+24.7
+86,461 
+23.5
+1940 - 1959
+ 1,168  
+42.5 
+116,865
+31.7
+1939 or earlier 
+583 
+21.2 
+71,679 
+19.4
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 21 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 22 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 18 
+Housing Conditions
+Housing conditions in Oradell are excellent. As shown in Table 12, none of the 
+Borough’s housing units lack complete plumbing facilities, kitchen facilities, or phone 
+service, compared to 0.3, 0.7 and 0.8 percent, respectively, in the county overall.
+In addition to the above, none of the Borough’s housing stock has more than one 
+person per room, compared to about 3.4 percent of the County’s housing stock. 
+Having more than one person per room in an indicator of overcrowding.
+Table 12 
+INDICATORS OF HOUSING CONDITIONS, 2023
+Borough of Oradell & Bergen County 
+ 
+Borough 
+County 
+Number 
+Percent
+Number 
+Percent
+Total Occupied Units
+2,687
+353,307 
+Units Lacking Complete Plumbing
+0
+0.0
+899 
+0.3 
+Units Lacking Kitchen Facilities
+0
+0.0
+2,541
+0.7 
+No telephone service 
+0
+0.0
+2,797
+0.8 
+Persons per Room, Occupied Units
+1.00 or less 
+2,687
+100.0 
+341,275 
+96.6
+1.01 to 1.50
+0
+0.0
+7,036
+2.0 
+1.51 or more
+0
+0.0
+4,996
+1.4 
+TOTALS
+2,687
+100.0 
+353,307 
+100.0
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04)
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 22 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 23 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 19 
+Housing Values
+Table 13 shows 2023 housing values for the Borough of Oradell and Bergen County. 
+As indicated, approximately 97.8 percent of the Borough’s owner-occupied housing 
+units are valued at over $300,000. This is higher than in the County, where only about 
+89.9 percent of the owner-occupied housing units are valued at over $300,000. This 
+higher percentage of units is reflected in the fact that the median value of owner-
+occupied units in Bergen County is lower than in the Borough. Indeed, the median 
+value of owner-occupied units is $593,200 in Bergen County, but $702,400 in Oradell
+Borough. 
+ 
+ 
+Table 13 
+OWNER-OCCUPIED HOUSING VALUES, 2023
+Borough of Oradell & Bergen County
+Borough 
+County 
+Housing Value 
+Number
+Percent 
+Number 
+Percent
+Less than $50,000 
+19
+0.8
+4,241
+1.8
+$50,000 - $99,999
+0
+0.0
+2,583
+1.1
+$100,000 - $149,999
+0
+0.0
+2,366
+1.0
+$150,000 - $199,999
+0
+0.0
+2,680
+1.2
+$200,000 - $299,999
+33
+1.4
+11,285 
+4.9
+$300,000 - $499,999
+196 
+8.1
+62,212 
+26.9
+$500,000 - $999,999
+1,776
+73.7 
+115,000 
+49.8
+$1,000,000 or more
+386 
+16.0 
+30,556 
+13.2
+TOTALS
+2,410
+100.0 
+230,923 
+100.0
+Median Value 
+$ 702,400
+$ 593,200 
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04)
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 23 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 24 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 20 
+Contract Rents
+Table 14 details the gross rents for renter-occupied units in Oradell and Bergen 
+County. As shown, the median monthly rent in Oradell was $2,202. In Bergen County 
+overall, however, the median rent was $1,863. In Oradell, about 31.7 percent of all 
+cash rents were at least $3,000, whereas in Bergen County only about 13.2 percent of 
+all cash rents were $3,000 or more. 
+ 
+ 
+Table 14 
+GROSS RENTS, 2023
+OCCUPIED UNITS PAYING RENT
+Borough of Oradell & Bergen County
+Borough
+County 
+Contract Rents
+Number 
+Percent
+Number 
+Percent
+Less than $500
+0 
+0.0
+3,870 
+3.3
+$500 - $999
+0 
+0.0
+5,086 
+4.3
+$1,000 - $1,499
+44 
+21.5
+21,678 
+18.3
+$1,500 - $1,999
+46 
+22.4
+39,395 
+33.3
+$2,000 - $2,499
+31 
+15.1
+21,731 
+18.3
+$2,500 - $2,999
+19 
+9.3
+11,103 
+9.4
+$3,000 or more
+65 
+31.7
+15,614 
+13.2
+TOTALS 
+205
+100.0 
+118,477
+100.0 
+Median Rent
+$ 2,202
+$ 1,863
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04) 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 24 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 25 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 21 
+Employment Data
+Table 15 details the occupational characteristics of Oradell residents as indicated by 
+2023 American Community Survey Five-Year Estimates. As indicated, the largest 
+occupational group among Oradell residents aged 16 years and over engaged in the 
+civilian labor force is “Management, Business Science & Arts” with about 64.3 percent. 
+This was also the largest occupational group in Bergen County with about 53.3 
+percent of County residents aged 16 years and over engaged in the civilian labor force. 
+The second largest occupational group was “Sales & Office Occupations,” which 
+accounted for 20.5 percent and 20.4 percent of the Borough and County residents 
+aged 16 years and over engaged in the civilian labor force, respectively. The third 
+largest occupational group was “Service Occupations,” which accounted for 6.5
+percent of the Borough residents and 12.4 percent of the County residents aged 16 
+years and over engaged in the civilian labor force. In total, these three occupational 
+groups accounted for about 91.3 percent of the Borough residents and 86.2 percent 
+of the County residents aged 16 years and over engaged in the civilian labor force.
+With regard to the industry of employment, it is noted that the top-three industries 
+of employment among Borough residents aged 16 years and over and engaged in the 
+civilian labor force were “Educational Services, Health Care/Social Assist.” with 23.3 
+percent; “Professional, Scientific, Management” with 20.3 percent; and “Finance, 
+Insurance, Real Estate” with 16.9 percent. Among County residents, the top-three 
+industries of employment were “Educational Services, Health Care/Social Assist.” 
+with 25.1 percent; “Professional, Scientific, Management” with 15.2 percent; and 
+“Retail Trade” with 10.2 percent. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 25 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 26 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 22 
+Table 15
+OCCUPATIONAL CHARACTERISTICS, 2023
+Borough of Oradell & Bergen County 
+Borough
+County
+Occupation Group
+Number 
+Percent
+Number 
+Percent 
+Management, Business, Science & Arts 
+2,570 
+64.3
+263,942 
+53.3
+Service Occupations
+259
+6.5
+61,574
+12.4
+Sales & Office Occupations
+821
+20.5
+101,185 
+20.4
+Nat. Resources, Construction & Maint.
+161
+4.0 
+25,740 
+5.2
+Production, Transportation & Material
+187
+4.7
+42,480
+8.6
+TOTALS
+3,998
+100.0
+494,921
+100.0
+Borough
+County 
+Industry
+Number 
+Percent
+Number 
+Percent 
+Agriculture, Forestry, Fishing 
+0 
+0.0 
+636
+0.1
+Construction
+216
+5.4 
+25,742 
+5.2
+Manufacturing
+113
+2.8 
+38,180 
+7.7
+Wholesale Trade
+175
+4.4 
+18,362 
+3.7
+Retail Trade 
+255
+6.4 
+50,517 
+10.2
+Transportation & Warehousing 
+130
+3.3 
+25,586 
+5.2
+Information
+283
+7.1 
+14,303 
+2.9
+Finance, Insurance, Real Estate
+676
+16.9
+50,356 
+10.2
+Professional, Scientific, Management
+813
+20.3
+75,107 
+15.2
+Edu. Services, Health Care/Social Assist. 
+931
+23.3
+124,338 
+25.1
+Arts, Entertain., Recreation, Food Services
+162
+4.1 
+33,665 
+6.8
+Other Services, Except Public Admin. 
+136
+3.4 
+22,115 
+4.5
+Public Administration
+108
+2.7 
+16,014 
+3.2
+TOTALS
+3,998
+100.0
+494,921
+100.0
+Source: 2023 American Community Survey 5-Year Estimates (Tables S2401, S2405) 
+Data from the New Jersey Department of Labor and Workforce Development 
+indicates that there was an average total of 2,129 private sector jobs located in 
+Oradell during 2023. This represents jobs located in Oradell, not the occupational 
+characteristics of Oradell’s residents.  
+Table 16 provides data on the sector of employment of 2,129 private jobs located 
+within the Borough of Oradell. Of these jobs, 775 or 36.4 percent were classified as 
+“Health/Social.” An additional 169 jobs or 7.9 percent were classified as 
+“Professional/Technical,” and an additional 142 jobs or 6.6 percent were classified as 
+“Admin/Waste Remediation.” These three employment sectors account for about 
+50.9 percent of all jobs located within the Borough of Oradell. All other sectors for 
+which data was provided accounted for 6.5 percent of all jobs or less. 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 26 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 27 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 23 
+While the New Jersey Department of Labor and Workforce Development has 
+provided information on the sector of employment for 75.9 percent of the private jobs 
+located within the Borough of Oradell, it has not disclosed sector of employment for 
+24.1 percent of the 2,054 private jobs located within the Borough. Typical reasons 
+why the New Jersey Department of Labor and Workforce Development would not 
+provide the number of jobs in a particular sector include the presence of only one or 
+very few employers in a particular sector, or the presence of a very limited number 
+of jobs in a sector. In such cases, the New Jersey Department of Labor and Workforce 
+Development withholds information so as to not release what could be perceived as 
+confidential information.
+Table 16
+PRIVATE EMPLOYMENT BY SECTOR, 2023 
+Borough of Oradell
+Borough
+Employee Sector 
+Number
+Percent 
+Utilities 
+Undisclosed
+Undisclosed 
+Construction 
+Undisclosed
+Undisclosed 
+Manufacturing 
+10 
+0.5 
+Wholesale Trade 
+34 
+1.6 
+Retail Trade
+81 
+3.8 
+Transportation/Warehousing 
+Undisclosed
+Undisclosed 
+Information 
+Undisclosed
+Undisclosed 
+Finance/Insurance
+95 
+4.5 
+Real Estate
+58 
+2.7 
+Professional/Technical
+169 
+7.9 
+Management 
+Undisclosed
+Undisclosed 
+Admin/Waste Remediation
+142
+6.6
+Education
+Undisclosed
+Undisclosed 
+Health/Social
+775 
+36.4 
+Arts/Entertainment 
+Undisclosed
+Undisclosed 
+Accommodations/Food
+106 
+5.0 
+Other Services
+139 
+6.5 
+Unclassified 
+9
+0.4 
+TOTAL
+2,129
+100.0
+Source: New Jersey Department of Labor and Workforce Development 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 27 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 28 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 24 
+Residential Construction
+Table 17 contains data on dwelling units authorized by building permit and 
+demolished with a demolition permit from 2012 through 2023. This data has been 
+obtained from the New Jersey Department of Community Affairs.
+In the reported period, a total of 89 new units were created and 17 units were 
+demolished, resulting in a net increase of 72 units. The average annual net change in 
+the reported period was 6.0 units.
+ 
+ 
+Table 17 
+NEW DWELLING UNITS AUTHORIZED BY BUILDING PERMIT & HOUSING UNITS 
+DEMOLISHED: 2012 - 2023 
+Borough of Oradell
+Year
+New Units 
+Demolitions
+Net Increase 
+2012 
+9 
+1
+8 
+2013 
+0 
+0
+0 
+2014 
+9 
+8
+1 
+2015 
+9 
+0
+9 
+2016 
+12
+0
+12 
+2017 
+2 
+0
+2 
+2018 
+0 
+0
+0 
+2019 
+2 
+0
+2 
+2020 
+0 
+0
+0 
+2021 
+9 
+4
+5 
+2022 
+37
+2
+35 
+2023 
+0 
+2
+-2
+TOTALS
+89
+17
+72
+Source: “Development Trends Viewer.” State of New Jersey Department of Community Affairs, 
+September 16, 2024. Accessed February 4, 2025. 
+https://www.nj.gov/dca/codes/reporter/Development_Trend_Viewer.xlsb. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 28 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 29 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 25 
+Population and Household Projection
+As has been previously mentioned, the Borough of Oradell’s population was 8,244 at 
+the time of the 2020 United States Census.
+ 
+The North Jersey Transportation Planning Authority has released 2050 population 
+and household projections for its constituent municipalities. The 2050 population 
+projection for Oradell is 8,881, which represents an increase of 637 residents over 
+the 2020 United States Census population of 8,244 residents. The 2050 household 
+projection for Oradell is 3063, which represents an increase of 281 households over 
+the 2020 United States Census count of 2,782 households.
+N.J.S.A. 52:27D-310.b require that Housing Elements and Fair Share Plans include a 
+household projection for the next ten years. When the 2050 projections of the North 
+Jersey Transportation Planning Authority are linearly adjusted to represent 2035 
+values, projections of 8,563 residents and 2,923 households result. This is 
+summarized in Table 18. 
+ 
+ 
+Table 18 
+POPULATION AND HOUSEHOLD PROJECTION, 2015 - 2050 
+Borough of Oradell
+2020 Census Population
+2035 Population Projection 
+(Adjusted from 2050) 
+2050 Population Projection 
+8,244 
+8,563 
+8,881 
+2020 Census Households
+2035 Household Projection 
+(Adjusted from 2050)
+2050 Household Projection
+2,782 
+2,923 
+3,063 
+Sources:  
+2020: United States Census;  
+2035: Calculated by T&M based on 2050 values; and, 
+2050: North Jersey Transportation Planning Authority. 
+The foregoing information has been provided for informational purposes only and 
+in response to N.J.S.A. 52:27D-310.b.
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 29 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 30 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 26 
+Employment Projection
+The North Jersey Transportation Planning Authority (NJTPA) has released a 2050 
+employment projection for the Borough of Oradell of 4,062, which represents an 
+increase of 1,343 jobs over the Borough’s 2023 average total of 2,719 public and 
+private sector jobs (includes: 2,129 private sector jobs; 3 federal government jobs; 
+214 state government jobs; and 373 local government jobs).  
+When the NJTPA’s 2050 employment projection is linearly adjusted to represent 
+2035 values, an adjusted 2035 employment projection of 3,316 jobs results. This is 
+summarized in Table 19.
+Table 19
+EMPLOYMENT PROJECTION, 2023 - 2050 
+Borough of Oradell
+2023
+2035
+2050
+Public and Private 
+Employment 
+Adjusted Employment 
+Projection
+Employment
+Projection 
+2,719 
+3,316
+4,062
+Sources:  
+2023: New Jersey Department of Labor and Workforce Development;  
+2035: Calculated by T&M; and, 
+2050: North Jersey Transportation Planning Authority. 
+Note: 2023 average of 2,719 public and private sector jobs + ((2050 Employment Projection of 4,062 jobs – 
+2023 average of 2,719 public and private sector jobs) ÷ (2050 – 2023)) × 12 years = 3,316 jobs in 2035.
+The foregoing information has been provided for informational purposes only and 
+in response to N.J.S.A. 52:27D-310.d.
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 30 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 31 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 27 
+Fair Share Plan 
+Affordable Housing Obligation 
+A municipality’s affordable housing obligation is made up of both a present need 
+(rehabilitation obligation) and a prospective need obligation.  Obligations are 
+calculated in time periods known as “rounds.”  
+Previous Round obligations have either been determined by the New Jersey Council 
+on Affordable Housing (COAH), or by Court decisions.  However, in  FHA 2, the 
+Legislature directed the Department of Community Affairs (DCA) to issue a non-
+binding report identifying the Present Need and Prospective Need for each 
+municipality in Round 4 and in subsequent housing cycles based on the formula 
+contained in the Act. 
+DCA calculated a Round 4 present need obligation of zero (0) units and a prospective 
+need obligation of 186 units for the Borough of Oradell. The Borough analyzed the 
+data that resulted in the obligation and, as permitted under the FHA 2, calculated a 
+prospective need obligation of 174 units based upon its application of the standards 
+in FHA II.  On January 28, 2025, the Borough adopted a binding resolution stipulating 
+to a prospective need obligation of 174 for Round 4 based on its analysis. 
+The New Jersey Builders Association (NJBA) objected to the 174 prospective need 
+obligation asserted by the Borough. The Borough and the NJBA entered into 
+mediation, which culminated in a settlement, dated May 13, 2025, fixing the 
+Borough’s prospective need obligation at 180 units.  
+Fair Share Determination and Adjustments
+Oradell’s affordable fair share is 577 based on a Present Need of 0 and a Prospective 
+Need of 577 for Rounds 1 through 4. Of the 577 Prospective Need, 397 is attributable 
+to the Prospective Need for Rounds 1-3 and 180 is attributable to the Borough’s 
+Prospective Need for Round 4. More specifically, the breakdown of the prospective 
+need is as follows.  
+ Prior Round (Rounds 1 & 2, from 1987-1999) Obligation: 89 units 
+ Round 3 (from 1999-2025) Prospective Need Obligation: 308 Units
+ Round 4 (from 2025-2035) Prospective Need Obligation: 180 Units
+The Borough’s affordable housing obligation and the manner in which it has met and 
+intends to meet it, is described in the following subsections.  
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 31 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 32 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 28 
+As noted above, the Court approved the Borough’s Round 3 Housing Element and Fair 
+Share Plan on September 13, 2019.  That Plan, which implemented an agreement with 
+FSHC, asserted that the Borough was entitled to adjust its 397 obligation for Rounds 
+1 through 3 to seven (7) units, leaving it with an unmet need of 390 units.  
+As detailed below, in Round 4, the Borough is entitled to a vacant land adjustment to 
+of its 180 obligation to a realistic development potential of 3 leaving it an unmet need 
+of 177. 
+Prior Round and Round 3 Obligation 
+As noted above,  Court approved a settlement agreement between the Borough and 
+FSHC in Round 3 and entered a judgment of compliance and repose approving the 
+Housing Element and Fair Share Plan adopted to implement that settlement and 
+satisfy the Borough’s obligations. 
+Since the Court approved a Housing Element and Fair Share Plan for Round 3 based 
+upon the Borough’s settlement with FSHC, this portion of the Housing Element and 
+Fair Share Plan will summarize what the Borough did to comply through Round 3 and 
+what the Court approved. 
+The Housing Element and Fair Share Plan that the Court approved addressed a Prior 
+Round obligation of 89 and the Round 3 obligation of 308 for a total Round 1-3 
+Prospective Need  of 397.  The Court determined that the Borough’s RDP for Rounds 
+1-3 is 7 and its unmet need for these three rounds was 390. 
+The Court approved the Borough’s manner of addressing its RDP and unmet need for 
+Rounds 1 through 3 as follows:   
+Rounds 1-3 RDP 
+Habitat for Humanity.  Located on Westervelt Place, this is a 100% affordable 
+development constructed in 2014.  This project provides four (4) units of affordable 
+housing credit. 
+New Milford Ave. Inclusionary Development.  Located at 2-12 Fey Place, this 
+project received Planning Board approval in March 2023 for the construction of a 
+townhouse development that includes two (affordable units), which will be family 
+rentals. This development is presently under construction and provides two (2) 
+units of rental affordable housing credits.   
+Bonus Credit. As stipulated in the 2018 settlement agreement, the Borough is 
+entitled to one (1) bonus credit. 
+     
+As shown above, the Borough has fully addressed its Prior Round and Round 3 RDP 
+of seven (7) units.  
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 32 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 33 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 29 
+Rounds 1-3 Unmet Need  
+The Court also approved the manner in which the Borough addressed its unmet need 
+for the three rounds. To address the unmet need, the Borough adopted several 
+ordinances as follows: 
+ Mandatory Set-Aside Ordinance 
+ CBD Overlay Zone on the B-1 Zone 
+ Overlay Zone on the White Beeches property 
+In addition, FSHC and the Borough amended their settlement in 2021. Although an 
+intervenor derailed the efforts of FSHC and the Borough to secure approval of the 
+amendment, the Borough still implemented the amendment.  It entered into an 
+agreement with Bergen County United Way for the property known as Block 223, Lot 
+5 located on Genther Ave.  The Borough donated Lot 5 to Bergen County United Way 
+(BCUW) so that the lot could be developed with special needs and supportive housing. 
+As memorialized in a May 19, 2025 Zoning Board of Adjustment resolution for 
+Calendar No. 874-24, approval was granted for the following: 
+ A four-bedroom group home to be constructed on the first floor.  
+ A one-bedroom and a two-bedroom supportive housing (independent living) 
+apartment on the second floor.  
+The BCUW project is one example of the success of the Borough’s unmet need 
+mechanisms.  
+In addition, the Borough’s land use boards also approved the following developments 
+as a result of unmet need mechanisms. 
+ 387-393 Kinderkamack Road: one (1) family affordable rental unit, which 
+resulted from the CBD Overlay Zone.
+505 Kinderkamack Road: three (3) affordable age restricted units that are 
+constructed. These units resulted from the mandatory set-aside ordinance.
+In addition, another inclusionary development located at 420 Kinderkamack Rd. is 
+presently before the Planning Board. This development is located in the CBD overlay
+zone.
+Round 4 Present Need 
+In addition to the Borough’s obligations for Rounds 1 through 3 as discussed above, 
+the Borough has obligations for Round 4. Pursuant to FHA II, the DCA assigned the 
+Borough a zero Present Need, which is also known as its rehabilitation obligation. 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 33 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 34 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 30 
+While Oradell  does not have a Round 4  present need obligation, all Borough 
+residents are eligible to participate in the Bergen County Home Improvement 
+Program.  
+Round 4 Prospective Need
+Oradell’s Round 4 prospective need obligation is 180 units.
+Round 4 Vacant Land Adjustment (3) 
+Since the Borough lacked sufficient land to address its obligations through Rounds 1 
+through 3, obviously it lacked sufficient land to address the additional 180 unit 
+obligation imposed in Round 4. Therefore, the Borough is entitled to a Vacant Land 
+Adjustment (VLA) for Round 4.   
+In its preparation of the Round 4 VLA, the Borough relied upon all analyses and 
+conclusions from its approved  Round 3 VLA.  Reliance on a prior adjustment is 
+consistent with COAH’s policies. Instead of doing a whole new analysis and forcing 
+the public to defend once again every nuance of the court approved adjustment, the 
+Borough focused on what has changed since the Court approved the Borough’s vacant 
+land adjustment in 2018. The VLA prepared in 2018 is available in Appendix A.  
+The only changed circumstance since court approved the Borough’s RDP in Round 3 
+is that a representative of the property known as 445-447 Kinderkamack Rd., a  0.71 
+acre parcel, approached the town and proposed to redevelop this property replacing 
+nonresidential buildings with an inclusionary development of  40 apartments, of 
+which 8 would be affordable units.   
+Although the density the developer proposed is out of character with the area, the 
+Borough performed its own calculation of the development potential of the site under 
+the court-approved CBD zone. If the Borough rezoned the site with this court 
+approved zoning, the Borough estimates that the developer could construct as many 
+as 15 units of which 3 would be affordable. 
+Therefore, the Borough will accept an RDP of three for this site, resulting in an unmet 
+of 177. 
+Satisfaction of Round 4 RDP
+The Borough proposes to satisfy its RDP of 3 for Round 4 as follows:
+445-447 Kinderkamack Road. The Borough proposes to rezone this property at a 
+density of 22 units per acre, resulting in the potential for a development of 15 units, 
+of which 3 units (20%) are affordable.  Therefore, the Borough is satisfying the RDP 
+with the site that generated it based on zoning that would give the developer the same 
+rights under the Court approved zoning. This site provides three (3) affordable units 
+of credit toward the Round 4 RDP, and a bonus credit of 0.75 units because the 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 34 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 35 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 31 
+property was previously used as nonresidential space. A sample ordinance is 
+available in Appendix E.
+Round 4 Unmet Need 
+To address the Round 4 unmet need, the Borough proposes the following: 
+Continuation of the mandatory set-aside ordinance, continuation of collection of 
+development fees and additional properties included in the CBD overlay zoning as 
+described below.  
+1. Expand the B-1 zone/CBD overlay zone northward on the western side of 
+Kinderkamack Road from Orchard Street to Soldier Hill Road.   
+2. Rezone the B-3 zone to the B-1 zone/CBD overlay zone. The B-3 zone will be 
+eliminated and incorporate into B-1 and CBD.  
+The above revisions add an additional approximately 14  acres to the overlay zone to 
+address unmet need.   The above areas are presently in business/commercial zone 
+districts along Kinderkamack Road, which is a county road.  Nonresidential uses and 
+services are available on Kinderkamack Road for future residents of inclusionary 
+housing to patronize or find employment.  As required by affordable housing rules, 
+the overlay zoning locations meet the definitions of approvable, available, 
+developable and suitable.  The property will be rezoned to permit inclusionary 
+development, has access to water and sewer infrastructure, and is situated in an area 
+where growth is identified to occur. There is public transportation available on 
+Kinderkamack Road and the NJ Transit rail station is also located nearby.  
+In addition to the above, the FHA 2 contains the following new requirement:  
+Any municipality that receives an adjustment of its prospective need obligations 
+for the fourth round or subsequent rounds based on a lack of vacant land shall 
+as part of the process of adopting and implementing its housing element and fair 
+share plan identify sufficient parcels likely to redevelop during the current round 
+of obligations to address at least 25 percent of the prospective need obligation 
+that has been adjusted, and adopt realistic zoning that allows for such 
+adjusted obligation, or demonstrate why the municipality is unable to do so. 
+(emphasis added) 
+“[T]he prospective need obligation that has been adjusted” is three (3). Twenty-
+five percent of 3 rounds up to 1.  
+An additional one unit needs to be addressed with realistic zoning.  This one (1) unit 
+will be met via the following unit: 
+Habitat for Humanity, Reis Avenue.  This property, located at the corner of 
+Kinderkamack Road and Reis Avenue, is also known as Block 107, Lot 29.  The 
+Borough donated this property to Habitat to provide an opportunity for affordable 
+housing. Habitat for Humanity presently is constructing one dwelling unit containing 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 35 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 36 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 32 
+three bedrooms on the subject property.  Therefore, this site provides the realistic 
+zoning for (1) unit as  required.  
+In addition, the Borough proposes the following revisions to the B-1 zone district, 
+which includes the CBD overlay zone.
+1. Expand the B-1 zone/CBD overlay zone northward on the western side of 
+Kinderkamack Road from Orchard Street to Soldier Hill Road.   
+2. Rezone the B-3 zone to the B-1 zone/CBD overlay zone. The B-3 zone will be 
+eliminated and incorporate into B-1 and CBD.  
+Consideration of Lands Appropriate for Affordable Housing  
+Oradell is a developed community with no vacant land.  The Borough anticipates that 
+future development and growth will predominantly be limited to the Kinderkamack 
+Road corridor and the locations identified by the existing and proposed overlay 
+zones. 
+Representatives of the following properties came forward to express a commitment 
+to provide affordable housing in Round 4.  
+ 66 Kinderkamack Rd.  A developer sought multiple variances to redevelop 
+the site with a high-density inclusionary project. Oradell’s Zoning Board of 
+Adjustment denied the application. The developer appealed the denial, and 
+Judge Farrington upheld the Board’s denial of the application. The developer 
+appealed Judge Farrington’s decision to the Appellate Division. While the 
+appeal was pending the parties engaged in negotiations for a scaled down 
+project for several months. Ultimately, the developer ceased negotiating and 
+allowed the Appellate Division to decide the appeal on the papers.  On May 5, 
+2025, the Appellate Division sustained Judge Farrington’s decision.  No 
+Petition for Certification was filed by the developer.  It was this same 
+developer that intervened in the declaratory judgment action that the Borough 
+filed pursuant to Mount Laurel IV and derailed the efforts of the Borough and 
+FSHC to secure approval of the amendment to their agreement and an 
+amendment to the plan to implement the agreement. So, while the Borough 
+was willing to work towards a settlement and indeed was doing just that, the 
+developer walked away from the table leaving the Borough nothing to 
+consider. 
+ 
+ 445-447 Kinderkamack Rd. This 0.71 acre property has approached the 
+town regarding the Round 4 plan. The owner proposed to redevelop this 
+property by replacing nonresidential buildings with an inclusionary 
+development of  40 apartments, of which 8 would be affordable units.  The site 
+backs up to an established single-family residential neighborhood with only a 
+10 ft. rear yard setback proposed. This will not offer the opportunity for 
+buffering or further protection to the established neighborhood. Furthermore, 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 36 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 37 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 33 
+the proposed height is 4 stories and 45 ft.  This height exceeds the  35 ft. and 3 
+stories permitted in the Borough’s CBD overlay zone and is out of character 
+and not appropriate for the area.  Measured against the Court-approved 
+zoning in the Borough’s Round 3 Housing Element and Fair Share Plan, the 
+proposed project is grossly excessive. The developer proposes a density is 57.1 
+units per acre, which is out of character for Oradell and not appropriate for the 
+location. 
+This site is included in the Borough’s Round  plan; it will be rezoned to permit 
+the development of 15 total units. included in the expansion of the B-1 Zone 
+and resulting CBD overlay, which is a reasonable development option as it 
+reflects what is permitted in the Round 3 Court approved plan for Oradell.  
+ 
+ 
+ 699 Kinderkamack Rd. This is a 4.2 acre lot that generated a 1.7 unit RDP in 
+Round 3. The house on the property is now vacant.  Since the Borough already 
+received an RDP for the site and satisfied it, COAH’s clear policy is that Oradell 
+is free to zone the site as it chooses.  
+ 
+N.J.A.C. 5:93-4.2(g) states: 
+ 
+“The municipality may address its RDP through any activity approved by 
+the Council, pursuant to N.J.S.A. 5:93-5. The municipality need not 
+incorporate into its housing element and fair share plan all sites used to 
+calculate its RDP if the municipality can devise an acceptable means of 
+addressing its RDP.  The RDP shall not vary with the strategy and 
+implementation techniques employed by the municipality.” 
+ 
+By addressing the RDP the site generated, the Borough earned the right to 
+zone that site as it saw fit without regards to affordable housing 
+considerations as the COAH regulation makes clear. Therefore the Borough 
+does not have a responsibility to accept an RDP for the site again. That would 
+completely undermine the rights that COAH conferred to any municipality that 
+accepted an RDP for a site and found a way to satisfy that RDP without using 
+the site. 
+ 
+In addition, this location is not suitable for multifamily residential use due to 
+the surrounding established single-family development.  All sites used to 
+address a new construction obligation must qualify as available, approvable, 
+developable and suitable. A suitable site is a site adjacent to a compatible use. 
+Consistent with the definition of a suitable site, COAH regulations require a 
+consideration of the surrounding uses when attributing an RDP to a site. This 
+site does not qualify as suitable because of the surrounding uses. For all these 
+reasons, this site should not generate an RDP and is not included in the 
+Borough’s Round 4 plan.  
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 37 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 38 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 34 
+ 800 Kinderkamack Road. This 10 acre property is situated in the B-2 Zone 
+and is improved with an office building and associated parking and 
+improvements.  A concept plan has not been provided at this time.  
+The letter from the property owner’s attorney was received on June 6th.    
+Presently,  the Borough is preparing a Master Plan Reexamination Report. In 
+preparing the report, the Borough is studying this area of Kinderkamack Road 
+and considering how best to develop it in a thoughtful and comprehensive 
+manner and within the confines of sound planning.  It is anticipated that any 
+future development considerations in this area would include an affordable 
+component, as well as traffic management, parking and NJ transit station 
+consolidation, all of which are key objectives based on sound planning 
+principles consistent with the densities, building scale and character of 
+Oradell. 
+The Borough’s intent to thoughtfully consider how to address 800 
+Kinderkamack and surrounding parcels is entirely appropriate. That type of 
+careful analysis is exactly what the Supreme Court called for in Mount Laurel 
+II: 
+. . . .The application of the Mount Laurel doctrine to fully developed 
+municipalities will undoubtedly pose difficult problems. We note 
+only that sound land use planning and Mount Laurel should remain 
+compatible both at the state and municipal level, and that, in 
+particular, where fully developed municipalities are involved, great 
+care may be required to assure that the benefit of Mount Laurel is 
+not offset by damage to legitimate zoning and planning objectives. 
+The Mount Laurel doctrine should ordinarily be able to be 
+accommodated, for example, without placing lower income housing 
+projects in the middle of long-settled middle or upper income 
+sections of a town. A satisfactory resolution of the occasionally 
+conflicting interests may at times require creativity and cooperation. 
+Mount Laurel II at 240 n.15 
+ 
+Consistency with the State Development and Redevelopment Plan 
+The 2001 New Jersey State Development and Redevelopment Plan (SDRP) contains a 
+series of smart growth goals and policies, and mapping that reflects desired growth 
+patterns within a series of state planning areas. 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 38 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 39 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 35 
+As provided in the SDRP,  the majority of the Borough is located in Planning Area 1, 
+with a swath of Planning Area 5 situated in the Borough. The existing overlay zone, 
+and the planned additions to the overlay zone, are located within Planning Area 1.   
+Planning Area 1 is also known as the Metropolitan Planning Area.  A small portion, in 
+the southeast corner of the property, is located in Planning Area 5.  In the 
+Metropolitan Planning Area, the SDRP’s intention is to: 
+ Provide for much of the State’s future redevelopment; 
+ Revitalize cities and towns; 
+ Promote growth in compact forms; 
+ Stabilize older suburbs; 
+ Redesign areas of sprawl; and 
+ Protect the character of existing stable communities. 
+Additionally, it is noted that the 2001 SDRP outlines several policy objectives for the 
+Metropolitan Planning Area, including: 
+ Land Use: Promote redevelopment and development in cores and 
+neighborhoods of centers and in nodes that have been identified through 
+cooperative regional planning efforts. Promote diversification of land uses, 
+including housing where appropriate, in single-use developments and 
+enhance their linkages to the rest of the community. Ensure efficient and 
+beneficial utilization of scarce land resources throughout the Planning Area to 
+strengthen its existing diversified and compact nature.
+ Housing: Provide a full range of housing choices through redevelopment, new 
+construction, rehabilitation, adaptive reuse of nonresidential buildings, and 
+the introduction of new housing into appropriate nonresidential settings. 
+Preserve the existing housing stock through maintenance, rehabilitation and 
+flexible regulation.
+Execution of this Housing Element and Fair Share Plan and, therewith, promotion of 
+affordable housing development in the Metropolitan Planning Area would be 
+consistent with the intent and aforementioned policy objectives of said planning area. 
+Minimums & Maximums 
+The FHA2 stipulates certain requirements within C.52:27D-311.k(10)1 which the 
+Oradell plan meets. Oradell has a three-unit RDP.   The following is noted:
+ A maximum of 30% of the affordable housing units, exclusive of any bonus 
+credits, to address its prospective need affordable housing obligation, may be 
+addressed with age restricted housing.  The Borough’s Round 4 affordable 
+housing mechanisms do not include any age restricted units. 
+ A minimum of 50% of the actual affordable housing units, exclusive of bonus 
+credits, created to address its prospective need obligation must be satisfied 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 39 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 40 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 36 
+with the creation of housing available to families with children.  The new 
+inclusionary zone proposed for 445 Kinderkamack Road, as well as the B-1 
+and CBD overlay extensions, would provide housing available to families. 
+ A minimum of 25% of the actual affordable housing units, exclusive of bonus 
+credits, created to address its prospective need obligation, must be satisfied 
+with the creation of rental housing.  It is anticipated that  the new inclusionary 
+zone proposed for 445 Kinderkamack Road, as well as the B-1 and CBD overlay 
+extensions, would provide rental housing.  
+Multigenerational Housing Continuity 
+FHA II requires a consideration of the recommendations of the Multigenerational 
+Family Housing Continuity Commission. The Commission has not made any 
+recommendations to consider. 
+Conclusion 
+Oradell will provide for its fair share of affordable housing despite having a vacant 
+land deficiency.  As shown, the Borough met its Round 3 RDP and meets its Round 4 
+RDP.  The proposed overlay zone location is near employment opportunities and 
+public transportation. This area is primarily located within Planning Area 1 of the 
+State Plan, which is the location where such growth is encouraged.    
+All affordable units will conform to necessary rules, legislation and regulations, 
+including but not limited to bedroom distribution and income distribution.  At least 
+13% of all affordable housing units will be available to very low income households. 
+This plan addresses Oradell’s affordable housing obligation within the confines of 
+sound planning, and while respecting its built environment and development 
+characteristics. 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 40 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 41 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 37 
+Appendices  
+This report contains the following appendices.
+Appendix A:  Round 3 Vacant Land Adjustment Documentation 
+Appendix B: Affordable Housing Ordinance & Affirmative Marketing Plan. The 
+Borough’s existing ordinance, affirmative marketing plan and mandatory set-aside 
+ordinance are included. Modifications will be made as needed to comply with any 
+future Round 4 requirements.  
+Appendix C: Development Fee Ordinance. The Borough’s existing ordinance is 
+included. Modifications will be made as needed to comply with any future Round 4 
+requirements.
+Appendix D: Resolutions Appointing the Municipal Housing Liaison and 
+Administrative Agent. 
+Appendix E: Draft Ordinance & Map  (1) Extension of CBD Overlay Zone and (2) 
+Creation of New Inclusionary Zone.  
+Appendix F: Round 3 Settlement Agreements and Judgment of Repose 
+Appendix G: Spending Plan 
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 41 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 42 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 38 
+Appendix A: Round 3 Vacant Land Adjustment Documentation
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 42 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 43 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 43 of 79
+Trans ID: LCV20251851511
+af
+,
+i
+ee
+"
+xy
+i
+———
+ill
+.[>
+{
+i —— ii
+all
+c)
+mia |
+es
+Pt) tet
+uit a
+Mae
+Fe i
+ba » Ueeloe
+oO
+Ke
+i
+Ofte
+¢
+ws
+pel fi
+i
+unig
+ek
+jing hy Hing
+\
+i HHH aunt JE
+.
+pT at) ini
+="
+il
+I
+we ve ete
+i
+maa
+v
+ae
+ennai
+reg
+sae
+.
+8
+whe
+S
+Seeaeree
+ct
+oe i ¥ a -
+SP
+psfe tt <i
+nt
+:
+-
+i
+Pte
+ce
+st
+x
+i
+beret
+ede
+ER
+py
+biden
+Hl
+PE
+=FuS
+ee
+hs
+oped see)
+Z
+Fat
+—_—
+7)
+25 Westwood Avenue, Westwood NJ 07675 | 24
+p: 201.666.1811| f: 201.666.2599| e: jhb@burgis.com
+
+===== PAGE 44 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 44 of 79
+Trans ID: LCV20251851511
+TABLE 20: THIRD ROUND VACANT LAND ASSESSMENT
+ORADELL, NJ
+ID
+Block
+Lot
+Location
+Owner
+Comments
+aed
+psvelepelite
+Developable?
+(ac)
+Area (ac)
+1 | 313
+787 HOWARD | MATE,JONATHANL. | Lot too small to qualify for RDP
+a a
+COURT E
+Analysis. Steep slope constraints.
+KATHARINE E
+Analysis
+3
+GERVER, IRA&
+Lot too smallto qualify for RDP
+HOWARD
+Analysis. Steep slope constraints
+119
+9.03
+G FEY PL.
+WEEDO, CALVIN
+Qualifies for RDP Analysis. Proposed
+0.236
+0.236
+Yes
+a
+for inclusionary development with
+adjacent lots (9.01-9.06).
+5
+1102
+5
+KINDERKAMAC | PMG NEW JERSEY
+Lot too small to qualify for RDP
+0.034
+0.034
+PE
+Teo
+[CEES oeeee
+a a
+a
+a
+N.
+Analysis. Steep slope constraints
+7
+504
+38
+RIDGEWOOD
+MURPHY, MATTHEW |
+Lot too small to qualify for RDP
+0.078
+0.078
+yo
+TE eee Leen oe ee pee
+721
+MYUNG, JAE H
+Qualifies for RDP Analysis. Site
+0.551
+0.220
+Yes
+KINDERKAMAC.
+previously occupied by a dwelling,
+KRD
+which was destroyed by fire. Partially
+constrained by steep slopes, but
+remaining unconstrained area is
+developable with adjoining Block 805
+Lots 1 & 2 to the south.
+119
+9.04
+8 FEY PLACE
+WEEDO, CALVIN
+Qualifies for RDP Analysis. Proposed
+0.196
+0.196
+Yes
+a
+“een | for inclusionary development with
+adjacent lots (9.01-9.06).
+10
+119
+9.01
+2 FEY PLACE
+WEEDO, CALVIN
+Qualifies for RDP Analysis. Proposed
+0.191
+0.191
+Yes
+for inclusionary development with
+adjacent lots (9.01-9.06).
+11
+119
+9.05
+10 FEY PL.
+WEEDO, CALVIN
+Qualifies for RDP Analysis. Proposed
+0.218
+0.218
+Yes
+for inclusionary development with
+adjacent lots (9.01-9.06).
+12
+448 PROSPECT | TANNER, JAN &
+Lot too small to qualify for RDP
+0.219 fe
+13
+15
+ARNOLD HOMES INC| Lot too small to qualify for RDP
+eee
+ee
+ee
+Analysis. Wetland constraints
+14
+119
+12 FEY PLACE
+WEEDO, CALVIN
+Qualifies for RDP Analysis. Proposed
+0.193
+0.193
+Yes
+for inclusionary development with
+adjacent lots (9.01-9.06).
+AVE
+PETER & ELISABETH
+Analysis
+16
+708
+505-515
+TRIPLE A REALTY CO
+Lot too small to qualify for RDP
+0.284
+0.284
+KINDERKAMAC
+INC.
+Analysis. Observed that the site is
+kK ROAD
+developed with surface parking
+17
+4
+SHADOW LANE | GERVER, IRA &
+Lot too small to qualify for RDP a
+ee
+HOWARD
+Analysis. Steep slope constraints
+18
+119
+9.02
+4 FEY PL.
+WEEDO, CALVIN
+Qualifies for RDP Analysis. Proposed
+0.187
+0.187
+Yes
+Pe |
+for inclusionary development with ee
+adjacent lots (9.01-9.06).
+PLACE
+HOWARD
+Analysis
+JULIET
+Analysis
+21
+9/6 AMARYLLIS | SHALHOUB, ROBERT | Lot too small to qualify for RDP
+ee
+ee
+ee
+AVENUE
+Analysis
+22
+946 AMARYLLIS | SHALHOUB, ROBERT | Lot too small to qualify for RDP
+0.340
+ps
+AVENUE
+Analysis
+25 Westwood Avenue, Westwood NJ 07675
+p: 201.666.1811
+| f: 201.666.2599| e: jhb@burgis.com
+
+===== PAGE 45 =====
+BER-L-000733-25
+06/25/2025 3:09:48 PM
+Pg 45 of 79
+Trans ID: LCV20251851511
+ID _ Block
+Lot
+Location
+Owner
+Comments
+alse
+Deeae
+Developable?
+(ac)
+Area (ac)
+23
+806
+32.01 | 650 SOLDIER
+SOLDIER HILL
+Lot too small to qualify for RDP
+0.768
+0.768
+HILL ROAD
+DVLPMNT PTNRS,
+Analysis
+LLC
+24
+805
+4,
+705
+BLAUVELT-
+Qualifies for RDP Analysis. Occupied by | 3.44
+1.27
+Yes
+KINDERKAMAC
+DEMAREST
+a museum and partially constrained by
+KRD
+FOUNDATION INC.
+steep slopes, but remaining
+undeveloped and unconstrained area is
+developable with adjoining Lot 2 to the
+south,
+25
+805
+2
+699
+BLAUVELT
+Qualifies for RDP Analysis. Occupied by | 4.20
+1.39
+Yes
+KINDERKAMAC_ | ASSOCIATES LLC
+a vacant mansion known as the
+KRD
+Blauvelt Estate and partially
+constrained by steep slopes, but
+remaining undeveloped and
+unconstrained area is developable with
+adjoining Lot 1 to the north.
+Land Categorization
+Acreage
+Total Vacant/Redevelopable Land
+12.71 ac.
+Total Developable Area Qualifying for RDP Analysis
+4.10 ac.
+Development Capacity @ 6 du/ac Density
+24.6 units
+Total RDP @ 20% Set-Aside
+25 Westwood Avenue, Westwood NJ 07675
+p: 201.666.1811| f: 201.666.2599
+| e: jhb@burgis.com
+
+===== PAGE 46 =====
+Housing Element and Fair Share Plan 
+Borough of Oradell — Prepared: June 13, 2025 
+Page 39 
+Appendix B: Affordable Housing Ordinance, Affirmative Marketing Plan, 
+Mandatory Set-Aside Ordinance
+ 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 46 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 47 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 47 of 79
+Trans ID: LCV20251851511
+2
+BOROUGH OF ORADELL
+:
+.
+BERGEN COUNTY, NEW JERSEY
+:
+ORDINANCE #19-02
+|
+This ordinance published herewith was introduced and passed upon first reading at
+a meeting of the Borough Council of the Borough of Oradell, in the County of Bergen and
+State of New Jersey, held on January 22, 2019.
+It will be further considered for final passage
+after public hearing thereon, at a Public Meeting of said Borough Council to be held in the
+Town Hall, in said Borough, on February 26, 2019 at 7:30 PM, and during the week prior to
+and up to and including the date of such meeting, copies of said ordinance will be made
+available at the Clerk's Office in said Borough Hall to the members of the general public who
+shall request the same.
+( oT”
+ZAURt J. LYONS, CPM, RMC, RPPO
+—~“
+ADMINISTRATOR/MUNICIPAL CLERK
+‘
+1
+,
+
+===== PAGE 48 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 48 of 79
+Trans ID: LCV20251851511
+|
+j
+BOROUGH OF ORADELL
+ORDINANCE
+#19-02
+AN ORDINANCE OF THE BOROUGH OF ORADELL ADDING CHAPTER 61
+TO THE ORADELL BOROUGH CODE, WHICH WILL BE ENTITLED
+.
+“AFFORDABLE HOUSING ORDINANCE”, TO ADDRESS THE
+REQUIREMENTS OF THE FAIR HOUSING ACT AND THE UNIFORM
+HOUSING AFFORDABILITY CONTROLS (GHAC) REGARDING
+:
+COMPLIANCE WITH THE BOROUGH’S AFFORDABLE HOUSING
+OBLIGATIONS
+NOW, THEREFORE, BE IT ORDAINED by the Council of the Borough of Oradell,
+,
+Bergen County, New Jersey, as follows:
+Section 1.
+Chapter 61 of the Code of the Borough of Oradell entitled “Affordable —
+-
+Housing Ordinance” is hereby created and established to read as follows:
+Chapter 61: Affordable Housing Ordinance
+;
+§61-1 Purpose.
+A. This Ordinance is intended to assure that low- and moderate-income units ("affordable
+units") are created with controls on affordability and that low- and moderate-income
+households shall occupy these units, This Ordinance shall apply except where inconsistent
+with applicable law.
+B. The Borough of Oradell Planning Board has adopted a Housing Element and Fair Share
+Plan pursuant to the Municipal Land Use Law at N.J.S.A. 40:55D-1, et seq. (hereinafter
+“Fair Share Plan”). The Fair Share Plan was subsequently endorsed by the governing body.
+The Fair Share Plan describes how the Borough of Oradell shall address its fair share of
+low- and moderate-income housing as documented in the Fair Share Plan itself, the
+Settlement Agreement entered into between the Borough and Fair Share Housing Center
+(“FSHC”) on June 18, 2018 (hereinafter “FSHC Settlement Agreement”), and the Court
+Order approving same, which was entered by the Court on July 24, 2018 after a properly
+noticed Fairness Hearing.
+:
+C. The Borough of Oradell shall track the status of the implementation ofthe Fair Share Plan.
+}
+§61-2 Monitoring and Reporting Requirements.
+2
+
+===== PAGE 49 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 49 of 79
+Trans ID: LCV20251851511
+}
+The Borough of Oradell shall comply with the following monitoring and reporting requirements
+.
+regarding the status ofthe implementation of its Court-approved Housing Element and Fair Share
+Plan:
+A. Beginning one year after the entry of the Borough’s Round 3 Judgment of Compliance and
+Repose, and on every anniversary of that date through 2025, the Borough agrees to provide
+‘annual reporting of its Affordable Housing Trust Fund activity to the New Jersey
+Department of Community Affairs, Council on Affordable Housing, or Local Government
+Services, or other entity designated by the State of New Jersey, with a copy provided to
+Fair Share Housing Center (FSHC) and posted on the municipal website, using forms
+developed for this purpose by the New Jersey Department of Community Affairs
+(NJDCA), Council on Affordable Housing (COAH), or Local Government Services
+(NJLGS). The reporting shall include an accounting of all Affordable Housing Trust Fund
+activity, including the source and amount of funds collected and the amount and purpose
+for which any funds have been expended.
+B. Beginning one year after the entry of the Borough’s Round 3 Judgment of Compliance and
+;
+Repose, and on every anniversary ofthat date through 2025, the Borough agrees to provide
+annual reporting of the status of all affordable housing activity within the nmunicipality
+through posting on the municipal website with a copy of such posting provided to Fair
+Share Housing Center, using forms previously developed for this purpose by COAH, or
+.
+any other forms endorsed by the Court Appointed Special Master and FSHC.
+C. The Fair Housing Act includes two provisions regarding action to be taken by the Borough
+during its ten-year repose period. The Borough will comply with those provisions as
+follows:
+(1) For the midpoint realistic opportunity review due on July 2, 2020, as required pursuant
+to N.J.S.A, 52:27D-313, the Borough will post on its municipal website, with a copy
+provided to Fair Share Housing Center, a status report as to its implementation of its
+Plan and an analysis of whether any unbuilt sites or unfulfilled mechanisms continue
+to present a realistic opportunity and whether
+the mechanisms to meet unmet need
+should be revised or supplemented.
+Such posting shall invite any interested party to
+submit comments to the Borough, with a copy to Fair Share Housing Center, regarding
+.
+whether any sites no longer present a realistic opportunity and should be replaced and
+whether the mechanisms to meet unmet need should be revised or supplemented. Any
+interested party may by motion request a hearing before the Court regarding these
+issues,
+;
+(2) For the review of very low income housing requirements required by N.J.S.A. 52:27D-
+329.1, within 30 days of the third anniversary of the entry of the Borough’s Judgement
+:
+of Compliance and Repose, and every third year thereafter, the Borough will post on
+.
+its municipal website, with a copy provided to Fair Share Housing Center, a status
+,
+report as to its satisfaction of its very low income requirements, including the family
+y
+very low income requirements referenced herein.
+Such posting shall invite any
+3
+.
+
+===== PAGE 50 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 50 of 79
+Trans ID: LCV20251851511
+.
+interested party to submit comments to the Borough and Fair Share Housing Center on
+;
+the issue of whether the Borough has complied with its very low income housing
+obligation under the terms of this settlement.
+(3) In addition to the foregoing postings, the Borough may also elect to file copies of its
+reports with COAH or its successor agency at the State level.
+§61-3 Definitions.
+The following terms when used in this Ordinance shall have the meanings given in this Section:
+“Act” means the Fair Housing Act of 1985, P-L. 1985, c. 222 (N.LS.A. 52:27D-301 et seq.) as has
+been subsequently amended.
+“Adaptable” means constructed in compliance with the technical design standards of the Barrier
+Free Subcode, N.J.A.C. 5:23-7.
+“Administrative agent” means the entity responsible for the administration of affordable units in
+accordance with this ordinance,
+applicable COAH regulations and the Uniform Housing
+Affordability Controls (UHAC)(N.LA.C. 5:80-26.1 et seq.)
+“Affirmative marketing” means a regional marketing strategy designed to attract buyers and/or
+renters of affordable units pursuant to N.J.A.C. 5:80-26.15.
+‘
+“Affordability average” means the average percentage ofmedian income at which restricted units
+in an affordable housing development are affordable to low- and moderate-income households.
+“Affordable” means, a sales price or rent within the means of a low- or moderate-income
+household as defined by COAH in its applicable regulations or an equivalent controlling New
+Jersey state agency; in the case of an ownership unit, that the sales price for the unit conforms to
+the standards set forth in N.J.A.C. 5:80-26.6, as may be amended and supplemented, and, in the
+case of a rental unit, that the rent for the unit conforms to the standards set forth in N.J.A.C. 5:80-
+26.12, as may be amended and supplemented.
+“Affordable development” means a housing development all or a portion of which consists of
+restricted units.
+“Affordable. housing development” means a development included in the Borough’s Fair Share
+Plan, and includes, but is not limited to, an inclusionary development, a municipal construction
+;
+project or a 100 percent affordable development.
+“Affordable housing program(s)” means any mechanism in the Borough’s Fair Share Plan
+prepared or implemented to address the Borough’s fair share obligation.
+:
+“Affordable unit” means a housing unit proposed or created pursuant to the Act, credited pursuant
+to applicable COAH regulations, the FSHC Settlement Agreement, or an order ofthe Court.
+;
+;
+4
+
+===== PAGE 51 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 51 of 79
+Trans ID: LCV20251851511
+“Agency” means the New Jersey Housing and Mortgage Finance Agency established by P.L. 1983,
+5
+c. 530 (N.IS.A. 55:14K-1, et seq.).
+“A ge-restricted unit” means a housing unit designed to.meet the needs of, and exclusively for, the
+residents of an age-restricted segment of the population such that: {) all the residents of the
+development where the unit is situated are 62 years or older; or 2) at least 80 percent of the units
+are occupied
+by one person that is 55 years or older; or 3) the development has been designated by
+the Secretary of the U.S. Department of Housing and Urban Development as “housing for older
+persons” as defined in Section 807(b)(2) of the Fair Housing Act, 42 U.S.C. § 3607.
+“Assisted living residence” meansa facility licensed by the New Jersey Department ofHealth and
+Senior Services to provide apartment-style housing and congregate dining and to assure that
+assisted living services are available when needed for four or more adult persons unrelated to the
+proprietor and that offers units containing, at a minimum, one unfurnished room, a private
+bathroom, a kitchenette and a lockable door on the unit entrance.
+“Certified household” means a household that has been certified by an Administrative Agent as a
+low-income household or moderate-income household.
+“COAH” means the New Jersey Council on Affordable Housing.
+“The Department” means the Department of Community Affairs of the State ofNew Jersey, that
+,
+was established under the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.).
+,
+“DCA” means the State ofNew Jersey Department of Community Affairs.
+“Deficient housing unit” means a housing unit with health and safety code violations that require
+the repair or replacement of a major system. A major system includes weatherization, roofing,
+plumbing (including wells), heating, electricity, sanitary plumbing (including septic systems), lead
+paint abatement and/or load bearing structural systems.
+.
+“Developer” means any person, partnership, association, company or corporation that is the legal
+or beneficial owner or owners of a lot or any land proposed to be included in a proposed
+development including the holder of an option to contract or purchase, or other person having an
+enforceable proprietary interest in such land.
+“Development” means the division of a parcel of land into two or more parcels, the construction,
+reconstruction, conversion, structural alteration, relocation, or enlargement of any use or change
+-
+in the use of any building or other structure, or of any mining, excavation or landfill, and any use
+or change in the use of any building or other structure, or land or extension of use of land, for
+which permission may be required pursuant to N.I.S.A. 40:55D-1 et seq.
+;
+“Inclusionary development” means a development containing both affordable units and market
+.
+rate units.
+Inclusionary developments must have a minimum twenty (20) percent set aside of
+affordable units if the development has five or more units and is a for-sale project, or
+a minimum
+}
+fifteen (15) percent set-aside if the development is a rental project.
+This term includes, but is not
+5
+
+===== PAGE 52 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 52o0f79
+Trans ID: LCV20251851511
+.
+necessarily limited to: new construction, the conversion of a non-residential structure to residential
+}
+and the creation ofnew affordable units through the reconstruction ofa vacant residential structure.
+“Low-income household” means a household with a total gross annual household income equal to
+50 percent or less of the median household income.
+“Low-income unit” means a restricted unit that is affordable to a low-income household.
+“Major system” means the primary structural, mechanical, plumbing, electrical, fire protection, or
+occupant service components of a building which include but are not limited to, weatherization,
+roofing, plumbing (including wells), heating, electricity, sanitary plumbing (including septic
+systems), lead paint abatement or load bearing structural systems.
+“Market-rate units” means housing not restricted to low- and moderate-income households that
+may sell or rent at any price.
+.
+“Median income” means the median income by household size for the applicable county, as
+adopted annually by the Department.
+“Moderate-income household” means a household with a total gross annual household income in
+excess of 50 percent but less than 80 percent of the median household income.
+;
+“Moderate-income unit” means a restricted unit that is affordable to a moderate-income household.
+\
+,
+“Municipal Housing Liaison” means the employee charged by the governing body with the
+responsibility for oversight and administration of the affordable housing program for Oradell.
+“Non-exempt sale” means any sale or transfer of ownership other than the transfer of ownership
+between husband and wife; the transfer of ownership between former spouses ordered as a result
+:
+of a judicial decree of divorce or judicial separation, but not including sales to third parties; the
+transfer of ownership between family members as a result of inheritance; the transfer of ownership
+through an executor’s deed to a class A beneficiary and the transfer of ownership by court order.
+“Random selection process” means a process by which currently income-eligible households are
+selected for placement in affordable housing units such that no preference is given to one applicant
+over another except for purposes of matching household income and size with an appropriately
+priced and sized affordable unit (e.g., by lottery).
+“Regional asset limit” means the maximum housing value in each housing region affordable to a
+four-person household with an income at 80 percent of the regional median as defined by the
+Department’s adopted Regional Income Limits published annually by the Department.
+“Rehabilitation” means the repair, renovation, alteration or reconstruction of any building or
+:
+structure, pursuant to the Rehabilitation Subcode, N.J.A.C. 5:23-6.
+}
+“Rent” means the gross monthly cost of a rental unit to the tenant, including the rent paid to the
+°
+landlord, as well as an allowance for tenant-paid utilities computed in accordance with allowances
+6
+.
+
+===== PAGE 53 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 53 o0f 79
+Trans ID: LCV20251851511
+.
+published by DCA for its Section 8 program. In assisted living residences, rent does not include
+;
+charges for food and services.
+“Restricted unit” means a dwelling unit, whether a rental unit or ownership unit, that is subject to
+;
+the affordability controls of N.J.A.C. 5:80-26.1, as may be amended and supplemented, but does
+not include a market-rate unit financed under UHORP or MONI.
+“UHAC” means the Uniform Housing Affordability Controls set forth in N.LA.C. 5:80-26.1 et
+seq:
+“Very low-income household” means a household with a total gross annual household income
+equal to 30 percent or less of the median household income.
+“Very low-income unit” means a restricted unit that is affordable to a very low-income household.
+“Weatherization” means building insulation (for attic, exterior walls and crawl space), siding to
+;
+improve energy efficiency, replacement storm windows, replacement storm doors, replacement
+windows and replacement doors, and is considered a major system for rehabilitation.
+861-4 Applicability.
+A. The provisions of this Ordinance shall apply to all affordable housing developments and
+:
+affordable housing units that currently exist and that are proposed to be created within the
+)
+Borough of Oradell pursuant to the Borough's most recently adopted Housing Element and
+Fair Share Plan.
+B. Moreover, this Ordinance shall apply to all developments that contain low-and moderate-
+income housing units, including any currently unanticipated future developments that will
+provide low- and moderate-income housing units.
+§61-5 Phasing Schedule for Inclusionary Zoning.
+In inclusionary developments the following schedule shall be followed:
+Maximum Percentage of Market-Rate
+Minimum Percentage of Low- and
+;
+Units Completed
+Moderate-Income Units Completed
+.
+25
+0
+;
+.
+25+1
+10
+50
+50
+75
+75
+.
+90
+100
+>
+§61-6 New Construction.
+7
+
+===== PAGE 54 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 54o0f79
+Trans ID: LCV20251851511
+.
+A. Low/Moderate Split and Bedroom Distribution of Affordable Housing Units:
+(1) The fair share obligation shall be divided equally between low- and moderate-income
+-_
+units, except that where there is an odd number of affordable housing units, the extra
+unit shall be'a low-income unit. At least 13 percent of all restricted rental units shall
+be very low income units (affordable to a household earning 30 percent or less of
+regional median income by household size).
+The very low income units shall be
+counted as part of the required number of low income units within the development.
+;
+At least 50 percent of the very low income units must be available to families.
+.
+(2) In each affordable development, at least 50 percent of the restricted units within each
+bedroom distribution-shall be very low or low-income units.
+(3) Affordable developments that are not age-restricted shall be structured in conjunction
+,
+;
+with realistic market demands such that:
+(a) The combined number of efficiency and one-bedroom units shall be no greater than
+20 percent of the total low- and moderate-income units;
+:
+(b) At least 30 percent of all low- and moderate-income units shall be two bedroom
+units;
+;
+(c) At least 20 percent of all low- and moderate-income units shall be three bedroom
+}
+units; and
+(d) The remaining units may be allocated among two and three bedroom units at the
+discretion of the developer.
+(4) Affordable developments that are age-restricted shall be structured such that the
+:
+number of bedrooms shall equal the number of age-restricted low- and moderate-
+income units within the inclusionary development.
+This standard may be met by
+having all one-bedroom units or by having a two-bedroom unit for each efficiency unit.
+B. Accessibility Requirements:
+(1) The first floor of all restricted townhouse dwelling units and all restricted units in all
+other multistory buildings shall be subject to the technical design standards of the
+:
+Barrier Free SubCode, N.J.A.C. 5:23-7 and the following:
+(2) All restricted townhouse dwelling units and all restricted units in other multistory
+buildings in which a restricted dwelling unit is attached to at least one other dwelling
+unit shall have the following features:
+(a) An adaptable toilet and bathing facility on the first floor; and
+:
+)
+(b) An adaptable kitchen on the first floor; and
+.
+8
+.
+:
+
+===== PAGE 55 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 55 of 79
+Trans ID: LCV20251851511
+}
+-
+ (c) An interior accessible route of travel on the first floor; and
+(d) An adaptable room that can be used as a bedroom, with a door or the casing for the
+installation of a door, on the first floor; and
+(e) If all of the foregoing requirements in 2.(a) through 2.(d) cannot be satisfied, then
+an interior accessible route of travel must be provided. between stories within an
+individual unit, but if all of the terms of paragraphs 2.(a) through 2.(d) above have
+;
+been satisfied, then an interior accessible route of travel shall not be required
+between stories within an individual unit; and
+(f) An accessible entranceway as set forth at P.L. 2005, c. 350 (N.L.S.A. 52:27D-3 1 1a,
+et seq.) and the Barrier Free SubCode, N.J.A.C. 5:23-7, or evidence that Oradell
+,
+has collected funds from the developer sufficient to make 10 percent of the
+.
+adaptable entrances in the development accessible:
+.
+[1] Where a unit has been constructed with an adaptable entrance, upon the request
+of a disabled person who is purchasing or will reside in the dwelling unit, an
+:
+accessible entrance shall be installed.
+[2] To this end, the builder of restricted units shall deposit funds within the
+©
+\
+Borough of Oradell’s Affordable Housing Trust Fund sufficient to install
+;
+.
+accessible entrances in 10 percent of the affordable units that have been
+:
+constructed with adaptable entrances.
+[3] The funds deposited under paragraph (f)[2] above shall be used by the Borough
+of Oradell for the sole purpose of making the adaptable entrance of an
+affordable unit accessible when requested to do so by a person with a disability
+:
+who occupies or intends to occupy the unit and requires an accessible entrance.
+[4] The developer ofthe restricted units shall submit a design plan and cost estimate
+to the Construction Official of the Borough of Oradell for the conversion of
+adaptable to accessible entrances.
+[5] Once the Construction Official has determined that the design plan to convert
+the unit entrances from adaptable to accessible meet the requirements of the
+Barrier Free SubCode, N.J.A.C. 5:23-7, and that the cost estimate of such
+conversion is reasonable, payment shall be made to the Borough’s Affordable
+Housing Trust Fund in care of the Borough Treasurer who shall ensure that the
+funds are deposited into the Affordable Housing Trust Fund and appropriately
+earmarked.
+(g) Full compliance with the foregoing provisions shall not be required where an entity
+}
+can demonstrate that
+it is “site impracticable”
+to meet the requirements.
+
+===== PAGE 56 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 56 of 79
+Trans ID: LCV20251851511
+%
+Determinations of site impracticability shall be in compliance with the Barrier Free
+}
+-
+SubCode, N.LA.C. 5:23-7.
+C. Design:
+.
+,
+|
+(1) In inclusionary developments, low- and moderate-income units shall be integrated with
+the market units to the extent possible.
+(2) In inclusionary developments, low- and moderate-income units shall have access to all
+of the same common elements and facilities as the market units.
+D. Maximum Rents and Sales Prices:
+(1) In establishing rents and sales prices of affordable housing units, the Administrative
+Agent shall follow the procedures set forth in UHAC, utilizing the most recently
+__
+published regional weighted average ofthe uncapped Section 8 income limits published
+by HUD.
+(2) The maximum rent for restricted rental units within each affordable development shall
+be affordable to households earning no more than 60 percent of median income, and
+the average rent for restricted rental units shall be affordable to households earning no
+more than 52 percent of median income.
+/
+(3) The developers and/or municipal sponsors of restricted rental units shall establish at
+least one rent for each bedroom type for both low-income and moderate-income units,
+provided that at least 13 percent of all low- and moderate-income rental units shall be
+affordable to very low-income households, which very low-income units shall be part
+of the low-income requirement.
+(4) The maximum sales price of restricted ownership units within each affordable
+development shall be affordable to households earning no more than 70 percent of
+median income, and each affordable development must achieve an affordability
+average of 55 percent for restricted ownership units; in achieving this affordability
+average, moderate-income ownership units must be available for at least three different
+sales prices for each bedroom type, and low-income ownership units must be available
+for at least two different sales prices for each bedroom type.
+:
+(5) In determining the initial sales prices and rent levels for compliance with the
+affordability average requirements for restricted units other than assisted living
+facilities and age-restricted developments, the following standards shall be used:
+.
+(a) A studio shall be affordable to a one-person household;
+(b) A one-bedroom unit shall be affordable to a one and one-half person household;
+o
+(c) A two-bedroom unit shall be affordable to a three-person household;
+.
+to
+
+===== PAGE 57 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 57 of 79
+Trans ID: LCV20251851511
+;
+(d) A three-bedroom unit shall be affordable to a four and one-half person household;
+:
+“and
+(e) A four-bedroom unit shall be affordable to a six-person household.
+(6) In determining the initial sales prices and rents for compliance with the affordability
+average requirements for restricted units in assisted living facilities and age-restricted
+developments, the following standards shall be used:
+(a) A studio shall be affordable to a one-person household;
+(b) A one-bedroom unit shall be affordable to a one and one-half person household;
+and
+(c) A two-bedroom unit shall be affordable to a two-person household or to two one-
+person households.
+(7) The initial purchase price for all restricted ownership units shall be calculated so that
+the monthly carrying cost of the unit, including principal and interest (based on a
+mortgage loan equal to 95 pércent of the purchase price and the Federal Reserve H.15
+rate of interest), taxes, homeowner and private’ mortgage insurance and condominium
+y
+or homeowner association fees do not exceed 28 percent ofthe eligible monthly income
+J
+of the appropriate size household as determined under N.J.A.C. 5:80-26.4, as may be
+amended and supplemented; provided, however, that the price shall be subject to the
+affordability average requirement of N.LA.C. 5:80-26.3, as may be amended and
+supplemented.
+(8) The initial rent for a restricted rental unit shall be calculated so as not to exceed 30
+percent of the eligible monthly income ofthe appropriate size household, including an
+allowance for tenant paid utilities, as determined under N.J.A.C. 5:80-26.4, as may be
+amended and supplemented; provided, however, that the rent shall be subject to the
+affordability average requirement of N.J.A.C. 5:80-26.3, as may be amended and
+.
+supplemented.
+(9) Income limits for all units that are part of the Borough’s Housing Element and Fair
+Share Plan, and for which income limits are not already established through a federal
+program exempted from the Uniform Housing Affordability Controls pursuant to
+N.LA.C. 5:80-26.1, shall be updated by the Borough annually within 30 days of the
+publication of determinations of median income by HUD as follows:
+(a) The income limit for a moderate-income unit for a household of four shall be 80”
+.
+percent of the HUD determination of the median income for COAH Region I for a
+°
+family of four.
+The income limit for a low-income unit for a household of four
+5
+shall be 50 percent of the HUD determination of the median income for COAH
+2
+Region 1 for a family of four. The income limit for a very low income unit for a
+ii
+;
+
+===== PAGE 58 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 58 0f 79
+Trans ID: LCV20251851511
+ms
+household of four shall be 30 percent of the HUD determination of the median
+;
+income for COAH Region | for a family of four.
+These income limits shall be
+adjusted by household size based on multipliers used by HUD to adjust median
+income by household size.
+In no event shall the income limits be less than the
+previous year.
+.
+(b) The income limits are based on carrying out the process in paragraph (a) based on
+HUD determination of median income for the current Fiscal Year, and shall be
+utilized by the Borough until new income limits are available.
+(10)In establishing sale prices and rents of affordable housing units, the administrative
+agent shall follow the procedures set forth in UHAC, utilizing the regional income
+limits established by the Council:
+(a) The price of owner-occupied low- and moderate-income units may increase
+annually based on the percentage increase in the regional median income limit for
+each housing region determined pursuant to paragraph (9).
+In no event shall the
+.
+maximum resale price established by the administrative agent be lower than the last
+recorded purchase price.
+(b) The rents ofvery low-, low- and moderate-income units may be increased annually
+based on the permitted percentage increase in the Housing Consumer Price Index
+\
+for the Northern New Jersey Area, upon its publication for the prior calendar year.
+i
+This increase shall not exceed nine percent in any one year.
+Rents for units
+constructed pursuant to low- income housing tax credit regulations shall be indexed
+pursuant to the regulations governing low- income housing tax credits.
+§61-7 Utilities.
+:
+A. Affordable units shall utilize the same type of heating source as market units within an
+inclusionary development.
+B. Tenant-paid utilities included in the utility allowance shall be set forth in the lease and shall
+be consistent with the utility allowance approved by the NIDCA for its Section 8 program.
+§61-8 Occupancy Standards.
+In referring certified households to specific restricted units, the Administrative Agent shall, to the
+extent feasible and without causing an undue delay in the occupancy of a unit, strive to:,
+A. Provide an occupant for each bedroom;
+B. .Provide children of different sexes with separate bedrooms;
+7
+"
+C. Provide separate bedrooms for parents and children; and
+.
+)
+12
+
+===== PAGE 59 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 59 of 79
+Trans ID: LCV20251851511
+~
+D. Prevent more than two persons from occupying a single bedroom.
+§61-9 Control Periods for Restricted Ownership Units and Enforcement Mechanisms.
+A. Control periods for restricted ownership units shall:-be in accordance with N.LA.C. 5:80-
+26.5, as may be amended and supplemented, and each restricted ownership unit shall
+remain subject to the requirements of this Ordinance for a period of at least thirty (30)
+years, until Oradell takes action to release the unit from such requirements; prior to such
+action, a restricted ownership unit must remain subject to the requirements of N.J.A.C.
+5:80-26.1, as may be amended and supplemented.
+B. The affordability control period for a restricted ownership unit shall commence on the date
+the initial certified household takes title to the unit.
+C. Prior to the issuance of the initial certificate of occupancy for a restricted ownership unit
+and upon each successive sale during the period of restricted ownership, the Borough’s
+Administrative Agent, or an Administrative Agent appointed by a particular developer,
+shall determine the restricted price for the unit and shall also determine the non-restricted,
+fair market value of the unit based on either an appraisal or the unit’s equalized assessed
+value without the restrictions in place.
+D. At the time of the initial sale of the unit, the initial purchaser shall execute and deliver to
+,
+the Borough’s Administrative Agent, or an Administrative Agent appointed by a particular
+i
+developer, a recapture note obligating the purchaser (as well as the purchaser’s heirs,
+successors and assigns) to repay, upon the first non-exempt sale after the unit’s release
+from the restrictions set forth in this Ordinance, an amount equal to the difference between
+the unit’s non-restricted fair market value and its restricted price, and the recapture note
+shall be secured by a recapture lien evidenced by a duly recorded mortgage on the unit.
+E. The affordability controls set forth in this Ordinance shall remain in effect despite the entry
+and enforcement of any judgment of foreclosure with respect to restricted ownership units.
+F. A restricted ownership unit shall be required to obtain a Continuing Certificate of
+Occupancy or a certified statement from the Construction Official stating that the unit
+meets all Code standards upon the first transfer of title following the removal of the
+restrictions provided under N.J.A.C. 5:80-26.5(a), as may be amended and supplemented.
+§61-10 Price Restrictions for Restricted Ownership Units, Homeowner Association Fees and
+Resale Prices.
+Price-restrictions for restricted ownership units shall be in accordance with N.J.A.C. 5:80-26.1, as
+may be amended and supplemented, including:
+A. The initial purchase price for a restricted ownership unit shall be approved by the
+,
+Borough’s Administrative Agent, or an Administrative Agent appointed by a particular
+J
+developer.
+:
+13
+.
+
+===== PAGE 60 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 60 of 79
+Trans ID: LCV20251851511
+j
+B. The Borough’s Administrative ‘Agent, or an Administrative Agent appointed by a particular
+developer, shall approve all resale prices, in writing and in advance of the resale, to assure
+compliance with the foregoing standards.
+,
+_
+C. The master deeds of inclusionary developments shall provide no distinction between the
+condominium or homeowner association fees and special assessments paid by low- and
+moderate-income purchasers arid those paid by market purchasers, unless the master deed
+for the inclusionary project was executed prior to the enactment of UHAC.
+D. The owners of restricted ownership units may apply to the Borough’s Administrative
+Agent, or an Administrative Agent appointed by a particular developer, to increase the
+maximum sales price for the unit on the basis of anticipated capital improvements. Eligible
+capital improvements shall be those that render the unit suitable for a larger household or
+the addition of a bathroom.
+§61-11 Buyer Income Eligibility.
+.
+A. Buyer income eligibility for restricted ownership units shall be in accordance with N.L.A.C.
+5:80-26.1, as may be amended and supplemented, such that low-income ownership units
+shall be reserved for households with a gross household income less than or equal to 50
+percent of median income and moderate-income ownership units shall be reserved for
+.
+households with a gross household income less than 80 percent of median income.
+B. The Administrative Agent shall certify a household as eligible for a restricted ownership
+unit when the household is a low-income household or a moderate-income household, as
+.
+applicable to the unit, and the estimated monthly housing cost for the particular unit
+(including principal, interest, taxes, homeowner and private mortgage insurance and
+condominium or homeowner association fees, as applicable) does not exceed 33 percent of
+:
+the household’s eligible monthly income.
+§61-12 Limitations on Indebtedness Secured by Ownership Unit; Subordination.
+A. Prior to incurring any indebtedness to be secured bya restricted ownership unit, the owner
+shall apply to the Borough’s Administrative Agent, or an Administrative Agent appointed
+by a particular developer, for a determination in writing that the proposed indebtedness
+complies with the provisions of this Section, and the Borough’s Administrative Agent, or
+an
+Administrative
+Agent
+appointed
+by
+a
+particular
+developer,
+shall
+issue
+such
+determination prior to the owner incurring such indebtedness.
+B. With the exception of First Purchase Money Mortgages, neither an owner nora lender shall
+at any time cause or permit the total indebtedness secured by a restricted ownership unit to
+:
+exceed 95 percent of the maximum allowable resale price of the unit, as such price is
+:
+determined by the Borough’s Administrative Agent, or an Administrative Agent appointed
+,
+by a particular developer, in accordance with N.J.A.C. 5:80-26.6(b).
+14
+:
+
+===== PAGE 61 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 61 of 79
+Trans ID: LCV20251851511
+.
+§61-13 Capital Improvements To Ownership Units.
+A. The owners of restricted ownership units may apply to the Borough’s Administrative
+Agent, or an Administrative Agent appointed by a particular developer, to increase the
+maximum sales price for the unit on the basis of capital improvements made since the
+purchase of the unit.
+Eligible capital improvements shall be those that render the unit
+suitable for a larger household or that add an additional bathroom.
+In no event shall the
+maximum sales price of an improved housing unit exceed the limits of affordability for the
+larger household.
+B. Upon the resale of a restricted ownership unit, all items of property that are permanently
+affixed to the unit or were included when the unit was initially restricted (for example,
+refrigerator, range, washer, dryer, dishwasher, wall-to-wall carpeting) shall be included in
+the maximum allowable resale price.
+Other items may be sold to the purchaser at a
+reasonable price that has been approved by the Borough’s Administrative Agent, or an
+Administrative Agent appointed by a particular developer, at the time of the signing of the
+agreement to purchase.
+The purchase of central air conditioning installed subsequent to
+the initial sale of the unit and not included in the base price may be made a condition of
+the unit resale provided the price, which shall be subject to
+10-year,
+straight-line
+depreciation,
+has been
+approved
+by
+the Borough’s
+Administrative
+Agent,
+or
+an
+.
+Administrative Agent appointed by a particular developer. Unless otherwise approved by
+the Borough’s Administrative Agent, or an Administrative Agent appointed by a particular
+.
+developer, the purchase of any property other than central air conditioning shall not be
+;
+made a condition of the unit resale. The owner and the purchaser must personally certify
+at the time of closing that no unapproved transfer of funds for the purpose of selling and
+receiving property has taken place at the time-of or as a condition of resale.
+§61-14 Control Periods for Restricted Rental Units.
+A. Control periods for restricted rental units shall be in accordance with N.J.A.C. 5:80-26.11,
+.
+as may be amended and supplemented, and each restricted rental unit shall remain subject
+to the requirements of this Ordinance for a period of at least 30 years, until Oradell takes
+action to release the unit from such requirements.
+Prior to such action, a restricted rental
+unit must remain subject to the requirements of N.J.A.C. 5:80-26.1,.as may be amended
+.
+and supplemented.
+B. Deeds of all real property that include restricted rental units shall contain deed restriction
+language. The deed restriction shall have priority over all mortgages on the property, and
+the deed restriction shali be filed by the developer or seller with the records office of the
+County of Bergen. A copy of the filed document shall be provided to the Borough’s
+Administrative Agent within 30 days of the receipt of a Certificate of Occupancy.
+_-C. Arestricted rental unit shall remain subject to the affordability controls of this Ordinance
+.
+;
+despite the occurrence of any of the following events:
+L
+;
+(1) Sublease or assignment of the lease of the unit;
+15
+
+===== PAGE 62 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 62 o0f79
+Trans ID: LCV20251851511
+j
+(2) Sale or other voluntary transfer of the ownership of the unit; or
+(3) The entry and enforcement of any judgment of foreclosure on the property containing
+the unit.
+§61-15 Rent Restrictions for Rental Units; Leases.
+A. A written lease shall be required for all restricted rental units and tenants shall be
+:
+responsible for security deposits and the full amount of the rent as stated on the lease. A
+copy of the current lease for each restricted rental unit shall be provided to the Borough’s
+Administrative Agent, or an Administrative Agent appointed by a particular developer.
+B. No additional fees or charges shall be added to the approved rent (except; in the case of
+units in an assisted living residence, to cover the customary charges for food and services)
+without the express written approval of the Borough’s Administrative Agent, or an
+Administrative Agent appointed by a particular developer.
+.
+C. Application fees (including the charge for any credit check) shall not exceed five percent
+of the monthly rent of the applicable restricted unit and shall be payable to the Developer
+and/or Landlord or to the Borough’s Administrative Agent, or an Administrative Agent
+appointed by a particular developer.
+If the fees are paid to the Borough’s Administrative
+-
+Agent or an Administrative Agent appointed by a particular developer they are to be
+/
+applied to the costs of administering the controls applicable to the unit as set forth in this
+Ordinance.
+D. No rent control ordinance or other pricing restriction shall be applicable to either the market
+units or the affordable units in any development in which at least 15 percent of the total
+number of dwelling units are restricted rental units in compliance with this Ordinance.
+§61-16 Tenant Income Eligibility.
+A. Tenant income eligibility shall be in accordance with N.LA.C. 5:80-26.13, as may be
+amended and supplemented, and shall be determined as follows:
+(1) Very low-income rental units shall be reserved for households with a gross household
+income less than or equal to 30 percent of the regional median household income by
+household size.
+(2) Low-income rental units shall be reserved for households with a gross household
+‘
+,
+income less than or equal to 50 percent of the regional median household income by
+household size.
+(3) Moderate-income rental units shall be reserved for households with a gross household
+0
+income less than 80 percent of the regional median household income by household
+2
+size.
+;
+16
+,
+
+===== PAGE 63 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 63o0f 79
+Trans ID: LCV20251851511
+.
+B. The Borough’s Administrative Agent, or an Administrative Agent appointed by a particular
+developer, shall certify a household as eligible for a restricted rental unit when the
+household is a very low-income household, low-income household or a moderate-income
+household, as applicable to the unit, and the rent proposed for the unit does not exceed 35
+percent (40 percent for age-restricted units) of the household’s eligible monthly income as
+determined pursuant to N.J.A.C. 5:80-26.16, as may be amended and supplemented;
+provided, however, that this limit may be exceeded if one or more of the following
+circumstances exists:
+(1) The household currently pays more than 35 percent (40 percent for households eligible
+for age-restricted units) of its gross household income for rent, and the proposed rent
+will reduce its housing costs;
+(2) The household has consistently paid more than 35 percent (40 percent for households
+eligible for age-restricted units) of eligible monthly income for rent in the past and has
+proven its ability to pay;
+(3) The household is currently in substandard or overcrowded living conditions;
+(4) The household documents the existence of assets with which the household proposes
+to supplement the rent payments; or
+,
+(5) The household documents reliable anticipated third-party assistance from an outside
+J
+source such as a family member in a form acceptable to the Administrative Agent and
+the owner of the unit.
+C, The applicant shall
+file documentation
+sufficient to
+establish the existence of the
+circumstances in A.1. through B.5. above with the Borough’s Administrative Agent, or an
+Administrative Agent appointed by a particular developer, who shall counsel the household
+on budgeting.
+§61-17 Municipal Housing Liaison.
+A. The position of Municipal Housing Liaison (MHL) for the Borough of Oradell
+is
+established by this ordinance. The Borough shall make the actual appointment ofthe MHL
+by means of a resolution.
+(1) The MHL must be either a full-time or part-time employee of Oradell.
+(2) The person appointed as the MHL must be reported to the Court and thereafter posted
+on the Borough’s website.
+(3) The MHL must meet all the requirements for qualifications, including initial and
+:
+;
+periodic training, if such training is made available by COAH or the DCA.
+4
+17
+
+===== PAGE 64 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 64 o0f 79
+Trans ID: LCV20251851511
+"
+(4) The Municipal Housing Liaison shall be responsible for oversight and administration
+;
+i
+of the affordable housing program for the Borough of Oradell, including the following
+responsibilities which may not be contracted out to the Administrative Agent, or the
+Administrative Agent appointed by a specific developer:
+(a) Serving as the municipality’s primary point of contact for all inquiries from the
+State,
+affordable
+housing
+providers,
+Administrative
+Agents
+and
+interested
+households;
+:
+(b) The implementation of the Affirmative Marketing Plan and affordability controls;
+(c) When applicable, supervising any contracting Administrative Agent;
+(d) Monitoring the status of all restricted units in the Borough’s Fair Share Plan;
+(e) Compiling, verifying and submitting annual reports as required;
+(f) Coordinating meetings with affordable housing providers and Administrative
+Agents, as applicable; and
+(g) Attending continuing education opportunities on affordability controls, compliance
+monitoring and affirmative marketing as offered or approved by the Affordable
+.
+Housing Professionals of New Jersey (AHPNJ), if such continuing education
+;
+opportunities are made available by COAH or the DCA.
+B.
+Subject to the approval of the Court, the Borough of Oradell shall designate one or more
+Administrative Agent(s) to administer and to affirmatively market the affordable units
+constructed in the Borough in accordance with UHAC and this Ordinance. An Operating
+Manual for each affordable housing program shall be provided by the Administrative
+:
+Agent(s) to be adopted by resolution of the governing body and may be subject to approval
+of the Court appointed Special Master-or the Court.
+.The Operating Manual(s) shall be
+available for public inspection in the office of the Borough Clerk, in the office of the
+Municipal Housing Liaison, and in the office(s) of the Administrative Agent(s).
+The
+Municipal Housing Liaison shall supervise the work of the Administrative Agent(s).
+§61-18 Administrative Agent.
+An Administrative Agent may be either an independent entity serving under contract to and
+reporting to the Borough, or reporting to a specific individual developer.
+The fees of the
+Administrative Agent shall be paid by the owners of the affordable unitsfor which the services
+ofthe Administrative Agent are required. The Borough Administrative Agent shall monitor and
+work with any individual Administrative Agents appointed by individual developers.
+The
+Administrative Agent(s) shall perform the duties and responsibilities of an Administrative Agent
+r
+as set forth in UHAC, including those set forth in Sections 5:80-26.14, 16 and 18 thereof, which
+\
+includes:
+-
+18
+
+===== PAGE 65 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 65o0f79
+Trans ID: LCV20251851511
+%
+A. Affirmative Marketing:
+_
+(1) Conducting an outreach process to affirmatively market affordable housing units in
+accordance with the Affirmative Marketing Plan of the Borough of Oradell and the
+provisions ofN.J.A.C. 5:80-26.15; and
+(2) Providing counseling or contracting to provide counseling services to low- and
+moderate-income applicants on subjects such as budgeting, credit issues, mortgage
+qualification, rental lease requirements, and landlord/tenant law.
+B.
+Household Certification:
+(1) Soliciting, scheduling, conducting and following up on interviews with interested
+households;
+(2) Conducting interviews and obtaining sufficient documentation of gross income and
+assets upon which to base a determination of income eligibility for a low- or moderate-
+income unit;
+:
+(3) Providing written notification to each applicant as to the determination of eligibility or
+non-eligibility;
+.
+(4) Requiring that
+all
+certified applicants
+for restricted units execute a
+certificate
+5
+substantially in the form, as applicable, of either the ownership or rental certificates set
+/
+forth in Appendices J and K of N.J.A.C. 5:80-26.1 et seq.;
+(5) Creating and maintaining a referral list of eligible applicant households living in the
+housing region and eligible applicant households with members working in the housing
+region where the units are located;
+.
+(6) Employing a random selection process as provided in the Affirmative Marketing Plan
+of the Borough of Oradell when referring households for certification to affordable
+units; and
+(7) Notifying the following entities of the availability of affordable housing units in the
+Borough of Oradell: Fair Share Housing Center, the New Jersey State Conference of
+the NAACP, the Latino Action Network, the Bergen County Branch of the NAACP,
+Senior Citizens United Community Services (S.C.U.C.S.), and the Supportive Housing
+Association.
+C.
+Affordability Controls:
+(1) Furnishing to attorneys or closing agents forms of deed restrictions and mortgages for
+recording at the time of conveyance of title of each restricted unit;
+7
+\
+(2) Creating and maintaining a file on each restricted unit for its control period, including
+é
+the recorded deed with restrictions, recorded mortgage and note, as appropriate;
+19
+
+===== PAGE 66 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 66 of 79
+Trans ID: LCV20251851511
+)
+(3) Ensuring that the removal ofthe deed restrictions and cancellation ofthe mortgage note
+are effectuated and properly filed with the Bergen County Register of Deeds or Bergen
+~
+County Clerk’s office after the termination of the affordability controls for each
+restricted unit;
+(4) Communicating with lenders regarding foreclosures; and
+;
+-
+(5) Ensuring the issuance of Continuing Certificates of Occupancy or certifications
+pursuant to N.LA.C. 5:80-26.10.
+;
+D. Resales and Re-rentals:
+(1) Instituting and maintaining an effective means of communicating information between
+owners and the Borough’s Administrative Agent,
+or any Administrative Agent
+appointed by a specific developer, regarding the availability ofrestricted units for resale
+or re-rental; and
+(2) instituting and maintaining an effective means of communicating information to low-
+(or very low-) and moderate-income households regarding the availability of restricted
+units for resale or re-rental.
+.
+E.
+Processing Requests from Unit Owners:
+(1) Reviewing and approving requests for determination from owners of restricted units
+who wish to take out home equity loans or refinance during the term of their ownership
+that the amount of indebtedness to be incurred will not violate the terms of this
+Ordinance;
+:
+(2) Reviewing and approving requests to increase sales prices from owners of restricted
+units who wish to make capital improvements to the units that would affect the selling
+price, such authorizations to be limited to those improvements resulting in additional
+bedrooms or bathrooms and the depreciated cost of central air conditioning systems;
+(3) Notifying the municipality of an owner’s intent to sell a restricted unit; and
+(4) Making determinations on requests by owners of restricted units for hardship waivers.
+F.
+Enforcement:
+(1) Securing annually from the municipality a list of all affordable housing units for which
+tax bills are mailed to absentee owners, and notifying all such owners that they must
+either move back to their unit or sell it;
+~
+'
+(2) Securing from all developers and sponsors of restricted units, at the earliest point of
+a
+contact in the processing of the project or development, written acknowledgement of
+;
+20
+
+===== PAGE 67 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 67 of 79
+Trans ID: LCV20251851511
+7
+the requirement that no restricted unit can be offered, or in any other way committed,
+:
+to any person, other than a household duly certified to the unit by the Borough’s
+Administrative Agent, or any Administrative Agent appointed by a specific developer;
+(3) Posting annually, in all rental properties (including two-family homes), a notice as to
+the -maximum permitted rent together with the telephone number of the Borough’s
+Administrative Agent, or any Administrative Agent appointed by a specific developer,
+where complaints of excess rent or other charges can be made;
+(4) Sending annual mailings to all owners of affordable dwelling units, reminding them of
+the notices and requirements outlined in N.LA.C. 5:80-26.18(d)4;
+(5) Establishing a program for diverting unlawful rent payments to the Borough's
+Affordable Housing Trust Fund; and
+(6) Creating and publishing a written operating manual for each affordable housing
+program administered by the Borough’s Administrative Agent, or any Administrative
+Agent appointed by a specific developer, to be approved by the Borough Council and
+the Court, setting forth procedures for administering the affordability controls.
+G. Additional Responsibilities:
+.
+(1) The Borough’s Administrative Agent shall have the authority to take all actions
+5
+necessary and appropriate to carry out its responsibilities hereunder.
+(2) The Borough’s Administrative Agent shall prepare monitoring reports for submission
+to the Municipal Housing Liaison in time to meet the Court-approved monitoring and
+reporting requirements in accordance with the deadlines set forth in this Ordinance.
+The Borough’s Administrative Agent will be responsible for collecting monitoring
+information from any Administrative Agents appointed by specific developers.
+(3) The Borough’s Administrative Agent, or any Administrative Agent appointed by a
+specific developer, shall attend continuing education sessions on affordability controls,
+compliance monitoring, and affirmative marketing at least annually and more often as
+needed.
+§61-19 Affirmative Marketing Requirements.
+;
+A. The Borough of Oradell shall adopt by resolution an Affirmative Marketing Plan, that is
+compliant with N.L.A.C. 5:80-26.15, as may be amended and supplemented.
+B. The Affirmative Marketing Plan is a regional marketing strategy designed to attract buyers
+and/or renters of all majority and minority groups, regardless of race, creed, color, national
+:
+-
+origin, ancestry, marital or familial status, gender, affectional or sexual orientation,
+disability, age or number of children to housing units which are being marketed by a
+;
+)
+developer, sponsor or owner of affordable housing.
+The. Affirmative Marketing Plan is
+;
+intended. to target those potentially eligible persons who are least likely to apply for
+;
+21
+
+===== PAGE 68 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 68 of 79
+Trans ID: LCV20251851511
+%
+affordable units in that region. It is a continuing program that directs marketing activities
+7
+toward Housing Region
+1 and
+is required to be followed throughout the period of
+restriction.
+.
+;
+C. The Affirmative Marketing Plan shall provide a regional preference for all households that
+live and/or work in Housing Region 1, comprised of Bergen, Hudson, Passaic and Sussex
+Counties.
+D. The Borough has the ultimate responsibility for adopting the Affirmative Marketing Plan
+and for the proper administration of the Affirmative Marketing Program, including initial
+sales and rentals and re-sales and re-rentals.
+The Borough’s Administrative Agent
+designated by the Borough ofOradell, or any Administrative Agent appointed by a specific
+developer, shall implement the Affirmative Marketing Plan to assure the affirmative
+marketing of all affordable units.
+;
+E. Inimplementing the Affirmative Marketing Plan, the Borough’s Administrative Agent, or
+any Administrative Agent appointed by a specific developer, shall provide a list of
+counseling services to low- and moderate-income applicants on subjects such as budgeting,
+credit issues, mortgage qualification, rental lease requirements, and landlord/tenant law.
+F. The Affirmative Marketing Plan shall describe the media to be used in advertising and
+publicizing the availability of housing. In implementing the Affirmative Marketing Plan,
+’
+the Borough’s Administrative Agent, or any Administrative Agent appointed by a specific
+:
+developer, shall consider the use of language translations where appropriate.
+G. The affirmative marketing process for available affordable units shall begin at least four
+months (120 days) prior to the expected date of occupancy.
+H. Applications for affordable housing shall be available in several locations, including, at a
+minimum, the County Administration Building and/or the County Library for each county
+within the housing region; the municipal administration building and the municipal library
+in the municipality in which the units are located; and the developer's rental office.
+Applications shall be mailed to prospective applicants upon request.
+I.
+The costs of advertising and affirmative marketing of the affordable units shall be the
+responsibility of the developer, sponsor or owner.
+§61-20 Enforcement of Affordable Housing Regulations.
+A. Upon the occurrence of a breach of any of the regulations governing an affordable unit by
+;
+an Owner, Developer or Tenant, the municipality shall have all remedies provided at law
+or equity, including but not limited to foreclosure, tenant eviction, a requirement for
+household recertification, acceleration of all sums due under a mortgage, recoupment of
+.
+any funds froma sale in violation of the regulations, injunctive relief to prevent further
+‘
+_
+violation ofthe regulations, entry on the premises, and specific performance.
+.
+22
+
+===== PAGE 69 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 69 of 79
+Trans ID: LCV20251851511
+i
+»
+B. After providing written notice of a violation to an Owner, Developer or Tenant of a low-
+,
+or moderate-income unit and advising the Owner, Developer or Tenant ofthe penalties for
+such violations, the municipality may take the following action(s) against the. Owner,
+Developer or Tenant for any violation that remains uncured for a period of 60 days after
+service of the written notice:
+(1) The municipality may file a court action pursuant to N.J.S.A. 2A:58-11 alleging a
+violation or violations of the regulations governing the affordable housing unit. If the
+Owner, Developer or Tenant is adjudged by the Court to have violated any provision
+of the regulations governing affordable housing units the Owner, Developer or Tenant
+shall be subject to one or more ofthe following penalties, at the discretion ofthe Court:
+(a) A fine of not more than $2,000.00 per day or imprisonment for a period not to
+exceed 90 days, or both, provided that each and every day that the violation
+continues or exists shall be considered a separate and specific violation of these
+provisions and not a continuation of the initial offense;
+(b) In the case of an Owner who has rented a low- or moderate-income unit in violation
+ofthe regulations governing affordable housing units, payment into the Borough of
+Oradell Affordable Housing Trust Fund of the gross amount of rent illegally
+collected;
+.
+(c) In the case of an Owner who has rented a low- or moderate-income unit in violation
+i
+of the regulations governing affordable housing units, payment of an innocent
+tenant's reasonable relocation costs, as determined by the Court.
+(2) The municipality may file a court action in the Superior Court seeking a judgment that
+would result in the termination of the Owner's equity or other interest in the unit, in the
+nature of a mortgage foreclosure. Any such judgment shall be enforceable as if the
+same were a judgment of default of the First Purchase Money Mortgage and shall
+constitute a lien against the low- or moderate-income unit.
+(a) The judgment shall be enforceable, at the option of the municipality, by means of
+an execution sale by the Sheriff, at which time the low- and moderate-income unit
+ofthe violating Owner shall be sold at a sale price which is not less than the amount
+necessary to fully satisfy and pay off any First Purchase Money Mortgage and prior
+liens and the costs of the enforcement proceedings incurred by the municipality,
+including attorney's fees. The violating Owner shall have his right to possession
+terminated as well as his title conveyed pursuant to the Sheriff's sale.
+(b) The proceeds of the Sheriff's sale shall first be applied to satisfy the First Purchase
+Money Mortgage lien and any prior liens upon the low- and moderate-income unit.
+The excess, if any, shall be applied to reimburse the municipality for any and all
+:
+costs and expenses incurred in connection with either the court action resulting in
+‘
+.
+‘the judgment of violation or the Sheriff's sale. In the event that the proceeds from
+3
+the Sheriff's sale are insufficient to reimburse the municipality in full as aforesaid,
+23
+
+===== PAGE 70 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 70 of 79
+Trans ID: LCV20251851511
+5
+the violating Owner shall be personally responsible for the full extent of such
+,
+deficiency, in addition to any and all costs incurred by the municipality in
+connection with collecting such deficiency.. In the event that a surplus remains after
+satisfying all of the above; such surplus, if any, shall be placed in escrow by the
+municipality for the Owner and shall be held in such escrow for a maximum period
+of two years or until such earlier time as the Owner shall make a claim with the
+municipality for such. Failure of the Owner to claim such balance within the two-
+year period shall automatically result in a forfeiture of such balance to the
+'
+municipality. Any interest accrued or earned on such balance while being held in
+escrow shall belong to and shall be paid to the municipality, whether such balance
+shall be paid to the Owner or forfeited to the municipality.
+(c) Foreclosure by the municipality due to violation of the regulations governing
+affordable housing units shall not extinguish the restrictions of the regulations
+governing affordable housing units as the same apply to the low- and moderate-
+income unit.
+Title shall be conveyed to the purchaser at the Sheriff's sale, subject
+to the restrictions and provisions of the regulations governing the affordable
+housing unit. The Owner determined to be in violation of the provisions of this
+plan and from whom title and possession were taken by means of the Sheriff's sale
+shail not be entitled to any right of redemption.
+(d) If there are no bidders at the Sheriff's sale, or if insufficient amounts are bid to
+\
+satisfy the First Purchase Money Mortgage and any prior liens, the municipality
+,
+may acquire title to the low- and moderate-income unit by satisfying the First
+Purchase Money Mortgage and any prior liens and crediting the violating owner
+:
+with an amount equal to the difference between the First Purchase Money Mortgage
+and any prior liens and costs of the enforcement proceedings, including legal fees
+and the maximum resale price for which the low- and moderate-income unit could
+have been sold under the terms of the regulations governing affordable housing
+units.
+This excess shall be treated in the same manner as the excess which would
+have been realized from an actual sale as previously described.
+(e) Failure of the low- and moderate-income unit to be either sold at the Sheriff's sale
+or acquired by the municipality shall obligate the Owner to accept an offer to
+purchase from any qualified purchaser which may be referred to the Owner by the
+municipality, with such offer to purchase being equal to the maximum resale price
+of the low- and moderate-income unit as permitted by the regulations governing
+affordable housing units.
+(f) The Owner shall remain fully obligated, responsible and liable for complying with
+the terms and restrictions of governing affordable housing units until such time as
+title is conveyed from the Owner.
+.
+§61-21 Appeals.
+.
+‘
+,
+-
+24
+
+===== PAGE 71 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 71 of 79
+Trans ID: LCV20251851511
+"
+Appeals from all decisions of an Administrative Agent appointed pursuant to this Ordinance shall
+:
+be filed in writing with the Superior Court, or other agency as authorized by law.
+:
+Section 2.
+If any article, section, subsection, sentence, clause Or phrase of this
+Ordinance is, for any reason, held to be unconstitutional or invalid, such decision shall not affect
+the remaining portions of this Ordinance and they shall remain in full force and effect.
+Section 3.
+In the event of any inconsistencies between the provisions of this Ordinance
+and any prior ordinance of the Borough of Oradell, the provisions hereof shall be determined to
+govern. All other parts, portions and provisions ofthe Revised General Ordinances ofthe Borough
+of Oradell are hereby ratified and confirmed, except where inconsistent with the terms hereof.
+Section 4.
+The Borough Clerk is directed to give notice at least ten (10) days prior to
+~
+a hearing on the adoption of this ordinance to the Bergen County Planning Board and to all other
+persons entitled thereto pursuant to N.J.S.A. 40:55D-15, and N.J.S.A. 40:55D-63 (if required).
+a
+Section 5.
+After introduction, the Borough Clerk is hereby directed to submit a copy
+of the within Ordinance to the Planning Board of the Borough of Oradell for its review in
+accordance with N.J.S.A. 40:55D-26 and N.J.S.A. 40:55D-64. The Planning Board is directed to
+make and transmit to the Borough Council, within 35 days after referral, a report including
+identification of any provisions in the proposed ordinance which are inconsistent with the master
+plan and recommendations concerning any inconsistencies and any other matter as the Board
+deems appropriate.
+Section 6.
+This Ordinance shall be presented to the Mayor for her approval and
+signature, which approval shall be granted or denied within ten (10) days of receipt of same,
+pursuant to N.J.S.A. 40:69A-149.7.
+If the Mayor fails to return this Ordinance with either her
+approval or objection to same within ten (10) days after it has been presented to her, then this
+Ordinance shall be deemed approved.
+;
+25
+
+===== PAGE 72 =====
+BER-L-000733-25
+06/25/2025 3:09:48 PM
+Pg 72 of 79
+Trans ID: LCV20251851511
+'
+Section 7.
+This Ordinance shall take effect immediately upon (1) adoption;
+(2)
+:
+approval by the Mayor pursuant to N.J.S.A. 40:69A-149.7; (3) publication in accordance with the
+|
+laws ofthe State ofNew Jersey; and (4) filing ofthe final form of adopted ordinance by the Clerk
+with (a) the Bergen County Planning Board pursuant to N.J.S.A. 40:55D-16, and (b) the Borough
+Tax Assessor as required by N.J.S.A. 40:49-2.1.
+INTRODUCED the _ 22 day of
+sat
+2018.9
+{
+ADOPTED the_2G dayof_72brusy. 2019
+iy)
+pianne C. Dido, Mayor
+ATTEST:
+4
+Ve
+J
+ifond J. Lyéns,
+Borough Clerk
+,
+26
+
+===== PAGE 73 =====
+BER-L-000733-25
+06/25/2025 3:09:43 PM
+Pg 73 0f 79
+Trans ID: LCV20251851511
+.
+BOROUGH OF ORADELL
+’
+ORDINANCE NO. 19-02
+AN ORDINANCE OF THE BOROUGH OF ORADELL ADDING CHAPTER 61 TO THE ORADELL BOROUGH CODE,
+WHICH WILL BE ENTITLED “AFFORDABLE HOUSING ORDINANCE” TO ADDRESS THE REQUIREMENTS OF THE FAIR
+HOUSING ACT AND THE UNIFORM HOUSING AFFORDABILITY CONTROLS ( UHAC) REGARDING COMPLIANCE
+WITH THE BOROUGH'S AFFORDABLE OBLICGATIONS
+Introduced:
+January 22, 2019
+Passed 1‘ Reading:
+January 22, 2019
+Public Hearing:
+February 26, 2019
+Adopted:
+February 26, 2019
+Approved:
+February 26, 2019
+;
+ianne Carhelo Didio, Mayor
+ATTEST:
+uray. ye
+, CRA RMC, RPPO
+Administsat6r/Borough Clerk
+This to certify that the foregoing ordinance was finally passed and adopted at the Regular Meeting of the
+Boroug?
+Council
+pf
+fie Borough of Oradell, New Jersey February26, 2019.
+ia. Lyop,
+, RMC, RPPO
+dministiafor/Borough Clerk
+
+===== PAGE 74 =====
+1
+BOROUGH OF ORADELL
+BERGEN COUNTY, NEW JERSEY
+RESOLUTION 19-80
+Offered by 
+Seconded by 
+RESOLUTION ADOPTING AN AFFIRMATIVE MARKETING PLAN 
+WHEREAS, in accordance with 
+regulations, the New Jersey Uniform Housing Affordability Controls
+N.J.A.C. 5:80-
+26., et seq.), and the terms of a Settlement Agreement between the Borough of Oradell and Fair 
+Share Housing Center
+Judgment action entitled In the Matter of the Borough of Oradell, County of Bergen, Docket No. 
+BER-L-6539-15, which was filed in response to Supreme Court decision In re N.J.A.C. 5:96 and 
+5:97, 221 N.J.
+Mount Laurel IV
+the Borough of Oradell is required to adopt by 
+resolution an Affirmative Marketing Plan to ensure that all affordable housing units created, 
+including those created by rehabilitation, are affirmatively marketed to very low, low and moderate 
+income households, particularly those living and/or working within Housing Region 1, which 
+encompasses the Borough of Oradell; and
+NOW, THEREFORE, BE IT RESOLVED, that the Mayor and Council of the Borough 
+of Oradell, County of Bergen, State of New Jersey, do hereby adopt the following Affirmative 
+Marketing Plan:
+Affirmative Marketing Plan
+A.
+All affordable housing units in the Borough of Oradell shall be marketed in accordance 
+with the provisions herein unless otherwise provided in N.J.A.C. 5:93-1, et seq.
+B.
+The Borough of Oradell has a Gap (1999-2015) and Prospective Need (2015-2025) 
+affordable housing obligation. This Affirmative Marketing Plan shall apply to all 
+developments that require an Affirmative Marketing Plan or will contain very low, low and 
+Member
+Aye
+No
+bstain
+Absent
+MAYOR DIDIO
+SCHOENBERG
+TASHJIAN
+CARNEVALE
+JANNICELLI
+KELLY
+YU
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 74 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 75 =====
+2
+moderate income units, including those that are part of the Borough
+Element and Fair Share Plan, and those that may be constructed in future developments not 
+contemplated in the Borough
+Marketing Plan shall also apply to any rehabilitated rental units that are vacated and re-
+rented during the applicable period of controls for identified rehabilitated rental units.
+C.
+The Affirmative Marketing Plan shall be implemented by the Administrative Agent under 
+contract to the Borough of Oradell. All of the costs of advertising and affirmatively 
+marketing affordable housing units shall be borne by the developer/seller/owner of the 
+affordable unit(s).
+D.
+In implementing the Affirmative Marketing Plan, the Administrative Agent, acting on 
+behalf of the Borough, shall undertake all of the following strategies:
+1. Publication of one advertisement in a newspaper of general circulation within the 
+housing region.
+2. Broadcast of one advertisement by a radio or television station broadcasting 
+throughout the housing region.
+3. At least one additional regional marketing strategy using one of the other sources 
+listed below.
+E.
+The Affirmative Marketing Plan is a regional marketing strategy designed to attract buyers 
+and/or renters of all majority and minority groups, regardless of race, creed, color, national 
+origin, ancestry, marital or familial status, gender, affectional or sexual orientation, 
+disability, age or number of children to housing units which are being marketed by a 
+developer or sponsor of affordable housing. The Affirmative Marketing Plan is also 
+intended to target those potentially eligible persons who are least likely to apply for 
+affordable units in that region. It is a continuing program that directs all marketing activities 
+toward Housing Region 1 in which the Borough is located and covers the entire period of 
+deed restriction for each restricted housing unit. 
+F.
+The Affirmative Marketing Plan is a continuing program intended to be followed 
+throughout the entire period of restrictions and shall meet the following requirements:
+1. All newspaper articles, announcements and requests for application for very low, 
+low and moderate income units shall appear in the Star Ledger.
+2. The primary marketing shall take the form of at least one press release and a paid 
+display advertisement in the above newspaper during the first week of the 
+marketing program.  
+basis. The developer/owner shall disseminate all public service announcements and 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 75 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 76 =====
+3
+pay for display advertisements. The developer/owner shall provide proof of 
+publication to the Administrative Agent. All press releases and advertisements shall 
+be approved in advance by the Borough
+3. The advertisement shall include a description of the:
+i. Location of the units;
+ii. Direction of the units;
+iii. Range of prices for the units;
+iv. Size, as measured in bedrooms, of units;
+v. Maximum income permitted to qualify for the units;
+vi. Location of applications;
+vii. Business hours when interested households may obtain an application; and
+viii. Application fees.
+4. Newspaper articles, announcements and information on where to request 
+applications for very low, low and moderate income housing shall appear in at least 
+three locally oriented weekly newspapers within the region, one of which shall be 
+circulated primarily in Bergen County and the other two of which shall be circulated 
+primarily outside of Bergen County, but within the housing region.
+5. Advertisements will be broadcast on Spectrum Cable. 
+6. Applications, brochure(s), sign(s), and/or poster(s) used as part of the affirmative 
+marketing program shall be available/posted in the following locations:
+i. Borough Municipal Building
+ii. Borough Public Library
+iii. Borough Website
+iv.
+v. Bergen County Administration Building
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 76 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 77 =====
+4
+Applications shall be mailed by the Administrative Agent to the prospective 
+applications upon request. Locations of applications, brochures, and flyers to 
+affirmatively market the program are listed in the attached Appendix.
+7.
+shall be mailed to prospective applicants upon request. When on-line preliminary 
+applications are utilized, if prospective applicants do not have internet access they 
+will be given a phone number to call the Administrative Agent, who will then enter 
+all pre-application information online during the phone call. The Administrative 
+Agent shall develop, maintain and update a list of community contact person(s) 
+and/or organization(s) in Bergen, Hudson, Passaic and Sussex Counties that will 
+aid in the affirmative marketing program with particular emphasis on contacts that 
+will reach out to groups that are least likely to apply for housing within the region, 
+including major regional employers.
+i. Quarterly informational flyers and applications shall be sent to each of the 
+following agencies for publication in their journals and for circulation 
+among their members:
+Eastern Bergen County Board of Realtors (411 Rte. 17 South, Hasbrouck 
+Heights, NJ 07604)
+Sussex County Association of Realtors (115 DeMarest Rd., Sparta, NJ 
+07871)
+Passaic County Board of Realtors (204 Berdan Ave., Wayne, NJ 07470)
+Hudson County Board of Realtors (110a Meadowlands Pkwy., Ste. 103, 
+Secaucus, NJ 07094)
+ii. Quarterly informational circulars and applications shall be sent to the 
+administrators of each of the following agencies in the counties of Bergen, 
+Hudson, Passaic and Sussex:
+Welfare or Social Service Board
+Office on Aging or Division of Senior Services
+Housing Authority
+Community Action Agencies
+Community Development Departments
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 77 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 78 =====
+5
+iii. Quarterly informational circulars and applications shall be sent to the chief 
+personnel administrators of all the major employers within the region as 
+listed in the attached Appendix in accordance with the Region 1 Affirmative 
+Marketing Plan.
+iv. The Administrative Agent will also provide specific direct notice to the 
+following community and regional organizations whenever affordable 
+housing units become available in the Borough to the organizations listed 
+in the attached Appendix, including those listed below:
+Fair Share Housing Center (510 Park Boulevard, Cherry Hill, NJ 08002)
+New Jersey State Conference of the NAACP (4326 Harbor Beach Blvd. 
+#775, Brigantine, NJ 08203)
+The Latino Action Network (P.O. Box 943, Freehold, NJ 07728)
+The Bergen County NAACP (P.O. Box 1136, Englewood, NJ 07631)
+Bergen County Urban League (12 Tenafly Rd., Ste. 104, Englewood, NJ 
+07631)
+Bergen County Housing Coalition (389 Main St., Hackensack, NJ 07601)
+8. A random selection method to select occupants of very low, low and moderate 
+income housing will be used by the Administrative Agent in conformance with 
+N.J.A.C. 5:80-26.16(l). The Affirmative Marketing Plan shall provide a regional 
+preference for all households that live and/or work in Housing Region 1 comprised 
+of Bergen, Hudson, Passaic and Sussex Counties.
+9. The Administrative Agent shall administer the Affirmative Marketing Plan. The 
+Administrative Agent has the responsibility to income qualify very low, low and 
+moderate income households; to place income eligible households in very low, low 
+and moderate income units upon initial occupancy; to provide for the initial 
+occupancy of very low, low and moderate income units with income qualified 
+households; to continue to qualify households for re-occupancy of units as they 
+become vacant during the period of affordability controls; to assist with outreach 
+to very low, low and moderate income households; and to enforce the terms of the 
+deed restriction and mortgage loan as per N.J.A.C. 5:80-26.1, et seq.
+10. Whenever appropriate, the Administrative Agent shall provide or direct qualified 
+very low, low and moderate income applicants to counseling services on subjects 
+such as budgeting, credit issues, mortgage qualifications, rental lease requirements 
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 78 of 79   Trans ID: LCV20251851511 
+
+===== PAGE 79 =====
+6
+and landlord/tenant law and shall develop, maintain and update a list of entities and 
+lenders willing and able to perform such services.
+11. All developers/owners of very low, low and moderate income housing units shall 
+be required to undertake and pay the costs of the marketing of the affordable units 
+in their respective developments, subject to the direction and supervision of the 
+Administrative Agent.
+12. The implementation of the Affirmative Marketing Plan for a development that 
+includes affordable housing shall commence at least 120 days before the issuance 
+of either a temporary or permanent certificate of occupancy. The implementation 
+of the Affirmative Marketing Plan shall continue until all very low, low and 
+moderate income housing units are initially occupied and for as long as affordable 
+units exist that remain deed restricted and for which the occupancy or re-occupancy 
+of units continues to be necessary. Please note that in addition to complying with 
+this Borough-wide Affirmative Marketing Plan that the Administrative Agent shall 
+also review and approve a separate Affirmative Marketing Plan for every new 
+affordable development in Oradell that is subject to N.J.A.C. 5:80-26.1 et seq.  That 
+document shall be completed by the owner/developer and will be compliant with 
+the Borough
+and incorporate 
+development specific details and permitted options, all subject to the 
+Administrati
+affirmative marketing plans will use the standard form for Region 1, which is 
+included in the attached Appendix.
+13. The Administrative Agent shall provide the Affordable Housing Liaison with the 
+information required to comply with monitoring and reporting requirements 
+pursuant to N.J.A.C.5:80-26-1, et seq. and the Order granting the Borough a Final 
+Judgment of Compliance and Repose.
+BE IT FURTHER RESOLVED that the appropriate Borough officials and professionals 
+are authorized to take all actions required to implement the terms of this Resolution.
+                                                                                                                                                                                              
+BER-L-000733-25   06/25/2025 3:09:43 PM   Pg 79 of 79   Trans ID: LCV20251851511 
