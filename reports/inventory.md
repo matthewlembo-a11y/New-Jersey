@@ -1,6 +1,6 @@
 # Bergen County Fourth Round (2025-2035) Affordable Housing Site Inventory
 
-_Generated 2026-06-12T11:55:33+00:00. Contract-and-entitle townhome target list._
+_Generated 2026-06-12T12:00:20+00:00. Contract-and-entitle townhome target list._
 
 > Every site traces to a cited source. `verification_status` and `confidence` flag rows needing human review before any contract action.
 
@@ -347,6 +347,15 @@ _Obligation: 228 · Compliance: litigating · HEFSP: adopted 2025-07-28_
 | Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 165-173 Ridge Road (Ridge Road Redevelopment) | 165-173 Ridge Road, North Arlington, NJ | 23 | 24, 24.01, 25 |  | redevelopment-area |  | 15 |  |  |  | approved | low | [doc](https://www.northarlington.org/_Content/pdf/agendas/2025-07-28-PB-Agenda.pdf) |
+
+## Northvale (Borough)
+
+_Obligation: 112 · Compliance: plan_adopted_settled_NJBA · HEFSP: adopted 2025-06-20_
+
+| Site | Address | Block | Lot | Acres | Mechanism | Density | Units | Aff. | Set-aside | Tenure | Status | Conf. | Source |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Residential Multifamily Inclusionary Overlay District (RMI) |  | 302, 602, 603, 608, 915, 1011, 1101, 1102 | Blk302 L1,2,3,4,6; Blk602 L1,3,5; Blk603 L1,3,4,5; Blk608 L1-4; Blk915 L1-6; Blk1011 L1,3,5.02,25,27; Blk1101 L1-14; Blk1102 L1-12 |  | inclusionary overlay district | 30.0 |  |  | 20.0% | rental or sale | overlay adopted/amended 2026-03-12 (Ord. BER-L-000365-25) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/northvale-boro/ordianceoverlayzonenorthvale.pdf) |
+| Paris Avenue Inclusionary Overlay District (PAI) |  | 909, 910, 911, 912, 914 | Blk909 L1-7,23,24; Blk910 L1-3; Blk911 L1,2,3,11,12,13; Blk912 L1; Blk914 L1,2 |  | inclusionary overlay district | 30.0 |  |  | 20.0% | rental or sale | overlay adopted/amended 2026-03-12 (Ord. BER-L-000365-25) | high | [doc](https://library.njcourts.gov/files/civil/affordable-housing/bergen/northvale-boro/ordianceoverlayzonenorthvale.pdf) |
 
 ## Norwood (Borough)
 

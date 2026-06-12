@@ -1,0 +1,4243 @@
+SOURCE_URL: https://library.njcourts.gov/files/civil/affordable-housing/bergen/englewood-city/6625EnglewoodHEFSPAdoptedFinalS.pdf?VersionId=ppEQTdOxvSaSiXAGe9.x7Alu1D5f7SEG
+
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Housing Element & 
+Fair Share Plan 
+City Of Englewood 
+Bergen County, New Jersey 
+ 
+May 22, 2025 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 1 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 2 =====
+BER-L-000535-25
+06/06/2025 3:43:08 PM
+Pg2of71
+Trans ID: LCV20251699832
+
+===== PAGE 3 =====
+ 
+ 
+ 
+  
+2025 HOUSING ELEMENT AND FAIR 
+SHARE PLAN 
+ 
+CITY OF ENGLEWOOD 
+BERGEN COUNTY, NEW JERSEY 
+ 
+ 
+ 
+PREPARED FOR: 
+ 
+CITY OF ENGLEWOOD PLANNING BOARD 
+BA# 4138.08 
+ 
+ 
+ 
+ 
+The original document was appropriately signed and sealed on May 22, 2025 in accordance with  
+Chapter 41 of Title 13 of the State Board of Professional Planners. 
+ 
+ 
+ 
+________________________ 
+_ 
+ 
+ 
+ 
+ 
+John P. Szabo, Jr., P.P., AICP 
+ 
+ 
+ 
+ 
+ 
+Professional Planner #3445 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Housing and Fair Share Plan was adopted by the City of Englewood Planning Board 
+after public hearing on  June 5, 2025. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 3 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 4 =====
+ 
+ 
+MAYOR AND COUNCIL 
+Michael Wildes, Mayor 
+Dr. Lisa Wisotsky – Ward II, Council President 
+Dr. Kenneth Rosenzweig – Ward I 
+Angela David – Ward III 
+Kevin Wilson – Ward IV 
+Dan Tokayer, At Large Member 
+ 
+CITY ATTORNEY 
+William Bailey, Esq 
+Huntington & Bailey 
+ 
+CITY ADMINISTRATOR 
+Robert S. Hoffman 
+ 
+MEMBERS OF THE CITY PLANNING BOARD 
+Michael Wildes, Class I 
+Diana Patino, Class II 
+Kevin A. Wilson, Class III 
+Anthony David, Chairman, Class IV 
+Fred Horowitz, Class IV 
+Allen George Class IV 
+Ilan Lerman, Class IV 
+Mercedes Cordon, Class IV 
+Raphael Rosenblatt, Class IV 
+Erin Thomas, Alternate #1 
+Emily Mann, Alternate #2 
+ 
+PLANNING BOARD ATTORNEY 
+Douglas Bern, Esq. 
+Bern & Associates 
+ 
+PLANNING BOARD SECRTARY 
+Paris Meyers 
+ 
+PLANNING BOARD ENGINEER 
+Robert Costa, PE 
+Costa Engineering 
+ 
+Planning  Board Planner 
+Chelsea Gleiss 
+Burgis Associates 
+ 
+CITY PLANNING CONSULTANT 
+John P. Szabo, Jr., PP, AICP 
+Burgis Associates 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 4 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 5 =====
+ 
+ 
+Table of Contents 
+EXECUTIVE SUMMARY .......................................................................................................... 1 
+Table 1:  Affordable Housing Obligations Summary ................................................................. 1 
+SECTION I: INTRODUCTION .................................................................................................... 4 
+Table 2:  2024 Affordable Housing Region 1 Income Limits by Household Size .......................... 5 
+Section 2: Housing Element ......................................................................................... 11 
+Map 1: Existing Land Use ................................................................................................. 13 
+Table 3: Dwelling Units (1990-2023) ....................................................................................... 15 
+Table 4: Housing Units by Tenure and Occupancy Status (2010 and 2023) ............................... 15 
+Table 5: Units in Structure (2010 and 2023) ............................................................................ 16 
+Table 6: Year Structures Built ................................................................................................ 17 
+Table 7: Occupants per Room (2010 and 2023) ....................................................................... 17 
+Table 8: Equipment and Plumbing Facilities (2010 and 2023) .................................................. 18 
+Table 9: Gross Rent of Specified Renter-Occupied Units (2010 and 2023) ............................... 19 
+Table 10: Value of Specified Owner-Occupied Housing Units (2010 and 2023) ........................ 19 
+Table 11: Number of Residential Building Permits issued for New Construction (2014-2023)... 21 
+Table 12: Population Growth (1960-2023) ............................................................................... 22 
+Table 13: Age Characteristics (2010 and 2023) ....................................................................... 23 
+Table 14: Average Household Size (2000-2023) ...................................................................... 23 
+Table 15: Household Income Distribution (2010 and 2023) ..................................................... 24 
+Table 16: Employment Status - Population 16 & Over (2010 and 2023)..................................... 25 
+Table 17: Employed Residents Age 16 and Over, By Occupation (2010 and 2023) .................... 25 
+Table 18: Employed Residents Age 16 and Over, By Industry (2010 and 2023) .......................... 26 
+Table 19: Average Covered Employment Trends (2012-2023) .................................................. 27 
+Table 20: Non-Residential Space Authorized by Building Permits (2014-2023) ........................ 28 
+SECTION 3: FAIR SHARE OBLIGATION ..................................................................................... 29 
+Table 21: Summary of Fair Share Obligation .......................................................................... 30 
+SECTION 4: FAIR SHARE PLAN .............................................................................................. 31 
+Table 22: Affordable Housing Obligations Summary .............................................................. 32 
+Table 23: Plan Components Satisfying Prior 1985-1999 First & Second Round RDP ................. 33 
+Table 24:  Third Round RDP Calculation ................................................................................. 34 
+Table 25:  Third Round Credits............................................................................................... 34 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 5 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 6 =====
+ 
+ 
+Table 26: Plan Components Addressing Third Round RDP ...................................................... 35 
+Table 27:  Affordable Housing Overlay Zones ......................................................................... 35 
+Appendices ................................................................................................................... 46 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 6 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 7 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+1 
+ 
+ 
+EXECUTIVE SUMMARY 
+ 
+The following 2025 Housing Element and Fair Share Plan (HE&FSP) of the Master Plan has been 
+prepared for the City of Englewood, Bergen County, New Jersey.  
+This plan is designed to outline the manner in which the City will address its affordable housing 
+obligations for the upcoming Fourth Round. As will be discussed in greater detail in this document, 
+these obligations were derived from a variety of different sources including the Council on Affordable 
+Housing (COAH), prior Court-approved Judgments of Compliance and Repose, settlement 
+agreements with Fair Share Housing Center (FSHC), and most recently from Fourth Round obligation 
+calculations provided by the Department of Community Affairs (DCA). 
+In summary, the City’s affordable housing obligation over the prior and current Fourth Round is as 
+follows: 
+Table 1:  Affordable Housing Obligations Summary 
+Category 
+Obligation 
+Present Need (Rehabilitation) Obligation 
+166 
+First & Second Round Obligation (1987-1999) 
+152 
+Third Round Obligation (1999-2025) 
+819 
+Fourth Round Obligation (2025-2035) 
+359 
+ 
+The City of Englewood has a long-standing history of providing affordable housing 
+through local and Federal government programs intended to promote affordability in the housing 
+market for its residents. The City is a fully developed municipality having reached its full build out in 
+the early 1970s. As such, the City has employed a variety of techniques to provide affordable housing 
+and related supportive services, including: 
+ 
+• 
+Forming a Housing Authority; 
+• 
+Applying Housing and Urban Development (HUD) leveraged  
+ 
+with other funding to build affordable housing units; 
+• 
+Incorporating affordable housing in redevelopment projects; 
+• 
+Construction of new affordable housing and group homes; 
+• 
+The adopting of housing rehabilitation programs; and 
+• 
+Providing social services and financial assistance programs to           
+ create and support Citywide affordable housing opportunities. 
+ 
+Pursuant to the Fair Housing Act and Council on Affordable Housing (COAH) regulations, the City of 
+Englewood filed a Housing Element and Fair Share Plan with COAH on March 26, 2001 to address 
+the City’s Second Round obligation. Following release of COAH's first set of Third Round Substantive 
+Rules, the Planning Board adopted a Third Round Housing Element and Fair Share Plan on February 
+2, 2006. The invalidation of COAH’s Third Round regulations required Englewood to prepare a 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 7 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 8 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+2 
+ 
+second, amended Third Round Housing Element and Fair Share Plan. The amended plan was prepared 
+by Peter G. Steck, P.P., and adopted by the Englewood Planning Board on January 27, 2009. A third 
+Housing Element and Fair Share Plan report was prepared by Phillips Preiss Shapiro Associates, Inc. 
+and adopted by the Englewood Planning Board on August 25, 2009, in an initial response to the 
+lawsuit filed by ERA South LLC et al. (ERA South) on January 2, 2009. In response to the Appellate 
+Court's decision on October 8, 2010, the Planning Board adopted a Revised Third Round Housing 
+Element and Fair Share Plan on September 19, 2011 in accordance with the Fair Housing Act and 
+those portions of COAH's third round rules which were not overturned by the Court. 
+ 
+In March 2012, the City entered into a Settlement Agreement with litigant ERA South LLC, who had 
+challenged Englewood's provision of low- and moderate-income housing on January 2, 2009. Fair 
+Share Housing Center (FSHC) objected to the terms of the Settlement Agreement. At the fair- ness 
+hearing in the Superior Court of Bergen County, Judge Martinetti validated the agreement. FSHC 
+appealed that decision to the Appellate Division. In February 2014, the City, FSHC and ERA South 
+entered into a supplement agreement amending the Settlement Agreement. Amongst the terms of 
+the supplemental agreement was a prospective 95-unit affordable housing obligation to be 
+addressed in a revised Fair Share Plan, and that a period of repose against any further Mt. Laurel 
+lawsuits be granted for 5 years. The Amended Settlement Agreement also provided that the 95 units 
+will count toward any future obligation of the City for affordable housing units after a five-year period 
+of repose expires. As part of the agreement, ERA South agreed to provide a 15- unit affordable 
+housing set-aside out of the 195 multi-family units approved at ERA South's Flatrock Square multi-
+family residential project. Of these 15 units, 50 percent will be moderate income housing and 50 
+percent will be low-income housing. If the low- and moderate-income units are rental units, 20 
+percent of the low-income units will be very low-income housing. 
+ 
+As the five-year period of repose was about to lapse on May 31, 2019, the City of Englewood filed a 
+declaratory judgement action on its compliance with the Mount Laurel doctrine and Fair Housing Act 
+of 1985 on May 30, 2019 seeking extended immunity from builder remedy lawsuits and a court 
+determination as to the City’s compliance with its COAH obligation for the Third Round (i.e., In the 
+Matter of the City of Englewood, County of Bergen, Docket No. BER-L-4069-19). As a result of this 
+filing the City entered into settlement negotiations with FSHC which resulted in a second settlement 
+agreement entered into between the City and FSHC on November 2, 2022. The second settlement 
+agreement with the FSHC which was approved by the Court at a fairness hearing held on January 10, 
+2023. 
+ 
+The following summarizes the City’s obligation pursuant to the settlement agreement. 
+ 
+Rehabilitation Share 
+380 
+Prior Round Obligation (pursuant to N.J.A.C. 5:93) 
+152 
+Third Round (1999-2025) Prospective Need Fair Share 
+819 
+ 
+The HE&FSP also included the preparation of an assessment of vacant land in the City pursuant 
+to the prescribed vacant land adjustment (VLA) process and Realistic Development Potential 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 8 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 9 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+3 
+ 
+(RDP), to determine the City’s RDP and adjusted affordable housing obligation. The settlement 
+reached with FSHC established an RDP of 76 units. 
+ 
+Fourth Round Obligation   
+ 
+Governor Murphy signed the A-40/S-50 Bill into law on March 20, 2024 upon adoption by the State 
+Senate and Assembly. This legislation (FHA-2) amended the Fair Housing Act (FHA or the Act) by 
+abolishing COAH and created a new process that involved the creation of an entity known as the 
+Affordable Housing Dispute Resolution Program (the Program), which is overseen by seven retired 
+Mount Laurel judges. The Program has taken the place of the trial courts and COAH regarding the 
+approval process involving municipal HE&FSPs. The DCA and the Administrative Office of the Courts 
+(AOC) are both also involved in assisting the Program with this process. 
+ 
+FHA-2 directed the DCA to calculate the Present Need (also referred to as the Rehabilitation 
+obligation) and the Prospective Need (also known as the new construction obligation) for Round 
+Four based upon the standards set forth in the Act. The DCA issued its report on October 18, 2024, 
+and, in accordance with the Act, made clear that the obligations generated by the report were 
+advisory only and were non-binding. For the City of Englewood, the DCA Report identified a Present 
+Need 166 units and a Prospective Round Four Need of 381. 
+ 
+Since the DCA report was non-binding, each municipality the legislation provided municipalities the 
+opportunity to study and define why its obligations should be different based on the standards in 
+the Act. This analysis, conducted by Burgis Associates on behalf of the City, established a prospective 
+need of 331 units.  The City’s calculation of obligation was challenged by the New Jersey Builder’s 
+Association who sought higher obligations.  Ultimately the matter was settled and the City adopted 
+a binding resolution which committed to the present and prospective need obligations identified by 
+DCA as modified by the Court settlement ultimately resulted in a Fourth Round Obligation of Present 
+Need at 166 units and Round Four Prospective Need at 359 units. 
+ 
+ 
+FAIR SHARE OBLIGATION 
+ 
+The following section provides an overview of the City’s fair share obligation. It includes a brief 
+overview of the methodology utilized to calculate affordable housing obligations throughout the 
+state.  
+Accordingly, the remainder of this 2025 HE&FSP is divided into the following sections: 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 9 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 10 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+4 
+ 
+❖ 
+Section 1: Introduction 
+ 
+The first section of the 2025 HE&FSP provides an introduction to affordable housing. It summarizes 
+what affordable housing is, offers an overview of the history of affordable housing in the state, and 
+explains the role of a housing element and fair share plan. 
+❖ 
+Section 2: Housing Element 
+ 
+Section 2 contains the Housing Element for the City of Englewood. It offers a community overview 
+of the City, as well as background information regarding its population, housing, and employment 
+characteristics. It also provides projections of the City’s housing stock and employment.   
+❖ 
+Section 3: Fair Share Obligation 
+ 
+Next, Section 3 provides an overview of the City’s fair share obligation. It includes a brief history of 
+the methodologies utilized to calculate affordable housing obligations throughout the state. 
+❖ 
+Section 4: Fair Share Plan 
+ 
+Finally, Section 4 details the manner in which the City has addressed its prior First, Second and Third 
+Round obligations, how it will address its Fourth Round Prospective Need Obligation, and how same 
+is consistent with the FHA, applicable COAH and UHAC regulations, and state planning initiatives.  
+ 
+SECTION I: INTRODUCTION 
+ 
+The following section provides an introduction to affordable housing. It summarizes what 
+affordable housing is, offers an overview of the history of affordable housing in the state, and 
+explains the role of a housing element and fair share plan. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 10 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 11 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+5 
+ 
+ 
+A. 
+What is Affordable Housing? 
+ 
+Affordable housing is income-restricted housing that is available for sale or for rent. Typically, 
+affordable housing is restricted to very-low, low-, and moderate-income households. These 
+categories are derived from median regional income limits established for the state. New Jersey is 
+delineated into six different affordable housing regions. Englewood is located in Region1, which 
+includes Bergen, Hudson, Passaic and Sussex counties.  
+ 
+Moderate-Income 
+Households 
+Earn 80% of the region’s 
+median income 
+Low-Income Households 
+Earn 50% of the region’s 
+median income 
+Very Low-Income 
+Households 
+Earn 30% of the region’s 
+median income 
+ 
+Regional income limitations are updated every year, with different categories established for varying 
+household sizes. Table 2 identifies the 2024 regional income limits by household size for Region 1. 
+As shown, a three-person family with a total household income of no greater than $86,697 for 
+moderate income and $54,185 for low income units could qualify for affordable housing in the City’s 
+region.  
+ 
+Table 2:  2024 Affordable Housing Region 1 Income Limits by Household Size 
+Income Level 
+2 Person 
+3 Person 
+4 Person 
+5 Person 
+Median 
+$96,329 
+$108,371 
+$120,412 
+$130,045 
+Moderate 
+$77,064 
+$86,697 
+$96,329 
+$104,036 
+Low 
+$48,165 
+$54,185 
+$60,206 
+$65,022 
+Very-Low 
+$28,899 
+$32,511 
+$36,124 
+$39,013 
+ 
+One of the most common forms of affordable housing is inclusionary development, in which a 
+certain percentage of units within a multifamily development are reserved for affordable housing. 
+Affordable housing can be found in a variety of other forms, including but not limited to 100% 
+affordable housing developments, deed-restricted accessory apartments, alternative living 
+arrangements such as special need/supportive housing or group homes, assisted living facilities, 
+and age-restricted housing. 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 11 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 12 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+6 
+ 
+ 
+ 
+B. 
+WHAT IS THE HISTORY OF AFFORDABLE HOUSING IN NEW JERSEY? 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 12 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 13 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+7 
+ 
+ 
+The history of affordable housing in 
+New Jersey can be traced back to 1975, 
+when the Supreme Court first decided 
+in So. Burlington Cty. NAACP v. City of 
+Mount Laurel (known as Mount Laurel 
+I) that every developing municipality 
+throughout 
+New 
+Jersey 
+had 
+an 
+affirmative obligation to provide for its 
+fair share of affordable housing. In a 
+subsequent Supreme Court decision in 
+1983 (known as Mount Laurel II), the 
+Court acknowledged that the vast 
+majority of municipalities had not 
+addressed 
+their 
+constitutional 
+obligation 
+to 
+provide 
+affordable 
+housing. 
+  
+As such, the Court refined this 
+obligation to establish that every 
+municipality 
+had 
+an 
+obligation, 
+although those within the growth area 
+of 
+the 
+State 
+Development 
+and 
+Redevelopment Plan (SDRP) had a 
+greater obligation. The Court also 
+called for the state legislature to enact 
+legislation 
+that 
+would 
+save 
+municipalities from the burden of 
+having the courts determine their 
+affordable housing needs. The result of 
+this decision was the adoption of the 
+Fair Housing Act in 1985, as well as the 
+creation of the New Jersey Council on 
+Affordable Housing (COAH), which 
+became the state agency responsible 
+for overseeing the manner in which 
+New Jersey’s municipalities address 
+their 
+low- 
+and 
+moderate-income 
+housing needs. 
+ 
+COAH proceeded to adopt regulations 
+for the First Round obligation, which 
+covered the years 1987 to 1993. It also 
+2015: Mount Laurel IV
+COAH defunct and moribund. All 
+affordable housing matters to be heard 
+by courts
+1986: Mount Laurel III
+Every municipality has an obligation if 
+any portion of municipality was within 
+the “Growth Share Area” of the State 
+Development and Redevelopment Plan
+1983: Mount Laurel II
+Every municipality has an obligation if 
+any portion of municipality was within 
+the “Growth Share Area” of the State 
+Development and Redevelopment Plan
+1975: Mount Laurel I
+Every developing municipality has an 
+affordable housing obligation
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 13 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 14 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+8 
+ 
+established 
+the 
+Second 
+Round 
+housing-need 
+numbers 
+that 
+cumulatively covered the years 1987 
+through 1999. Under both the First and 
+Second Rounds, COAH utilized what is 
+commonly referred to as the “fair 
+share” methodology. COAH utilized a 
+different 
+methodology, 
+known 
+as 
+“growth share,” beginning with its 
+efforts 
+to 
+prepare 
+Third 
+Round 
+housing-need numbers. The Third 
+Round substantive and procedural 
+rules were first adopted in 2004.  
+These regulations were challenged and 
+in January 2007, the Appellate Division 
+invalidated various aspects of these 
+rules 
+and 
+remanded 
+considerable 
+portions of the rules to COAH with the 
+directive to adopt revised regulations. 
+ 
+In May 2008, COAH adopted revised 
+Third Round regulations which were 
+published and became effective on 
+June 2, 2008. Coincident to this 
+adoption, 
+COAH 
+proposed 
+amendments to the rules they had just 
+adopted, which subsequently went into 
+effect in October 2008. These 2008 
+rules 
+and 
+regulations 
+were 
+subsequently challenged, and in an 
+October 2010 decision, the Appellate 
+Division invalidated the Growth Share 
+methodology, and also indicated that 
+COAH 
+should 
+adopt 
+regulations 
+pursuant 
+to 
+the 
+Fair 
+Share 
+methodology utilized in Rounds One 
+and Two. The Supreme Court affirmed this decision in September 2013, which invalidated much of 
+the third iteration of the Third Round regulations and sustained the invalidation of growth share. As 
+a result, the Court directed COAH to adopt new regulations pursuant to the methodology utilized in 
+Rounds One and Two. 
+ 
+2024: A-4/S-50
+New Jersey adopts new legslation which 
+overhauls the FHA. COAH is elimianted, 
+and its duties are split between the DCA 
+and the AOC. 
+2018: Jacobson Decision
+Established methodology in Mercer 
+County for determining housing 
+obligation. Being utilized outside of 
+Mercer County for settlement purposes
+2017: Gap Period
+Finds that gap period (1999-2015) 
+generates an affordable housing 
+obligation
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 14 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 15 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+9 
+ 
+Deadlocked with a 3-3 vote, COAH failed to adopt newly revised Third Round regulations in October 
+2014. Fair Share Housing Center, who was a party in both the 2010 and 2013 cases, responded by 
+filing a motion in aid of litigants’ rights with the New Jersey Supreme Court. The Court heard the 
+motion in January 2015 and issued its ruling on March 20, 2015. The Court ruled that COAH was 
+effectively dysfunctional and, consequently, returned jurisdiction of affordable housing issues back 
+to the trial courts where it had originally been prior to the creation of COAH in 1985. 
+ 
+This 2015 Court decision created a process in which municipalities may file a declaratory judgment 
+action seeking a declaration that their HE&FSP is constitutionally compliant and receive temporary 
+immunity from affordable housing builders’ remedy lawsuits while preparing a new or revised 
+HE&FSP to ensure their plan continues to affirmatively address their local housing need as may be 
+adjusted by new housing-need numbers promulgated by the court or COAH. 
+ 
+Subsequently, the Supreme Court ruled on January 18, 2017 that municipalities are also responsible 
+for obligations accruing during the so-called “gap period,” the period of time between 1999 and 
+2015. However, the Court stated that the gap obligation should be calculated as a never-before 
+calculated component of Present Need, which would serve to capture Gap Period households that 
+were presently in need of affordable housing as of the date of the Present Need calculation (i.e. that 
+were still income eligible, were not captured as part of traditional present need, were still living in 
+New Jersey and otherwise represented a Present affordable housing need). 
+ 
+On March 20, 2024, Governor Murphy signed the A4/S50 Bill into law, which amended the FHA for 
+the Fourth Round and beyond. The amendments to the FHA eliminated COAH, moved away from 
+just allowing trial courts to approve municipal HE&FSPs, and created a new entity to approve the 
+plans known as The Program, which consists of seven retired Mount Laurel Judges.  FHA-2 also 
+involved the DCA and the AOC in the process. 
+ 
+The DCA was designated by the amended FHA as the entity responsible for calculating the state’s 
+regional needs as well as each municipality’s present and prospective fair share obligations pursuant 
+to the Jacobson Decision. However, the Amended FHA makes clear that these numbers are advisory 
+and non-binding, and that each municipality must set its own obligation number utilizing the same 
+methodology. The Program was tasked to handle any disputes regarding affordable housing 
+obligations and plans, and to ultimately issue a Compliance Certification to approve a municipality’s 
+HE&FSP, which would continue immunity from all exclusionary zoning lawsuits until July 30, 2035. 
+ 
+C. 
+What is a Housing Element and Fair Share Plan? 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 15 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 16 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+10 
+ 
+A HE&FSP serves as the blueprint for how a municipality will address its fair share of affordable 
+housing. It is designed to help a community broaden the 
+accessibility of affordable housing.  
+ 
+While technically a discretionary component of a municipal 
+master plan, a HE&FSP is nevertheless an effectively 
+obligatory plan element. As established by N.J.S.A. 40:55D-
+62.a of the Municipal Land Use Law (MLUL), a municipality 
+must have an adopted HE&FSP in order to enact its zoning ordinance. Thus, from a public policy 
+perspective, a HE&FSP is an essential community document. Moreover, without an approved 
+HE&FSP, a municipality may be susceptible to a builder’s remedy lawsuit in which a developer could 
+file suit to have a specific piece of property rezoned to permit housing at higher densities than a 
+municipality would otherwise allow, provided a certain percentage of units are reserved as affordable. 
+ 
+The Fair Housing Act, as most recently amended pursuant to FHA-2, establishes the required 
+components of a HE&FSP. These are summarized as follows: 
+1. 
+An inventory of the municipality’s housing stock by age, condition, purchase or rental 
+value, occupancy characteristics, and type, including the number of units affordable 
+to low- and moderate-income households and substandard housing capable of being 
+rehabilitated; 
+2. 
+A projection of the municipality’s housing stock, including the probable future 
+construction of low- and moderate-income housing, for the next ten years, taking 
+into account, but not necessarily limited to, construction permits issued, approvals 
+of applications for development and probable residential development of lands; 
+3. 
+An analysis of the municipality’s demographic characteristics, including but not 
+necessarily limited to, household size, income level and age; 
+4. 
+An analysis of the existing and probable future employment characteristics of the 
+municipality; 
+5. 
+A determination of the municipality’s present and prospective fair share for low- and 
+moderate-income housing and its capacity to accommodate its present and 
+prospective housing needs, including its fair share for low- and moderate-income 
+housing; 
+6. 
+A consideration of the lands that are most appropriate for construction of low- and 
+moderate-income housing and the existing structures most appropriate for 
+conversion to, or rehabilitation for, low- and moderate-income housing, including a 
+consideration of lands of developers who have expressed a commitment to provide 
+low- and moderate-income housing; 
+7. 
+An analysis of the extent to which municipal ordinances and other local factors 
+advance or detract from the goal of preserving multigenerational family continuity as 
+The Municipal Land Use Law 
+(MLUL) is the enabling legislation 
+for municipal land use and 
+development, planning, and 
+zoning for the State of New 
+J
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 16 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 17 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+11 
+ 
+expressed in the recommendations of the Multigenerational Family Housing 
+Continuity Commission; 
+8. 
+An analysis of consistency with the State Development and Redevelopment Plan, 
+including water, wastewater, stormwater, and multi-modal transportation based on 
+guidance and technical assistance from the State Planning Commission. 
+ 
+Section 2: Housing Element 
+ 
+The following section provides the housing element for the City of Englewood. It offers a community 
+overview of the City, as well as background information regarding its population, housing, and 
+employment characteristics. It also provides projections of the City’s housing stock and its 
+employment. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 17 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 18 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+12 
+ 
+A. 
+COMMUNITY OVERVIEW 
+ 
+The City of Englewood is located in Bergen County and has a land area of 4.95 square miles. The City 
+shares a boundary with six municipalities, including the Cities of Bergenfield, Englewood Cliffs, Fort 
+Lee, Leonia, Tenafly and the Township of Teaneck. 
+ 
+Major regional traffic is carried through the City on State Route 4, Interstate Route 80 and 95 as well 
+as County Routes that include Liberty Street, Lafayette Place/Englewood Avenue/Lafayette Avenue, 
+Forest Avenue, Ivy Lane, Grand Avenue/Engle Street, Hudson Street/Dean Street/Van Nostrand 
+Avenue and Palisade Avenue/Knickerbocker Road. 
+ 
+Englewood is a fully developed community, with its little remaining vacant land characterized by 
+environmentally sensitive features or constrained by contaminants. A Vacant Land Inventory (VLA) 
+conducted by the City reflects that most lots are scattered, isolated sites, and many are undersized. The 
+VLA indicates that there are only 211 vacant lots in the City comprising 176.93 acres of land area. 
+The City provides for a mix of different residential housing types that include single- and two-family 
+homes, townhouses, and multifamily apartments throughout its residential neighborhoods. 
+Industrial uses are located in the southern portion of the City situated along the major thoroughfares 
+of South Van Brunt Street and South Dean Street. The City also has a central business district 
+extending along Palisades Avenue Between Tenafly Road and Grand Avenue, which consists of retail, 
+service commercial, office and mixed commercial and residential uses. Located within the core of the 
+central business district is the Bergen PAC, City Hall, Municipal Court and Police Headquarters. 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 18 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 19 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+13 
+ 
+Map 1: Existing Land Use 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 19 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 20 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+14 
+ 
+B. 
+INFORMATION REGARDING DATA SOURCES 
+ 
+The background information contained in Section 2.C entitled “Inventory of Municipal Housing 
+Stock,” Section 2.D entitled “Projection of Municipal Housing Stock,” Section 2.E entitled 
+“Demographic and Population Data,” and Section 2.F entitled “Employment Characteristics and 
+Projections” was obtained from a variety of publicly available data sources. These are summarized 
+below: 
+ 
+United States Decennial 
+Census 
+ 
+The US Census is described in Article I, 
+Section 2 of the Constitution of the 
+United States, which calls for an 
+enumeration of the people every ten 
+years for the apportionment of seats in 
+the House of Representatives. Since the 
+time of the first Census conducted in 
+1790, it has become the leading source of 
+data about the nation’s people and 
+economy. Please note that all incomes 
+reported in the Census are adjusted for 
+inflation. 
+New Jersey Department of Community 
+Affairs (DCA) 
+ 
+The New Jersey Department of 
+Community Affairs is a governmental 
+agency of the State of New Jersey. Its 
+function is to provide administrative 
+guidance, financial support, and technical 
+assistance to local governments, 
+community development organizations, 
+businesses, and individuals to improve the 
+quality of life in New Jersey. 
+ 
+American Community Survey (ACS) 
+ 
+The American Community Survey is a 
+nationwide ongoing survey conducted by 
+the US Census Bureau. The ACS gathers 
+information previously contained only in 
+the long form version of the decennial 
+census, such as age, ancestry, educational 
+attainment, income, language proficiency, 
+migration, disability, employment, and 
+housing characteristics. It relies upon 
+random sampling to provide ongoing, 
+monthly data collection. Please note that 
+all incomes reported in the ACS are 
+adjusted for inflation. 
+New Jersey Department of Labor and 
+Workforce Development 
+ 
+The New Jersey Department of Labor and 
+Workforce Development is a 
+governmental agency of the State of New 
+Jersey. One of its roles is to collect labor 
+market information regarding 
+employment and wages throughout the 
+state.  
+ 
+New Jersey Department of Health 
+The New Jersey Department of Health is a 
+governmental agency of the State of New 
+Jersey. The department contains the 
+Office of Vital Statistics and Registry, 
+which gathers data regarding births, 
+deaths, marriages, domestic partnerships, 
+and civil unions. 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 20 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 21 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+15 
+ 
+C. 
+INVENTORY OF MUNICIPAL HOUSING STOCK 
+ 
+This section of the Housing Element provides an inventory of the City’s housing stock, as required by 
+the MLUL. The inventory details housing characteristics such as age, condition, purchase/rental value, 
+and occupancy. It also details the number of affordable units available to low- and moderate-income 
+households and the number of substandard housing units capable of being rehabilitated. 
+ 
+1. Number of Dwelling Units.  As shown in the table below,   
+ 
+Table 3: Dwelling Units (1990-2023) 
+Year 
+Dwellings 
+Numerical Change 
+% Change 
+2000 
+9,614 
+- 
+- 
+2010 
+11,122 
+1,508 
+16% 
+2023 
+12,047 
+925 
+8% 
+ 
+Sources: U.S. Census, *American Community Survey 5-Year Estimates 
+ 
+The City’s housing stock witnessed a 16 percent increase in its housing stock from 2000 to 2010.  
+Since that time housing unit growth declined by 50 percent by 2023. Decline can be due to a 
+number of factors most significantly the lack of available land as well as the COVID epidemic 
+whose effects were felt beyond 2020. 
+ 
+The following table 4 provides details regarding the tenure and occupancy of the City’s housing 
+stock.  As shown below, since 2010,  the City’s housing stock remains primarily owner occupied 
+however, the City saw a 3.7percent decline in homeownership while renter occupied units 
+increased by 3.9 over the past decade. 
+ 
+Table 4: Housing Units by Tenure and Occupancy Status (2010 and 2023) 
+  
+2010 
+2023* 
+Category 
+# of 
+Units 
+% 
+# of 
+Units 
+% 
+Owner 
+Occupied 
+5,897 
+53.0% 
+5,935 
+49.3% 
+Renter 
+Occupied 
+4,477 
+40.3% 
+5,323 
+44.2% 
+Vacant 
+Units 
+748 
+6.7% 
+789 
+6.5% 
+Total 
+11,122 
+100.0% 
+12,047 
+100.0% 
+ 
+Source: American Community Survey 5-Year Estimates 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 21 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 22 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+16 
+ 
+2. Housing Characteristics. This section provides additional information on the characteristics of the 
+City’s housing stock, including the number of units in a structure (Table 5). The City remains 
+primarily a single family community a which account for approximately 39.5% percent of the 
+City’s housing stock, down from the 44.8% percent reported in 2010.   
+ 
+Table 5: Units in Structure (2010 and 2023) 
+Units in Structure 
+2010  
+2023  
+No. 
+% 
+No. 
+% 
+Single Family, Detached 
+4978 
+44.8% 
+4753 
+39.5% 
+Single Family, Attached 
+780 
+7.0% 
+1043 
+8.7% 
+2 
+953 
+8.6% 
+929 
+7.7% 
+3 or 4 
+754 
+6.8% 
+424 
+3.5% 
+5 to 9 
+1077 
+9.7% 
+833 
+6.9% 
+10 to 19 
+611 
+5.5% 
+776 
+6.4% 
+20+ 
+1969 
+17.7% 
+3288 
+27.3% 
+Mobile Home 
+0 
+0.0% 
+1 
+0.0% 
+Other 
+0 
+0.0% 
+0 
+0.0% 
+Total 
+11,122 
+ 
+12,047 
+ 
+ 
+Source: American Community Survey 5-Year Estimates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 22 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 23 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+17 
+ 
+3. Housing Age.  Table 6 shows that 51% of the City’s housing units were built in 1959 or earlier 
+with a majority of dwellings constructed indicating an aging housing stock. Since 2010, 1,055 
+units (8.8 percent of all housing units) were built and only 47 reported built post 2019. 
+ 
+Table 6: Year Structures Built   
+Year Units Built 
+Number 
+Percent 
+2020 or Later 
+47 
+0.4% 
+2010 to 2019 
+1008 
+8.4% 
+2000 to 2009 
+1427 
+11.8% 
+1990 to 1999 
+679 
+5.6% 
+1980 to 1989 
+1069 
+8.9% 
+1970 to 1979 
+1001 
+8.3% 
+1960 to 1969 
+599 
+5.0% 
+1950 to 1959 
+1357 
+11.3% 
+1940 to 1949 
+1679 
+13.9% 
+1939 or earlier 
+3181 
+26.4% 
+Total 
+12,047 
+100.0% 
+ 
+Source: American Community Survey 5-Year Estimates 
+ 
+4. Housing Conditions.  Table 7 provides an indication of overcrowded housing units, represented 
+by units containing more than one occupant per room which is an indicator used to gauge 
+substandard housing. The data indicates that, in both 2010 and 2023, a small number of the City’s 
+dwelling units can be considered overcrowded with only 2.6 and 4.1% indicated in this condition 
+although the percentage of units considered crowded actually increased between that time. 
+ 
+Table 7: Occupants per Room (2010 and 2023) 
+Occupants Per Room 
+2010  
+2023  
+Number  
+% 
+Number 
+% 
+1.00 or less 
+10,109 
+97.4% 
+10,794 
+95.9% 
+1.01 to 1.50 
+227 
+2.2% 
+268 
+2.4% 
+1.51 or more 
+38 
+0.4% 
+196 
+1.7% 
+Total Occupied Units 
+10,374 
+100% 
+11,258 
+100.0% 
+ 
+Source: American Community Survey 5-Year Estimates 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 23 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 24 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+18 
+ 
+ 
+ 
+Table 8 presents additional detail regarding housing conditions, including the presence of 
+complete plumbing and kitchen facilities and the type of heating equipment used. These statistics 
+are also indicators of substandard housing.  As shown below, the housing stock reflects only a 
+very small proportion of housing that lack these critical facilities. 
+   
+Table 8: Equipment and Plumbing Facilities (2010 and 2023) 
+Facilities 
+2010  
+2023  
+Number  
+Percent  
+Number Percent 
+Kitchen: 
+  
+  
+  
+  
+With Complete Facilities  
+10,303 
+99.3% 
+11,237 
+99.8% 
+Lacking Complete Facilities 
+71 
+0.7% 
+21 
+0.2% 
+Plumbing:  
+ 
+ 
+ 
+ 
+With Complete Facilities  
+10,345 
+99.7% 
+11,249 
+99.9% 
+Lacking Complete Facilities  
+29 
+0.3% 
+9 
+0.1% 
+Heating Equipment: 
+ 
+ 
+ 
+ 
+Standard Heating Facilities  
+10,336 
+100% 
+11,136 
+98.9% 
+Other Fuel 
+38 
+0.0% 
+59 
+0.5% 
+No Fuel Used  
+0 
+0.0% 
+63 
+0.6% 
+Total Occupied Units 
+10,374 
+100 
+11,258 
+100 
+ 
+Source: American Community Survey 5-Year Estimates 
+ 
+5. Purchase and Rental Values.  The City experienced a rise in housing rental and purchase prices 
+between 2010 and 2023, as shown in the following tables.  The median gross rent for the City’s 
+rental housing stock increased  32.9% between 2010 and 2023, from $1,179 in 2010 to to $1,568 
+in 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 24 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 25 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+19 
+ 
+ 
+Table 9: Gross Rent of Specified Renter-Occupied Units (2010 and 2023) 
+Rent 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Less than $500 
+572 
+13% 
+226 
+4.2% 
+$500 to $999 
+886 
+21% 
+451 
+8.5% 
+$1,000 to $1,499 
+1672 
+39% 
+854 
+16.0% 
+$1,500 to $1,999 
+1178 
+27% 
+1219 
+22.9% 
+$2,000 to $2,499 
+652 
+12.2% 
+$2,500 to $2,999 
+627 
+11.8% 
+$3,000 or more 
+1103 
+20.7% 
+No cash rent 
+169 
+X 
+191 
+X 
+Total Occupied units paying 
+rent 
+4,308 
+100% 
+5,323 
+100% 
+Median Gross Rent  
+$1,179 
+$1,568 
+ 
+Source: American Community Survey 5-Year Estimates 
+ 
+The median value of owner-occupied units in Englewood increased during this period, though 
+perhaps not nearly as much as renter-occupied units. The median value of owner-occupied units 
+in the City increased 14.3% percent between 2010 and 2023, from $435,200 in 2010 to $497,500 
+in 2023.  
+ 
+Table 10: Value of Specified Owner-Occupied Housing Units (2010 and 2023) 
+Value 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Less than $50,000 
+47 
+0.8% 
+58 
+1.0% 
+$50,000 to $99,999 
+27 
+0.5% 
+1 
+0.0% 
+$100,000 to $149,999 
+79 
+1.3% 
+73 
+1.2% 
+$150,000 to $199,999 
+110 
+1.9% 
+161 
+2.7% 
+$200,000 to $299,999 
+521 
+8.8% 
+645 
+10.9% 
+$300,000 to $499,999 
+3188 
+54.1% 
+2062 
+34.7% 
+$500,000 to $999,999 
+1144 
+19.4% 
+1755 
+29.6% 
+$1,000,000 or more 
+781 
+13.2% 
+1180 
+19.9% 
+Total Owner Occupied 
+5897 
+100.0% 
+5935 
+100.0% 
+Median Value  
+$435,200  
+$497,500  
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 25 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 26 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+20 
+ 
+ 
+Source: American Community Survey 5-Year Estimates 
+6. Number of Units Affordable to Low- and Moderate-Income Households. Based on the Affordable 
+Housing Professionals of New Jersey (AHPNJ) 2024 regional income limits, the median household 
+income for a three-person household in COAH Region 1, Englewood’s housing region comprised 
+of Bergen, Hudson, Passaic and Sussex Counties is $108,371.  A three-person moderate-income 
+household, established at no more than 80 percent of the median income, would have an income 
+not exceeding $86,697.  A three-person low-income household, established at no more than 50 
+percent of the median income, would have an income not exceeding $54,185. 
+ 
+An affordable sales price for a three-person moderate-income household earning 80 percent of 
+the median income is estimated at approximately $346,788. An affordable sales price for a three-
+person low-income household earning 50 percent of the median income is estimated at 
+approximately $216,740. These estimates are based on the UHAC affordability controls outlined 
+in N.J.A.C. 5:80-26.1 et seq. Approximately 4.9 percent of Englewood’s owner-occupied housing 
+units are valued at less than $200,000 for low income families.  More of the housing stock is 
+available to moderate income families where 50.5 percent are in range and affordable from 
+$300,000 and less according to the 2023 American Community Survey. 
+ 
+Rental costs are generally more affordable to moderate income families than low.  For renter-
+occupied housing, an affordable monthly rent for a three-person moderate-income household is 
+estimated at approximately $1,565. An affordable monthly rent for a three-person low-income 
+household is estimated at approximately $1,128.  According to the 2023 American Community 
+Survey, at least 51.6% of Englewood’s rental units would be considered affordable to moderate 
+income families whereas, about less than 2% have a gross rent less affordable to lower income 
+families. 
+ 
+7. Substandard Housing Capable of Being Rehabilitated. The DCA utilized a formula for 
+calculating the number of units in a community that are in need of rehabilitation and are not 
+likely to experience “spontaneous rehabilitation.”  Englewood’s rehabilitation share has been 
+determined by the DCA to be ten 166 units.  
+ 
+D. 
+Projection of Municipal Housing Stock 
+ 
+Applicable fair housing regulations require a projection of the community’s housing stock, 
+including the probable future construction of low- and moderate-income housing, for the ten 
+years subsequent to the adoption of the Housing Element. This projection shall be based upon 
+an assessment of data which minimally must include the number of residential construction 
+permits issued, approvals of applications for residential development, and probable residential 
+development of lands. Each of these items are identified and outlined below. 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 26 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 27 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+21 
+ 
+1. Housing Units Constructed During the Last Ten Years.  The table below provides data concerning 
+residential building permits issued for new construction during the past ten years.  During this 
+period, a total of 445  residential building permits were issued for new construction, most of 
+which consisted of multifamily units.  On average that would suggest 44.5 dwelling units per year.  
+However, the table shows that there were two years of significant multifamily construction.  These 
+occurred in 2016 and 2019.  Since 2019, the City experience a sharp decline in housing 
+construction where only 40 units were constructed. 
+ 
+      Table 11: Number of Residential Building Permits issued for New Construction (2014-
+2023) 
+Year Issued 
+One & Two 
+Family 
+Multi- 
+Family 
+Mixed- Use 
+Total 
+2014 
+ 4 
+0 
+3 
+7 
+2015 
+2 
+1 
+1 
+4 
+2016 
+4 
+185 
+0 
+189 
+2017 
+5 
+0 
+3 
+8 
+2018 
+14 
+0 
+1 
+15 
+2019 
+1 
+220 
+0 
+221 
+2020 
+0 
+0 
+0 
+0 
+2021 
+9 
+8 
+0 
+17 
+2022 
+7 
+7 
+0 
+14 
+2023 
+5 
+4 
+0 
+9 
+Total 
+51 
+425 
+8 
+484 
+ 
+ 
+     Source: New Jersey Department of Community Affairs (DCA) Construction Reporter 
+ 
+2. Probable Residential Development of Lands. Considering the rate of residential growth 
+experienced in Englewood over the past decade, current economic uncertainty, and the fact that 
+there are few developable parcels remaining in the City, it is anticipated that Englewood’s 
+residential growth over the next decade will primarily be in the form of new inclusionary multi-
+family development as a result of affordable housing zoning adopted by the City.  Presently these 
+housing units have yet to develop. 
+ 
+E. 
+DEMOGRAPHIC AND POPULATION DATA 
+ 
+ 
+The MLUL requires that the Housing Element of this plan provide data on the municipality’s 
+ 
+population, including population size, age and income characteristics. 
+ 
+1. Population Size. As seen in the table below, the City’s population declined from 1960 to 1980 but 
+has since experienced modest growth finally surpassing its 1960 population falling in the 2 to 6 
+percent range. 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 27 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 28 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+22 
+ 
+ 
+ 
+ 
+ 
+ 
+            Table 12: Population Growth (1960-2023) 
+Year 
+Population 
+Population 
+Change 
+Percent 
+Change 
+1960 
+26,057 
+- 
+- 
+1970 
+24,985 
+-1072 
+-4% 
+1980 
+23,701 
+-1284 
+-5% 
+1990 
+24,850 
+1149 
+5% 
+2000 
+26,203 
+1353 
+5% 
+2010 
+26,828 
+625 
+2% 
+2020 
+28,390 
+1562 
+6% 
+2023* 
+29,342 
+952 
+3% 
+ 
+Sources: U.S. Census, *American Community Survey 5-Year Estimates 
+ 
+2. Age Characteristics.  The City’s age characteristics are represented in Table 16 below.  The City is 
+slowly aging as the average age has increased from 40 years of age in 2010 to 43 by 2023.  The 
+largest cohort jumps occurred in the age range of 45 to 54 (16%), followed by the 25 to 34 age 
+group (13%). The proportion of elderly age  65+ grew from 13.2 to 19%. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 28 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 29 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+23 
+ 
+ 
+ 
+Table 13: Age Characteristics (2010 and 2023) 
+  
+2010 
+2023 
+Age 
+Group 
+Pop 
+% 
+Pop 
+% 
+under 5 
+1790 
+6.7% 
+1441 
+5% 
+5-9 
+1601 
+6.0% 
+1450 
+5% 
+10-14 
+1,851 
+6.9% 
+2,418 
+8% 
+15-19 
+1,569 
+5.8% 
+1,759 
+6% 
+20-24 
+1,491 
+5.6% 
+1,258 
+4% 
+25-34 
+3,284 
+12.2% 
+3,874 
+13% 
+35-44 
+4,217 
+15.7% 
+3,226 
+11% 
+45-54 
+4,129 
+15.4% 
+4,652 
+16% 
+55-59 
+1,633 
+6.1% 
+1,743 
+6% 
+60--64 
+1,710 
+6.4% 
+2,020 
+7% 
+65-74 
+1941 
+7.2% 
+3149 
+11% 
+75-84 
+1090 
+4.1% 
+1509 
+5% 
+85+ 
+522 
+1.9% 
+843 
+3% 
+Total 
+26,828 
+100.0% 
+29,342 
+100% 
+ Median 
+Age 
+40 
+43 
+ 
+Source: American Community Survey 5-Year Estimates 
+ 
+3. Average Household Size. The average size of Englewood households increased slightly from 2020 
+to 2023 but still less than the average from 2000.   
+ 
+Table 14: Average Household Size (2000-2023) 
+Year 
+Total Population 
+Number of Households 
+Average Household 
+Size 
+2000 
+26,203 
+9,291 
+2.79 
+2010 
+26,828 
+10,374 
+2.57 
+2020* 
+28,390 
+11,064 
+2.55 
+2023* 
+29,342 
+11,258 
+2.59 
+ 
+Sources: U.S. Census, *American Community Survey 5-Year Estimates 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 29 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 30 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+24 
+ 
+ 
+ 
+4. Household Income. The median household income for Englewood households increased 
+significantly over the past decade by approximately 45 percent between 2010 and 2023, rising 
+from a median income of $69,915 to $101,398. Detailed household income figures are shown in 
+the table below.  
+ 
+Table 15: Household Income Distribution (2010 and 2023) 
+Income Category 
+2010* 
+2023* 
+Number  
+% 
+Number 
+% 
+less than $10,000 
+748 
+7% 
+476 
+4% 
+$10,000 to $14,999 
+480 
+5% 
+456 
+4% 
+$15,000 to $24,999 
+934 
+9% 
+281 
+2% 
+$25,000 to $ 34,999 
+974 
+9% 
+751 
+7% 
+$35,000 to $ $49,999 
+902 
+9% 
+928 
+8% 
+$50,000 to $74,999 
+1464 
+14% 
+1,458 
+13% 
+$75,000 to $99,999 
+1141 
+11% 
+1,189 
+11% 
+$100,000 to $149,999 
+1666 
+16% 
+1,632 
+14% 
+$150,000 to $199,000 
+1033 
+10% 
+1,590 
+14% 
+$200,000 or more 
+1,032 
+10% 
+2,497 
+22% 
+Total households 
+10,374 
+100% 
+11,258 
+100% 
+Median Income (Household) 
+$69,915 
+$101,398 
+ 
+Source: American Community Survey 5-Year Estimates 
+ 
+F.  
+Employment Characteristics and Projections 
+ 
+The MLUL requires that a Housing Element include data on employment levels in the community. 
+The following tables present information on the City’s employment characteristics. 
+ 
+1. Employment Status. Table 16 provides information on Englewood’s employment status for the 
+segment of the population 16 and over. Approximately 65..7 percent of the City’s population 16 
+and over was in the labor force in 2023, up from 63.8 percent in 2010. During the same period 
+between 2010 and 2023, the percentage of the City’s labor force that was unemployed 
+increased slightly from  4.2 percent in 2010 to  4.5 percent in 2023.  Significantly, 29.8% of the 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 30 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 31 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+25 
+ 
+population reported themselves as not in the labor force though a slight reduction from 2010 
+reflecting a growing segment of the elderly influencing this statistic. 
+ 
+Table 16: Employment Status - Population 16 & Over (2010 and 2023) 
+Employment Status 
+2010 
+2023 
+Number 
+% 
+Number 
+% 
+In labor force 
+14,557 
+68.0% 
+16,598 
+70.2% 
+Civilian labor force 
+14,557 
+68.0% 
+16,598 
+70.2% 
+Employed 
+13,657 
+63.8% 
+15,526 
+65.7% 
+Unemployed 
+900 
+4.2% 
+1,072 
+4.5% 
+% of civilian labor force 
+-- 
+6.2% 
+-- 
+6.5% 
+Armed Forces 
+0 
+0.0% 
+0 
+0.0% 
+Not in labor force 
+6,856 
+32.0% 
+7,032 
+29.8% 
+Total Population 16 and 
+Over 
+21,413 
+100.0% 
+23,630 
+100.0% 
+ 
+Source: American Community Survey 5-Year Estimates 
+ 
+2. Employment Characteristics of Employed Residents. The following two tables detail information 
+on the employment characteristics of Englewood residents. Table 17 details employment by 
+occupation and Table 18 details employment by industry.  
+ 
+ 
+ 
+         
+   Table 17: Employed Residents Age 16 and Over, By Occupation (2010 and 2023) 
+Occupation 
+2010 
+2023  
+Number  
+Percent  
+Number  
+Percent 
+Management, business, science, and arts   
+occupations 
+5,849 
+42.8% 
+7530 
+48.5% 
+Service occupations 
+2107 
+15.4% 
+2833 
+18.2% 
+Sales and office occupations 
+3,432 
+25.1% 
+3429 
+22.1% 
+Natural resources, construction, and      
+maintenance occupations 
+774 
+5.7% 
+703 
+4.5% 
+Production, transportation, and material  
+moving occupations 
+1495 
+10.9% 
+1031 
+6.6% 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 31 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 32 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+26 
+ 
+Total 
+13,657 
+100.0% 
+15,526 
+100.0% 
+ 
+Source: American Community Survey 5-Year Estimates 
+ 
+  Table 18: Employed Residents Age 16 and Over, By Industry (2010 and 2023) 
+Industry  
+2010 
+2023 
+Number  
+Percent  
+Number 
+Percent 
+Agriculture, forestry, fishing and hunting, 
+and mining 
+16 
+0.1% 
+0 
+0.0% 
+Construction 
+566 
+4.1% 
+602 
+3.9% 
+Manufacturing 
+1225 
+9.0% 
+1051 
+6.8% 
+Wholesale trade 
+564 
+4.1% 
+648 
+4.2% 
+Retail trade 
+1264 
+9.3% 
+1465 
+9.4% 
+Transportation and warehousing, and 
+utilities 
+877 
+6.4% 
+803 
+5.2% 
+Information 
+558 
+4.1% 
+486 
+3.1% 
+Finance, insurance, real estate, and rental 
+and leasing 
+1655 
+12.1% 
+1390 
+9.0% 
+Professional, scientific, management, 
+administrative, and waste management 
+services 
+1578 
+11.6% 
+1875 
+12.1% 
+Educational, health and social services 
+3572 
+26.2% 
+4483 
+28.9% 
+Arts, entertainment, recreation, 
+accommodation and food services 
+707 
+5.2% 
+1754 
+11.3% 
+Other services (except public 
+administration) 
+713 
+5.2% 
+697 
+4.5% 
+Public administration 
+362 
+2.7% 
+272 
+1.8% 
+Total  
+13,657 
+100.0% 
+15,526 
+100.0% 
+ 
+Source: American Community Survey 5-Year Estimates 
+ 
+3. Employment Projections. A projection of the City’s probable future employment characteristics is 
+based on an assessment of historic employment trends, the number of non-residential 
+construction permits issued, and probable non-residential development of lands.  Each of these 
+items are identified and outlined below. 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 32 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 33 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+27 
+ 
+ 
+ 
+a. 
+Historic Employment Trends. As shown in the table below, employment in Englewood has 
+experienced modest gains in 2022 to 2023 but has fluctuating over the years with job 
+losses and gains with the largest loss of jobs occurring, not surprisingly, in 2020 during 
+the COVID epidemic when the economy shed jobs. 
+b. 
+ 
+Table 19: Average Covered Employment Trends (2012-2023) 
+Year 
+Number of Jobs 
+Change in 
+Percent Change 
+Number of Jobs 
+2012 
+14,688 
+  
+  
+2013 
+14,679 
+-9 
+-0.1% 
+2014 
+14,905 
+226 
+1.5% 
+2015 
+15,079 
+174 
+1.2% 
+2016 
+15,357 
+278 
+1.8% 
+2017 
+15,520 
+163 
+1.1% 
+2018 
+16,142 
+622 
+3.9% 
+2019 
+16,761 
+619 
+3.7% 
+2020 
+15,633 
+-1,128 
+-7.2% 
+2021 
+16,449 
+816 
+5.0% 
+2022 
+17,329 
+880 
+5.1% 
+2023 
+17,645 
+316 
+1.8% 
+ 
+Sources: New Jersey Department of Labor and Workforce Development 
+ 
+c. 
+Non-Residential Square Footage Constructed During the Last Ten Years. The table below 
+provides data concerning the amount of non-residential square footage authorized by 
+building permits in Englewood between 2014 and 2023. During this period, building 
+permits were issued for 842,251 square feet of non-residential space, the majority of 
+which (approximately  71.8 percent or 59,557 square feet) was for office and storage 
+space. On average, the City issued building permits for approximately 84,225 square feet 
+of non-residential space per year over the past decade however, there has been a 
+noticeable decline from the past two years.  
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 33 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 34 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+28 
+ 
+ 
+ 
+                  Table 20: Non-Residential Space Authorized by Building Permits (2014-2023) 
+Year 
+Issued 
+Office 
+Retail 
+A-2 
+A-3 
+A-4 
+Institutional 
+Industrial 
+Storage 
+Total 
+2014 
+1 
+2113 
+0 
+4800 
+0 
+0 
+0 
+0 
+6914 
+2015 
+0 
+1 
+742 
+0 
+0 
+74812 
+0 
+1 
+75556 
+2016 
+31833 
+11500 
+0 
+20466 
+0 
+0 
+23970 
+0 
+87769 
+2017 
+303650 
+0 
+0 
+19640 
+0 
+8900 
+0 
+0 
+332190 
+2018 
+3477 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+3477 
+2019 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+2020 
+4477 
+173335 
+0 
+0 
+0 
+0 
+2086 
+34209 
+214107 
+2021 
+15150 
+0 
+0 
+3250 
+0 
+0 
+0 
+14678 
+33078 
+2022 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+2023 
+0 
+0 
+0 
+2745 
+0 
+0 
+0 
+165408 
+168153 
+Total 
+410858 
+195101 
+1483 
+78996 
+0 
+87036 
+30628 
+229808 
+1033910 
+ 
+Source: New Jersey Department of Community Affairs (DCA) Construction Reporter 
+ 
+d. 
+Probable Non-Residential Development of Lands. As indicated above the City 
+experienced an average of 84,225 square feet of new non-residential space per year over 
+the past decade but shows sign of slowing. The City anticipates redevelopment to occur 
+however, it appears that non-residential construction has stabilized to a much slower 
+pace.  
+ 
+e. 
+Probable Future Employment Characteristics. As detailed in Table 18 above, employment 
+in Englewood is not expected to experience significant job growth over the next decade 
+which can be expected given the slowing pace of non-residential construction.   
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 34 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 35 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+29 
+ 
+SECTION 3: FAIR SHARE OBLIGATION 
+ 
+The following section provides an overview of the City’s fair share obligation. It includes a brief 
+overview of the methodology utilized to calculate affordable housing obligations throughout the 
+state. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 35 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 36 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+30 
+ 
+SUMMARY OF FAIR SHARE OBLIGATION 
+ 
+On March 20, 2024, Governor Murphy signed the A4/S50 Bill into law, which amended the FHA for 
+the Fourth Round and beyond.  The amendments to the FHA eliminated COAH, moved away from 
+just allowing trial courts to approve municipal HE&FSPs, and created a new entity to approve the 
+plans known as The Program, which consists of seven retired Mount Laurel Judges.  FHA-2 also 
+involved the DCA and the AOC in the process. 
+ 
+The Amended FHA now designates the DCA as the entity responsible for calculating the state’s 
+regional needs. Specifically, N.J.S.A. 52:27D-304.2 establishes the methodology to be utilized by the 
+DCA to determine the state’s regional prospective needs of low- and moderate-income housing for 
+the ten-year period spanning from July 1, 2025 to June 30, 2035. In summary, the projected 
+household change for this period is estimated by establishing the household change experienced in 
+each region between the most recent federal decennial census and the second-most recent decennial 
+census. This household change, if positive, is then to be divided by 2.5 to estimate the number of 
+low- and moderate-income homes needed to address low- and moderate-income household change 
+in the region for the next ten years. This methodology resulted in a statewide prospective need of 
+84,698 low- and moderate-income units. 
+ 
+Furthermore, the DCA is also the entity responsible for calculating each municipality’s present and 
+prospective fair share obligations. However, FHA-2 makes clear that these calculations are advisory 
+and non-binding, and that each municipality may set its own obligation number utilizing the same 
+methodology. 
+ 
+On January 21, 2025, the City of Englewood adopted Resolution #050-01-25, which established its 
+affordable housing obligations for the Fourth Round. A copy of this resolution with the City’s filing 
+for Declaratory Relief is located in Appendix A of this plan. As noted in that resolution, the City 
+accepted DCA’s Present Need calculation of 166 units however, a detailed analysis of parcels 
+identified by the DCA were found to statutorily exempt and should not have been counted towards 
+the City’s developable acreage.  This analysis reduced the City’s obligation from 381  to  331 units. A 
+subsequent challenge by the NJ Builder’s Association, was filed with the Program and by settlement, 
+the prospective need was established by the Program as 359 units. 
+ 
+Table 21: Summary of Fair Share Obligation 
+Affordable Obligation 
+Units 
+Present Need (Rehabilitation)  
+166 
+Prospective Need 
+359 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 36 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 37 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+31 
+ 
+ 
+SECTION 4: FAIR SHARE PLAN 
+ 
+The following Fair Share Plan outlines the components and mechanisms the City will utilize to address 
+its affordable housing obligations. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 37 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 38 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+ 
+32 
+ 
+A.  
+PLAN SUMMARY 
+ 
+The Fair Share Plan identifies the manner in which the City’s fair share affordable housing obligations 
+– inclusive of a Present Need (Rehabilitation) obligation of 166 units, a First and Second Round 
+obligation of 152 units, a Third Round Prospective Need obligation of 724 units and a Fourth Round 
+obligation of 359 – are to be addressed. These obligations are summarized as follows: 
+ 
+Table 22: Affordable Housing Obligations Summary 
+Category 
+Obligation 
+Present Need (Rehabilitation) Obligation 
+166 
+First & Second Round Obligation (1987-1999) 
+152 
+Third Round Obligation (1999-2025) 
+724 
+Fourth Round Obligation (2025-2035) 
+359 
+Total 
+1,401  
+ 
+  
+ 
+B. 
+PLAN COMPONENTS 
+ 
+This section of the plan details the projects, mechanisms and funding sources which will be used 
+to meet the City’s affordable housing obligations, as discussed above. The Plan Components 
+Map included at the end of Section 4.C. of this plan illustrates the location of all developments 
+identified herein. 
+ 
+(1) 
+Present Need (Rehabilitation) Obligation  
+ 
+Englewood has a Present Need obligation of 166 (166) units.  The City established a 
+housing rehabilitation program under the Third Round cycle and will continue its 
+program into the Fourth Round and partner with the Bergen County Housing 
+Rehabilitation Program. 
+ 
+(2) 
+First and Second Round RDP 
+ 
+As discussed in Section 3 of this plan, Englewood’s combined prior First and 
+Second Round RDP obligation was152 units. As verified during the Third Round 
+certification process, the City addressed its entire prior round obligation. The 
+following table illustrates the manner in which the City satisfied this obligation. 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 38 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 39 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+ 
+33 
+ 
+Table 23: Plan Components Satisfying Prior 1985-1999 First & Second Round RDP 
+Name of Development 
+# of AH units 
+# of bonus 
+credits 
+Total AH 
+credits 
+Comments/Status 
+Westmoor Gardens 
+64 
+ 
+64 
+Prior Cycle family 
+rental 
+credits; Completed in 
+1984 
+Shepard House 
+12 
+12 
+24 
+Supportive housing; 
+completed in 1998 
+Independence Hall 
+8 
+1 
+9 
+Supportive housing; 
+completed in 1998 
+J-ADD (UJC) Group Home 
+4 
+ 
+4 
+Supportive housing; 
+completed in 1988 
+PSCH-Phelps Avenue 
+4 
+ 
+4 
+Supportive housing; 
+completed in 1999 
+PSCH-Knickerbocker Road 
+4 
+ 
+4 
+Supportive housing; 
+completed in 2002 
+167-169 Morse 
+4 
+ 
+4 
+Family rental; 
+Completed in 1993 
+Garrett Apartments 
+34 
+ 
+34 
+Prior Cycle Family 
+Rental; Completed in 
+1982 
+First Baptist Church 
+5 
+ 
+5 
+Supportive housing; 
+completed in 2009 
+Total 
+139 
+13 
+152 
+ 
+(3) 
+Third Round Prospective Need 
+ 
+The City’s affordable housing obligation related to Prospective Need was 
+established by a Vacant Land Adjustment (VLA) and the imposition of a realistic 
+development potential (RDP) analysis, undertaken pursuant to the Third Round 
+rules. The vacant land analysis identified all vacant sites of minimally 0.83 acres 
+in size, imposed wetland, steep slope and flood plain information pursuant to 
+the applicable regulations, and calculated the remaining acreage that is to be 
+utilized to determine the City’s RDP. 
+ 
+The analysis identified 211 lots comprising 176.93 acres of developable land in 
+the community that qualified for RDP analysis.  This analysis showed only a 
+fraction of these lots qualified as developable owing to the fully developed 
+character of the City and the presence of environmentally sensitive features that 
+are excluded from the RDP calculation. Pursuant to the applicable regulations 
+presumptive densities were applied to the available lots which results in an RDP 
+based upon the VLA of 23 units. 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 39 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 40 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+ 
+34 
+ 
+Additional development was identified that qualified for inclusion in the RDP calculation that 
+added an additional 53 units for a total RDP of 76 units as indicated in Table 24 below. 
+ 
+Table 24:  Third Round RDP Calculation 
+Development 
+RDP 
+City’s VLA 
+23 
+15 S. Dean Street 
+18 
+Hotel Pad Site 
+33 
+West Englewood Avenue 
+2 
+Total 
+76 
+ 
+  
+From the prior judgement of compliance and repose, the City was entitled to a credit of 
+95 unit for projects that were constructed and resulted in affordable units.  These are 
+highlighted in Table 25. 
+ 
+Table 25:  Third Round Credits 
+Development 
+AH Units 
+Comments/Status 
+Westmoor Gardens (extension of 
+ affordability controls 
+64 
+Prior 
+Cycle 
+family 
+rental 
+units; 
+Completed in 1984 with controls 
+extended during the period of 
+repose between 2014-2019 
+Habitat for Humanity 
+4 
+Family for sale units complete in 2008.
+Foti 
+3 
+Additional units added to existing 
+unit. 
+Vantage Health 
+3 
+Supportive Housing completed in 
+2011 
+Englewood Avenue Senior 
+6 
+Completed 
+Flatrock Square (ERA South, 
+LLC)(Block 2605, Lot 2.03) 
+14 
+Completed 
+Bristol (Assisted Living) 
+1 
+Completed in 2018 
+Total 
+95 
+ 
+The remaining balance or difference between the City’s total Third Round Prospective Need 
+Obligation and RDP resulted in an “Unmet” Need of 640 units (648 less 8-unit credit from the 
+Bristol Senior Assistance Living development). 
+ 
+The City’s Third Round plan satisfied the RDP with projects and rental bonuses as indicated in the 
+following table. 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 40 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 41 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+ 
+35 
+ 
+Table 26: Plan Components Addressing Third Round RDP 
+Development 
+Number of Affordable Units 
+ERA-Hotel Pad Site 
+33 
+Bristol Assisted Living 
+19* 
+202 First Street 
+4 
+Vivian (ERA South) 
+1 
+Rental Bonuses 
+19 
+Total 
+76 
+*The Bristol is limited to 19 credits because of the age-restriction cap. 
+The remainder of the units was applied towards the City’s unmet need. 
+ 
+To satisfy its unmet need the City agreed to created overlay zones over portions of the City to create 
+opportunities for inclusionary development varying densities as indicated below. 
+ 
+Table 27:  Affordable Housing Overlay Zones 
+Site Id 
+Density per Acre 
+First Student Charter Bus (Block 2407, Lot 7; 
+Block 2801 Lot 1) 
+35 
+Areas 1, 2, 3, 4, 6, 8, 10, 11, 12, 13, and 14 
+15 
+Area 5 
+50 
+Area 7 
+35 
+Area 9 
+35 
+ 
+A map identifying the locations of the overlay zones is appended to this document. 
+ 
+In addition to creating overlay zones, the City agreed to the following other additional compliance 
+mechanisms to address unmet need were required.  
+ 
+a. The City committed to engage non-profit affordable housing organizations to construct a 
+100% affordable housing project with the goal of providing 25 additional units for families.  
+As required by the settlement agreement the City is to take the following actions:  
+ 
+1.  Englewood is to encourage the involvement of non-profits in meeting its    
+unmet need, with a goal of providing 25 additional homes for families by 
+July 1, 2025. 
+ 
+2. The City agreed to do this in part through its spending plan and in part 
+through cooperation in obtaining other public subsidies in addition to 
+other affirmative measures required by law. 
+ 
+3. The City also agreed to hold an annual meeting in which local and regional 
+non-profits are invited to participate in sharing ideas and making 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 41 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 42 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+ 
+36 
+ 
+proposals. 
+ 
+4. Englewood agreed to discuss its efforts to provide 25 additional homes for 
+families at a council meeting for which 30 days' public notice shall be 
+provided, which meeting shall occur in the month selected by the City 
+within the first six months of the year and annually thereafter in that same 
+month through July 1, 2025. The City is to provide a written report 
+regarding its efforts during the past year at least two weeks prior to the 
+annual meeting. 
+ 
+5. Other than using trust funds that it has already received, as well as trust 
+funds it receives in the future, in accordance with an approved spending 
+plan, as addressed in this agreement, i t  was acknowledged Englewood 
+would have no financial obligation to pay for or subsidize the 25 units 
+addressed in this section. This meant that Englewood would not be 
+required to adopt a "Resolution of Intent to Bond" and would not be 
+required to use funds other than Affordable Housing Trust Funds to 
+support these units. The City acknowledged that a Resolution of Need, tax 
+abatement or other similar actions require formal actions by the governing 
+body may be required under certain affordable housing laws or as a 
+condition precedent to the award of certain public subsidy programs. 
+ 
+b. The City adopted an ordinance requiring a mandatory affordable housing set aside for all 
+new multi-family residential developments of five (5) units or more that becomes permissible 
+through either a use variance, a density variance increasing the permissible density at the site, 
+a rezoning permitting multi-family residential housing where not previously permitted, or a 
+new or amended redevelopment plan. The mandatory set-aside was amended to require a 
+20% affordable housing set-aside for eligible developments subject to the ordinance 
+pursuant to the settlement with FSHC. 
+Significantly, as part of the settlement agreement, the City reserved its right to revisit its claim to 
+credits related to Rock Creek Terrace apartments or the Park View Terrace apartments and to address 
+the creditworthiness of those units in the Fourth or subsequent Rounds.  These credits were the 
+subject of disagreement between the City and FSHC and rather than litigate the issue, both parties 
+agreed to defer the controversy for a later round.  The City will validate and affirm the entitlement 
+to utilize these credits through an official determination by the Program confirming the City's right 
+to apply these credits for use in the Fourth Round or for future rounds. 
+ 
+It needs to also be noted that the City has fulfilled its obligations under the Third Round and took all 
+of the required actions under its settlement agreement with FSHC and the Court Judgement of 
+Compliance and Repose.  However, at this time, the City has yet to capture affordable units under its 
+Third Round plan.  It should be acknowledged that the normal time period for an affordable housing 
+period is ten years.  The City only just received its judgement of compliance and repose as a result 
+of a compliance hearing held on January 20, 2023 which is only a year and half ago and more time 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 42 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 43 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+ 
+37 
+ 
+is needed to allow the plan to progress. The City maintains that the Third Round Plan is still viable 
+and remains committed to implementing the plan which will continue into the Fourth Round. 
+ 
+(4) 
+Fourth Round RDP 
+ 
+a. By settlement with the New Jersey Builder’s Association through the Program settlement 
+process, the  City of Englewood has a Fourth Round Prospective need of 359 affordable units.  
+The City will address its Fourth Round obligation in the following manner. 
+ 
+b. Pursuant to N.J.A.C. 5:97-5.1(d) and the Township’s 2018 Settlement Agreement with FSHC, 
+the City is entitled to rely on the previous Vacant Land Adjustments which established its RDP 
+and that said RDP shall not be revisited absent any substantial “changed circumstances”. FSHC 
+vs Twp. of Cherry Hill, 173 NJ. 303 (2002) is the leading case that called for the possible 
+recalibration of an RDP based upon changed circumstances. 
+ 
+Based upon the above, a detailed vacant land analysis of potential changed circumstances to evaluate 
+whether any such change would warrant a recalibration of the RDP previously assigned and agreed 
+upon, including a review of all vacant Class 1, Class 3B and Class 15 properties in the Township was 
+conducted. 
+ 
+The analysis confirmed that there were no properties representing a changed circumstance requiring 
+a 4th Round RDP obligation. This is largely due to the fact that the City lacks developable land as 
+demonstrated by the VLA. As such, the City’s  RDP is 0. 
+ 
+Because the City has a 4th Round RDP obligation of zero (0) units, the entirety of the City’s 4th Round 
+Prospective Need obligation of 359 units is considered Unmet Need. 
+ 
+FHA-2 includes language requires VLA municipalities to satisfy a 25% portion of their Fourth Round 
+RDP obligation by identifying sites likely to redevelop and then applying “realistic zoning,” an 
+undefined term, to those parcels. Specifically, amended Section 1 of P.L.1995, c.231 (C.52:27D-310.1) 
+of FHA-2 reads as follows: 
+ 
+Any municipality that receives an adjustment of its prospective need obligations for the 
+fourth round or subsequent rounds based on a lack of vacant land shall as part of the process of 
+adopting and implementing its housing element and fair share plan identify sufficient parcels 
+likely to redevelop during the current round of obligations to address at least 25 percent of the 
+prospective need obligation that has been adjusted, and adopt realistic zoning that allows for 
+such adjusted obligation, or demonstrate why the municipality is unable to do so. 
+ 
+For the Fourth Round, Englewood’s  “prospective need obligation that has been adjusted“  (i.e., its 
+RDP obligation) is zero (0) units. As such, the City has no redevelopment obligation to address, as 
+25 percent of zero (0) is zero (0).  
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 43 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 44 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+ 
+38 
+ 
+ 
+Compliance mechanisms to address unmet need is discussed below. 
+ 
+ 
+C. 
+Plan Components 
+ 
+The following mechanisms form the basis of the City’s Fourth Round compliance plan for unmet 
+need. 
+ 
+(1) All compliance mechanisms of the Third Round Plan will remain in place with the exception that 
+the City will modify the current overlay zone map by removing certain overlay zones and 
+replacing same with substitute sites.  The City has determined this on the basis that, through 
+public outreach, concerns were raised about neighborhood impacts, and the City identification 
+of other areas it deems better suited to address unmet need.  A map identifying the sites more 
+specifically is appended to this plan. 
+ 
+(2) Specific parcels to be added as substitute sites include the following properties. 
+ 
+a. West side of West Street Between Tallman Place and W. Demarest Avenue 
+Identified as Block 605, Lots 3-7; Total acreage: 1.32 acres. 
+ 
+The area is located in the D-2d zone and are underutilized parcels located on the fringe 
+of the downtown area.  Land uses include open parking areas, a bank and small strip 
+center.  Although partially located in a flood zone, the City anticipates that development 
+will occur on these properties.  Furthermore, the area is located within the fringe of the 
+City’s downtown but has excellent proximity to shops and services including Treeco Plaza 
+situated directly across the street to the south, and a municipal park directly across the 
+street to the east.  Furthermore, the recently adopted 2024 City Master Plan recommends 
+housing be concentrated in and near the downtown area where higher densities are 
+considered more appropriate for multifamily development thereby fulfilling a City master 
+plan policy. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 44 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 45 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+ 
+39 
+ 
+West side of West Street Between Tallman Place and W. Demarest Avenue 
+ 
+Source:  Google Earth 
+ 
+b. 215 West Englewood Avenue on north side heading East to Cottage Place 
+Identified as Block 2008, Lots 18-20 & Block 2009, Lots 20-22; Total acreage: 1.22 acres. 
+ 
+The property is zoned NC, Neighborhood Commercial.  The properties are characterized 
+by abandoned buildings, nearly all pavement with little vegetative relief and is need of 
+redevelopment.  Metzler Brook runs along the westerly property line, however the 
+associated flood plain is confined to the stream edge itself.  The surrounding area is 
+developed with other multifamily uses with local businesses. 
+ 
+Repurposing this area to residential would revitalize an area that is otherwise underutilize 
+and characterized by disinvestment that is detrimental to the neighborhood.   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 45 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 46 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+ 
+40 
+ 
+ 
+ 
+        215 West Englewood Avenue on north side heading East to Cottage Place 
+        Source:  Google Earth 
+ 
+c. 370-406  Grand Avenue 
+ 
+Identified as Block 2910 Lots 3 & 4.01 and Block 2912 Lot 6 
+ 
+The Grand Avenue site is located in the SBD, Special Business Zone and is presently 
+developed with car dealerships that are characterized by vast expanse of parking with 
+stacked vehicles for sale fully visible to the public. The surrounding area is a mix of low 
+rise commercial buildings. The site is less than 300 feet from the intersection of Grand 
+Avenue and Route 4. 
+ 
+The site offers an opportunity to revitalize and introduce a mixed use development where 
+there would be storefronts with apartments above thereby eliminating the vast amount 
+of pavement and vehicle storage and creating a new and vibrant street. 
+ 
+  
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 46 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 47 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+ 
+41 
+ 
+370-406 Grand Avenue 
+Source:  Google Earth 
+  
+ 
+3. Amending the Current Mandatory Set Aside Ordinance.  As part of the settlement agreement 
+with FSHC in the Third Round, the City adopted a mandatory set aside ordinance requiring a 
+20% set aside for any development of five (5) units or more, for overlay areas, rezonings and 
+use variance.  However, current zoning permits residential development within the downtown 
+zones and NC, Neighborhood Commercial zones where the mandatory set aside ordinance 
+would not apply given the present language of the code leaving the possibility of residential 
+development occurring but without the obligation to provide affordable housing.  
+Consequently, the Mandatory Set Aside section of the code will be amended to apply to any 
+residential development of five units or more as a mechanism to expand the opportunity to 
+create further opportunity to produce affordable housing units by capturing dwelling units for 
+affordable housing that might otherwise be lost. 
+ 
+ 
+Given the expanse of the current overlay zones supplemented by an expanded mandatory set 
+aside ordinance there is more than ample opportunities to provide for affordable housing 
+development that achieve the following goals: 
+ 
+• 
+Provide for affordable housing in or near the downtown area as recommended by the 
+City master plan; and 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 47 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 48 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+ 
+42 
+ 
+• 
+Provide opportunity to repurpose and revitalize areas that are in decline, exhibiting 
+disinvestment or are otherwise underutilized. 
+ 
+ 
+ 
+D. 
+OTHER PROVISIONS 
+ 
+The following additional requirements are noted: 
+ 
+1. 
+Fourth Round Bonuses. Fourth Round bonuses will be applied in accordance with N.J.A.C. 
+52:27d-311.k. 
+ 
+2. 
+Very-Low Income and Low-Income Units. At least 50 percent of the units addressing the 
+Fourth Round Prospective Need obligation shall be affordable to very low-income and low-
+income households with the remainder affordable to moderate-income households. A 
+minimum of 13 percent of the affordable units will be made available to very low-income 
+households, defined as households earning 30 percent or less of the regional median income 
+by household size. 
+ 
+3. 
+Rental Component. At least 25 percent of the Fourth Round Prospective Need obligation shall 
+be met through rental units, including at least half in rental units available to families. 
+ 
+4. 
+Families. At least half of the actual units created to address the Fourth Round Prospective 
+Need obligation must be available to families. 
+ 
+5. 
+Age-Restricted Cap. No more than 30 percent of all units developed or planned to meet the 
+Fourth Round Prospective Need obligation shall be met with age-restricted units. 
+ 
+ 
+E. 
+REJECTED DEVELOPMENT SITES 
+ 
+The City formed a subcommittee whose members included the Mayor, two Councilpersons and 
+two Class IV members of the Planning Board.  The City also held public presentations to solicit 
+public input.  The City was reviewed and determinations made as to how best to comply with 
+the FHA-2.  Given the lack of developable land, the subcommittee focused on opportunities to 
+promote affordable housing while using redevelopment as a tool to revitalize areas.  Sites that 
+were severely impacted by environmental constraints such that development would exacerbate 
+existing conditions or otherwise were located in areas that would not be compatible with the 
+surrounding neighborhood were avoided.   
+ 
+The City was approached by developers interested in developing a 150 unit multifamily 
+development on property located at 7 North Woodland Street and 405-431 East Palisade Avenue 
+further identified as Block 1902, Lots 501, 7 & 8.  The 5.29 acre parcel is presently developed 
+with an historic single family home and is impacted by the presence of wetlands that limits 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 48 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 49 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+ 
+43 
+ 
+development to buildable area of approximately 3 acres.  The parcel also abuts a low density 
+single family residential neighborhood. 
+ 
+The property has already been assessed by the City for multifamily development in the prior 
+Third Round and included in the City’s housing plan within the AHO-1, affordable housing zone, 
+that permits a residential density of 15 dwelling units per acre.     
+ 
+For these reasons, the assigned density was deemed appropriate for the property and placed in 
+the AHO-1 zone which could result in the development potential of 78 dwellings producing 20 
+affordable units where the proposal presented was seeking to double that density.  Upon review 
+of the proposal, the City saw no change in conditions from the Third round that would warrant 
+a change in designation or density for this round.     
+ 
+The final conclusion of the subcommittee was that the current affordable housing overlay zones 
+created during the Third Round, as to be modified consistent with this plan, supplemented by 
+an expanded mandatory set aside ordinance, satisfies the City’s affordable housing unmet need 
+obligation for the Fourth Round.  
+ 
+F. 
+OTHER PROVISIONS 
+ 
+The following additional requirements are noted: 
+ 
+1. 
+Fourth Round Bonuses. Fourth Round bonuses will be applied in accordance with N.J.A.C. 
+52:27d-311.k. 
+ 
+2. 
+Very-Low Income and Low-Income Units. At least 50 percent of the units addressing the 
+Fourth Round Prospective Need obligation shall be affordable to very low-income and 
+low-income households with the remainder affordable to moderate-income households. 
+A minimum of 13 percent of the affordable units will be made available to very low-
+income households, defined as households earning 30 percent or less of the regional 
+median income by household size. 
+ 
+3. 
+Rental Component. At least 25 percent of the Fourth Round Prospective Need obligation 
+shall be met through rental units, including at least half in rental units available to families. 
+ 
+4. 
+Families. At least half of the actual units created to address the Fourth Round Prospective 
+Need obligation must be available to families. 
+ 
+5. 
+Age-Restricted Cap. No more than 30 percent of all units developed or planned to meet 
+the Fourth Round Prospective Need obligation shall be met with age-restricted units. 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 49 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 50 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+ 
+44 
+ 
+G. 
+CONSISTENCY WITH STATE PLANNING INITIATIVES 
+ 
+As noted in Section 1 of this plan, a HE&FSP must also include: 
+ 
+❖ 
+An analysis of the extent to which municipal ordinances and other local factors advance 
+or detract from the goal of preserving multigenerational family continuity as expressed 
+in the recommendations of the Multigenerational Family Housing Continuity 
+Commission; and 
+ 
+❖ 
+An analysis of consistency with the State Development and Redevelopment Plan, 
+including water, wastewater, stormwater, and multi-modal transportation based on 
+guidance and technical assistance from the State Planning Commission. 
+ 
+Accordingly, the following subsection analyzes the consistency of this HE&FSP to the above 
+referenced state planning initiatives. 
+ 
+ 
+1. 
+Multigenerational Family Housing Continuity Commission 
+ 
+The Multigenerational Family Housing Continuity Commission was established by the 
+State of New Jersey in 2021. As noted in N.J.S.A. 52:27D-329.20, one of the primary duties 
+of the Commission is to “prepare and adopt recommendations on how State government, 
+local government, community organizations, private entities, and community members 
+may most effectively advance the goal of enabling senior citizens to reside at the homes 
+of their extended families, thereby preserving and enhancing multigenerational family 
+continuity, through the modification of State and local laws and policies in the areas of 
+housing, land use planning, parking and streetscape planning, and other relevant areas.” 
+ 
+As of the date of this HE&FSP, the Multigenerational Family Housing Continuity 
+Commission has not yet adopted any recommendations. 
+ 
+2. 
+State Development and Redevelopment Plan 
+ 
+As established by N.J.S.A. 52:18A-200(f), the purpose of the State Development and 
+Redevelopment Plan (SDRP) is to “coordinate planning activities and establish Statewide 
+planning objectives in the following areas: land use, housing, economic development, 
+transportation, natural resource conservation, agriculture and farmland retention, 
+recreation, urban and suburban redevelopment, historic preservation, public facilities and 
+services, and intergovernmental coordination.” 
+ 
+As such, the SDRP establishes a number of goals and strategies related to a number of 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 50 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 51 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+ 
+45 
+ 
+different topics, including the development of affordable housing, the redevelopment of 
+existing properties to avoid sprawl, and promoting smart growth principles. 
+ 
+As indicated by the SDRP’s Policy Map, the entirety of Englewood City is located in the 
+PA-1, Metropolitan Planning Area which encompasses cities and their surrounding areas 
+and where development and redevelopment is to be directed. 
+ 
+Accordingly, this HE&FSP is consistent with the intents of the PA-1 designation. 
+Specifically, it is designed to encourage redevelopment and growth in addressing its 
+affordable housing obligation by repurposing existing developed sites while revitalizing 
+otherwise underutilized or deteriorated site conditions. 
+ 
+  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 51 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 52 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: js@burgis.com 
+ 
+46 
+ 
+ 
+  
+Appendices 
+ 
+A. 
+Vacant Land Analysis 
+ 
+B. 
+Overlay Map  
+ 
+C. 
+Spending Plan 
+ 
+D. 
+Draft Amended Mandatory Set Aside Ordinance   
+ 
+E. 
+Draft Amended Affordable Housing Overlay Zone Ordinance 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 52 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 53 =====
+BER-L-000535-25
+06/06/2025 3:43:08 PM
+Pg 53 of 71
+Trans ID: LCV20251699832
+A. Vacant Land Analysis
+47
+
+===== PAGE 54 =====
+ 
+48 
+ 
+ 
+ 
+May 22, 2025 
+City of Englewood 
+Affordable Housing Trust Fund Spending Plan 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 54 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 55 =====
+BER-L-000535-25
+06/06/2025 3:43:08 PM
+Pg55of71
+Trans ID: LCV20251699832
+B. Overlay Map
+49
+
+===== PAGE 56 =====
+BER-L-000535-25
+06/06/2025 3:43:08 PM
+Pg 56 of 71
+Trans ID: LCV20251699832
+;
+=
+r
+=e
+.
+‘
+my
+/
+fs
+x
+i
+enreberpe EITMML
+Sp
+i.
+Beecarmanaul\nnmanlaa'
+sg 22:=
+inne
+ar yy Slay tan
+Fe
+esUI
+7
+BOR
+eo!
+2 clebe |ee HN
+i Ae
+AES
+Fae J
+7
+~S
+ee
+J i
+F eycunta|
+eNyAntS
+FSX
+!
+SILLS
+2
+fee
+N hse.
+aw UMN Oe
+ee
+TONS
+Hi
+SWae
+RRS BS
+Ties
+iets SS
+BRANION: Tages
+BORE ONS NS RUSTE
+SET A RON
+IRN CER SLOG?
+feOo
+ORIN IR
+es
+oe sERO NOS 2
+OSS L\SS/Fi
+Bere
+MINEL/e, LOWS OS FESS] eSihe GRSSS Gi
+anetiiar ellasy Dy
+pgLSKESRE Ue Stine VRS.
+SE yi MAS NO/S
+ah 2)Sp ORIN
+OS Oa
+Tp
+Pe) NOR
+eee
+Ae;
+RSE
+lay aii a. = OU
+Maes
+SUF =Teg £x\ SY, yee ae BO) Ss]e
+SyUlli NV S)SS EP Sarees ABE ONT
+7 Y) SEES | THUS
+OPSMal
+S VSS KSRip GREE ssDO UNK SRB
+ts 25578
+Sage STI eg
+)
+SnospitedPa
+SOI i UEMUU
+ROR 05
+oS AY ST
+PRSOG
+lo kLKS AY Sor <a Us Pog dns SHG
+iPE PRIASL
+phLES PMI
+GG
+WE PRR
+mhTien
+\ Pat
+BU
+er CRUS|
+Wii!4 pehe bs:
+BS
+SRIASKG
+rae/4)
+WN
+mS
+Pope)=
+Le IIS
+BOR SIS
+ONR
+Sy
+Bla
+Se
+¥S
+J) SN
+rs)
+(0%
+Ls BC
+pie LAT
+SL
+PY
+hit ney
+es, © J
+ME
+LIROROR
+Sor
+Y
+>
+Ga
+eX AI PROG
+ENE
+LO
+AY
+BA LIN TOUS
+y
+PRIS OIES ORSON
+y
+'
+/
+HENSON
+TN
+%
+2)
+Pe
+OLSON
+Nyaa
+ea
+e/
+SS
+LEO
+fy
+C2
+/
+SOUGrGye
+N)
+:
+/
+POS JSR
+SOQ)
+'S
+os
+Wee
+£26
+726SSGo
+Se)
+1 >
+»
+(9 NESan oe
+hae
+/
+y
+SARS
+py,
+/
+IS ROT COLTS
+fp Legend
+J
+LK
+Vine &
+Nie,
+0
+Fy no
+wy
+JES: ~,Ute
+3
+/? $"""7 Municipal Boundary
+Py
+aa
+2
+“
+7 G
+\;
+ses.
+:
+arcels
+;
+4
+iw,/
+\ N Evles?
+Y
+:
+[7] Waterbodies
+Sts
+Mic 29 PT ere it
+—— Streams
+Se
+fy
+4 os
+Ss
+*
+50-ft Riparian Buffer
+oS
+free
+POG.
+YZ Wetlands
+?
+: oy Fe bas Wf
+50-ft Wetlands Buffer
+!
+ey
+So
+HE >)
+HIE 100-Vear Floodplain
+/
++
+. Ps % hy
+a 3
+HEME Steep Slopes
+,
+Y
+I
+,
+is ion I -
+NN
+naccaanpmeallanapacsian
+54
+~¥.
+/ i
+sf"
+Pa
+Saaa
+Overlay Zoning and Environmental Constraints
+| a75028 [anvea] on |
+LS
+Housing Element and Fair Share Plan 2025 | 1721300" | overay |
+
+===== PAGE 57 =====
+BER-L-000535-25
+06/06/2025 3:43:08 PM
+Pg57of71
+Trans ID: LCV20251699832
+C. Spending Plan
+51
+
+===== PAGE 58 =====
+ 
+52 
+ 
+ 
+ 
+ 
+ 
+INTRODUCTION 
+ 
+The City of Englewood (hereinafter the “City”), Bergen County, has prepared a Housing Element 
+and Fair Share Plan that addresses its regional fair share of the affordable housing need in 
+accordance with the Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.), the Fair Housing Act 
+(FHA) (N.J.S.A. 52:27D-301) and the regulations of the Council on Affordable Housing (COAH) 
+(N.J.A.C. 5:91-1 et seq. and N.J.A.C. 5:93-1 et seq.). The City of Englewood Affordable Housing 
+Trust Fund was opened in July 2008. 
+ 
+As of April 23, 2025, the City of Englewood has a balance of $2,521,611 in its Affordable Housing 
+Trust fund. All development fees, payments in lieu of constructing affordable units on site, 
+funds from the sale of units with extinguished controls, and interest generated by the fees are 
+deposited in a separate interest-bearing affordable housing trust fund account for the 
+purposes of affordable housing.  These funds shall be spent in accordance with N.J.A.C. 5:93-
+8.16 as described in the sections that follow.  
+ 
+1.  REVENUES FOR CERTIFICATION PERIOD 
+ 
+Based on historic revenue trends over the last five years, it is anticipated that between now and 
+June 30, 2035, which is the end of the Fourth Round period, the City will add an additional 
+$2,700,000 to its Affordable Housing Trust Fund. This revenue is projected to consist of 
+$200,000 in anticipated development fee revenues and $25,000 in anticipated interest, as 
+shown in the table below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 22, 2025 
+City of Englewood 
+Affordable Housing Trust Fund Spending Plan 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 58 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 59 =====
+ 
+53 
+ 
+SOURCE OF FUNDS 
+PROJECTED REVENUES – AFFORDABLE HOUSING 
+TRUST FUND 
+MAY 10, 2023 THROUGH JUNE 30, 2035 
+ 
+5/10-12/31 2023 
+1/1-12/31 2024 
+1/1-6/30 2035 
+Total 
+(a) Development 
+fees: 
+$190,685 
+$288,917 
+$144,458 
+$624,060 
+(b) Payments in 
+Lieu of 
+Construction 
+$0  
+$0  
+$0  
+$0  
+(c) Other Funds 
+$0  
+$0  
+$0  
+$0  
+(d) Interest 
+$1,715  
+$2,599  
+$1,300  
+$5,614  
+Total 
+$192,400  
+$291,516  
+$145,758  
+$629,674  
+ 
+In sum, the City of Englewood projects a total of $629,674 in revenue to be collected between 
+May 10, 2023 and June 30, 2025. This projected amount, when added to Englewood’s current 
+trust fund balance of $1,967,260, results in a total anticipated trust fund balance of $2,596,934 
+available to fund and administer the City’s affordable housing plan.  All interest earned on the 
+account shall be used only for the purposes of affordable housing. 
+ 
+ 
+2. ADMINISTRATIVE MECHANISM TO COLLECT AND DISTRIBUTE FUNDS 
+ 
+The following procedural sequence for the collection and distribution of development fee 
+revenues shall be followed by the City: 
+ 
+Collection of development fee revenues: Collection of development fee revenues shall 
+be consistent with Englewood’s development fee ordinance for both residential and 
+non-residential developments in accordance with applicable statutes and regulations 
+including  
+P.L.2008, c.46, sections 8 (C. 52:27D-329.2) and 32-38 (C. 40:55D-8.1 through 8.8), and  
+as may be amended.   
+ 
+3. DESCRIPTION OF ANTICIPATED USE OF AFFORDABLE HOUSING FUNDS  
+ 
+(a) Rehabilitation.  The City has a rehabilitation obligation of 228 units. In order to address 
+its rehabilitation obligation, the City will establish a housing rehabilitation program and 
+plans to participate in the Bergen County Housing Rehabilitation Program. The City will 
+utilize funds from its affordable housing trust fund to help fund these programs. The 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 59 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 60 =====
+ 
+54 
+ 
+City will commit up to $10,000 per unit, which will require a total contribution of 
+$2,280,000. 
+ 
+(b) 100% Affordable Housing Development. The City commits to spend $10,000 to assist 
+in the development of 25 affordable homes in 100% affordable developments.  
+ 
+(c) Affordability Assistance. Pursuant to N.J.A.C. 5:93-8.16(c), the City will commit to spend 
+at least 30% of the revenues collected from development fees, less funds collected to 
+finance a rehabilitation program or a new construction project, towards affordability 
+assistance to very low-, low- and moderate-income households. As shown in the table 
+below, the City projects that approximately $174,506 will be available from the 
+affordable housing trust fund for this purpose through June 30, 2025, one-third of 
+which will need to be dedicated toward affordability assistance for very-low-income 
+households.  
+ 
+ 
+Actual development fees + interest through 5/9/23 
+ 
+$2,242,014 
+Development fees + interest projected 5/10/23-6/30/25 
++ 
+$629,674 
+     Less rehab/new construction expenditures through 5/9/23 
+- 
+$0 
+     Less rehab/new construction expenditures projected 5/10/23-6/30/25 
+- 
+$2,290,000 
+ Total 
+= 
+$581,688 
+ 30 percent requirement 
+x 0.30 = 
+$174,506 
+Less affordability assistance expenditures through 5/9/23 
+- 
+$0 
+PROJECTED MINIMUM Affordability Assistance Requirement YTD2023-25 
+= 
+$174,506 
+PROJECTED MINIMUM Very Low-Income Affordability Assistance 
+Requirement YTD2023-25 
+ ÷ 3 = 
+$58,169 
+ 
+ 
+(d) Administrative Expenses. Per N.J.A.C. 5:93-8.16(e), no more than 20% of the revenues 
+collected from development fees shall be expended on administration.  As shown in 
+the table below, the City of Englewood projects that a maximum of $241,701 will be 
+available from the affordable housing trust fund to be used for administrative purposes 
+from May 10, 2023 through June 30, 2025. However, in order to prioritize funding of 
+its rehabilitation program, its affordability assistance program, and the development of  
+100% affordable housing, the City proposed to limit additional administrative expenses 
+before now and the end of the Third Round to $132,428.  Projected administrative 
+expenditures, subject to the cap, include the salaries and benefits for municipal 
+employees and consultant fees necessary to develop or implement the following:  
+ 
+1. An updated Housing Element and Fair Share Plan. 
+2. A rehabilitation program. 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 60 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 61 =====
+ 
+55 
+ 
+3. An affirmative marketing program. 
+4. An affordability assistance program. 
+5. Other affordable housing activities that do not involve litigation. 
+ 
+Actual development fees + interest through 5/9/23 
+ 
+$2,242,014 
+Development fees + interest projected 5/10/23-6/30/25 
++ 
+$629,674 
+     Less RCA expenditures through 5/9/23 
+- 
+$0 
+ Total 
+= 
+$2,871,688 
+ 20 percent requirement 
+x 0.20 
+= 
+$574,337 
+Less administrative expenditures through 5/9/23 
+- 
+$269,254  
+PROJECTED MAXIMUM Administrative Expenses 
+Requirement YTD2023-25 
+= 
+$305,083 
+PROPOSED Administrative Expenses YTD2023-25 
+= 
+$132,428 
+ 
+ 
+4. EXPENDITURE SCHEDULE  
+ 
+The City of Englewood intends to use affordable housing trust fund revenues for rehabilitation 
+activities, 100% affordable housing development, and affordability assistance. Where 
+applicable, the funding schedule below parallels the implementation schedule set forth in the 
+Housing Element and Fair Share Plan and is summarized as follows.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 61 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 62 =====
+ 
+56 
+ 
+PROJECTS/PROGRAMS 
+ 
+ 
+PROJECTED EXPENDITURE SCHEDULE  
+MAY 10, 2023 – JUNE 30, 2025 
+5/10-12/31 
+2023 
+1/1-12/31 2024 
+1/1-6/30 
+2025 
+Total 
+Rehabilitation  
+$760,000 
+$1,000,000 
+$520,000 
+$2,280,000 
+ 
+ 
+ 
+ 
+ 
+100% Affordable Housing Development 
+$10,000 
+$0 
+$0 
+$10,000 
+ 
+ 
+ 
+ 
+ 
+Affordability Assistance 
+$0 
+$116,340 
+$58,166 
+$174,506 
+ 
+ 
+ 
+ 
+ 
+Administrative 
+$44,974 
+$58,303 
+$29,151 
+$132,428 
+ 
+ 
+ 
+ 
+ 
+Total 
+$814,974 
+$1,174,643 
+$607,317 
+$2,596,934 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 62 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 63 =====
+ 
+ 
+5. EXCESS OR SHORTFALL OF FUNDS 
+ 
+In the event of excess funds, any remaining funds above the amount necessary to 
+satisfy the municipal affordable housing obligation will be dedicated toward its 
+rehabilitation program and/or for 100% affordable housing development and/or 
+for its affordability assistance program and/or for administrative expenses up to the 
+20% cap.  
+ 
+In the event that a shortfall of anticipated revenues occurs, the City of Englewood 
+will handle the shortfall of funds through an alternative funding source to be 
+identified by the City or by adopting a resolution with an intent to bond, or the City 
+will amend its spending plan to reduce the amount of funds available for the 
+affordability assistance program and administrative expenses.   
+ 
+6.  BARRIER FREE ESCROW 
+  
+Collection and distribution of barrier free funds shall be consistent with the City’s 
+Affordable Housing Ordinance and in accordance with applicable regulations.  
+ 
+SUMMARY  
+ 
+The City of Englewood intends to spend affordable housing trust fund revenues 
+pursuant to N.J.A.C. 5:93-8.16 and consistent with the housing programs outlined 
+in the City’s Housing Element and Fair Share Plan. 
+ 
+The City of Englewood has a balance of $1,967,260 as of May 9, 2023 and 
+anticipates an additional $629,674 in revenues through June 30, 2025 for a total of 
+$2,596,934. During the period of the City’s Third Round Judgment Of Repose 
+through June 30, 2025, the City will agree to fund $2,280,000 towards a 
+rehabilitation program, $10,000 toward 100% affordable housing developments, a 
+minimum of $174,506 towards an affordability assistance program, and a maximum 
+of $132,428 towards administrative costs. 
+ 
+Any shortfall of anticipated funds will be offset by an alternative funding source to 
+be identified by the City or, in the unlikely event that no alternative funding is 
+available, the City of Englewood will bond to provide the necessary funding. The 
+City also reserves the right to amend its spending plan to reduce the amount of 
+funds available for the affordability assistance program and administrative expenses 
+if a shortfall of anticipated revenues occurs.  
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 63 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 64 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SPENDING PLAN SUMMARY 
+Balance as of May 10, 2025 
+ 
+$1,967,260 
+ 
+ 
+ 
+PROJECTED REVENUE 5/10/25-6/30/35 
+ 
+ 
+Development fees 
++ 
+$624,060 
+Payments in lieu of construction 
++ 
+$0  
+Other funds 
++ 
+$0  
+Interest 
++ 
+$5,614 
+SUBTOTAL REVENUE = 
+$629,674 
+ 
+ 
+ 
+TOTAL REVENUE  = 
+$2,596,934 
+  
+ 
+EXPENDITURES 
+ 
+ 
+Rehabilitation Program 
+- 
+$2,280,000 
+100% Affordable Housing Development 
+- 
+$10,000 
+Affordability Assistance  
+- 
+$174,506 
+Administration  
+- 
+$132,428 
+TOTAL PROJECTED EXPENDITURES = 
+$2,596,934 
+REMAINING BALANCE  = 
+$0 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 64 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 65 =====
+ 
+ 
+ 
+ 
+D. Amendment to Mandatory Set Aside 
+Ordinance (Introduced by City Council 
+on June 4, 2025) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 65 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 66 =====
+ 
+ 
+ 
+DRAFT 
+CITY OF ENGLEWOOD 
+BERGEN COUNTY, NEW JERSEY 
+ORDINANCE 2025 -   
+ 
+AN ORDINANCE TO AMEND AND SUPPLEMENT CHAPTER 250, ARTICLE XVII, AFFORDABLE 
+HOUSING, § 250-124 MANDATORY SET-ASIDE 
+ 
+WHEREAS, the Fair Housing Act has been amended by the legislature to create a new process 
+for the approval of municipal affordable housing plans for the Fourth Round pursuant to the New 
+Jersey Supreme Court’s Mount Laurel doctrine; and  
+ 
+WHEREAS, the City of Englewood has filed a declaratory judgement action seeking a 
+certificate of compliance from the newly created Program for the Fourth Round certifying the City’s 
+Housing Element and Fair Share Plan satisfies the City’s constitutional obligation to provide for 
+affordable housing; and   
+ 
+WHEREAS, the City has determined to amend the City’s affordable housing ordinance to 
+modify the required mandatory affordable housing set-aside to apply throughout the City for 
+residential development of five units or more in order to expand affordable housing opportunities 
+from multifamily developments that otherwise would not be required to provide for an affordable 
+housing set-aside;  
+ 
+NOW, THEREFORE, BE IT ORDAINED by the Governing Body of the City of Englewood, 
+Bergen County, New Jersey that it does hereby amend, modify and supplement Chapter 250, Land 
+Use Code as follows: 
+ 
+Note:  New language in bold italics. 
+ 
+SECTION 1.  Article XVII, § 250-124, Affordable Housing Mandatory Set-Aside is hereby to read as 
+follows: 
+ 
+§ 250-124 AFFORDABLE HOUSING MANDATORY SET-ASIDE. 
+ 
+A.  Purpose. This section is intended to ensure that any new multifamily and single-family attached 
+residential development, which consists of five (5) or more new residential units, including the residential  
+portion of a mixed use development, (i) that is permissible as of right  by zoning ordinance; (ii) that 
+becomes permissible by the granting of a  use variance or a density variance increasing the 
+permissible density; (iii) that results from  the adoption of a redevelopment plan or amendment to 
+a redevelopment plan; or (iv) that results from the rezoning of the property,  shall provide a twenty 
+percent (20%) set aside of affordable units for both sales and rental projects. This chapter shall apply 
+except where inconsistent with applicable law. 
+ 
+ 
+B. Affordable Housing Set-Aside. Beginning with the effective date of this ordinance a A mandatory 
+affordable housing set-aside requirement shall apply to any new multifamily and single-family attached 
+residential development, which consists of five (5) or more new residential units, including the residential  
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 66 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 67 =====
+ 
+ 
+portion of a mixed use development, (i) that is permissible as of right  by zoning ordinance; (ii) that 
+becomes permissible by the granting of a  use variance or a density variance increasing the 
+permissible density; (iii) that results from  the adoption of a redevelopment plan or amendment to 
+a redevelopment plan; or (iv) that results from the rezoning of the property. The set-aside shall be 
+twenty percent (20%) for both sales and rental projects.  
+ 
+1. All affordable housing controls and standards are subject to the regulations promulgated 
+under the Fair Housing Act (N.J.S.A. 52:27D-301 et seq) or as approved by the Court. The 
+development, marketing and sale of the affordable units shall be pursuant to applicable state 
+regulations and the applicable provisions of this chapter, and any subsequent amendments 
+thereto. 
+ 
+2. This requirement shall not impose any obligation on a development, or the nonresidential 
+portion of a mixed-use development, that is subject to the Statewide Non-Residential 
+Development Fee Act, N.J.S.A. 40:55D-8.1 et seq. 
+ 
+3. All subdivision and site plan approvals of qualifying developments shall be conditioned upon 
+compliance with the provisions of the mandatory affordable housing set-aside. 
+ 
+4. No subdivision shall be permitted or approved for the purpose of avoiding compliance with 
+the mandatory affordable housing set-aside. A developer may not, for example, subdivide a 
+project into two lots and then plan each of them to produce a number of units below the 
+threshold. The approving authority may impose any reasonable conditions to ensure such 
+compliance. 
+ 
+5. The mandatory affordable housing set-aside shall not give any developer the right to any 
+rezoning, variance, redevelopment designation or redevelopment or rehabilitation plan 
+approval, or any other such relief, or establish any obligation on the part of the municipality 
+to grant such rezoning, variance, redevelopment designation, redevelopment or rehabilitation 
+plan approval, or other such or further relief. 
+ 
+C. This section shall not apply to any sites or specific zones otherwise identified in the City’s Settlement 
+Agreement with FSHC dated November 1, 2022, approved by Court Order dated January 20, 2023, or in 
+the City’s Housing Element and Fair Share Plan, for which density and set-aside standards shall be governed 
+by the specific standards set forth therein. 
+ 
+D. The requirements of this section shall not apply to residential expansions, additions, renovations, 
+replacements, or any other type of residential development that does not result in a net increase in the 
+number of dwellings of five (5) or more.  
+ 
+ 
+E. In the event that the inclusionary set-aside percentage (20%) of the total number of residential units 
+does not result in a full integer, the developer shall round the set- aside upward to construct a whole 
+additional affordable unit. 
+  
+SECTION 2.  The City Clerk is directed to give notice at least ten (10) days prior to a hearing on the 
+adoption of this Ordinance to the Bergen County Planning Board and to all other persons or entities 
+entitled thereto pursuant to N.J.S.A. 40:55D-15 and 40:55D-62.1.  The City Clerk shall execute any 
+necessary Proofs of Service of the notices required by this section, and shall keep any such proofs on 
+file along with the Proof of Publication of the notice of the required public hearing on the proposed 
+change. 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 67 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 68 =====
+ 
+ 
+ 
+SECTION 3.  After introduction, the City Clerk is hereby directed to submit a copy of the within 
+Ordinance to the Planning Board for its review in accordance with N.J.S.A. 40:55D-26 and N.J.S.A. 
+40:55D-64.  The Planning Board is directed to make and transmit to the City Council, within thirty-
+five (35) days after referral, a report including identification of any provision in the proposed 
+Ordinance which are inconsistent with the Master Plan and recommendations concerning any 
+inconsistencies and any other matter as the Board deems appropriate. 
+ 
+SECTION 4. 
+If any paragraph, subdivision, clause or provision of this Ordinance shall be adjudged 
+invalid, such adjudication shall apply only to the section, paragraph, subdivision, clause or provision 
+so adjudged and the remainder of the Ordinance shall be deemed valid and effective. 
+ 
+SECTION 5. 
+All ordinances or parts of ordinances inconsistent with or in conflict with this 
+Ordinance are hereby repealed to the extent of such inconsistency. 
+ 
+SECTION 6. 
+This ordinance shall take effect immediately upon: (i) adoption; and (ii) publication in 
+accordance with the laws of the State of New Jersey. 
+ 
+Introduced by: ____________, Seconded by: _____________  
+Roll Call:   
+ 
+Approved:_____________________,   
+City of Englewood  
+ 
+Motion by:_____________, Second by:________________  
+ 
+Roll Call:   
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 68 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 69 =====
+ 
+ 
+ 
+ 
+F.       DRAFT Amendment to Overlay         
+ Zoning Ordinance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 69 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 70 =====
+ 
+ 
+DRAFT  
+ 
+CITY OF ENGLEWOOD 
+BERGEN COUNTY, NEW JERSEY 
+ORDINANCE 2025 -   
+ 
+AN ORDINANCE TO AMEND AND SUPPLEMENT CHAPTER 250, TITLED “LAND USE” 
+AMENDING AFFORDABLE HOUSING OVERLAY ZONES 
+ 
+ WHEREAS, the Fair Housing Act has been amended by the legislature to create a new 
+process for the approval of municipal affordable housing plans for the Fourth Round pursuant to the 
+New Jersey Supreme Court’s Mount Laurel doctrine; and  
+ 
+WHEREAS, the City of Englewood has filed a declaratory judgement action seeking a 
+certificate of compliance from the newly created Program for the Fourth Round certifying the City’s 
+Housing Element and Fair Share Plan satisfies the City’s constitutional obligation to provide for 
+affordable housing; and   
+ 
+WHEREAS, the City has determined to amend the City’s affordable housing ordinance to 
+modify certain overlay zones by deleting specified lot and blocks and replacing these with alternate 
+overlay areas; and 
+ 
+WHEREAS, the City believes the amendment provides a better solution in addressing its 
+affordable housing obligation as discussed in the adopted 2025 Housing Element and Fair Share 
+Plan; and 
+ 
+WHEREAS, adopting this amendment implements a component of the adopted 20205 
+Housing Element and Fair Share Plan; 
+ 
+NOW, THEREFORE, BE IT ORDAINED by the Governing Body of the City of Englewood, 
+Bergen County, New Jersey that it does hereby amend, modify and supplement Chapter 250, Land 
+Use Code as follows: 
+ 
+BE IT ORDAINED by the Governing Body of the City of Englewood, Bergen County, New 
+Jersey that it does hereby amend, and supplement Chapter 250 of the City Code as follows: 
+ 
+SECTION 1.  Article IX, §250-54 entitled Establishment of districts, is hereby amended to delete the 
+following parcels within Affordable Housing Zones as follows: 
+ 
+Block Lot(s) 
+Affordable Housing Overlay Designation 
+(AHO) 
+306  15-25 
+AHO-1 
+507 1 through 12 and 24.1 
+AHO-1 
+1101 34 and 35 
+AHO-2 
+1102 22 and 23 
+AHO-2 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 70 of 71   Trans ID: LCV20251699832 
+
+===== PAGE 71 =====
+ 
+ 
+1103 10 through 16 
+AHO-2 
+1105 1 and 11 through 15 
+AHO-2 
+1601 22 through 27 
+AHO-1 
+ 
+ 
+ 
+SECTION 2.  Article IX, §250-55 entitled Zoning Map is hereby amended to add the following 
+properties to the Affordable Housing Overlay Zones as follows 
+ 
+ 
+Block Lot(s) 
+Affordable Housing Overlay Designation 
+(AHO) 
+605 3 through 7 
+AHO-2 
+2008 18 through 20 
+AHO-1 
+2009 
+2910 
+20-21, 2, 16 through 30 
+3, 4.01 
+AHO-2 
+2912 6 
+AHO-2 
+ 
+  
+ 
+Introduced by: ____________, Seconded by: _____________  
+ 
+Roll Call:   
+ 
+Approved:_____________________,   
+ 
+City of Englewood  
+ 
+Motion by:_____________, Second by:________________  
+ 
+Roll Call:   
+ 
+ 
+By: _______________________________  
+  
+ 
+Attest: __________________________  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000535-25   06/06/2025 3:43:08 PM   Pg 71 of 71   Trans ID: LCV20251699832 

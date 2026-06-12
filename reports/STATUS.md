@@ -1,9 +1,9 @@
 # Bergen County Fourth Round Inventory — Research Status
 
-_Generated 2026-06-12T11:55:33+00:00_
+_Generated 2026-06-12T12:00:20+00:00_
 
-- Municipalities: **70/70**  (done: 45, in_progress: 25, blocked: 0, not_started: 0)
-- Sites catalogued: **191**
+- Municipalities: **70/70**  (done: 47, in_progress: 23, blocked: 0, not_started: 0)
+- Sites catalogued: **193**
 
 | # | Municipality | Status | Sites | Oblig. | Compliance | HEFSP | Last researched |
 |---|---|---|---|---|---|---|---|
@@ -38,7 +38,7 @@ _Generated 2026-06-12T11:55:33+00:00_
 | 29 | Leonia | done | 2 | 172 | settled | adopted | 2026-06-12T03:23:26+00:00 |
 | 30 | Little Ferry | in_progress | 4 |  | in_progress | proposed | 2026-06-12T03:23:26+00:00 |
 | 31 | Lodi | done | 0 | 140 | urban_aid_rehab_only | adopted | 2026-06-12T11:55:22+00:00 |
-| 32 | Lyndhurst | in_progress | 0 | 366 | challenged | adopted_challenged | 2026-06-12T03:35:04+00:00 |
+| 32 | Lyndhurst | done | 0 | 366 | adopted_challenged_VLA_RDP0 | adopted_challenged | 2026-06-12T11:58:27+00:00 |
 | 33 | Mahwah | done | 4 | 495 | settled | adopted | 2026-06-12T03:22:08+00:00 |
 | 34 | Maywood | done | 2 | 143 | settled | adopted | 2026-06-12T03:22:08+00:00 |
 | 35 | Midland Park | done | 3 | 155 | settled | adopted | 2026-06-12T03:22:08+00:00 |
@@ -46,7 +46,7 @@ _Generated 2026-06-12T11:55:33+00:00_
 | 37 | Moonachie | in_progress | 0 |  | implementing | ordinances_adopted | 2026-06-12T03:35:04+00:00 |
 | 38 | New Milford | done | 1 |  | settled | adopted | 2026-06-12T03:24:41+00:00 |
 | 39 | North Arlington | in_progress | 1 | 228 | litigating | adopted | 2026-06-12T03:24:41+00:00 |
-| 40 | Northvale | in_progress | 0 | 112 | challenged_or_litigating | unknown | 2026-06-12T03:35:04+00:00 |
+| 40 | Northvale | done | 2 | 112 | plan_adopted_settled_NJBA | adopted | 2026-06-12T12:00:05+00:00 |
 | 41 | Norwood | in_progress | 1 | 130 | litigating | adopted | 2026-06-12T03:25:07+00:00 |
 | 42 | Oakland | done | 5 | 296 | settled | adopted | 2026-06-12T03:25:07+00:00 |
 | 43 | Old Tappan | done | 3 | 216 | settled | adopted | 2026-06-12T03:25:07+00:00 |
