@@ -1,0 +1,121 @@
+{
+  "municipality": "Rockleigh",
+  "research_status": "done",
+  "obligation": {
+    "present_need": 0,
+    "prospective_need": 14,
+    "total_obligation": 14,
+    "rdp": 1,
+    "unmet_need": 13,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj"
+  },
+  "compliance": {
+    "status": "compliance order entered",
+    "settlement_party": null,
+    "settlement_date": null,
+    "hefsp_status": "adopted",
+    "hefsp_adopted_date": "2025-06-24",
+    "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj"
+  },
+  "notes": "Rockleigh is a very small borough (~89 housing units, fully developed). DCA present need 0 (accepted); prospective need 14 (accepted per Resolution #2025-19, Jan 28 2025). VLA yields RDP=1 (Block 105, Lot 1 — 3.05-acre borough-owned lot, Piermont Rd W/S, A-2 Res district; 1.5 yield units rounded to 2, 20% set-aside = 1 unit). Unmet need 13. RDP satisfied by 1 bedroom credit from Spectrum for Living (using 1 of 7 remaining prior-round surplus bedrooms from the 16-bedroom supervised apartment complex on Borough-owned land). Accessory apartment program (Ord. 2009-19) has produced 0 units so far; Borough intends to incentivize via AH trust fund. Compliance order entered 5/14/2026 (IMORockliegh68725). Prepared by Neglia Engineering. Docket BER-L-000687-25. Note: HEFSP body does not state a specific block/lot for the Spectrum for Living site; only references 'a parcel of land owned by the Borough of Rockleigh.' The Ordinance 2026-2 (filed 3/4/2026, general AH ordinance) also does not identify the Spectrum block/lot.",
+  "sources": [
+    {
+      "doc_type": "HEFSP",
+      "title": "Rockleigh Fourth Round Housing Element and Fair Share Plan Part 1 (adopted June 24, 2025)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj",
+      "excerpt": "the Borough has a Fourth-Round prospective need obligation (RDP) of 1 unit ... Block 105, Lot 1, is located in the A-One-Family Residential 2 Acres zoning district ... result in the ability to construct 1.5 units. Rounding 1.5 up to 2 units and applying a 20% set aside ... realistic development potential of one (1) unit."
+    },
+    {
+      "doc_type": "resolution",
+      "title": "Resolution #2025-19 re Round 4 Affordable Housing Obligations",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/Reso202519reRound4AffHousingObligsations.pdf?VersionId=rgBI9ZNrbxGM.i3gH_nYPiDlBIeuYGX0",
+      "excerpt": "Resolution #2025-19 committing to Round 4 Present Need of 0 and Prospective Need of 14"
+    },
+    {
+      "doc_type": "ordinance",
+      "title": "Rockleigh Ordinance 2026-2 and Resolution (Adopted Ord and Reso, filed 3/4/2026)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/3226RockleighAdoptedOrdandReso.pdf?VersionId=4A8Sauap2c8sE7IGZXq7gMKm1UjZvwjV",
+      "excerpt": "Borough of Rockleigh Ordinance 2026-2 — general affordable housing administration ordinance; repealing Chapter 34, Article XI"
+    },
+    {
+      "doc_type": "settlement",
+      "title": "IMO Rockleigh Final Compliance Order 5/14/2026",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/IMORockliegh68725FinalComplianceOrder5.14.26.pdf?VersionId=5zXNt8KA8wf4DMADRGd3COXdNkYtepwd",
+      "excerpt": "Final Compliance Order"
+    }
+  ],
+  "sites": [
+    {
+      "site_name": "Spectrum for Living Supervised Apartment Complex",
+      "address": null,
+      "block": null,
+      "lot": null,
+      "acreage": null,
+      "mechanism": "100% affordable group home/supervised apartment (Borough-owned land, 50-year lease)",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": null,
+      "total_units": 16,
+      "affordable_units": 1,
+      "set_aside_pct": 100,
+      "tenure": "rental",
+      "adoption_status": "completed (certificate of occupancy October 1998)",
+      "developer": "Spectrum for Living, Inc.",
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj",
+      "source_page": "Section on Spectrum For Living (pp. 23-24)",
+      "source_date": "2025-06-24",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Spectrum was granted the exclusive right and option to lease from Rockleigh a parcel of land owned by the Borough of Rockleigh ... A lease agreement between Spectrum and the Borough commenced on January 1, 1998 for a term for fifty (50) years ... Sixteen (16) low-income individuals (who receive Medicaid benefits) with developmental disabilities reside at the facility ... The Borough intends to use one bedroom as a credit for the Fourth Round, leaving six bedrooms for credit against future round obligations.",
+      "notes": "16-bedroom supervised apartment complex on Borough-owned land, leased to Spectrum for Living at $10/year for 50 years from 1998. 7 total surplus credits from prior rounds; 1 applied to 4th Round RDP (leaving 6 for future rounds). Block/lot not stated in HEFSP or implementing ordinance — Spectrum site is on Borough-owned land but address/parcel ID not published in the plan documents."
+    },
+    {
+      "site_name": "Vacant Land RDP Site – Block 105 Lot 1 (Piermont Road)",
+      "address": "Piermont Rd W/S",
+      "block": "105",
+      "lot": "1",
+      "acreage": 3.05,
+      "mechanism": "vacant land adjustment (VLA) — inclusionary potential",
+      "current_zoning": "A-One-Family Residential 2 Acres / HF-Historic Fringe Overlay",
+      "proposed_zoning": null,
+      "density": 6.0,
+      "total_units": 2,
+      "affordable_units": 1,
+      "set_aside_pct": 20,
+      "tenure": null,
+      "adoption_status": "Borough-owned; retained for future public purpose",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj",
+      "source_page": "Vacant Land Analysis appendix (pp. 47-48)",
+      "source_date": "2025-06-24",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Block 105, Lot 1, is located in the A-One-Family Residential 2 Acres zoning district and HF-Historic Fringe Overlay District ... result in the ability to construct 1.5 units. Rounding 1.5 up to 2 units and applying a 20% set aside for the property would result in the Borough having a realistic development potential of one (1) unit. Vacant Land: Block 105, Lot 1, PIERMONT RD W/S, Class 15C, 3.05 acres",
+      "notes": "This is the VLA parcel establishing RDP=1. Borough-owned, Class 15C (public). Borough has retained it for future public purpose and is NOT planning to develop it for housing — the RDP obligation is instead being satisfied by the 1 Spectrum bedroom credit. VLA yield: 1.5 units at 6 du/ac on 3.05 ac, rounded to 2, 20% set-aside = 1 affordable unit."
+    },
+    {
+      "site_name": "Accessory Apartment Program (borough-wide)",
+      "address": null,
+      "block": null,
+      "lot": null,
+      "acreage": null,
+      "mechanism": "accessory apartment program",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": null,
+      "total_units": null,
+      "affordable_units": 0,
+      "set_aside_pct": null,
+      "tenure": "rental",
+      "adoption_status": "ordinance adopted (Ord. 2009-19); 0 units constructed",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rockleigh-boro/62425RockleighFourthRoundHousingElementandFairSharePlanPart1.pdf?VersionId=xAb7DLPDY9ipo0k6tCU6rLubElbIvdIj",
+      "source_page": "Fourth Round section (p. 24)",
+      "source_date": "2025-06-24",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "there have been zero (0) accessory apartments constructed from the ordinance adopted in the Third Round. The Borough has not had the full ten (10) years for this effort to come to fruition and seeks to continue incentivizing the accessory apartment ordinance. The Borough intends to expand the marketing of this program and incentivize the construction of these units by offering greater municipal financial assistance.",
+      "notes": "Borough-wide program; Ordinance 2009-19. Maximum 5 creditable units. 0 units constructed to date. Borough plans to incentivize via AH trust fund. No specific parcels."
+    }
+  ]
+}

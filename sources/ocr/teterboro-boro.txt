@@ -1,0 +1,1473 @@
+
+===== PAGE 1 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 1 of 33
+Trans ID: LCV20251904084
+Community Planning
+Principals:
+Land Development and Design
+Joseph H. Burgis PP, AICP
+Landscape Architecture
+Edward Snieckus, Jr. PP, LLA, ASLA
+David Novak PP, AICP
+——EESSS====
+BURGIS
+ASSOCIATES,
+ING
+Housing Element and
+Borough of Teterboro
+Bergen County, New Jersey
+Prepared for the Borough of Teterboro
+Planning Board
+BA# 4169.01
+The original document was appropriately signed and sealed on June 24, 2025 in accordance with
+Chapter 41 of Title 13 of the State Board of Professional Planners
+Joseph H. Burgis, AICP, PP
+Steve Lydon, PP, act
+Professional Planner#2450
+Professional Planner“!
+i
+
+===== PAGE 2 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 2of33
+Trans ID: LCV20251904084
+The following 2025 Housing Element and Fair Share Plan ("HE&FSP") of the Master Plan has been prepared for the
+Borough of Teterboro. This plan is designed to outline the manner in which the Borough will address its affordable
+housing obligations for the Fourth Round affordable housing cycle. Ultimately, these obligations were derived from a
+variety of sources, including the Council on Affordable Housing (“COAH’), a prior settlement agreement with Fair Share
+Housing Center ("FSHC"), and most recently from calculations provided by the Department of Community Affairs
+("DCA’). These numbers have also been informed by local knowledge.
+These obligations are summarized as follows:
+Table 1: Affordable housing Obligation Summary
+Obligation
+Prior Round Obligation (1987-1999)
+Third Round Obligation (1999-2025)
+Fourth Round Obligation (2025-2035)
+Present Need (Rehabilitation (2025-2035)
+i
+Earlier Round Affordable Housing Obligations
+Teterboro is a unique community. This uniqueness is reflected in the Borough's historical development pattern.
+Teterboro is an overwhelmingly industrial/warehouse suburb located in a highly advantageous location in the
+heart of the northern New Jersey ecosystem. A portion of the Borough is included as part of a larger region
+where planning and zoning authority has been vested with the New Jersey Sports and Exposition ("NJSEA").
+This unique development pattern has had significant ramifications how Teterboro has responded to the
+constitutional obligation each New Jersey municipality has to create reasonable opportunities for the
+construction of affordable housing.
+Historically, affordable housing regulations have imposed an upper limit on the percentage of deed-restricted
+affordable housing that can be imposed upon any particular community. The percentage of deed-restricted
+affordable housing in
+a community has been limited to no more than twenty (20) percent of a community's
+entire housing stock.
+aS
+1
+
+===== PAGE 3 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 3of 33
+Trans ID: LCV20251904084
+Fourth Round Obligation
+Governor Phil Murphy signed amendments to the New Jersey Fair Housing Act ("FHA") into law in March 2024.
+New Jersey's FHA was initially adopted in the mid-1980's and regulated how and under what conditions
+communities addressed their affordable housing obligations. These 2024 amendments greatly altered the
+manner in which municipalities, going forward, would address their constitutional obligation to create realistic
+opportunities for the construction of affordable housing.
+Among many other changes, the 2024 amendments abolished the Council on Affordable Housing (“COAH").
+Since 1985, COAH has been the state administrative agency with the primary responsibility for insuring
+municipalities satisfied their constitutional obligation to produce and regulate affordable housing. Before the
+establishment of COAH, the Court system was the primary mechanism for ensuring local municipalities complied
+with their affordable housing responsibility. The 2024 amendments to the Fair Housing Act returned jurisdiction
+to the Court system, but with a newly established dispute resolution program and County level housing judges.
+Pursuant to the 2024 amendments, the Department of Community Affairs ("DCA") was charged with determining
+each municipality's Fourth Round affordable housing obligation. These obligations included both a Present Need
+obligation and a Prospective Need obligation. The Fourth Round housing cycle is a ten (10) year period
+beginning in 2025 and continuing through until the end of June 2035.
+Teterboro's Fourth Round affordable housing obligation, as established by DCA, included a Present Need
+(sometimes referred to as Rehabilitation Obligation) obligation of 4 affordable housing units. Teterboro's
+Prospective Need obligation was established by DCA at 92 dwelling units of affordable housing.
+2
+
+===== PAGE 4 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg4of33
+Trans ID: LCV20251904084
+Accordingly, the remainder of this 2025 HE&FSP is divided into the following sections:
+*
+Section 1: Introduction
+The first section of the 2025 HE&FSP provides an introduction to affordable housing. It summarizes what
+affordable housing is, offers an overview of the history of affordable housing in the state, and explains
+the role of a housing element and fair share plan.
+“
+Section 2: Housing Element
+Section 2 contains the Housing Element for the Borough of Teterboro. It offers an overview of its
+community, as well as background information regarding Teterboro's population, housing, and
+employment characteristics. The Housing Element also provides a projection of the Borough's future
+housing stock and its employment projections.
+*
+Section 3: Fair Share Obligation
+Next, Section 3 provides an overview of the Borough's fair share obligation. It includes a brief history of
+the methodologies utilized to calculate affordable housing obligations throughout the state.
+*
+Section 4: Fair Share Plan
+Finally, Section 4 details the manner in which the Borough has addressed its prior obligations and how it
+will address its Fourth Round prospective need obligations.
+3
+
+===== PAGE 5 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg5of33
+Trans ID: LCV20251904084
+section 1: Introduction
+The following section provides an introduction to affordable housing. It summarizes what affordable housing is,
+offers a brief overview of the history of affordable housing in the state, and explains the role of a municipal
+housing element and fair share plan.
+What is Affordable Housing?
+Affordable housing is income-restricted housing that is available for sale or for rent. Most often, affordable
+housing is restricted to very-low, low-, and moderate-income households. These categories are derived from the
+state's median regional income limits. New Jersey is divided into six different affordable housing regions.
+Teterboro is located in Region 1 which includes Bergen, Hudson, Passaic, and Sussex Counties.
+Moderate-Income
+Low-Income Households
+Very Low-Income Households
+Households
+Earn 50% of the region's
+Earn 30% of the region's
+Earn 80% of the region's
+median income
+median income
+median income
+Regional income limitations are typically updated every year, with different categories established for varying
+household sizes. The table below identifies the 2024 regional income limits by household size for Region 1. As
+shown, a moderate-income three-person family with a total household income of not greater than $86,697
+could qualify for affordable housing in the Borough's region.
+Table 3: 2024 Affordable Housing Region 1 Income Limits by Household Size
+Income Level
+a
+2Person
+3 Person
+4 Person
+_5 Person
+Median
+|
+$96,329
+$108,371
+$120,412
+$130,045
+Moderate
+$77,064
+$86,697
+$96,329
+$104,036
+Low
+$48,165
+$54,185
+$60,206
+$65,022
+Very-Low
+|
+$28,899
+$32,511
+$37,568
+$39,013
+One of the most common forms of affordable housing is inclusionary development, in which a certain
+percentage of units within a multifamily development are reserved for affordable housing. Nevertheless,
+affordable housing can be found in a variety of other forms, including but not limited to: one hundred percent
+affordable housing developments, deed-restricted accessory apartments, assisted living facilities, alternating
+arrangements such as supportive housing or group homes, and age restricted housing.
+4
+
+===== PAGE 6 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 6of33
+Trans ID: LCV20251904084
+What is the History of Affordable Housing in New Jersey?
+The history of affordable housing in New Jersey can be traced back to
+1975: Mount Laurel
+|
+1975, oy the Supreme Court first decided in So. Burlington Cty. NAACP
+v. Township of Mount Laurel (known as Mount Laurel !) that every
+developing municipality throughout New Jersey had an affirmative
+obligation to provide for its fair share of affordable housing. In a
+Every seveong municipalityhas an
+subsequent decision in 1983 (known as Mount Laurel II), the Court
+afro deble holsing co.geuon
+acknowledged that the vast majority of municipalities had ignored their
+constitutional obligation to provide affordable housing.
+As such, the Court refined this obligation to establish that every
+municipality had an obligation, although those within the growth area of
+the State Development and Redevelopment Plan (SDRP) had a greater
+obligation. The Court also called for the state legislature to enact
+1983: Mount Laurel II
+legislation that would save municipalities from the burden of having og)
+courts determine their affordable housing needs. The result of this decision
+was the adoption of the Fair Housing Act in 1985 as well as the creation of
+Every municipality has an obligation if
+the New Jersey Council on Affordable Housing (COAH), which became the
+any portion of municipality was within — state agency responsible for overseeing the manner in which New Jersey's
+the “Growth Share Area” of the State
+=r
+,
+5
+.
+Development
+and Redevelopment Plan
+municipalities address their low- and moderate- income housing needs.
+COAH proceeded to adopt regulations for the First Round obligation,
+which covered the years 1987 to 1993. It also established the Second
+Round housing-need numbers that cumulatively covered the years 1987
+through 1999. Under both the First and Second Rounds, COAH utilized
+what is commonly referred to as the “fair share” methodology. COAH
+utilized a different methodology, known as “growth share,” beginning with
+1986: Mount Laurel III
+its efforts to prepare Third Round housing-need numbers. The Third Round
+Every municipality has an obligation if
+any portion of municipality was within
+the “Growth Share Area” of the State
+Development and Redevelopment Plan
+2015: Mount Laurel IV
+COAH defunct and moribund. All
+affordable housing matters to be heard
+by courts
+5
+
+===== PAGE 7 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 7 of 33
+Trans ID: LCV20251904084
+substantive and procedural rules were first adopted in 2004. These
+regulations were challenged and in January 2007, the Appellate Division
+invalidated various aspects of these rules and remanded considerable
+2017: Gap Period
+portions of the rules to COAH with the directive to adopt revised
+regulations.
+Finds that gap period (1999-2015)
+In May 2008, COAH adopted revised Third Round regulations which were
+generates an affordable housing
+published and became effective on June 2, 2008. Coincident to this
+oBieation
+adoption, COAH proposed amendments to the rules they had just adopted,
+which subsequently went into effect in October 2008. These 2008 rules and
+regulations were subsequently challenged, and in an October 2010
+decision the Appellate Division invalidated the Growth Share methodology
+and also indicated that COAH should adopt regulations pursuant to the
+Fair Share methodology utilized in Housing Rounds One and Two. The
+Supreme Court affirmed this decision in September 2013, which invalidated
+2018: Jacobson Decision
+much of the third iteration of the Third Round regulations and sustained
+the invalidation of growth share. As a result, the Court directed COAH to
+.
+7
+F
+Established methodology in Mercer
+adopt new regulations pursuant to the methodology utilized in Rounds
+County for determining housing
+One and Two.
+obligation. Being utilized outside of
+Mercer County for settlement purposes
+Deadlocked with a 3-3 vote, COAH failed to adopt newly revised Third
+Round regulations in October 2014. The Fair Share Housing Center, who
+was a party in both the 2010 and 2013 cases, responded by filing a motion
+in aid of litigants’ rights with the New Jersey Supreme Court. The Court
+heard the motion in January 2015, and issued its ruling on March 20, 2015.
+The Court ruled that COAH was effectively dysfunctional and consequently
+returned jurisdiction of affordable housing issues back to the trial courts
+2024: A-4/S-50
+where it had originally been prior to the creation of COAH in 1985.
+This 2015 Court decision created a process in which municipalities may file
+New Jersey adopts new legslation which
+a declaratory judgment action seeking a declaration from the judiciary that
+See Siciet te in esccee GEEK
+their HE&FSP is constitutionally compliant while receiving temporary
+and the AOC.
+immunity from affordable housing builders’ remedy lawsuits while
+—E—————EEEE
+preparing a new or revised HE&FSP to ensure their plan continues to affirmatively address their local housing
+need as may be adjusted by new housing-need numbers promulgated by the court or COAH.
+6
+
+===== PAGE 8 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 8of33
+Trans ID: LCV20251904084
+Subsequently, the Supreme Court ruled on January 18, 2017 that municipalities are also responsible for
+obligations accruing during the so-called “gap period," the period of years between 1999 and 2015. However,
+the Court stated that the gap obligation should be calculated as a never-before calculated component of
+Present Need, which would serve to capture Gap Period households that were presently in need of affordable
+housing as of the date of the Present Need calculation (i.e. that were still income eligible, were not captured as
+part of traditional present need, were still living in New Jersey and otherwise represented a Present affordable
+housing need).
+On March 20, 2024, the State of New Jersey adopted a package of affordable housing bills which overhauled the
+Fair Housing Act. This legislation ultimately eliminated COAH and split its duties and functions between the
+Department of Community Affairs (DCA) and the Administrative Office of the Courts (AOC).
+The DCA was designated by the legislation as the entity responsible for calculating the state's regional needs as
+well as each municipality's present and prospective fair share obligations pursuant to the Jacobson Decision.
+However, the legislation makes clear that these numbers are advisory and that each municipality must set its
+own obligation number utilizing the same methodology. Meanwhile, the Affordable Housing Dispute Resolution
+Program (the “Program”) within the AOC is tasked to handle any disputes regarding affordable housing
+obligations and plans.
+7
+
+===== PAGE 9 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg9of33
+Trans ID: LCV20251904084
+What is
+a Housing Element and Fair Share Plan?
+A Housing Element and Fair Share Plan (HE&FSP) serves as the blueprint for how a municipality will address its
+fair share of affordable housing. It is designed to help a community broaden the accessibility of affordable
+housing.
+While technically
+a discretionary
+component of a municipal
+y
+.
+Y
+a
+;
+P
+The Municipal Land Use Law (MLUL) is
+master plan,
+a HE&FSP is nevertheless an obligatory plan
+tt
+bling
+legislation
+f
+‘cipal
+element. As established by NJSA 40:55D-62.a of the Municipal
+ia + aoe : cp = ie i
+Land Use Law (MLUL), a municipality must have an adopted
+LS cS on, ‘ ae ‘ nll
+HE&FSP in order to enact its zoning ordinance. Thus, from a
+anorzoning Torus
+tga!
+ew crsey.
+public policy perspective,
+a HE&FSP is an essential community
+document. Moreover, without a HE&FSP, a municipality may be
+susceptible to a builder's remedy lawsuit in which a developer
+could file suit to have a specific piece of property rezoned to permit housing at higher densities than a
+municipality would otherwise allow, provided a certain percentage of units are reserved as deed restricted
+affordable housing.
+The Fair Housing Act (FHA), which was adopted in 1985 and has been amended several times since then,
+establishes the required components of
+a HE&FSP. These are summarized as follows:
+1.
+An inventory of the municipality's housing stock by age, condition, purchase or rental value, occupancy
+characteristics, and type, including the number of units affordable to low-and moderate-income
+households and substandard housing capable of being rehabilitated;
+2.
+A projection of the municipality's housing stock, including the probable future construction of low- and
+moderate-income housing, for the next ten years, taking into account, but not necessarily limited to,
+construction permits issued, approvals of applications for development and probable residential
+development of lands;
+3.
+Ananalysis of the municipality's demographic characteristics, including but not necessarily limited to,
+household size, income level and age;
+4.
+An analysis of the existing and probable future employment characteristics of the municipality;
+5.
+Adetermination of the municipality's present and prospective fair share for low- and moderate-income
+housing and its capacity to accommodate its present and prospective housing needs, including its fair
+share for low- and moderate-income housing;
+6.
+Aconsideration of the lands that are most appropriate for construction of low- and moderate-income
+housing and the existing structures most appropriate for conversion to, or rehabilitation for, low- and
+moderate-income housing, including a consideration of lands of developers who have expressed a
+commitment to provide low- and moderate-income housing;
+7.
+Ananalysis of the extent to which municipal ordinances and other local factors advance or detract from
+the goal of preserving multigenerational family continuity as expressed in the recommendations of the
+Multigenerational Family Housing Continuity Commission;
+8.
+For a municipality located within the jurisdiction of the Highlands Water Protection and Planning
+Council, an analysis of compliance of the housing element with the Highlands Regional Master Plan of
+lands in the Highlands Preservation Area, and lands in the Highlands Planning Area for Highlands
+conforming municipalities;
+8
+
+===== PAGE 10 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 10 of 33
+Trans ID: LCV20251904084
+9.
+An analysis of consistency with the State Development and Redevelopment Plan, including water,
+wastewater, stormwater, and multi-modal transportation based on guidance and technical assistance
+from the State Planning Commission.
+9
+
+===== PAGE 11 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 11 of 33
+Trans ID: LCV20251904084
+1
+1
+1
+Section 2: Housing Element
+The following section provides the housing element for the Borough of Teterboro. It offers an overview of the
+community, as well as background information regarding its population, housing, and employment
+characteristics. It also provides projections of future growth of the Borough's housing stock and its employment
+prospects based on current trends as captured and reported by state and federal governments.
+eee
+Information Regarding Data Sources
+The information contained in Section 2.2 entitled “Population Demographics,” Section
+A
+2.3 entitled “Inventory of Housing Stock,” Section 2.4 entitled “Employment
+Demographics,” and Section 2.5 entitled “Housing & Employment Projections” was
+obtained froma variety ofpublicly available data sources. These are summarized below:
+Ee
+Ee
+1.
+United States Decennial
+4.
+New Jersey Department of
+Census
+Community Affairs (DCA)
+The US Census is described in Article |, Section 2
+The New Jersey Department of Community
+of the Constitution of the United States, which
+Affairs is
+a governmental agency of the State
+calls for an enumeration of the people every ten
+of New Jersey. Its function is to provide
+years for the apportionment of seats in the
+administrative guidance, financial support,
+House of Representatives. Since the time of the
+and technical assistance to local
+first Census conducted in 1790, it has become
+governments, community development
+the leading source of data about the nation’s
+organizations, businesses, and individuals to
+people and economy. Please note that all
+improve the quality of life in New Jersey.
+incomes reported in the Census are adjusted for
+inflation.
+2.
+American Community Survey
+5.
+New Jersey Department of Labor
+(ACS)
+and Workforce Development
+The American Community Survey is a
+The New Jersey Department of Labor and
+nationwide ongoing survey conducted by the
+Workforce Development is
+a governmental
+US Census Bureau. The ACS gathers information
+agency of the State of New Jersey. One of its
+previously contained only in the long form
+roles is to collect labor market information
+version of the decennial census, such as age,
+regarding employment and wages
+ancestry, educational attainment, income,
+throughout the state.
+language proficiency, migration, disability,
+employment, and housing characteristics. It
+relies upon random sampling to provide
+ongoing, monthly data collection. Please note
+that all incomes reported in the ACS are
+adjusted for inflation.
+3.
+New Jersey Department of Health
+The New Jersey Department of Health is a
+governmental agency of the State of New
+Jersey. The department contains the Office of
+Vital Statistics and Registry, which gathers data
+regarding births, deaths, marriages, domestic
+partnerships, and civil unions.
+10
+
+===== PAGE 12 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 12 of 33
+Trans ID: LCV20251904084
+A.
+COMMUNITY OVERVIEW
+The Borough of Teterboro, located in southwest Bergen County, occupies an area of approximately 1.1 square miles.
+It is
+bordered by five municipalities, including Hasbrouck Heights to the west, Moonachie to the south, Little Ferry to the east,
+South Hackensack to the east and north, and Hackensack to the northwest. Regional access to the Borough is provided
+by Route 46, which traverses through Teterboro in an east-west direction roughly through the center of the community
+and just north of Teterboro Airport. Teterboro Airport is an important regional airport owned and managed by the NY/NJ
+Port Authority. Interstate Route 80 passes through the far northern reaches of the Borough. State Highway 17,
+a major
+regional highway, is located just to the west of Teterboro in the Borough of Hasbrouck Heights. Similar to Route 17, the
+New Jersey Turnpike runs close to but not within Teterboro. Like Route 80 and Route 17, the New Jersey Turnpike provides
+regional mobility to Teterboro residents and businesses.
+The Borough is overwhelmingly an industrial/warehouse community, dominated by the existence of Teterboro Airport,
+which accounts for 55 percent of the community's land area. The surrounding warehouse, industrial, commercial, and
+other non-residential land uses encompass another 44 percent of the Borough's land mass.
+Residential development,
+comprising less than one percent of the Borough's land area, is limited to the Huyler Street corridor in the northeast
+corner of the Borough where seven lots are developed with nine dwellings, and Vincent Place, where there is an 18-unit
+multi-family development inclusive of five affordable deed-restricted housing units.
+All the housing units in Teterboro
+are rental units. Teterboro is a nearly fully developed community, with just a handful of vacant parcels.
+Table 1 below provides a snapshot of the community's land use pattern using tax data information from the New Jersey
+Department of Community Affairs.
+Table 1: 2024 Land Use
+Teterboro, New Jersey
+Source: NIDCA Div. of Local Govt Services, 2024 figures and values.
+A notable feature of Teterboro is that it is one of 14 municipalities within the planning and zoning jurisdiction of the New
+Jersey Sports and Exposition Authority ("NJSEA’). A significant percentage of the community's southern land area is
+within the planning and zoning jurisdiction of the NJSEA. All 27 dwellings in the Borough are within that portion of the
+community where planning and zoning authority is vested in Teterboro’s municipal government.
+B.
+INVENTORY OF MUNICIPAL HOUSING STOCK
+This section of the Housing Element provides an inventory of the Borough's housing stock, as required by the Municipal
+Land Use Law.
+The inventory details housing characteristics such as age, condition, purchase/rental value, and
+occupancy.
+It also details the number of affordable units available to low-and moderate-income households and the
+number of substandard housing units capable of being rehabilitated.
+11
+
+===== PAGE 13 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 13 0f 33
+Trans ID: LCV20251904084
+1.
+Number of Dwelling Units. Although the Borough's 27 dwelling units reported in the 2010 Census is a relatively
+small number, it is a significant increase from the nine units that were present in Teterboro prior to 2006. All 27
+dwelling units in Teterboro are rental units, five of which are deed restricted as affordable housing units.
+According to records filed with COAH, each of the five deed restricted units are restricted to low-income
+households, there are no moderate-income units at Vincent Place.
+Bedroom distribution among the deed restricted affordable units as reported to COAH includes one (1) three-
+bedroom unit and four (4) one-bedroom units. This bedroom distribution is not consistent with standards
+imposed by the Uniform Housing Affordability Controls (NJAC 5:80-26.1 et seq.). Upon discovery of this bedroom
+distribution discrepancy,
+it was brought forward to the Special Adjudicator and the Superior Court Judge
+assigned Teterboro’s declaratory judgement action. Teterboro also promptly adopted Ordinance No. 579, as was
+suggested. With this step completed, a second Compliance Hearing was held. Judge Farrington, after hearing
+all the testimony including from the Special Adjudicator, issued an arnended Judgement of Compliance
+notwithstanding the variance from typical bedroom standards.
+The following table provides details regarding the tenure and occupancy of the Borough's housing stock. All of
+Teterboro’ occupied housing units are rental units. When the 2010 Census was conducted, two of 27 rental units
+were vacant. The 2020 Census reported that 26 dwelling units in Teterboro were occupied, leaving just one
+vacant.
+As discussed on page 10 of this HE&FSP there are significant differences in how the US Census collects data and
+how the American Community Survey (‘ACS’) operates. In brief the once-every-ten-year Census is a count. ACS
+is not a count, but a survey of numerous informational sources which are then analyzed to generate the figures
+populating the ACS tables. The level of accuracy achieved by the ACS is not as great as the 10-year census. This
+is understood to be true by users of ACS surveys.
+This is brought to the attention of readers as the ACS information provided for Teterboro seems plainly and
+obviously incorrect. Two (2) examples will be highlighted to illustrate this point. The ACS2023 Table DPOS
+estimates there were 120 Teterboro residents in 2023. This estimate is repeated in the ACS 2023 Table S010.
+Meanwhile ACS 2023 Table DP04 estimates there were 35 dwelling units in Teterboro in 2023. We know this
+estimate is factually incorrect.
+The 2024 Fair Housing Act amendments (C.52:27D-301 et seq.) directs municipalities to use the most recent
+datasets made available through the federal decennial census and the American Community Survey. Since we
+are instructed to use these datasets, they will be used, even though they are demonstratable incorrect.
+We have reviewed the Teterboro zoning ordinance to determine if the ordinance advances or detracts from the
+goals
+of preserving
+multigenerational
+family continuity as expressed
+in the recommendations
+of the
+Multigenerational Family Housing Continuity Commission. We find that Teterboro's zoning ordinance neither
+detracts from nor supports multigenerational family housing continuity. This conclusion was reached despite not
+been able to locate the recommendations of the Multigenerational Family Housing Continuity Commission.
+Teterboro does commit to examining its zoning ordinance once recommendations from the Commission are
+adopted to determine if any improvements in our ordinance can be taken to further the Commission's work.
+12
+
+===== PAGE 14 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 14 0f 33
+Trans ID: LCV20251904084
+Table 2: Housing Units by Tenure and Occupancy Status (2000 - 2023)
+_
+Borough
+of Teterboro, New Jerse
+_
+2000
+2023
+Category er eee
+Renter-Occupied Units a i
+96.06
+Total Units
+p 8
+100.0
+100.0
+Sources: U.S. Census 2000 & 2023
+2.
+Housing Characteristics.
+The following table provides additional information on the characteristics of the
+Borough's housing stock, including data on the number of units in structures.
+Table 3: Units in Structure (2000 - 2023)
+—Borough
+of Teterboro, New
+Jersey
+Units in Structure
+!
+[aia
+a
+[tmtaracedee
+dd
+[ Sormoeunts
+Sources: U.S. Census 2000 & 2023 ACS
+13
+
+===== PAGE 15 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 15o0f33
+Trans ID: LCV20251904084
+3.
+Housing Age. The following table outlines the age of the Borough's housing stock. The 18-unit Vincent Place
+development was issued Certificates of Occupancy in January 2000.
+Table 4: Year Structure Built
+[
+Year Built
+Number of Units
+|
+I
+Sources: U.S. Census
+4.
+Housing Conditions. An inventory of the Borough's housing conditions is presented in the following tables. The
+first table identifies the extent of overcrowding in the Borough, defined as housing units with more than one
+occupant per room. The data indicates that there are 6 overcrowded units located in the Borough, and 29 that
+are not overcrowded.
+Table 5: Occupants per Room (2000 to 2023)
+Borough of Teterboro, New Jersey
+|
+|
+Occupants Per
+aaa
+Ales
+|
+Sources: U.S. Census 2000, American Community Survey 5-Year Estimates. 2023
+14
+
+===== PAGE 16 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 16 of 33
+Trans ID: LCV20251904084
+The table below presents other key characteristics of housing conditions, including the presence of complete
+plumbing and kitchen facilities and the type of heating equipment used. As shown, 100 percent of the units
+have complete kitchen, plumbing, and heating facilities.
+Table 6: Equipment and Plumbing Facilities (2000 to 2023)
+Borough of Teterboro, New Jersey
+[
+;
+2000
+2023
+Facilities
+Kitchen:
+Plumbing:
+100.0
+35
+100.0
+With Complete Facilities
+,
+,
+Heating Equipment:
+100.0
+35
+100.0
+Standard Heating Facilities
+Sources: U.S. Census 2000, 2023 American Community Survey 5-Year Estimates.
+15
+
+===== PAGE 17 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 17 of 33
+Trans ID: LCV20251904084
+5.
+Rental Values. We only show information regarding rental values as no owner-occupied units are located in
+Teterboro. As shown in the following table, Teterboro’s rental housing stock had monthly rents under $1,000 in
+2000. By 2013, 70 percent of rents are greater than $1,500, with the median rent reported at $1,667. This number
+increased even with the five affordable rental units located in the Borough.
+Table 7: Gross Rent of Renter-Occupied Housing Units (2000 to 2023)
+Borough of Teterboro, New Jersey
+ie
+2000
+2023
+Gross Rent
+Less than $200
+Less than
+$500
+$1,000 to
+4
+:
+$1,500 to
+4
+K
+14
+40.
+$2,000 to
+7
+i
+:
+3,000
+more
+Median Gross Rent
+$571
+$1,911
+Bergen County
+72
+2,45
+Sources: U.S. Census 2000, 2023 American Community Survey 5-Year Estimates.
+6.
+Number of Units Affordable to Low- and Moderate-Income Households. Teterboro is placed in COAH Housing
+Region No.1, which is comprised of Bergen, Passaic, Hudson and Sussex Counties. Based on the most current
+adopted regional income limits, the median household income for a three-person household is $108,371. A
+three-person moderate-income household, defined as 80 percent of the median income, would have an income
+not exceeding $86,697.
+16
+
+===== PAGE 18 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 18 o0f33
+Trans ID: LCV20251904084
+For renter-occupied housing, an affordable monthly rent for a three-person household
+is estimated
+at
+approximately $2,167. According to the ACS 2023 survey 20 apartments in Teterboro are currently renting for
+less than $2,000, making them affordable to a three-person moderate-income household.
+7.
+Substandard Housing Capable of Being Rehabilitated. The number of units in a community that are in need of
+rehabilitation and are not likely to experience “spontaneous rehabilitation” has been provided, as detailed in
+other sections of this report. For Teterboro this figure is zero units, as supported by the data indicating that 100
+percent of the Borough's housing stock contains complete facilities and standard heating.
+17
+
+===== PAGE 19 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 19 of 33
+Trans ID: LCV20251904084
+C.
+POPULATION ANALYSIS
+The MLUL requires that
+a Housing Element provide data on the municipality's population, including population size, age
+and income characteristics.
+1.
+Population Size. As seen in the table below, the Borough experienced its greatest population growth in the last
+90 years. The 2010 Census data indicates the Borough has 67 residents, an almost 300 percent increase from
+the 2000 Census. The ACS data indicates Teterboro's population grew to 120 residents by 2023,
+a number which
+is not a credible number.
+Table 8: Population Growth (1920 to 2023)
+Borough of Teterboro, New Jersey
+Year
+|
+Population
+Change (#)
+Change (%)
+_
+1920
+24
+=
+ain
+1930
+26
+|
+2
+8.3
+1940
+|
+40
+|
+14
+53.8
+1950
+28
+|
+(-12)
+|
+(-30.0)
+1960
+|
+22
+(-6)
+(-21.4)
+1970
+|
+19
+(-2)
+(-13.6)
+1980
+19
+=
+re
+1990
+158
+2000
+18
+(-4)
+|
+(-18.1)
+2010
+67
+49
+|
++ 272.0
+2023
+120
+53
+|
+79.1
+Source: U.S. Census data, 2023 ACS
+2.
+Age Characteristics. The Borough's age characteristics are outlined in the table below.
+As shown, the Borough's
+population as suggested by the 2023 ACS is growing younger. The median age in Teterboro in 2023 was reported
+to be 39.4 years, significantly younger than the 43.5 years, reported in 2010.
+18
+
+===== PAGE 20 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 20 of 33
+Trans ID: LCV20251904084
+Table 9: Age Characteristics (2023)
+Borough of Teterboro, New Jersey
+Age Group
+Total |
+% Total
+UnderS a
+0]
+00.
+25-34
+14
+55-59
+1B
+10.8
+85 and over
+5
+41
+Source: 2023 ACS
+19
+
+===== PAGE 21 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 21 of 33
+Trans ID: LCV20251904084
+3.
+Average Household Size. The average household size for the Borough has increased since 1990 over the past
+three decades, rising slightly from 2.57 persons in 2000 to 2.68 persons per household in the 2010 Census. ACS
+in 2023 is reporting there are 35 households in Teterboro and the average household size is 3.23 people.
+Table 10: Average Household Size (1990 to 2023)
+Borough of Teterboro, New Jersey
+Borough
+|
+Household
+|
+Average
+ie
+|
+Population
+|
+Population
+Hesal ote noids
+| Household Size
+|oeos ela
+ee Se
+oS
+eee ae =
+ae ee
+1990
+22
+H
+22
+9
+|
+2.44
+2000
+18
+|
+18
+|
+8
+2.57
+2010
+67
+67
+25
+2.68
+Sources: U.S, Census 1990, 2000, 2010; 5-Year ACS 2023.
+20
+
+===== PAGE 22 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 22 of 33
+Trans ID: LCV20251904084
+4.
+Household Income.
+Detailed household income figures are shown in the table below. As shown, 80% of the
+Borough's households had an income of $100,000 or more in 2012 which is an increase of 17% over 1999
+incomes.
+The Borough's median household income in 2012 was slightly more than double the median
+household income of Bergen County as a whole.
+Table 11: Household Income (1999 to 2023)
+Borough of Teterboro, New Jersey
+1999
+2013
+2023
+Income Category
+I}
+ian
+H
+|
+Median
+Household
+$44,167
+$82,321
+Income
+No figure given
+Bergen County Median
+$78,079
+$84,255
+|
+$123,715
+Sources: U.S. Census 2000, American Community Survey 5-Year Estimates, 2023.
+21
+
+===== PAGE 23 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 23 of 33
+Trans ID: LCV20251904084
+3.
+EMPLOYMENT ANALYSIS
+The MLUL requires that the Housing Element include data on employment levels in the community. The following tables
+present information on the Borough's employment characteristics.
+1.
+Employment Status. Table 11 provides information on the employment status of Borough residents age 16 and
+over. The small sample size shows that vast majority of residents 16 years of age and over are participating in
+the labor force.
+Table 12: Employment Status, Population 16 and Over (2023)
+Borough of Teterboro, New Jersey
+2023
+Employment Status
+Civilian labor force
+|
+|__UrerPieves
+% of civilian labor force p 80f |
+femtocell
+Not in labor force
+Total Population 16 and Over
+Source: American Community Survey 5-Year Estimates.
+22
+
+===== PAGE 24 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 24 of 33
+Trans ID: LCV20251904084
+2.
+Employment Characteristics of Employed Residents.
+The following two tables detail information on the
+employment characteristics of employed Teterboro residents.
+Table 13: Employed Residents Age 16 and Over, By Occupation (2023)
+Borough of Teterboro, New Jersey
+2023
+Occupation
+pen
+Number | Percent
+Management, business, science, and arts occupations
+Ec
+Sales and office occupations
+Natural resources, construction, and maintenance occupations | 8]
+000]
+Production, transportation, and material moving occupations
+7
+Source: American Community Survey 5-Year Estimates.
+23
+
+===== PAGE 25 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 25 of 33
+Trans ID: LCV20251904084
+Table 14: Employed Residents Age 16 and Over, By Industry (2000 to 2023)
+Borough of Teterboro, New Jersey
+2000
+2013
+2023
+Industry
+Agriculture, forestry, fishing, hunting,
+and miningLd
+LE
+Transportation and warehousing, and
+3
+43
+|
+4]
+9.7
+utilities
+:
+|
+|
+LI
+Finance, insurance, real estate and
+1
+34
+rental and leasing
+‘
+Professional, scientific, management,
+administrative and waste management
+services
+Arts, entertainment, recreation,
+|
+.
+.
+2
+43
+accommodation, and food services
+Other services, except public
+4
+35
+administration
+,
+Sources: U.S. Census 2000, American Community Survey 5-Year Estimates.
+24
+
+===== PAGE 26 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 26 of 33
+Trans ID: LCV20251904084
+4.
+HOUSING AND EMPLOYMENT PROJECTIONS
+The following section identifies the extent to which recent development has occurred in the community, to assist in the
+determination of future residential and employment projections.
+Probable Future Employment and Regional or Community Factors Impacting Upon Future Municipal Employment.
+Since 201005, Teterboro has experienced an increase in covered employment from 7,656 to 10,842 jobs. With the
+covered employment total 936 jobs higher than it was in 2020.
+Table 15: Covered Employment Trends (2010-2023)
+Borough of Teterboro, New Jersey
+ae ee
+a
+aee
+aee
+ee
+p=ee
+Source: New Jersey Department of Labor and Workforce Development
+25
+
+===== PAGE 27 =====
+:
+:
+LCV20251904084
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 27 of 33
+Trans ID: LC
+2.
+Projection of the Municipality's Housing Stock. With limited acreage remaining in the municipality and the
+existing environmental constraints present throughout Teterboro, it is anticipated that the Borough will not
+experience additional residential growth during the Fourth Round housing cycle. This Projection is consistent
+with the lack of any increase in housing units since 2010.
+Table 16 reveals the number of residential building permits that have been issued in Teterboro in various
+categories since 2013. A cursory review will indicate the Borough has issued zero residential building permits
+during the period under investigation.
+Table 16: Residential Building Permits Issued by the
+Borough of Teterboro since 2013, Various Categories
+Year
+Total
+Permits}1
+&
+2
+Family | Mutli-family
+Dwellings in Mixed-
+Issued
+Dwellings
+dwellings
+use Developments
+Source: NJ DCA
+26
+
+===== PAGE 28 =====
+:
+ID: LCV20251904084
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 28 of 33
+Trans
+Table 17 reveals the number of residential certificates ofoccupancy that have been issued in Teterboro in various
+categories since 2013. A cursory review will indicate the Borough has issued zero residential certificates of
+Occupancy during the period under investigation.
+Table 17: Residential Certificates of Occupancy Issued by the
+Borough of Teterboro since 2013, Various Categories
+Year
+Total
+Permits|}1
+&
+2
+Family
+Mutli-family
+Dwellings in Mixed-
+Issued
+Dwellings
+dwellings
+use Developments
+27
+
+===== PAGE 29 =====
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 29 of 33.
+Trans ID: LCV20251904084
+Section Il: Fair Share Obligation
+28
+
+===== PAGE 30 =====
+:
+4084
+43:
+of 33.
+Trans ID: LCV2025190
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 30
+A. SUMMARY OF FAIR SHARE OBLIGATION FoR THE 4™ROUND AFFORDABLE HOUSING CYCLE
+As a result of the 2024 amendments to the Fair Housing Act, the Department of Community Affairs was empowered and
+directed to prepare a report to the Governor, Legislature and municipalities detailing the projected 10-year affordable
+housing obligation of each individual Municipality comprising the various housing regions in the State. This ten-year
+timeframe begins on July 1, 2025 and continues until June 30, 2035.
+This DCA authored report was released in October 2024, With regard to the Borough of Teterboro, the report established
+the Borough's 10-year affordable housing obligation as:
+Present Need
+4 Units.
+Prospective Need
+92 Units.
+In addition to the two categories listed above, the 2024 Fair Housing Act amendments also directed municipalities to
+review the status of their Third Round housing plan. More specifically, municipalities when Preparing Fourth Round
+housing plans are directed to:
+As part of its housing element and fair share plan, the municipality shall include
+an assessment of the degree to which the Municipality has met its fair share
+obligation from the prior rounds of affordable housing established by prior court
+approvals, approval by the council, and determine to what extend this obligation
+is unfulfilled or whether the Municipality has credits in excess of its prior round Obligations.
+With regard to Teterboro’s Present Need obligation, sometimes called the Rehabilitation Obligation, the Department of
+Community Affairs has determined the Borough's obligation for the current ten-year period beginning July 1, 2025 is 4
+units.
+With regard to Teterboro’s Prospective Need Obligation, the Department of Community Affairs has determined the
+Borough's obligation for the current ten-year period beginning July 1, 2025 is 92 affordable housing dwellings.
+However, the Department also recognized that the FHA amendments continue the 20% cap on affordable housing
+units. In brief this upper Cap states no municipality shall be required to produce more than 20% of its entire housing
+stock as deed-restricted affordable housing. Further the Department recognized that with five (5) units of deed-
+restricted affordable housing, Teterboro is at the 20% cap limit, as such, Teterboro is not required to take any additional
+action addressing Prospective Need.
+=
+B.
+EARLIER AFFORDABLE HOUSING ACHIEVEMENTS IN TETERBORO
+In order to fully understand Teterboro’s approach and response to the 2025-2035 affordable housing obligation as
+established under the most recent amendments to the Fair Housing Act, it is necessary to examine Teterboro's past
+efforts, strategies and achievements in meeting its earlier affordable housing obligations.
+29
+
+===== PAGE 31 =====
+:
+4084
+42:
+1 of 33.
+Trans ID: LCV2025190:
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg3
+Teterboro engaged with and negotiated a settlement agreement with the one intervenor in its declaratory judgement
+action. Fair Share Housing Center, Inc. a private advocacy entity was the only intervenor to Teterboro's declaratory
+judgement action. Upon reaching a preliminary agreement with Fair Share Housing Center, the draft settlement
+agreement was presented to the Superior Court. After a noticed and open-to-the public court Session, the Superior
+Court Judge first assigned Teterboro’ case, the Honorable William C. Meehan, J.S.C,, found the draft settlement
+agreement was fair and reasonable to lower income households in search of affordable housing, and approved the
+Settlement Agreement between the Borough of Teterboro and Fair Share Housing Center.
+The conditional Judgement of Compliance and Repose signed by Judge Meehan and dated April 17, 2017 is attached to
+this HE&FSP as Appendix A-1
+After Judge Meehan issued his above-cited Judgement, it came to light that the affordable deed-restricted units at
+Vincent Place had more one (1) bedroom units and fewer (2) bedroom units than authorized by the Uniform Housing
+Affordability Controls (NAC. 5:80-26.1 et sq.). IN response to this issue, Teterboro adopted Ordinance No. 579, on
+November 9, 2017, which amended the Borough's Affordable Housing Ordinance. Ordinance No. 579 included herein as
+Appendix A-2
+On March 20, 2018, the Honorable Christine Farrington, 1.S.C. issued an Amended judgement of Compliance and
+Repose, attached herein as Appendix A-3,
+For the Third Round housing cycle, Teterboro's Rehabilitation Obligation was established at zero (0) units. Since there
+were no residential dwellings in the Borough that were deteriorated and occupied by low-or moderate-income
+households, there was no obligation for the Borough to satisfy.
+Based on the Amended Judgement of Compliance and Repose, Teterboro is fully compliant with its Third Round
+affordable housing obligation.
+C. ACTIONS TO BE TAKING TO ACHIEVE FOURTH ROUND HOUSING CYCLE COMPLIANCE.
+As mentioned earlier, the Department of Community Affairs has determined Teterboro has the following Forth Round
+housing cycle obligations:
+Present Need
+4
+Prospective Need
+92
+This next section of the Housing Element and Fair Share Plan will detail the mechanisms Teterboro will use to
+achieve compliance with its affordable housing obligations,
+1.
+Present Need. Teterboro’s Present Need, sometimes called Rehabilitation Obligation is four (4) units.
+-
+The
+Fair Housing Act amendments signed into law in March 2024, contain a Provision which allows those Municipalities
+who
+believe the Present Need obligation is too high to perform a local study, called a Structural Conditions Study,
+Teterboro is one such Municipality and has directed its Construction Official to undertake such a study which involves a
+exterior survey of the Borough's housing stock. The Construction Official, or other licensed individual, performs an
+exterior inspection of dwellings, examining the dwelling for code deficient structural components. These might include
+items such as defective roofs, holes in the building facades, crumbling steps and stoops and similar defects,
+30
+
+===== PAGE 32 =====
+“42°
+rans ID: LCV20251904084
+BER-L-000689-25
+07/01/2025 11:43:16 AM
+Pg 32 0f 33
+Tra
+Because there are so few dwellings in Teterboro, the Construction Official inspected the Borough's entire
+housing stock, He reported zero (0) units with deteriorated structural components. This then becomes the
+Borough's adjusted Present Need Obligation, zero (0) units. As there are no Present Need dwellings in the
+Borough, there is nothing more for the Borough to do in addressing this obligation.
+Recent photos of the residential housing stock is attached as Appendix A-4 through A-7. Also attached is a copy
+of the April 6, 2025 report of the Boroughs’ Construction Official with his findings at the Vincent Place dwellings.
+The report copy is Appendix A-8.
+2. Prospective Need. DCA assigned Teterboro a 92-unit new construction affordable housing obligation.
+DCA
+recognized the small number of dwellings in the Borough, and capped Teterboro’s obligation at 20% of the
+total
+housing stock. DCA also recognized earlier affordable housing activities undertaken by Teterboro had led
+to
+the construction of five (5) deed-restricted affordable dwellings. 20% of Teterboro's housing stock is
+comprised of deed-restricted affordable dwellings, as such, there is nothing Teterboro needs to do to address its
+Prospective Housing obligation.
+3.
+Expiring Controls.
+The amended FHA recognized that many deed restricted units are approaching the life the restriction requiring
+units to be sold or rented to an income qualified household. The legislation requires municipalities to explore if
+units in the community will be confronting this issue and requires they arrive at a plan to address this issued of
+expiring controls.
+The five (5) Vincent Place affordable units received Certificates of Occupancy in January 2000. This office
+understands these units were initially equipped with thirty (30) year deed restrictions which may be set to expire
+in 2030, halfway through this housing cycle. The initial restrictions should be reviewed by Teterboro's attorney
+with the idea that these restrictions should be extended for an additional thirty years at a minimum. The
+alternative if Teterboro did not want to extend the controls is for Teterboro to somehow replace the five (5)
+Vincent Place affordable units with five new affordable units,
+On the following page is an existing land use map for the Borough of Teterboro.
+31
+
+===== PAGE 33 =====
+07/01/2025 11:43:16 AM_
+Pg 33 of 33
+Trans ID: LCV20251904084
+~
+BER-L-000689-25
+Borough
+of Teterboro
+Zoning Map
+\
+a
+\
+Y/
+; NS
+South Hackensack
+\
+if
+eae
+;
+VW
+Shay
+he
+~
+—=—==
+MNS
+7S.
+¥
+Wd
+V
+Ags
+’
+i
+t
+;
+=}
+fe >
+‘
+|
+ra
+f
+5
+EY
+.
+;
+!
+XN
+id
+Vi
+\
+thy
+x .
+’
+|
+Y
+.
+'
+Y
+SS
+“
+7
+Rc
+ee
+rey;
+©
+yo
+/
+DS
+i
+hi
+>
+Yy
+y/
+Ss
+fi
+Y.,
+A
+ca
+fi
+SS
+£
+f,
+»f
+fi
+DY’
+:
+/
+oS
+/
+Se
+4,
+Ne
+as
+i.
+Teterboro
+f;
+/
+\
+Su)
+WY
+ff
+j
+Yj
+ra)
+Sy
+a
+4
+fo
+ON
+;
+}
+3
+os
+4
+:
+y
+:
+>, Ye
+y
+Little Ferry
+Yy,
+NN
+j
+a
+j
+LEGEND
+< yf Y
+.
+:
+$2} Municipal Boundary
+y
+NS
+3
+¥
+(J istrict Boundary
+>
+a
+bh
+(7) Block Boundary
+y “<<
+SS
+Lot Boundary
+y
+i
+.
+A
+=== Major Roads
+y
+Sy
+2
+WB water Bodies
+ING
+Ny
+Units: US Survey Feat
+/
+¥
+Datum: North American Datum 1983
+.
+a
+:
+a
+q
+7
+‘
+Teterboro (September 2000)
+a
+SY
+Linch = 700 teet
+Datos
+MEADOWLANDS
+DISTRICT ZONES
+f
+Sapaeemeeeetttmecem
+f
+Serb Tha wrt avhost
+ape Dae oecsa
+Aviation Facilities (AV)
+| Light industrial 8 (LIB)
+orca
+neta om om
+Redevelopment
+Area (RA)
+Fooads, Rails, ROWs (RRA)
+z
+Fae ctr
+TETERBORO ZONES
+N
+;
+Light Industrial
+& Distribution Zone (LID)
+MBB Fedevelopment
+Area 2 Zone(Raa)
+Ware
+@
+Redevelopment
+Area 1 Zone (RA1)
+Nap
+Cosi
+Svomserz019 | ante
+New
+Jersey Meadowlands Commission (NIMC)
+1 De Korte Park Plaza, Lyndhurst, NJ07071 (201) 460-1700
+Meadowlands Envitonmental Research institute (MERI)
+Geographic information Systems

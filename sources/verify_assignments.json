@@ -1,0 +1,587 @@
+{
+ "Allendale": {
+  "slug": "allendale-boro",
+  "n_docs": 4,
+  "dca": {
+   "present_need": 159,
+   "quam": 0,
+   "prospective_need": 260
+  }
+ },
+ "Alpine": {
+  "slug": "alpine-boro",
+  "n_docs": 5,
+  "dca": {
+   "present_need": 0,
+   "quam": 0,
+   "prospective_need": 257
+  }
+ },
+ "Bergenfield": {
+  "slug": "bergenfield-boro",
+  "n_docs": 5,
+  "dca": {
+   "present_need": 137,
+   "quam": 1,
+   "prospective_need": 0
+  }
+ },
+ "Bogota": {
+  "slug": "bogota-boro",
+  "n_docs": 5,
+  "dca": {
+   "present_need": 26,
+   "quam": 0,
+   "prospective_need": 88
+  }
+ },
+ "Cliffside Park": {
+  "slug": "cliffside-park-boro",
+  "n_docs": 4,
+  "dca": {
+   "present_need": 150,
+   "quam": 1,
+   "prospective_need": 0
+  }
+ },
+ "Closter": {
+  "slug": "closter-boro",
+  "n_docs": 4,
+  "dca": {
+   "present_need": 16,
+   "quam": 0,
+   "prospective_need": 251
+  }
+ },
+ "Cresskill": {
+  "slug": "cresskill-boro",
+  "n_docs": 9,
+  "dca": {
+   "present_need": 0,
+   "quam": 0,
+   "prospective_need": 155
+  }
+ },
+ "Demarest": {
+  "slug": "demarest-boro",
+  "n_docs": 7,
+  "dca": {
+   "present_need": 0,
+   "quam": 0,
+   "prospective_need": 106
+  }
+ },
+ "Dumont": {
+  "slug": "dumont-boro",
+  "n_docs": 2,
+  "dca": {
+   "present_need": 16,
+   "quam": 0,
+   "prospective_need": 128
+  }
+ },
+ "East Rutherford": {
+  "slug": "east-rutherford-boro",
+  "n_docs": 4,
+  "dca": {
+   "present_need": 53,
+   "quam": 0,
+   "prospective_need": 412
+  }
+ },
+ "Edgewater": {
+  "slug": "edgewater-boro",
+  "n_docs": 5,
+  "dca": {
+   "present_need": 6,
+   "quam": 0,
+   "prospective_need": 295
+  }
+ },
+ "Elmwood Park": {
+  "slug": "elmwood-park-boro",
+  "n_docs": 7,
+  "dca": {
+   "present_need": 154,
+   "quam": 0,
+   "prospective_need": 145
+  }
+ },
+ "Emerson": {
+  "slug": "emerson-boro",
+  "n_docs": 5,
+  "dca": {
+   "present_need": 0,
+   "quam": 0,
+   "prospective_need": 181
+  }
+ },
+ "Englewood": {
+  "slug": "englewood-city",
+  "n_docs": 7,
+  "dca": {
+   "present_need": 166,
+   "quam": 0,
+   "prospective_need": 381
+  }
+ },
+ "Englewood Cliffs": {
+  "slug": "englewood-cliffs-boro",
+  "n_docs": 8,
+  "dca": {
+   "present_need": 166,
+   "quam": 0,
+   "prospective_need": 381
+  }
+ },
+ "Fair Lawn": {
+  "slug": "fair-lawn-boro",
+  "n_docs": 1,
+  "dca": {
+   "present_need": 65,
+   "quam": 0,
+   "prospective_need": 412
+  }
+ },
+ "Fairview": {
+  "slug": "fairview-boro",
+  "n_docs": 5,
+  "dca": {
+   "present_need": 313,
+   "quam": 0,
+   "prospective_need": 97
+  }
+ },
+ "Fort Lee": {
+  "slug": "fort-lee-boro",
+  "n_docs": 2,
+  "dca": {
+   "present_need": 241,
+   "quam": 0,
+   "prospective_need": 382
+  }
+ },
+ "Franklin Lakes": {
+  "slug": "franklin-lakes-boro",
+  "n_docs": 5,
+  "dca": {
+   "present_need": 65,
+   "quam": 0,
+   "prospective_need": 497
+  }
+ },
+ "Garfield": {
+  "slug": "garfield-city",
+  "n_docs": 2,
+  "dca": {
+   "present_need": 322,
+   "quam": 1,
+   "prospective_need": 0
+  }
+ },
+ "Glen Rock": {
+  "slug": "glen-rock-boro",
+  "n_docs": 2,
+  "dca": {
+   "present_need": 0,
+   "quam": 0,
+   "prospective_need": 222
+  }
+ },
+ "Hackensack": {
+  "slug": "hackensack-city",
+  "n_docs": 7,
+  "dca": {
+   "present_need": 593,
+   "quam": 1,
+   "prospective_need": 0
+  }
+ },
+ "Harrington Park": {
+  "slug": "harrington-park-boro",
+  "n_docs": 5,
+  "dca": {
+   "present_need": 0,
+   "quam": 0,
+   "prospective_need": 202
+  }
+ },
+ "Hasbrouck Heights": {
+  "slug": "hasbrouck-heights-boro",
+  "n_docs": 4,
+  "dca": {
+   "present_need": 8,
+   "quam": 0,
+   "prospective_need": 149
+  }
+ },
+ "Haworth": {
+  "slug": "haworth-boro",
+  "n_docs": 8,
+  "dca": {
+   "present_need": 0,
+   "quam": 0,
+   "prospective_need": 242
+  }
+ },
+ "Hillsdale": {
+  "slug": "hillsdale-boro",
+  "n_docs": 13,
+  "dca": {
+   "present_need": 0,
+   "quam": 0,
+   "prospective_need": 220
+  }
+ },
+ "Ho-Ho-Kus": {
+  "slug": "hohokus-boro",
+  "n_docs": 6,
+  "dca": {
+   "present_need": 0,
+   "quam": 0,
+   "prospective_need": 218
+  }
+ },
+ "Leonia": {
+  "slug": "leonia-boro",
+  "n_docs": 4,
+  "dca": {
+   "present_need": 68,
+   "quam": 0,
+   "prospective_need": 104
+  }
+ },
+ "Little Ferry": {
+  "slug": "little-ferry-boro",
+  "n_docs": 5,
+  "dca": {
+   "present_need": 114,
+   "quam": 0,
+   "prospective_need": 99
+  }
+ },
+ "Mahwah": {
+  "slug": "mahwah-twp",
+  "n_docs": 5,
+  "dca": {
+   "present_need": 36,
+   "quam": 0,
+   "prospective_need": 629
+  }
+ },
+ "Maywood": {
+  "slug": "maywood-boro",
+  "n_docs": 7,
+  "dca": {
+   "present_need": 12,
+   "quam": 0,
+   "prospective_need": 131
+  }
+ },
+ "Midland Park": {
+  "slug": "midland-park-boro",
+  "n_docs": 7,
+  "dca": {
+   "present_need": 0,
+   "quam": 0,
+   "prospective_need": 155
+  }
+ },
+ "Montvale": {
+  "slug": "montvale-boro",
+  "n_docs": 3,
+  "dca": {
+   "present_need": 30,
+   "quam": 0,
+   "prospective_need": 348
+  }
+ },
+ "New Milford": {
+  "slug": "new-milford-boro",
+  "n_docs": 6,
+  "dca": {
+   "present_need": 14,
+   "quam": 0,
+   "prospective_need": 114
+  }
+ },
+ "North Arlington": {
+  "slug": "north-arlington-boro",
+  "n_docs": 5,
+  "dca": {
+   "present_need": 36,
+   "quam": 0,
+   "prospective_need": 227
+  }
+ },
+ "Norwood": {
+  "slug": "norwood-boro",
+  "n_docs": 3,
+  "dca": {
+   "present_need": 15,
+   "quam": 0,
+   "prospective_need": 161
+  }
+ },
+ "Oakland": {
+  "slug": "oakland-boro",
+  "n_docs": 13,
+  "dca": {
+   "present_need": 10,
+   "quam": 0,
+   "prospective_need": 306
+  }
+ },
+ "Old Tappan": {
+  "slug": "old-tappan-boro",
+  "n_docs": 6,
+  "dca": {
+   "present_need": 4,
+   "quam": 0,
+   "prospective_need": 233
+  }
+ },
+ "Oradell": {
+  "slug": "oradell-boro",
+  "n_docs": 3,
+  "dca": {
+   "present_need": 0,
+   "quam": 0,
+   "prospective_need": 186
+  }
+ },
+ "Palisades Park": {
+  "slug": "palisades-park-boro",
+  "n_docs": 2,
+  "dca": {
+   "present_need": 333,
+   "quam": 0,
+   "prospective_need": 221
+  }
+ },
+ "Paramus": {
+  "slug": "paramus-boro",
+  "n_docs": 5,
+  "dca": {
+   "present_need": 254,
+   "quam": 0,
+   "prospective_need": 1523
+  }
+ },
+ "Park Ridge": {
+  "slug": "park-ridge-boro",
+  "n_docs": 8,
+  "dca": {
+   "present_need": 150,
+   "quam": 1,
+   "prospective_need": 0
+  }
+ },
+ "Ramsey": {
+  "slug": "ramsey-boro",
+  "n_docs": 7,
+  "dca": {
+   "present_need": 51,
+   "quam": 0,
+   "prospective_need": 503
+  }
+ },
+ "Ridgefield": {
+  "slug": "ridgefield-boro",
+  "n_docs": 4,
+  "dca": {
+   "present_need": 62,
+   "quam": 0,
+   "prospective_need": 223
+  }
+ },
+ "Ridgefield Park": {
+  "slug": "ridgefield-park-village",
+  "n_docs": 5,
+  "dca": {
+   "present_need": 62,
+   "quam": 0,
+   "prospective_need": 223
+  }
+ },
+ "Ridgewood": {
+  "slug": "ridgewood-village",
+  "n_docs": 2,
+  "dca": {
+   "present_need": 4,
+   "quam": 0,
+   "prospective_need": 427
+  }
+ },
+ "River Edge": {
+  "slug": "river-edge-boro",
+  "n_docs": 4,
+  "dca": {
+   "present_need": 33,
+   "quam": 0,
+   "prospective_need": 159
+  }
+ },
+ "River Vale": {
+  "slug": "river-vale-twp",
+  "n_docs": 3,
+  "dca": {
+   "present_need": 33,
+   "quam": 0,
+   "prospective_need": 159
+  }
+ },
+ "Rochelle Park": {
+  "slug": "rochelle-park-twp",
+  "n_docs": 6,
+  "dca": {
+   "present_need": 10,
+   "quam": 0,
+   "prospective_need": 109
+  }
+ },
+ "Rockleigh": {
+  "slug": "rockleigh-boro",
+  "n_docs": 6,
+  "dca": {
+   "present_need": 0,
+   "quam": 0,
+   "prospective_need": 116
+  }
+ },
+ "Rutherford": {
+  "slug": "rutherford-boro",
+  "n_docs": 2,
+  "dca": {
+   "present_need": 53,
+   "quam": 0,
+   "prospective_need": 412
+  }
+ },
+ "Saddle Brook": {
+  "slug": "saddle-brook-twp",
+  "n_docs": 6,
+  "dca": {
+   "present_need": 42,
+   "quam": 0,
+   "prospective_need": 279
+  }
+ },
+ "Saddle River": {
+  "slug": "saddle-river-boro",
+  "n_docs": 5,
+  "dca": {
+   "present_need": 42,
+   "quam": 0,
+   "prospective_need": 279
+  }
+ },
+ "South Hackensack": {
+  "slug": "south-hackensack-twp",
+  "n_docs": 4,
+  "dca": {
+   "present_need": 7,
+   "quam": 0,
+   "prospective_need": 174
+  }
+ },
+ "Teaneck": {
+  "slug": "teaneck-twp",
+  "n_docs": 4,
+  "dca": {
+   "present_need": 214,
+   "quam": 0,
+   "prospective_need": 431
+  }
+ },
+ "Tenafly": {
+  "slug": "tenafly-boro",
+  "n_docs": 6,
+  "dca": {
+   "present_need": 68,
+   "quam": 0,
+   "prospective_need": 297
+  }
+ },
+ "Teterboro": {
+  "slug": "teterboro-boro",
+  "n_docs": 2,
+  "dca": {
+   "present_need": 4,
+   "quam": 0,
+   "prospective_need": 92
+  }
+ },
+ "Upper Saddle River": {
+  "slug": "upper-saddle-river-boro",
+  "n_docs": 7,
+  "dca": {
+   "present_need": 0,
+   "quam": 0,
+   "prospective_need": 233
+  }
+ },
+ "Waldwick": {
+  "slug": "waldwick-boro",
+  "n_docs": 4,
+  "dca": {
+   "present_need": 19,
+   "quam": 0,
+   "prospective_need": 178
+  }
+ },
+ "Wallington": {
+  "slug": "wallington-boro",
+  "n_docs": 3,
+  "dca": {
+   "present_need": 81,
+   "quam": 0,
+   "prospective_need": 92
+  }
+ },
+ "Washington Township": {
+  "slug": "washington-twp",
+  "n_docs": 7,
+  "dca": {
+   "present_need": 0,
+   "quam": 0,
+   "prospective_need": 184
+  }
+ },
+ "Westwood": {
+  "slug": "westwood-boro",
+  "n_docs": 9,
+  "dca": {
+   "present_need": 19,
+   "quam": 0,
+   "prospective_need": 235
+  }
+ },
+ "Wood-Ridge": {
+  "slug": "wood-ridge-boro",
+  "n_docs": 3,
+  "dca": {
+   "present_need": 17,
+   "quam": 0,
+   "prospective_need": 130
+  }
+ },
+ "Woodcliff Lake": {
+  "slug": "woodcliff-lake-boro",
+  "n_docs": 7,
+  "dca": {
+   "present_need": 0,
+   "quam": 0,
+   "prospective_need": 441
+  }
+ },
+ "Wyckoff": {
+  "slug": "wyckoff-twp",
+  "n_docs": 26,
+  "dca": {
+   "present_need": 40,
+   "quam": 0,
+   "prospective_need": 387
+  }
+ }
+}

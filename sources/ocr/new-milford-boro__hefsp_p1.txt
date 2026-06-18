@@ -1,0 +1,2424 @@
+
+===== PAGE 1 =====
+BOROUGH OF NEW MILFORD MASTER PLAN
+HOUSING ELEMENT AND FAIR SHARE PLAN
+Prepared for: 
+Planning Board 
+Borough of New Milford 
+930 River Road 
+New Milford, New Jersey 07646 
+ 
+Prepared by: 
+ 
+Phillips Preiss Grygiel Leheny Hughes LLC 
+Planning and Real Estate Consultants 
+70 Hudson Street, Suite 5B 
+Hoboken, New Jersey 07030 
+ 
+ 
+ 
+Adopted May 20, 2025 
+ 
+The original copy of this document was signed and sealed 
+in accordance with N.J.S.A. 45:14 A-1 et seq. 
+ 
+ 
+__________________________ 
+Paul Grygiel 
+New Jersey Professional Planner License # 5518 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 1 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 2 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+i 
+Table of Contents
+I.
+Introduction .......................................................................................................................................... 1
+II. 
+Affordable Housing in New Jersey ...................................................................................................... 2
+III.
+Housing Element/Fair Share Plan Requirements.............................................................................. 4
+IV.
+Housing Stock and Demographic Analysis ......................................................................................... 7
+Housing Stock Inventory .......................................................................................................................... 7
+General Population Characteristics ..................................................................................................... 12
+Household Characteristics ................................................................................................................... 13
+Income Characteristics ......................................................................................................................... 13
+Employment Characteristics ................................................................................................................. 14
+Growth Trends and Projections ............................................................................................................ 18
+V. 
+Fair Share Plan .................................................................................................................................. 20
+Affordable Housing Obligations ............................................................................................................ 20
+Proposed Compliance Mechanisms .................................................................................................... 23
+Summary of Credits and Bonuses ....................................................................................................... 27
+Consideration of Lands and Buildings for Low- and Moderate-Income Housing .............................. 28
+Spending Plan ....................................................................................................................................... 29
+VI.
+Relationship to Multigenerational Family Housing Continuity ....................................................... 30
+VII. Consistency with the State Development and Redevelopment Plan ............................................ 32
+Appendices ................................................................................................................................................ 34
+List of Tables 
+Table 1. Housing Units by Occupancy Status, 2023 ................................................................................. 7
+Table 2. Housing Units by Number of Units in Structure, 2023 ................................................................ 7
+Table 3. Housing Units by Age, 2023 ......................................................................................................... 8
+Table 4. Housing Units by Number of Rooms for New Milford and Bergen County, 2023 ..................... 8
+Table 5. Housing Values, Owner Occupied, 2013 ..................................................................................... 9
+Table 6. Housing Values, Owner Occupied, 2023 .................................................................................. 10
+Table 7. Comparison of New Milford and Bergen County, Monthly Rental Cost, 2023 ....................... 11
+Table 8. Monthly Housing Costs as Percentage of Household Income in the Past 12 Months – Owner 
+Occupied Housing Units, 2023 ........................................................................................................ 11
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 2 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 3 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+ii 
+Table 9. Monthly Housing Costs as a Percentage of Household Income in the Past 12 Months – 
+Renter Occupied Housing Units, 2023 ............................................................................................ 12
+Table 10. Selected Quality Indicators, Occupied Housing Stock, 2023 ................................................ 12
+Table 11. Population Growth .................................................................................................................... 12
+Table 12. Comparison of Age Distribution, 2010-2020 ......................................................................... 13
+Table 13. Household and Family Income by Income Brackets for New Milford and Bergen County, 
+2023 .................................................................................................................................................. 14
+Table 14. Employment Status, New Milford ............................................................................................ 15
+Table 15. Employment by Occupation, New Milford, 2023 ................................................................... 15
+Table 16. Distribution of Employment by Industry, Borough Residents, 2023 .................................... 16
+Table 17. Distribution by Class of Worker, 2023 .................................................................................... 16
+Table 18. Employment in New Milford by Industry Sector, 2012, 2017, 2022 ................................... 17
+Table 19. Residential Certificates of Occupancy, 2013-2023 .............................................................. 18
+Table 20. Non-Residential Certificates of Occupancy, 2013-2023 ....................................................... 19
+Table 21. Prior and Third Round Credits for Built, Approved and Planned Projects ............................ 25
+Table 22. Fourth Round Credits ............................................................................................................... 28
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 3 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 4 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+iii 
+Acknowledgments
+Planning Board
+Members (Class I-III) 
+(I) Councilman Ira Grotsky, Mayor’s Designee
+(II) Tammi Kaminski, Environmental & Energy Commission Representative 
+(III) Councilman Art Zeilner, Council Liaison 
+ 
+Members (Class IV)    
+John DaCosta, Jr., Chairman
+Jeffrey Forster, Vice Chairman 
+David Foo (former member) 
+Casey Hittel (former member) 
+Andrew Lombardi 
+Christopher Long 
+Joe Loonam 
+Eileen Mulroy, Alternate 1 
+Bentzi Varon, Alternate 2 
+ 
+Nicole Piano, Secretary 
+Arthur M. Neiss, Esq., Attorney 
+Ally Tierney, PE, Engineer 
+Paul Grygiel, AICP, PP, Planner  
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 4 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 5 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+1 
+I.
+Introduction
+This Housing Element and Fair Share Plan has been prepared on behalf of the Borough of New Milford, 
+Bergen County, in accordance with the New Jersey Municipal Land Use Law per N.J.S.A. 40:55D-28b(3) 
+and the Fair Housing Act (N.J.S.A. 52:27D-301, et seq.). This document supersedes and replaces the 
+Borough’s 2017 Housing Element and Fair Share Housing Plan which was adopted on May 16, 2017, 
+hereinafter referred to as the “Borough’s 2017 Housing Plan.” 
+ 
+The Municipal Land Use Law, N.J.S.A. 40:55D-1, et seq., requires that a municipal master plan include 
+a Housing Element in order for the municipality to exercise the power to zone and regulate land use. 
+The Housing Element and Fair Share Plan is adopted by the Borough Planning Board and endorsed by 
+the governing body. It is intended to achieve the goal of meeting the Borough’s obligations to plan and 
+regulate land use to provide for a fair share of the regional need for affordable housing. 
+ 
+New Milford remains committed to meeting its constitutional obligation to provide through its land use 
+regulations a realistic opportunity for a fair share of the region’s present and prospective needs for 
+housing for low- and moderate-income families. This Housing Element and Fair Share Plan document 
+outlines how the Borough will address its affordable housing obligations. 
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 5 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 6 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+2 
+II.
+Affordable Housing in New Jersey
+In 1975 the Supreme Court of New Jersey in South Burlington County N.A.A.C.P. v. Township of Mount 
+Laurel, 67 N.J. 151 (1975), ruled that the developing municipalities in the State of New Jersey 
+exercising their zoning power, in general, had a constitutional obligation to provide a realistic 
+opportunity for the construction of their fair share of the region’s low- and moderate-income housing 
+needs. In 1983, the Supreme Court refined that constitutional obligation in South Burlington County 
+N.A.A.C.P. v. Township of Mount Laurel, 92 N.J. 158 (1983), to apply to those municipalities having 
+any portion of their boundaries within the growth area as shown on the State Development Guide Plan. 
+In 1985, the New Jersey Legislature adopted, and the Governor signed, the Fair Housing Act N.J.S.A. 
+52:2D-301, et seq. (“FHA”) which transformed the judicial doctrine that became known as the “Mount 
+Laurel doctrine” into a statutory one and provided an alternative administrative process in which 
+municipalities could elect to participate in order to establish a Housing Element and Fair Share Plan 
+(“HEFSP”) that would satisfy its constitutional obligation by creating an administrative agency known 
+as the Council on Affordable Housing (“COAH”) to develop regulations to define the obligation and 
+implement it. COAH proceeded to adopt regulations for First Round obligations applicable from 1987 
+to 1993 and Second Round obligations that created a cumulative obligation from 1987 to 1999. 
+COAH first proposed Third Round substantive and procedural rules in 2003, but due to multiple legal 
+challenges, these rules were not adopted until 2008. However, the Third Round rules adopted in 2008 
+were challenged in an appeal entitled In the Matter of the Adoption of N.J.A.C. 5:96 and 5:97 by the 
+New Jersey Council on Affordable Housing, 416 N.J. Super. 462 (App. Div. 2010) (the “2010 Case”). 
+In October 2010, the Appellate Division determined, among other things, that the methodology in the 
+rules adopted in 2008 was invalid and that COAH should adopt regulations utilizing methodologies 
+similar to the ones utilized in the First and Second Rounds, i.e. 1987-1999. In 2013, the Supreme 
+Court of New Jersey affirmed the Appellate Division’s invalidation of the third iteration of the Third 
+Round regulations, sustained their determination that the growth share methodology was invalid, and 
+directed COAH to adopt new regulations based upon the methodology utilized in the First and Second 
+Rounds, In the Matter of the Adoption of N.J.A.C. 5:96 and 5:97 by the New Jersey Council on 
+Affordable Housing, 215 N.J. 578 (2013) (the “2013 Case”). COAH proceeded to propose such 
+regulations in accordance with the schedule established by the New Jersey Supreme Court in the 2013 
+Case. On October 20, 2014, COAH deadlocked with a 3-3 vote and failed to adopt the revised Third 
+Round regulations. 
+Due to COAH’s failure to adopt the revised regulations and subsequent inaction, Fair Share Housing 
+Center (“FSHC”), a party in the 2010 Case and the 2013 Case, filed a motion with the New Jersey 
+Supreme Court to enforce litigant’s rights. On March 10, 2015 the New Jersey Supreme Court issued 
+its decision on FSHC’s motion. The Supreme Court found that the COAH administrative process had 
+become non-functioning and, as a result, returned primary jurisdiction over affordable housing matters 
+to the trial courts. In the Matter of the Adoption of N.J.A.C. 5:96 and 5:97 by the New Jersey Council 
+on Affordable Housing, 221 N.J. 1 (2015) (the “2015 Case”). In doing so, the Supreme Court declined 
+to adopt a specific methodology or formula to calculate the Third Round affordable housing obligations 
+of the municipalities. The Court did provide some guidance by reiterating its endorsement of the 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 6 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 7 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+3 
+previous methodologies employed in the First and Second Round Rules as the template to establish 
+Third Round affordable housing obligations. 
+ 
+In the 2015 Case, the Supreme Court decision recognized that many municipalities attempted to 
+address their affordable housing obligations in 2008 by preparing a housing element and fair share 
+plan and petitioning COAH for substantive certification of the plan. Through no fault of its own, New 
+Milford, like a number of other municipalities, did not receive substantive certification of its 2008 plan 
+due to inaction by COAH and subsequent legal challenges. Such towns are considered “participating 
+municipalities” and were afforded an opportunity to prepare a new housing element and fair share 
+plan to address its affordable housing obligations. New Milford subsequently filed a declaratory 
+judgment with the Superior Court in July 2015 seeking a declaration of its compliance with the Mount 
+Laurel doctrine and FHA in accordance with the decision in the 2015 Case. The Borough reached a 
+settlement with FSHC, which was memorialized in an agreement between the two parties dated 
+December 29, 2016. New Milford subsequently received a Judgment of Compliance and Repose from 
+the Superior Court on March 21, 2017. 
+ 
+On March 20, 2024,  Governor Phil Murphy signed a package of affordable housing bills. One of these 
+overhauled the FHA and eliminated COAH, and set forth the process of determining Fourth Round 
+(2025 to 2035) affordable housing obligations. The New Jersey Department of Community Affairs 
+(DCA) calculated statewide and regional affordable housing needs, including its non-binding 
+determination of each municipality’s Fourth Round affordable housing obligations. Municipalities were 
+able to either the accept the DCA determination of their obligation, or to provide their own municipal 
+determination of their Fourth Round obligation. This Housing Element and Fair Share Plan has been 
+prepared pursuant to applicable law and regulations and addresses New Milford’s affordable housing 
+compliance. 
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 7 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 8 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+4 
+ 
+III.
+Housing Element/Fair Share Plan Requirements
+In accordance with the Municipal Land Use Law (N.J.S.A. 40:55D-1, et seq.), a municipal Master Plan 
+must include a housing element as the foundation for the municipal zoning ordinance. Pursuant to the 
+Fair Housing Act, a municipality’s housing element must be designed to provide access to affordable 
+housing to meet present and prospective housing needs, with particular attention to low- and 
+moderate-income housing. The housing element must contain at least the following, as per the FHA at 
+N.J.S.A. 52:27D-310: 
+ 
+An inventory of the municipality’s housing stock by age, condition, purchase or rental value, 
+occupancy characteristics, and type, including the number of units affordable to low- and 
+moderate-income households and substandard housing capable of being rehabilitated; 
+A projection of the municipality’s housing stock, including the probable future construction of 
+low- and moderate-income housing, for the next ten years, taking into account, but not 
+necessarily limited to, construction permits issued, approvals of applications for development, 
+and probable residential development of lands; 
+An analysis of the municipality’s demographic characteristics, including, but not necessarily 
+limited to, household size, income level, and age; 
+An analysis of the existing and probable future employment characteristics of the municipality; 
+A determination of the municipality’s present and prospective fair share of low- and moderate- 
+income housing and its capacity to accommodate its present and prospective housing needs, 
+including its fair share of low- and moderate-income housing; and 
+A consideration of the lands most appropriate for construction of low- and moderate-income 
+housing and of the existing structures most appropriate for conversion to, or rehabilitation for, 
+low- and moderate-income housing, including a consideration of lands of developers who have 
+expressed a commitment to provide low- and moderate-income housing; and 
+An analysis of the extent to which municipal ordinances and other local factors advance or 
+detract from the goal of preserving multigenerational family continuity as expressed in the 
+recommendations of the Multigenerational Family Housing Continuity Commission, pursuant 
+to N.J.S.A. 52:27D-329.20f.(1); and 
+An analysis of consistency with the State Development and Redevelopment Plan, including 
+water, wastewater, stormwater, and multi-modal transportation based on guidance and 
+technical assistance from the State Planning Commission. 
+ 
+Administrative Directive #14-24 issued on December 13, 2024 by the Administrative Office of the 
+Courts promulgates procedures and guidelines implementing the Affordable Housing Alternative 
+Dispute Resolution Program (“the Program”) established pursuant to section 5 of P.L.2024, c.2 
+(N.J.S.A. 52:27D-313.2). Additional required elements of a Housing Element and Fair Share Plan 
+(HEFSP) are appended to this Directive and include the following: 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 8 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 9 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+5 
+ 
+Detailed site suitability analyses, based on the best available data, for each of the un-built 
+inclusionary or 100 percent affordable housing sites in the plan as well as an identification of 
+each of the sites that were proposed for such development and rejected, along with the 
+reasons for such rejection. 
+The concept plan for the development of each of the selected sites should be overlaid on the 
+most up to date environmental constraints map for that site as part of its analysis to see what 
+changes will be needed (either to the selected sites or to their zoning) to ensure that all of the 
+units required by the settlement agreement will actually be produced. 
+Documentation of the creditworthiness of all of the existing affordable housing units in its 
+HEFSP and to demonstrate that it has followed all of the applicable requirements for extending 
+expiring controls, including confirmation that all of the units on which the controls have been 
+extended are code-compliant or have been rehabilitated to code-compliance, and that all 
+extended controls cover a full 30-year period beginning with the end of the original control 
+period. Documentation as to the start dates and lengths of affordability controls applicable to 
+these units and applicable Affordable Housing Agreements and/or deed restrictions is also 
+required. Additionally, the income and bedroom distributions and continued creditworthiness 
+of all other existing affordable units in the HEFSP must be provided. 
+An analysis of how the HEFSP complies with or will comply with all of the terms of the executed 
+settlement agreement. 
+ 
+The HEFSP must also include (in an Appendix) all of the adopted ordinances and resolutions needed 
+to implement the HEFSP, including: 
+ 
+All zoning amendments (or redevelopment plans, if applicable). 
+An Affordable Housing Ordinance that includes, among other required regulations, its 
+applicability to 100 percent affordable and tax credit projects, the monitoring and any reporting 
+requirements set forth in the settlement agreement, requirements regarding very low income 
+housing and very low income affordability consistent with the FHA and the settlement 
+agreement, provisions for calculating annual increases in income levels and sales prices and 
+rent levels, and a clarification regarding the minimum length of the affordability controls (at 
+least 30 years, until the municipality takes action to release the controls). 
+The adoption of the mandatory set aside ordinance, if any, and the repeal of the existing growth 
+share provisions of the code. 
+An executed and updated Development Fee Ordinance that reflects the court’s jurisdiction. 
+An Affirmative Marketing Plan adopted by resolution that contains specific directive to be 
+followed by the Administrative Agent in affirmatively marketing affordable housing units, with 
+an updated COAH form appended to the Affirmative Marketing Plan, and with both documents 
+specifically reflecting the direct notification requirements set forth in the settlement 
+agreement. 
+An updated and adopted Spending Plan indicating how the municipality intends to allocate 
+development fees and other funds, and detailing (in mini manuals) how the municipality 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 9 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 10 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+6 
+ 
+proposes to expend funds for affordability assistance, especially those funds earmarked for 
+very low income affordability assistance. 
+A resolution of intent to fund any shortfall in the costs of the municipality’s municipally 
+sponsored affordable housing developments as well as its rehabilitation program, including by 
+bonding if necessary. 
+Copies of the resolution(s) and/or contract(s) appointing one or more Administrative Agent(s) 
+and of the adopted ordinance creating the position of, and resolution appointing, the Municipal 
+Affordable Housing Liaison. 
+A resolution from the Planning Board adopting the HEFSP, and, if a final Judgment is sought 
+before all of the implementing ordinances and resolutions can be adopted, a resolution of the 
+governing body endorsing the HEFSP. 
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 10 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 11 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+7 
+IV.
+Housing Stock and Demographic Analysis
+Housing Stock Inventory
+In 2023, there were 6,428 housing units in the Borough of New Milford, of which 271, or roughly 4 
+percent, were vacant. Of the 6,157 occupied units, nearly 63 percent were owner occupied and 
+approximately 37 percent were renter occupied. Table 1, Housing Units by Occupancy Status, 2023, 
+illustrates this occupancy status in 2023. 
+Table 1. Housing Units by Occupancy Status, 2023 
+Housing Units
+Owner Occupied
+Renter Occupied
+Occupied
+6,157
+3,860
+2,297
+Vacant
+271
+- 
+-
+Total
+6,428
+-
+- 
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics) 
+Approximately 65 percent of the total housing stock consists of single-family detached units. 
+Structures with three or more units comprise nearly 29 percent of the total housing stock, 
+approximately 4 percent of which consists of housing with 20 or more units. See Table 2, Housing 
+Units by Number of Units in Structure, 2023, for a detailed explanation of the Borough’s housing units. 
+Table 2. Housing Units by Number of Units in Structure, 2023 
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics) 
+ 
+Table 3, Housing Units by Age, 2023, illustrates the age of the Borough’s housing stock. As one would 
+expect from a smaller, largely built out community, a majority of the housing units (i.e., 71 percent) 
+were built in the time period ranging from before 1940 to 1959. In contrast, only approximately 4 
+percent of the Borough’s housing units were built in the years since 1990, of which less than 2 percent 
+was constructed following the year 2000.  
+Number of Units
+Total 
+Percent 
+1, Detached
+4,158 
+64.7% 
+1, Attached
+96
+1.5%
+2
+317
+4.9%
+3 or 4
+1,315 
+20.5% 
+5 to 9
+185
+2.9%
+10 to 19
+106
+1.6%
+20+
+237
+3.7%
+Mobile Home
+14
+0.2%
+Other
+0 
+0.0%
+Total 
+6,428 
+100% 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 11 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 12 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+8 
+Table 3. Housing Units by Age, 2023  
+Year Built
+Total Units
+Percent
+2020 or later
+0
+0.0% 
+2010 to 2019
+85 
+1.3% 
+2000 to 2009
+32
+0.5%
+1990 to 1999
+109
+1.7%
+1980 to 1989
+392 
+6.1% 
+1970 to 1979
+408 
+6.3% 
+1960 to 1969
+851 
+13.2% 
+1950 to 1959
+2041
+31.8% 
+1940 to 1949
+1645
+25.6% 
+Before 1940
+865
+13.5%
+Total
+6,428
+100% 
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics) 
+ 
+Table 4, Comparison of Housing Units by Number of Rooms for the Borough of New Milford and Bergen 
+County, 2023, shows, with regard to housing units in New Milford, 19 percent have between one and 
+three rooms; 40 percent have between four and six rooms; and 41 percent have seven or more rooms. 
+The median number of rooms per unit in New Milford is 5.9, which is very similar to that of Bergen 
+County at 5.8 rooms. 
+ 
+Table 4. Housing Units by Number of Rooms for New Milford and Bergen County, 2023 
+Rooms 
+Number of Units 
+in New Milford
+Percent of Units 
+in New Milford
+Number of Units in
+Bergen County 
+Percent of Units in 
+Bergen County
+1 
+148 
+2.3%
+10,090
+2.7%
+2 
+273 
+4.2%
+13,229
+3.6%
+3 
+812 
+12.6%
+41,700
+11.3%
+4 
+1,040
+16.2%
+51,568
+14.0%
+5 
+499 
+7.8%
+50,366
+13.7%
+6 
+1,015
+15.8%
+57,779
+15.7%
+7 
+823 
+12.8%
+46,007
+12.5%
+8 
+755 
+11.7%
+38,447
+10.4%
+9+
+1,063
+16.5%
+59,349
+16.1%
+Total
+6,428
+100% 
+368,535
+100%
+Median 
+Rooms per 
+Unit 
+5.9
+5.8 
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics) 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 12 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 13 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+9 
+Tables 5 and 6, Housing Values, Owner Occupied, 2013 and 2023, respectively, show that the median 
+housing value of owner occupied housing units in New Milford increased 36 percent between 2013
+and 2023. During this time, the median housing value in Bergen County increased by 31 percent. In 
+2013, New Milford’s median housing value of $408,800 was 10 percent lower than that of Bergen 
+County ($451,400). In 2023, New Milford’s median housing value of $554,800 was roughly 7 percent 
+lower than that of Bergen County ($593,200). Therefore, housing in New Milford has been relatively 
+more affordable than in the County as a whole. 
+ 
+Table 5. Housing Values, Owner Occupied, 2013 
+Housing Value
+Number in New 
+Milford
+Percent in New 
+Milford 
+Number in Bergen 
+County
+Percent in  
+Bergen County 
+Less than $50,000
+30
+0.8% 
+3,463
+1.6%
+$50,000 to 
+$99,999
+19
+0.5% 
+2,019
+0.9%
+$100,000 to 
+$149,999 
+12
+0.3% 
+3,343
+1.5%
+$150,000 to 
+$199,999 
+26
+0.7% 
+4,657
+2.1%
+$200,000 to 
+$299,999 
+255 
+6.7% 
+21,262
+9.7%
+$300,000 to 
+$499,999 
+2,694
+71.0%
+97,870
+44.5%
+$500,000 to 
+$999,999 
+753 
+19.8%
+72,577
+33.0%
+$1,000,000 or more
+6 
+0.2% 
+14,827
+6.7%
+Total
+3,795
+100%
+220,018 
+100%
+2013 Median Value 
+$408,800 
+$451,400 
+Source: American Community Survey, 2009-2013 (Table DP04 Selected Housing Characteristics) 
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 13 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 14 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+10 
+Table 6. Housing Values, Owner Occupied, 2023 
+Housing Value
+Number in New
+Milford
+Percent in New
+Milford
+Number in Bergen
+County
+Percent in
+Bergen County
+Less than $50,000
+60
+1.6%
+4,241
+1.8%
+$50,000 to
+$99,999
+29
+0.8%
+2,583
+1.1%
+$100,000 to 
+$149,999 
+6
+0.2%
+2,366
+1.0%
+$150,000 to 
+$199,999 
+0
+0.0%
+2,680
+1.2%
+$200,000 to
+$299,999
+54
+1.4%
+11,285
+4.9%
+$300,000 to 
+$499,999 
+1,327 
+34.4% 
+62,212 
+26.9%
+$500,000 to 
+$999,999 
+2,317 
+60.0% 
+115,000 
+49.8%
+$1,000,000 or 
+more 
+67
+1.7%
+30,556 
+13.2%
+Total
+3,860 
+100% 
+230,923 
+100%
+2023 Median Value 
+$554,800
+$593,200 
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics) 
+ 
+Monthly rental cost in New Milford ($1,722) is somewhat lower than the monthly rental cost for Bergen 
+County ($1,863). In New Milford, approximately 74 percent of renters pay $1,500 or more per month 
+in rent, whereas just over 1 percent pay less than $1000. Similarly, 74 percent of Bergen County 
+renters pay $1,500 or more per month in rent. See Table 7, Comparison of the Borough of New Milford 
+and Bergen County, Monthly Rental Cost, 2023, for additional details. Again, housing in New Milford 
+has been relatively more affordable than in the county as a whole.
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 14 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 15 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+11 
+Table 7. Comparison of New Milford and Bergen County, Monthly Rental Cost, 2023  
+Monthly Rent
+Number in New
+Milford
+Percent in New
+Milford
+Number in
+Bergen County
+Percent in
+Bergen County
+No Rent Paid
+21
+-
+3,907
+-
+Less than $500
+27
+1.2%
+3,870 
+3.3%
+$500 to $999 
+2 
+0.1%
+5,086 
+4.3%
+$1,000 to $1,499
+556
+24.4%
+21,678
+18.3%
+$1,500 to $1,999
+1,247
+54.8%
+39,395
+33.3%
+$2,000 to $2,499
+242 
+10.6% 
+21,731
+18.3%
+$2,500 to $2,999
+23
+1.0%
+11,103
+9.4%
+$3,000 or more
+179 
+7.9%
+15,614
+13.2%
+Total 
+2,276
+100%
+118,477 
+100% 
+Median Rent 
+$1,722 
+$1,863 
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics) 
+ 
+In 2023, 31 percent of New Milford owner occupied households contributed 30 percent or more of 
+their income towards monthly housing costs, whereas 43 percent of New Milford owner occupied 
+households put less than 20 percent of their income towards monthly housing costs. See Table 8, 
+Monthly Housing Costs as Percentage of Household Income in the Past 12 Months – Owner Occupied 
+Units, 2023, for further information. 
+Table 8. Monthly Housing Costs as Percentage of Household Income in the Past 12 Months – Owner 
+Occupied Housing Units, 2023 
+Less than 20 percent
+20 to 29 percent 
+30 percent or more
+Less than $20,000 
+0%
+0%
+3.7% 
+$20,000 - $34,999 
+0%
+0%
+5.6% 
+$35,000 - $49,999 
+0.7%
+0.5%
+3.1% 
+$50,000 - $74,999 
+0.6%
+1.2%
+5.4% 
+$75,000 or more
+42.0%
+23.7%
+13.5%
+Zero or Negative 
+Income
+0%
+Source: American Community Survey, 2019-2023 (Table S2503 Financial Characteristics) 
+In 2023, 48 percent of New Milford renter occupied households contributed 30 percent or more of 
+their household income towards monthly rental costs, whereas only roughly 22 percent of New Milford 
+renter occupied households contributed less than 20 percent. See Table 9, Monthly Housing Costs as 
+a Percentage of Household Income in the Past 12 Months – Renter Occupied Units, 2023, for further 
+information. 
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 15 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 16 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+12 
+Table 9. Monthly Housing Costs as a Percentage of Household Income in the Past 12 Months – Renter 
+Occupied Housing Units, 2023 
+Less than 20 percent
+20 to 29 percent
+30 percent or more
+Less than $20,000
+0%
+0%
+8.3%
+$20,000 - $34,999
+0%
+0%
+10.7%
+$35,000 - $49,999
+0.5% 
+0%
+12.8%
+$50,000 - $74,999
+0.1%
+3.9%
+14.1%
+$75,000 or more 
+20.9% 
+26.0%
+1.8%
+Zero or Negative
+Income
+0%
+No Cash Rent
+0.9%
+Source: American Community Survey, 2019-2023 (Table S2503 Financial Characteristics) 
+ 
+New Milford has 16 housing units that lack complete plumbing facilities and 164 units that are 
+considered overcrowded (defined as having 1.01 or more persons per room). The Borough has 28 
+units that have no telephone service available and zero units that lack complete kitchen facilities. See 
+Table 10, Selected Quality Indicators, Occupied Housing Stock, 2023, for further information. 
+Table 10. Selected Quality Indicators, Occupied Housing Stock, 2023 
+ 
+Overcrowded 
+No Telephone 
+Service Available
+Lacking Complete 
+Plumbing 
+Lacking Complete 
+Kitchen Facilities 
+Units 
+164 
+28 
+16
+0
+Source: American Community Survey, 2019-2023 (Table DP04 Selected Housing Characteristics
+General Population Characteristics
+The population of New Milford has increased overall from 15,990 persons in 1990 to 16,923 persons 
+in 2020. New Milford’s population slightly decreased by -0.4 percent between 2000 and 2010 and 
+once again increased by 3.6 percent between 2010 and 2020. Bergen County’s population has 
+steadily and continuously increased between 1990 and 2020, most recently exhibiting a 5.6 percent 
+increase between 2010 and 2020. See Table 11, Population Growth, for more information. 
+Table 11. Population Growth
+1990 
+2000 
+Percent 
+Change 
+(1990-
+2000) 
+2010 
+Percent 
+Change 
+(2000-
+2010) 
+2020 
+Percent 
+Change 
+(2010-
+2020)
+New 
+Milford
+15,990 
+16,400 
+2.6% 
+16,341 
+-0.4% 
+16,923 
+3.6% 
+Bergen 
+County 
+825,380
+884,118 
+7.1% 
+905,116
+2.4% 
+955,732
+5.6% 
+Source: 1990, 2000, 2010, & 2020 U.S. Census 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 16 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 17 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+13 
+From 2010 through 2020, there were shifts in the age distribution of New Milford. The age group 15 
+through 24 increased from 1,851 persons to 1,958 persons (i.e., 6 percent). The age group 25 through 
+34 increased from 2,148 persons to 2,326 persons (i.e., 8 percent). The age group with the largest 
+total increase was 55 through 64 with an increase from 2,037 persons to 2,541 persons (i.e., 25 
+percent). The age group with the largest total decrease was 45 through 54 with a decrease from 2,710 
+persons to 2,239 persons (i.e., 17 percent). See Table 12, Comparison of Age Distribution, 2010-
+2020, for additional details.
+Table 12. Comparison of Age Distribution, 2010-2020 
+Age Group
+2010
+Percent
+2020 
+Percent 
+Percent 
+Change
+Under 5
+845 
+5.2%
+899
+5.3% 
+6.4%
+5-14 
+1,949 
+11.9%
+1,818
+10.7% 
+-6.7% 
+15-24
+1,851 
+11.3%
+1,958 
+11.6% 
+5.8%
+25-34
+2,148 
+13.1%
+2,326 
+13.7% 
+8.3%
+35-44
+2,223 
+13.6%
+2,195 
+13.0% 
+-1.3% 
+45-54
+2,710 
+16.6%
+2,239 
+13.2% 
+-17.4%
+55-64
+2,037 
+12.5%
+2,541 
+15.0% 
+24.7%
+65-74
+1,212 
+7.4%
+1,655 
+9.8% 
+36.6%
+75+ 
+1,366 
+8.4%
+1,292 
+7.6% 
+-5.4% 
+Total
+16,341 
+100.0% 
+16,923 
+100.0%
+-
+Source: 2010 and 2020 U.S. Census (2020 - Table DP1 Profile Of General Population And Housing 
+Characteristics) 
+ 
+Household Characteristics 
+A household is defined by the U.S. Census Bureau as those persons who occupy a single room or group 
+of rooms constituting a housing unit; however, these persons may or may not be related. As a subset 
+of households, a family is identified as a group of persons including a householder and one or more 
+persons related by blood, marriage or adoption, all living in the same household. In 2023, there were 
+6,157 occupied households in New Milford, with an average of 2.71 persons per household and an 
+average of 3.36 persons per family. Approximately 56 percent of the households were comprised of 
+married couples with or without children. Almost 31 percent of New Milford households are non-family 
+households, which includes individuals. (Source: ACS 2019-2023, Table S1101 & S2501).  
+ 
+Income Characteristics 
+Households in New Milford have, on average, slightly lower incomes than that of Bergen County as a 
+whole. Annual median income for New Milford households in 2023 was $113,513, whereas annual 
+median income for households in Bergen County was $116,709. Table 13, Household and Family 
+Income by Income Brackets for New Milford and Bergen County, 2023, further illustrates these 
+findings by noting the number of households in each of the income categories. 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 17 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 18 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+14 
+Table 13. Household and Family Income by Income Brackets for New Milford and Bergen County, 
+2023 
+New Milford
+Bergen County
+Households
+Percent
+Households
+Percent
+Less than $5,000
+32
+0.5%
+7,259
+2.1%
+$5,000 to $9,999 
+10
+0.2%
+3,942 
+1.1% 
+$10,000 to $14,999 
+121
+2.0%
+7,234 
+2.0% 
+$15,000 to $19,999
+170
+2.8%
+6,577
+1.9%
+$20,000 to $24,999
+132
+2.1%
+6,705
+1.9%
+$25,000 to $34,999 
+329
+5.3%
+15,240 
+4.3% 
+$35,000 to $49,999
+474
+7.7%
+23,079
+6.5%
+$50,000 to $74,999
+705
+11.5%
+39,916
+11.3%
+$75,000 to $99,999 
+859
+14.0%
+35,056 
+9.9% 
+$100,000 to $149,999
+1,107
+18.0%
+62,751 
+17.8% 
+$150,000 or more
+2,218
+36.0%
+145,548 
+41.2% 
+Total
+6,157
+100% 
+353,307 
+100%
+Median Income 
+$113,513
+$123,715
+Source: American Community Survey, 2019-2023 (Table S2503 Financial Characteristics) 
+ 
+Although the Census data does not provide a breakdown of household income by household size, the 
+2024 Regional Income Limits prepared by the Affordable Housing Professionals of New Jersey1 for 
+Bergen, Hudson, Passaic and Sussex Counties (Region 1) indicate the median household income for 
+a household of one person was $84,288. As such, the moderate-income threshold for a household of 
+one person was $67,431 (i.e., 80 percent of $84,288). In attempting to approximate the number of 
+low- and moderate-income households in the Borough, using a household size of one is a conservative 
+approach that represents just a minimum threshold. Table 13 above shows that the percentage of 
+households in the Borough for which income was below the closest breakpoint to this minimum 
+threshold (i.e. $75,000) was approximately 32 percent. 
+ 
+The percentage of persons and household below the poverty level, as defined by the 2023 American 
+Community Survey, equates to 4.6 percent of all New Milford Residents. This is lower than the County 
+as a whole, wherein 6.7 percent of County residents were living below the poverty level in 2023. 
+(Source: ACS 2019-2023, Table S1701) 
+ 
+Employment Characteristics 
+Table 14, Employment Status, New Milford, indicates the number of Borough residents 16 years and 
+over who are in the labor force, the type of labor force (i.e., civilian or armed forces) and employment 
+status. Approximately 71 percent of New Milford residents 16 and over are in the labor force and, 
+among those in the labor force, all are in the civilian labor force. Of the residents in the civilian labor 
+force, approximately 94 percent are employed and approximately 6 percent are unemployed.  
+ 
+1 https://ahpnj.org/member_docs/Income_Limits_2024_FINAL.pdf 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 18 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 19 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+15 
+Table 14. Employment Status, New Milford 
+Number in New Milford
+Percent in New Milford
+Population 16 years and over 
+13,392 
+100% 
+In Labor Force 
+9,515
+71.0% 
+Civilian Labor Force
+9,515
+71.0% 
+Employed
+8,907
+66.5%
+Unemployed
+608
+4.5%
+Armed Forces
+0
+0.0%
+Not in Labor Force
+3,877
+29.0%
+Source: American Community Survey, 2019-2023 (Table DP03 Selected Economic Characteristics) 
+Table 15, Employment by Occupation, New Milford, 2023, identifies the occupations of employed 
+persons. While New Milford residents work in a variety of industries, 56 percent of employed residents 
+work in Management, Professional and related-occupations; 20 percent are employed in Sales and 
+Office-related occupations; and nearly 12 percent are employed in Service-related occupations. 
+ 
+Table 15. Employment by Occupation, New Milford, 2023 
+Job Sector
+Number
+Percent 
+Management, Business, Science, and Arts Occupations
+5,000
+56.1%
+Service
+1,059
+11.9%
+Sales and Office
+1,812
+20.3%
+Natural Resources, Construction, and Maintenance 
+378
+4.2%
+Production, Transportation, and Material Moving
+658
+7.4%
+Total
+8,907
+100%
+Source: American Community Survey, 2019-2023 (Table DP03 Selected Economic Characteristics) 
+Table 16, Distribution of Employment by Industry, Borough Residents, 2023, shows the distribution of 
+employment by industry for employed New Milford residents. The four industries to capture the largest 
+segments of the population were: the Educational, Health, and Social Services sector at nearly 27 
+percent; the Professional, Scientific, Management, Administrative, and Waste Management Services 
+sector at 17 percent; the Retail sector at 10 percent; and the Financing, Insurance, Real Estate, 
+Renting, and Leasing sector at almost 10 percent. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 19 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 20 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+16 
+Table 16. Distribution of Employment by Industry, Borough Residents, 2023 
+Job Sector
+Number
+Percent
+Agriculture, Forestry, Fishing and Hunting, and Mining 
+0
+0%
+Construction
+435
+4.9%
+Manufacturing
+691
+7.8%
+Wholesale Trade
+265
+3.0%
+Retail Trade
+903 
+10.1%
+Transportation and Warehousing, and Utilities
+360 
+4.0%
+Information
+189
+2.1%
+Financing, Insurance, Real Estate, Renting, and Leasing 
+854 
+9.6%
+Professional, Scientific, Management, Administrative, and
+Waste Management Services
+1,512
+17.0%
+Educational, Health and Social Services
+2,390 
+26.8%
+Arts, Entertainment, Recreation, Accommodation and Food
+Services 
+534
+6.0%
+Public Administration
+321 
+3.6%
+Other 
+453 
+5.1%
+Total
+8,907 
+100% 
+Source: American Community Survey, 2019-2023 (Table DP03 Selected Economic Characteristics) 
+Of the employed residents, approximately 81 percent are private wage and salary workers; 13 percent 
+are government workers; and nearly 6 percent are self-employed. See Table 17, Distribution by Class 
+of Worker, 2023, for additional details. 
+Table 17. Distribution by Class of Worker, 2023 
+ 
+Number in New Milford
+Percent in New Milford
+Private Wage and Salary 
+Workers 
+7,211
+81.0% 
+Government Workers
+1,166
+13.1%
+Self-employed in own not
+incorporated business workers
+509
+5.7%
+Unpaid family workers 
+21 
+0.2%
+Total
+8,907
+100% 
+Source: American Community Survey, 2019-2023 (Table DP03 Selected Economic Characteristics) 
+The New Jersey Department of Labor and Statistics tracks covered employment throughout the State. 
+See Table 18, Private Sector Employment in New Milford by Industry Sector, 2012, 2017, 2022, for 
+additional details. According to the New Jersey Department of Labor and Statistics, there were 2,431 
+jobs in New Milford in 2022. Educational Services; Retail Trade; Health Care and Social Assistance; 
+and Accommodation and Food Services were the largest sectors of in-town employment, with 658, 
+460, 442, and 277 jobs, respectively. Table 18 also shows the number of employees by sector in New 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 20 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 21 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+17 
+Milford in 2012 and 2017. The largest decrease in local employment between 2012 and 2022 was in 
+the Health Care and Social Assistance sector, which experienced a decrease of 83 jobs (or almost 16 
+percent). The sector which saw the largest local employment increase between 2012 and 2022 was 
+the Retail Trade sector, which experienced an increase in 125 jobs (or 37 percent). 
+ 
+Table 18. Employment in New Milford by Industry Sector, 2012, 2017, 2022 
+2012
+2017 
+2022
+PRIVATE SECTOR JOBS 
+COUNT 
+SHARE 
+COUNT
+SHARE 
+COUNT
+SHARE
+Agriculture, Forestry, Fishing 
+and Hunting, and Mining
+0
+0.0%
+0 
+0.0%
+0 
+0.0%
+Mining, Quarrying, and Oil and 
+Gas Extraction
+0
+0.0%
+0
+0.0%
+0
+0.0%
+Utilities 
+0
+0.0%
+0 
+0.0%
+0 
+0.0%
+Construction
+83
+3.6%
+102
+4.1%
+112
+4.6%
+Manufacturing
+16
+0.7%
+5 
+0.2%
+8 
+0.3%
+Wholesale Trade 
+100
+4.3%
+82
+3.3%
+18 
+0.7%
+Retail Trade 
+335
+14.4%
+413
+16.7%
+460
+18.9%
+Transportation and 
+Warehousing 
+15
+0.6%
+14
+0.6%
+39 
+1.6%
+Information
+33
+1.4%
+34
+1.4%
+18 
+0.7%
+Finance and Insurance 
+62
+2.7%
+62
+2.5%
+58 
+2.4%
+Real Estate and Rental and 
+Leasing
+20
+0.9%
+18
+0.7%
+28 
+1.2%
+Professional, Scientific and 
+Technical Services
+104
+4.5%
+45
+1.8%
+40 
+1.6%
+Management of Companies 
+and Enterprises  
+7
+0.3%
+2 
+0.1%
+3 
+0.1%
+Administration & Support, 
+Waste Management and 
+Remediation 
+66
+2.8%
+57
+2.3%
+48 
+2.0%
+Educational Services
+565
+24.4%
+605
+24.4%
+658
+27.1%
+Health Care and Social
+Assistance
+525
+22.6%
+509
+20.5%
+442
+18.2%
+Arts, Entertainment, and 
+Recreation
+3
+0.1%
+74
+3.0%
+20 
+0.8%
+Accommodation and Food 
+Services
+215
+9.3%
+258
+10.4%
+277
+11.4%
+Other Services (Excluding 
+Public Administration)
+54
+2.3%
+73
+2.9%
+69 
+2.8%
+Public Administration
+117
+5.0%
+125
+5.0%
+133
+5.5%
+TOTAL PRIVATE SECTOR 
+2,320
+100%
+2,478 
+100%
+2,431
+100% 
+Source: State of New Jersey Department of Labor and Workforce Development Local Employment 
+Dynamics; http://onthemap.ces.census.gov/ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 21 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 22 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+18 
+Growth Trends and Projections
+Residential Trends and Projections 
+According to the New Jersey Construction Reporter, between 2013 and 2023, New Milford issued 87 
+certificates of occupancy: 48 for one and two family dwelling units, 39 for multifamily dwelling units 
+and zero for mixed use dwelling units. See Table 19, Residential Certificates of Occupancy, 2013-
+2023, for additional details.
+Table 19. Residential Certificates of Occupancy, 2013-2023 
+ 
+2013
+2014 
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Total 
+1 & 2 
+Family 
+8
+7
+9 
+3
+4 
+5 
+3 
+2 
+1 
+3 
+3
+48
+Multifamily
+0
+0
+0 
+0
+0 
+1 
+0 
+38 
+0 
+0 
+0
+39
+Mixed Use 
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total
+8
+7
+9 
+3
+4 
+6 
+3 
+40 
+1 
+3 
+3
+87
+Source: New Jersey Construction Reporter 
+The Borough has seen the construction of primarily one- and two-family homes over the last decade, 
+which due to limited vacant land has generally occurred as infill in existing developed areas. There 
+also was a significant number of multi-family units added to the Borough’s housing stock as part of an 
+inclusionary housing development. As is detailed further in Chapter V, the Borough anticipates the 
+construction of a moderate amount of residential development in coming years through potential 
+redevelopment of existing properties. Aside from these projects, the Borough anticipates little 
+additional housing development. This is due largely to a lack of vacant land, with environmental 
+constraints or other limiting factors on the remaining undeveloped tracts zoned for residential use.  
+ 
+Non-Residential Trends and Projections
+According to the New Jersey Construction Reporter, between 2013 and 2023, New Milford issued 
+certificates of occupancy for a total of ±208,720 square feet of non-residential building space. See 
+Table 20, Non-Residential Certificates of Occupancy, 2013-2023, for additional details. The majority 
+of the non-residential growth can be attributed to: 
+71,068 square feet of retail space, for which a certificate of occupancy was issued in 2019; 
+67,859 square feet of multifamily/dormitories, for which certificates of occupancy were issued 
+in 2018 and 2020; 
+31,474 square feet of office space, for which certificates of occupancy were issued in 2015, 
+2017, 2018, and 2022; and 
+22,542 square feet of signs, fences, utility & miscellaneous, for which certificates of 
+occupancy were issued in 2013, 2019, 2021 
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 22 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 23 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+19 
+Table 20. Non-Residential Certificates of Occupancy, 2013-2023 
+ 
+2013 
+2014 
+2015
+2016 
+2017
+2018
+2019 
+2020 
+2021 
+2022
+2023
+Total 
+Office
+0
+0
+2,880
+0
+16,082
+3,227
+0
+0
+0
+9,285
+0
+31,474
+Retail
+0 
+0
+0 
+0 
+0 
+0 
+71,068 
+0 
+0 
+0 
+0
+71,068
+A-1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+A-2
+0
+0
+0
+0
+0
+0
+0
+0
+4,640
+0
+0
+4,640
+A-3
+0 
+0
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0
+0
+A-4
+0 
+0
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0
+0
+A-5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Multifamily/
+Dormitories
+0 
+0
+0 
+0 
+0 
+9,859
+0 
+58,000 
+0 
+0 
+0
+67,859
+Hotel/ 
+Motel
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Education 
+0 
+0
+0 
+0 
+0 
+8,100
+0 
+0 
+0 
+0 
+0
+8,100 
+Industrial
+0 
+0
+0 
+0 
+0 
+0 
+0 
+3,037 
+0 
+0 
+0
+3,037 
+Hazardous
+0 
+0
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0
+0
+Institutional 
+0 
+0
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0
+0
+Storage
+0 
+0
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0
+0
+Signs, 
+Fences, 
+Utility & 
+Misc.
+43
+0
+0 
+0 
+0 
+0 
+21,000 
+0 
+1,499
+0 
+0
+22,542
+TOTAL
+43
+0
+2,880
+0
+16,082 
+21,186 
+92,068 
+61,037 
+6,139 
+9,285
+0 
+208,720
+Source: New Jersey Construction Reporter 
+Capacity for Growth
+New Milford is essentially fully developed. The Vacant Land Analysis in the following chapter addresses 
+this issue in detail, and demonstrates the lack of available developable land within the Borough. The 
+most realistic development opportunities involved the redevelopment of existing developed properties 
+for residential use or mixed-use development. 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 23 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 24 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+20 
+V.
+Fair Share Plan
+Affordable Housing Obligations
+Introduction
+The New Jersey Department of Community Affairs (DCA) has calculated statewide and regional 
+affordable housing needs, including municipal obligations. These non-binding determination of each 
+municipality’s Fourth Round (2025 to 2035) affordable housing obligations were released on October 
+18, 2024. A deadline of January 31, 2025 was set for municipalities to adopt a binding resolution 
+setting forth either their acceptance of the DCA determination of their obligations or the municipal 
+determination of their Fourth Round obligations. New Milford’s Mayor and Council adopted a resolution 
+on January 27, 2025 setting forth its determination of the Borough’s Fourth Round obligations. This 
+resolution was filed with the State’s Affordable Housing Dispute Resolution Program within 48 hours 
+of adoption and was published on the Borough’s website as required. Each of these obligations is 
+discussed below. 
+ 
+Present Need 
+Present Need, also known as the rehabilitation obligation, is defined as the number of substandard 
+existing deficient housing units in the municipality currently occupied by low- and moderate-income 
+(LMI) households. The DCA proposed a non-binding Present Need obligation for New Milford of 14. The 
+Borough of New Milford has accepted this obligation. 
+ 
+Prospective Need
+Municipal Prospective Need obligations are calculated as a share of the region in which the 
+municipality is located (New Milford’s region includes Bergen, Hudson, Passaic and Sussex Counties). 
+The total Prospective Need for this region is 27,743, with this need allocated to municipalities 
+throughout the region. However, “Qualified Urban Aid Municipalities” are exempt from addressing 
+Prospective Need, which increases the remaining municipalities’ obligations. Regional Prospective 
+Need is then allocated across the non-qualified urban aid municipalities in the region by applying three 
+factors. 
+ 
+Equalized Nonresidential Valuation
+This factor is the change in nonresidential property valuations in the municipality from 1999 to 2023 
+divided by the regional total change in nonresidential valuations. This factor for New Milford is 0.27%. 
+ 
+Income Capacity 
+This factor measures the extent to which a municipality’s income level differs from that of the lowest-
+income municipality in its housing region. This factor for New Milford is 0.85%. 
+Land Capacity
+This factor determines the total acreage that is developable in a municipality utilizing the most recent 
+land use / land cover (LULC) data from the New Jersey Department of Environmental Protection (DEP), 
+the most recently available MOD-IV Property Tax List data from the Division of Taxation in the 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 24 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 25 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+21 
+Department of the Treasury, and construction permit data from the DCA. The calculation is supposed 
+to exclude lands subject to development limitations. “Weighting factors” as specified in the Affordable 
+Housing Law were applied to developable lands based on the planning area type in which such land 
+was located. For municipalities such as New Milford located in Planning Area 1, the weight is 1, 
+meaning there is no reduction, unlike in various other planning areas. This factor for New Milford is 
+0.11%. 
+ 
+However, New Milford’s Prospective Need obligation should be lower than the DCA’s non-binding 
+obligation due to issues with DCA’s calculations as detailed below. In particular, the Land Capacity 
+factor classifies a number of areas in the Borough as “developable” when in reality they are not. 
+ 
+The DCA issued the data that was the basis for the Land Capacity factor on November 27, 2024. The 
+link to the DCA GIS data2, and the description section, includes the following language:   
+  
+The land areas identified in this dataset are based on an (sic) the best available data using 
+publicly available data enumerated in N.J.S.A. 52:27D-304.3c.(4) to estimate the area of 
+developable land, within municipal and regional boundaries, that may accommodate 
+development. It is important to note that the identified areas could be over or under inclusive 
+depending on various conditions and that municipalities are permitted to provide more 
+detailed mappings as part of their participation in the Affordable Housing Dispute Resolution 
+Program. 
+ 
+The areas identified as developable in the DCA’s calculation of the Land Capacity factor is indeed 
+overinclusive. Accordingly, the amount of developable land should be adjusted from 2.09 to 1.09 
+acres, which would result in the Land Capacity factor dropping from 0.11% to 0.05%. A document 
+outlining this analysis is included in the Appendix. 
+ 
+Final Prospective Need Calculation 
+The Equalized Nonresidential Valuation Factor, Land Capacity Factor And Income Capacity Factor for 
+each municipality were averaged to determine an Average Allocation Factor, which is the basis for 
+municipal Prospective Need. New Milford’s Average Allocation Factor is 0.41%, which resulted in DCA’s 
+proposed non-binding Prospective Need obligation for New Milford of 114. However, the Average 
+Allocation factor should be reduced from 0.41% to 0.39%. When this correction is made, New Milford’s 
+Round 4 Prospective Need number is 108.3
+ 
+The Borough filed a declaratory judgment complaint in the Superior Court of New Jersey on January 
+28, 2025, which included a prospective need number of 108. The New Jersey Builders’ Association 
+(NJBA) filed an objection to New Milford’s filing on February 26, 2025, which challenged the proposed 
+reduction in the Borough’s Prospective need number. Prior to a settlement conference on this matter 
+ 
+2 https://njdca.maps.arcgis.com/home/item.html?id=12acdfe0a5104f8f8a2f604e96063e74  
+3 This calculation is based on the factors including in DCA’s Fourth Round municipal obligations spreadsheets, 
+as it impossible to determine how these numbers would change based on numerous municipalities potentially 
+submitting changes such as those being considered based on this document. 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 25 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 26 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+22 
+on March 21, 2025, NJBA offered a settlement to adjust the DCA’s prospective affordable housing 
+need number for New Milford from 114 to 111. After considering the settlement offer by the NJBA and 
+the comments of the Affordable Housing Alternative Dispute Resolution Program member and a 
+Special Adjudicator, New Milford proposed a settlement of 110 prospective need affordable housing 
+units, subject to approval by the Mayor and Council and certain reservations, which NJBA accepted. 
+Based on this settlement, the Borough’s modified Fourth Round Prospective Need is 110 units. 
+ 
+The Prospective Need obligation is cumulative. The new construction number consists of the Prior 
+Round obligations for Rounds 1 and 2, the Prospective Need obligation for Round 3 and the 
+Prospective Need obligation for Round 4. 
+ 
+In accordance with an agreement reached in 2016 between the Borough of New Milford and Fair Share 
+Housing Center (FSHC), a Supreme Court-designated interested party in affordable housing 
+proceedings statewide (the “2016 FSHC settlement agreement”), New Milford’s Prospective Need 
+obligations for 1987 to 2025 are as follows: 
+ 
+Prior Round Obligation (1987 to 1999, pursuant to N.J.A.C. 5:93): 23 
+Third Round (1999 to 2025) Prospective Need: 288 
+ 
+The Present Need and Prospective Need are based upon a report entitled “New Jersey Low and 
+Moderate Income Housing Obligations for 1999-2025 Calculated Using the NJ COAH Prior Round 
+(1987-1999) Methodology,” May 2016, prepared by David N. Kinsey, PhD, PP, FAICP (the “Kinsey 
+Report”). The Third Round Prospective Need was adjusted as part of the 2016 FSHC settlement 
+agreement. It was determined that New Milford’s Realistic Development Potential (RDP) was 27, which 
+results in a 50-unit obligation to address the Prior Round and Third Round RDP. As discussed below, 
+when this RDP plus three surplus credits were subtracted from the Third Round Prospective Need, 
+New Milford’s Third Round “Unmet Need” was 258. 
+ 
+Vacant Land Analysis 
+There is limited land in the Borough that is vacant or otherwise developable for affordable and/or 
+inclusionary housing. New Milford is entitled to a Vacant Land Adjustment (VLA) to determine the 
+Borough’s Fourth Round RDP based on the amount of vacant and/or developable land that is suitable 
+for inclusionary development. Our office has completed the VLA analysis, and has determined that 
+New Milford’s Fourth Round RDP is six units. After subtracting this number from the Fourth Round 
+Prospective Need of 110 units, New Milford has a Fourth Round Unmet Need of 104 units. The VLA is 
+included in Appendix 2. It includes a map depicting environmental constraints in the Borough, 
+including wetlands and water bodies derived from the 2020 State Land Use/Land Cover dataset; steep 
+slope areas exceeding 15 percent greater than 5,000 square feet as per 10 foot digital elevation 
+model LiDAR data; and flood hazard areas within the 100-year floodplain as indicated by FEMA. The 
+map also depicts properties which were initially evaluated for development as affordable housing, 
+which consists of vacant land and Borough-owned parcels, as well as the former ShopRite property. 
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 26 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 27 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+23 
+Proposed Compliance Mechanisms
+Present Need
+New Milford will continue to participate in rehabilitation programs including the Borough of New Milford 
+Housing Rehabilitation Program, the Bergen County Housing Improvement Program and the 
+Community Development Block Grant Program. 
+ 
+Prior Rounds and Prospective Need
+The mechanisms provided in the Borough’s 2017 Housing Plan to address the Third Round RDP are 
+listed below. 
+Group Homes: There are three existing group homes with a total of 11 bedrooms in New Milford: 
+1. Advanced Housing DNM, Inc. Group Home – Block 1407, Lot 56: This two-bedroom group 
+home is located on Boulevard and opened in 2005. 
+2. Center for Family Support Group Home – Block 818, Lot 13: This five-bedroom group home is 
+located on Boulevard and opened in 1998. 
+3. National Institute for People with Disabilities Group Home – Block 1503, Lot 15: This four-
+bedroom group home is located on Grand Street and opened in 1999. 
+N.J.A.C. 5:93-1.3 defines a group home for the developmentally disabled as licensed and/or regulated 
+by the New Jersey Department of Human Services as an “alternative living arrangement.” Per N.J.A.C. 
+5:93-5.8 alternative living arrangements may be used to address a municipal housing obligation. The 
+unit of credit is the bedroom and each unit may be used to address a municipality’s rental obligation. 
+Per N.J.A.C. 5:97-3.5, units created and occupied after December 15, 1986 may receive rental 
+bonuses for the Prior Round Obligation. Thus, the above homes are eligible for rental bonuses. 
+ 
+Sarna / 1070 River Road / The Nest – Block 104, Lot 18: This property is located in the Residential 
+E/Multi-Family Townhouse zone, which requires the provision of an affordable housing setaside as 
+part of any residential development. A 38-unit multifamily residential project formerly known as the 
+Gramercy and now known as The Nest was approved by the Planning Board in 2007. Construction was 
+completed on this project in 2020 and it is now occupied. It includes 34 market rate units and four 
+affordable rental units. The bedroom distribution for the affordable units was modified from the 
+original approval to comply with the applicable standards of the Uniform Housing Affordability Controls 
+(UHAC). 
+ShopRite and Bank Sites, River Road – Block 501, Lots 9 and 10: In 2016, New Milford agreed to a 
+settlement with New Milford Redevelopment Associates, LLC which required the Borough to rezone 
+this property for inclusionary mixed-use development. The rezoning was enacted via Ordinance No. 
+2017-01, which was adopted on February 27, 2017. These properties, which are located on the west 
+side of River Road north of Dilworth Road, are the former Shop Rite site and the adjacent former bank 
+property. The settlement agreement with New Milford Redevelopment Associates, LLC provides for the 
+construction of 135 dwelling units, including 27 affordable rental units (a 20 percent setaside), and 
+12,500 square feet of retail space. 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 27 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 28 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+24 
+Redevelopment of this property has not occurred to date, despite the site being rezoned in fulfillment 
+of the Court-approved settlement agreement and the 2017 Housing Plan. 
+ 
+The FHA at N.J.S.A. 52:27D-304.1f.(2)(a) provides that, “In addressing prior round obligations, the 
+municipality shall retain any sites that, in furtherance of the prior round obligation, are the subject of 
+a contractual agreement with a developer.” Thus, the FHA mandates that this site remain in the HEFSP.  
+The FHA goes on to provide that the municipality “shall demonstrate how any sites that were not built 
+in the prior rounds continue to present a realistic opportunity, which may include proposing changes 
+to the zoning on the site to make its development more likely, and which may also include the 
+dedication of municipal affordable housing trust fund dollars or other monetary or in-kind resources.” 
+ 
+Given that this site was not developed under the prior Court-approved zoning, in 2024, the property 
+was designated by the Borough as an “area in need of redevelopment.” A redevelopment plan is being 
+prepared for this site to permit mixed-use development at a greater density than was previously 
+permitted. The redevelopment plan provides for the construction of 160 dwelling units, of which 32 
+will be affordable rental units (a 20 percent set aside), and 12,500 square feet of retail space. The 
+Borough will enter into a redevelopment agreement and a financial agreement with Crossroads 
+Companies, or its affiliate, the developer of this property. The financial agreement will grant a tax 
+exemption for the project and provide for a payment in lieu of taxes. These zoning changes and 
+financial incentives will ensure that this site presents a realistic opportunity for the development of 
+affordable housing.      
+ 
+Further, to the extent allowed by the terms of the Uniform Housing Affordability Controls (UHAC), as 
+may be amended, UHAC shall not apply to this project because the project was previously included in 
+a court approved HEFSP. In particular, the proposed project will contain a mixed-use building with eight 
+residential units, all of which will be age-restricted affordable units. If this conflicts with UHAC, such 
+requirement in UHAC shall be deemed waived upon approval of this HEFSP by the Affordable Housing 
+Dispute Resolution Program and/or the applicable County level judge. 
+ 
+Bonus Credits: COAH’s Second and Third Round Substantive Rules provide bonus credits for provision 
+of affordable rental units, as well as for other compliance mechanisms, within certain limitations. For 
+purposes of calculating rental bonus credits, the 15 Prior Round credits and the 27-unit Third Round 
+RDP described above combine to total 42 affordable units, qualifying New Milford to receive 11 rental 
+bonuses. The 15 Prior Round rental units described above combine with 8 rental bonuses to fulfill the 
+Prior Round prospective need of 23 affordable units. 
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 28 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 29 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+25 
+Table 21. Prior and Third Round Credits for Built, Approved and Planned Projects  
+Affordable 
+Development 
+Type
+Units
+Bonus Credits
+Total Credits Plus 
+Bonuses 
+Group Homes
+Alternative Living 
+Arrangements
+11 bedrooms
+11 
+22 
+1070 River Road 
+Inclusionary 
+Development 
+4 units 
+-- 
+4 
+Block 501, Lots 9 
+and 10 
+Inclusionary 
+Development 
+27 units 
+-- 
+27 
+TOTAL 
+ 
+53
+As shown above, New Milford has addressed is Prior and Third Round obligations of 50, meaning that 
+it has a surplus of three credits that can be applied to its Fourth Round obligation. 
+Fourth Round Prospective Need
+ShopRite and Bank Sites, River Road – Block 501, Lots 9 and 10: As discussed above, redevelopment 
+of this property has not occurred to date, despite the site being rezoned in fulfillment of the Court-
+approved settlement agreement and the 2017 Housing Plan. Therefore, this site was considered 
+developable in the VLA. The redevelopment plan for this property along with the redevelopment 
+agreement and financial agreement provides for the construction of 160 dwelling units, of which 32 
+will be affordable rental units (a 20 percent set aside), and 12,500 square feet of retail space. Eight 
+of these affordable units will be age-restricted. As this property was included in the Borough’s 2017 
+Housing Plan and received credit for 27 units, the net number of credits for this site in the Fourth 
+Round is five. This development is also eligible for 2.5 bonus credits as discussed below, for a total of 
+7.5 credits. 
+Bonus Credits 
+The bonuses included in the amended FHA for the Fourth Round are as follows: 
+Supportive/Special Needs: One unit of credit and one bonus credit for each unit of low- or 
+moderate-income housing for individuals with special needs or permanent supportive housing, 
+as those terms are defined in section 2 of P.L. 2004, c.70 (C.34:1B-21.24) 
+Ownership Units Created with Non-Profit: One unit of credit and one-half bonus credit for each 
+low- or moderate-income ownership unit created in partnership sponsorship with a non-profit 
+housing developer 
+Transit: One unit of credit and one-half bonus credit for each unit of low- or moderate-income 
+housing located within a one-half mile radius (or one-mile radius for projects located in a 
+Garden State Growth Zone), surrounding a New Jersey Transit Corporation, Port Authority 
+Transit Corporation, or Port Authority Trans-Hudson Corporation rail, bus, or ferry station, 
+measured from the closest point on the outer perimeter of the station, including any associated 
+park-and-ride lot, to the closest point of the housing project property 
+Age-Restricted: One unit of credit and one-half bonus credit for a unit of age-restricted housing, 
+provided that a bonus credit for age-restricted housing shall not be applied to more than 10 
+percent of the units of age-restricted housing constructed in compliance with the Uniform 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 29 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 30 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+26 
+Housing Affordability Controls promulgated by the New Jersey Housing and Mortgage Finance 
+Agency in a municipality that count towards the municipality's affordable housing obligation 
+for any single 10-year round of affordable housing obligations 
+Additional Three-Bedroom Units: One unit of credit and one-half bonus credit for each unit of 
+low- or moderate-income family housing with at least three bedrooms above the minimum 
+number required by the bedroom distribution  
+Former Retail, Office, Commercial: One unit of credit and one-half bonus credit for a unit of 
+low- or moderate-income housing constructed on land that is or was previously developed and 
+utilized for retail, office, or commercial space 
+Extension of Controls: One unit of credit and one-half bonus credit for each existing low- or 
+moderate-income rental housing unit for which affordability controls are extended for a new 
+term of affordability, in compliance with the Uniform Housing Affordability Controls, and the 
+municipality contributes funding towards the costs necessary for this preservation 
+Municipal Contribution to 100% Affordable: One unit of credit and one bonus credit for each 
+unit of low- or moderate-income housing in a 100 percent affordable housing project for which 
+the municipality either contributes property without which the project would not be feasible, or 
+makes contributions from the municipal affordable housing trust fund that cover no less than 
+3 percent of the project cost 
+Additional Very Low-Income Units: One unit of credit and one-half bonus credit for each unit of 
+very low-income housing for families above the 13 percent of units required to be reserved for 
+very low-income housing pursuant to section 7 of P.L.2008, c.46 (C.52:27D-329.1) 
+Market to Affordable:  One unit of credit and one bonus credit for each unit of low- or moderate-
+income housing created by transforming an existing rental or ownership unit from a market 
+rate unit to an affordable housing unit 
+ 
+For the Fourth Round and beyond, a municipality shall not receive more than one type of bonus credit 
+for any unit, and a municipality shall not be permitted to satisfy more than 25 percent of its prospective 
+need obligation through the use of bonus credits. 
+ 
+The Block 501, Lots 9 and 10 project is eligible for bonus credits as it is located on land that was 
+previously developed and utilized for retail space. This type of credit provides one-half bonus credit 
+per affordable unit, or 2.5 credits for the net of five affordable units in this development. 
+Unmet Need 
+Inclusionary Zoning Requirements: While there are no other large vacant parcels available for 
+redevelopment at this time, it is possible that existing developed areas may be proposed for 
+redevelopment. Affordable housing is required to be provided as part of any large-scale redevelopment 
+project. The following section was added to the Affordable Housing chapter of the Borough’s General 
+Ordinances in 2018 as part of the implementation of the Borough’s 2017 Housing Plan, and was 
+amended in 2019 to read as follows: 
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 30 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 31 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+27 
+§ 32-1.5
+Inclusionary Housing Requirements for Rezonings and Variances.
+Any residential development consisting of five or more dwelling units, at a density above six units 
+per acre, that is permitted pursuant to a variance or rezoning shall produce low- and moderate-
+income housing on site or elsewhere in the Borough or pay a fee in lieu of providing affordable 
+units. The number of affordable units to be provided or in lieu payment shall be equal to 20% of 
+the residential units in the development, or 15% for affordable rental units. The amount of the 
+payment in lieu of providing housing shall be as determined by the appropriate rules of the New 
+Jersey Council on Affordable Housing and any other relevant state regulations. 
+ 
+Modifications to Affordable Housing Requirements in Business Zone: The Borough’s 2017 Housing 
+Plan proposed modifications to the regulations for the Business zone district, which were implemented 
+in 2018 by the adoption of Ordinance Number 2018:13. While the Business zone already permitted 
+residential uses on upper floors of mixed-use building, a provision was added to permit residential-
+only developments as well as mixed-used developments on lots one acre in area or larger, if a set-
+aside of affordable housing is provided. The maximum residential density was set at 14 dwelling units 
+per acre, with a minimum affordable housing set-aside of 20 percent of the dwelling units in the 
+development, except that the minimum set-aside shall be 15 percent where affordable rental units 
+are provided. Proposed modifications to encourage provision of affordable housing, while continuing 
+to promote economic development in the Business zone, are shown below (additions in bold underline, 
+deletions in strikethrough): 
+§ 30-25.3 Affordable Housing. 
+a. On lots one acre in area or larger, the maximum residential density shall be 2014 dwelling 
+units per acre when low- and moderate-income dwelling units are provided in accordance with 
+this subsection. The minimum affordable housing set-aside shall be 20 percent of the dwelling 
+units in the development, except that the minimum setaside shall be 15 percent where 
+affordable rental units are provided. A minimum of 13 percent of the affordable units shall be 
+affordable to households earning 30 percent or less of the area median income for the Council 
+on Affordable Housing region. 
+b. Affordable dwelling units shall comply with the Uniform Housing Affordability Controls 
+applicable rules of the Council on Affordable Housing and any other relevant state regulations. 
+c. All other affordable housing requirements of the Borough of New Milford, including 
+development fees and inclusionary zoning requirements, shall apply to development in the 
+Business zone. 
+ 
+Summary of Credits and Bonuses
+These Borough’s Fourth Round compliance mechanisms and the credits and bonuses associated with 
+them are summarized in Table 22. 
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 31 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 32 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+28 
+Table 22. Fourth Round Credits  
+Affordable 
+Development 
+Type
+Units
+Bonus Credits
+Total Credits Plus 
+Bonuses 
+Block 501, Lots 9 
+and 10
+Inclusionary 
+Development 
+5 units* 
+2.5 
+7.5 
+Third Round 
+Surplus Credits 
+3 credits
+No
+3
+TOTAL
+8
+2.5
+10.5
+Business Zone
+Modified Affordable 
+Housing Requirements
+To be determined 
+To be determined
+To be determined
+*As discussed above, 32 proposed units less the 27 units for which the Borough previously received credit results in a net 
+of five units of credit 
+The above credits address at least 25 percent of the Borough’s Prospective Need obligation that has 
+been adjusted. 
+ 
+Consideration of Lands and Buildings for Low- and Moderate-Income Housing
+New Milford is an essentially fully developed municipality with limited vacant land. As documented by 
+the VLA discussed above, most of the vacant land in the Borough is not developable due to 
+environmental constraints or other factors. The one prime developable parcel of land at the time of 
+the 2017 Housing Plan, the United Water site, has been redeveloped as part of a comprehensive 
+agreement and rezoning that included rezoning a developed commercial property for inclusionary 
+mixed-use development. 
+ 
+In terms of lands of developers who have expressed a commitment to provide low- and moderate-
+income housing, as discussed above the developer of the former ShopRite site (Block 501, Lots 9 and 
+10) has expressed interest and a draft redevelopment plan has been prepared for this property that 
+provides an inclusionary housing setaside. Two other developers have expressed a commitment to 
+provide low- and moderate-income housing: 
+ 
+730 River Road (Block 501, Lots 4 and 5): The attorney for the owner of this property, Wayne 
+Valley Investments, LLC, sent a letter to the New Milford Mayor and Council dated March 24, 
+2025 expressing its interest in being included in the HEFSP. The property is currently 
+developed with a two-story office building. 
+854 River Road (Block 502, Lot 1): The attorney for the owner of this property, The Brunetti 
+Organization, sent a letter to the New Milford Mayor and Council and the New Milford Planning 
+Board dated March 24, 2025 expressing its interest in being included in the HEFSP. The 
+property is currently developed with a two-story building containing 41,000 square feet of retail 
+and office space. 
+One other potential site was identified by the DCA as potentially developable as part of its calculations 
+of non-binding municipal Fourth Round affordable housing obligations: a portion of the New Milford 
+Elks Lodge property located at 1 Patrolman Ray Woods Drive (Block 507, Lot 7). The overall lot area is 
+approximately 2.07 acres, according to tax records. There is no intention to redevelop this property at 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 32 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 33 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+29 
+present. However, should it become available in the future, it may be an appropriate location for 
+affordable housing development given its size and location proximate to stores, services and 
+transportation. 
+ 
+Similarly, there is no intention to redevelop the VFW Post property located at 267 Madison Avenue 
+(Block 1203, Lot 17) at this time. However, should it become available in the future, it may also be an 
+appropriate location for affordable housing development given its size (1.49 acres) and its location 
+proximate to stores, services and transportation. 
+ 
+All of the above sites and zones designated for potential affordable housing development, including 
+the two properties whose owners have expressed interest, are shown on the “Potential Affordable 
+Housing Sites” map in Appendix 1. Additional sites indicated on the map include properties within the 
+Business Zone which provide the option for inclusionary housing development on properties larger 
+than one acre. 
+ 
+Spending Plan
+The Borough of New Milford has a development fee ordinance (Section 32-2 of the Borough’s Revised 
+General Ordinances) which is intended to provide a dedicated revenue source for affordable housing. 
+All development fees, payments in lieu of constructing affordable units on site, funds from the sale of 
+units with extinguished controls, and interest generated by the fees are deposited in a separate 
+interest-bearing affordable housing trust fund for the purposes of affordable housing. These funds 
+shall be spent for purposes including a housing rehabilitation program, costs associated with 
+affordable housing construction, providing affordability assistance to low-income households and 
+professional services related to the planning for affordable housing. The proposed Spending Plan is 
+included in Appendix 6.
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 33 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 34 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+30 
+VI.
+Relationship to Multigenerational Family Housing Continuity
+Multigenerational housing is becoming a desired housing option in the State due to rising housing 
+costs and an aging population. Housing for multigenerational families is necessary to offer a diverse 
+housing stock and to account for population trends. Multigenerational housing can provide an 
+opportunity for residents to age in place, save on costs associated with housing, and provide in-house 
+care for an older adult or persons with disabilities. Additionally, multigenerational housing is a more 
+sustainable approach to meeting housing obligations as there is no need for the construction of new 
+homes in order to provide housing for additional individuals.  
+One possible approach to providing multigenerational housing is the construction of accessory 
+dwelling units (ADUs). A frequent concern when choosing to live in multigeneration housing layout is 
+lack of privacy. ADUs offer sufficient privacy within a home, providing all the benefits of 
+multigenerational housing without individuals sacrificing their personal space. ADUs make use of 
+existing infrastructure, and therefore are more environmentally friendly, and can easily maintain the 
+character of the neighborhood and/or municipality. ADUs are also a positive economic option. There 
+are five types of ADUs: detached, attached, interior, above garages, and garage conversions.  
+ 
+In addition to ADUs, another form of multigenerational housing that New Milford could continue to 
+integrate into its housing stock is multifamily residential that offers resources and amenities for 
+elderly, young adults, middle-aged parents, and young children alike to support all ages and all 
+generations potentially living together. Providing amenities such as ADA compliant parking spaces, 
+ramps, and public spaces, as well as on-site playgrounds and daycares, public office space, and 
+meeting rooms facilitates cohesive living for all ages.  
+ 
+The Borough’s Affordable Housing Ordinance defines accessory apartments as “a self-contained 
+residential dwelling unit with a kitchen, sanitary facilities, sleeping quarters and a private entrance, 
+which is created within an existing home, or through the conversion of an existing structure on the 
+same site, or by an addition to an existing home or accessory building, or by the construction of a new 
+accessory structure on the same site.” The Borough’s zoning districts, however, do not explicitly permit 
+accessory apartments or dwelling units in any zones, with one specific exception. In the Residential A 
+zone, the bulk regulations for yards note that “No building to be used as a dwelling shall be constructed 
+or altered in the rear of a building situated on the same lot, nor shall any building be constructed in 
+front of or moved to the front of a dwelling situated on the same lot. These provisions shall not be 
+construed, however, as preventing the erection, alteration and maintenance of dwelling quarters in 
+connection with an accessory building upon the rear of the lot when the persons occupying such 
+quarters are employed in domestic service upon the premises”. Therefore, it appears ADUs are limited 
+to dwelling quarters for persons providing domestic services to a residential property in the Residential 
+A zone.  
+ 
+In order to allow for secondary residential structures and specifically allow for ADUs in their residential 
+zones, this section would have to be amended. Additional potential recommendations for the Borough 
+to address multigenerational housing needs are as follows:  
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 34 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 35 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+31 
+Allow ADUs in residential zones as permitted or conditionally permitted uses;  
+Create design standards for multifamily residential development to guarantee diverse 
+amenities and resources for persons of all ages; 
+Encourage multigenerational housing in transit-oriented areas where public transit can be 
+easily accessible to limit the need for extra parking spaces on the property and ensure the 
+increased density has no negative effects on the community. 
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 35 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 36 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+32 
+VII.
+Consistency with the State Development and Redevelopment 
+Plan 
+The New Jersey State Development and Redevelopment Plan (SDRP) was originally adopted in 1992. 
+The purpose of the SDRP according to the State Planning Act at N.J.S.A. 52:18A-200(f) is to: 
+ 
+Coordinate planning activities and establish Statewide planning objectives in the following 
+areas: land use, housing, economic development, transportation, natural resource 
+conservation, agriculture and farmland retention, recreation, urban and suburban 
+redevelopment, historic preservation, public facilities and services, and intergovernmental 
+coordination. 
+ 
+The State Plan is not a regulation, but a policy guide, and is meant to coordinate planning activities 
+and development throughout the state. At the municipal level, master plans are required to be 
+evaluated and, if necessary, modified to reflect policies of the State Plan. The State Plan is also 
+important when the State makes infrastructural and other investment decisions, i.e., in determining 
+where available State funds should be expended. 
+ 
+A revised version of the plan was adopted by the State Planning Commission in 2001. While required 
+by the State Planning Act to be revised and re-adopted every three years, the SDRP has only been 
+readopted once during the 32 years since its original adoption. A new State Strategic Plan (SSP) was 
+proposed in 2011 as the revision to the 2001 SDRP, but it has not been advanced in recent years. 
+The State Office of Planning Advocacy started the process of preparing a new State Plan in 2023 and 
+the State Planning Commission has been engaging with stakeholders.  As part of the update process, 
+the State Planning Commission approved the Preliminary State Development and Redevelopment Plan 
+on December 4, 2024, and is now undertaking the Cross-Acceptance process (i.e. review of the plan 
+at the county level). 
+ 
+Spatially, the last adopted State Plan utilizes planning areas, centers, and environs as a framework 
+for implementing Statewide goals and policies. The State Plan Map indicates that the Borough of New 
+Milford is located within the Metropolitan Planning Area (PA1). For the Metropolitan Planning Area, the 
+State Plan has four major aims, as follows: (1) to provide for much of the state’s future redevelopment; 
+(2) to revitalize cities and towns and promote growth in compact forms; (3) to stabilize older suburbs 
+and redesign areas of sprawl; and (4) to protect the character of existing stable communities. 
+ 
+The land use policy objectives of the Metropolitan Planning Area are to: 
+1. Promote redevelopment and development in cores and neighborhoods through cooperative 
+regional planning efforts; 
+2. Promote diversification of land uses, including housing where appropriate, in single-use 
+developments and enhance their linkages to the rest of the community; and 
+3. Ensure efficient and beneficial utilization of scarce land resources throughout the Planning 
+Area to strengthen its existing diversified and compact nature. 
+ 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 36 of 37   Trans ID: LCV20251567880 
+
+===== PAGE 37 =====
+Borough of New Milford Master Plan
+2025 Housing Element and Fair Share Plan
+33 
+The New Milford Master Plan recognizes the need to encourage development and redevelopment on 
+the limited developable land in the Borough. This Housing Plan promotes higher density compact forms 
+of housing and mixed-use development in appropriate locations served by existing infrastructure and 
+proximate to transit, stores and services, and is therefore consistent with the State Plan. 
+                                                                                                                                                                                              
+BER-L-000668-25   05/22/2025 2:12:24 PM   Pg 37 of 37   Trans ID: LCV20251567880 

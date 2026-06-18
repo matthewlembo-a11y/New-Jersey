@@ -1,0 +1,3902 @@
+SOURCE_URL: https://library.njcourts.gov/files/civil/affordable-housing/bergen/glen-rock-boro/ExBPt1GRFinalHEFSPAdopted61625.pdf?VersionId=e4CnyRdW2JYsppHZJVI9bkl.9YYHr0Qz
+
+===== PAGE 1 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg1of71
+Trans ID: LCV20251809422
+EXHIBIT B
+
+===== PAGE 2 =====
+   
+ 
+Housing Element and 
+Fair Share Plan 
+Adopted June 18, 2025 
+Borough of Glen Rock Planning Board 
+  
+Borough of Glen Rock 
+Master Plan  
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 2 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 3 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg3of71
+Trans ID: LCV20251809422
+1
+
+===== PAGE 4 =====
+Community Planning 
+Principals: 
+Land Development and Design 
+Joseph H. Burgis PP, AICP 
+Landscape Architecture 
+Edward Snieckus, Jr. PP, LLA, ASLA 
+ 
+David Novak PP, AICP  
+i 
+ 
+b a 
+B
+U
+R
+G
+I
+S 
+A S S O C I A T E S,  I N C. 
+ 
+ 
+ 
+ 
+Housing Element and 
+Fair Share Plan 
+ 
+Borough of Glen Rock 
+Bergen County, New Jersey 
+ 
+ 
+Prepared for the Borough of Glen Rock 
+Planning Board 
+BA# 4141.10 
+ 
+ 
+The original document was appropriately signed and sealed on June 18, 2025 in accordance with 
+Chapter 41 of Title 13 of the State Board of Professional Planners. 
+ 
+ 
+ 
+ 
+_______________________________ 
+_______________________________ 
+Joseph H. Burgis, AICP, PP 
+Ed Snieckus, Jr. PP, LLA, ASLA 
+Professional Planner #2450 
+Professional Planner #5442 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 4 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 5 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg5of71
+Trans ID: LCV20251809422
+ii
+
+===== PAGE 6 =====
+ 
+iii 
+ 
+Members of the Borough of Glen Rock Planning Board 
+Ed Morley, Chairman 
+Kristine Morieko, Mayor 
+Elizabeth Coll, Council Member  
+Dean Ackerman, Police Chief 
+Jason Solowsky 
+Sue Tryforos 
+Gabriel Bullaro, Alternate 1 
+Henry D'Esposito, Alternate 2 
+ 
+Planning and Zoning Board Secretary 
+Tracy Jeffery 
+Planning Board Attorney 
+Daniel R. Lagana, Esq. 
+Cleary, Giacobbe, Alfieri and Jacobs, LLC 
+ 
+Planning Board Engineer 
+Joseph Vince, PE, CME 
+Schwanewede, Hals & Vince 
+ 
+Planning Board Planning Consultant 
+Edward Snieckus, Jr. PP, LLA, ASLA 
+Burgis Associates, Inc. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 6 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 7 =====
+ 
+iv 
+Contents 
+Executive Summary ............................................................................................................................................ 1 
+Section 1: Introduction ..................................................................................................................................... 4 
+Section 2: Housing Element .......................................................................................................................... 11 
+2.1: Community Overview ......................................................................................................................... 12 
+2.2: Demographic and Population Data .............................................................................................. 15 
+2.3: Inventory of Housing Stock ............................................................................................................. 18 
+2.4: Housing and Employment Projection .......................................................................................... 22 
+Section 3: Fair Share Obligation .................................................................................................................. 25 
+3.1: Summary of Fair Share Obligation ................................................................................................ 25 
+3.2: Realistic Development Potential (RDP) ........................................................................................ 26 
+Section 4: Fair Share Plan ............................................................................................................................... 30 
+4.1: Prior Round Obligation ...................................................................................................................... 30 
+4.2: Third Round RDP and Unmet Need Obligation....................................................................... 30 
+4.3: Fourth Round RDP Obligation ........................................................................................................ 34 
+4.4: Present Need Obligation .................................................................................................................. 35 
+4.5: Other Provisions ................................................................................................................................... 35 
+4.6: Consistency with State Planning Initiatives ............................................................................... 36 
+4.7: Crediting Documentation and Ongoing Compliance ........................................................... 37 
+Appendices .......................................................................................................................................................... 38 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 7 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 8 =====
+ 
+~ 1 ~ 
+ 
+Executive Summary 
+The following 2025 Housing Element and Fair Share Plan (HE&FSP) of the Master 
+Plan has been prepared for the Borough of Glen Rock. This plan is designed to outline 
+the manner in which the Borough will address its affordable housing obligations. 
+Ultimately, these obligations were derived from a variety of different sources, including 
+the Council on Affordable Housing (COAH), a prior settlement agreement with Fair Share 
+Housing Center (FSHC), and most recently from calculations provided by the Department 
+of Community Affairs (DCA). 
+These obligations are summarized as follows: 
+Table 1: Affordable Housing Obligation Summary 
+Category 
+Obligation 
+Prior Round Obligation (1987-1999) 
+118 
+Third Round Obligation (1999-2025) 
+301 
+Fourth Round Obligation (2025-2035) 
+201 (DCA 222) 
+Present Need (Rehabilitation) Obligation 
+0 
+Prior Round Obligation 
+The Borough was assigned a Prior Round Obligation of 118 units. The Borough’s initial 
+effort to address its Mount Laurel obligation was set forth in a substantive certification by 
+COAH on February 26, 1990, whereby Glen Rock Housing and Fair Share Plan (HE&FSP), 
+noted a low and moderate income housing obligation of 207 units which was reduced to 
+0 after a vacant land adjustment was granted as part of the first round certification.  
+Following the time period of second round certification, Glen Rock submitted and 
+received second round certification on October 2, 1996 which identified a second-round 
+obligation of 118 units new construction and rehabilitation of 31 units. The Borough at 
+that time received confirmation that they were entitled to a vacant land adjustment which 
+identified again an RDP of 0 units while also granted a waiver from N.J.A.C. 5:93-4.1(b) 
+from providing mechanisms to address unmet need. The borough also received 2 
+rehabilitation credits bringing the rehabilitation obligation to 29 units at the time. 
+The Prior Round Unmet Need of 118 units (i.e. the difference between its Prior Round 
+Obligation of 118 units and its RDP of 0 units as noted above) was carried forward and 
+addressed in the Third Round Obligation. 
+Third Round Obligation 
+On March 10, 2008, in a case commonly referred to as Mount Laurel IV, the Supreme 
+Court declared COAH moribund and established a procedure for municipalities to secure 
+approval of a Housing Element and Fair Share Plan for Round 3. Glen Rock voluntarily 
+participated in the new procedure to pursue approval of a Third-Round plan based on the 
+laws established in Mount Laurel IV. Pursuant to a Settlement Agreement signed with 
+FSHC on September 25, 2019, the Borough had a Third Round RDP of 26 units and a total 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 8 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 9 =====
+ 
+~ 2 ~ 
+remaining Unmet Need from the Prior and Third Round of 393 units. This Unmet Need 
+was comprised of 118 units of Unmet Need from the Prior Round and 301 units of Unmet 
+Need from the Third Round (inclusive of the gap period). 
+The Borough has constructed 38 affordable housing units (and has 7 bonus credits), 
+which are summarized in Table 19. The units constructed include most of the components 
+proposed from the Third Round except for one project proposed at the time consisting of 
+a 1-unit 100% affordable development proposal at the Municipal Annex site. This project 
+has experienced several delays which are further detailed in the Fair Share Plan section of 
+this plan. The Borough is still proposing this project regardless of these delays in the 
+Fourth Round. 
+Even though this project is not yet realized, the Borough has satisfied its Third Round RDP 
+26 units and the required unit types and is entitled to a 19-unit excess credits towards its 
+Third Round Unmet Need. In addition, the Borough approved 14 units from an overlay 
+ordinance. As a result, the Borough has a remaining Third Round Unmet Need of 334 
+units after applying these credits. To contribute towards addressing Unmet Need, the 
+Borough adopted and maintains several affordable housing overlay zones (see Table 20) 
+as well as a municipal-wide mandatory set-aside and development fee ordinance. 
+Fourth Round Obligation 
+Governor Murphy signed the A-40/S-50 Bill into law on March 20, 2024, after the Senate 
+and Assembly adopted it. This legislation (FHA-2) amended the Fair Housing Act (FHA or 
+the Act) by abolishing COAH and created a new process that involved the creation of a 
+new entity known as the Affordable Housing Dispute Resolution Program (the Program), 
+as well as the DCA and the Administrative Office of the Courts (AOC). 
+FHA-2 directed the DCA to calculate the Present Need (also referred to as the 
+Rehabilitation obligation) and the Prospective Need (also known as the new construction 
+obligation) for Round Four based upon the standards set forth in the Act. The DCA issued 
+its report on October 18, 2024, and, in accordance with the Act, made clear that the 
+obligations generated by the report were advisory only and non-binding. For Glen Rock, 
+the DCA Report identified a Present Need of 0 and a Prospective Round Four Need of 
+222. 
+Since the DCA report is non-binding, each municipality had the opportunity to study and 
+define why its obligations should be different based on the standards in the Act. The 
+Township conducted such an analysis and determined that the DCA had made oversights 
+in the Land Capacity Factor calculation, which is part of the formula that determines fair 
+share obligations. The Township adopted a binding resolution on January 22, 2025, which 
+committed to the 0-unit Present Need obligation identified by DCA, but identified a 
+reduced Prospective Need obligation of 202 units due to the Borough’s assessment of 
+errors in DCA’s report pertaining to Glen Rock Land Capacity Factor. Ultimately, the 
+Borough’s Prospective Need obligation was established at 201 affordable units by a 
+Superior Court order issued on June 4, 2025.    
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 9 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 10 =====
+ 
+~ 3 ~ 
+The January 22, 2025 resolution further noted that the Borough reserved the right to seek 
+an adjustment of its Fourth Round Prospective Need number based upon a lack of vacant, 
+developable and suitable land. Accordingly, the Borough undertook a detailed Vacant 
+Land Analysis through an analysis of numerous development proposals to determine if 
+there were any changed circumstances since 2020, HE&FSP that would warrant a 
+recalibration of Glen Rock’s RDP. At this time, the Borough concludes that the 
+aforementioned analysis did not identify any additional parcels that were not included in 
+the Third Round Vacant Land Analysis therefore, the Third Round RDP of 26 does not 
+change in the analysis of the Fourth Round RDP. This analysis is covered in more detail in 
+Section 3. 
+Accordingly, the remainder of this 2025 HE&FSP is divided into the following sections: 
+ Section 1: Introduction 
+The first section of the 2025 HE&FSP provides an introduction to affordable 
+housing. It summarizes what affordable housing is, offers an overview of the 
+history of affordable housing in the state, and explains the role of a housing 
+element and fair share plan. 
+ Section 2: Housing Element 
+Section 2 contains the Housing Element for the Borough of Glen Rock. It offers an 
+overview of its community, as well as back information regarding its population, 
+housing, and employment characteristics. It also provides a projection of the 
+Borough’s housing stock and its employment projections.   
+ Section 3: Fair Share Obligation 
+Next, Section 3 provides an overview of the Borough’s fair share obligation. It 
+includes a brief history of the methodologies utilized to calculate affordable 
+housing obligations throughout the state. 
+ Section 4: Fair Share Plan 
+Finally, Section 4 details the manner in which the Borough has addressed its prior 
+obligations and how it will address its Fourth Round prospective need 
+obligations.  
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 10 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 11 =====
+ 
+~ 4 ~ 
+Section 1: Introduction 
+The following section provides an introduction to affordable housing. It summarizes what 
+affordable housing is, offers an overview of the history of affordable housing in the state, 
+and explains the role of a housing element and fair share plan. 
+What is Affordable Housing? 
+Affordable housing is income-restricted housing that is available for sale or for rent. Most 
+often, affordable housing is restricted to very-low, low-, and moderate-income 
+households. These categories are derived from the state’s median regional income limits. 
+New Jersey is delineated into six different affordable housing regions. Glen Rock is 
+located in Region 1 which includes Bergen, Hudson, Passaic, and Sussex Counties.  
+  
+Moderate-Income 
+Households 
+Earn 80% of the region’s 
+median income 
+Low-Income Households 
+Earn 50% of the region’s 
+median income 
+Very Low-Income 
+Households 
+Earn 30% of the region’s 
+median income 
+Regional income limitations are typically updated every year, with different categories 
+established for varying household sizes. The table below identifies the 2024 regional 
+income limits by household size for Region 1. As shown, a three-person family with a total 
+household income of no greater than $86,697 could qualify for affordable housing in the 
+Borough’s region. 
+Table 2: 2024 Affordable Housing Region 1 Income Limits by Household Size 
+Income Level 
+2 Person 
+3 Person 
+4 Person 
+5 Person 
+Median 
+$96,329 
+$108,371 
+$120,412 
+$130,045 
+Moderate 
+$77,064 
+$86,697 
+$96,329 
+$104,036 
+Low 
+$48,165 
+$54,185 
+$60,206 
+$65,022 
+Very-Low 
+$28,899 
+$32,511 
+$37,568 
+$39,013 
+One of the most common forms of affordable housing is inclusionary development, in 
+which a certain percentage of units within a multifamily development are reserved for 
+affordable housing. Nevertheless, affordable housing can be found in a variety of other 
+forms, including but not limited to: one hundred percent affordable housing 
+developments, deed-restricted accessory apartments, assisted living facilities, alternating 
+arrangements such as supportive housing or group homes, and age restricted housing. 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 11 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 12 =====
+ 
+~ 5 ~ 
+What is the History of Affordable Housing in New Jersey? 
+The history of affordable housing in New Jersey can 
+be traced back to 1975, when the Supreme Court 
+first decided in So. Burlington Cty. NAACP v. 
+Township of Mount Laurel (known as Mount Laurel 
+I) that every developing municipality throughout 
+New Jersey had an affirmative obligation to provide 
+for its fair share of affordable housing. In a 
+subsequent decision in 1983 (known as Mount 
+Laurel II), the Court acknowledged that the vast 
+majority of municipalities had ignored their 
+constitutional obligation to provide affordable 
+housing.  
+As such, the Court refined this obligation to 
+establish that every municipality had an obligation, 
+although those within the growth area of the State 
+Development and Redevelopment Plan (SDRP) had 
+a greater obligation. The Court also called for the 
+state legislature to enact legislation that would save 
+municipalities from the burden of having the courts 
+determine their affordable housing needs. The 
+result of tThis decision, along with the trial court 
+decisions implementing this decision, resulted in the 
+enactment of the New Jersey Fair Housing Act in 
+1985. This Legislation created the New Jersey 
+Council on Affordable Housing (COAH), and 
+assigned COAH primary jurisdiction” to implement 
+the policies embodied in that Legislation. To 
+implement its policies, the Legislature charged 
+COAH with adopting regulations from “time to 
+time.” Since a grant of substantive certification by 
+COAH, like the entry of a Judgment of Repose from 
+a court, gave municipalities only six years or 
+protection, it was particularly important for COAH to 
+adopt regulations from time to time. In this way, at 
+any time, a municipality would have available to it a 
+body of regulations by which it could determine its 
+obligations and select from a menu of techniques to 
+comply with its obligations. 
+In 1986, COAH adopted regulations for the First 
+Round obligation, which covered the years 1987 to 
+1993. In 1994, COAH adopted Second Round 
+regulations that established cumulative fair share 
+2015: Mount Laurel IV
+COAH defunct and moribund. All 
+affordable housing matters to be heard 
+by courts
+1986: Mount Laurel III
+Every municipality has an obligation if 
+any portion of municipality was within 
+the “Growth Share Area” of the State 
+Development and Redevelopment Plan
+1983: Mount Laurel II
+Every municipality has an obligation if 
+any portion of municipality was within 
+the “Growth Share Area” of the State 
+Development and Redevelopment Plan
+1975: Mount Laurel I
+Every developing municipality has an 
+affordable housing obligation
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 12 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 13 =====
+ 
+~ 6 ~ 
+numbers for Rounds 1 and 2 (19870-1999).  In 2004, COAH adopted the first set of Round 
+3 regulations. In contrast to the regulations in Rounds 1 and 2 that established fair shares 
+based upon a determination of regions, the regional need and the allocation of the 
+regional need, the Round 3 regulations took a “growth share” approach to determining a 
+municipality’s fair share.  
+In January 2007, the Appellate Division invalidated various aspects of these rules and 
+remanded considerable portions of the rules to COAH with the directive to adopt revised 
+regulations. 
+In May 2008, COAH adopted revised Third Round regulations which were published and 
+became effective on June 2, 2008. Coincident to this adoption, COAH proposed 
+amendments to the rules they had just adopted, which subsequently went into effect in 
+October 2008. The second iteration of the Round 3 regulations, like the first, relied on a 
+growth share approach. 
+On October 2010, the Appellate Division invalidated the second version of the Round 3 
+regulations largely because COAH had once again taken a growth share approach. The 
+Appellate Division gave COAH five months to adopt new regulations that established fair 
+share obligations in the manner that it established regulations in Rounds 1 and 2 and not 
+through growth share.  
+In September 2013, the Supreme Court decided the challenges to the Appellate Division’s 
+rulings in October of 2010. The Supreme Court affirmed the Appellate Division’s decision 
+and again gave COAH five months to adopt new regulations that established fair share 
+obligations in the manner that it established regulations in Rounds 1 and 2 and not 
+through growth share.  
+COAH proposed regulations similar to those it adopted in Rounds 1 and 2 to establish fair 
+share obligations. It considered thousands of comments to its proposed regulations, and 
+it scheduled a hearing to consider the adoption of Round 3 regulations. However, when it 
+came time to vote on the regulations, COAH deadlocked 3-3. More importantly, COAH 
+took no action in the wake of that deadlock to break the deadlock.  
+In response to the deadlock and the Supreme Court’s ruling that there would be 
+consequences if COAH failed to adopt lawful Round 3 regulations, Fair Share Housing 
+Center, who was a party in both the 2010 and 2013 cases, filed a motion in aid of litigants’ 
+rights with the New Jersey Supreme Court.  
+The Court heard the motion on January 6, 2015, and issued its ruling on March 10, 2015. 
+In that decision, commonly referred to as “Mount Laurel IV”, the Court ruled that COAH 
+was “moribund” and consequently turned over the tasks of implementing the Fair 
+Housing Act back to the trial courts where it had originally been prior to the creation of 
+COAH in 1985. In addition, Mount Laurel IV created a process in which municipalities may 
+secure protection from exclusionary zoning suits by filing a declaratory judgment action 
+seeking a declaration that a Housing Element and Fair Share Plan  is constitutionally 
+compliant and applying for immunity while the court is processing the application for 
+approval of a Housing Element and Fair Share Plan. 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 13 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 14 =====
+ 
+~ 7 ~ 
+On January 18, 2017, the Supreme Court addressed 
+an issue unresolved up to that point: namely, what if 
+any is the responsibility of municipalities with 
+respect to the so-called “gap period.”  The gap 
+period is the time between 1999 and 2015, when all 
+agree Round 4 would commence. The Court 
+expanded the obligation of municipalities to 
+address the present and prospective needs by 
+requiring them to accept an obligation for 
+affordable housing for the gap period. 
+In Mount Laurel IV, the Supreme Court ended its 
+opinion as follows: 
+“It is our hope that an administrative remedy will 
+again become an option for those proactive 
+municipalities that wish to use such means to obtain 
+a determination of their housing obligations and 
+the manner in which those obligations can be 
+satisfied.” 
+However, before COAH could be reconstituted and 
+against the backdrop of litigation seeking to compel 
+Governor Murphy to comply with the Fair Housing 
+Act and nominate members to the COAH Board, the 
+Senate President and Speaker of the House 
+announced that there would be new legislation that 
+would abolish COAH. That announcement was 
+made in December of 2024.  
+On March 20, 2024, after enormous pressure was 
+applied to support new legislation, the Legislature 
+adopted, and the Governor signed an amendment 
+to the Fair Housing Act to abolish COAH and make 
+substantial changes. This plan refers to the Fair Housing act as amended as FHA II. 
+FHA II established standards for determining fair share obligations and assigned the DCA 
+with the task of preparing a non-binding report setting forth the fair share of every 
+municipality based on those standards. FHA II also created the Affordable Housing 
+Dispute Resolution Program (the “Program”) and tasked the Program with trying to 
+resolve disputes over the obligations generated by the fair share formula embedded in 
+the Act in the first instances and then with the affordable housing plans municipalities 
+adopted and endorsed to comply with their obligations in the second instance. 
+These regulations were challenged and in January 2007, the Appellate Division invalidated 
+various aspects of these rules and remanded considerable portions of the rules to COAH 
+with the directive to adopt revised regulations. 
+2024: A-4/S-50
+New Jersey adopts new legslation which 
+overhauls the FHA. COAH is elimianted, 
+and its duties are split between the DCA 
+and the AOC. 
+2018: Jacobson Decision
+Established methodology in Mercer 
+County for determining housing 
+obligation. Being utilized outside of 
+Mercer County for settlement purposes
+2017: Gap Period
+Finds that gap period (1999-2015) 
+generates an affordable housing 
+obligation
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 14 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 15 =====
+ 
+~ 8 ~ 
+What is a Housing Element and Fair Share Plan? 
+A Housing Element and Fair Share Plan (HE&FSP) serves as the blueprint for how a 
+municipality will address its fair share of affordable housing. It is designed to help a 
+community broaden the accessibility of affordable housing.  
+While technically a discretionary component of a 
+municipal master plan, a HE&FSP is nevertheless an 
+effectively obligatory plan element. As established 
+by NJSA 40:55D-62.a of the Municipal Land Use 
+Law (MLUL), a municipality must have an adopted 
+HE&FSP in order to enact its zoning ordinance. 
+Thus, from a public policy perspective, a HE&FSP is 
+an essential community document. Moreover, 
+without a HE&FSP, a municipality may be susceptible to a builder’s remedy lawsuit in 
+which a developer could file suit to have a specific piece of property rezoned to permit 
+housing at higher densities than a municipality would otherwise allow, provided a certain 
+percentage of units are reserved as affordable. 
+The current version of the Fair Housing Act – FHA II – requires a housing element to 
+include the following components: 
+1. An inventory of the municipality’s housing stock by age, condition, purchase or 
+rental value, occupancy characteristics, and type, including the number of units 
+affordable to low- and moderate-income households and substandard housing 
+capable of being rehabilitated; 
+2. A projection of the municipality’s housing stock, including the probable future 
+construction of low- and moderate-income housing, for the next ten years, taking 
+into account, but not necessarily limited to, construction permits issued, 
+approvals of applications for development and probable residential development 
+of lands; 
+3. An analysis of the municipality’s demographic characteristics, including but not 
+necessarily limited to, household size, income level and age; 
+4. An analysis of the existing and probable future employment characteristics of the 
+municipality; 
+5. A determination of the municipality’s present and prospective fair share for low- 
+and moderate-income housing and its capacity to accommodate its present and 
+prospective housing needs, including its fair share for low- and moderate-income 
+housing; 
+6. A consideration of the lands that are most appropriate for construction of low- 
+and moderate-income housing and the existing structures most appropriate for 
+conversion to, or rehabilitation for, low- and moderate-income housing, including 
+a consideration of lands of developers who have expressed a commitment to 
+provide low- and moderate-income housing; 
+The Municipal Land Use Law 
+(MLUL) is the enabling 
+legislation for municipal land 
+use and development, planning, 
+and zoning for the State of New 
+Jersey.  
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 15 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 16 =====
+ 
+~ 9 ~ 
+7. An analysis of the extent to which municipal ordinances and other local factors 
+advance or detract from the goal of preserving multigenerational family 
+continuity as expressed in the recommendations of the Multigenerational Family 
+Housing Continuity Commission; 
+8. For a municipality located within the jurisdiction of the Highlands Water 
+Protection and Planning Council, an analysis of compliance of the housing 
+element with the Highlands Regional Master Plan of lands in the Highlands 
+Preservation Area, and lands in the Highlands Planning Area for Highlands 
+conforming municipalities; 
+9. An analysis of consistency with the State Development and Redevelopment Plan, 
+including water, wastewater, stormwater, and multi-modal transportation based 
+on guidance and technical assistance from the State Planning Commission. 
+Glen Rock’s Affordable Housing History 
+The following summarizes the Borough’s numerous efforts to address affordable housing 
+in Glen Rock as obtained from the narrative provided in the Borough’s 2020 Housing Plan 
+report.  
+The Borough of Glen Rock has prepared several Housing Elements and Fair Share Plans 
+over the years to address its affordable housing obligations. As noted above, COAH had 
+originally adopted a ‘fair share’ methodology to determine housing-need numbers for all 
+municipalities in the state in 1987 and again in 1994. 
+The Borough’s initial effort to address its Mount Laurel obligation was set forth in a 
+substantive certification by COAH on February 26, 1990, whereby Glen Rock Housing and 
+Fair Share Plan noted a low and moderate income housing obligation of 207 units which 
+was reduced to 0 after a vacant land adjustment was granted as part of the first round 
+certification.  Following the time period of second round certification, Glen Rock 
+submitted and received second round certification on October 2, 1996, which identified a 
+second-round obligation of 118 units new construction and rehabilitation of 31 units. The 
+Borough at that time received confirmation that they were entitled to a vacant land 
+adjustment which identified again an RDP of 0 units while also granted a waiver from 
+N.J.A.C. 5:93-4.1(b) from providing mechanisms to address unmet need. The borough also 
+received 2 rehabilitation credits bringing the rehabilitation obligation to 29 units at the 
+time. 
+The Borough of Glen Rock also prepared and submitted a series of Third Round plans to 
+address the former criteria under growth share. The Borough adopted a Housing Element 
+and Fair Share Plan to address the Third-Round obligation on November 3, 2005 which 
+was submitted to COAH for certification. COAH subsequently issued a report on July 21, 
+2006 requesting additional information wherein the Borough responded with an 
+amended plan on October 13, 2006.  
+The amended plan was not certified by COAH since there was litigation regarding the use 
+of the growth share formulas. In 2010, the Appellate Division again invalidated COAH’s 
+revised Third Round rules, including the “growth share” methodology that COAH had 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 16 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 17 =====
+ 
+~ 10 ~ 
+promulgated in 2007 to determine municipalities’ fair share affordable housing 
+obligations.  This ruling established that the Housing Element and Fair Share Plan 
+submitted by the Borough of Glen Rock in 2006, was invalid due to the change in the 
+methodology to formulate a plan so the Borough awaited the production of new rules by 
+which to address affordable housing need. On September 26, 2013, the Court affirmed 
+the Appellate Division’s decision striking down COAH’s Third Round rules and ordered 
+COAH to promulgate new regulations in accordance with its first and second round 
+regulations. 
+It is evident by the efforts noted above that the Borough of Glen Rock has continuously 
+strived to address their affordable housing requirements as determined by COAH.  
+Irrespective of ongoing changes in these requirements that have been totally out of the 
+control of the Borough, Glen Rock has actively sought to generate affordable housing 
+using other mechanisms. The Borough received its final Judgment of Repose in Round 3, 
+dated October 11, 2023, based upon the laws established by Mount Laurel IV. The 
+Borough has actively managed spending to realize and establish locations where 
+affordable housing can be established using their Affordable Housing Trust Fund (see the 
+attached Spending Plan) and sought to incorporate affordable units through municipal 
+board review of new applications for development. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 17 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 18 =====
+ 
+~ 11 ~ 
+Section 2: Housing Element 
+The following section provides the housing element for the Borough of Glen Rock. It 
+offers an overview of its community, as well as back information regarding its population, 
+housing, and employment characteristics. It also provides a projection of the Borough’s 
+housing stock and its employment projections. 
+ 
+1. United States Decennial 
+Census 
+The US Census is described in Article I, Section 2 
+of the Constitution of the United States, which 
+calls for an enumeration of the people every ten 
+years for the apportionment of seats in the 
+House of Representatives. Since the time of the 
+first Census conducted in 1790, it has become 
+the leading source of data about the nation’s 
+people and economy. Please note that all 
+incomes reported in the Census are adjusted for 
+inflation. 
+4. New Jersey Department of 
+Community Affairs (DCA) 
+The New Jersey Department of Community 
+Affairs is a governmental agency of the State 
+of New Jersey. Its function is to provide 
+administrative guidance, financial support, 
+and technical assistance to local 
+governments, community development 
+organizations, businesses, and individuals to 
+improve the quality of life in New Jersey. 
+ 
+2. American Community Survey 
+(ACS) 
+The American Community Survey is a 
+nationwide ongoing survey conducted by the 
+US Census Bureau. The ACS gathers information 
+previously contained only in the long form 
+version of the decennial census, such as age, 
+ancestry, educational attainment, income, 
+language proficiency, migration, disability, 
+employment, and housing characteristics. It 
+relies upon random sampling to provide 
+ongoing, monthly data collection. Please note 
+that all incomes reported in the ACS are 
+adjusted for inflation. 
+5. New Jersey Department of Labor 
+and Workforce Development 
+The New Jersey Department of Labor and 
+Workforce Development is a governmental 
+agency of the State of New Jersey. One of its 
+roles is to collect labor market information 
+regarding employment and wages 
+throughout the state.  
+ 
+3. New Jersey Department of Health 
+The New Jersey Department of Health is a 
+governmental agency of the State of New 
+Jersey. The department contains the Office of 
+Vital Statistics and Registry, which gathers data 
+regarding births, deaths, marriages, domestic 
+partnerships, and civil unions. 
+ 
+ 
+Information Regarding Data Sources 
+The information contained in Section 2.2 entitled “Population Demographics,” Section 
+2.3 entitled “Inventory of Housing Stock,” Section 2.4 entitled “Employment 
+Demographics,” and Section 2.5 entitled “Housing & Employment Projections” was 
+obtained from a variety of publicly available data sources. These are summarized below: 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 18 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 19 =====
+ 
+~ 12 ~ 
+2.1: Community Overview 
+The Borough of Glen Rock is located in the northwesterly portion of Bergen County. It is 
+bounded by five municipalities, including: the Village of Ridgewood to the north; the 
+Borough of Paramus to the east; the Borough of Fair Lawn to the south, the Borough of 
+Hawthorne to the southwest and the Township of Wyckoff to the northwest. The Borough 
+is essentially a fully developed community with very little vacant land remaining for 
+development. 
+The total land area of the Borough is 1464.6 acres (without streets/roads). The Borough 
+currently contains 4,166 parcels. The majority of the Borough is primarily characterized by 
+residential development. In fact, over 1,039.2 acres of the municipality’s total land area 
+(93.45 percent) consists of residential uses. 
+Commercial land uses account for a total of 63.6 acres, or approximately 2.47 percent of 
+the Borough’s total land use area. Industrial land use constitutes the largest commercial 
+use with 110 parcels covering 83.6 acres. 
+Land uses under the Public/Semi-Public classification comprise the second largest land 
+use category in Glen Rock, accounting for 280.4 acres, or 2.3 percent of the Borough’s 
+total land area. Semi-public land uses, including places of worship and other non-profit 
+organizations, account for 0.38 percent of the Borough’s total land area, while schools 
+comprise an additional 1.78 percent.  
+The Borough contains one Class I rail line that traverses the Borough from North to 
+South. The rail line covers more than 33 acres in the Borough.  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 19 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 20 =====
+ 
+~ 13 ~ 
+Table 3: Existing Land Uses  
+Land Use 
+ 
+Acres 
+% of Total Acres 
+Parcels 
+% of Total Parcels 
+Residential 
+Low Density 
+1022.9 
+69.84% 
+3768 
+90.45% 
+Multifamily 
+16.3 
+1.11% 
+125 
+3.00% 
+Commercial 
+Commercial 
+63.6 
+4.34% 
+103 
+2.47% 
+Other 
+0.0 
+0.00% 
+0 
+0.00% 
+Public/Semi-
+Public 
+Municipal Property 
+196.2 
+13.40% 
+74 
+1.78% 
+Public School 
+55.0 
+3.76% 
+6 
+0.14% 
+Church & Charitable 
+29.2 
+1.99% 
+16 
+0.38% 
+Other 
+Vacant 
+8.6 
+0.59% 
+34 
+0.82% 
+Industrial 
+20.0 
+1.37% 
+7 
+0.17% 
+Rail/Utility 
+49.6 
+3.39% 
+23 
+0.55% 
+Other Exempt  
+3.2 
+0.22% 
+10 
+0.24% 
+Source: ArcGIS Calculations 
+Regional access to the Borough is provided by several county and state roadways. 
+Circulation north to south is provided by Maple Avenue (County Route 507), Harristown 
+Road (County Route 128), Ackerman Avenue (Route 9A) and the Boulevard and Doremus 
+Avenue which provide access to NJ State Route 208 from the south. Rock Road (County 
+Route 134) and Grove Street with connections to Route 17 and Garden State Parkway in 
+the Borough of Paramus to the east. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 20 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 21 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 21 of 71
+Trans ID: LCV20251809422
+Map 1: Existing Land Use
+gs
+3
+b
+2
+#
+az
+22
+5
+E
+a
+-
+if
+§
+~
+2$4
+f fe
+aé
+|
+4
+:
+ae
+ge
+iaF
+33:
+a6
+:
+i
+2g:
+,¢|
+S38 3
+&
+g2%
+222,
+_=-3 83?
+7
+2
+H
+a2 dgf| SHS
+u
+i
+gis.
+22228395 228
+So
+yeeef ei"e
+5
+my
+:
+ef
+1 CTR TLTEGELTE
+lH}
+ga |'
+Wrtele, |,
+aul;
+8
+HOO
+M08 BEMTEOEOOE
+a
+LE
+ALE]
+Haasliss
+re
+~
+OO
+te,we
+;
+;
+Poe
+MS \eto a
+:
+-
+2
+eA ON
+\yititinnTee
+AS
+We
+:
+GED Se
+panes
+oss
+COO
+EN
+SON
+cy
+"
+\s'
+Oo
+tH\s
+¢
+F3
+Ss
+Ss
+08!
+Bo.
+ve
+5
+RGR
+er
+&
+i
+ue rahi SNES,
+UL)
+eynsiee
+sats
+ULEGe
+Saree
+ILions
+PALS aR Ws
+G7
+‘
+‘
+oF
+One|
+Pree
+cath
+ni
+:
+mitts seseals
+ANS
+\
+‘
+;
+NE:
+SO WeeSat) a
+aati
+cas ya
+ScAH
+SS
+<7
+iS
+424:
+pe
+COD
+cK
+Xo
+om
+eG
+ON
+as
+ST
+henere
+Ei
+a
+a
+AC
+oe
+ms
+cet
+3.
+a
+a!
+nae
+&
+ree
+oy,
+athe
+ie
+penitent
+leva
+youay
+aeROT
+cwib
+Apaetius
+a
+Ta
+Oy
+q
+WaT
+Crier
+oes
+CRON
+csas
+v7 Mp ITS
+We, AN alii
+e
+SSNRU
+Me
+xo]
+_
+Zz)
+a&
+[BES SOpliz
+hy
+IDF
+<=
+SIA
+cf
+BRAS
+i
+BSN
+cies
+SS
+Sag
+CORES
+<
+AVES
+SS
+QD
+of
+DLONSISERS
+iG
+WASAS NS
+Ss
+IES EO NOR
+3
+CEN
+Si
+SEY.
+OOS
+INDS
+SSIES
++o eae
+IU
+Ole
+LILKOS
+my
+SUF
+yt
+WU
+NNO Ub OS
+:
+EVR
+1
+PA DOS ERISA
+Lp
+SMR
+\e6 Ni
+MOY ROSTNES
+aS
+Np Stn
+PeMionLL
+SOROSOS
+EO
+SE
+A
+RS
+UMMA
+.
+LTS
+Lei
+au IES Se CRED
+,
+Maan Naked
+// 8 WEES
+EEE
+Ue
+g
+o
+ms Ws SS
+Sess re
+Ene>
+<
+Aine
+a
+alae as Balad
+mu
+ES HSN
+pel
+sana;
+wby,
+i
+ee,
+~14~
+
+===== PAGE 22 =====
+ 
+~ 15 ~ 
+2.2: Demographic and Population Data 
+Analyzing demographic and population data is a necessary and integral step in planning 
+for the future needs and demands of a community. As such, the following section outlines 
+the demographic changes experienced by the Borough of Glen Rock over the past several 
+decades. 
+This section is an analysis of demographic information is obtained from the 2010 
+Decennial Census as well as the 2010 and 2023 American Community Survey (ACS) 5-year 
+estimates. The ACS data consists of estimates based upon data averages across a five-
+year span, otherwise known as “period” estimates. They are not actual counts, rather they 
+are representative of data collected over a period of time and thus may not be directly 
+comparable to decennial census figures. For example, the 2023 ACS includes data 
+collected from 2019, 2020, 2021, 2022 and 2023. The following provides an assessment of 
+population size, rate of population growth, age characteristics, as well as household size 
+and income levels. Each of these items is described in detail below. This information is 
+vital for the Borough to carefully plan for the current and future needs of its residents and 
+the community.  
+Population Changes 
+The Borough experienced a slight decline in population from 1970 to the 1990s. The 
+reduction in the population at that time could be attributable to the aging population 
+and homes with children aging into adulthood and moving onto new locations. The 
+Borough regained the losses by the year 2020 although is also experiencing loss of 
+population more recently according to the ACS 2023 estimates  
+Table 44: Population Growth, 1950-2023 
+Year 
+Population 
+Population Change 
+Percent Change 
+1950 
+7,145 
+  
+  
+1960 
+12,896 
+5,751 
+45% 
+1970 
+13,011 
+115 
+1% 
+1980 
+11,497 
+-1,514 
+-13% 
+1990 
+10,883 
+-614 
+-6% 
+2000 
+11,546 
+663 
+6% 
+2010 
+11,601 
+55 
+0% 
+2020 
+12,133 
+532 
+4% 
+2023 
+12,082 
+-51 
+4% 
+Source: US Census Bureau; 2020 Decennial Census, 2023 American Community Survey Five-Year Estimate 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 22 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 23 =====
+ 
+~ 16 ~ 
+Age Characteristics 
+As shown in the age distribution table below, the Borough’s age characteristics show a 
+slight increase in median age from 39.5 years in 2000 to 40 according to the 2023 ACS 
+data. The largest age cohort in 2023 represented 19.4% of the population (45-54 age 
+group) was also the largest cohort in 2010 (19.4%). The age groups showing declines 
+between the 2010 census and the 2023 ACS data appear to be 25-34, 35-44, and 55-64. 
+Table 55:  Age Characteristics, 20000, 2010 and 2023 
+  
+Age 
+Group 
+2000 
+2010 
+2023* 
+Pop 
+% 
+Pop 
+% 
+  Pop 
+% 
+under 5 
+962 
+8.3% 
+703 
+6.1% 
+872 
+7.2% 
+5-14 
+1,987 
+17.2% 
+2,130 
+18.4% 
+2292 
+19.0% 
+15-24 
+897 
+7.8% 
+1,235 
+10.6% 
+1672 
+13.8% 
+25-34 
+954 
+8.3% 
+643 
+5.5% 
+466 
+3.9% 
+35-44 
+2,214 
+19.2% 
+1,643 
+14.2% 
+1586 
+13.1% 
+45-54 
+1,874 
+16.2% 
+2,253 
+19.4% 
+2347 
+19.4% 
+55-64 
+1,079 
+9.3% 
+1,494 
+12.9% 
+1300 
+10.8% 
+65-74 
+742 
+6.4% 
+729 
+6.3% 
+697 
+5.8% 
+75-84 
+644 
+5.6% 
+529 
+4.6% 
+606 
+5.0% 
+85+ 
+193 
+1.7% 
+242 
+2.1% 
+244 
+2.0% 
+Total 
+11,546 
+100 
+11,601 
+100 
+12,082 
+100 
+ Median 
+Age 
+39.5 
+40.8 
+40.0 
+  Sources: U.S. Census; & 2023 American Community Survey 5-Year Estimates. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 23 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 24 =====
+ 
+~ 17 ~ 
+Household Tenure and Occupancy 
+The data shown on the following table indicates that the breakdown between the share 
+of owner occupied and rental occupied units has remained largely the same since 2010 
+with the majority of units being owner occupied. Housing vacancies have decreased over 
+this time frame from 9.72% in 2010 to 5.30% in 2023.  
+Table 6: Owner-Occupied and Renter-Occupied Units, 2000-2023 
+ 
+2000 
+2010 
+2023* 
+Category 
+# of Units 
+% 
+# of Units 
+% 
+# of Units 
+% 
+Owner Occupied 
+3,677 
+91.4% 
+3,612 
+90.0% 
+3,341 
+89.0% 
+Renter Occupied 
+300 
+7.5% 
+305 
+7.6% 
+337 
+8.9% 
+Vacant Units 
+47 
+1.2% 
+99 
+2.4% 
+77 
+2.1% 
+Total 
+4,024 
+100 
+4,016 
+100 
+3,755 
+100 
+Sources: U.S. Census; & 2023 American Community Survey 5-Year Estimates 
+Average Household Size 
+The census data shown below presents how the Borough’s average household size 
+increased from 3.11 in 2010 to 3.3 in 2023 while the Bergen County average household 
+size remained somewhat steady at 2.66 over the same time period. The total population 
+increased from 2010 to 2023, while the number of households slightly increased over the 
+same span according to the estimates.  
+Table 7: Average Household Sizes, 2010-2023 
+Year 
+Total Population 
+Number of 
+Households 
+Average Household 
+Size 
+Glen Rock 
+Average Household 
+Size 
+Bergen County 
+2000 
+11,546 
+3,977 
+2.90 
+2.89 
+2010 
+11,601 
+3,708 
+3.11 
+2.63 
+2023* 
+12,082 
+3,755 
+3.30 
+2.66 
+Sources: U.S. Census; & 2023 American Community Survey 5-Year Estimates 
+Household Income 
+The following data from the 1999 census and the 2023 ACS indicates that the median 
+household income in Glen Rock increased more than 50% from 1999 to 2023 increasing 
+from $104,192 to $210,369. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 24 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 25 =====
+ 
+~ 18 ~ 
+Table 8: Household Incomes, 1999-2023 
+Income Category 
+1999 
+2023* 
+Number  
+% 
+Number 
+% 
+less than $10,000 
+77 
+1.9 
+40 
+1.1 
+$10,000 to $14,999 
+39 
+1.0 
+24 
+0.7 
+$15,000 to $24,999 
+169 
+4.3 
+17 
+0.5 
+$25,000 to $ 34,999 
+200 
+5.0 
+101 
+2.7 
+$35,000 to $ $49,999 
+254 
+6.4 
+63 
+1.7 
+$50,000 to $74,999 
+553 
+13.9 
+219 
+6.0 
+$75,000 to $99,999 
+570 
+14.4 
+204 
+5.5 
+$100,000 to $149,999 
+862 
+21.7 
+656 
+17.8 
+$150,000 to $199,000 
+557 
+14.0 
+374 
+10.2 
+$200,000 or more 
+685 
+17.3 
+1980 
+53.8 
+Total  
+3,966 
+100 
+3,678 
+100 
+Median Income (Household) 
+$104,192 
+$210,369 
+Source: US Census Bureau; 2023 American Community Survey 5-Year Estimates. 
+2.3: Inventory of Housing Stock 
+This section of the analysis provides an inventory of the Borough’s housing stock. The 
+inventory details housing characteristics such as age, condition, purchase/rental value and 
+occupancy. It also details the number of affordable units available to low- and moderate-
+income households and the number of substandard housing units capable of being 
+rehabilitated. As previously noted, the latest information from the American Community 
+Survey consists of five-year estimates by the Census Bureau, not actual counts and may 
+not be directly comparable to census figures.  
+Number of Housing Units 
+As illustrated in the table below, the overall number of housing units within the Borough 
+has continued to increase from the 1980s through 2010. Understandably, the slowest 
+percentage increase in numbers was between 2000 and 2010 during the Great Recession. 
+What seems to be an ACS estimation anomaly, the number of units decreases from 2010 
+to 2023 although it is unclear why this is the result in the data since it is very unlikely 
+there was such a reduction in total housing units.. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 25 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 26 =====
+ 
+~ 19 ~ 
+Table 9: Housing Units, 1970-2023 
+Year 
+Housing 
+Units 
+Numerical 
+Change 
+% Change 
+1970 
+3,749 
+ 
+ 
+1980 
+3,777 
+28 
+0.7% 
+1990 
+3,963 
+186 
+4.9% 
+2000 
+4,024 
+61 
+1.5% 
+2010 
+4,016 
+-8 
+0.2% 
+2023* 
+3,755 
+-261 
+-0.6% 
+Source: US Census Bureau, 2023 ACS Five-Year Estimate 
+Units in Structure for Occupied Units 
+Information regarding the number of dwelling units in housing structures provides 
+insights into the types of housing which exist throughout the Borough. The following 
+table offers insights into the unit-composition of the Borough’s structures since 2000. 
+The Borough’s housing stock has historically been comprised of single-family detached 
+and attached dwellings. The 2023 ACS estimate data provided in the table below shows a 
+total of 3,375 single-family detached dwellings which amount to 90 percent of all housing 
+units in the Borough. This percentage is a decrease from 2010 when single-family 
+dwellings accounted for approximately 92.7 percent. There was an increase from 2000 to 
+2023 in the number of structures containing 10 units or more which represents 2.8 
+percent of overall units. 
+ Table 10: Units in Structure, 2000, 2010, 2023 
+Units in Structure 
+2000 
+2010* 
+2023** 
+No. 
+% 
+No. 
+% 
+No. 
+% 
+Single Family, Detached 
+3,751 
+93.2% 
+3,624 
+92.7% 
+3,375 
+89.9% 
+Single Family, Attached 
+94 
+2.3% 
+114 
+2.9% 
+127 
+3.4% 
+2 
+71 
+1.8% 
+73 
+1.9% 
+132 
+3.5% 
+3 or 4 
+26 
+0.6% 
+10 
+0.2% 
+6 
+0.2% 
+5 to 9 
+5 
+0.1% 
+0 
+0.0% 
+0 
+0.0% 
+10 to 19 
+0 
+0.0% 
+0 
+0.0% 
+31 
+0.8% 
+20+ 
+77 
+1.9% 
+88 
+2.3% 
+74 
+2.0% 
+Mobile Home 
+0 
+0.0% 
+0 
+0.0% 
+10 
+0.3% 
+Other 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+*  2010 data is the average between January 2006 and December 2010. 
+* 2022 data is the average between January 2018 and December 2022. 
+Sources: 2000 U.S. Census; 2010 and 2022 American Community Survey 5-Year Estimates. 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 26 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 27 =====
+ 
+~ 20 ~ 
+Purchase and Rental Value of Housing Units 
+The following two tables identify purchase values and rental values for the specified 
+owner-occupied and renter-occupied units in Tenafly. 
+As shown in Table 11 the purchase values of the Borough’s owner-occupied housing 
+stock have typically exceeded those of the State of New Jersey and have been somewhat 
+commensurate to those of Bergen County. Over the past thirteen years, the median value 
+of the Borough’s owner-occupied housing stock is estimated to have increased 
+approximately 132%, from $618,800 in 2010 to $817,300 in 2023. This represents a lower 
+percentage increase than that of the County (145.8%) and the State (169.9%). 
+The median contract rental value in the borough has typically remained higher than both 
+Bergen County and the State of New Jersey. Over the past twenty-three years, the median 
+gross rent increased approximately 61.3%. This represents a lower percentage increase 
+than that experienced by the County (99.9%) and the State (99.8%). 
+Table 11: Value of Owner-Occupied Units, 2000-2023 
+ 
+ 
+ 
+2010 
+ 
+2023 
+Value Range 
+Number 
+Percent 
+Number 
+Percent 
+Less than $50,000 
+10 
+0.3% 
+31 
+0.9 
+$50,000 to $99,999 
+15 
+0.4% 
+18 
+0.5 
+$100,000 to $149,999 
+0 
+0.0% 
+88 
+2.6 
+$150,000 to $199,999 
+10 
+0.3% 
+21 
+0.6 
+$200,000 to $299,999 
+110 
+3.1% 
+11 
+0.3 
+$300,000 to $499,999 
+833 
+23.3% 
+184 
+5.5 
+$500,000 to $999,999 
+2382 
+66.7% 
+2033 
+60.9 
+$1,000,000 or More 
+213 
+6.0% 
+955 
+28.6 
+Total 
+3,573 
+100.0% 
+3,341 
+100.0% 
+Township Median Value 
+ 
+$618,800 
+  
+$817,300  
+Bergen County Median Value 
+ 
+$482,300 
+  
+$615,300  
+New Jersey Median Value 
+ 
+$357,000 
+  
+$461,000  
+Source: US Census Bureau; 2010 and 2023 American Community Survey Five-Year Estimates. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 27 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 28 =====
+ 
+~ 21 ~ 
+Table 12: Specified Renter Occupied Housing Units by Rent, 2000-2023 
+ 
+ 
+2000 
+ 
+2010 
+ 
+2023 
+Value Range 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Less than $200 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+$200 to $299 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+$300 to $499 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+$500 to $749 
+16 
+6.5% 
+0 
+0.0% 
+0 
+0.0% 
+$750 to $999 
+47 
+19.2% 
+9 
+6.7% 
+0 
+0.0% 
+$1,000 to $1,499 
+144 
+51.0% 
+50 
+37.0% 
+17 
+5.1% 
+$1,500 to $1,999 
+60 
+14.3% 
+47 
+34.8% 
+173 
+51.3% 
+$2,000 or more 
+- 
+- 
+- 
+- 
+147 
+43.6% 
+No Cash Rent 
+33 
+9% 
+29 
+21.5% 
+0 
+0.0% 
+Total 
+300 
+100.0% 
+135 
+100.0% 
+337 
+100.0% 
+Borough Median Value 
+ 
+$1,188  
+ 
+$1,425 
+  
+$1,938  
+Bergen County Median Value 
+ 
+$872  
+ 
+$1,236  
+  
+$1,743  
+New Jersey Median Value 
+ 
+$751  
+ 
+$1,092  
+  
+$1,498  
+Source: US Census Bureau; 2000, 2010 and 2023 American Community Survey Five-Year Estimates. 
+Deficient Housing Units 
+Neither the Census nor the ACS classify housing units as deficient. However, the Fair 
+Housing Act defines a “deficient housing unit” as housing which: is over fifty years old 
+and overcrowded; lacks complete plumbing, or; lacks complete kitchen facilities.  
+Accordingly, the following tables are intended to provide insights into the extent to which 
+the Borough has deficient housing units. Table  examines the extent to which there is 
+overcrowding in the Borough’s housing stock. Overcrowding is typically associated with 
+housing units with more than one occupant per room. As shown, the estimated number 
+of occupied housing units considered to be overcrowded is negligible 
+Table 13: Occupants Per Room (2023) 
+Occupants per Room 
+Owner-Occupied 
+Renter-Occupied 
+0.50 or Fewer 
+2,761 
+170 
+0.51 to 1.00 
+551 
+167 
+1.01 to 1.50 
+29 
+0 
+1.51 to 2.00 
+0 
+0 
+2.01 or More 
+0 
+0 
+Total 
+3,341 
+337 
+Source: 2023 American Community Survey Five-Year Estimates. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 28 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 29 =====
+ 
+~ 22 ~ 
+Table  below identifies housing units with complete plumbing and kitchen facilities. As 
+shown, all occupied units in the Borough were identified as having complete plumbing 
+and kitchen facilities. 
+Table 14: Plumbing and Kitchen Facilities (2023) 
+ 
+Units with Complete 
+Facilities 
+Units without Complete 
+Facilities 
+Plumbing 
+3669 
+0 
+Kitchen 
+3663 
+3 
+Source: 2023 American Community Survey Five-Year Estimates. 
+ 
+2.4: Housing and Employment Projection 
+The following section identifies the extent to which redevelopment housing and 
+economic development has occurred in the community, which can assist in the 
+determination of future residential and employment projections. 
+Recent Residential Development Activity 
+One way of examining the stability of a community’s housing stock is by comparing the 
+number of residential building permits issued for new construction as well as demolition 
+permits issued every year. Since 2016, the Borough has annually issued an average of 8.8 
+and 6.1 building permits and demolition permits, respectively. This results in an average 
+positive net of 3.0 permits annually. This is reflective of the Borough’s established 
+development pattern. 
+Table 15: Residential Building Permits and Demolition Permits 
+ 
+Building Permits 
+ 
+Year 
+1 & 2 Family 
+Multifamily 
+Total 
+Demos 
+Net 
+2016 
+6 
+0 
+6 
+5 
+1 
+2017 
+10 
+0 
+10 
+3 
+7 
+2018 
+11 
+0 
+11 
+14 
+-3 
+2019 
+8 
+0 
+8 
+4 
+4 
+2020 
+8 
+0 
+8 
+7 
+1 
+2021 
+8 
+0 
+8 
+6 
+2 
+2022 
+14 
+2 
+16 
+10 
+6 
+2023 
+6 
+0 
+6 
+0 
+6 
+Total 
+71 
+2 
+73 
+49 
+24 
+Source: Department of Community Affairs 
+ 
+Covered Employment 
+Figure 1 and Figure 2 below provide data on the Borough’s covered employment trends 
+between 2004 and 2023, as reported by the New Jersey Department of Labor and 
+Workforce Development. “Covered employment” refers to any employment covered 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 29 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 30 =====
+ 
+~ 23 ~ 
+under the Unemployment and Temporary Disability Benefits Law. Generally, nearly all 
+employment in the state is considered to be “covered employment.”  
+Figure 1 depicts the number of reported “employment units” within the Borough. An 
+“employment unit” is defined as an individual or organization which employs one or more 
+workers. As shown, the Borough experienced a fairly consistent loss of employment units 
+between 2003 and 2018. Since that time, however, the number of employment units has 
+remained relatively stable. As of 2023, there were a reported 347 employment units in the 
+Borough. 
+Similarly, employment levels have typically decreased since 2005. The most dramatic 
+decrease occurred between 2019 and 2020, wherein employment in the Borough 
+decreased by a reported 10.7%. This may be attributed to COVID-19 pandemic. Since that 
+time, employment in the Borough has increased. As of 2023, the Borough’s reported 
+covered employment was 3,361 individuals. 
+Figure 1: Covered Employment Units, 2003-2023 
+ 
+Source: Department of Labor and Workforce Development  
+381
+367
+357
+348
+378
+365
+371
+380
+370
+353
+345
+338
+341
+334
+331
+332
+347
+345
+345
+347
+347
+300
+310
+320
+330
+340
+350
+360
+370
+380
+390
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 30 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 31 =====
+ 
+~ 24 ~ 
+Figure 2: Covered Employment, 2003-2023 
+ 
+Source: Department of Labor and Workforce Development  
+ 
+ 
+3,588
+4,026
+3,777
+4,159
+3,932
+3,839
+3,833
+3,771
+3,678
+3,736
+3,517
+3,680
+3,704
+3,610
+3,547
+3,592
+3,543
+3,163
+3,251
+3,355
+3,361
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+4,000
+4,500
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 31 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 32 =====
+ 
+~ 25 ~ 
+Section 3: Fair Share Obligation 
+The following section provides an overview of the Borough’s fair share obligation. It 
+includes a brief overview of the methodology utilized to calculate affordable housing 
+obligations throughout the state. 
+3.1: Summary of Fair Share Obligation 
+On March 20, 2024, the State of New Jersey adopted a package of affordable housing 
+bills which overhauled the Fair Housing Act (FHA). 
+The FHA now designates the Department of Community Affairs (DCA) as the entity 
+responsible for calculating the state’s regional needs. Specifically, NJSA 52:27D-304.2 
+establishes the methodology to be utilized by the DCA to determine the state’s regional 
+prospective needs of low- and moderate-income housing for the ten-year period 
+spanning from July 1, 2025 to June 30, 2035. In summary, the projected household 
+change for this period is estimated by establishing the household change experienced in 
+each region between the most recent federal decennial census and the second-most 
+recent decennial census. This household change, if positive, is then to be divided by 2.5 to 
+estimate the number of low- and moderate-income homes needed to address low- and 
+moderate-income household change in the region for the next ten years. This 
+methodology resulted in a statewide prospective need of 84,698 low- and moderate-
+income units. 
+Furthermore, the DCA is also the entity responsible for calculating each municipality’s 
+present and prospective fair share obligations. However, the FHA makes clear that these 
+calculations are advisory and that each municipality must set its own obligation number 
+utilizing the same methodology. 
+On January 22, 2025, Glen Rock adopted Resolution #57-25 (see Appendix) which 
+accepted the DCA’s present and identified an adjustment to the prospective fair share 
+obligation calculations for the Borough. As noted earlier, the Borough’s Prospective Need 
+obligation was established at 201 affordable units by a Superior Court order issued on 
+June 4, 2025. The Borough did reserve the right to conduct a vacant land adjustment 
+(VLA) to determine its realistic development potential (RDP). This is discussed in greater 
+detail in the next subsection. 
+Table 166: Summary of Fair Share Obligation-Fourth Round 
+Affordable Obligation 
+Units 
+Present (Rehabilitation Need) Obligation 
+0 
+Fourth Round Obligation (2025-2035) 
+201 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 32 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 33 =====
+ 
+~ 26 ~ 
+3.2: Realistic Development Potential (RDP) 
+The Borough of Glen Rock is a fully developed community and received a series of 
+approvals to adjust its obligation in accordance with a procedure set forth in the FHA. 
+Specifically, N.J.S.A. 52:27D-310.1 permits municipalities to perform a realistic 
+development potential (RDP) analysis by seeking a vacant land adjustment (VLA).  
+An RDP analysis is intended to determine which sites in a municipality are most likely to 
+develop for low- and moderate-income housing. Municipalities may present 
+documentation that eliminates a site or part of a site from its inventory of vacant land. 
+Such eliminating factors include: lands dedicated for public uses other than housing since 
+1997; park lands or open space; vacant contiguous parcels in private ownership of a size 
+which would accommodate fewer than five housing units; historic and architecturally 
+important sites listed on the State Register of Historic Places or the National Register of 
+Historic Places; preserved architectural lands; sites designated for active recreation; and 
+environmentally sensitive lands. 
+A VLA was previously conducted for the Borough’s 2020 HE&FSP. This analysis identified 
+privately-owned and publicly owned vacant sites in the Borough, which encompass a total 
+of 19.89 acres. Of this total, 8.47 acres are comprised of vacant sites that are minimally 
+0.83 acres. The analysis then evaluated each site identified including the presence of 
+environmental constraints (wetlands, steep slopes, riparian zones, and flood plains), 
+pursuant to the applicable regulations at NJAC 5:93-4.2. This review of the applicable 
+environmentally sensitive features identified that only one vacant site, containing 0.71 
+acres, was applicable for the calculation in the VLA. 
+As required by the applicable regulations in order to fully evaluate the development 
+potential of the Borough, during negotiations of the Third Round settlement agreement, 
+the analysis of additional sites either having the potential to redevelop or to be included 
+for development were identified during the negotiations of the settlement agreement. 
+The properties that were identified included four properties. A minimum presumptive 
+density of twelve (12) dwelling units per acre was imposed on the 0.71 acres of vacant 
+land plus the 4 areas noted above. The result totaled an RDP of 25.8 which is required to 
+be rounded upward to 26 units. 
+A new review VLA has been conducted for the Borough. For the sake of continuity, it 
+includes many of the properties which were analyzed in the 2020 HE&FSP and one 
+additional lot not included. Next, wetland, steep slope, and floodplain information 
+pursuant to the applicable regulations were applied to these vacant sites. The remaining 
+acreage of sites, minimally 0.83 acres in size, was then recalculated. 
+This analysis revealed that there are no newly vacant properties which meet the 
+aforementioned 0.83-acre threshold. Therefore, the Borough’s RDP for the Fourth Round 
+is zero affordable units. A copy of the VLA can be found in Table 17. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 33 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 34 =====
+ 
+~ 27 ~ 
+Table 17: Vacant Land Adjustment 
+ID# 
+Block 
+Lot 
+Lot Area 
+Pre-Enviro 
+(AC) 
+Lot Area 
+Post 
+Enviro (ac) 
+Comments 
+New 
+Applied 
+Density 
+New RDP @ 
+20% (units) 
+1 
+80 
+9 
+0.15 
+0.15 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+2 
+127 
+17 
+0.16 
+0.00 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+3 
+23 
+14 
+0.16 
+0.14 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+4 
+49 
+8 
+0.29 
+0.25 
+Non-contributing 
+to RDP 
+0.00 
+0.00 
+5 
+238 
+26 
+0.09 
+0.09 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+6 
+49 
+6 
+0.23 
+0.23 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+7 
+128.04 
+1 
+0.26 
+0.21 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+8 
+238 
+23 
+0.07 
+0.07 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+9 
+26 
+8 
+0.11 
+0.09 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+10 
+42 
+8 
+0.01 
+0.01 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+11 
+21 
+19 
+0.14 
+0.14 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+13 
+37 
+24.02 
+0.09 
+0.06 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+14 
+128.03 
+1 
+0.84 
+0.64 
+Property owned 
+by PSE&G for OH 
+Lines  
+0.00 
+0.00 
+15 
+127 
+24 
+0.45 
+0.00 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+16 
+121 
+22 
+0.07 
+0.07 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+17 
+128.05 
+1 
+0.57 
+0.57 
+Property owned 
+by PSE&G for OH 
+Lines  
+0.00 
+0.00 
+18 
+48 
+1 
+0.09 
+0.08 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+19 
+238 
+24 
+0.08 
+0.07 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+20 
+128.02 
+1 
+3.59 
+2.58 
+Property owned 
+by PSE&G for OH 
+Lines  
+0.00 
+0.00 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 34 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 35 =====
+ 
+~ 28 ~ 
+ID# 
+Block 
+Lot 
+Lot Area 
+Pre-Enviro 
+(AC) 
+Lot Area 
+Post 
+Enviro (ac) 
+Comments 
+New 
+Applied 
+Density 
+New RDP @ 
+20% (units) 
+21 
+128.06 
+1 
+0.65 
+0.64 
+Property owned 
+by PSE&G for OH 
+Lines  
+0.00 
+0.00 
+22 
+87 
+3 
+0.06 
+0.02 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+23 
+227 
+7 
+0.25 
+0.25 
+Changed to Class 
+2 
+0.00 
+0.00 
+24 
+129 
+21 
+0.58 
+0.05 
+Non-Contributing 
+to RDP 
+  
+  
+25 
+127 
+19 
+0.83 
+0.36 
+Non-contributing 
+to RDP 
+0.00 
+0.00 
+26 
+46 
+7 
+0.16 
+0.00 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+27 
+221 
+7 
+0.24 
+0.24 
+Changed to Class 
+2 
+  
+  
+28 
+49 
+7 
+0.04 
+0.04 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+29 
+46 
+8 
+0.02 
+0.00 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+30 
+129 
+19 
+1.24 
+0.00 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+31 
+121 
+16 
+0.37 
+0.37 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+32 
+128.07 
+1 
+1.91 
+0.93 
+Property owned 
+by PSE&G for OH 
+Lines  
+0.00 
+0.00 
+33 
+127 
+23 
+0.90 
+0.00 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+34 
+129 
+20 
+0.20 
+0.00 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+35 
+40 
+13 
+0.04 
+0.04 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+36 
+238 
+25 
+0.04 
+0.04 
+  
+  
+  
+37 
+241 
+1 
+0.09 
+0.09 
+Non-Contributing 
+to RDP 
+0.00 
+0.00 
+38 
+181 
+3.02 
+0.45 
+0.45 
+Non-contributing 
+to RDP 
+0.00 
+0.00 
+39 
+127 
+2.02 
+1.37 
+1.37 
+Third Round RDP-
+lot area counted 
+as lot 2 before 
+subdivision 
+0.00 
+0.00 
+Total 
+0.00 
+0.00 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 35 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 36 =====
+ 
+~ 29 ~ 
+Map 2: Vacant Land Adjustment Map 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 36 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 37 =====
+ 
+~ 30 ~ 
+Section 4: Fair Share Plan 
+The following Fair Share Plan outlines the components and mechanisms the Borough will 
+utilize to address its affordable housing obligations. These obligations are summarized as 
+follows: 
+Table 18: Affordable Housing Obligation Summary 
+ 
+4.1: Prior Round Obligation 
+The Borough’s initial effort to address its Mount Laurel obligation was set forth in a 
+substantive certification by COAH on February 26, 1990, whereby Glen Rock Housing and 
+Fair Share Plan noted a low and moderate income housing obligation of 207 units which 
+was reduced to 0 after a vacant land adjustment was granted as part of the first round 
+certification.  Following the time period of second round certification, Glen Rock 
+submitted and received second round certification on October 2, 1996 which identified a 
+second-round obligation of 118 units new construction and rehabilitation of 31 units. The 
+Borough at that time received a confirmation that they were entitled to a vacant land 
+adjustment which identified again an RDP of 0 units while also granted a waiver from 
+N.J.A.C. 5:93-4.1(b) from providing mechanisms to address unmet need. The borough also 
+received 2 rehabilitation credits bringing the rehabilitation obligation to 29 units at the 
+time. 
+4.2: Third Round RDP and Unmet Need Obligation 
+Pursuant to a Settlement Agreement signed with FSHC and approved by Superior Court, 
+the Borough had a Third Round RDP of 26 units and a total Unmet Need of 393 units. 
+This Unmet Need was comprised of 118 units of Unmet Need from the Prior Round and 
+301 units of Unmet Need from the Third Round (inclusive of the gap period). 
+The Borough has constructed 34 affordable housing units (plus 7 bonus credits), which 
+are summarized in Table 14 below. Through the application of these units, the Borough 
+satisfied its RDP of 26 units and realized 8 excess credits which it can apply to Unmet 
+Need.  
+ 
+ 
+Category 
+Obligation 
+Prior Round Obligation (1987-1999) 
+118 
+Third Round Obligation (1999-2025) 
+301 
+Fourth Round Obligation (2025-2035) 
+201 (DCA 222) 
+Present Need (Rehabilitation) Obligation 
+0 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 37 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 38 =====
+ 
+~ 31 ~ 
+Table 19: Plan Components Addressing Third Round 26 unit RDP 
+Plan Component 
+Units 
+Rental 
+Bonus 
+Total 
+Status 
+For Sale Family Units   
+Trafalgar Square – 471 Doremus Avenue (B 43, L 1) 
+2 
+N/A 
+2 
+Completed 
+Alternative Living Arrangements (Group Homes) 
+Spectrum for Living 343 Highwood Avenue (B 17, L 15) 
+6 
+6 
+12 
+Completed 
+Spectrum for Living 641 Lincoln Avenue (B 76, L 14) 
+6 
+1 * 
+7 
+Completed 
+Life Opportunities 34 Valley Road (B 109, L 15) 
+3 
+- 
+3 
+Completed 
+BCUW/Madeline 15 Bradford Street (B 101, L 2) 
+4 
+- 
+4 
+Completed 
+Reed Next, Inc. 11 Jerome Avenue (B137, L18) 
+4 
+- 
+4 
+Completed 
+100% Affordable Family Rental (Nouvelle LLC) 
+261 Rock Road- (B 107, L 1) 
+11 
+- 
+11 
+Completed 
+23 Kenmore Place- (B 81, L 1) 
+2 
+- 
+2 
+Completed 
+Total (41-26 unit RDP=15 surplus credits) 
+38  
+7 
+45 
+ 
+*25% maximum bonus cap reached. 
+In addition, to the 19 surplus credits noted above, the Borough has approved a mixed-
+use inclusionary development at Glen Rock Mall containing 14 affordable units which 
+coincide with AHO-1 Overlay Zone.  This development is currently under construction. As 
+a result, the Borough has a total of 33 units to apply to the Unmet Need. The Borough 
+also adopted an affordable housing overlay zones (identified in Table 20 below) and a 
+municipal-wide mandatory set-aside ordinance.  
+Table 20: Overlay Parcels for Unmet Need 
+Plan Component 
+Total 
+Credits 
+Status/ 
+Surplus 
+Plan Surplus:  
+Third Round Surplus- 15 units available 
+19 
+Developed 
+Overlay Zoning: 
+AHO-1 Overlay Zone-1: Block 55 Lot 2-7 & 24 
+14 
+Approved 
+AHO-2 Overlay Zone: Block 111, 112, 115, 116,  varied lots  
+Up to 33 
+Zoned 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 38 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 39 =====
+ 
+~ 32 ~ 
+Map 3: Affordable Housing Sites and Unmet Need Zoning 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 39 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 40 =====
+ 
+~ 33 ~ 
+ 
+The FHA-2 requires that in addressing prior round obligations, the municipality shall 
+“demonstrate how any sites that were not built in the prior rounds continue to present a 
+realistic opportunity, which may include proposing changes to the zoning on the site to 
+make its development more likely, and which may also include the dedication of 
+municipal affordable housing trust fund dollars or other monetary or in-kind resources.” 
+While the unmet need is commonly held to a lesser opportunity standard than addressing 
+RDP the Borough has zoned some significant areas to support addressing some of this 
+need. 
+Accordingly, the following unbuilt components from the Third Round Obligation are 
+discussed.  
+Map 4: Block 111 Lots 1, 1.01, 1.02 thru 6, Block 112, Lots 1 thru 12, Block 115 Lots 13 
+thru 24 and Block 116 Lots 1 thru 5. 
+ 
+Source: NJ GeoWeb website aerial 2020 lot lines are approximate.  
+The parcels noted in these zones above are located in the central area of the Borough, 
+encompassing the majority of the Rock Road C-2 zone commercial area. They comprise a 
+collective area of approximately 8.42 acres. 
+AHO-1 
+AHO-2 
+AHO-2 
+AHO-2 
+AHO-2 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 40 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 41 =====
+ 
+~ 34 ~ 
+These properties are located in the Affordable Housing Overlay Zone -2 (AHO-2) District, 
+the purpose of which is to create a realistic opportunity for housing that is affordable to 
+low- and moderate-income households in a mixed-use environment. The zones permit a 
+density of 20 units per acre with an affordable housing set-aside of either twenty percent 
+for for-sale units or for-rent units. 
+While this component has not yet been constructed, the area continues to present a 
+realistic opportunity for the production of affordable housing. Specifically, the site 
+remains: 
+1. Approvable. The Borough has already approved an overlay zoning district for the 
+site permitting inclusionary mixed use multifamily development. 
+2. Available. There are no known title issues which would prohibit the development 
+of this site.  
+3. Developable. The site is located in a water and sewer service area 
+4. Suitable. The site is located in the Borough’s downtown, commercial shopping 
+centers, another multifamily use, and numerous NJ Transit bus stops in the 
+surrounding area. 
+4.3: Fourth Round RDP Obligation 
+As established in Section 3.2 of this plan, Glen Rock does not have an additional RDP 
+obligation in the Fourth Round since there were no additional parcels that qualify as 
+vacant or tracts that were developed with additional residential development that would 
+qualify as a “changed circumstance”. The Borough will continue to pursue the 
+development of affordable housing specifically the creation of a 2-bedroom very low 
+income unit at the Borough Annex property located on North Maple Avenue in 
+accordance with the Borough’s Spending Plan.  Further the Borough will continue to 
+implement the zoning permitted in the AHO-2 zone for mixed use development. 
+We note that FHA-2 includes language which requires VLA municipalities to satisfy at 
+least 25 percent of their Fourth Round RDP obligation through redevelopment. 
+Specifically, amended Section 1 of P.L.1995, c.231 (C.52:27D-310.1) of FHA-2 states: 
+Any municipality that receives an adjustment of its prospective need obligations for 
+the fourth round or subsequent rounds based on a lack of vacant land shall as part 
+of the process of adopting and implementing its housing element and fair share 
+plan identify sufficient parcels likely to redevelop during the current round of 
+obligations to address at least 25 percent of the prospective need obligation that 
+has been adjusted, and adopt realistic zoning that allows for such adjusted 
+obligation, or demonstrate why the municipality is unable to do so. 
+For the Fourth Round, Glen Rock “prospective need obligation that has been adjusted“ 
+(i.e., its RDP obligation) is zero units. As such, the Borough has a potential redevelopment 
+obligation of zero units, as 25 percent of 0 is 0. As identified in Table 15 above, the 
+Borough has affirmatively zoned for sites that would redevelop through the Unmet Need 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 41 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 42 =====
+ 
+~ 35 ~ 
+mechanisms in place during the Third Round.  This is particularly evident in the current 
+ongoing construction at Glen Rock Mall property. 
+4.4: Present Need Obligation 
+The Borough was assigned a Present Need (Rehabilitation) Obligation of zero units. 
+Nevertheless, the Borough will continue to participate in the Bergen County Housing 
+Improvement Program. 
+4.5: Other Provisions 
+The following additional requirements are noted: 
+1. Fourth Round Bonuses. Fourth-Round bonuses will be applied in accordance with 
+N.J.A.C. 52:27d-311.k. 
+ 
+2. Very-Low Income and Low-Income Units. At least 50 percent of the units 
+addressing the Fourth Round Prospective Need obligation shall be affordable to 
+very low-income and low-income households with the remainder affordable to 
+moderate-income households. A minimum of 13 percent of the affordable units 
+will be made available to very low-income households, defined as households 
+earning 30 percent or less of the regional median income by household size. 
+ 
+3. Rental Component. At least 25 percent of the Fourth Round Prospective Need 
+obligation shall be met through rental units, including at least half in rental units 
+available to families. 
+ 
+4. Families. At least half of the actual units created to address the Fourth Round 
+Prospective Need obligation must be available to families. 
+ 
+5. Age-Restricted Cap. No more than 30 percent of all units developed or planned 
+to meet the Fourth Round Prospective Need obligation shall be met with age-
+restricted units. 
+ 
+6. Development Fees. The Borough will continue to impose development fees as 
+permitted by COAH’s prior round rules. The funds generated by the collection of 
+development fees will be applied directly towards any activity approved by State 
+regulations for addressing the municipal fair share. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 42 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 43 =====
+ 
+~ 36 ~ 
+Table 217: RDP 26 Unit Analysis of Minimum and Maximum Requirements 
+Requirement 
+Requirement 
+Developed 
+Max. Age Restricted Units 
+6 
+0 
+Min. Rental Units 
+7 
+32 
+Min Rental Units Available to Families 
+4 
+13 
+Max. Rental Bonus Credits 
+7 
+7 
+Min. Units Available to Families 
+10 
+15 
+Min. Affordable Units Very Low Income  
+3 
+6 
+Min. Affordable Units to Very Low-Families 
+2 
+2 
+ 
+4.6: Consistency with State Planning Initiatives 
+As noted in Section 1, an HE&FSP must also include: 
+ An analysis of the extent to which municipal ordinances and other local factors 
+advance or detract from the goal of preserving multigenerational family 
+continuity as expressed in the recommendations of the Multigenerational Family 
+Housing Continuity Commission, and; 
+ An analysis of consistency with the State Development and Redevelopment Plan, 
+including water, wastewater, stormwater, and multi-modal transportation based 
+on guidance and technical assistance from the State Planning Commission. 
+Accordingly, the following subsection analyzes the consistency of this HE&FSP to the 
+above referenced state planning initiatives. 
+Multigenerational Family Housing Continuity Commission 
+The Multigenerational Family Housing Continuity Commission was established by the 
+State of New Jersey in 2021. As noted in NJSA 52:27D-329.20, one of the primary duties 
+of the Commission is to “prepare and adopt recommendations on how State government, 
+local government, community organizations, private entities, and community members 
+may most effectively advance the goal of enabling senior citizens to reside at the homes 
+of their extended families, thereby preserving and enhancing multigenerational family 
+continuity, through the modification of State and local laws and policies in the areas of 
+housing, land use planning, parking and streetscape planning, and other relevant areas.” 
+As of the date of this HE&FSP, the Multigenerational Family Housing Continuity 
+Commission has not et adopted any recommendations. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 43 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 44 =====
+ 
+~ 37 ~ 
+State Development and Redevelopment Plan 
+As established by NJSA 52:18A-200(f), the purpose of the State Development and 
+Redevelopment Plan (SDRP) is to “coordinate planning activities and establish Statewide 
+planning objectives in the following areas: land use, housing, economic development, 
+transportation, natural resource conservation, agriculture and farmland retention, 
+recreation, urban and suburban redevelopment, historic preservation, public facilities and 
+services, and intergovernmental coordination.” 
+As such, the SDRP establishes a number of goals and strategies related to a number of 
+different topics, including economic redevelopment. One such goal is to revitalize existing 
+urban centers by directing growth and development to those areas. Specifically, the SDRP 
+seeks to revitalize the State’s cities and towns by protecting, preserving, and developing 
+the valuable human and economic assets in cities, town, and other urban areas. 
+As indicated by the SDRP’s Policy Map, the entirety of the Borough is located in the PA-1 
+Metropolitan Planning Area, wherein development and redevelopment is intended to be 
+directed. The intent of this Planning Area is to: 
+ Provide for much of the state’s future redevelopment; 
+ Revitalize cities and towns; 
+ Promote growth in compact forms; 
+ Stabilize older suburbs; 
+ Redesign areas of sprawl; and; 
+ Protect the character of existing stable communities. 
+Accordingly, this HE&FSP is consistent with the intents of the PA-1. Specifically, it is 
+designed to encourage redevelopment and growth in a compact form, while also 
+protecting the character of the existing community. 
+4.7: Crediting Documentation and Ongoing Compliance 
+The Borough of Allendale is following the applicable requirements regarding unit 
+monitoring and reporting. Specifically, the Borough completed the statutorily required 
+updates to its housing project status report by the DCA deadline of February 15, 2025. 
+These updates are included in the State’s new Affordable Housing Monitoring System and 
+should be considered to fulfill the Borough obligation to specify the creditworthiness of 
+all existing affordable units. Further, all crediting documentation submitted to and 
+approved by the Court as part of the Borough’s Third Round Housing Element and Fair 
+Share Plan remains on file with and accessible from the Court. All other crediting 
+documentation, for plan components that were not part of the Borough’s Third Round 
+HE&FSP, is included in the appendices of this plan. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 44 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 45 =====
+ 
+~ 38 ~ 
+Appendices 
+1. Draft Resolutions Adopting and Endorsing Housing Element and Fair Share Plan 
+2. Endorsing Resolution No. 25-71 Committing to Comply to Fourth-Round Present 
+and Prospective Need.  
+3. Superior Court Decision and Order Fixing Municipal Obligations 
+4. Third Round Settlement Agreement 
+5. Third Round Vacant Land Adjustment Table 
+6. Existing Affordable Housing Mandatory Set-Aside Ordinance 
+7. Existing/Adopted Chapter 230 Article XXVI (Affordable Housing) of Borough 
+Code 
+8. Existing/Adopted Chapter 230 (Development Fees) of Borough Code 
+9. Existing/Adopted Chapter 230, Article XVA, AHO-1 Affordable Housing Overlay-I 
+District of Borough Code. 
+10. Existing/Adopted Chapter 230, Article XVA AHO-2 Affordable Housing Overlay-II 
+District of Borough Code. 
+11. Administrative Agent Manual and Affirmative Marketing Plan 
+12. Fourth Round Spending Plan 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 45 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 46 =====
+ 
+~ 39 ~ 
+Appendix 
+1. Draft Resolutions Adopting and Endorsing Housing Element and 
+Fair Share Plan 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 46 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 47 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 47 of 71
+Trans ID: LCV20251809422
+BOROUGH OF GLEN ROCK PLANNING BOARD
+BERGEN COUNTY, NEW JERSEY
+Resolution No:
+Offered by Planning Board Member: Co\\
+Seconded by Planning Board Member: Trutorei
+RESOLUTION OF THE BOROUGH OF GLEN ROCK PLANNING BOARD
+ADOPTING THE BOROUGH’S FOURTH ROUND HOUSING ELEMENT AND FAIR
+SHARE PLAN
+WHEREAS, the New Jersey Supreme Court declared that the discriminatory use of zoning
+powers was illegal and provided, as a matter ofconstitutional law, that each developing municipality
+“must, by its land use regulations, make realistically possible the opportunity for an appropriate
+variety and choice of housing for all categories of people who may desire to live there, of course
+including those oflow and moderate income,” In Re Adoption ofN.J.A.C. 5:96 and 5:97 by the New
+Jersey Council on Affordable Housing, 221 N.J. 1, 6 (2015) (“Mount Laurel IV”), citing S.
+Burlington County. NAACP v. Township of Mount Laurel (“Mount Laurel I’), 67 N.J. 151, 179,
+187, appeal dismissed and cert. denied, 423 U.S. 808, 96 S. Ct. 18, 46 L. Ed. 2d 28 (1975), and that
+this constitutional obligation requires that towns must provide “a realistic opportunity for the
+construction of [their] fair share of the present and prospective regional need for low and moderate
+income housing,” Id., citing S. BurlingtonCounty NAACP v. Township ofMount Laurel (“Mount
+Laurel II’), 92 N.J. 158, 205 (1983), (together with Mount Laurel I, the “Mount Laurel Doctrine”);
+and
+WHEREAS, pursuant to Mount Laurel IV, the Borough ofGlen Rock (the “Borough”’) filed
+a declaratory judgment action on July 6, 2015, entitled “In the Matter of the Application of the
+Borough of Glen Rock” Docket No. BER-L-6276-15, seeking a judicial declaration that its Housing
+Element and Fair Share Plan (“3rd Round HEFSP”’) satisfied the “fair share” of the regional need
+for very low - low- and moderate-income housing, pursuant to the Mount Laurel Doctrine, and
+WHEREAS, that culminated in a settlement agreement with Fair Share Housing Center
+(“FSHC”) on September 25, 2019; and
+WHEREAS, on October 11, 2023, the Court entered a Final Judgment ofCompliance and
+Repose, granting the Borough immunity from Builder’s Remedy lawsuits until July 2, 2025; and
+WHEREAS, on March 20, 2024, Governor Murphy signed P.L.2024, c.2. (hereinafter
+“A4”) into law, amending the New Jersey Fair Housing Act, N.J.S.A. 52:27D-301 to -329 (the
+“Act”) and establishing a new framework for determining and enforcing municipalities’ affordable
+housing obligations under the Mount Laurel doctrine for the years 2025 — 2035 (the “Fourth
+Round”); and
+
+===== PAGE 48 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 48 of 71
+Trans ID: LCV20251809422
+WHEREAS, A4 required the New Jersey Department ofCommunity Affairs (the “DCA”)
+to produce non-binding estimates of need for present and prospective need for low- and moderate-
+income housing in each municipality for the Fourth Round on or before October 20, 2024; and
+WHEREAS, on October 18, 2024, in furtherance of such requirement, the DCA issued a
+report entitled “Affordable Housing Obligations for 2025-2035 (Fourth Round) Methodology and
+Background” (the “DCA Report”) which report established the final calculation and obligations
+for each municipality in New Jersey, including the Borough; and
+WHEREAS, the DCA Report calculated the Borough’s Fourth Round obligation as
+follows: a Present Need or Rehabilitation (“Present Need”) Obligation of 0 and a Prospective
+Need or New Construction Obligation (“Prospective Need”) of 222; and
+WHEREAS, on January 22, 2025, the Borough Council adopted Resolution No. 57-25
+(the “Binding Resolution”), accepting the “present need” but seeking a downward deviation from
+“prospective need” obligation as set forth in the DCA Report to a “prospective need” of 201 units
+based on the recommendation of Edward Snieckus, Jr., PP, LLA, ASLA ofBurgis Associates, Inc.
+(the “Borough Planner”); and
+WHEREAS, pursuant to the Administrative Directive #14-24, dated December 13, 2024
+(the “Directive”), implementing the Affordable Housing Dispute Resolution Program (the
+“Program”) on January 23, 2025, the Borough filed a declaratory judgment action in the Superior
+Court of Bergen County, bearing Docket No. BER-L-561-25 (the “Declaratory Judgment
+Action”); and
+WHEREAS, the filing of the Declaratory Judgment Action, in accordance with the Act
+and the Directive, gave the Borough continued immunity from Builder’s Remedy lawsuits, which
+continues to be in full force and effect; and
+WHEREAS, the New Jersey Builders Association filed a challenge to the Declaratory
+Judgment Action as an interested party, disputing the Borough’s calculation of its prospective
+need; and
+WHEREAS, on June 4, 2025, the Honorable Gregg A. Padovano, J.S.C., the designated
+Mount Laurel Judge for the Bergen Vicinage, entered an order (the “Order’’) setting the Borough’s
+Present Need Obligation as 0 and the Prospective Need Obligation as 201, as set forth in the
+Binding Resolution; and
+WHEREAS, the Borough Planner prepared a Housing Element and Fair Share Plan for
+the Fourth Round, dated June 5, 2025 (the “Fourth Round HEFSP”), consistent with the
+obligation set forth in the Binding Resolution and as upheld by the Order, which addresses the
+Borough’s Present Need and Prospective Need Obligations for the Fourth Round; and
+
+===== PAGE 49 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 49 of 71
+Trans ID: LCV20251809422
+WHEREAS, pursuant to N.J.S.A. 40:55D-28, the Borough of Glen Rock Planning Board
+(the “Planning Board”) is charged with the preparation and adoption of the Borough’s Master
+Plan, which includes the Fourth Round HEFSP; and
+WHEREAS, on June 18, 2025, after providing notice in accordance with the Municipal
+Land Use Law, specifically N.J.S.A. 40:55D-13, the Planning Board held a public hearing to
+review the Fourth Round HEFSP; and
+WHEREAS, after review and consideration ofthe Fourth Round HEFSP and presentation
+by the Borough Planner, the Planning Board has determined it is consistent with the goals and
+objectives of the Borough’s current Master Plan, and further determined adoption of the same is
+in the best interest of the Borough; and
+WHEREAS, upon adoption of the Fourth Round HEFSP, the Planning Board Secretary is
+hereby directed to transmit the same to the Clerk ofthe Borough for consideration ofendorsement
+by the Borough Council.
+NOW THEREFORE BE IT RESOLVED the Borough of Glen Rock Planning Board, in
+the County of Bergen, State ofNew Jersey, hereby adopts the Fourth Round Housing Element and
+Fair Share Plan, dated June 5, 2025, and attached hereto as Exhibit A.
+I certify that the foregoing Resolution was duly adopted by the Borough of Glen Rock
+Planning Board on June 18, 2025.
+nr
+‘
+at! AS ‘i _
+Secretary, borughae Rock Dianning Board
+
+===== PAGE 50 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 50 of 71
+Trans ID: LCV20251809422
+Exhibit A
+Fourth Round Housing Element and Fair Share Plan
+
+===== PAGE 51 =====
+ 
+~ 41 ~ 
+Appendix 
+2. Endorsing Resolution No. 25-71 Committing to Comply to Fourth-
+Round Present and Prospective Need.  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000561-25   06/19/2025 3:48:48 PM   Pg 51 of 71   Trans ID: LCV20251809422 
+
+===== PAGE 52 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 52 of 71
+Trans ID: LCV20251809422
+BOROUGH OF GLEN ROCK
+BERGEN COUNTY, NEW JERSEY
+Resolution No: 57-25
+Offered by Council Member Gilbreath
+Seconded by Council Member Gilligan
+__
+RESOLUTION OF THE BOROUGH OF GLEN ROCK
+ESTABLISHING THE BOROUGH’S FOURTH ROUND PRESENT AND
+PROSPECTIVE AFFORDABLE HOUSING OBLIGATIONS
+WHEREAS, the New Jersey Supreme Court declared that the discriminatory use ofzoning
+powers was illegal and provided, as a matter ofconstitutional law, that each developing municipality
+“must, by its land use regulations, make realistically possible the opportunity for an appropriate
+variety and choice of housing for all categories of people who may desire to live there, of course
+including those oflow and moderate income,” In Re Adoption ofN.J.A.C. 5:96 and 5:97 by the New
+JerseyCouncil on Affordable Housiny, 221 N.J. 1, 6 (2015) ¢“Mount Laurel IV’), citing S.
+Burlington County. NAACP v. Township of Mount Laurel (“Mount Laurel I”), 67 N.J. 151, 179,
+187, appeal dismissed and cert. denied, 423 U.S. 808, 96 S. Ct. 18, 46 L. Ed. 2d 28 (1975), and that
+this constitutional obligation requires that towns must provide “a realistic opportunity for the
+construction of [their] fair share of the present and prospective regional need for low and moderate
+income housing,” Id., citing §.Burlinzton County NAACPv. Township of Mount Laurel (“Mount
+Laurel IT”), 92 N.J. 158, 205 (1983), (together with Mount Laurel I, the “Mount Laurel Doctrine”);
+and
+WHEREAS, pursuant to Mount Laurel IV, the Borough ofGlen Rock (the “Borough”) filed
+a declaratory judgment action on July 6, 2015, entitled “In the Matter of the Application of the
+Borough of Glen Rock” Docket No. BER-L-6276-15, seeking a judicial declaration that its Housing
+Element and Fair Share Plan (“3rd Round HEFSP”) satisfied the “fair share” of the regional need
+for very low - low- and moderate-income housing, pursuant to the Mount Laurel Doctrine; and
+WHEREAS, that culminated in a settlement agreement with Fair Share Housing Center
+(“FSHC”) on September 25, 2019; and
+WHEREAS, on October 11, 2023, the Court entered a Final Judgment ofCompliance and
+Repose, granting the Borough immunity from Builder’s Remedy lawsuits until July 2, 2025; and
+WHEREAS, on March 20, 2024, Governor Murphy signed P.L.2024, ¢.2. (hereinafter
+“A4”) into law, amending the New Jersey Fair Housing Act, N.J.S.A. 52:27D-301 to -329 (the.
+“Act”) and establishing a new framework for determining and enforcing municipalities’ affordable
+housing obligations under the Mount Laurel doctrine for the years 2025 — 2035 (the “Fourth
+Round”); and
+
+===== PAGE 53 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 53 of 71
+Trans ID: LCV20251809422
+WHEREAS, A4 required the New Jersey Department ofCommunity Affairs (the “DCA”)
+to produce non-binding estimates of need for present and prospective need for low- and moderate-
+income housing in each municipality for the Fourth Round on or before October 20, 2024; and
+WHEREAS, on October 18, 2024, in furtherance ofsuch requirement, the DCA issued a
+report entitled “Affordable Housing Obligations for 2025-2035 (Fourth Round) Methodology and
+Background” (the “DCA Report”) which report established the final calculation and obligations
+for each municipality in New Jersey, including the Borough; and
+WHEREAS, the DCA Report calculated the Borough’s Fourth Round obligation as
+follows: a Present Need or Rehabilitation (“Present Need”) Obligation of 0 and a Prospective
+Need or New Construction Obligation (“Prospective Need”) of222; and
+WHEREAS, the Borough has determined to accept its Present Need Obligation of 0; and
+_ WHEREAS, the Borough’s Affordable Housing Planner, Edward Snieckus, Jr., PP, LLA,
+ASLA of Burgis Associates, Inc. (the “Affordable Housing Planner”) has reviewed the DCA
+Report, specifically the data utilized by the DCA to determine the Borough’s calculated share of
+the land capacity with regard to the determination ofthe Borough’s Prospective Need;
+WHEREAS, the Affordable Housing Planner determined the DCA mapping was
+overinclusive and included properties in the calculation of the land capacity factor which are not
+developable, including properties located inside floodways and properties not suitable for
+development due to narrow area and proximity to the railroad; and
+WHEREAS, when these properties were removed from Borough’s weighted land area, the
+amount of developable space in the Borough was adjusted from 6.539 acres to 2.075 acres,
+resulting in an adjustment of the Borough’s calculated share of the region’s land capacity from
+33% to .11%; and
+WHEREAS, when this correction is made, the Borough’s Prospective Need Obligation is
+adjusted to 201 units; and
+WHEREAS, uponthe advice ofits Affordable Housing Planner and other professionals,
+the Borough accepts a Prospective Need Obligation of201 units; and
+WHEREAS, the Affordable Housing Planner produced a report summarizing his findings,
+which is attached hereto as Exhibit A; and
+;
+WHEREAS, Section 3 ofA4 provides “the municipality’s determination of its fair share
+obligation shall have a presumption ofvalidity, ifestablished in accordance with sections 6 and 7”
+ofA4; and
+
+===== PAGE 54 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 54 of 71
+Trans ID: LCV20251809422
+WHEREAS, the Affordable Housing Plamner utilized the formulas established in Sections
+6 and 7 ofA4, and provided in the DCA published worksheet, to recalculate the Borough’s Fourth
+Round Prospective Need Obligation to 201 units; and
+WHEREAS, A4 provides that a municipality shall adopt a binding resolution determining
+the present and prospective fair share obligation no later than January 31, 2025; and
+WHEREAS, the Borough’s calculation ofneed is entitled to a “presumption of validity”
+as it.complies with Sections 6 and 7 of A4; and
+WHEREAS, the Borough specifically reserves the right to adjust the Fourth Round
+Obligation based the following adjustments or others identified during the process ofpromulgating
+a Fourth Round Housing Element and Fair Share Plan (“4th Round HEFSP”): 1) a “windshield
+survey” or similar survey which accounts for a lower estimate ofpresent need; 2) a Vacant Land
+Adjustment predicated upon a lack of vacant, developable and suitable land; 3) a Durational
+Adjustment (whether predicated upon lack of sewer or lack of water or both); 4) an adjustment to
+the Land Capacity factor; and/or 5) an adjustment predicated upon regional planning entity
+formulas, inputs, or considerations, including, but not limited to the County and State Regional
+Master Plan; and
+WHEREAS, in addition to the foregoing, the Borough specifically reserves all rights and
+positions, without prejudice, to revoke this resolution and commitment in the event of a successful
+challenge to A4 in the context of Boroush of Montvale. etal. v. State ofNew Jersey, Docket No.
+MER-L-1778-24 or any other such action challenging A4 or calculations ofFourth Round Present
+or Prospective Obligations, or any legislation adopted and signed into law by the Governor ofNew
+Jersey altering the deadlines and/or requirements ofA4; and
+WHEREAS, in addition to the foregoing, nothing in A4 requires or can require an increase
+in the Borough’s Fourth Round Present or Prospective Need Obligations based on a successful
+downward challenge of any other municipality in the region since the plain language and clear
+intent ofA4 is to establish, for example, unchallenged numbers by default on March 1, 2025; and
+WHEREAS, pursuant to the Administrative Directive #14-24, dated December 13, 2024
+(the “Directive”), implementing the Affordable Housing Dispute Resolution Program
+(the
+“Program”); a municipality seeking certification with the Act, shail file an action in the form of a
+declaratory judgment complaint in the county in which the municipality is located; and
+WHEREAS, the Borough authorizes the filing of a declaratory judgment action pursuant
+to the Directive within forty-eight hours after the adoption of this resolution to seek compliance
+with the Act; and
+WHEREAS, the Borough further authorizes its professionals to prepare the 4th Round
+HEFSP and present the same for adoption prior to June 30, 2025; and
+
+===== PAGE 55 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 55 of 71
+Trans ID: LCV20251809422
+. WHEREAS, in light ofthe above, the Borough finds it is in the best interest ofthe Borough
+to declare its Fourth Round Present and Prospective Need Obligations, authorize the filing of a
+declaratory judgment action pursuant to the Directive, and direct its professionals to prepare a 4th
+Round HEFSP, all in accordarice with A4,
+NOW THEREFORE BE IT RESOLVED by the Borough Council of the Borough of
+Glen Rock, in the County of Bergen, New Jersey, as follows:
+Section 1.
+The foregoing recitals are hereby incorporated by reference as if fully set
+forth herein.
+Section 2.
+The Borough’s Fourth Round obligation is adopted as follows: a Present
+Need or Rehabilitation Obligation of 0 and a Prospective Need or New Construction Obligation
+of201, as described above, and subject to.all reservations of rights, including but not limited to:
+A. The right to adjust the number based on one
+or any of the following: a windshield
+survey, vacant land assessment, durational adjustments, variations in the Land Capacity
+Factor, and/or regional planning inputs; and
+B. The right to revoke this resolution in the event ofa successful legal challenge to A4 or
+the Act, any legislative changes to A4 and signed into law by the Governor, or to the
+calculations ofFourth Round Present or Prospective Obligations.
+Section 3. | The Borough authorizes its professionals to file a declaratory judgment
+action within forty-eight hours after the adoption of this resolution in order to comply with the
+Directive.
+Section 4. | The Borough further authorizes its professionals to prepare the 4th Round
+HEFSP and present the same for adoption prior to June 30, 2025.
+Section 5.
+This resolution shall take effect immediately.
+ROLL CALL:
+Council Member Martin - yes
+Council Member Gilbreath -yes
+Council Member Orlich - yes
+Council Member Gilligan - yes
+Council Member Coll - yes
+Council Member Rozanski -yes
+I, the Borough Clerk of the Borough ofGlen Rock, hereby certify that this is a true copy
+of a resolution passed by the Council ofthe Borough ofGlen Rock at a meeting held this 22 day
+ofJanuary,.2025,
+Jacqueline/Sealia, Borough Clerk
+
+===== PAGE 56 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 56 of 71
+Trans ID: LCV20251809422
+
+===== PAGE 57 =====
+Fourth Round
+Present and
+Prospective Need
+Analysis
+Borough of Glen Rock
+Bergen County, New Jersey
+
+===== PAGE 58 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 58 of 71
+Trans ID: LCV20251809422
+Community Planning
+Principals:
+Land Development and Design
+Joseph H. Burgis PP, AICP
+Landscape Architecture
+Edward Snieckus, Jr. PP, LLA, ASLA
+David Novak PP, AICP
+SSS
+BURGIS
+ASSOCIATES,
+INC
+Fourth Round
+Present and Prospective Need
+Analysis
+Borough of Glen Rock
+Bergen County, New Jersey
+Prepared for the Borough of Glen Rock
+Mayor and Council
+BA# 4173.15
+The original document was appropriately signed and sealed on January 15, 2025, in accordance
+with Chapter 41 of Title 13 of the State Board of Professional Planners
+f CD cccegea.
+EMWeckl-a
+lee,
+Joéseph H. Burgis, AICP, PP
+Edward J. Snieckus Jr. PP, LLA, ASLA
+Professional Planner #2450
+Professional Planner #5442
+i
+25 Westwood Avenue, Westwood NJ 07675
+1p: 201.666.1811
+| f: 201.666.2599
+| e: es@burgis.com
+
+===== PAGE 59 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 59o0f71
+Trans ID: LCV20251809422
+
+===== PAGE 60 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 60 of 71
+Trans ID: LCV20251809422
+Contents
+EX@CUtIVE SUIMIMALY ....-csccocessseceeeessseeeessssnsesseeersssssisnneeseseesssssnsseerssssuassessesunsssssseusiiassssessesunsssssseesessssssssseee
+T
+Section 1: Present NCQ eesssccsssssscsssesseesesssseeesccessusseseseeessussssssensiussesessesusnenseeeisensesseseeeennensssee3
+1.1: Present Need Background ...ccccssssssssssseesssssssssssseccessssssustnssssssssssnssssssesssssesssssssussutssssssssasssssssssssseD
+Section 2: Equalized Nonresidential Valuation FactOr....cssssssessssssssssssssssecssseeseeeesssssssssssssssesssecesse4
+2.1: Basis Of Calculation .seesssscscsssssssssssssnnscecccesessusecesesesstnssseseeesessecteessnanssssseersnnssnsscsessssssssssee4
+2.2: Arnalysis Of Calculation ......csssscsssssssssesssssseeeeseesnnssseesesssssunnsseeeesessessessnennssssseesnunssssssesenssssssese
+Section 3: Income Capacity Factor ..ssesssscssssessesccsesessssansceeeesensiusssesssesnssseseesiunssssseessunatseeesseeeseee5D
+3.1: Basis Of Calculation nn... esccsssssssusssssseeeceeenesesscceeessesunnssseeeeeessesseesesssuasseseecessussssssseensssesseessunssee
+5D
+3.2: Analysis of Calculation... cscssscssssssssscsecsssnsscseeseesssssnnseceeeeeeinsssessecsunnssteeeenesesssseesetansasseseessennsaee D
+Section 4: Land Capacity Factor ...........csssesssesscssseuseeesrsesssnnssnsssssseseecseseesestssssesmssssssssssssescennseeseseeO
+4.1: Basis Of Calculation... cessescssssssssssssceceeseesnsnnsssseseectinsseeceseeesunssseeneeiienseseeceetsnaseeeeerssnnanseseeeseene 0
+4.2: Analysis Of Calculation...sssssssssusssscescesssmnsssssssecesesssecerseessmmsesseeerineeneesecsenenssssseesieesssssseeeseetsB
+Appendix A: Land Capacity Factor Details 0...
+eescscsssssssscscssssmnnesseersseseseereseesereseeeertimenensseseereeTT
+VDF nn sssssesnssscsssssssscecssseuusssssteesssssenttanussnussstseasaessnseseeesummneesteeertneeseeecsumnenceneeeriessseeseeternsnssense|
+VDF
+ncccecssssssesnnsssssesusssssesssssussssssssenussstestuussunssnseceeestsmesseeesetenmmsarteeeeineeseereeimnnscsseseetnneesessesetsannsseese LD
+ID BB occsscscesssssccetsesssoseecsssssececesssenssssseeeessusssestunnsssessssseeeetssssseeseiunuussssssertussaseeeeisnnensseenesinesseceesessnnesceneeTAL
+VD FA an cceecssssseeesesssoseenssssceeeesstunsssseeensssssesttussssnsssstsetsntmsssssesttanumansssssattussssesteisumnscseeeerseeeeeceesetseeeeseeee ED
+VD FS cc ceceesssssseseussssssscnsssscsccsessusssssseecssssssesecsusssnssssseesesnussssseesemuunssssssaetssnsssssesinusssssssetsessssestesessunseseeee
+1O
+VD FG nn ccccessssssenssussssseesssssecsseesssssssteesesssssesetensassssssseeceesnsssssseseueuunsssseeetsussssssecuamssssstsensessseetsettenusssseeee DD
+
+===== PAGE 61 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 61 of 71
+Trans ID: LCV20251809422
+Executive Summary
+The following Present and Prospective Need Analysis has been prepared for the Borough
+of Glen Rock in Bergen County, New Jersey.
+By way of background, Governor Murphy signed A-40/S-50 into law on March 20, 2024
+after the Senate and Assembly adopted it. This legislation (hereinafter “Amended FHA" or
+“Act”) overhauled the Fair Housing Act (FHA) by abolishing the Council on Affordable
+Housing (COAH) and created a new process that involved the Department of Community
+Affairs (DCA) and the Administrative Office of the Courts (AOC).
+The Amended FHA directed the New Jersey Department of Community Affairs (“DCA") to
+report the present need (also referred to as the rehab obligation) and the prospective
+need for Round Four based upon the standards set forth in the Act. The DCA issued its
+report on October 18, 2024; and, in accordance with the Act, made clear that the report
+was advisory only. For Glen Rock, the DCA Report identifies
+a Present Need of 0 anda
+Prospective Round Four Need of 222.
+Since the DCA report is non-binding, each municipality has the opportunity to study and
+define why its obligations should be different based on the standards in the Act.
+However, the municipality must adopt a binding resolution by January 31, 2025,
+identifying the present and prospective need obligation to which it is committing.
+As to the Round Four Prospective Need of 222 units that the DCA reported on October
+18, 2024, the methodology used to determine a municipality's prospective fair share
+obligation requires an initial determination of the regional prospective need. The region
+that Glen Rock is in consists of all municipalities in Bergen, Passaic, Hudson and Sussex
+counties. To determine a municipality's share of the regional need, the Act requires a
+calculation of three factors: (1) the equalized nonresidential valuation factor; (2) the
+income capacity factor; and (3) the land capacity factor. The Act then requires these three
+factors to be averaged and applied to the regional need to determine the share of the
+regional need for each municipality that is not a Qualified Urban Aid Municipality
+(‘QUAM").
+The Borough does not dispute the DCA’s calculation of the Equalized Nonresidential
+Valuation Factor or the Income Capacity Factor. However, the Borough does dispute the
+calculation of the Land Capacity Factor. More specifically, the Borough accepts the DCA’s
+invitation to examine the Land Capacity Factor and the lands that the DCA deemed
+developable for purposes of calculating this factor.
+Recommendation: For the reasons set forth herein, the DCA was overinclusive. Once
+appropriate corrections are made to the land that is developable, the Borough's
+Prospective Need Obligation should be adjusted from the 222 figure the DCA reported to
+201 units. Based upon the findings in this report, the following summarizes the
+comparison of the three allocation factors as adjusted by the analysis provided herein.
+nt
+
+===== PAGE 62 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 62 of 71
+Trans ID: LCV20251809422
+Table 1: Summary of Adjusted Factors
+Equalized
+Nonresidential
+Income Capacity
+Land Capacity
+Valuation Factor
+Factor
+Factor
+DCA Analysis
+0.35%
+1.72%
+0.33%
+Borough Analysis
+0.35%
+1.72%
+0.11%
+Furthermore, as to the Present Need (also known as the rehab obligation), the Borough of
+Glen Rock finds that the methodology and the data utilized by the DCA to calculate its
+Present Need Obligation acceptable at 0 units for Round Four.
+Accordingly, the remainder of this Prospective Needs Analysis is divided into the
+following sections:
+*
+Section 1: Present Need
+*
+Section 2: Equalized Nonresidential Valuation Factor
+*
+Section 3: Income Capacity Factor
+*
+Section 4:
+Land Capacity Factor
+~2~
+
+===== PAGE 63 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 63 of 71
+Trans ID: LCV20251809422
+Section 1: Present Need
+The following section reviews the Borough’s Present Need as calculated by the DCA.
+1.1: Present Need Background
+As per the adopted legislation,
+a municipality's Present Need obligation shall be
+determined:
+“by estimating the deficient housing units occupied by low- and moderate-income
+households in the region, following a methodology similar to the methodology used to
+determine third round municipal present need, through the use ofmost recent datasets
+made available through the federal decennial census and the American Community
+Survey, including the Comprehensive Housing Affordability Strategy dataset thereof.”
+The “Affordable Housing Obligations for 2025-2035 (Fourth Round) Methodology and
+Background” workbook released by the DCA (herein referred to as the "DCA Workbook”
+or the “Workbook") noted that the Present Need calculations used three factors to
+calculate its present need: the number of housing units lacking complete kitchen facilities,
+the number of units lacking complete plumbing facilities, and the number of
+overcrowded units.
+The analysis employed by DCA utilizes data from HUD’s Comprehensive Housing
+Affordability Strategy (CHAS) dataset, which has municipal-level data on the number and
+percentage of low- and moderate-income households from a special tabulation of the US
+Census's American Community Survey (ACS) data. For a full explanation of how this data
+was utilized, see the DCA Workbook.
+The DCA determined by the Borough's Present Need number is 0 units and is acceptable
+to the Borough of Glen Rock.
+~3~
+
+===== PAGE 64 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 64 of 71
+Trans ID: LCV20251809422
+Section 2: Equalized Nonresidential
+Valuation Factor
+The following section reviews the equalized nonresidential valuation factor calculated by
+the DCA. The following is summarized:
+1.
+The Borough finds that the methodology utilized by the DCA to calculate its
+nonresidential valuation factor is acceptable.
+2.
+The Borough's change in equalized nonresidential valuation between 1999 and
+2023 is $ 113,073,017.
+3.
+This results in the Borough's calculated share of the region’s equalized
+nonresidential valuation of 0.35%.
+2.1: Basis of Calculation
+As per the adopted legislation,
+a municipality's equalized nonresidential valuation factor
+shall be determined as follows:
+“To determine this factor, the changes in nonresidential property valuations in the
+municipality, since the beginning of the round preceding the round being
+calculated, shall be calculated using data published by the Division of Local
+Government Services in the department. For the purposes of such, the beginning
+of the round of affordable housing obligations preceding the fourth round shall be
+the beginning of the gap period in 1999. The change in the municipality's
+nonresidential valuations shall be divided by the regional total change in the
+nonresidential valuations to determine the municipality's share of the regional
+change as the equalized nonresidential valuation factor.”
+2.2: Analysis of Calculation
+The calculation conducted by the DCA determined that the Borough has a 0.35% share of
+the region's equalized nonresidential valuation.
+Table 2: DCA Equalized Nonresidential Valuation Calculation Summary
+Non-equalized
+Equalization
+Equalized
+Year
+Nonresidential Valuation
+Ratio
+Nonresidential Valuation
+1999
+$95,727,900
+0.8829
+$108,424,397
+2023
+$171,306,100
+0.7734
+$221,497,414
+Difference
+$113,073,017
+Source: DCA Fair Share Housing Obligations for 2025-2035 (Fourth Round) Workbook
+The Borough has reviewed the methodology and data utilized by the DCA for this
+calculation. The methodology employed by the DCA is appropriate, the Borough finds
+that the equalization ratios employed by the DCA are accurate.
+<46
+
+===== PAGE 65 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 65 of 71
+Trans ID: LCV20251809422
+Section 3: Income Capacity Factor
+The following section reviews the income capacity factor calculated by the DCA. It finds
+that the data and methodology utilized by the DCA relating to the Borough’s income
+capacity factor are both acceptable.
+3.1: Basis of Calculation
+As per the adopted legislation,
+a municipality's income capacity factor shall be
+determined by calculating the average of the following measures:
+“The municipal share of the regional sum of the differences between the median
+municipal household income, according to the most recent American Community
+Survey Five-Year Estimates, and an income floor of $100 below the lowest median
+household income in the region; and
+“The municipal share of the regional sum of the differences between the median
+municipal household incomes and an income floor of $100 below the lowest
+median household income in the region, weighted by the number of the
+households in the municipality.”
+3.2: Analysis of Calculation
+The calculation conducted by the DCA determined that the Borough has a 1.72% share of
+the region's income capacity factor. Table
+3 below summarizes the methodology utilized
+by the DCA to determine this share.
+The Borough has reviewed the data and the methodology utilized by the DCA for this
+calculation and finds both to be acceptable.
+Table 3: Income Capacity Factor
+Number of
+Median
+$100
+Diff. from
+HH
+Diff from
+Income
+Income
+Households
+household
+Below
+Median
+Weighted
+= Median
+Difference
+Capacity
+incomein
+Regional
+Household
+Income
+Household
+% of
+Factor
+the past
+Median
+Income
+Difference
+Income
+Region
+12 months
+HH
+Floor with
+% of
+Floor
+Total
+(in 2022
+Income
+Household
+Region
+inflation-
+Floor
+Weight
+Total
+adjusted
+dollars) *
+3,652
+$ 202,586
+$51,992
+549,969,288
+1.6%
+$150,594
+1.8%
+1.72%
+“Se
+
+===== PAGE 66 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 66 of 71
+Trans ID: LCV20251809422
+Section 4: Land Capacity Factor
+The DCA issued the data and mapping that was the basis for the land capacity
+factor on November 27", over a month after the DCA deadline to issue its non-binding
+numbers under the Amended FHA.
+The link to the DCA GIS data, and the description section
+(https://njdca.maps.arcgis.com/home/item.html?id=12acdfe0a5104f8f8a2f604e96063e74)
+includes the following language:
+"The land areas identified in this dataset are based on an the best available data
+using publicly available data enumerated in N.J.S.A. 52:27D-304.3c.(4) to
+estimate the area of developable land, within municipal and regional
+boundaries, that may accommodate development. It is important to note that
+the identified areas could be over or under inclusive depending on various
+conditions and that municipalities are permitted to provide more detailed
+mappings as part of their participation in the Affordable Housing Dispute
+Resolution Program." (underlined for emphasis)
+The areas identified as developable in the DCA’s calculation of the Land Capacity factor
+is overinclusive. Accordingly, the land capacity allocation factor should be adjusted
+from 6.539 to 2.075 acres. When this correction is made, Glen Rock’s Round Four
+Prospective Need number should be 201 instead of the 222-unit figure identified by
+DCA.
+While the basis for removing land treated as developable in the DCA’s calculation is set
+forth below, it is important to note that the analysis to correct the land allocation factor
+is different than the analysis to use the determine a municipality’s entitlement to vacant
+land adjustment. While the analysis to correct the Land Capacity factor focuses on
+developable land, the analysis to support a vacant land adjustment focuses on land
+suitable for inclusionary development. Therefore,
+just because a site was not removed
+for purposes of calculating the land capacity factor has no bearing on whether it should
+be removed to calculate entitlement to a vacant land adjustment.
+In this regard, the Borough secured court approval of a vacant land adjustment in
+Round 3 and will necessarily seek an adjustment in Round Four in conjunction with its
+preparation of a Housing Element and Fair Share Plan. Nothing herein should be
+construed as a waiver of those rights that are explicitly reserved.
+An analysis of the lands identified by the DCA as being “developable” revealed several
+inaccuracies. In summary, these inaccuracies generally included lands which were: artifacts
+of error as described by the DCA; located on developed properties or those inaccessible
+due to environmental constraints; located on open space or common element properties;
+located on properties presently under construction; and located on properties with active
+site plan or approvals. Correcting these inaccuracies adjusts the Borough's weighted land
+area from 6.539 acres to 2.075 acres. This results in an adjustment of the Borough's
+calculated share of the region's land capacity from 0.33% to 0.11%.
+~6~
+
+===== PAGE 67 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 67 of 71
+Trans ID: LCV20251809422
+4.1: Basis of Calculation
+As per the adopted legislation,
+a municipality's income capacity factor shall be
+determined by:
+“estimating the area of developable land in the municipality's boundaries, and
+regional boundaries, that may accommodate development through the use of the
+‘land use / land cover data’ most recently published by the Department of
+Environmental Protection, data from the American Community Survey and
+Comprehensive Housing Affordability Strategy dataset thereof, MOD-IV Property
+Tax List data from the Division of Taxation in the Department of the Treasury,
+and construction permit data from the Department of Community Affairs and
+weighing such land based on the planning area type in which such land is
+located. After the weighing factors are applied, the sum of the total developable
+land area that may accommodate development in the municipality and in the
+region shall be determined. The municipality's share of its region’s developable
+land shall be its land capacity factor. Developable land that may accommodate
+development shall be weighted based on the planning area type in which such
+land is located,”
+The legislation identifies the primary data sources and weighing factors to utilize in
+calculating a municipality's land capacity factor. However, unlike the equalized
+nonresidential valuation factor and the income capacity factor, the legislation did not
+establish a delineated process to combine the aforementioned data sources into one
+comprehensive and coherent formula.
+The DCA subsequently released a workbook entitled “Affordable Housing Obligations for
+2025-2035 (Fourth Round) Methodology and Background” (herein referred to as the
+“DCA Workbook" or the “Workbook") which established that department's interpretation
+on how to calculate the land capacity factor. In summary, that workbook identified the
+following steps:
+1.
+First, the DCA divided the weighing regions established by the legislation by
+municipality.
+2.
+Next, land use/land cover areas were used to identify vacant, developable lands.
+The workbook identifies the codes and descriptions of the land use/land cover
+data used in this process. In short, they include: cropland and pastureland;
+orchards/vineyards/nurseries/horticultural areas; deciduous forest areas;
+coniferous forest areas; plantations; mixed forest areas; old field areas;
+phragmites dominate old field areas; deciduous brush/shrubland; coniferous
+brush/shrubland; mixed deciduous/coniferous brush/shrubland; severe burned
+upland vegetation; and undifferentiated barren lands.
+3.
+These initial vacant, developable lands were then refined to remove rights-of-way
+as well as developed properties. For the latter, the DCA utilized MOD-IV tax data
+Te.
+
+===== PAGE 68 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 68 of 71
+Trans ID: LCV20251809422
+and selected underlying tax parcels with property class codes for residential,
+commercial, industrial, apartment, railroad, and school.
+4.
+Construction permit data was then analyzed to capture more recent development
+activities that may not have otherwise been reflected by the land use/land cover
+data or MOD-IV tax data.
+5.
+Other limiting factors were utilized to remove initial vacant, developable lands.
+These include: open space, preserved farmland, category 1 waterways and
+wetlands (and associated buffers based on special area restrictions), steep slopes
+exceeding 15 percent, and open waters.
+6.
+Due to limitations resulting from inconsistencies between data sources, the
+resulting DCA mapping included instances of small land areas caused by an
+incongruous alignment of geospatial layers. To eliminate these “slivers” of
+leftover land, DCA eliminated any segment with an area of less than 2,500 square
+feet. This presumed that a sliver with a minimum dimension of 25 by 100 feet
+could be a developable property
+7.
+Finally, the resulting land area for each municipality was summed with the
+resulting land areas for all other municipalities within each housing region to
+then determine the municipal percentage of land capacity for the housing region.
+4.2: Analysis of Calculation
+The calculation conducted by the DCA determined that the Borough has 6.539 acres of
+developable land which accounts for a 0.33% share of the region's land capacity factor.
+Overall, the Borough finds the general methodology utilized by the DCA to calculate its
+land capacity factor acceptable. However, an analysis of the DCA’s resultant mapping
+discovered the following:
+1.
+Several of the lands identified as “developable” by the DCA represent slivers
+which “are considered artifacts of error that are common when overlaying
+polygons and vectors from non-coincident data sources.” The DCA initially tried
+to eliminate these slivers by deleting any feature parts with an area of less than
+2,500 square feet.
+2.
+Other lands identified as “developable” by the DCA are located on properties
+with development. To eliminate “developable” lands on developable properties,
+the DCA had removed any lands where the underlying tax parcels had property
+class codes for residential, commercial, industrial, apartments, railroad, and
+school. However, the property classifications identified by the DCA did not
+account for houses of worship, properties developed with nonprofit facilities, and
+residential dwellings with associated farmland.
+3.
+Several lands identified as “developable” by the DCA were in fact located on open
+space, common elements for homeowner's associations, or properties containing
+infrastructure (e.g. detention basins, utility improvements, rights-of-way, etc.).
+~B~
+
+===== PAGE 69 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 69 of 71
+Trans ID: LCV20251809422
+4,
+Some developable areas did not account for areas restricted by regulated 100-
+year floodway areas of streams and other mapped watercourses.
+5.
+There were several instances of lands identified as “developable” by the DCA
+being located on properties which are presently under construction. This is likely
+due to a lag in construction permit reporting.
+6.
+Finally, lands identified as “developable” by the DCA are located on properties
+with active site plan or general development plan (GDP) approvals which are no
+longer available for development.
+These discrepancies are summarized in Table 4 utilizing the Land Capacity Analysis and
+are detailed in Appendix A of this analysis. Removing these lands would adjust the
+Borough's weighted land area from 6.539 acres to 2.075 acres. This results in an
+adjustment of the Borough's calculated share of the region's land capacity from 0.33% to
+0.11%.
+Irrespective of the land capacity factor analysis established herein, the Borough reserves
+the right to conduct a vacant land adjustment (VLA) to determine its realistic
+development potential (RDP) at a later date.
+~9~
+
+===== PAGE 70 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 70of71
+Trans ID: LCV20251809422
+Table 4: Summary of Land Capacity Factor Analysis
+ID#
+Shapefile
+Block
+Lot
+Initial
+Review
+Status
+Weighted Area
+Object
+Weighted
+Recalculated*
+ID*
+Area*
+(acres)
+(acres)
+1
+27230
+190
+1
+| 0.6353
+Vacant developable
+Partial Include area
+0.3713
+|
+municipal owned
+outside floodway
+limited frontage in
+floodplain with 11,500
+sfinfloodway
+a
+era
+municipal owned
+3
+27229
+203
+1
+1.4227
+Vacant developable
+| Exclude
+0.0000
+municipal owned
+27231
+173
+11
+0.2849
+Narrow 25 feet or less | Exclude
+0.0000
+in width, vacant
+minimal to no frontage
+adjacent to railroad,
+Undevelopable
+5
+27234
+2203
+11
+| 1.1322
+Narrow, vacant adjacent
+Exclude
+0.0000
+to railroad, frontage
+limited by steep slopes
+and underpass retaining
+\
+wall. Undevelopable
+6
+27235
+127
+16
+2.3170
+Vacant municipally
+Partial Include area | 1.3753
+owned completely in
+outside floodway
+the 100 yr floodplain
+and 41,000+/- sf in the
+regulatory
+floodwa
+7
+27236
+129
+12
+0.0986
+Municipal owned
+Include
+0.0986
+|
+although upland and
+—___|i__j
+isolated
+—-
+8
+27237
+129
+21
+"0.2613
+Not developable parcel
+Exclude
+0.0000
+almost completely in
+| floodway and completely
+| in the 100 yr floodplain
+of Ho-Ho-Kus Brook
+| leaving minimal area.
+Undevelopable_
+.
+_
+-_
+__ Total
+2.0745
+* Object ID and area computations identified were obtained from the NJDCA
+published Vacant and Developable Land Analysis.
+~10~
+
+===== PAGE 71 =====
+BER-L-000561-25
+06/19/2025 3:48:48 PM
+Pg 71 of 71
+Trans ID: LCV20251809422
+Appendix A:
+Land Capacity Factor Details
+The following illustrations show in more detail the specific mapping of all the various land
+capacity areas as identified in the DCA analysis provided through the Land Capacity
+Analysis for P.L. 2024, c.2. They are obtained from the web based ARCGIS online mapping
+utilizing feature layers (hosted) by NJDCA and incorporating other layer features available
+through NJDEP and ARCGIS Online services.
+~W-

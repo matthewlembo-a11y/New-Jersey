@@ -1,0 +1,2781 @@
+
+===== PAGE 1 =====
+ 
+The Township of Teaneck  
+Bergen County  
+ 
+Housing Element and Fair Share Plan 
+Round Four (2025-2035) 
+ 
+Prepared For: 
+ 
+818 Teaneck Road 
+Teaneck, NJ 07666 
+ 
+Original Adoption: 
+Planning Board Adoption Date: June 16, 2025 
+Council Endorsement Date: June 17, 2025 
+ 
+Amended Adoption: 
+Planning Board Adoption Date: May 14, 2026 
+Council Endorsement Date: May 19, 2026 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 1 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 2 =====
+ 
+1 
+Acknowledgements 
+ 
+Mayor 
+ 
+ 
+ 
+ 
+ 
+ 
+Township Administrator  
+Mark Schwartz 
+ 
+ 
+ 
+ 
+ 
+Jaclyn Hashmat  
+  
+Township Council  
+ 
+ 
+ 
+ 
+Township Clerk  
+Denise Belcher, Deputy Mayor   
+ 
+ 
+Doug Ruccione  
+Danielle Gee 
+ 
+ 
+ 
+  
+Hillary Goldberg   
+ 
+ 
+ 
+ 
+Township Attorney  
+Elie Katz  
+ 
+ 
+ 
+ 
+ 
+ 
+Scott Salmon, Esq. 
+Karen Orgen, Deputy Mayor  
+Michael Pagan  
+ 
+ 
+ 
+ 
+ 
+Redevelopment Counsel  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Michael Ash, Esq.  
+Planning Board  
+Class I, Mayor Mark Schwartz 
+ 
+ 
+ 
+Township Administrative Agent 
+Class II, Deputy Police Chief Seth Kriegel  
+ 
+Frank Piazza 
+Class III, Deputy Mayor Denise Belcher  
+Class IV, Christopher Brown (Chair) 
+ 
+ 
+Planning Board Secretary  
+Class IV, Shaun Evans 
+ 
+ 
+ 
+ 
+Rosiland Mclean  
+Class IV, Yehuda Kohn  
+Class IV, Alan Sohn 
+ 
+ 
+ 
+ 
+Planning Board Attorney 
+Class IV, Yitz Stern  
+ 
+ 
+ 
+ 
+Jessica Almeida, Esq. 
+Class IV, Howard Thompson (Vice Chair) 
+Alternate, Duane Harley 
+Alternate, Victoria Marino 
+  
+ 
+ 
+ 
+Prepared by: 
+ 
+____________________________  
+ 
+____________________________ 
+Golda MacMillan, AICP/PP 
+ 
+ 
+Graham Petto, AICP/PP 
+Planner License No. 33LI00639400 
+ 
+Planner License No. 33LI00633500 
+ 
+Supporting Staff:  Marc Lincer, AICP, PP, CAPM, Planner III 
+Julian Wexer, Planner I 
+ 
+The original of this report was signed and sealed in accordance with N.J.S.A. 45:14A-12. 
+ 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 2 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 3 =====
+ 
+2 
+Table of Contents 
+ 
+I. 
+2026 Amendment ......................................................................................................................................... 4 
+II. Introduction .................................................................................................................................................. 5 
+A. 
+History of New Jersey Affordable Housing Policy ........................................................................... 5 
+B. 
+Housing Plan Requirements ................................................................................................................. 8 
+III. Housing Element: Municipal Summary ................................................................................................ 11 
+A. 
+Housing Conditions .............................................................................................................................. 11 
+Table 1: Year Structure Built ....................................................................................................................... 12 
+Table 2: Housing Condition ......................................................................................................................... 12 
+Table 3: Value for Owner-Occupied Housing Units .............................................................................. 13 
+Table 4: Housing Cost Burden .................................................................................................................... 13 
+Monthly Costs as Percentage of Household Income) ............................................................................ 13 
+Table 5: Housing Tenure and Occupancy ................................................................................................ 14 
+Table 6: Occupants Per Room + Inadequate Units in Occupied Housing Units .............................. 14 
+Table 7: Housing Type and Size ................................................................................................................. 14 
+Table 8: Number of Bedrooms Per Unit .................................................................................................... 15 
+B. 
+Housing Projections .............................................................................................................................. 15 
+Table 9: Housing Unit Projection ............................................................................................................... 16 
+Figure 1: Existing Land Use Map ................................................................................................................ 17 
+Figure 2: Existing Zoning Map .................................................................................................................... 18 
+C. 
+Demographic Characteristics ............................................................................................................. 19 
+Table 10: Historic Population Growth ....................................................................................................... 19 
+Table 11: Population by Age ........................................................................................................................ 19 
+Table 12: Population by Housing Type ..................................................................................................... 20 
+Table 14: Residents Place of Birth .............................................................................................................. 21 
+Table 15: Household Median Income ........................................................................................................ 21 
+Table 16: Poverty Status ............................................................................................................................... 21 
+D. Multigenerational Housing Continuity ............................................................................................ 22 
+E. 
+Employment Data ................................................................................................................................. 22 
+Table 17: Employment Projection .............................................................................................................. 22 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 3 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 4 =====
+ 
+3 
+IV. Fair Share Plan: Obligations and Compliance Plan ............................................................................ 23 
+A. 
+Introduction ............................................................................................................................................ 23 
+B. 
+Prior Round Need Compliance “Look Back” (2015-2025) ............................................................. 24 
+Table 18: Projects Cited to Satisfy Third Round Realistic Development Potential (“RDP”) .......... 24 
+Table 19: Zoning Actions to Satisfy Third Round Unmet Need Requirements ................................ 25 
+C. 
+Present and Prospective Need Obligation (2025-2035) .................................................................. 27 
+Figure 3: Prospective Need Projects Maps ............................................................................................... 32 
+Table 20: Projects Description and Suitability Analysis ........................................................................ 36 
+V. Appendices ................................................................................................................................................. 41 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 4 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 5 =====
+ 
+4 
+I. 2026 Amendment 
+ 
+ 
+2026 Amendment: Content that has been replaced or is no longer applicable is shown in strikethrough. 
+New or revised content is indicated in green italics. 
+ 
+This Housing Element and Fair Share Plan (“HEFSP”) was adopted by the Planning Board on June 16, 2025, 
+and subsequently submitted to the Affordable Housing Dispute Resolution Program (the “Program”). 
+ 
+On August 27-28, 2025, multiple interested parties filed challenges to the Township’s HEFSP pursuant to 
+N.J.S.A. 52:27D-304.1(f)(2)(b), including 143 State Street LLC, Hill Street Realty LLC, 54 West Englewood 
+Ave LLC, Mohammed Saddiqulla, Vision 23 LLC, and the Fair Share Housing Center (“FSHC”). The 
+Township and all parties thereafter agreed to resolve the issues raised in the challenges through Settlement 
+Agreements1. These agreements were submitted to the Program and referred to the Mount Laurel judge in 
+accordance with N.J.S.A. 52:27D-304.1(f)(2)(b) and Administrative Directive #14-24. As a result of these 
+settlements, the Township received Fourth Round compliance certification. 
+ 
+In its final decision, the Court ordered that, for consistency purposes, the Township’s HEFSP be amended to 
+incorporate additional property identified in the Settlement Agreements, specifically 822 Palisade Avenue. 
+Accordingly, this Amendment is required to implement the terms of those agreements. 
+ 
+This Amendment is limited to the following scope: 
+1. (Required in the settlement agreements): Inclusion of 822 Palisade Avenue in the Township’s Fourth 
+Round strategy.  
+2. (Required in the settlement agreements): Updates to “remaining” undeveloped Round Three projects 
+to reflect increasing the mandatory affordable housing set-aside from 15% to 20%.  
+3. (Technical clarification since 2025 HEFSP): Update the 54 West Englewood project to include Block 
+4905, Lots 1 and 2 (previously only Lot 3 was identified).  
+4. (Technical clarification since 2025 HEFSP): Updates to the appendices to incorporate newly adopted 
+ordinances and supporting documents that were previously included as draft placeholders. 
+ 
+ 
+ 
+1 BER-L-000776-25 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 5 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 6 =====
+ 
+5 
+II. Introduction 
+This Housing Element and Fair Share Plan will exhibit the Township of Teaneck’s (herein the 
+“Township” or “Teaneck”) commitment to providing affordable housing within the 
+municipality.  This document seeks to frame Teaneck’s efforts based on the current best 
+knowledge of the affordable housing framework created by the State, applicable past rules 
+established by the Council on Affordable Housing (COAH), and the requirements of P.L.2024, 
+c.22 (the “Law” or “Amended Law”) which governs municipal responsibilities concerning 
+provisions of affordable housing in the Fourth Round.  
+This Plan has three sections.  The first section (“Introduction”) includes a brief history of New 
+Jersey Housing Policy.  The second section (“Housing Element”) includes a Demographic 
+Analysis, Housing Inventory, Employment Analysis, and review of land uses and policies, as 
+required by statute.  The third section (Fair Share Plan) summarizes the Township’s affordable 
+housing obligations for 2025-2035 and its plan for complying with these obligations. 
+ 
+A. History of New Jersey Affordable Housing Policy 
+1975 – 1985 | Mount Laurel Doctrine and the Fair Housing Act 
+In 1975 the New Jersey Supreme Court decided Southern Burlington County NAACP v. the 
+Township of Mount Laurel, more commonly referred to as “Mount Laurel I,” wherein it 
+interpreted the New Jersey Constitution to create an affirmative obligation for developing 
+municipalities to provide a “realistic opportunity for the construction of low- and moderate-
+income housing in their communities.” In 1983, the New Jersey Supreme Court expanded the 
+obligation from only developing municipalities to all municipalities in a decision commonly 
+referred to as “Mount Laurel II.” In addition, the Supreme Court required the establishment of 
+each municipality’s fair share obligation and required each municipality, through its zoning, to 
+provide a realistic opportunity for the construction of that established fair share obligation. 
+Subject to several prerequisites, conditions and requirements, Mount Laurel II also created the 
+“builder’s remedy” as a mechanism to enforce the doctrine in instances where a developer 
+successfully demonstrated a municipality’s zoning failed to create the requisite realistic 
+opportunity.  Under such circumstances, a plaintiff may be entitled to have its site rezoned for 
+an inclusionary development with an affordable set aside if the site is available, developable, 
+approvable, and suitable for the proposed project and all other requirements for a successful 
+builder’s remedy are met and all defenses defeated.  
+In 1985, in response to Mount Laurel II and the flood of litigation stemming from it, the 
+Legislature adopted the Fair Housing Act (“FHA”) to discourage litigation and incentivize 
+voluntary compliance (see N.J.S.A. 52-27D-303). The FHA established, among other things, the 
+Council on Affordable Housing (“COAH”) as an administrative alternative to litigation and 
+ 
+2 https://pub.njleg.state.nj.us/Bills/2024/PL24/2_.PDF 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 6 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 7 =====
+ 
+6 
+judicial intervention. COAH was charged with establishing various housing regions in the state, 
+estimating regional affordable housing obligations, and adopting criteria and guidelines for the 
+municipal determination of housing need as well as guidelines for satisfying those obligations. 
+The FHA also linked municipal planning and zoning powers to the satisfaction of affordable 
+housing obligations. Under the FHA, a municipal zoning ordinance is presumptively invalid if 
+a municipality fails to adopt a housing element as part of its master plan or enacts zoning 
+regulations that are inconsistent with their housing plan. 
+1987 – 2004 | Establishment and Administration of First Round and Second Round COAH Rules 
+After the adoption of the Fair Housing Act, COAH adopted procedural and substantive rules to 
+effectuate the FHA’s legislative intent in both the First Round (1987-1993) (N.J.A.C 5:91 and 5:92) 
+and Second Round (1993-1999) (N.J.A.C. 5:93).  The Second Round substantive regulations 
+(Chapter 93) superseded the First Round substantive regulations (Chapter 92) and recalculated 
+the First Round obligations. Under COAH’s regulations, low-income households were defined 
+as those with incomes no greater than 50 percent of the area median income (AMI), adjusted for 
+household size, and moderate-income households were those with incomes no greater than 80 
+percent and no less than 50 percent of the median household income. AMI limits were 
+calculated based upon housing regions as established by COAH. 
+2004 – 2010 | Third Round Litigation and Revisions 
+In December 2004, COAH promulgated its Third Round “Growth Share” methodology , which 
+adjusted prior round obligations and devised a new system for projecting future municipal 
+housing obligations. Growth Share obligations were based upon municipal growth and the 
+Third Round was defined as the period of 1999-2014. The initial Growth Share methodology 
+required municipalities to provide one affordable housing unit for every eight market rate units 
+and one affordable unit for every 25 jobs created.  In January 2007, the Appellate Division 
+invalidated the Growth Share Methodology and required COAH to revise its rules, which it did 
+in May 2008 via the Third Round substantive regulations of Chapter 97.  
+The FHA was subsequently amended in July 2008.  This round of amendments, among other 
+things, eliminated Regional Contribution Agreements and reduced non-residential 
+development fees.  In September 2008, Executive Order #114 was which amended the COAH 
+rules to ensure consistency with the Highlands Regional Master Plan. 
+2010 – 2023 | COAH’s Noncompliance and Resumption of Court Responsibility 
+During this period, there was inaction and increased uncertainty in the realm of affordable 
+housing.  
+After taking office Governor Chris Christie signed Executive Order No. 12, establishing the 
+Housing Opportunity Task Force and charging them with a full review of the Fair Housing Act, 
+COAH, and COAH’s regulatory structure. Ultimately, the task force recommended a model 
+which included adjusted definitions of present and prospective need, a benchmark of 10 percent 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 7 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 8 =====
+ 
+7 
+growth predicted by the State Planning Commission to guide obligations, and transferring of 
+procedural responsibility from COAH to the Home Mortgage Finance Agency (HMFA).  
+Further complicating matters, in October 2010, the Appellate Division invalidated a substantial 
+portion of COAH’s rules.  Most notably, the Court invalidated the Third Round Growth Share 
+methodology and ordered COAH to revise its rules in accordance with the decision. In addition, 
+the Court prohibited certification of housing plans that rely upon municipally sponsored 
+affordable housing projects without specified funding and required COAH to create an 
+incentive structure for inclusionary developments.  
+In January 2011, the legislature passed S-1 / A-3447, which was subsequently vetoed. Then, in 
+June Governor Christie issued a reorganization plan which transferred the administration of the 
+State’s affordable housing program from COAH to the New Jersey Department of Community 
+Affairs.  Upon challenge by the Fair Share Housing Center, the Appellate Court invalidated 
+Governor Christie’s Reorganization Plan in March 2012.  The Supreme Court upheld this 
+decision in July 2013.   
+In September 2013, the Supreme Court confirmed the invalidation of the previously adopted 
+Third Round regulations, upholding that the methodology used for projecting housing needs in 
+these rules was unconstitutional.  In that ruling, the court established a February 2014 deadline 
+for development and adoption of new COAH rules, which was eventually extended to 
+November 2014. Significantly, no rules were adopted. 
+In March 2015, in the case entitled In re: Adoption of N.J.A.C. 5:96 & 5:97, 221 N.J. 1 (2015), more 
+commonly referred to as “Mount Laurel IV” the State Supreme Court determined that COAH 
+was “moribund” and unable to carry out its duties as intended by the Fair Housing Act. The 
+Court further held “that the courts may resume their role as the forum of first instance for 
+evaluating municipal compliance with Mount Laurel obligations.”  
+Thus, the Court designed a transitional process whereby municipalities could seek judicial 
+approval of their HEFSPs.  Those transitional procedures gave municipalities the choice 
+whether to seek compliance voluntarily via a Declaratory Judgment (DJ) Action or to not file a 
+DJ Action and risk being sued. During this period, and in the absence of COAH, many 
+municipalities entered into court-mediated Settlement Agreements involving the Fair Share 
+Housing Center. 
+2024 – Present | Adoption of P.L.2024, c.2 and Fourth Round Methodology Changes and Department of 
+Community Affairs 
+With the impending end of the Third Round in 2025, there was a push at the State level to 
+implement new legislation that would reorganize the affordable housing process  and end the 
+transitional and court-oriented process initiated by Mount Laurel IV.  The result of this effort 
+was A-4 / S-50, which was signed into law by Governor Phil Murphy on March 20, 2024.  This 
+legislation created a framework to be used for the Fourth Round and beyond.  In summary, the 
+Law:  
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 8 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 9 =====
+ 
+8 
+1. Abolishes the Council on Affordable Housing ("COAH") and transfers its duties to the DCA 
+and the Administrative Office of the Courts ("AOC"); 
+2. Enables the DCA to implement the judicial methodology provided by Judge Mary C. 
+Jacobson, A.J.S.C. in her March 8, 2018 decision, In re Application of Municipality of 
+Princeton (the "Princeton Case"), to calculate every municipality's affordable housing 
+obligation for the Fourth Round; 
+3. Creates the Affordable Housing Dispute Resolution Program (the "Program") to oversee 
+disputes and provide for mediation; and 
+4. Expands the availability of bonus credits, while eliminating the previously offered "rental 
+bonus credit." Bonus credits are further described in this Housing Element and Fair Share 
+Plan. 
+5. Modifies applicable data and calculations underlying the methodology for calculation of 
+affordable housing obligations, eliminating the prior dependance of Courts and court-
+appointed Special Masters to deploy accepted methodologies to determine each 
+municipality's affordable housing obligation.  
+6. Sets timeframes under which municipalities must act to preserve immunity from 
+exclusionary zoning litigation. 
+Critically, the Amended Law requires that municipalities adopt a housing element and fair share plan 
+no later than June 30, 2025 to maintain immunity from exclusionary zoning litigation.   
+B. Housing Plan Requirements 
+Municipal Land Use Law (“MLUL”) + Fair Housing Act (“FHA”) 
+The MLUL, through incorporation of the New Jersey FHA, requires municipalities to include a 
+housing element in their master plans as a prerequisite to the zoning power. The principal 
+purpose is to enumerate and provide the data, policies, and methods by which municipalities 
+will meet housing needs, with particular attention to low- and moderate-income households.  
+Pursuant to Section 10 of P.L.1985, c.222 (C.52:27D-310) and as amended per Bill P.L.2024, c.2,3 
+as amended, the required contents of the housing element shall contain at least: 
+a. An inventory of the municipality's housing stock by age, condition, purchase or rental value, 
+occupancy characteristics, and type, including the number of units affordable to low- and moderate-
+income households and substandard housing capable of being rehabilitated, and in conducting this 
+inventory the municipality shall have access, on a confidential basis for the sole purpose of conducting 
+the inventory, to all necessary property tax assessment records and information in the assessor's office, 
+including but not limited to the property record cards; 
+ 
+3 https://pub.njleg.state.nj.us/Bills/2024/PL24/2_.PDF 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 9 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 10 =====
+ 
+9 
+b. A projection of the municipality's housing stock, including the probable future construction of low- 
+and moderate-income housing, for the next ten years, taking into account, but not necessarily limited 
+to, construction permits issued, approvals of applications for development and probable residential 
+development of lands; 
+c. An analysis of the municipality's demographic characteristics, including but not necessarily limited 
+to, household size, income level and age; 
+d. An analysis of the existing and probable future employment characteristics of the municipality; 
+e. A determination of the municipality's present and prospective fair share for low- and moderate-
+income housing and its capacity to accommodate its present and prospective housing needs, including 
+its fair share for low- and moderate-income housing, as established pursuant to section 3 of P.L.2024, 
+c.2 (C.52:27D-304.1); 
+f. A consideration of the lands that are most appropriate for construction of low- and moderate-income 
+housing and of the existing structures most appropriate for conversion to, or rehabilitation for, low- 
+and moderate-income housing, including a consideration of lands of developers who have expressed 
+a commitment to provide low- and moderate-income housing; and 
+g. An analysis of the extent to which municipal ordinances and other local factors advance or detract 
+from the goal of preserving multigenerational family continuity as expressed in the recommendations 
+of the Multigenerational Family Housing Continuity Commission, adopted pursuant to paragraph (1) 
+of subsection f. of section 1 of P.L.2021, c.273 (C.52:27D-329.20). 
+h. For a municipality located within the jurisdiction of the Highlands Water Protection and Planning 
+Council, established pursuant to section 4 of P.L.2004, c.120 (C.13:20-4), an analysis of compliance 
+of the housing element with the Highlands Regional Master Plan of lands in the Highlands 
+Preservation Area, and lands in the Highlands Planning Area for Highlands-conforming 
+municipalities. This analysis shall include consideration of the municipality's most recent Highlands 
+Municipal Build Out Report, consideration of opportunities for redevelopment of existing developed 
+lands into inclusionary or 100 percent affordable housing, or both, and opportunities for 100 percent 
+affordable housing in both the Highlands Planning Area and Highlands Preservation Area that are 
+consistent with the Highlands regional master plan; and 
+i. An analysis of consistency with the State Development and Redevelopment Plan, including water, 
+wastewater, stormwater, and multi-modal transportation based on guidance and technical assistance 
+from the State Planning Commission. 
+In addition to the statutory components of the Housing Element and Fair Share Plan detailed in 
+52:27D-310, Administrative Directive #14-24;4 which promulgated the procedures and 
+guidelines for implementing the Affordable Housing Dispute Resolution Program; contains a 
+ 
+4 https://www.njcourts.gov/sites/default/files/administrative-directives/2024/12/dir_14_24.pdf  
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 10 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 11 =====
+ 
+10 
+section entitled “Required Elements of Housing Element and Fair Share Plan.”  In summary, 
+the Directive requires four additional elements of the HEFSP to be included: 
+1. A site suitability analysis for any inclusionary zone and/or 100% affordable site 
+2. A concept plan for site development of any proposed inclusionary zone. 
+3. A detailed review of the credit worthiness of all existing units in the municipality 
+4. All ordinances and resolutions required to implement the plan attached as an Appendix 
+to the HEFSP. 
+However, it should be noted that the requirement to adopt all implementing ordinances to 
+effectuate the HEFSP as set forth in the Fair Housing Act is March 15, 2026. Given this 
+discrepancy of the dates, the statutory necessity of implementing ordinances to be reviewed by 
+the Planning Board and deemed consistent with this adopted HEFSP, and the potential for 
+challenges to the HEFSP as adopted, such ordinance amendments will be prepared following 
+adoption of this plan element. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 11 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 12 =====
+ 
+11 
+III. Housing Element: Municipal Summary 
+Teaneck Township is roughly 6.24 square miles in area and is in Bergen County. For regional 
+and planning purposes, Teaneck Township is located in Housing Region 1, a region that consists 
+of Bergen, Hudson, Passaic and Sussex counties. 
+In compiling the analysis for the Housing Element, this report utilizes the following data: 
+1. American Community Survey (“ACS”): The most up to date information is the ACS 
+estimates, which are generated between the decennial censuses. ACS figures are based on 
+data collected over a 5-year time period. The estimates represent the average characteristics 
+of population and housing between 2018-2023 and DO NOT represent a single point in time. 
+Comparisons will be made with the 2018-2023 ACS to show change over time. See URL link5 
+utilized in this HEFSP. 
+2. Decennial Census: Every ten years, the Census conducts detailed data collection to create an 
+image that is as accurate as possible of the conditions throughout the country in that year. 
+Data from the decennial census is used for comparison when equivalent ACS information is 
+unavailable, as well as for longitudinal analysis. See URL link6 utilized in this HEFSP. 
+3. North Jersey Transportation Planning Authority (“NJTPA”): Every four years, the NJTPA 
+updates its regional forecasts for population, households and employment as part of 
+updating its long-range transportation plan (LRTP), the region’s blueprint for transportation 
+investment. See URL link7 utilized in this HEFSP. 
+4. State or Other Agency Sources: for select data types, State sources are used instead of the 
+Census Bureau when equivalent Census data does not exist or the State data provides a more 
+complete picture.  
+ 
+A. Housing Conditions 
+The analysis in this section shall satisfy Part A of P.L.1985, c.222 (C.52:27D-310), which requires: 
+§ A) “Inventory of housing stock by age, condition, purchase or rental value, occupancy 
+characteristics, and type, including the number of units affordable to low- and moderate-income 
+households and substandard housing capable of being rehabilitated, and in conducting this 
+inventory the municipality shall have access, on a confidential basis for the sole purpose of 
+conducting the inventory, to all necessary property tax assessment records and information in the 
+assessor's office, including but not limited to the property record cards” 
+ 
+5https://data.census.gov/table  
+ 
+6https://data.census.gov/table?d=DEC%20Demographic%20Profile  
+ 
+7https://www.njtpa.org/NJTPA/media/Documents/Planning/Plans-Guidance/Planning%20for%202050/draft%20final/E-2050-Demographic-
+Forecasts.pdf 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 12 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 13 =====
+ 
+12 
+Housing Stock by Age and Condition 
+According to the 2023 ACS, there are an estimated 13,851 housing units in Teaneck Township 
+which represented a 155 unit decrease since 2018 (14,006 units). 
+77.6% of Teaneck Township’s housing structures were built prior to 1960, suggesting that almost 
+3 out of 4 units are older than 65 years.  
+Table 1: Year Structure Built 
+ 
+UNITS 
+PERCENT 
+    Total housing units 
+13,851 
+ 
+        Built 2020 or later 
+0* 
+0.0* 
+        Built 2010 to 2019 
+365 
+2.6 
+        Built 2000 to 2009 
+294 
+2.1 
+        Built 1990 to 1999 
+364 
+2.6 
+        Built 1980 to 1989 
+671 
+4.8 
+        Built 1970 to 1979 
+267 
+1.9 
+        Built 1960 to 1969 
+1,141 
+8.2 
+        Built 1950 to 1959 
+3,741 
+27.0 
+        Built 1940 to 1949 
+2,190 
+15.8 
+        Built 1939 or earlier 
+4,818 
+34.8 
+Source: American Community Survey 2023 
+DCA Reporter was reviewed to verify number of COs issued during the 2020-2023 period to further 
+analyze the “zero” structures built ACS data.  A total of 395 COs were issued. 
+The table below details the condition of housing within Teaneck Township based on heating 
+fuel, plumbing facilities, kitchen facilities. These factors help determine the number of 
+inadequate housing units within the Township. According to the current ACS estimate, 320 
+housing units in Teaneck Township lacked either heating fuel, plumbing or kitchen facilities, 
+which is more than 2018. 
+ 
+Table 2: Housing Condition 
+ 
+2023 
+PERCENT 
+2018 
+PERCENT PERCENT 
+CHANGE 
+Total 
+320 
+2.3 
+133 
+1 
+1.3 
+Lacking heating fuel  
+127 
+0.9 
+72 
+0.5 
+0.4 
+Lacking complete plumbing facilities 
+57 
+0.40 
+21 
+0.2 
+0.2 
+Lacking complete kitchen facilities 
+136 
+1.00 
+40 
+0.3 
+0.7 
+Source: American Community Survey 2023 and 2018 
+ 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 13 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 14 =====
+ 
+13 
+Housing Values and Costs 
+Since 2018, home values in the Township have increased by $99,900 (25.2%). This change is 
+accompanied by an increase in homes worth between $ 500,000 and $499,999 and a decrease in 
+homes worth between $200,000 and $299,000.  
+Table 3: Value for Owner-Occupied Housing Units 
+ 
+2023 
+PERCENT 
+2018 
+PERCENT PERCENT 
+CHANGE 
+    Total Owner-occupied units 
+10,307 
+- 
+9,840 
+- 
+4.74 
+        Less than $50,000 
+253 
+2.5 
+73 
+0.7 
+1.8 
+        $50,000 to $99,999 
+101 
+1.0 
+46 
+0.5 
+0.5 
+        $100,000 to $149,999 
+58 
+0.6 
+48 
+0.5 
+0.1 
+        $150,000 to $199,999 
+147 
+1.4 
+233 
+2.4 
+-1 
+        $200,000 to $299,999 
+500 
+4.9 
+1,012 
+10.3 
+-5.4 
+        $300,000 to $499,999 
+4,191 
+40.7 
+6,120 
+62.2 
+-21.5 
+        $500,000 to $999,999 
+4,168 
+40.4 
+1,855 
+18.9 
+21.5 
+        $1,000,000 or more 
+889 
+8.6 
+453 
+4.6 
+4 
+        Median (dollars) 
+$496,400 
+- 
+$396,500 
+- 
+25.2 
+Source: American Community Survey 2023 and 2018 
+ 
+The table below shows the housing expenditures for those who own and rent in Teaneck. The 
+general affordability standard is that no more than 30% of gross income should be allocated for 
+housing costs.  
+A cost burden is the ratio of housing costs to household income. For renters, housing cost is the 
+gross rent (lease rent plus utilities). For owners, housing cost is the monthly owner costs, which 
+may include mortgage, utilities, association fees, insurance, and real estate taxes. 
+Table 4: Housing Cost Burden 
+Monthly Costs as Percentage of Household Income) 
+RANGES 
+OWNER 
+RENTER 
+W/ MORTGAGE 
+W/O MORTGAGE TOTAL PERCENT 
+TOTAL 
+PERCENT 
+TOTAL 
+PERCENT 
+Less than 20.0 
+percent 
+2,399 
+37.2 
+2,610 
+67.8 
+3,307 
+27.4 
+20.0 to 24.9 percent 
+1,278 
+19.8 
+165 
+4.30 
+281 
+16.5 
+25.0 to 29.9 percent 
+433 
+6.7 
+223 
+5.80 
+466 
+12.8 
+30.0 to 34.9 percent 
+507 
+7.9 
+66 
+1.70 
+361 
+9.4 
+35.0 percent or more 
+1,836 
+28.5 
+783 
+20.40 
+264 
+33.9 
+Not computed 
+0 
+(X) 
+7 
+(X) 
+955 
+(X) 
+Source: American Community Survey 2023 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 14 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 15 =====
+ 
+14 
+Occupancy Characteristics and Type of Housing 
+As of 2023, the Township is predominately comprised of owner-occupied households, which 
+comprise 76.9% of the Township’s households. A total of 23.1% of households are renters, and 
+3.2% of the Township’s housing units are vacant. Since 2018, the Township has seen a shift 
+towards owner-occupied households, coming from a 3.1% decrease in renters and a 1.6% 
+increase in the Township's vacancy rate.  
+Table 5: Housing Tenure and Occupancy 
+ 
+2023 
+PERCENT 
+2018 
+PERCENT 
+PERCENT 
+CHANGE 
+Total 
+13,851 
+ 
+14,006 
+ 
+ 
+Owner Occupied 
+10,307 
+76.9* 
+9,840 
+73.8** 
+3.1 
+Renter Occupied 
+3,099 
+23.1* 
+3,490 
+26.2** 
+-3.1 
+Vacant Units 
+445 
+3.2 
+676 
+4.8 
+-1.6 
+Source: American Community Survey 2023 and 2018; and County 
+*Compared to 65.4% owner-occupied and 34.6% in Bergen County (353,307 units) 
+** Compared to 64.4% owner-occupied and 35.6% in Bergen County (338,249 units) 
+ 
+Housing units with more than one occupant per room are considered overcrowded. 
+Overcrowded households in the Township rose 1% since 2018.  
+ 
+Table 6: Occupants Per Room + Inadequate Units in Occupied Housing Units 
+OCCUPANTS PER ROOM 
+2023 
+PERCENT 
+2018 
+PERCENT 
+Total 
+13,406 
+ 
+13,330 
+ 
+        1.00 or less 
+12,924 
+96.4 
+12,984 
+97.4 
+        1.01 to 1.50 
+338 
+2.5 
+231 
+1.7 
+        1.51 or more 
+144 
+1.1 
+115 
+0.9 
+Source: American Community Survey  2023 and 2018 
+ 
+Since 2018, the share of Township’s single-family housing stock decreased from 14,006 units to 
+13,851 units.  
+Table 7: Housing Type and Size 
+HOUSING UNITS 
+2023 
+PERCENT 
+2018 
+PERCENT 
+PERCENT 
+CHANGE 
+    Total housing units 
+13,851 
+ 
+14,006 
+ 
+ 
+        1-unit, detached 
+10,219 
+73.8 
+10,188 
+72.7 
+1.1 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 15 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 16 =====
+ 
+15 
+        1-unit, attached 
+430 
+3.1 
+464 
+3.3 
+-0.2 
+        2 units 
+683 
+4.9 
+696 
+5.0 
+-0.1 
+        3 or 4 units 
+277 
+2.0 
+518 
+3.7 
+-1.7 
+        5 to 9 units 
+862 
+6.2 
+868 
+6.2 
+0 
+        10 to 19 units 
+332 
+2.4 
+498 
+3.6 
+-1.2 
+        20 or more units 
+981 
+7.1 
+752 
+5.4 
+1.7 
+        Mobile home 
+67 
+0.5 
+22 
+0.2 
+0.3 
+        Boat, RV, van, etc. 
+0 
+0.0 
+0 
+0.0 
+0 
+Source: American Community Survey 2023 and 2018 
+ 
+Since 2018, the bedroom typology of Township’s has remained the same in “family” sized 3+ 
+bedroom type (70.1%) in 2023.   
+Table 8: Number of Bedrooms Per Unit 
+ROOMS 
+2023 TOTAL PERCENT 
+2018 TOTAL PERCENT PERCENT 
+CHANGE 
+Total 
+13,851 
+ 
+14,006 
+ 
+ 
+No Bedroom 
+227 
+1.6 
+199 
+1.4 
+0.2 
+1 Bedroom 
+1,164 
+8.4 
+1,436 
+10.3 
+-1.9 
+2 Bedrooms 
+2,736 
+19.8 
+2,557 
+18.3 
+1.5 
+3 Bedrooms 
+5,198 
+37.5 
+5,904 
+42.2 
+-4.7 
+4 Bedrooms 
+3,317 
+23.9 
+2,734 
+19.5 
+4.4 
+5 or more Bedrooms 
+1,209 
+8.7 
+1,176 
+8.4 
+0.3 
+Source: American Community Survey 2023 and 2018 
+ 
+Existing Low- and Moderate-Income Housing Units 
+Teaneck reviewed all property tax assessment records and information in the assessor's office, 
+including but not limited to the property record cards, to determine the number of existing low- 
+and moderate-income housing units. Based on this review, there are 351LMI units in the 
+Township of Teaneck.  The Township is following the applicable requirements regarding unit 
+monitoring and reporting.  
+ 
+B. Housing Projections 
+The analysis in this section shall satisfy Part B of P.L.1985, c.222 (C.52:27D-310), which requires: 
+§ B) “A projection of the municipality's housing stock, including the probable future construction of 
+low- and moderate-income housing, for the next ten years, taking into account, but not necessarily 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 16 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 17 =====
+ 
+16 
+limited to, construction permits issued, approvals of applications for development and probable 
+residential development of lands.” 
+ 
+Projection of Housing Stock 
+Below is a general prediction by NJTPA of Teaneck Township’s household population growth 
+to 15,461 households in 2050. This increase in 1,960 households would require available units to 
+accommodate and may be a prediction indicator of new projected housing stock.  
+ 
+Table 9: Housing Unit Projection 
+YEAR 
+POPULATION 
+ANNUALIZED % CHANGE 
+2015 
+13,501 
+- 
+2050 (Predicted) 
+15,461 
+0.4% 
+Source: NJTPA, "Appendix E - 2050 Demographic Forecasts" 
+ 
+Zoning regulations and existing capital infrastructure may help determine where growth is 
+expected and where new housing units are likely to be developed in the future.  
+ 
+Teaneck Township expects new developments to bear the cost that such development puts upon 
+the existing infrastructure, including its sewer and water systems, road infrastructure, school 
+facilities, and emergency services. This includes the addition of capacity necessitated by the new 
+development, as well as associated maintenance costs. New development should not be a 
+burden on the Township’s infrastructure. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 17 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 18 =====
+ 
+17 
+Figure 1: Existing Land Use Map 
+ 
+Teaneck Township Land Use Map8 
+ 
+8 Map Note: Classifications are based on assessor records.  "Vacant land" as depicted on this map should 
+not be construed to limit or supersede any conclusions made in the Vacant Land Adjustments. 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 18 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 19 =====
+ 
+18 
+Figure 2: Existing Zoning Map 
+ 
+Teaneck Township Master Plan (Page 27) 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 19 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 20 =====
+ 
+19 
+C. Demographic Characteristics 
+The analysis in this section shall satisfy Part C of P.L.1985, c.222 (C.52:27D-310), which requires: 
+§ C) “An analysis of the municipality's demographic characteristics, including but not necessarily 
+limited to, household size, income level and age.” 
+Population General 
+The population estimate for Teaneck Township in 2023 was 41,126 which represents a decrease 
+of 120 from the 2020 Census. Despite this trend, the NJTPA predicts Teaneck Township’s 
+population to grow to 46,885 people in 2050. 
+Table 10: Historic Population Growth 
+YEAR 
+POPULATION 
+CHANGE 
+1940 
+25,275 
+N/A 
+1950 
+33,772 
+8,497 
+1960 
+42,085 
+8,313 
+1970 
+42,355 
+270 
+1980 
+39,007 
+-3,348 
+1990 
+37,825 
+-1,182 
+2000 
+39,260 
+1,435 
+2010 
+39,776 
+516 
+2020 
+41,246 
+1,470 
+2023 
+41,126 
+-120 
+2050 (Predicted) 
+46,885 
+5,759 (est.) 
+Source: NJ State Data Center, New Jersey Population Trends 1790 to 2000, US Census Bureau; NJTPA, 
+"Appendix E - 2050 Demographic Forecasts" 
+ 
+Population Composition by Age 
+The estimated current median age in Teaneck Township is 37.9, compared to 42.1 for Bergen 
+County and 40.1 for New Jersey. 
+Table 11: Population by Age 
+AGE RANGE 
+TEANECK 
+TOWNSHIP 
+PERCENT 
+BERGEN 
+COUNTY 
+PERCENT 
+        Under 5 years 
+2,215 
+5.3 
+48,738 
+5.1 
+        5 to 9 years 
+2,189 
+5.3 
+52,770 
+5.5 
+        10 to 14 years 
+3,054 
+7.4 
+61,465 
+6.4 
+        15 to 19 years 
+3,458 
+8.3 
+59,276 
+6.2 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 20 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 21 =====
+ 
+20 
+AGE RANGE 
+TEANECK 
+TOWNSHIP 
+PERCENT 
+BERGEN 
+COUNTY 
+PERCENT 
+        20 to 24 years 
+3,529 
+8.5 
+54,219 
+5.7 
+        25 to 34 years 
+4,685 
+11.3 
+109,077 
+11.4 
+        35 to 44 years 
+4,698 
+11.3 
+128,544 
+13.5 
+        45 to 54 years 
+5,169 
+12.5 
+133,870 
+14.0 
+        55 to 59 years 
+2,931 
+7.1 
+69,969 
+7.3 
+        60 to 64 years 
+2,111 
+5.1 
+66,441 
+7.0 
+        65 to 74 years 
+4,253 
+10.2 
+96,442 
+10.1 
+        75 to 84 years 
+2,369 
+5.7 
+50,615 
+5.3 
+85 years and over 
+838 
+2.0 
+23,291 
+2.4 
+Median Age 
+37.9 
+(X) 
+42.1 
+(X) 
+Source: American Community Survey 2023 
+ 
+Households 
+According to the US Census Bureau’s classification system, people either live in a household, 
+housing unit, or in “group quarters.” Two types of “households” exist: family and non-family. 
+A “household” consists of one or more persons living and eating together separately from other 
+persons who may be in the same building. A “family” is a household with two or more related 
+persons living together in the same housing unit. 
+Table 12: Population by Housing Type 
+ 
+TEANECK TOWNSHIP 
+BERGEN COUNTY 
+2023 
+2023 
+Total Housing Units 
+13,851 
+368,535 
+Average Household Size (Owner) 
+3.20 
+2.7 
+Average Household Size (Renter) 
+2.49 
+2.7 
+Householders Living Alone 
+3,758 
+92,860 
+Source: American Community Survey 2023; Census Reporter; U.S. Census Bureau QuickFacts 
+ 
+Immigration 
+Foreign born residents make up 26.6% percent of Teaneck Township’s population, which is 
+lower than County (31.4%) and higher than State (23.5%) levels. Less than half of Teaneck 
+Township’s foreign-born residents are not U.S. citizens, comprising 29.5% of the Township’s 
+foreign born population, a smaller share than that of Bergen County (33.6%) and the State 
+(43.1%).  
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 21 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 22 =====
+ 
+21 
+Table 14: Residents Place of Birth 
+ 
+TEANECK 
+TOWNSHIP 
+BERGEN COUNTY 
+NEW JERSEY 
+COUNT PERCENT COUNT PERCENT COUNT 
+PERCENT 
+Total 
+41,499 
+954,717 
+ 
+9,267,014 
+ 
+Born in United States 29,132 
+70.2 
+634,008  
+66.4 
+6,849,548 
+73.9 
+Foreign Born 
+11,056 
+26.6 
+300,087 
+31.4 
+2,181,755 
+23.5 
+Naturalized Citizen 
+7,789 
+70.5 
+199,247 
+66.4 
+1,241,100 
+56.9 
+Not a Citizen 
+3,267 
+29.5 
+100,840 
+33.6 
+940,655 
+43.1 
+Source: American Community Survey 2023 
+ 
+Income and Poverty Status 
+The median household income for Teaneck Township grew from 2023 to 2018, growing 22.5% 
+and outpacing the County (16.3%) and the State (22.2%).  
+Table 15: Household Median Income 
+ 
+2023 
+2018 
+CHANGE 
+% CHANGE 
+Teaneck Township 
+134,311 
+109,677 
+24,634 
+22.5 
+Bergen County 
+116,709 
+100,361 
+16,348 
+16.3 
+New Jersey 
+99,781 
+81,740 
+18,041 
+22.1 
+Source: American Community Survey 2023 and 2018; ACS County Financial Characteristics 
+ 
+In Teaneck Township, 2,249 residents (5.5%) live below the poverty line, same as 5.5% in 2018. 
+In this regard, the Township had a different trajectory than Bergen County, which experienced 
+a decrease from 6.9% to 6.6% in 2023. 
+Table 16: Poverty Status 
+TEANECK TOWNSHIP 
+2023 
+PERCENT 
+2018 
+PERCENT CHANGE 
+Total Persons 
+40,734 
+ 
+39,512 
+  
+1,222 
+Total Below Poverty 
+2,249 
+5.5 
+2,165 
+5.5 
+0 
+BERGEN COUNTY 
+2023 
+PERCENT 
+2018 
+PERCENT CHANGE 
+Total Persons 
+946,205 
+ 
+927,422 
+  
+18,783 
+Total Below Poverty 
+61,987 
+6.6 
+64,303 
+6.9 
+-0.3 
+Source: American Community Survey 2023 and 2018; ACS County for Bergen and Teaneck 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 22 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 23 =====
+ 
+22 
+D. Multigenerational Housing Continuity 
+The analysis in this section shall satisfy Part G of P.L.1985, c.222 (C.52:27D-310), which requires: 
+§ G) “An analysis of the extent to which municipal ordinances and other local factors advance or 
+detract from the goal of preserving multigenerational family continuity as expressed in the 
+recommendations of the Multigenerational Family Housing Continuity Commission, adopted 
+pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c.273 (C.52:27D-329.20).” 
+On November 8, 2021, the Senate and General Assembly of the State of New Jersey adopted 
+C.52:27D-329.209, which establishes the “Multigenerational Family Housing Continuity 
+Commission” for the purpose of conducting research, obtaining public input, and adopting 
+recommendations on how to most effectively advance the goal of enhancing multigenerational 
+family housing continuity, which can be defined broadly as the degree to which senior citizens 
+are able to reside at the homes of their extended families.  
+In short, the bill requires a municipal housing plan element to provide an analysis of the extent 
+to which municipal ordinances and other local factors advance or detract from the goal of 
+preserving multigenerational family continuity, as expressed in the recommendations of the 
+commission.  
+Teaneck is committed to promoting intergenerational harmony through the provision of diverse 
+housing options in a manner consistent with the regulation. As demonstrated in the above 
+demographic and housing analysis, Teaneck is diversifying its housing stock as the size of 
+owner-occupied households increases and housing units containing 20+ units increases, too. 
+The municipality is employing a variety of approaches to accomplish this task, such as 
+redevelopment plans that convert former commercial properties into housing.  Strategies 
+proposed or already implemented include the creation of family housing.  The municipality, in 
+setting forth its compliance plan, is abiding by the limitations included in the statute. 
+E. Employment Data 
+The analysis in this section shall satisfy Part D of P.L.1985, c.222 (C.52:27D-310), which requires: 
+§ C) “An analysis of the existing and probable future employment characteristics of the 
+municipality.” 
+Below is a general growth prediction by NJTPA of Teaneck’s employment forecast in 2050.  
+Table 17: Employment Projection 
+YEAR 
+LABOR FORCE 
+CHANGE 
+ANNUALIZED % CHANGE 
+2015 
+14,724 
+ 
+ 
+2050 (Predicted) 
+16,877 
+2,153 
+14.6 
+Source: NJTPA 
+ 
+9 https://pub.njleg.gov/Bills/2020/AL21/273_.HTM 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 23 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 24 =====
+ 
+23 
+IV. Fair Share Plan: Obligations and Compliance Plan 
+A. Introduction 
+As noted, on March 20, 2024, Governor Murphy signed P.L. 2024, c.2 into law, which established 
+a new framework for determining and enforcing municipalities’ affordable housing obligations 
+under the Mount Laurel doctrine and the Fair Housing Act. The Act sets forth the procedures 
+for how New Jersey municipalities are assigned affordable housing obligations and how they 
+may meet those obligations over a series of affordable housing “rounds.” On July 1, 2025, the 
+“Fourth Round” will begin and run for a ten-year period ending on June 30, 2035.  
+The Act required the Department of Community Affairs (the “DCA”) to prepare a report with 
+the calculation of the regional and municipal Prospective Need and the municipal Present Need 
+for the Fourth Round in accordance with the formula required by the Amended Act. The DCA 
+released a report entitled “Affordable Housing Obligations for 2025-2035 (Fourth Round)” on 
+October 18, 2024 and concluded that Teaneck’s fair share obligations for the Fourth Round 
+included a Present Need of 214 units and a Prospective Need of 431 units. 
+In accordance with N.J.S.A. 52:27D-301 et seq. and the implementation schedule set forth in 
+Directive #1424, the Township adopted Resolution 42-2025 on January 30, 2025 (See Appendix 
+A), as part of its participation in the Affordable Housing Dispute Resolution Program (the 
+“Program”). 
+Resolution 42-2025 revised the Fourth Round affordable housing Prospective Need from 431 
+units to 384 units. These figures were derived from an analysis applying DCA’s Land Capacity 
+Factor methodology, which updated properties deemed unavailable for development due to 
+environmental constraints, existing structural improvements, highway rights-of-way, and 
+similar limitations not making the land “developable.” 
+In response, the New Jersey Builders Association (“NJBA”) filed a formal objection to the 
+proposed adjustment. A case management conference was held on March 26, 2025 (Docket No. 
+BER-L-776-25), during which the ruling favored adherence to the original DCA-issued 
+obligation of 431 credits. As of the time of this Housing Element, no formal order has been issued 
+from such decision, and the Township continues to reserve its right to appeal the determination. 
+As such, the Housing Element and Fair Share Plan is based on the original obligation of 431 
+affordable housing credits, as outlined by the New Jersey Department of Community Affairs 
+(DCA) in its non-binding release of obligation figures in October 2024. 
+The purpose of the following sections is to set forth the Township of Teaneck’s proposed 
+approach to satisfying its Fourth Round obligation, where the Township Present Need or 
+“Rehabilitation Obligation” is 214 credits, and the “Prospective Need” is 431 credits. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 24 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 25 =====
+ 
+24 
+B. Prior Round Need Compliance “Look Back” (2015-2025) 
+Teaneck has a history of fulfilling its affordable housing obligation.  Most recently, on February 
+1, 2019, the Township received a Final Judgment of Compliance and Repose (“JCR”) relating to 
+its Third Round obligation.  The JCR was issued after a period of negotiation and settlement, 
+primarily between the Township and Fair Share Housing Center (“FSHC”).  During this period 
+of negotiation, the Township adopted a Third Round Housing Element on February 6, 2019.  The 
+HEFSP and settlement agreements set forth the Township’s Third Round obligation and 
+identified the actions required by the Township to fulfill these obligations. As demonstrated in 
+the tables below and supported by the issuance of the JCR, the Township fully satisfied its 
+obligations under the Third Round as articulated in its settlement with the FSHC.  As such, no 
+obligation is carried forward to the Fourth Round. 
+Table 18: Projects Cited to Satisfy Third Round Realistic Development Potential (“RDP”) 
+ROUND 3 RDP PROJECT 
+(SEE ROUND 3 HEFSP, PG. 23-
+26) 
+LMI 
+UNITS 
+STATUS 
+Surplus Units Carried from Prior 
+Round 
+22 
+On-Going 
+Supportive Shared Housing 
+28 
+Completed 
+Teaneck Senior Citizens Addition 
+18 
+Completed 
+Single-Family Homes  
+(Bergen County Housing Authority) 
+8 
+Completed 
+The Brookdale 
+26 
+Completed 
+227 Teaneck Road 
+5 
+Completed 
+1775 Windsor Road (Avalon Bay) 
+25 
+Completed 
+1500 Teaneck Road 
+23 
+Completed 
+1475 Palisade Avenue 
+10 
+Completed 
+140 State Street 
+5 
+On December 13, 2022 the Township 
+adopted 
+Ordinance 
+49-2022 
+which 
+adopted a Redevelopment Plan for 140 
+State Street for multifamily. 
+ 
+On February 11, 2025 the Township 
+amended 
+the 
+Redevelopment 
+Plan 
+(Ordinance 15-2025) which creates a 
+concept for 10 affordable units (i.e. 5 
+surplus). 
+764 New Bridge Road 
+2 
+Completed 
+Bonus Credits 
+44 
+On-Going 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 25 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 26 =====
+ 
+25 
+Table 19: Zoning Actions to Satisfy Third Round Unmet Need Requirements 
+ROUND 3 
+UNMET NEED 
+MECHANISM 
+REQUIREMENT  
+(SUMMARY BELOW. SEE FULL TEXT PER 
+ROUND 3 HEFSP, PG. 27-30) 
+CREDITS SUPPLIED / MADE 
+OPPORTUNITY 
+Surplus 
+Credits 
+40 surplus non-age restricted units from 
+projects addressing the RDP, 24 age-
+restricted units from The Bookdale 
+Complete 
+Alfred Avenue 
+Rezoning 
+Rezone an 18-acre site (Block 6002, Lots 1-
+9) from L-I Light Industry to R-MO3 
+Residential-Multifamily 3 Overlay District. 
+ 
+Permit densities up to 60 du/acre of non-
+age restricted units, which could yield 
+about 
+150 
+to 
+200 
+affordable 
+units 
+depending on the tenure and set-aside.  
+Rezoned by Ord. No. 48-2015. on 
+February 9, 2016. 
+ 
+See 
+R-MO3 
+standards 
+at 
+https://ecode360.com/38151638. 
+ 
+329 Alfred Avenue / 1085 Decatur 
+Avenue approved 38 affordable 
+units via PB 2020-16 
+ 
+359 Alfred Avenue approved 37 
+affordable units via PB 2022-20 
+ 
+Ord. No. 14-2026, adopted on March 
+10, 2026, increased the mandatory 
+affordable set-aside from 15% to 20% 
+for 
+remaining 
+undeveloped 
+properties. 
+East Oakdene 
+Rezone 
+a 
+1.737-acre 
+site 
+from 
+R-S 
+Residential 
+Single-Family 
+/ 
+the 
+B-2 
+Business-Office zone to R-RO Overlay 
+(Residential-Rowhouse Overlay District). 
+ 
+Permit up to 30 du/acre non-age restricted 
+development 
+and 
+could 
+yield 
+approximately 10 affordable units.  
+Rezoned by  Ord. No. 14-2017 on 
+July 6, 2017. 
+ 
+See 
+full 
+standards 
+at 
+https://ecode360.com/38151547 
+ 
+Ord. No. 14-2026, adopted on March 
+10, 2026, increased the mandatory 
+affordable set-aside from 15% to 
+20%. 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 26 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 27 =====
+ 
+26 
+ROUND 3 
+UNMET NEED 
+MECHANISM 
+REQUIREMENT  
+(SUMMARY BELOW. SEE FULL TEXT PER 
+ROUND 3 HEFSP, PG. 27-30) 
+CREDITS SUPPLIED / MADE 
+OPPORTUNITY 
+1405 Teaneck 
+Road and 1425 
+Teaneck Road 
+Rezone 
+sites 
+from 
+B-R 
+Business-
+Residential zone to R-SCII Residential-
+Senior Housing II Zone. 
+ 
+Permit up to 60 du/acre age restricted 
+development 
+and 
+could 
+yield 
+approximately 10 affordable units. 
+Rezoned by  Ord. No. 15-2017 on 
+July 6, 2017. 
+ 
+See 
+full 
+standards 
+at 
+https://ecode360.com/38151548  
+ 
+1425 Teaneck Road approved 40 
+senior 
+affordable 
+units 
+on 
+September 21, 2020 
+ 
+Additionally, 
+a 
+AHTF 
+contribution 
+of 
+$900,000 
+was 
+made on November 30, 2022. 
+ 
+Ord. No. 14-2026, adopted on March 
+10, 2026, increased the mandatory 
+affordable set-aside from 15% to 20% 
+for 1405 Teaneck Road. 
+Holuba 
+Rezone a 6.75-acre site from L-I Light 
+Industry District. Permit densities 12 
+du/acre non-age restricted development, 
+which would yield approximately 16 
+affordable units. 
+The 
+“Holuba” 
+soap 
+factory 
+townhouse development at 520 
+Palisades Ave has a Developer’s 
+Agreement which requires 16 
+affordable units. 
+Township-
+wide 
+mandatory 
+set-aside 
+ordinance 
+A multi-family or single-family attached 
+development providing a minimum of five 
+(5) new housing units created through any 
+future municipal rezoning or Zoning Board 
+action, 
+use 
+or 
+density 
+variance, 
+redevelopment plan, or rehabilitation plan 
+that provide for densities at or above six (6) 
+units per acre is required to include an 
+affordable housing set-aside of 20 percent 
+if the affordable units will be for sale and 
+15 percent if the affordable units will be for 
+rent.  
+Adopted. See Appendix D. 
+ 
+Ordinance No. 15-2026, adopted on 
+March 16, 2026, repealed and 
+replaced Chapter 33, Article VI with 
+the State’s Model Ordinance, as 
+required for consistency with the 
+Uniform 
+Housing 
+Affordability 
+Control Act. All projects with five or 
+more housing units are required a 
+20% set-aside. 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 27 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 28 =====
+ 
+27 
+As demonstrated in the tables above and supported by the issuance of the JCR, the Township 
+fully satisfied its obligations under the Third Round as articulated in its settlement with the 
+FSHC. As such, no obligation is carried forward to the Fourth Round. 
+C. Present and Prospective Need Obligation (2025-2035) 
+The analysis in this section shall satisfy Part E of P.L.1985, c.222 (C.52:27D-310), which requires: 
+§ E) “A determination of the municipality's present and prospective fair share for low- and 
+moderate-income housing and its capacity to accommodate its present and prospective housing 
+needs, including its fair share for low- and moderate-income housing, as established pursuant to 
+section 3 of P.L.2024, c.2 (C.52:27D-304.1)” 
+Present Need (Rehabilitation Share) 
+The Rehabilitation Share is described as “deficient housing units occupied by low- and 
+moderate-income households within a municipality and is a component of “present need” 
+under N.J.A.C. 5:93-1.3. In Teaneck Township, the rehabilitation obligation through the end of 
+the Fourth Round (i.e. July 2035) has been determined to be 214.  
+Teaneck plans to continue its participation in Bergen County’s rehabilitation program. This 
+program offers deferred payment loans to low- and moderate-income homeowners living in 
+one- to three-family homes within the Bergen County Consortium. 
+Qualified homeowners may receive a zero-interest, 10-year deferred loan covering the cost of 
+necessary rehabilitation work. The County Division of Housing and Community Development 
+administers these loans through the Home Improvement Program, which markets the program, 
+screens applicants, and manages the repair process. 
+The program will primarily serve owner-occupied units and address homes with lack of heat, 
+lack of hot water, roof leaks, dangerous electrical problems, broken pipes, problems with 
+sanitary facilities, and other housing conditions that threaten the health, safety, or well-being of 
+the household members per COAH rules (N.J.A.C. 5:93). All rehabilitated units shall remain 
+affordable to low- and moderate-income households for a period of at least 10 years (the control 
+period). For owner-occupied units, the control period is enforced with a recorded lien; and for 
+renter occupied units, the control period is enforced with a recorded deed restriction. 
+The Township has also endorsed the Bergen County CDBG program proposed by Advance 
+Housing Inc. for Commonwealth Drive Sustainability (via Resolution 28-2025). This project will 
+serve 3 homeless LMI individuals with rehabilitation repairs at a residence located on 
+Commonwealth Drive in Teaneck (See Appendix J). 
+The Township also intends to program funding from the Affordable Housing Trust Fund to 
+support rehabilitation of deficient housing units that are occupied by low- and moderate-
+income households, in accordance with the New Jersey State Housing Code, N.J.A.C. 5:28, or 
+the requirements of the Rehabilitation Subcode, N.J.A.C. 5:23-6, as applicable. All qualifying 
+project contributions will be amended in the Spending Plan accordingly. 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 28 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 29 =====
+ 
+28 
+Prospective Need Obligation 
+The Township has a prospective need of 431 credits for Round 4 (2015-2025). 
+However, as demonstrated in the completed Vacant Land Analysis found in Appendix B, the 
+Township does not have enough suitable land to address the obligation. Therefore, the 
+Township seeks a vacant land adjustment (“VLA”) under the COAH Second Round Rules 
+(N.J.A.C. 5:93-4.2) and an adjustment of its Fourth Round new construction obligation to reflect 
+the available and developable land area within its municipal boundaries. It is the conclusion of 
+this analysis that the Realistic Development Potential (“RDP”) is 11 units. 
+In addition to vacant properties that have a realistic development potential, the Township must 
+also consider known projects in its RDP assessment likely to be redeveloped in the 2025-2035 
+Fourth Round obligation. The Legislation includes the following language (emphasis added): 
+Any municipality that receives an adjustment of its prospective need obligations for the fourth 
+round or subsequent rounds based on a lack of vacant land shall as part of the process of adopting 
+and implementing its housing element and fair share plan identify sufficient parcels likely 
+to redevelop during the current round of obligations to address at least 25 percent of the 
+prospective need obligation that has been adjusted, and adopt realistic zoning that allows 
+for such adjusted obligation, or demonstrate why the municipality is unable to do so. 
+With a Fourth Round prospective need of 431 credits and Realistic Development Potential of 11, 
+this leaves a remaining need to be addressed of 420 credits. In accordance with the above, 
+twenty-five percent of the remaining need is 105. 
+Realistic Development Potential (RDP) Mechanisms 
+The Township will address at least 25 percent of the prospective need obligation that has been 
+adjusted through the following projects: 
+1. 140 State Street Amended Redevelopment Plan: 5 Credits* 
+*Project previously planned at 36 units with 5 LMI set-aside in Round 3. Amended to 66 units 
+with 10 LMI set-aside, where 5 new LMI units count towards Round 4 
+2. Cedar Lane and American Legion Drive (Redevelopment)10: 48 Credits 
+3. 143 State Street (Redevelopment): 9 Credits 
+4. 827 Teaneck Road (Rezoning or Redevelopment): 6 Credits 
+ 
+10 The subject site also fronts Beverly Road, Garrison Avenue, Windsor Road, Alma Terrace, North Street, 
+and Water Street. For the purposes of this HEFSP, the project is referred to as “Cedar Lane and American 
+Legion Drive.” However, a future Redevelopment Plan may adopt a different name while still referring to the 
+same designated block and lot numbers. 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 29 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 30 =====
+ 
+29 
+5. 1387 Hill Street (Rezoning or Redevelopment): 4 Credits 
+6. 54 West Englewood (Rezoning or Redevelopment): 11 Credits 
+7. Bonus Credits Under the Fourth Round: 41.5 Credits 
+Under N.J.S.A. 52:27D-311k, New Jersey updated the rules for bonus credits in Round 411. 
+Municipalities can now earn bonus credits in the following ways: 
+a. One (1) bonus credit for special needs or permanent supportive housing; 
+b. One (1) bonus credit for 100% affordable housing projects for which the host 
+municipality has contributed towards the cost of the project, subject to certain minimum 
+contribution requirements; 
+c. One (1) bonus credit for market rate units that are converted to affordable units; 
+d. One-half (0.5) bonus credit for ownership units created in a partnership sponsorship 
+with a non-profit housing developer; 
+e. One-half (0.5) bonus credit for units located within a one-half mile radius (or a one­ 
+mile radius for projects located in a Garden State Growth Zone) of NJ Transit or Port 
+Authority rail, bus, or ferry stations, including all light rail stations; 
+f. One-half (0.5) bonus credit for age-restricted units, subject to certain caps; 
+g. One-half (0.5) bonus credit for each three-bedroom unit in excess of the three­ bedroom 
+requirements set forth in the Uniform Housing Affordability Controls; 
+h. One-half (0.5) bonus credit for housing units constructed on previously developed land 
+that was utilized for retail, office, or commercial space; and 
+i. One-half (0.5) bonus credit for units whose affordability controls are extended for a new 
+term of affordability; 
+The following are bonus credits applicable in Round Four: 
+PROJECT 
+PROJECT NOTE 
+BONUS 
+CREDITS 
+140 State Street 
+This project will replace former gas 
+station, where 5 new LMI units (beyond 
+the original 5 in Round 3) are planned 
++ 2.5 Credits 
+(per H above) 
+Cedar Lane and 
+American Legion Drive 
+This 
+project 
+will 
+replace 
+former 
+commercial buildings / commercial 
+parking lots, where 48 LMI units are 
+planned 
++ 24 Credits 
+(per H above) 
+ 
+11 Note: 
+• 
+A municipality may claim only one type of bonus credit per affordable unit 
+• 
+Bonus credits may satisfy no more than 25% of the Round 4 obligation 
+ 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 30 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 31 =====
+ 
+30 
+PROJECT 
+PROJECT NOTE 
+BONUS 
+CREDITS 
+143 State Street 
+This project will replace a gas station, 
+where 9 LMI units are planned 
++ 4.5 Credits 
+(per H above) 
+827 Teaneck Road 
+This project will replace a commercial 
+restaurant, where 6 LMI units are 
+planned 
++ 3 Credits 
+(per H above) 
+1387 Hill Street 
+This project is located within ½ mile of 
+NJ Transit Bus Stop, where 4 LMI units 
+are planned 
++ 2 Credits 
+(per E above) 
+54 West Englewood Ave 
+This project is located within ½ mile of 
+NJ Transit Bus Stop, where 11 LMI units 
+are planned 
++ 5.5 Credits 
+(per E above) 
+ 
+In addition to the above compliance mechanisms addressing the “25 percent of the adjusted prospective need 
+obligation,” the Township has rezoned 822 Palisade Avenue to permit a density of 60 dwelling units per acre, 
+with a mandatory 20% affordable housing set-aside. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 31 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 32 =====
+ 
+31 
+The following is a summary of the Round 4 Projects and bonus credits applicable in Round Four: 
+Compliance Framework: 
+ROUND 4 COMPLIANCE FRAMEWORK 
+DCA OBLIGATION 
+Prospective Need Obligation 
+431 
+Realistic Development Potential (RDP) per VLA 
+11 
+"Likely to Redevelop" 25% Requirement 
+105 
+Maximum Bonus Credits 
+107.75 
+ 
+Crediting Projects: 
+PROJECT SITE 
+B/L 
+LMI 
+UNITS 
+BONUS 
+CREDIT TYPE 
+BONUS 
+CREDITS 
+W/ BONUS 
+CREDITS 
+140 State Street 
+Amended RDP 
+Block 5004, Lot 1 
+5 
+TOD (0.5) 
+2.5 
+7.5 
+Cedar Lane and 
+American 
+Legion Drive 
+Block 819, Lots 1, 
+14, 16, 17; Block 
+707, Lots 1-5; Block 
+705, Lot 4.01 
+48 
+TOD or Non-Res 
+Conversion (0.5) 
+24 
+72 
+143 State Street 
+Block 5002, Lot 26 
+9 
+TOD or Non-Res 
+Conversion (0.5) 
+4.5 
+13.5 
+827 Teaneck 
+Road 
+Block 3902, Lot 2.01 
+6 
+TOD or Non-Res 
+Conversion (0.5) 
+3 
+9 
+1387 Hill Street 
+Block 5003, Lot 16 
+4 
+TOD (0.5) 
+2 
+6 
+54 West 
+Englewood Ave 
+Block 4905, Lots 1, 
+2 and 3 
+11 
+TOD (0.5) 
+5.5 
+16.5 
+822 Palisade Ave 
+Block 2603, Lot 21 
+“Passive” Rezoning of 60 DU/AC 
+Total: 
+124.5 
+Unmet Need: 
+CREDITS 
+CREDITS 
+Prospective Need Obligation  
+- 431 Credits 
+Credits Toward 4th Round 25% VLA 
+- 124 .5 Credits 
+REMAINING UNMET NEED CREDITS 
+306.5 Credits 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 32 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 33 =====
+ 
+32 
+Figure 3: Prospective Need Projects Maps 
+ 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 33 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 34 =====
+BER-L-000776-25
+05/26/2026 5:30:01 PM
+Pg 34 of 42
+Trans ID: LCV20261408514
+an)
+he
+a
+es
+7,
+a
+7
+=
+} et
+.
+“
+-
+4
+if
++2
+‘
+=
+Se
+re
+To's
+is
+ee? eS
+Bo
+a F
+f
+4 LF
+Sg
+-
+> SS
++
+‘
+Pin Iety,
+>
+i
+riRip te
+y¥
+vie, 5
+ee
+ee
+QS
+te
+ly
+;
+a
+es ee>
+~
+nx
+o.
+,
+Pe
+>
+oa Mal
+oe) ei
+—
+7 ds:
+!
+A .
+4
+.
+_—
+a
+<.
+.
+~hd
+Lo Ceat
+ae
+Ly
+Oy
+4
+Y Ops
+Li
+Le)
+are
+4,
+oh
+<3"
+:
+ey
+Sas
+4
+ait
+~
+—
+yy
+;
+>
+HD sa
+S
+<a.
+a
+-
+ah ~=
+Om
+.
+SF
+.
+~
+= a
+peat ene
+f a
+;
+.
+y he
+mS
+, KB
+fy)
+Slow
+B be
+nw
+=
+&
+Tee Oo
+W
+iy
+Grn
+Tip
+‘?
+a
+a
+>
+>),
+%
+i.
+.
+oe
+ee
+°
+Round 4 Projects
+>
+aay.
+(J 54 West Englewood
+Ave FY)
+?
+,
+(> 143 State Street
+, y 4 fd
+ie /,
+vA
+J
+1387 Hill Street
+Ht
+,
+,
+ors
+IX
+() 140 State Street
+h
+,
+>
+:
+— a
+|
+aN
+
+===== PAGE 35 =====
+BER-L-000776-25
+05/26/2026 5:30:01 PM
+Pg 35 of 42
+Trans ID: LCV20261408514
+rSté=ny
+ee
+—
+| 34
+Ss
+| \"
+if
+~~.
+gee SE :
+ae
+:
+-
+\
+|
+xd
+/
+~
+Ties
+f
+¥
+~ ey,
+nh
+¢
+\
+itn
+7
+|
+SPAT
+AY
+‘
+-.
+Lom
+Ss
+>
+5
+ae
+Ta
+&
+nal
+Ss
+7
+a.
+*
+= i
+St Rey
+.
+<5
+/
+ff
+ey Lf / =
+-
+‘"
+“7
+\
+-—
+;
+a
+Ei a
+ft
+ora Ree
+<3
+.
+~
+22,
+|
+|
+,
+i,
+fae
+;
+/
+Bey
+~~
+-
+“J
+~
+/
+i
+_—
+an
+J
+Ul
+.
+;
+f
+,
+y
+=
+e-
+—=
+AQ 7
+}
+CF
+~~ a
+@: , Fl
+/
+. <a
+Round
+4 Projects
+3040
+Ye
+50° 2084 JN
+() 827 Teaneck Road
+wee
+—
+ammen)  //\
+Piane
+P3379 3000
+-
+™
+Union
+oleae
+f
+Ervroil:
+halloWlopolod
+TOPOLOGY.
+,
+New
+Jeruny
+O71
+Website:
+iopolog
+
+===== PAGE 36 =====
+BER-L-000776-25
+05/26/2026 5:30:01 PM
+Pg 36 of 42
+Trans ID: LCV20261408514
+.
+w je
+im ~
+= a
+-
+=
+;
+Se
+: »/
+/
+Ree
+SS)
+Sle
+.
+OS fV—
+eR.
+0}
+~
+ers oy
+=
+eS
+~~
+Ka
+fe
+Se:
+eI
+Lhd
+&
+Fn)
+JURY.
+Se
+LV
+S pee a
+A
+i eee 5S,
+: ¥ SS ; =
+VJ, Yi
+ee
+TSE Wi
+ae
+ey)
+JS a 1, ie
+Yt /'| oe RS
+(SRG PRES
+Pf
+bos
+UhREG
+<
+Ag~
+Oya)
+i PaaS
+YS NS
+y re es BR
+ea “Ss
+)
+/~ he:
+uaa
+yt
+oN
+{i
+,
+y
+=)
+aie
+(i
+i
+L>
+Ta
+=
+(
+( ae
+:
+/
+i,
+SoneJ)
+Ts ~
+oe
+.
++ Ay Bye > if
+on
+eS
+le,.
+tS
+yon
+OU YBa
+* phe’
+TL
+Fe [pe
+Le i.
+fA
+Se
+Gif
+ey
+~~
+E
+«
+»
+//
+f
+’
+os
+y
+.
+Ve
+~_—
+a]
+:
+m
+ee
+oS
+=
+Se
+JPET
+:
+Ms
++
+ee
+ee
+ie
+7m
+"
+——
+Ss
+¥
+Do
+~
+Tn
+Ava
+J
+-
+LEE
+’
+L
+5
+|
+=
+{«
+&
+Round 4 Projects
+)
+Shore
+py
+Ml
+Cedar Lane
+& American Legion Drive
+o
+Av:
+fs IX
+(CJ 822 Palisade Ave
+. a
+5 =
+x=
+f
+
+===== PAGE 37 =====
+ 
+36 
+Prospective Need Projects Description and Suitability Analysis 
+Municipalities shall designate sites that are available, suitable, developable and approvable, as 
+defined in N.J.A.C. 5:93-1. As such, the criteria for crediting units must meet the following: 
+1. “Available site” – a site with clear title, free of encumbrances which preclude development 
+for low- and moderate-income housing. 
+2. “Suitable site” – a site that is adjacent to compatible land uses, has access to appropriate 
+streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4. 
+3. “Developable site” – a site that has access to appropriate water and sewer infrastructure, and 
+is consistent with the applicable area wide water quality management plan (including the 
+wastewater management plan) or is included in an amendment to the area wide water 
+quality management plan submitted to and under review by DEP. 
+4. “Approvable site” – a site that may be developed for low- and moderate-income housing in 
+a manner consistent with the rules or regulations of all agencies with jurisdiction over the 
+site. A site may be approvable although not currently zoned for low- and moderate-income 
+housing. 
+Based on the below, the following crediting sites can appropriately be included in the 
+Township’s Fourth Round HEFSP. 
+Table 20: Projects Description and Suitability Analysis 
+As of March 2026, all implementing rezoning/redevelopment ordinances have been adopted 
+140 STATE STREET (REDEVELOPMENT - AMENDED JANUARY 2025) 
+Description of Availability 
+The site is owned by a Developer with clear title. 
+Description of Suitable 
+The Redevelopment Area is suitable. It is near a variety of 
+residential and commercial uses. It contains access to bus routes, 
+parks, sidewalk pedestrian access, and a built-out center. 
+Description of Developable 
+The Redevelopment Area is developable. It has access to 
+infrastructure necessary to support development. 
+Description of Approvable 
+The Redevelopment Area is approvable. It has an adopted 
+redevelopment plan in place. 
+CEDAR LANE, AMERICAN LEGION DRIVE, ET AL. (REDEVELOPMENT PLANNED) 
+Description of Availability 
+The site is owned by a Developer with clear title. 
+Description of Suitable 
+The property is suitable. It is near a variety of residential and 
+commercial uses. It contains access to bus routes, parks, sidewalk 
+pedestrian access, and a built-out center. 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 37 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 38 =====
+ 
+37 
+Description of Developable 
+The site is developable. It has access to infrastructure necessary to 
+support development. 
+Description of Approvable 
+The 
+site 
+is 
+approvable. 
+The 
+Township 
+commits 
+to 
+a 
+Redevelopment Plan and/or rezoning to permit the residential 
+affordable housing. 
+143 STATE STREET (REDEVELOPMENT OR REZONING PLANNED) 
+Description of Availability 
+The site is owned by a Developer with clear title. 
+Description of Suitable 
+The property is suitable. It is near a variety of residential and 
+commercial uses. It contains access to bus routes, parks, sidewalk 
+pedestrian access, and a built-out center. 
+Description of Developable 
+The site is developable. It has access to infrastructure necessary to 
+support development. 
+Description of Approvable 
+The 
+site 
+is 
+approvable. 
+The 
+Township 
+commits 
+to 
+a 
+Redevelopment Plan and/or rezoning to permit the residential 
+affordable housing. 
+827 TEANECK ROAD (REDEVELOPMENT OR REZONING PLANNED) 
+Description of Availability 
+The site is owned by a Developer with clear title. 
+Description of Suitable 
+The property is suitable. It is near a variety of residential and 
+commercial uses. It contains access to bus routes, parks, sidewalk 
+pedestrian access, and a built-out center. 
+Description of Developable 
+The site is developable. It has access to infrastructure necessary to 
+support development. 
+Description of Approvable 
+The 
+site 
+is 
+approvable. 
+The 
+Township 
+commits 
+to 
+a 
+Redevelopment Plan and/or rezoning to permit the residential 
+affordable housing. 
+1387 HILL STREET (REDEVELOPMENT OR REZONING PLANNED) 
+Description of Availability 
+The site is owned by a Developer with clear title. 
+Description of Suitable 
+The property is suitable. It is near a variety of residential and 
+commercial uses. It contains access to bus routes, parks, sidewalk 
+pedestrian access, and a built-out center. 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 38 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 39 =====
+ 
+38 
+Description of Developable 
+The site is developable. It has access to infrastructure necessary to 
+support development. 
+Description of Approvable 
+The 
+site 
+is 
+approvable. 
+The 
+Township 
+commits 
+to 
+a 
+Redevelopment Plan and/or rezoning to permit the residential 
+affordable housing. 
+54 WEST ENGLEWOOD AVE (REDEVELOPMENT OR REZONING PLANNED) 
+Description of Availability 
+The site is owned by a Developer with clear title. 
+Description of Suitable 
+The property is suitable. It is near a variety of residential and 
+commercial uses. It contains access to bus routes, parks, sidewalk 
+pedestrian access, and a built-out center. 
+Description of Developable 
+The site is developable. It has access to infrastructure necessary to 
+support development. 
+Description of Approvable 
+The 
+site 
+is 
+approvable. 
+The 
+Township 
+commits 
+to 
+a 
+Redevelopment Plan and/or rezoning to permit the residential 
+affordable housing. 
+822 PALISADE AVENUE (REZONING) 
+Description of Availability 
+The site is available to the Owner who may wish to redevelop. 
+Description of Suitable 
+The property is suitable. It is near a variety of residential and 
+commercial uses. It contains access to bus routes, parks, sidewalk 
+pedestrian access, and a built-out center. 
+Description of Developable 
+The site is developable. It has access to infrastructure necessary to 
+support development. 
+Description of Approvable 
+The site is approvable. The Township has rezoned the project to 
+permit the residential affordable housing. 
+ 
+Land Most Appropriate for Affordable Housing 
+The analysis in this section shall satisfy Part F of P.L.1985, c.222 (C.52:27D-310), which requires: 
+§ F) “A consideration of the lands that are most appropriate for construction of low- and moderate-
+income housing and of the existing structures most appropriate for conversion to, or rehabilitation 
+for, low- and moderate-income housing, including a consideration of lands of developers who have 
+expressed a commitment to provide low- and moderate-income housing” 
+As part of this Fair Share Plan, the Township has considered land that is appropriate for the 
+construction of very low-, low-, and moderate-income housing. By utilizing various zoning 
+mechanisms, the Township has successfully met its affordable housing obligations and 
+continues to facilitate the creation of such housing. The Township has amended zoning 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 39 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 40 =====
+ 
+39 
+regulations to establish affordable and inclusionary housing districts. Furthermore, the 
+adoption of a mandatory set-aside ordinance guarantees that unexpected opportunities for 
+affordable housing are utilized. The Township considers the strategies outlined in this 
+document to be the most effective approach to meeting its affordable housing needs. While it 
+acknowledges that developers may propose additional sites in the future that could be suitable 
+for affordable housing, no further sites are currently required to fulfill the Township’s 
+obligations. 
+ 
+Endorsement of Affordable Housing Compliance Mechanisms 
+The Township acknowledges that, in accordance with affordable housing regulations, it may be 
+eligible to receive credit toward its affordable housing obligation through alternative 
+mechanisms. This includes extending existing affordability controls by re-deed restricting units 
+in compliance with Uniform Housing Affordability Controls (UHAC) standards; deed-
+restricting approved Accessory Dwelling Units (ADUs) in accordance with UHAC; and/or 
+exploring the potential to qualify units regulated under municipal rent control ordinances. The 
+Township encourages these approaches and considers them viable strategies to support 
+continued compliance with affordable housing obligations. 
+Mandatory Obligation Subsets 
+Below is a table reviewing additional obligation requirement thresholds. 
+MANDATORY OBLIGATIONS 
+CITATION 
+# REQUIRED 
+OF ACTUAL 
+UNITS* 
+PROPOSED 
+Very 
+Low-Income 
+Units 
+(13% 
+Minimum) 
+ 
+Shall count towards the minimum 50 
+percent of the housing units required to be 
+made available for occupancy by low-
+income 
+households 
+to 
+address 
+a 
+municipality's prospective need obligation.  
+52:27D-329.1 
+11 
+(Rounded Up) 
+Projects will 
+comply with 
+UHAC 
+Requirements 
+for LMI 
+requirements 
+Family VLI Units  
+(50% Minimum of VLI Units) 
+52:27D-329.1 
+6 
+(Rounded Up) 
+Low-Income Units (50% Minimum) 
+ 
+Conversely, the maximum of Moderate-
+Income Units shall not exceed 50%. 
+52:27D-329.1 
+42 
+(Rounded Up) 
+Family Units (50% Minimum) 
+52:27D-311.l 
+42 
+(Rounded Up) 
+All 83 
+physical units 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 40 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 41 =====
+ 
+40 
+Rental Units (25% Minimum) 
+52:27D-311.l 
+21 
+(Rounded Up) 
+are Family 
+Rental 
+Family Rental Units  
+(50% Minimum of Rental Units) 
+52:27D-311.k.5 
+11 (Rounded Up) 
+Age-restricted units (30% Maximum) 
+52:27D-302.q 
+24 
+(Rounded Down) 
+None of the 
+83 physical 
+units are 
+senior or 
+transitional 
+proposed at 
+this time 
+Transitional Housing  
+(10% Maximum of Total Credits) 
+52:27D-311.e 
+8 
+(Rounded Down) 
+Age-Restricted Housing Bonus Credit  
+(10% 
+Maximum 
+of 
+Age-Restricted 
+Units) 
+52:27D-311.k.4 
+8 
+(Rounded Down) 
+* Based on 83 actual units that do not count the 41.5 bonus credits. 
+ 
+Note 1: Maximum bonus credits shall not exceed 25% of Prospective Need per 52:27D-311.k.  
+ 
+Note 2: Targets based on required units and will be enforced throughout the Fourth Round as part of 
+site plan review and approval. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 41 of 42   Trans ID: LCV20261408514 
+
+===== PAGE 42 =====
+ 
+41 
+V. Appendices 
+A. Regulatory Resolutions (Adopting Obligation Number) 
+B. Vacant Land Adjustment 
+C. Zoning Amendments (or redevelopment plans, if applicable) – Updated in 2026 
+D. Affordable Housing, Developer Fee, Affirmative Marketing, and Administrative Agent 
+Omnibus Ordinance – Updated in 2026 
+The Township’s existing ordinance is attached and will remain in full force and effect during the Fourth 
+Round. The Township will make all necessary modifications to this ordinance to comply with any 
+forthcoming Fourth Round requirements as updated regulations and rules are released. 
+E. Development Fee Ordinance – Former Appendix E merged into Appendix D 
+The Township’s existing ordinance is attached and will remain in full force and effect during the Fourth 
+Round. The Township will make all necessary modifications to this ordinance to comply with any 
+forthcoming Fourth Round requirements as updated regulations and rules are released. 
+F. Affirmative Marketing Plan 
+The Township’s existing Affirmative Marketing Plan is attached and will remain in full force and effect 
+during the Fourth Round. The Township will make all necessary modifications to this ordinance to 
+comply with any forthcoming Fourth Round requirements as updated regulations and rules are 
+released. 
+G. Spending Plan 
+H. Resolution of intent to fund cost of municipality’s municipally sponsored affordable housing 
+development as well as its rehabilitation program 
+I. Copies of resolutions appointing Administrative Agent(s) and ordinance creating the 
+position of and appointing the Municipal Affordable Housing Liaison 
+The Township’s existing appointing resolutions and ordinances are attached and will remain in full 
+force and effect during the Fourth Round. The Township will make all necessary modifications to these 
+resolutions and ordinances to comply with any forthcoming Fourth Round requirements as updated 
+regulations and rules are released. 
+J. CDBG Rehabilitation Project Endorsement 
+K. May 19, 2026 Council Endorsement of Housing Element and Fair Share Plan 
+                                                                                                                                                                                              
+BER-L-000776-25   05/26/2026 5:30:01 PM   Pg 42 of 42   Trans ID: LCV20261408514 

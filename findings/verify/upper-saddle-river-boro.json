@@ -1,0 +1,54 @@
+{
+  "municipality": "Upper Saddle River",
+  "research_status": "complete",
+  "obligation": {
+    "present_need": 0,
+    "prospective_need": 233,
+    "total_obligation": 233,
+    "rdp": 0,
+    "unmet_need": 233,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/upper-saddle-river-boro/61225USRHousingElementandFairSharePlanADOPTED61125.pdf?VersionId=eBgLqLtAjq3Ae2HAxUhvJLg5dtUstaB1"
+  },
+  "compliance": {
+    "status": "plan_adopted",
+    "settlement_party": "FSHC",
+    "settlement_date": null,
+    "hefsp_status": "adopted",
+    "hefsp_adopted_date": "2025-06-11",
+    "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/upper-saddle-river-boro/61225USRHousingElementandFairSharePlanADOPTED61125.pdf?VersionId=eBgLqLtAjq3Ae2HAxUhvJLg5dtUstaB1"
+  },
+  "notes": "HEFSP filed BER-L-000586-25 on 06/12/2025 (72 pages). Planner: Community Planning. Present Need obligation is zero. Fourth Round prospective need 233 units per DCA, RDP reduced to 0 via VLA (no newly vacant parcels ≥ 0.83 acres). Third Round RDP was 78 units (fully addressed). Borough proposes one inclusionary redevelopment site at 10 Mountainview Road (18.85 acres, currently vacant dilapidated office building). Non-Condemnation Area in Need of Redevelopment Report being prepared. Draft zoning would allow 7 du/acre = 132 total units, 26 affordable (20% set-aside). Amended plan filed 03/27/2026 also in docmap.",
+  "sources": [
+    {
+      "label": "Fourth Round HEFSP (adopted June 11 2025)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/upper-saddle-river-boro/61225USRHousingElementandFairSharePlanADOPTED61125.pdf?VersionId=eBgLqLtAjq3Ae2HAxUhvJLg5dtUstaB1",
+      "local_ocr": "sources/ocr/upper-saddle-river-boro__hefsp.txt"
+    }
+  ],
+  "sites": [
+    {
+      "site_name": "10 Mountainview Road (Viewstar Site)",
+      "address": "10 Mountainview Road, Upper Saddle River, NJ 07458",
+      "block": null,
+      "lot": null,
+      "acreage": 18.85,
+      "mechanism": "redevelopment",
+      "current_zoning": "Office (developed, dilapidated vacant multistory office building)",
+      "proposed_zoning": "Inclusionary redevelopment (Non-Condemnation Area in Need of Redevelopment; draft zoning 7 du/acre, min lot 18 ac)",
+      "density": 7,
+      "total_units": 132,
+      "affordable_units": 26,
+      "set_aside_pct": 20,
+      "tenure": "mixed",
+      "adoption_status": "proposed_redevelopment",
+      "developer": "Viewstar LL (current owner; Gold, Moshe)",
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/upper-saddle-river-boro/61225USRHousingElementandFairSharePlanADOPTED61125.pdf?VersionId=eBgLqLtAjq3Ae2HAxUhvJLg5dtUstaB1",
+      "source_page": "43-46",
+      "source_date": "2025-06-11",
+      "confidence": "medium",
+      "verification_status": "verified",
+      "quote": "The Borough has a 4th Round rehabilitation obligation of zero and a prospective need of 233 affordable housing units. A vacant land adjustment analysis undertaken for the 4th Round indicates the Borough has a zero-unit RDP. Irrespective of that, the Borough shall designate a site at 10 Mountainview Road as an inclusionary development site. This 18.8-acre parcel is presently developed with an office building. this site and prepare a redevelopment plan calling for the site's redevelopment for inclusionary development at a density of 7 units per acre which is consistent with the surrounding multi-family residential densities. This would result in a total of 132 dwelling units on-site including 26 affordable units. Details associated with this site's redevelopment as an inclusionary development with a 20 percent set-aside for affordable housing are set forth in the body of this report.",
+      "notes": "Block/lot not identified in HEFSP text (only address and acreage given). Property owner per Fire Prevention Notice of Violations (Sept 27, 2022): Viewstar LL, NJ; owner Gold, Moshe. RDP is technically zero for Fourth Round; this site is proposed voluntarily. A draft Non-Condemnation Area in Need of Redevelopment Report is being prepared. Site borders Pinnacle Co. inclusionary townhouse community to north and multi-story multifamily inclusionary complex to southeast. Confidence medium because block/lot not confirmed in OCR text and redevelopment designation not yet complete."
+    }
+  ]
+}

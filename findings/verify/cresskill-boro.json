@@ -1,0 +1,151 @@
+{
+  "municipality": "Cresskill",
+  "research_status": "done",
+  "obligation": {
+    "present_need": 0,
+    "prospective_need": 155,
+    "total_obligation": 155,
+    "rdp": 0,
+    "unmet_need": 155,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/HousingElementFairSharePlanexecutedandPBapproved.pdf?VersionId=Sf4EcIDzzRVkqRJ0nTmQRqwu3E.n4wwB"
+  },
+  "compliance": {
+    "status": "settled; prior Third Round settlement with FSHC; Final Unconditional Declaratory Judgment of Compliance and Repose entered; VLA approved RDP=0",
+    "settlement_party": "Fair Share Housing Center",
+    "settlement_date": null,
+    "hefsp_status": "adopted (Planning Board approval May 13, 2025; filed May 15, 2025)",
+    "hefsp_adopted_date": "2025-05-13",
+    "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/HousingElementFairSharePlanexecutedandPBapproved.pdf?VersionId=Sf4EcIDzzRVkqRJ0nTmQRqwu3E.n4wwB"
+  },
+  "notes": "DCA assigned present need=0 (accepted) and prospective need=155 (accepted). VLA analysis gives RDP=0; all 155 units are unmet need. Cresskill is a fully developed community with no viable vacant land. Fourth Round plan relies entirely on continuation of Third Round unmet need mechanisms: (1) continuation of existing overlay zones from Third Round (including District 3A overlay from prior settlement); (2) mandatory set-aside ordinance; (3) accessory apartment program (9 units targeted); (4) S&K Auto site (Block 182 Lots 18-28, 38 Broadway) rezoned as Affordable Housing Site II at 15 du/ac, 15% or 20% set-aside; (5) Crestron Electronics site (Block 181 Lot 1, 101 Broadway) rezoned to Townhouse Residence Zone; (6) potential market-to-affordable program or group home using trust fund. No new Fourth Round-specific rezoning of sites; the plan carries forward all prior round overlay zones intact. Note: Cresskill HEFSP endorsed and signed version (HousingElementFairSharePlanexecutedandPBapproved.pdf) and the HEFSPexecuted.pdf may be the same document; used the executed and PB approved version as primary source. Candidate snapshot listed Block 181 Lot 1 as the only site at 15 du/ac and 15% rental / 20% for-sale — but the plan has multiple sites.",
+  "sources": [
+    {
+      "doc_type": "HEFSP",
+      "title": "2025 Housing Element and Fair Share Plan, Borough of Cresskill (approved May 13, 2025, filed May 15, 2025)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/HousingElementFairSharePlanexecutedandPBapproved.pdf?VersionId=Sf4EcIDzzRVkqRJ0nTmQRqwu3E.n4wwB",
+      "excerpt": "DCA established Cresskill's Prospective Need obligation as 155 affordable housing dwelling units... the Borough's RDP is established at zero (0) units. This analysis also establishes the Borough's Unmet Need obligation to be 155 units."
+    },
+    {
+      "doc_type": "ordinance",
+      "title": "Ordinance No. 18-23-1511 A (Affordable Housing Site II zone, S&K Auto, Block 182 Lots 18-28)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/HousingElementFairSharePlanexecutedandPBapproved.pdf?VersionId=Sf4EcIDzzRVkqRJ0nTmQRqwu3E.n4wwB",
+      "excerpt": "Block 182 Lots 18-28 creates a reasonable opportunity for the construction of affordable housing... The Zoning Map of the Borough of Cresskill is and shall be amended to depict and reflect Block 182 Lots 18-28 are and shall be in the Affordable Housing Site II zone."
+    },
+    {
+      "doc_type": "ordinance",
+      "title": "Ordinance No. 19-21-1503 A (Townhouse Residence Zone, Block 181 Lot 1)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/HousingElementFairSharePlanexecutedandPBapproved.pdf?VersionId=Sf4EcIDzzRVkqRJ0nTmQRqwu3E.n4wwB",
+      "excerpt": "The Zoning Map of the Borough of Cresskill is and shall be amended to depict and reflect Block 181, Lot 1 as being in the Townhouse Residence Zone."
+    },
+    {
+      "doc_type": "HEFSP",
+      "title": "CresskillHousingElementFairSharePlanEndorsedandSigned (alternative version)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/CresskillHousingElementFairSharePlanEndorsedandSigned.pdf?VersionId=9vgOwyGNroV3HNw6sFmpQ2LXluWz6M8q",
+      "excerpt": "Endorsed and signed version of HEFSP"
+    },
+    {
+      "doc_type": "DCA",
+      "title": "DCA Bergen Obligations JSON",
+      "url": "sources/dca_bergen_obligations.json",
+      "excerpt": "Cresskill borough: present_need=0, quam=0, prospective_need=155"
+    }
+  ],
+  "sites": [
+    {
+      "site_name": "S&K Auto Site — Affordable Housing Site II Zone",
+      "address": "38 Broadway, Cresskill, NJ",
+      "block": "182",
+      "lot": "18-28",
+      "acreage": null,
+      "mechanism": "inclusionary overlay (Affordable Housing Site II zone)",
+      "current_zoning": "Affordable Housing Site II (rezoned per Ord. No. 18-23-1511 A)",
+      "proposed_zoning": null,
+      "density": 15.0,
+      "total_units": null,
+      "affordable_units": null,
+      "set_aside_pct": 15.0,
+      "tenure": "rental (anticipated based on market conditions)",
+      "adoption_status": "adopted-ordinance (Ord. No. 18-23-1511 A); site not yet developed",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/HousingElementFairSharePlanexecutedandPBapproved.pdf?VersionId=Sf4EcIDzzRVkqRJ0nTmQRqwu3E.n4wwB",
+      "source_page": "Pages 27-28, Section on Third Round compliance; Page 38, Table 24 (S&K Auto pending 1 credit); Page 38-39 Section 3.3",
+      "source_date": "2025-05-13",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "The S&K Auto site is a large and underutilized site that has been rezoned into a new Affordable Housing II zone. This zone will permit 15 dwelling units per acre, require a 15% or 20% affordable housing setaside depending on ownership model... Cresskill continues to support inclusionary housing to be developed on this site during the upcoming Fourth Round housing cycle. Ord. No. 18-23-1511 A, which rezoned this property to allow for a residential inclusionary development is included as Appendix A-4.",
+      "notes": "Site at 38 Broadway (Block 182 Lots 18-28). Permitted at 15 du/ac; 15% set-aside for rental, 20% for sale. Plan anticipated 1 credit from Third Round (pending); continued in Fourth Round as an ongoing unmet need mechanism. Affordable Housing Site II zone. The HEFSP table lists it as '1 Pending' affordable unit credit toward Third Round RDP at Table 24."
+    },
+    {
+      "site_name": "Crestron Electronics Site — Townhouse Residence Zone",
+      "address": "101 Broadway, Cresskill, NJ",
+      "block": "181",
+      "lot": "1",
+      "acreage": 2.57,
+      "mechanism": "inclusionary overlay (Townhouse Residence Zone)",
+      "current_zoning": "Townhouse Residence Zone (rezoned per Ord. No. 19-21-1503 A)",
+      "proposed_zoning": null,
+      "density": null,
+      "total_units": null,
+      "affordable_units": 6,
+      "set_aside_pct": null,
+      "tenure": "rental (anticipated)",
+      "adoption_status": "adopted-ordinance (Ord. No. 19-21-1503 A); site developed (Crestron Electronics occupying); development not yet commenced",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/HousingElementFairSharePlanexecutedandPBapproved.pdf?VersionId=Sf4EcIDzzRVkqRJ0nTmQRqwu3E.n4wwB",
+      "source_page": "Pages 27-28, Section C",
+      "source_date": "2025-05-13",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Cresskill rezoned a fully developed site owned by Creston Electronics (101 Broadway; Block 181 Lot 1) allowing development of either 6 rental units or 8 for-sale units affordable units on this 2.5-acre tract... Based on current market conditions, we anticipate this site will be developed with rental units, thus generating six (6) Third Round affordable housing credits and a like number of bonus credits that can be applied to both the Third Round and future affordable housing cycles.",
+      "notes": "2.57-acre lot (plan text says 2.5 acres) on north side of Broadway. Rezoned to Townhouse Residence Zone per Ord. 19-21-1503 A. Can produce 6 rental or 8 for-sale affordable units. Six rental credits (+ 6 bonus) would count toward Third Round and/or Fourth Round cycles. The settlement agreement (Appendix A-1) also references Crestron Electronics site at Block 181 Lot 1 (2.57 acres). Candidate snapshot correctly identified Block 181 Lot 1 with 6 rental/8 for-sale but misidentified density as 15 du/ac and set-aside as 15%; the HEFSP only states unit counts, not specific density/set-aside for this Townhouse Residence Zone."
+    },
+    {
+      "site_name": "Downtown Commercial Zone — Upper Floor Residential Overlay",
+      "address": "Downtown Cresskill (Central Business District, over 16 acres), Cresskill, NJ",
+      "block": null,
+      "lot": null,
+      "acreage": 16.0,
+      "mechanism": "inclusionary overlay (second and third floor apartments over commercial)",
+      "current_zoning": "Commercial Zone with overlay for 2nd/3rd floor apartments",
+      "proposed_zoning": null,
+      "density": 15.0,
+      "total_units": null,
+      "affordable_units": null,
+      "set_aside_pct": 15.0,
+      "tenure": "rental",
+      "adoption_status": "adopted-ordinance (Third Round); continued in Fourth Round",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/HousingElementFairSharePlanexecutedandPBapproved.pdf?VersionId=Sf4EcIDzzRVkqRJ0nTmQRqwu3E.n4wwB",
+      "source_page": "Page 39-40, Section 3.3 Fair Share Plan / Table 25",
+      "source_date": "2025-05-13",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Downtown Commercial Zone -The Borough has rezoned much of the downtown (over 16 acres) to permit 2nd and 3rd Floor apartments over commercial space... Table 25: Plan Components to Address Unmet Need... Commercial Zone — Varies — 15 SDU/Ac — Amended zone, limited to 2nd floor only.",
+      "notes": "Over 16 acres of downtown rezoned to permit 2nd/3rd floor residential apartments over commercial at 15 units/acre. Table 25 (page 40) shows 'Commercial Zone — Varies — 15 SDU/Ac — Amended zone, limited to 2nd floor only.' Set-aside 15% rental / 20% for-sale per plan standards. Block/lot numbers not individually listed for this citywide overlay. From settlement agreement (para. 9): 'Downtown Commercial Zone — The Borough has rezoned much of the downtown (over 16 acres) to permit 2nd and 3rd Floor apartments.' Fourth Round plan continues this overlay zone in force."
+    },
+    {
+      "site_name": "Accessory Apartment Program",
+      "address": "Borough-wide, Cresskill, NJ",
+      "block": null,
+      "lot": null,
+      "acreage": null,
+      "mechanism": "accessory apartment program",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": null,
+      "total_units": 9,
+      "affordable_units": 9,
+      "set_aside_pct": 100.0,
+      "tenure": "rental",
+      "adoption_status": "adopted-ordinance (Ord. No. 18-22-1508A); program ongoing",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/HousingElementFairSharePlanexecutedandPBapproved.pdf?VersionId=Sf4EcIDzzRVkqRJ0nTmQRqwu3E.n4wwB",
+      "source_page": "Pages 33-35, Section 2-3",
+      "source_date": "2025-05-13",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Cresskill proposes to continue the accessory apartment program in the Fourth Round. The Borough will continue to earmark funds in its Spending Plan to continue this program. Cresskill continues to seek nine (9) units of affordable housing credits. The existing accessory apartment ordinance, Ord. No. 18-22-1508A which is to be continued is included as Appendix A-6.",
+      "notes": "Program provides minimum $10,000 subsidy per accessory apartment created, deed-restricted for minimum 10 years. Spending Plan earmarks $30,000 average per unit. Has not yet produced any of the 9 targeted units as of plan adoption (ongoing from Third Round). Counts toward Fourth Round unmet need. Continued through end of Fourth Round cycle."
+    }
+  ]
+}

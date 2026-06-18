@@ -1,0 +1,1327 @@
+
+===== PAGE 1 =====
+BER-L-000752-25
+03/13/2026 6:38:53 PM
+Pg1of17
+Trans ID: LCV2026669432
++
+Engineering
+& Design
+ra
+Lae
+Sea <a
+ee a4)
+ne
+5 on
+ae a ea A NAN AAD AY
+|
+Sate
+Se
+iieeg
+|
+eee
+ee aeA TINIE TNC Lad ANT INV NII
+,
+.
+a
+t
+<3
+ire ae as
+ae S$?
+| / = a
+a
+Amended 2025 Housing
+win
+=
+Element & Fair Share Plan
+:
+Township of Mahwah
+February 12, 2026
+Prepared for:
+Prepared by;
+Colliers Engineering & Design
+Township of Mahwah
+alexa == —
+Hampton, NewJersey 08827
+License No. 33L100611400
+Main: 908.238.0900
+.
+Colliersengineering.com
+Accelerating success. ———
+
+===== PAGE 2 =====
+ 
+ 
+ 
+Amended 2025 Housing Element & Fair 
+Share Plan 
+Township of Mahwah 
+Bergen County, New Jersey 
+ 
+ 
+ 
+Adopted by the Planning Board: March 9, 2026 
+Endorsed by the Council: March 12, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The original of this report was signed and sealed in accordance with NJSA 45:14A-12. 
+MWT-011S 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000752-25   03/13/2026 6:38:53 PM   Pg 2 of 17   Trans ID: LCV2026669432 
+
+===== PAGE 3 =====
+ 
+Page ii 
+ 
+Table of Contents 
+I. 
+Introduction ................................................................................................................................................ 1 
+II. 
+Content of Housing Element .................................................................................................................... 9 
+III. 
+Mahwah’s Population Demographics ................................................................................................... 12 
+IV. 
+Mahwah’s Housing Demographics ........................................................................................................ 17 
+V. 
+Mahwah’s Employment Demographics ................................................................................................ 23 
+VI. 
+Projection of Housing Stock ................................................................................................................... 27 
+VII. Capacity for Fair Share ............................................................................................................................ 30 
+VIII. Multigenerational Family Continuity Evaluation.................................................................................. 40 
+IX. 
+State Development & Redevelopment Plan Consistency ................................................................... 41 
+X. 
+Fair Share Plan ......................................................................................................................................... 42 
+XI. 
+Mahwah’s Affordable Housing Obligation ............................................................................................ 45 
+XII. Mechanisms & Credits ............................................................................................................................ 50 
+XIII. Implementation Schedule ...................................................................................................................... 95 
+XIV. Implementing Documents ...................................................................................................................... 98 
+XV. Highlands Regional Master Plan Compliance ...................................................................................... 99 
+XVI. Appendix ................................................................................................................................................ 110 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000752-25   03/13/2026 6:38:53 PM   Pg 3 of 17   Trans ID: LCV2026669432 
+
+===== PAGE 4 =====
+ 
+Page 1 
+ 
+I. 
+Introduction 
+According to the New Jersey Fair Housing Act, a Housing Plan Element shall be designed to meet the 
+municipality’s fair share of its region’s present and prospective housing needs, with particular 
+attention to low- and moderate-income housing. 
+Affordable housing in New Jersey has a long, convoluted history dating back to 1975, when the New 
+Jersey Supreme Court ruled that municipalities could not use their power to zone to exclude the 
+region’s low- and moderate-income households.  This landmark decision is commonly referred to as 
+Mount Laurel I, as the defendant was the Township of Mount Laurel.  In 1983 the New Jersey 
+Supreme Court decided what is commonly referred to as Mount Laurel II, wherein the Supreme 
+Court created a quota system for growing municipalities and invented the “Builder’s Remedy” as an 
+enforcement mechanism.  In response to the court decisions, the Fair Housing Act (“FHA”) was 
+adopted in 1985, which provided an administrative process for municipal compliance.  The FHA also 
+created the Council on Affordable Housing (“COAH”), which was responsible for promulgating 
+municipal obligations, adopting regulations, and administering the compliance process.  The first 
+round of affordable housing spanned from 1987 to 1993.  This was followed by the second round 
+from 1993 to 1999. 
+The third round of affordable housing commenced in 1999, but COAH failed to establish new 
+affordable housing obligations.  Several lawsuits were filed between 2008 and 2015 regarding the 
+obligation.  Ultimately, on March 10, 2015, the Supreme Court ruled that COAH failed to act and as a 
+result, the Courts assumed jurisdiction over the Fair Housing Act.  The decision and accompanying 
+Order divided municipalities into one of three categories – those that achieved Third Round 
+Substantive Certification, those that filed or petitioned COAH and those that had never participated 
+in the COAH process. 
+The transitional process created by the Supreme Court tracked the Fair Housing Act procedures for 
+compliance.  In this regard, the process permitted municipalities to file a Declaratory Judgment 
+Action during a 30-day window between June 8 and July 8, 2015, that sought an adjudication as to 
+their fair share.  This would enable the municipality to comply voluntarily with its constitutional 
+obligation to provide a realistic opportunity for the construction of its fair share of the regions’ low- 
+and moderate-income households.  
+On January 18, 2017, the Supreme Court ruled that municipalities are responsible for obligations 
+accruing during the so-called “gap period,” the period between 1999 and 2015.  However, the Court 
+stated that the gap obligation should be calculated as a never-before-calculated component of 
+Present Need (also referred to as Rehabilitation Obligation), which would serve to capture Gap 
+Period households that were presently in need of affordable housing as of the date of the Present 
+Need calculation (i.e. that were still income eligible, were not captured as part of traditional present 
+need, were still living in New Jersey and otherwise represented a Present affordable housing need). 
+Between 2015 and 2024, towns that elected to voluntarily comply with their constitutional obligation 
+participated in mediation sessions, reached settlement agreements, adopted Housing Element and 
+Fair Share Reports, and most towns concluded the process with a judgment of repose and 
+compliance.  As a result of COAH’s inability to function, the third round period spanned from 1999 to 
+2025. 
+                                                                                                                                                                                              
+BER-L-000752-25   03/13/2026 6:38:53 PM   Pg 4 of 17   Trans ID: LCV2026669432 
+
+===== PAGE 5 =====
+ 
+Page 2 
+ 
+Then, on March 20, 2024, Governor Murphy signed legislation that dramatically modified the State’s 
+affordable housing regulations.  The 75-page bill, known as A4, abolished COAH, modified the 
+process of affordable housing compliance, amended bonus credits, and, among other changes, set 
+forth several important deadlines.   P.L. 2024, c.2 (“Amended FHA”) charged the Department of 
+Community Affairs (“DCA”) with the preparation of fourth round obligations and set forth aggressive 
+timelines for compliance.  In October of 2024, DCA published a report on its calculations of regional 
+need and municipal present (Rehabilitation Obligation) and prospective (Fourth Round Obligation) 
+fair share obligations.  The Report is entitled “Affordable Housing Obligation of 2025-2035 (Fourth 
+Round) Methodology and Background”.  The DCA calculated Mahwah’s present need obligation as 36 
+and its prospective need obligation as 629.  Municipalities were required to adopt a binding 
+resolution outlining their present and prospective fair share obligations by January 31, 2025.  On 
+January 29, 2025, the Township Council adopted Resolution #091-25 accepting the DCA’s 
+calculations of the Township’s present need obligation, but providing an alternative prospective 
+obligation of 444, subject to vacant land, durational, and/or Highlands build-out adjustment.  The 
+Township of Mahwah also filed a Complaint for Declaratory Relief on January 30, 2025 as part of the 
+compliance certification process outlined in the Director of the Administrative Office of the Courts 
+Directive #14-24.   
+During the 30-day challenge window, four challenges were received from the New Jersey Builder’s 
+Association (“NJBA”), Mahwah Town Center Redevelopers (“MTCR”), Kenneth F. Cerullo, Esq. (an 
+attorney who is a resident of Mahwah), and Fair Share Housing Center (“FSHC”).  The Township 
+mediated with FSHC, which resulted with the Township agreeing to a present need obligation of 36 
+units and a prospective need obligation of 495.  NJBA, MTCR, and Mr. Cerullo indicated they would 
+not object to these obligations.  As a result, the Township Council adopted Resolution #159-25 on 
+March 24, 2025, which commits to a present need obligation of 36 and a prospective need obligation 
+of 495.  A “Decision and Order” was entered on May 13, 2025 fixing the Fourth Round Obligation at 
+495. 
+This is the Township of Mahwah’s Housing Element and Fair Share Plan (“HEFSP”) for the period 
+between 2025 and 2035, known as the Fourth Round.  Mahwah seeks to voluntarily comply with its 
+constitutional obligation to provide a realistic opportunity for affordable housing.  This HEFSP is 
+prepared utilizing the Prior Round Rules1 and the amendments implemented in P.L. 2024, c.2.  Each 
+municipality in the State has a four-part obligation:  
+1. Rehabilitation Obligation  
+2. Prior (First and Second Round) Obligations (1987-1999) 
+3. Third Round Obligation (1999 – 2025) 
+4. Fourth Round Obligation (2025-2035) 
+ 
+1 NJAC 5:91 (Procedural) and NJAC 5:93 (Substantive) Rules. They can be found at: 
+New Jersey Department of Community Affairs | Second Round Regulations 
+                                                                                                                                                                                              
+BER-L-000752-25   03/13/2026 6:38:53 PM   Pg 5 of 17   Trans ID: LCV2026669432 
+
+===== PAGE 6 =====
+ 
+Page 3 
+ 
+Affordable Housing History 
+The Township of Mahwah has been active in all four rounds of affordable housing.  A summary of 
+Mahwah’s historic affordable housing timeline is included below: 
+ 
+August 1, 1984 | Mahwah received a Judgment of Compliance and Repose from Judge Smith 
+for the First Round. 
+ 
+December 11, 1995 | Mahwah adopted a 1987-1999 HEFSP for the Second Round and filed 
+the plan with COAH without a petition. 
+ 
+September 25, 1997 | Mahwah petitioned COAH for Second Round Substantive 
+Certification. 
+ 
+July 1, 1998 | Mahwah received Second Round Substantive Certification. 
+ 
+June 7, 2010 | Mahwah petitioned COAH for Third Round Substantive Certification. 
+ 
+July 6, 2015 | Mahwah filed a Declaratory Judgment Action seeking to comply with its 
+constitutional mandate to provide affordable housing in accordance with the March 10, 2015 
+New Jersey Supreme Court Order. 
+ 
+March 29, 2018 | Mahwah signed a Settlement Agreement with intervenors Crossroads 
+Developers Associates and Garden Crossroads, LLC (collectively known as “Crossroads”). 
+ 
+March 30, 2018 | Mahwah signed a Settlement Agreement with John Merrill. 
+ 
+June 8, 2018 | Mahwah signed a Settlement Agreement with FSHC (see Appendix A.). 
+ 
+July 12, 2018 | Preliminary Judgment of Compliance and Repose issued by Judge Farrington. 
+ 
+July 30, 2018 | Amended Preliminary Judgment of Compliance and Repose issued by Judge 
+Farrington, which corrected minor errors in the initial document. 
+ 
+December 18, 2020 | Final Judgment of Compliance and Repose issued by Judge Farrington 
+(see Appendix B). 
+ 
+March 29, 2022 | Township signed a Memorandum of Agreement with Monarch 
+Development Company JV, LLC. 
+ 
+July 19, 2022 | Amended Memorandum of Agreement with Monarch Development 
+Company JV, LLC executed. 
+ 
+October 11, 2022 | Mahwah signed an Amended Settlement Agreement with FSHC (see 
+Appendix C). 
+ 
+November 10, 2022 | Mahwah signed an Amended Crossroads Project Settlement 
+Agreement. 
+ 
+January 2023 | Municipal Actions Settlement Agreement with Rio Vista Mahwah 
+Homeowners Association, Inc., Darlington Village Condominium Association, Inc., Township 
+of Mahwah, and Fyke Brook Estates, LLC executed. 
+                                                                                                                                                                                              
+BER-L-000752-25   03/13/2026 6:38:53 PM   Pg 6 of 17   Trans ID: LCV2026669432 
+
+===== PAGE 7 =====
+ 
+Page 4 
+ 
+ 
+February 17, 2023 | Order Approving Amendments to Settlement Agreements Between the 
+Township of Mahwah and FSHC and Crossroads issued by Judge Farrington. 
+ 
+July 19, 2023 | Order Resolving Location of Affordable Housing Units Associated With the 
+Crossroads Project issued by Judge Farrington. 
+ 
+February 20, 2024 | MTCR issues a letter indicating that Monarch (the operator of a multi-
+level senior care facility) had been “dissolved and divested” and that “MTCR cannot proceed 
+with the development of what is now an unfinanceable assisted living facility without an 
+operator, and the parties cannot agree on an alternative inclusionary development on the 
+property”. 
+ 
+May 30, 2024  | Mahwah files Motion for Relief from Settlement in relation to its Agreement 
+with Monarch/MTCR. 
+ 
+June 2024 | MTCR files Cross Motion for Relief from the same agreement noted above. 
+ 
+June 28, 2024 | Order issued by Judge Farrington granting the Township’s Motion for Relief 
+from Settlement. 
+ 
+July 23, 2024 | Second Amendment to the Fair Share Housing Center Settlement Agreement 
+executed  (see Appendix D). 
+ 
+November 27, 2024 | Amended Final Judgment of Compliance and Repose issued by Judge 
+Farrington (see Appendix E). 
+ 
+January 29, 2025 | Township Council adopted Resolution #091-25 Committing to Round 4 
+Present and Prospective Need Obligations (see Appendix F). 
+ 
+January 30, 2025 | Complaint for Declaratory Relief filed (see Appendix G). 
+ 
+February 26 – 28, 2025 | Challenges filed by NJBA, MTCR, Mr. Cerullo, and FSHC. 
+ 
+March 24, 2025 | Township Council adopted Resolution #159-25 Committing to Round 4 
+Present and Prospective Need Obligations in Agreement with FSHC (see Appendix H). 
+ 
+March 31, 2025 | Recommendation for “Decision and Order on Fair Share Obligation” 
+entered by the Court on behalf of Program Member Bookbinder (see Appendix I). 
+ 
+May 13, 2025 | County Level Housing Judge Order entered (see Appendix PP). 
+ 
+June 23, 2025 | 2025 Housing Element & Fair Share Plan (“2025 HEFSP”) adopted by the 
+Planning Board and endorsed by the Township Council.  Additionally, the Township 
+submitted its adopted 2025 HEFSP to the Affordable Housing Dispute Resolution Program 
+via eCourts. 
+ 
+August 29, 2025 | SHG Franklin Lakes, LLC filed a challenge to the Township’s 2025 HEFSP. 
+ 
+August 30, 2025 | Fair Share Housing Center filed a challenge to the Township’s 2025 
+HEFSP. 
+ 
+August 31, 2025 | AvalonBay Communities, Inc. filed a challenge to the Township’s 2025 
+HEFSP. 
+                                                                                                                                                                                              
+BER-L-000752-25   03/13/2026 6:38:53 PM   Pg 7 of 17   Trans ID: LCV2026669432 
+
+===== PAGE 8 =====
+ 
+Page 5 
+ 
+ 
+September 2, 2025 | 500 Corporate Drive, LLC filed a challenge to the Township’s 2025 
+HEFSP. 
+ 
+December 1, 2025 | Consent Order filed between Mahwah and 500 Corporate Drive, LLC 
+indicating the parties are seeking to use the site consistent with the existing zoning. 
+ 
+December 12, 2025 | AvalonBay Communities, Inc. withdrew its challenge to the Township’s 
+2025 HEFSP. 
+ 
+December 29, 2025| Township approves Resolution #425-25 authorizing execution of a 
+Mediation Agreement with FSHC (see Appendix SS). 
+ 
+February 2, 2026 | Project Settlement Recommendation – Housing Element and Fair Share 
+Plan issued (see Appendix NN). 
+Municipal Summary 
+The Township of Mahwah is a suburban community located in the northwest corner of Bergen 
+County in northern New Jersey.  Mahwah is slightly over 26 square miles in size and is adjacent to 
+the New York border.  The Ramapo River flows through the Township’s midsection in a 
+northeasterly-southwesterly direction.  Interstate 287, US State Highway Route 202, and New Jersey 
+State Highway Route 17 all converge in the north-central part of the Township, just north of Ramapo 
+College of New Jersey.  Mahwah’s train station along Ramapo Avenue provides access via the 
+Main/Bergen County and Port Jervis Lines of New Jersey Transit to Hoboken and Newark and New 
+York City via Secaucus Junction.  Mahwah is most heavily developed on the eastern side of Interstate 
+287 (“I-287”), whereas the western portion of the Township is largely forested and contains the 
+Ramapo Valley County Reservation area.  The majority of lands west of I-287 are in the Highlands 
+Preservation Area where development is severely limited, while all the land east of I-287 is in the 
+Planning Area.  See the map on page 6 for the locations of the Preservation and Planning Areas 
+within Mahwah. 
+The Township of Mahwah is surrounded by Rockland County in New York to the north, the Boroughs 
+of Upper Saddle River, Ramsey, and Allendale to the east, Township of Wyckoff and Townships of 
+Franklin Lakes and Oakland to the south, and the Borough of Ringwood to the west.  See the map on 
+page 7. 
+Between 2010 and 2020, Mahwah’s population decreased slightly by 1.6% from 25,890 in 2010 to 
+25,487 in 2020.2  It should be noted that the 2023 American Community Survey (“ACS”), which is the 
+most recent Survey available, estimates Mahwah’s population at 25,375 residents, which represents 
+a loss of 112 residents since the 2020 Census.3  The North Jersey Transportation Planning Authority 
+(“NJTPA”) projects that the Township will grow to 34,216 residents by the year 2050.4 
+ 
+2 Information sourced from https://data.census.gov/, accessed May 19, 2025.  
+3 Ibid. 
+4 Information sourced from NJTPA Plan 2050, Appendix E, “Demographic Forecasts”, https://www.njtpa.org/plan2050, 
+accessed May 19, 2025. 
+                                                                                                                                                                                              
+BER-L-000752-25   03/13/2026 6:38:53 PM   Pg 8 of 17   Trans ID: LCV2026669432 
+
+===== PAGE 9 =====
+BER-L-000752-25
+03/13/2026 6:38:53 PM
+Pg9of17
+Trans ID: LCV2026669432
+_
+S
+Legend
+_
+Ss =
+Municipal Boundary
+S
+Parcels
+s ~~
+| | Highlands Planning Area
+@
+> SS
+[| Highlands Preservation Area
+>
+SWS
+f
+>».
+~
+fi
+~s
+~s
+fi
+~
+/
+~
+~
+!
+S ~~
+Borough of
+A
+~
+il
+_
+Ringwood
+f
+=
+~
+Uf
+S
+_~
+Uf
+_
+_~
+Ul
+ty
+~
+(7s
+©
+!
+&
+z
+we
+Y
+ae +
+3
+fs
+Ss, *
+yt
+|
+FS é
+4
+x
+}
+&
+S
+!
+|
+é
+//
+q
+.
+}
+!)
+Ui
+a
+a
+j~
+A
+ROTaON 2.
+I —
+SQ i
+(
+!
+s
+“TY
+re,
+in
+e
+i
+%
+)
+J
+Y
+y
+PP -
+)
+Borough of Upper
+—
+Af
+~ -
+tao}
+j
+Borough
+\
+Saddle River,
+= s
+f
+N
+&
+i
+of Ramsey.
+\
+@
+Se
+N
+=
+~\
+es {]
+£
+2?
+&
+>
+~
+g
+g
+>)
+—~
+\
+{
+Ss
+f}
+SS
+=
+GIS
+SS
+f D
+[]
+~S
+287,
+N
+Z
+pes
+>
+/
+J
+ll
+>
+a
+ae
+im
+-
+]
+y,
+X
+Sey,
+ee
+N
+@
+f
+~
+A
+Ro
+V/
+Y
+~
+Me F
+Y
+f
+"2
+=
+@
+Borough of
+J
+“%,
+€
+Cs
+Borough of
+le
+@
+%
+=
+Oakland
+A
+rN
+ee
+Rag
+i
+Allendale
+f
+Borough of
+y
+PO g
+A
+Saddle River
+=
+"A
+Borough of
+in,
+— =
+y
+%,
+}
+2
+~
+"A
+Franklin Lakes
+oe
+y
+2G
+J)
+I"
+—— &
+y, @
+i
+; °
+Borough of
+7
+y
+eT
+"A
+Waldwick
+—
+N
+of Wyckoff
+=,
+K
+f
+Soa
+>=
+a
+\
+2
+U
+=—Z
+I]
+S
+HIGHLANDS PLANNING & PRESERVATION AREAS
+TOWNSHIP OF MAHWAH
+N
+BERGEN COUNTY, NEW JERSEY
+0
+0.6
+1.2
+OES
+|
+—
+1
+inch = 1.2 miles
+A
+Engineering
+& Design
+This map was developed using GIS digital data from NJDEP, NJDOT, and NjGIN, but this
+May 27, 2025
+secondary product has not been verified and is not state-authorized.
+mwr0031
+
+===== PAGE 10 =====
+BER-L-000752-25
+03/13/2026 6:38:53 PM
+Pg 10o0f17
+Trans ID: LCV2026669432
+~
+S
+Putnam
+S Orange County
+County
+~
+Orange County
+_
+_
+s
+New York Westchester
+~
+County
+. SS
+ea tales
+Rockland
+aw
+County
+{)
+> ~
+Rockland County
+=
+Y
+f
+{/
+N
+~S
+/]
+_ ~
+‘
+"
+A
+Bronx’
+Borough
+of.
+/
+SS
+ey
+fe
+Ringwood
+N
+;
+/
+S
+4.
+Queens
+{]
+/
+S
+}
+~
+{/
+2
+~
+/
+%,
+NN
+/
+af
+|
+~
+}
+S\
+é
+S
+ge
+&
+hi
+IR
+|
+{/
+ee
+a
+SN
+{]
+é
+J
+S x
+Ss
+a)
+M
+ag
+. sport
+a
+,
+=
+{/
+%
+To,
+J
+SS
+2a,
+=
+%
+g
+yl)
+j
+4
+“ed
+/
+\
+{J
+{/
+&
+]
+pw
+"|
+am =
+\
+)
+Borough ofUpper
+a;
+~
+[2024
+j
+Borough a,
+Saddle River,
+(
+os
+S
+3
+aryarb
+<t
+f
+~
+g
+1
+of Ramsey.
+\
+yes
+S
+é
+hm.)
+Ss g /]
+SS
+&
+2
+SS
+S
+N
+g
+0
+y
+a
+/
+SA
+7
+ic
+~
+\
+V
+=
+/
+,
+aN
+4 iS So,
+[] )
+ie
+f
+~
+287,
+A
+=
+YS
+ar,
+Fos
+w
+=
+~
+[/
+yj
+\ R
+Pa,
+J
+=i
+|
+l
+3
+S
+"nS
+M
+Borough of
+J
+5,
+Hi
+g
+Borough of
+Oakland
+Yj
+vn
+rorlit,
+4
+Allendale
+}
+Borough of
+Wy
+N
+ad
+ba
+an
+<£™.
+.
+S,
+A
+Saddle River
+Y
+pa
+WA
+IF
+|
+f
+4
+Borough of
+ra
+A
+a
+a
+ae,
+"A
+Franklin Lakes
+2
+y
+a
+2
+;
+F
+L
+A
+f
+Borough of
+7
+y
+Township
+/
+Waldwick
+__—
+N
+U
+of Wyckoff
+=,
+K
+My,
+=
+——
+\
+_ 2
+AN
+=—Z
+I]
+SSa7
+REGIONAL LOCATION
+TOWNSHIP OF MAHWAH
+N
+Colliers
+BERGEN COUNTY, NEW JERSEY
+0
+0.6
+12
+OHTEHS
+|
+1
+inch = 1.2 miles
+Engineering
+& Design
+This map was developed using GIS digital data from NJDEP, NJDOT, and NJGIN, but this
+May 27, 2025
+secondary product has not been verified and is not state-authorized.
+‘MWT0031
+
+===== PAGE 11 =====
+ 
+Page 8 
+ 
+Affordable Housing Obligation 
+The Township of Mahwah has committed to a Rehabilitation Obligation of 36 units.  The Township’s 
+Prior Round Obligation (“PRO”), as confirmed by the 2018 FSHC Settlement Agreement (see 
+Appendix A) is 350.  Mahwah agreed to an 830-unit Third Round Obligation (“TRO”).  Finally, the 
+Township’s Fourth Round Obligation (“FRO”) is 495 (see Appendix H). 
+However, the Township is located within the Highlands Region and, in compliance with the Amended 
+FHA, this Housing Element and Fair Share Plan incorporates the results of the Highlands Build-out 
+analysis.  The results of the build-out are in Chapter XI.  However, the Township voluntarily 
+increased the Highlands Build-out to 8 during mediation with FSHC. 
+The chart below illustrates the Township’s four-part obligation. 
+ 
+ 
+Township Goal 
+It is the overall goal of the HEFSP, in combination with the Land Use Plan, to provide the planning 
+context in which access to low- and moderate-income housing can be provided in accordance with 
+the requirements of the Amended Fair Housing Act and the laws of the State of New Jersey, while 
+respecting the character, scale, density, and utility constraints of the Township of Mahwah.  
+Furthermore, the Township’s goal is to provide affordable housing compliant with the Highlands 
+Regional Master Plan. 
+Rehabilitation
+Prior Round
+1987 - 1999
+Third Round
+1999 - 2025
+Fourth Round
+2025 - 2035
+Obligation
+36
+350
+830
+495
+Modified Highlands Build-Out
+--
+--
+--
+8
+Build-Out Unmet Need
+--
+--
+--
+487
+Affordable Housing Obligation
+                                                                                                                                                                                              
+BER-L-000752-25   03/13/2026 6:38:53 PM   Pg 11 of 17   Trans ID: LCV2026669432 
+
+===== PAGE 12 =====
+ 
+Page 9 
+ 
+ 
+ 
+ 
+ 
+ 
+HOUSING ELEMENT 
+Township of Mahwah 
+                                                                                                                                                                                              
+BER-L-000752-25   03/13/2026 6:38:53 PM   Pg 12 of 17   Trans ID: LCV2026669432 
+
+===== PAGE 13 =====
+ 
+Page 10 
+ 
+II. Content of Housing Element 
+The Amended Fair Housing Act requires that “the housing element be designed to achieve the goal 
+of access to affordable housing to meet present and prospective housing needs, with particular 
+attention to low- and moderate-income housing”.  As per the Municipal Land Use Law (“MLUL”), 
+specifically NJSA 52:27D-310, a housing element must contain at least the following items: 
+a. An inventory of the municipality's housing stock by age, condition, purchase or rental value, 
+occupancy characteristics and type, including the number of units affordable to low- and 
+moderate-income households and substandard housing capable of being rehabilitated, and 
+in conducting this inventory the municipality shall have access, on a confidential basis for the 
+sole purpose conducting this inventory, to all necessary property tax assessment records 
+and information in the assessor’s office, including but not limited to the property record 
+cards; 
+b. A projection of the municipality's housing stock, including the probable future construction 
+of low- and moderate-income housing for the next ten years, taking into account, but not 
+necessarily limited to, construction permits issued, approvals of applications for 
+development and probable residential development of lands; 
+c. An analysis of the municipality's demographic characteristics, including but not necessarily 
+limited to, household size, income level and age; 
+d. An analysis of the existing and probable future employment characteristics of the 
+municipality; 
+e. A determination of the municipality’s present and prospective fair share for low- and 
+moderate-income housing and its capacity to accommodate its present and prospective 
+housing needs, including its fair share for low- and moderate-income housing, as stablished 
+pursuant to section 3 of P.L.2024, c.2 (C.52-27D-304.1); 
+f. 
+A consideration of the lands that are most appropriate for construction of low- and 
+moderate-income housing and of the existing structures most appropriate for conversion to, 
+or rehabilitation for, low- and moderate-income housing, including a consideration of lands 
+of developers who have expressed a commitment to provide low- and moderate-income 
+housing; 
+g. An analysis of the extent to which municipal ordinances and other local factors advance or 
+detract from the goal of preserving multi-generational family continuity as expressed in the 
+recommendations of the Multigenerational Family Housing Continuity Commission, adopted 
+pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c.273 (C.52D-329.20); 
+h. For a municipality located within the jurisdiction of the Highlands Water Protection and 
+Planning Council, established pursuant to section 4 of P.L.2004, C.120 (C.13-20-4), an analysis 
+of compliance of the housing element with the Highlands Regional Master Plan of lands in 
+the Highlands Preservation Area, and lands in the Highlands Planning Area for Highlands-
+conforming municipalities.  This analysis shall include consideration of the municipality’s 
+most recent Highlands Municipal Build Out Report, consideration of opportunities for 
+redevelopment of existing developed lands into inclusionary or 100 percent affordable 
+                                                                                                                                                                                              
+BER-L-000752-25   03/13/2026 6:38:53 PM   Pg 13 of 17   Trans ID: LCV2026669432 
+
+===== PAGE 14 =====
+ 
+Page 11 
+ 
+housing, or both, and opportunities for 100 percent affordable housing in both the 
+Highlands Planning Area and Highlands Preservation Area that are consistent with the 
+Highlands regional master plan; and 
+i. 
+An analysis of consistency with the State Development and Redevelopment Plan, including 
+water, wastewater, stormwater, and multi-modal transportation based on guidance and 
+technical assistance from the State Planning Commission. 
+Chapters III. through IX. address a. through i. above except for the determination of the Township’s 
+affordable housing obligation (subsection e.) and the Highlands Council (subsection h.).  Mahwah’s 
+four-part obligation is discussed in Chapter XI.  Additionally, Mahwah is under the jurisdiction of the 
+Highlands Council and, as a result, Chapter XV. is dedicated to Highlands Council compliance.  
+                                                                                                                                                                                              
+BER-L-000752-25   03/13/2026 6:38:53 PM   Pg 14 of 17   Trans ID: LCV2026669432 
+
+===== PAGE 15 =====
+ 
+Page 12 
+ 
+III. Mahwah’s Population Demographics  
+The Township of Mahwah’s population has seen steady growth since 1900.  The population grew by 
+over 50% in the 1900s, 1920s, and 1950s.  Between 1940 and 2010, the Township grew by over 
+21,000 residents, or 662.5%, from 3,908 to 25,890.  It should be noted that the Township’s 
+population increased more than the average rate in the 1980s with 5,778 new residents, and in the 
+1990s with 6,157 new residents.  However, in the 2010s, Mahwah’s population shrunk for the first 
+time by 403 residents.  The 2023 ACS estimates the population of Mahwah to be 25,375, which is 112 
+less than reported in the 2020 Census. 
+ 
+The NJTPA projects that the Township’s population will grow to 34,216 residents by 2050 from their 
+baseline 2015 population of 26,289.  This represents an increase of 7,927 residents, or an average 
+increase of approximately 226 residents annually over 35 years.  However, as noted above, the 
+Township’s estimated population according to the 2023 ACS is 25,487, which is 8,841 less residents 
+than projected by the NJTPA.  This translates to an average annual increase of approximately 327 
+residents over the next 27 years. 
+ 
+Year
+Population
+Change
+Percent
+1900
+1,220
+--
+--
+1910
+1,881
+661
+54.2%
+1920
+2,081
+200
+10.6%
+1930
+3,536
+1,455
+69.9%
+1940
+3,908
+372
+10.5%
+1950
+4,880
+972
+24.9%
+1960
+7,376
+2,496
+51.1%
+1970
+10,800
+3,424
+46.4%
+1980
+12,127
+1,327
+12.3%
+1990
+17,905
+5,778
+47.6%
+2000
+24,062
+6,157
+34.4%
+2010
+25,890
+1,828
+7.6%
+2020
+25,487
+-403
+-1.6%
+Population Growth
+Source: Historical Population Trends in Bergen County, 1900-2020
+https://co.bergen.nj.us/planning-engineering-regional-planning-transportationdata-resources-and-
+technology/census-data
+Year
+Population
+Change
+Percent
+2015
+26,289
+---
+---
+2020
+25,487
+-802
+-3.1%
+2050
+34,216
+8,729
+34.2%
+Population Projection
+Source: NJTPA Plan 2050, Appendix E, 2050 Demographic Forecasts, 
+https://www.njtpa.org/plan2050; 2020 Census Table P1
+                                                                                                                                                                                              
+BER-L-000752-25   03/13/2026 6:38:53 PM   Pg 15 of 17   Trans ID: LCV2026669432 
+
+===== PAGE 16 =====
+ 
+Page 13 
+ 
+Age Distribution of Population 
+The 2023 ACS estimates 22.1% of Mahwah’s population was 65 years or older (5,600) and 19 years or 
+younger (5,616).  The largest age cohort was estimated to be those aged 15 to 19 years, which 
+comprised 10.2% (2,587) of the Township’s population.  Residents aged 50 to 54 years comprised the 
+second-largest age cohort at 9.9% (2,518) of the population, followed closely by those aged 20 to 24 
+years also at 9.9% (2,514) of the population.  The median age was estimated at 48.1 years in the 
+2023 ACS.  See the table and chart below for further details.  
+ 
+ 
+Household Size & Type 
+According to the 2023 ACS, Mahwah had 9,756 households.  Most were married-couple households, 
+which comprised over 57% of all households.  Of those married-couples, 1,939 households had 
+children under 18 years of age.  Female householders with no spouse present comprised a quarter 
+of all households, while male householders with no spouse present comprised only 14.4%.  Of all 
+households with no spouse present, 181 had children under the age of 18 (1.8%), while 3,159 were 
+living alone (32.4%).  See the table on the following page for complete details. 
+Age
+Total
+Percent
+85 years and over
+565
+2.2%
+80 to 84 years
+698
+2.8%
+75 to 79 years
+830
+3.3%
+70 to 74 years
+1,170
+4.6%
+65 to 69 years
+2,337
+9.2%
+60 to 64 years
+2,086
+8.2%
+55 to 59 years
+1,742
+6.9%
+50 to 54 years
+2,518
+9.9%
+45 to 49 years
+1,459
+5.7%
+40 to 44 years
+1,103
+4.3%
+35 to 39 years
+1,215
+4.8%
+30 to 34 years
+672
+2.6%
+25 to 29 years
+850
+3.3%
+20 to 24 years
+2,514
+9.9%
+15 to 19 years
+2,587
+10.2%
+10 to 14 years
+1,317
+5.2%
+5 to 9 years
+911
+3.6%
+Under 5 years
+801
+3.2%
+Total 
+25,375
+100%
+Population by Age Cohort
+Source: 2023 ACS Table S0101
+                                                                                                                                                                                              
+BER-L-000752-25   03/13/2026 6:38:53 PM   Pg 16 of 17   Trans ID: LCV2026669432 
+
+===== PAGE 17 =====
+ 
+Page 14 
+ 
+ 
+The most common household size in Mahwah was estimated to be one-person households, which 
+comprised 32.4% of households in 2023.  Two-person households comprised the second-largest 
+number of households at 32.3%.  Finally, three-person household comprised 15.7% of the 9,756 
+households in Mahwah.  It should be noted that three households, contained seven or more people.  
+The table and pie chart below graphically illustrate the household size composition in Mahwah.  
+Additionally, the 2023 ACS estimated the average household size at 2.37 persons, which is less than 
+reported in the 2010 Census (2.42 persons). 
+ 
+ 
+ 
+Income & Poverty Status 
+The 2023 ACS estimated the median household income for the Township of Mahwah to be $128,125, 
+which is $4,410 more than Bergen County’s and over $27,000 more than the State’s.  Similarly, the 
+median family income for Mahwah was estimated at $171,825, which is over $21,000 more than the 
+County’s and nearly $48,000 greater than the State’s.  Finally, the Township’s per capita income was 
+Type
+Number
+Percent
+Married-couple
+5,576
+57.2%
+   with children under 18
+1,939
+19.9%
+Cohabitating couple
+332
+3.4%
+   with children under 18
+29
+0.3%
+Male householder, no spouse
+1,405
+14.4%
+   with children under 18
+21
+0.2%
+   living alone
+1,310
+13.4%
+Female householder, no spouse
+2,443
+25.0%
+   with children under 18
+160
+1.6%
+   living alone
+1,849
+19.0%
+Total
+9,756
+100%
+Household Type
+Source: 2023 ACS Table DP02
+Size
+Total
+Percent
+1-person
+3159
+32.4%
+2-person
+3,153
+32.3%
+3-person
+1535
+15.7%
+4-person
+1075
+11.0%
+5-person
+553
+5.7%
+6-person
+278
+2.8%
+7+ person
+3
+0.0%
+Total
+9,756
+100%
+Household Size
+Source: 2023 ACS Table B11016
+                                                                                                                                                                                              
+BER-L-000752-25   03/13/2026 6:38:53 PM   Pg 17 of 17   Trans ID: LCV2026669432 

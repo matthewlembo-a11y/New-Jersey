@@ -1,0 +1,1453 @@
+
+===== PAGE 1 =====
+2025
+Fourth Round Housing Element
+air Share Plan
+ana
+BOROUGH OF NORTHVALE
+|
+BERGEN COUNTY, NEW JERSEY
+ADOPTED BY THE PLANNING BOARD; JUNE IS, 2025
+ENDORSED BY THE COUNCIL;
+PREPARED BY;
+LYNDSAY KNIGHT, PP, AlCP
+NEW JERSEY PROFESSIONAL PLANNER LICENSE NO. 33LI00640100
+NEGLIA
+                                                                                                                                                                                              
+BER-L-000365-25   06/20/2025 10:27:09 AM   Pg 1 of 16   Trans ID: LCV20251812808 
+
+===== PAGE 2 =====
+Contents
+Introduction
+2
+Municipal Summary 
+Content of Housing Element 
+Inventory of Northvale's Housing Stock.
+Northvale's Employment Demographics
+Capacity for Fair Share 
+Land Capacity 
+Fair Share Plan 
+Content of Fair Share Plan 
+Prior and Third Round Compliance 
+Third Round Rehabilitation Obligation ...
+Fourth Round Compliance Status 
+Affordable Housing Obligations 
+Appendix 
+Vacant Land Adjustment 
+Maps 
+Affirmative Marketing Plan 
+Draft Spending Plan 
+Court Documents 
+4
+5
+6
+14
+16
+16
+20
+20
+20
+21
+21
+21
+24
+25
+27
+33
+34
+38
+1
+NEGLIA
+                                                                                                                                                                                              
+BER-L-000365-25   06/20/2025 10:27:09 AM   Pg 2 of 16   Trans ID: LCV20251812808 
+
+===== PAGE 3 =====
+Introduction
+New Jersey's history in affordable housing can be tracked by to the first Supreme Court decision in 1975;
+Southern Burlington County NAACP v. the Township of Mount laurel 67 1^. 151 (1975) (known as Mount
+Laurel
+I).
+This historic case determined that every developing municipality through New Jersey had an
+affirmative obligation to provide its fair share of affordable housing.
+In 1983, the Supreme Court decided
+Southern Burlington County NAACP v. Township of Mount Laurel, 92 ]^. 158, 456 A.2d 390 (1983)(known
+as Mount Laurel
+II). which acknowledged that the vast majority of municipalities had not addressed their
+constitutional obligation to provide affordable housing and created the builder's remedy lawsuit, which
+allowed developers to sue non-compliant municipalities forcing them to accept their proposed projects at
+extremely high densities.
+In response to an onslaught of builder's remedy lawsuits, the Legislature enacted the Fair Housing Act of
+1985 (the "FHA"), which created the Council on Affordable Housing ("COAH") to review and approve
+municipal Housing Elements and Fair Share Plans. Every municipality in the State was required to provide
+a "realistic opportunity for a fair share of its region's present and prospective needs for housing low- and
+moderate-income families".
+Through this process,
+a Housing Element became
+a mandatory part of
+municipal master plan.
+In addition,
+a Fair Share Plan became the mandatory document that Illustrates
+the means of achieving the affordable housing goals discussed more generally in the Housing Element.
+To implement the FHA requirements, COAH adopted a series of regulations.
+First Round regulations were
+enacted
+in 1987. Second Round regulations were adopted by COAH in 1994. Third Round regulations
+were supposed to be adopted in 1999 when the Round 2 rules were set to expire, but the first iteration of
+Round 3 regulations were not adopted by COAH until 2004.
+After those regulations were invalidated by
+the courts, COAH adopted a second iteration of Third Round regulations in 2008. The second iteration of
+regulations were also invalidated by the Courts, and after COAH failed to adopt a third iteration of Third
+Round regulations in 2014, the Supreme Court issued In the Matter of the Adoption of N.J.A.C. 5:96 and
+5:97 by the New Jersey Council on Affordable Housing, 221 N.J. 1 (2015) (Mount Laurel IV], in which
+it
+directed trial courts to assume COAH's functions and ruled that municipalities would have to get their
+Third Round Housing Elements and Fair Share Plans approved in the courts via the granting a Judgment of
+Compliance and Repose (JOR), rather than getting the plans approved by COAH.
+Subsequently, on January 18, 2017, the Supreme Court decided In Re Declaratory Judgment Actions Filed
+by Various Municipalities. County of Ocean. Pursuant To The Supreme Court's Decision In in re Adoption
+of N.J.A.C. 5:96, 221
+1 (2015) ("Mount Laurel V"). which held that municipalities are also responsible
+for obligations accruing during the so-called "gap period," the period of time between 1999 and 2015.
+However, the Court stated that the gap obligation should be calculated as a never-before calculated
+component of Present Need, which would serve to capture Gap Period households that were presently in
+need of affordable housing as of the date of the Present Need calculation (i.e. that were still income
+eligible, were not captured as part of traditional present need, were
+still
+living
+in New Jersey and
+otherwise represented a Present affordable housing need).
+In the Spring of 2024, the New Jersey Legislature passed, and Governor Murphy signed Law A4/S50 which
+amended the
+Fair Housing Act (N.J.S.A.
+52:270-301
+et seq.)(hereinafter the "amendments" or the
+"Amended FHA"). The amendments provided direction and deadlines for how a municipality must meet
+its Fourth Round affordable housing obligations.
+This legislative effort was intended to create a more
+2
+f2!
+NEGLIA
+                                                                                                                                                                                              
+BER-L-000365-25   06/20/2025 10:27:09 AM   Pg 3 of 16   Trans ID: LCV20251812808 
+
+===== PAGE 4 =====
+efficient, open, and transparent process for the Fourth Round and all subsequent rounds. The amended
+FHA also permanently abolished COAH, and introduced a comprehensive structure for municipalities to
+meet their obligations before a new entity known as the Affordable Housing Dispute Resolution Program
+(hereinafter the "Program"), which consists of retired Mount Laurel judges and their Special Adjudicators,
+once known as Court Masters. The Program was created to approve Fourth Round Housing Elements and
+Fair Share Plans via the granting of a Compliance Certification, along with underlying orders to be entered
+into by the local vicinage trial court.
+The Program was also created to help municipalities mediate with
+objectors regarding their Fourth Round affordable housing obligations and the approval of the plans. The
+amended FHA also required the Department of Community Affairs (DCA) to take over the monitoring of
+affordable units
+in every municipality In the state, and to draft and release
+a report calculating non
+binding Fourth Round municipal Present and Prospective Need obligation for every municipality
+in the
+state. The DCA released its Fourth Round numbers report in October of 2024.
+The amended FHA also
+ordered
+the New
+Jersey
+Housing
+and
+Mortgage
+Finance Agency
+(NJHMFA)
+to adopt new UHAC
+regulations, The amended FHA also changed the way municipalities receive bonus credits amongst other
+things.
+The amended FHA also
+laid out the procedure to effectuate compliance with the
+Fourt Round
+of
+Affordable Housing (July 1, 2025 to July 1, 2035).
+Municipalities must complete a series of steps and, if
+the steps are timely completed, the municipality retains immunity from all exclusionary zoning lawsuits,
+including immunity from builder’s remedy lawsuits. The steps are as follows:
+1.
+Establish Present and Prospective Need Obligation Numbers - January 31, 2025. The legislation
+required
+municipalities
+to adopt
+a
+Present- and
+Prospective Need
+Obligation numbers
+by
+resolution by January 31, 2025.
+2.
+Period to Challenge Numbers - February 1,2025 to February 28,2025.
+Interested parties can file
+a challenge to the municipality’s adopted numbers.
+3.
+if Challenged^ Numbers Reviewed and Settled - March 1, 2025 to April 1^ 2025. The Affordable
+housing Dispute Resolution program will review the municipality's proposed obligation numbers
+and review the challenge presented.
+4.
+Adoption and filing of a Fourth Round Housing Element and Fair Share Plan - June 30, 2025. The
+HEFSP must contain several components which must provide
+a
+realistic opportunity for the
+development of affordable housing units that will satisfy the municipality's Rehabilitation, Prior
+Round, Third Round and Fourth Round affordable housing obligations, The statutory components
+of the Housing Element and Fair Share Plan include, among other things, an inventory of housing,
+demographic
+and
+employment
+analyses,
+and
+considerations
+of
+lands
+for
+suitable
+housing
+development. This document will also contain areas recommended for rezoning, redevelopment,
+or other land use strategies to effectuate such housing development. This document will address
+all of the statutory criteria required by the legislation to achieve conformance with this step.
+5.
+Challenges to the Fourth Round Housing Element and Fair Share Plan - August 31, 2025 to
+December 31, 2025. Interested parties can file a challenge to the validity of the plan and the
+strategies to address the obligation contained therein- by August 31, 2025.
+Municipalities will
+have until December 31, 2025 to settle any challenge or provide an explanation as to why some
+or ail the requested changes from the intervening party will not be made.
+If there is a settlement,
+it must be reviewed and approved by the Program, and then by the local vicinage Mount Laurel
+Judge for the county, who will issue an order approving the settlement and the equivalent of a
+3
+&S3
+NEGLIA
+                                                                                                                                                                                              
+BER-L-000365-25   06/20/2025 10:27:09 AM   Pg 4 of 16   Trans ID: LCV20251812808 
+
+===== PAGE 5 =====
+judgment of compliance and repose known
+as
+a Compliance Certification, which
+will grant a
+municipality immunity from all exclusionary zoning lawsuits until the end of the Fourth Round on
+June
+30,
+2035.
+If there
+is
+no
+settlement the Program
+will
+review
+the plan
+and
+issue
+a
+recommendation which goes to the Superior Court where the assigned Mount Laurel Judge for
+the county issues the Compliance Certification.
+6.
+Final Compliance Deadline - March 31, 2026. The deadline for the Borough to adopt the
+implementing ordinances to align with the plan.
+Municipal Summary
+The Borough of Northvale
+is located
+in Bergen County, along the New York State border.
+Northvale
+encompasses roughly 1.2 square miles and has a small-town feel. The center of the Borough is located at
+the intersection of Paris Avenue and Livingston Street (County Route 505).
+The Borough
+is served by
+Coach USA bus service. The Local 20 line runs along Paris Avenue and connects the Borough to the Port
+Authority Bus Terminal and points north of Rockland County, New York.
+Northvale is surrounded by the Borough of Norwood, Borough of Old Tappan and Borough of Rockleigh in
+Bergen County.
+To the north
+is Tappan in Rockland County, New York.
+Between 2010 and 2020, the
+Borough's population increased by 121 residents from 4,640 to 4,761.
+Affordable Housing Obligation
+On January 22, 2025, in response to the requirements of the amended FHA, the Borough memorialized
+Resolution #41-25 the Present Need
+(rehabilitation) Obligation
+of eight
+(8) and
+a Prospective Need
+Obligation of ninety-nine (99), which were the numbers calculated for the Borough's affordable housing
+planner.
+The
+resolution
+reserved
+the
+Borough's
+rights
+to
+a
+vacant
+land
+adjustment,
+durational
+adjustments, and
+all other applicable adjustments permitted
+in accordance with the act and COAH
+regulations.
+The Borough then filed a Declaratory Judgment Complaint on January 23, 2025 with the
+Program and the Court, along with the Borough's Fourth Round numbers
+resolution, and the local
+vicinage Court. However, the New Jersey Builder's Association ("NJBA") filed a challenge to the Borough's
+number.
+Northvale and the NJBA entered into
+a successful settlement conference to determine the
+Borough's affordable housing obligation of a Present Need of eight (8) and a Prospective Need of one
+hundred and five (105).
+Borough Goal
+It is the overall goal of the Borough's Fourth Round Housing Element and Fair Share Plan is to provide the
+planning context in which access to low- and moderate-income housing can be provided
+in accordance
+with the requirements of the Fair Housing Act and the laws of the State of New Jersey.
+4
+NEGLIA
+                                                                                                                                                                                              
+BER-L-000365-25   06/20/2025 10:27:09 AM   Pg 5 of 16   Trans ID: LCV20251812808 
+
+===== PAGE 6 =====
+Content of Housing Element
+The Fair Housing Act requires that "the housing element be designed to achieve the goal of access to
+affordable housing to meet present and prospective housing needs, with particular attention to low- and
+moderate-income housing".
+As per the MLUL, specifically N.J.S.A. 52:270-310, a housing element must
+contain at least the following items:
+a.
+An
+inventory
+of the
+Borough's
+housing
+stock by
+age, condition,
+purchase
+or
+rental value,
+occupancy
+characteristics and
+type,
+including
+the
+number of
+units
+affordable
+to low- and
+moderate-income households and substandard housing capable of being rehabilitated, and
+in
+conducting this inventory the municipality shall have access, on a confidential bases for the sole
+purpose of conducting the inventory, to
+all necessary property tax assessment records and
+information in the assessor's office, including but not limited to the property records cards;
+b.
+Projection of the municipality's housing stock, including the probable future construction of low-
+and moderate-income housing, for the next ten years, taking into account, but not necessarily
+limited to, construction permits issues, approvals of applications for development and probable
+residential development of lands;
+c.
+An analysis of the municipality's demographic characteristics , including but not necessarily limited
+to household size, income level, and age;
+An analysis of the existing and probable future employment characteristics of the municipality;
+e.
+A determination of the municipality's present and prospective fair share for low- and moderate-
+income housing and its capacity to accommodate its present and prospective housing needs,
+including its fair share for low- and moderate-income housing, as established pursuant to section
+3 of P.L.2Q24.c2fC.52:27D-304.1):
+A consideration of the lands that are most appropriate for construction of low- and moderate-
+income housing and of existing structures most appropriate for conversion to, or rehabilitation
+for, low- and moderate-income housing, including a consideration of lands of developers who
+have expressed a commitment to provide low- and moderate-income housing;
+g.
+An analysis of the extent to which municipal ordinances and other local factors advance or
+detract
+from
+the
+goal
+of
+preserving
+multigenerational
+family
+continuity
+as
+expressed
+in
+recommendations
+of the Multigenerational
+Family Housing Continuity Commission, adopted
+pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021.c273fC.52:27D-329.20):
+For a municipality located within the jurisdiction of the Highlands Water Protection and Planning
+Council, established pursuant to P.L2024.c2fC.52:27D-304.1). and analysis of compliance of the
+housing element with the Highlands Regional Master Plan of lands in the Highlands Preservation
+Area, and lands in the Highlands Planning Area for Highlands-conforming municipalities.
+This
+analysis shall include the consideration of opportunities for redevelopment of existing developed
+lands into inclusionary or 100 percent affordable housing, or both and opportunities for 100
+percent affordable housing in both the Highlands Planning Area and Highlands Preservation Area
+that are consistent with the Highlands regional master plan; andAn analysis of consistency with
+the State Development and Redevelopment Plan, including water, wastewater, stormwater, and
+multi-modal transportations based on guidance and technical assistance from the State Planning
+Commission.
+d.
+f.
+h.
+5
+NEGLIA
+                                                                                                                                                                                              
+BER-L-000365-25   06/20/2025 10:27:09 AM   Pg 6 of 16   Trans ID: LCV20251812808 
+
+===== PAGE 7 =====
+Inventory of Northvale's Housing Stock
+The following housing data was sourced from the 2018-2023 five-year ACS estimates.
+Housing Type
+According to the 2023 ACS, there are
+1,688 housing units in the Borough of
+Northvale.
+Housing Type by Units in Structure
+Unit Type
+Numberof Units
+Percent
+●
+.
+The
+Borough's
+housing
+stock includes single-family detached,
+single
+townhomes),
+multi-family
+dwellings,
+and
+mobile
+homes.
+1-unit, detached
+1,329
+78.7%
+1-unit, attached
+35
+2.1%
+family
+attached
+i.e.
+2 units
+88
+5.2%
+3 or 4 units
+106
+6.3%
+Single-family
+detached
+dwellings
+total
+1,329
+or
+78.7% of the Borough's housing stock.
+Single-family-attached
+comprise 35
+or
+2.1%
+of
+Northvale's
+housing stock.
+As the
+chart
+on the
+right indicates there are 88, two-unit
+dwellings
+and
+130,
+5
+or
+more-unit
+buildings.
+5 to 9 units
+19
+1.1%
+10 to 19 units
+58
+3.4%
+20 or more units
+53
+3.1%
+homes
+Mobile home
+0
+0.0%
+Other
+0
+0.0%
+Total
+100% H
+1,688
+Source: 2023 ACS Table DP04
+Occupancy Status
+According to the 2023 ACS estimates, 77% of the Borough's occupied housing stock is owner occupied
+while 22.6% is renter occupied. The Borough's housing vacancy rate
+is estimated to be 0.8 in 2023.
+It is
+important to note that the 10 total vacant units in the Borough are for sale only.
+The average household size in Northvale is 2.85 persons, while the average family size is 3.02 persons
+according to the 2023 ACS. See the table below for additional details.
+Occupancy Status
+5^ m
+Households
+Percent
+●
+OccuMKi Total
+●'
+99.4%
+-
+-■7
+-arraKr-
+■Ik
+Owner Occupied
+1,298
+77.4%
+Renter Occupied
+380
+22.6%
+Vacant Total
+10
+0.6%
+For rent
+0
+0.0%
+Rented, not occupied
+0
+0.0%
+For Sale only
+10
+1%
+Sold, no occupied
+0
+0.0%
+Seasonal
+0
+0.0%
+Other
+0
+0.0%
+-Total
+.
+.
+fS?68g
+100%
+1
+r:
+a;..
+Source: 2023 ACS tables DP04 & B25004
+6
+NEGLIA
+                                                                                                                                                                                              
+BER-L-000365-25   06/20/2025 10:27:09 AM   Pg 7 of 16   Trans ID: LCV20251812808 
+
+===== PAGE 8 =====
+Value and Rent of Housing Stock
+The ACS provides value estimates for owner-occupied housing units.
+Northvale's estimated 1,298 owner-
+occupied housing units, the majority of homes (61.9%) are valued at between $500,000 to $999,999
+while there are no homes valued between $150,000 to $199,999. See the table below for details.
+Value of Owner-Occupied Units
+Number of Units
+Value
+Percent
+Less Than $149,999
+133
+10.2%
+$150,000 to $199,999
+0.0%
+0
+$200,000 to $299,999
+1.5%
+19
+$300,000 to $499,999
+296
+22.8%
+$500,000 to $999,999
+804
+61.9%
+$1,000,000 or more
+46
+3.5%
+Total
+1,298
+100.0%
+Source: 2023 ACS table DP04
+Over 32% of rentals in Northvale have rents priced between $1,500 to $1,999 per month.
+Units with
+rents of $3,000 or more comprise only 8.1% of rentals in the Borough. See the table below for more
+information.
+Cost of Rentals
+Number of Units
+Cost
+Percent
+Less Than $1,499
+103
+27.8%
+$1,500 to $1,999
+119
+32.2%
+$2,000 to $2,499
+51
+13.8%
+$2,500 to $2,999
+67
+18.1%
+$3,000 or more
+30
+8.1%
+Total
+370
+100%
+Source: 2023 ACS table DP04
+Condition of Housing Stock
+The Census does not classify housing units as standard or substandard, but
+it can provide an estimate of
+substandard housing units that are occupied by low- and moderate-income households.
+The Appellate
+Division upheld COAH's use of three indicators to determine substandard housing in the State.
+Those
+three indicators are houses built before 1959 and which are overcrowded with more than one person per
+room.
+The second indicator
+is homes lacking complete plumbing and the third indicator are homes
+lacking kitchen facilities.
+The Census indicators available at the municipal level indicate a sound housing stock, as displayed by the
+following three (3) data tables.
+According to the 2023 ACS, all but .46% or 78 homes of occupied units
+within the Borough contain complete kitchen facilities.
+7
+NEGLIA
+                                                                                                                                                                                              
+BER-L-000365-25   06/20/2025 10:27:09 AM   Pg 8 of 16   Trans ID: LCV20251812808 
+
+===== PAGE 9 =====
+Condition of Housing Stock
+Number of Units
+Fuel Type
+Percent
+Lacking complete plumbing facilities
+0
+0.0%
+Lacking complete kitchen facilities
+78
+4.6%
+No telephone service available
+0.0%
+0
+Total
+1,678
+4.6%
+Source: 2023 ACS table DP04
+Housing with 1.01 or more person per room
+is an index of overcrowding.
+In 2023, the ACS found that
+there were 35 occupied housing units within the Borough that were "overcrowded".
+It should be noted
+that 97.9% of the housing units contained less than 1.00 persons per room.
+Occupants Per Room
+Number of Units
+Occupants
+Percent
+1.00 or less
+1,643
+97.9%
+1.01 to 1.50
+25
+1.5%
+10
+0.6%
+1.51 or more
+Total
+1,678
+100%
+Source: 2023 ACS table DP04
+Housing units built in 1975 or earlier are not flagged instead of units built in 1959 or earlier. Research has
+determined that units built 50 or more years ago are much more likely to be in substandard condition.
+Included
+in the rehabilitation calculation
+are overcrowded units and dilapidated housing. Overcrowded
+units are defined by the U.S. Department of Housing and Urban Development as those with more than
+one person living per room.
+The table and bar graph on the following page provide the 2023 ACS data on the age of housing stock.
+Approximately 68.7% of Northvale's housing stock was built before 1975.
+Units built before 1975 are a
+factor in the determination of each municipality's rehabilitation share.
+In Northvale's 1,162 units were
+constructed
+prior to 1975.
+The Borough's Rehabilitation obligation
+is 0 units, reflecting the relatively
+good condition of these older homes. Approximately, 414 housing units in the Borough were constructed
+in the 1960s.
+Close behind the 1960s homes, with 236 housing units are the housing units constructed in
+the 1970s. As the table and bar graph illustrate, building completely stopped in 2020.
+Age of Housing Stock
+Number of Units
+Year Built
+Percent
+Built 2020 or later
+0
+0.0%
+Built 2010 to 2019
+172
+10.2%
+Built 2000 to 2009
+191
+11.3%
+Built 1990 to 1999
+110
+6.5%
+Built 1980 to 1989
+53
+3.1%
+Built 1970 to 1979
+14.0%
+236
+Built 1960 to 1969
+24.5%
+414
+Built 1950 to 1959
+11.4%
+193
+Built 1940 to 1949
+119
+7.0%
+Built 1939 or earlier
+200
+11.8%
+Total
+1,688
+100%
+Source: 2023 ACS Table DP04
+8
+NEGLIA
+                                                                                                                                                                                              
+BER-L-000365-25   06/20/2025 10:27:09 AM   Pg 9 of 16   Trans ID: LCV20251812808 
+
+===== PAGE 10 =====
+Age of Housing Stock
+1939 or earlier
+1940 to 1949
+1950 to 1959
+1960 to 1969
+3
+1970 to 1979
+cn
+1980 to 1989
+<u
+>
+1990 to 1999
+2000 to 2009
+2010 to 2019
+2020 or later
+0
+50
+100
+200
+150
+250
+Number of Units
+300
+350
+400
+450
+Projection of Housing Stock
+As per the MLUL specifically NJ.S.A 52:270-310,
+a housing element must contain
+a projection of the
+municipality's housing stock, including the probable future construction of low- and moderate-income
+housing for the next ten years, considering, but not necessarily limited to construction permits issued,
+approvals of applications for development, and probable residential development of lands.
+The Department
+of Community
+Affairs'
+Division
+of Codes and Standards website
+provides data on
+Certificates of Occupancy and demolition permits for both residential and non-residential development.
+Within the
+Division
+of Codes and Standards website
+is the New Jersey Construction Reporter, which
+contains
+building
+permit,
+certificate
+of occupancy
+(hereinafter
+"CO"),
+and
+demolition
+data
+that
+is
+submitted by municipal construction officials within the State each month. The New Jersey Construction
+Reporter has
+information
+dating back
+to
+2000, which
+can be used to show
+the
+Borough's
+historic
+developmenttrends.
+As shown in the table below, 8 new homes were built and issues COs between 2013 and 2023 while 22
+were demolished.
+As shown in the table below, the greatest numbers of certificates of occupancy were
+issued between 2020 and 2022.
+Historic Trends of Residential COs and Demolition Permits
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Total
+COs Issued
+1
+8
+41
+1
+2
+3
+48
+71
+50
+2
+228
+1
+Demolitions
+0
+2
+0
+2
+3
+1
+1
+2
+10
+0
+22
+1
+Total
+10
+42
+49
+73
+60
+30
+Source: New Jersey Construction Reporter from the NJ DCA
+9
+IS
+NEGLIA
+                                                                                                                                                                                              
+BER-L-000365-25   06/20/2025 10:27:09 AM   Pg 10 of 16   Trans ID: LCV20251812808 
+
+===== PAGE 11 =====
+Northvale's Population Demographics
+Northvaie's population experienced growth from 1940 until a slight decrease of 2.5% in 1980. From 1990
+to 2020 there
+has been
+a steady increase
+in
+population.
+The 2020 US Census Bureau reports the
+Borough's population to be 4,761 people.
+Please see the table to the right and chart below for additional
+information.
+It shall be noted that the five-year American Community Survey (hereinafter "ACS") data
+from the US Census Bureau
+provided estimates
+of population, housing and employment estimates
+between the major Census reports each decade.
+In an effort to display the most up to date information,
+the data used in this report is source from the 2018-2022 five-year ACS estimates.
+Population Growth
+Population
+Percent Change
+Year
+1940
+879
+%
+1950
+1,103
+25.5%
+1960
+2,193
+98.8%
+3,925
+79.0%
+1970
+3,826
+- 2.5%
+1980
+1990
+3,459
+-9.6%
+2000
+4,460
+28.9%
+2010
+4,640
+4.0%
+2020
+4,761
+2.6%
+Source: US Census Bureau, 2000,2010, 2020
+Population Growth 1940-2020
+4,761
+5000
+4,640
+4,460
+4500
+3,925
+3,826
+4000
+3,459
+3500
+3000
+2500
+2,193
+I
+2000
+1500
+1,103
+879
+1000
+I
+I
+500
+0
+1940
+1960
+1970
+1980
+2000
+2010
+2020
+1950
+1990
+Age Distribution of Population
+The 2023 ACS estimates that 18% of the population
+is 65 years or older while the percentage of children
+aged 19 or younger comprised 26.9% of the Borough's population.
+Residents aged 45 to 54 years old
+comprised the largest age cohort with approximately 17.6% of residents fall in this category.
+The ACS
+indicates that the Borough's median age was 43.9 years old. See the table on the next page for additional
+details.
+10
+NEGLIA
+                                                                                                                                                                                              
+BER-L-000365-25   06/20/2025 10:27:09 AM   Pg 11 of 16   Trans ID: LCV20251812808 
+
+===== PAGE 12 =====
+Population By Age Cohort
+Total
+Age
+Percent
+Under 5 years
+235
+4.9%
+193
+4.0%
+5 to 9 years
+364
+7.6%
+10 to 14 years
+15 to 19 years
+496
+10.4%
+20 to 24 years
+235
+4.9%
+25 to 34 yeare
+407
+8.5%
+35 to 44 years
+560
+11.7%
+843
+17.6%
+45 to 54 yea 13
+55 to 59 years
+307
+6.4%
+284
+60 to 64 yeaf3
+5.9%
+10.2%
+65 to 74 years
+486
+295
+6.2%
+75 to 84 years
+85 years and over
+77
+1.6%
+Total
+4,782
+100%
+Source: 2023 ACS Table DP05
+Household Size and Type
+According to the 2023 ACS estimates, Northvale contains 1,678 households.
+The Borough had a total of
+1,484 or 88,4%, family households.
+Married-couple families with children under 18 comprised 53.6% of
+households within
+the
+Borough, whereas
+16.9% were non-family households
+in 2023.
+Non-family
+households include persons living alone or a householder who is not related to any of the other persons
+sharing their home.
+Household Type and Size
+I?!
+Percent
+Number
+Type
+Family Households
+..
+1,484
+.
+88.4%
+:
+Married couple family
+77.4%
+1,148
+with children under 18
+615
+53.6%
+Male Householder, no spouse
+11.3%
+168
+Female Householder, no spouse
+11.3%
+168
+Non-femiiy Households
+■
+16.9%.
+194
+●S'!
+Total
+1,678
+.
+100%
+Source: 2023 ACS Table SllOl
+As illustrated in the table below, the most common household size within Northvale in 2023 was a 4 or
+more-person household, which totaled 39.7%. Second most common was a 2-person household with
+33.4% of all households. Households of 3-persons comprised 16.8% of all households within the Borough.
+The average household size in 2023 was 2.85 persons according to the ACS.
+11
+NEGLIA
+                                                                                                                                                                                              
+BER-L-000365-25   06/20/2025 10:27:09 AM   Pg 12 of 16   Trans ID: LCV20251812808 
+
+===== PAGE 13 =====
+Household Size
+Household Size
+Total
+Size
+Percent
+1-person
+169
+10.1%
+1-person
+10.1%/
+2-person
+561
+33.4%
+3-person
+282
+16.8%
+39.7%
+4 or more person
+666
+2-person
+33.4%
+Total
+1,678
+100%
+Source: 2023 ACS Table S2501
+3-person
+16.8%
+Income and Poverty Status
+The ACS estimates that the median household, for the Borough of Northvale slightly exceeds the incomes
+for Bergen County and New Jersey.
+Northvale's median household Income was $117,717, compared to
+$116,709 and $99,781 for the State. The median family income in the borough
+is $16,907 less than the
+county and approximately $4,961 greater than the State's. The median per capita income is slightly less
+than the county. However, the Borough's median per capita income is greater than the State's.
+Individual poverty
+is at 3.7% in Northvale compared to 6.6% in the County and 9.7% in the State. See the
+table and chart below and on the next page for additional details.
+Income Characteristics
+Borough of Northvale
+Income type
+Bergen County
+New Jersey
+$117,717
+$116,709
+$99,781
+Median Household Income
+$126,905
+$121,944
+Median Family Income
+$143,812
+$57,360
+$52,583
+$62,627
+Per Capita Income
+Poverty Status (Percent of People)
+3.7%
+6.6%
+9.7%
+Poverty Status (Percent of Families
+3.2%
+5.1%
+7,1%
+Source: 2023 ACS table S1901 B19301 SI 701, SI 702
+12
+NEGLIA
+                                                                                                                                                                                              
+BER-L-000365-25   06/20/2025 10:27:09 AM   Pg 13 of 16   Trans ID: LCV20251812808 
+
+===== PAGE 14 =====
+ncome Characteristics
+$160,000
+$140,000
+$120,000
+$100,000
+$80,000
+$60,000
+$40,000
+$20,000
+$0
+Borough of Northvale
+Bergen County
+New Jersey
+■Median Household Inconie
+■Median Family income
+m Per Capita Income
+According to the 2023 ACS data, a majority of households (28.2%) in Northvale earn more than $200,000
+per year.
+This compares to 27% of households in the County and 20.4% of households in the State.
+On
+the opposite end of the spectrum, 17.6% of households earn $50,000 or less per year compared to 20.4%
+in the County and 25.3% in the State.
+Household Income
+Borough of Northvale
+Total
+Bergen County
+New Jersey
+Total
+Total
+Percent
+Percent
+Percent
+Less Than $10,000
+1.1%
+12,831
+4.3%
+18
+3.6%
+152,153.70
+$10,000 to $14,999
+3.2%
+54
+8,198
+2.3%
+99,076.80
+2.8%
+$15,000 to $24,999
+42
+2.5%
+14,257.52
+4.0%
+180,461.30
+5.1%
+$25,000 to $34,999
+29
+1.7%
+14,257.52
+4.0%
+183,999.80
+5.2%
+$35,000 to $49,999
+9.1%
+7.9%
+153
+23,168.47
+6.5%
+279,538.10
+$50,000 to $74,999
+40,633.93
+285
+17.0%
+11.4%
+467,076.30
+13.2%
+$75,000 to $99,999
+168
+10.0%
+38,851.74
+10.9%
+410,461
+11.6%
+$100,000 to
+$149,999
+285
+17.0%
+64,871.72
+18.2%
+640,460.07
+18.1%
+$150,000 to
+$199,999
+10.3%
+43,129
+11.4%
+172
+12.1%
+403,384.10
+$200,000 or more
+473
+28.2%
+96,238.26
+27.0%
+721,845.20
+20.4%
+Total
+356,438
+1,678
+100%
+100%
+3,538,457
+100%
+Source: 2023 ACS table S1901
+13
+SSI
+NEGLIA
+                                                                                                                                                                                              
+BER-L-000365-25   06/20/2025 10:27:09 AM   Pg 14 of 16   Trans ID: LCV20251812808 
+
+===== PAGE 15 =====
+Northvale's Employment Demographics
+This chapter provides a snapshot of employment within Northvale, including the types of industries within
+the community. The 2023 ACS estimates that Northvale has 2,486 residents in the labor force. The labor
+force consists of approximately 94.6% employed person and 5.4% unemployed persons.
+The majority of works within the Borough are reported to be private wage and salary workers.
+Just over
+1,907
+or 81.1%
+of those employed
+fall
+into
+this
+category.
+Approximately
+15.6%
+of workers
+are
+government employees and 3.3% are self-employed.
+The ACS estimates 0 workers are unpaid family
+workers.
+Class of Worker
+Class of Worker
+Number of Workers
+Percent
+Private wage and salary workers
+1,907
+81.1%
+Government workers
+367
+15.6%
+Self-employed in own not
+incorporated business workers
+78
+3.3%
+Unpaid family workers
+0
+0.0%
+^
+Total Emptertd Residents.
+Total UnemployedResidents
+●. 94.6%
+.
+2,352
+..
+134
+5.4%
+h
+Total Residents in the Workforce
+'
+●-.: ":2,486
+’
+100%
+.
+Source: 2023 ACS Table DP03
+Occupational Characteristics
+The ACS estimates that 54.6%
+of the
+Borough's
+residents are employed
+in management,
+business,
+science, and arts occupations.
+The sales and office occupations employ 392 residents, or 16.7%, of the
+working population. Service occupations employs 11% or 258 residents. Natural resources, construction,
+and
+maintenance occupations employs
+230
+residents
+or 9.8% and
+production, transportation,
+and
+material moving occupations employs 187 residents and 8% of the working population.
+Employed Civilian Population By Occupation (Age 16 Years or Older)
+Borough of Northvale
+Percent
+Bergen County
+Occupation
+Total
+Total
+Percent
+Management, business,
+science, and arts occupations
+53.3%
+1,285
+54.6%
+263,942
+12.4%
+11.0%
+61,574
+Service occupations
+258
+20.4%
+Sales and office occupations
+16.7%
+101,185
+392
+Natural resources,
+construction, and maintenance
+occupations
+5.2%
+230
+9.8%
+25,740
+Production, transportation,
+and material moving occupations
+8.6%
+187
+8.0%
+42,480
+Total
+100%
+2,352
+100%
+494,921
+Source: 2023 ACS Table DP03
+14
+NEGLIA
+                                                                                                                                                                                              
+BER-L-000365-25   06/20/2025 10:27:09 AM   Pg 15 of 16   Trans ID: LCV20251812808 
+
+===== PAGE 16 =====
+Employment Projections
+The NJTPA estimates that employment within the Borough will grow by 103 jobs by 2050.
+In order to
+achieve this projection, Northvale would need to create 11.28 new jobs per year during the 35-year
+period.
+Employment Projections
+Jobs
+Change
+Year
+Percent
+2015
+3,617
+2050
+4,012
+0.3%
+395
+Source: NJTPA Plan 2050, Appendix E; NJTAP Plan 2040, Appendix A (for 2020 data)
+Employment by Professions
+According to the 2023 ACS there were 2,352 persons in the labor force in the Borough of Northvale and
+134 were unemployed.
+Educational services, and health care and social assistance made up the largest
+component
+of the workforce with 701 persons or 29.8%.
+The second largest cohort
+is professional,
+scientific, and management, and administrative and waste management services with 385 persons or
+16.4%.
+Employed Person by Profession
+Number of Persons
+Occupation
+Percent
+Agriculture, forestry, fishing and
+hunting, and mining
+5
+0.2%
+136
+5.8%
+Construction
+Manufacturing
+325
+13.8%
+Wholesale trade
+137
+5.8%
+Retail trade
+111
+4.7%
+Transportation and
+warehousing, and utilities
+64
+2.7%
+Information
+2.3%
+54
+Finance and insurance, and real
+estate and rental and leasing
+88
+3.7%
+Professional, scientific, and
+management, and administrative
+and waste management services
+385
+16.4%
+Educational services, and health
+care and social assistance
+701
+29.8%
+Arts, entertainment, and
+recreation, and accommodation and
+food services
+6.4%
+151
+Other services, except public
+administration
+66
+2.8%
+Public administration
+129
+5.5%
+Total
+2,352
+100%
+Source: 2023 ACS Table DP03
+15
+NEGLIA
+                                                                                                                                                                                              
+BER-L-000365-25   06/20/2025 10:27:09 AM   Pg 16 of 16   Trans ID: LCV20251812808 

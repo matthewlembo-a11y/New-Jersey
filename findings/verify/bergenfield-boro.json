@@ -1,0 +1,97 @@
+{
+  "municipality": "Bergenfield",
+  "research_status": "done",
+  "obligation": {
+    "present_need": 36,
+    "prospective_need": 0,
+    "total_obligation": 36,
+    "rdp": 0,
+    "unmet_need": 0,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/bergenfield-boro/PlBdReso2025HsgElementFSP.pdf?VersionId=JRMU8Cx7SmSZxYcAbuaGImf7Xsu5atz9"
+  },
+  "compliance": {
+    "status": "settled; court-approved settlement with FSHC from prior rounds; QUAM=1 (prospective need 0)",
+    "settlement_party": "Fair Share Housing Center",
+    "settlement_date": null,
+    "hefsp_status": "adopted (Fourth Round plan with rehabilitation-only obligation)",
+    "hefsp_adopted_date": null,
+    "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/bergenfield-boro/PlBdReso2025HsgElementFSP.pdf?VersionId=JRMU8Cx7SmSZxYcAbuaGImf7Xsu5atz9"
+  },
+  "notes": "Bergenfield has QUAM=1 per DCA (prospective need=0). Fourth Round obligation is rehabilitation-only: DCA assigned 137-unit present need, but Borough conducted windshield survey identifying only 36 units as substandard; the HEFSP uses 36 as the operative rehabilitation obligation. No new construction obligation in Round 4. Third Round Unmet Need overlay zones (Washington Avenue B-1/B-2 overlays and Foster Village Block 351 Lot 8) are maintained in the Fourth Round plan for continued Third Round Unmet Need compliance — but these are NOT Fourth Round new construction sites. Candidate snapshot was marked in_progress with no block/lot; the real HEFSP (as exhibit to Planning Board resolution) clarifies the Fourth Round posture. No Fourth Round inclusionary sites exist — this is a rehabilitation-only plan. The adopted ordinance (AdoptedOrd.262662) likely implements the Fourth Round plan; BergenfieldAffordableHousing.pdf was the initial binding resolution. The OCR'd PlBdReso2025 IS the full HEFSP (attached as exhibit to resolution).",
+  "sources": [
+    {
+      "doc_type": "HEFSP",
+      "title": "Bergenfield 2025 Housing Element and Fair Share Plan (as exhibit to Planning Board Resolution)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/bergenfield-boro/PlBdReso2025HsgElementFSP.pdf?VersionId=JRMU8Cx7SmSZxYcAbuaGImf7Xsu5atz9",
+      "excerpt": "Bergenfield has a Fourth Round Prospective Need obligation of 0 affordable housing units. Since there is no Prospective Need obligation, the Borough is not required to address this component of the affordable housing obligation."
+    },
+    {
+      "doc_type": "resolution",
+      "title": "Binding Resolution No. 25-055 (January 23, 2025)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/bergenfield-boro/BergenfieldAffordableHousing.pdf?VersionId=sP._OCJMHBCUiHx_gy9soxxDaXXVKjp.",
+      "excerpt": "DCA Report calculates the Borough's Round 4 (2025-2035) obligations as follows: a Present Need or Rehabilitation Obligation of 137 units [and] a Prospective Need of 0 units."
+    },
+    {
+      "doc_type": "ordinance",
+      "title": "Adopted Ordinance 262662 (Affordable Housing)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/bergenfield-boro/AdoptedOrd.262662AffordableHousing.pdf?VersionId=ohZHij1goy7H27MwdCiB9M6na0C76Dg2",
+      "excerpt": "Implementing ordinance for Fourth Round plan"
+    },
+    {
+      "doc_type": "DCA",
+      "title": "DCA Bergen Obligations JSON",
+      "url": "sources/dca_bergen_obligations.json",
+      "excerpt": "Bergenfield borough: present_need=137, quam=1, prospective_need=0"
+    }
+  ],
+  "sites": [
+    {
+      "site_name": "Foster Village Shopping Center Overlay Zone",
+      "address": "Foster Village, Bergenfield, NJ",
+      "block": "351",
+      "lot": "8",
+      "acreage": null,
+      "mechanism": "inclusionary overlay (Third Round Unmet Need continuation)",
+      "current_zoning": "B-1 or B-2 commercial",
+      "proposed_zoning": "Overlay for inclusionary housing",
+      "density": null,
+      "total_units": null,
+      "affordable_units": null,
+      "set_aside_pct": null,
+      "tenure": null,
+      "adoption_status": "adopted-ordinance (Third Round; continued in Fourth Round)",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/bergenfield-boro/PlBdReso2025HsgElementFSP.pdf?VersionId=JRMU8Cx7SmSZxYcAbuaGImf7Xsu5atz9",
+      "source_page": "Page 25-26, Section III Fair Share Plan",
+      "source_date": null,
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "The first zoning amendments established an overlay zone on Block 351 Lot 8, also known as the Foster Village Shopping Center. This overlay zone will permit the construction of inclusionary housing at this site.",
+      "notes": "This is a Third Round Unmet Need mechanism being CONTINUED in the Fourth Round plan — NOT a new Fourth Round site. Bergenfield has no Fourth Round prospective need (QUAM). The overlay requires at least 30% of all affordable units to contain no fewer than 3 bedrooms. Specific density and set-aside percentages stated as depending on sale vs. rental tenure (see Appendix D to plan). Block/lot confirmed: Block 351 Lot 8."
+    },
+    {
+      "site_name": "Washington Avenue B-1/B-2 Overlay Zone",
+      "address": "Washington Avenue corridor, Bergenfield, NJ",
+      "block": null,
+      "lot": null,
+      "acreage": null,
+      "mechanism": "inclusionary overlay (Third Round Unmet Need continuation)",
+      "current_zoning": "B-1 and B-2",
+      "proposed_zoning": "Overlay for inclusionary housing along Washington Avenue",
+      "density": null,
+      "total_units": null,
+      "affordable_units": null,
+      "set_aside_pct": null,
+      "tenure": null,
+      "adoption_status": "adopted-ordinance (Third Round; continued in Fourth Round)",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/bergenfield-boro/PlBdReso2025HsgElementFSP.pdf?VersionId=JRMU8Cx7SmSZxYcAbuaGImf7Xsu5atz9",
+      "source_page": "Page 26, Section III Fair Share Plan",
+      "source_date": null,
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "The second previously adopted amendment created an overlay zone on selected portions of the B-1 zone and B-2 zone along Washington Avenue. Density and the percentage of the mandatory affordable housing setaside are dependent on whether dwellings are to be offered for sale or for rent.",
+      "notes": "Third Round Unmet Need mechanism continued in Fourth Round. The HEFSP states the overlay is 'limited to a portion of the B-1 zone and a portion of the B-2 zone located along Washington Avenue.' Specific block/lot numbers not stated in plan text; see Appendix E (ordinance). Set-aside is 15% for rental, 20% for sale per borough-wide mandatory set-aside ordinance. NOT a new Fourth Round site; maintained only for Third Round Unmet Need credit."
+    }
+  ]
+}

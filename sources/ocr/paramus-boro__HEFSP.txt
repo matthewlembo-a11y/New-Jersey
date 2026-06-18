@@ -1,0 +1,2457 @@
+
+===== PAGE 1 =====
+BOROUGH OF PARAMUS
+FOURTH ROUND HOUSING ELEMENT AND 
+FAIR SHARE PLAN
+PREPARED BY DMR ARCHITECTS
+JUNE 2025
+ADOPTED BY THE PARAMUS BOROUGH PLANNING BOARD 
+JUNE 25, 2025
+ENDORSED BY THE BOROUGH COUNCIL
+_______, 2025
+_________________________
+DANIEL HAUBEN, PP, AICP, LEED® GREEN ASSOCIATE™, DMR ARCHITECTS_________
+DANIEL HAUBEN, PP, AICP, LEED® GREEN ASSOCIATE™, DMR ARCHITECTS
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 1 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 2 =====
+2
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+ACKNOWLEDGMENTS
+ACKNOWLEDGMENTS
+BOROUGH COUNCIL
+Mayor Christopher DiPiazza
+Councilman Robert Kaiser
+Councilwoman Mary Ellen Rizzo
+Councilman Ace Antonia
+Councilman Alfredo Nadera
+Councilwoman Jeanne Weber
+Councilman Michael Wilkins
+BOROUGH PLANNING BOARD
+Richard Conte, Chairman
+Anthony Feorenzo, Vice Chairman
+Mayor Dipiazza / Frank Capolupo (Mayor’s designee)
+Ken Hook
+Robert Kaiser
+Charles Field
+Charles “Chip” Philibosian 
+Joseph Vergona
+Robert Voorhis 
+Timothy Fichtler (Alternate 1)
+Gail Horton (Alternate 2)
+Matthew Gilson, Esq., Board Attorney
+John Dunlea, Neglia Engineering, Board Engineer
+BOROUGH PROFESSIONALS AND PERSONNEL
+Hector Olmo, Borough Administrator
+Brian Gibilin, Esq, Borough’s Counsel
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 2 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 3 =====
+3
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+TABLE OF CONTENTS
+CONTENTS
+Acknowledgements  
+2
+Borough Council 
+ 
+2
+Borough Planning Board 
+ 
+2
+Borough Professionals and Personnel  
+2
+Table of Figures 
+ 
+4
+Executive Summary  
+5
+5
+6
+First And Second Rounds
+6
+Third Round Rules 
+ 
+6
+Mount Laurel IV 
+ 
+7
+Fourth Round Rules 
+ 
+8
+9
+Calculating the Need 
+ 
+9
+Satisfaction of the Prospective Need 
+ 
+9
+11
+12
+12
+12
+15
+Introduction  
+15
+15
+19
+20
+21
+23
+24
+26
+Satisfaction Of The 87-Unit Rdp. 
+ 
+27
+29
+32
+33
+33
+Cost Generation 
+ 
+33
+33
+33
+Conclusion 
+ 
+34
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 3 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 4 =====
+4
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+TABLE OF CONTENTS
+TABLE OF FIGURES
+6
+7
+7
+8
+9
+9
+11
+11
+TABLE OF FIGURES
+TABLE OF MAPS
+Map 1. COAH Region Map, with Region 1 high-
+lighted, consisting of Bergen, Hudson, Passaic, 
+and Sussex Counties 
+5
+13
+Map 3. Considered Lands 
+25
+Map 4. Fair Share Plan Sites 
+26
+TABLE OF CHARTS
+14
+14
+14
+15
+16
+16
+16
+17
+17
+17
+18
+18
+19
+19
+19
+20
+20
+20
+21
+21
+21
+22
+22
+31
+31
+26
+33
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 4 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 5 =====
+5
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+1 • INTRODUCTION
+EXECUTIVE SUMMARY
+This Fourth Round Housing Element and Fair Share Plan (“HEFSP” or “Plan”) has been prepared for the 
+Borough of Paramus (“Borough” or “Paramus”) in Bergen County, New Jersey, in order to comply with 
+its affordable housing obligation in accordance with the Fair Housing Act of 1985 (N.J.S.A. 52:27D-301 
+et seq.) (“FHA”) as amended by the bill known as A4/S50, signed in March of 2024.
+An HEFSP is a document required by the FHA to be adopted by each municipality in the state 
+to identify and address their respective, allocated need for safe and adequate housing for low- 
+and moderate-income households. The HEFSP establishes the manner and means by which the 
+Borough of Paramus will satisfy its State-mandated affordable housing or fair share obligation as that 
+obligation is established in the Settlement Agreement. The Fair Share obligation is comprised of three 
+components:
+ 
+which are occupied by low- and moderate-income households and are in deteriorated condition 
+that can be corrected through rehabilitation. This obligation is also known as the “Rehabilitation 
+Share”, and the Borough’s estimated obligation for this component is 254 units. 
+ 
+the Borough must create to address its share of the projected “regional” need for low- and 
+moderate-income housing for the period running from July 1, 2025 to June 30, 2035. That number 
+is 1,523 units, statutorily capped at 1,000 units.
+ A “review” of the Borough’s satisfaction of its Prospective Need obligations from the First, Second, 
+and Third Rounds.
+WHAT IS AFFORDABLE HOUSING
+In 1975, the New Jersey Supreme Court (“Supreme Court”) ruled 
+in the case of Southern Burlington County NAACP v. The Township 
+of Mount Laurel, now simply referred to as “Mount Laurel I”, that 
+every “developing” municipality in the State of New Jersey has 
+a constitutional obligation to provide a reasonable opportunity 
+for the construction of housing that is affordable to low- and 
+moderate-income households. Eight years later, in 1983, the 
+Supreme Court decided in what is known as “Mount Laurel II” 
+that every municipality, regardless if its stage of development, 
+must provide that opportunity for construction of affordable 
+housing. 
+Two years after the Mount Laurel II decision, the New Jersey State 
+Legislature adopted the Fair Housing Act which, among other 
+things, created the Council on Affordable Housing (“COAH”) to:
+ Establish housing regions for calculation of housing need, 
+qualifying incomes, housing cost, and other factors;
+ Estimating low- and moderate-income housing needs;
+ Establishing the rules and means by which each municipality 
+may address its need; and
+ Create a process for reviewing and “certifying” that need 
+has been met.
+income categories of “low” and “moderate” income households, 
+but was updated to include the category of “very-low” income 
+COAH Region Map, with Region 1 
+highlighted, consisting of Bergen, Hudson, 
+Passaic, and Sussex Counties
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 5 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 6 =====
+6
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+1 • INTRODUCTION
+in 2008 as part of the legislation known as the “Roberts Bill”, which made a number of changes to the 
+Figure 1 - “Fair Housing Act Income Categories” on Page 
+6 . 
+The values for what constitute very-low, low, or moderate income are based on the median incomes 
+The Fair Housing Act tasked COAH with the delineation of these “Regions” 
+similarities and which constitute to the greatest extent practicable the primary metropolitan statistical 
+Map 1 - “COAH Region Map” shows the current housing regions. 
+“affordable”. HUD has, since the 1980s, considered housing to be affordable where the cost of such 
+housing is less than 30% of the household’s gross income. This rate has also been adopted by banks 
+and other institutions as the threshold for “affordability”. In practice, affordable housing in New Jersey 
+must adhere to the Uniform Housing Affordability Controls (UHAC) at N.J.A.C. 5:80-26.1 et seq, which 
+uses the 30% threshold for gross renter-household income and a 28% threshold for gross homeowner-
+household income. The UHAC also establishes additional standards to ensure that affordable housing 
+units are available to households of various sizes and incomes and priced affordably, as shown in Figure 
+2 - “Required Distributions” on Page 7  and Figure 3 - “Affordability Standards” on Page 7 
+NEW JERSEY MOUNT LAUREL HISTORY
+FIRST AND SECOND ROUNDS
+round” rules (N.J.A.C. 5:92-1 et seq.) to calculate the 
+affordable housing need which municipalities would 
+be required to address between 1987 and 1993, and 
+established the acceptable means to address that need. 
+The rules included a calculation of an existing need 
+based on an estimate of substandard housing that was 
+occupied by low- and moderate-income households 
+(commonly referred to as “present need”, as well as a 
+projection of future demand for housing opportunities 
+by low- and moderate-income households (commonly 
+were based on the income metrics established by the U.S. Department of Housing and Urban 
+Development. The present need would be addressed by rehabilitating existing substandard housing 
+and the prospective need would be addressed by creating new housing. 
+In 1994, COAH adopted N.J.A.C. 5:93-1 et seq. which retroactively recalculated the present and 
+prospective needs for 1987 to 1993 and provided new calculations of those needs for the period of 
+1993 to 1999. While the rules at the time were considered to be COAH’s “second round” of rules, the 
+obligations calculated through those rules are referred to today as the “Prior Round” because the 
+Second Round need numbers were recalculated and combined with  need calculated for 1987 to 
+1993.
+THIRD ROUND RULES
+While the Fair Housing Act required COAH to adopt new rules in 1999, COAH did not adopt its Third 
+Second Round rules and the creation of new rules and need calculations. The 2004-adopted rules, 
+located at N.J.A.C. 5:94-1 and 5:95-1 et seq., calculated a need period extending from 1999 to 2014 
+the next 10 years (In 2001 the Fair Housing Act was amended to extend the effective time frame of 
+Categories
+Very-Low Income  Household: Earns 30% or 
+less of regional median income
+Low-Income Household: Earns 30% to 50% of 
+Regional Median Income
+Moderate Income Household: Earns 50% to 
+80% of Regional median Income
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 6 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 7 =====
+7
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+1 • INTRODUCTION
+any future-adopted COAH rules from the original 6 years used in Rounds 1 and 2 to a period of 10 
+years). 
+The 2004-adopted Third Round rules used a new 
+method called “Growth Share” for calculating 
+municipal new-construction obligation. Growth 
+Share tied each municipality’s affordable housing 
+obligation to actual residential and non-residential 
+growth between 2004 to 2014. The New Jersey 
+Appellate Court invalidated substantial portions of 
+the Third Round rules, including the Growth Share 
+methodology, in the January 25, 2007 decision In 
+re Adoption of N.J.A.C. 5:94 and 5:95, and ordered 
+COAH to adopt amendments to the rules within six 
+(6) months.
+COAH did adopt amended rules more than 
+15 months later on June 2, 2008 (N.J.A.C. 5:96 
+methodology establishing a need for the period of 
+1999-2018, which had to be addressed by 2018, and 
+recalculating the Prior Round obligations and the 
+means of addressing those obligations. Once again, 
+however, the new rules were challenged and 
+largely invalidated in 2010 due to the continued 
+use of the Growth Share methodology to calculate 
+municipal obligations despite the methodology 
+being struck down in 2007.
+COAH once more attempted to adopt Third Round 
+rules in 2014. Draft rules were published in April 30 of 
+that year and scheduled for a decision on adoption 
+on October 20, 2014. At that October 20 meeting, 
+COAH deadlocked in its vote to adopt the rules 
+and did not reschedule to consider the rules again, 
+effectively failing to adopt the new rules.
+MOUNT LAUREL IV
+After COAH failed to adopt its 2014 draft rules, Fair Share Housing Center, a prominent advocacy 
+Court a motion in aid of litigant’s rights. On March 10, 2015, the Supreme Court issued a ruling on 
+that Motion In re Adoption of N.J.A.C. 5:96 & 5:97, which is now commonly referred to as “Mount 
+Laurel IV”, which transferred COAH’s responsibilities to designated Mount Laurel trial judges. These 
+responsibilities primarily consist of reviewing and approving municipal Housing Elements and Fair 
+Share Plans. Additionally, the Mount Laurel IV
+and to prepare Housing Element and Fair Share Plans based on COAH’s Second Round rules and 
+those portions of COAH’s 2008-adopted Third Round rules that were upheld by the Appellate Division 
+in 2010. 
+Given that the Supreme Court did not establish the affordable housing obligations that each 
+municipality would be required to address, there had been much debate in the years following the 
+Mount Laurel IV decision as to how to calculate municipal present and prospective need obligations 
+in a manner that complies with that decision as well as Appellate Division decisions that had 
+invalidated earlier versions of the Third Round rules. Numbers had been offered by experts recruited 
+by Fair Share Housing Center, a consortium of municipalities, and even the Courts. 
+Within and across all developments addressing the 
+Borough’s Prospective Need, the following ratios 
+must be met: 
+Income Distribution: Income Categories as a % of 
+• Moderate Income: 50% or less
+• Low Income: 37% or more
+• Very-Low Income: 13% or more
+• One-Bedroom or Studios: 20% or less
+• Two-Bedroom: At least 30%
+• Three-Bedroom: At least 20%
+• 
+• 
+• 
+• 
+RMI=Regional Median Income
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 7 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 8 =====
+8
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+1 • INTRODUCTION
+As an intervenor recognized by the Courts in the affordable housing matters, Fair Share Housing 
+as compliant with their affordable housing obligation. As a result, municipalities have been required 
+to enter into Settlement Agreements with FSHC as part of their compliance actions. 
+On March 8, 2018, The Honorable Judge Mary Jacobson of the Superior Court of New Jersey Law 
+Division in Mercer County published her opinion in the Matters of the Municipality of Princeton and 
+the Township of West Windsor settling on a methodology for establishing the affordable housing 
+obligations of municipalities in the vicinage containing Mercer County. Judges across New Jersey 
+have since accepted and adopted her opinion and it has served as the basis for affordable housing 
+settlement agreements since that time. Up until that point, most Settlement Agreements sought to 
+“numbers” experts.
+Historically, a municipality that prepared a Housing 
+Element and Fair Share Plan for compliance with the 
+Fair Housing Act would prepare and submit a Plan to 
+COAH pursuant to COAH’s rules and seek “substantive 
+that a municipality’s HEFSP complies with COAH’s 
+would have the affect of protecting municipality’s from 
+Figure 4 - “Builder’s 
+Remedy” on Page 8 . Rather than seeking substantive 
+affordable housing compliance process is seeking a 
+Judgment of Compliance from the Court stating that the 
+municipality has adopted an HEFSP and any ordinances and resolutions required to implement that 
+HEFSP according to the Supreme Court’s Mount Laurel IV decision, which has the same affect as 
+FOURTH ROUND RULES
+On March 20, 2024, Governor Phil Murphy signed into law the bill known as A4/S50 (P.L. 2024 c.2), 
+which amended the Fair Housing Act (“FHA” or “Act”) to abolish the Council on Affordable Housing 
+(“COAH”) and set forth the processes by which municipal affordable housing obligations will be 
+terminating on June 30, 2035) and beyond. 
+The Bill tasked the New Jersey Department of Community Affairs (“DCA”) with determining municipal 
+affordable housing obligations for the Fourth Round by October 20, 2024, and required municipalities 
+to declare their affordable housing obligations by binding resolution no later than January 31, 2025, 
+and to adopt their HEFSPs by June 30, 2025, along with draft implementing ordinances, adopted 
+resolutions, and supporting documents. Ordinances are to be adopted by March 16, 2026.
+The Bill also created a new body called the Affordable Housing Dispute Resolution Program 
+(“Program”) which will be responsible for reviewing plans for consistency with the Fair Housing Act 
+and handling challenges to municipalities’ stated housing obligations or to their affordable housing 
+plans. 
+ 52:27D-328 as “a court 
+.”
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 8 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 9 =====
+9
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+1 • INTRODUCTION
+THE AFFORDABLE HOUSING OBLIGATION
+1 N.J.S.A. 52:27D-304.3.c
+2 N.J.S.A. 52:27D-304.3.b
+The Borough’s obligation consists of two components:
+• 
+The “Prospective Need” new construction obligation 
+projected between 2025  and 2035; and
+• 
+The “Present Need” or “Rehabilitation” obligation, 
+the municipality that are substandard and occupied 
+by low- and moderate-income households.
+The Plan must also review the Borough’s satisfaction of its 
+new construction obligation for the previous three rounds. 
+CALCULATING THE NEED
+Prospective Need obligations are calculated at the 
+housing Region level and allocated to the municipalities 
+within the region based on household income, non-
+residential property values, and land use factors that 
+land availability1. These obligations are required to be 
+addressed through the creation of new affordable units, 
+the renewal of affordability controls on existing affordable 
+housing units (Figure 6 - “Affordability Controls” ), or the 
+creation of zoning or redevelopment plans that provide 
+for a realistic opportunity create affordable housing units.
+Present Need obligations are calculated at the local 
+level  using estimates from the U.S. Census or American 
+housing units occupied by low- and moderate-
+lack of plumbing, kitchen facilities, age of housing, and 
+crowding2. Present Need is typically addressed by funding 
+and/or participating in programs that offer to rehabilitate 
+occupants in exchange for 10-year deed restrictions, 
+although it may be addressed by building new housing 
+as well.
+The NJ DCA published its non-binding calculations of the Prospective and Present Needs for every 
+municipality in New Jersey on October 18, 2024, based upon the methodology prescribed in A4/
+S50. The DCA determined that the Borough had a 254-unit Present Need obligation and a 1,523-unit 
+Prospective Need obligation. Consistent with the long-standing 1,000-unit cap rule, the Borough’s 
+Prospective Need was capped at 1,000 units.  In a resolution passed on January 20, 2025, the Borough 
+accepted DCA’s calculations while reserving the right to adjust its Present Need and Prospective 
+Need through two tools authorized by  P.L. 2024, c.2 and Prior Round rules that have not been 
+invalidated by Court rulings or prohibited by P.L. 2024, c.2.
+SATISFACTION OF THE PROSPECTIVE NEED
+Satisfaction of the Prospective Need is subject to certain restrictions and minimum requirements, 
+some of which are detailed in Figure 6 - “4th Round Housing Plan Ratios” on Page 9.
+units addressing the Borough’s Prospective 
+• 
+• All rental units
+• 
+the 
+Controls by deed restriction, contract, or 
+other legal or binding means which ensure 
+and moderate-income households over a 
+certain period of time in accordance with the 
+Fair Housing Act and applicable regulations.
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 9 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 10 =====
+10
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+1 • INTRODUCTION
+The Fourth Round Rules allow municipalities to claim a number of bonus credits equal to not more 
+than 25% of the prospective need for the units from the types of projects listed below. Bonuses are 
+per unit falling into the respective category:
+• 
+Special Needs/Supportive Housing - 1 bonus credit
+• 
+• 
+Transit Oriented (0.5 mile from public transit stop) - 0.5 bonus credits
+• 
+Age-Restricted Units - 0.5 bonus credits available for up to 10% of the age-restricted units.
+• 
+Surplus Very-Low Income Units - 0.5 bonus credits 
+• 
+Surplus Three-Bedroom Units - 0.5 bonus credits
+• 
+Redevelopment of commercial properties - 0.5 bonus credits
+• 
+Extension of Affordability Controls - 1 bonus credit
+• 
+Municipally-Sponsored Development (contribute lands or funds equal to at least 10% of cost of 
+constructing a 100% affordable development - 1 bonus credit
+• 
+Market-to-Affordable Program - 1 bonus credit
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 10 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 11 =====
+11
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+1 • INTRODUCTION
+WHAT IS A HOUSING ELEMENT AND FAIR SHARE 
+PLAN
+A Housing Element and Fair Share Plan is a document 
+required by the New Jersey Fair Housing Act of 1985 
+(“FHA”) to be adopted by each municipality in 
+the state to identify and address their respective, 
+allocated need for safe and adequate housing for 
+low- and moderate-income households. 
+As this report discusses, the “need” and the manner 
+in which that “need” can be addressed had 
+historically been promulgated by the Council on 
+Affordable Housing (COAH), an entity created by 
+the Fair Housing Act in 1985.
+However, A4/S50 (P.L. 2024, c.2) amended the 
+Fair Housing Act and other statutes such that it 
+disbanded COAH, restructured the jurisdictional 
+regime for the administration of the affordable 
+housing process, and established the Fair Housing 
+Act as the regulatory document for calculating 
+and addressing the affordable housing obligation. 
+Where the amended Fair Housing Act falls 
+short in outlining the means of determining and 
+satisfying a municipality’s responsibilities, it permits 
+municipalities, the Courts, and developers to rely 
+on previously accepted  and upheld practice and 
+“Figure 8. 
+Section 24 of P.L. 2024, c.2 (Section 311.m of the Fair 
+Housing Act)” on page 10.
+addressed in this Plan is comprised of the Present 
+Need and Fourth Round Prospective Need for 2025 
+to 2035, and is based on the methodology detailed 
+approved by the Honorable Mary C. Jacobson of 
+Mercer County in 2018 to resolve disputes over the 
+methodology to determine Third Round housing 
+needs in the absence of  COAH or legislative 
+intervention.
+• Inventory of municipal housing stock and 
+occupant characteristics;
+• Demographic analysis;
+• Analysis of existing and 10-year projected 
+employment characteristics;
+• 10-year housing stock projection;
+• Determination of municipal present and 
+prospective needs for low- and moderate-
+income housing;
+• Consideration of lands most appropriate 
+for the construction of low- and moderate-
+existing structures appropriate to convert 
+to low- and moderate-income housing;
+• Analysis of the extent to which municipal 
+ordinances and other local factors advance 
+or detract from the goal of preserving 
+multi-generational family continuity;
+• An analysis of consistency with the State 
+Development and Redevelopment Plan, 
+including water, wastewater, stormwater, 
+and multi-modal transportation based on 
+guidance and technical assistance from the 
+State Planning Commission
+• All parties shall be entitled to rely 
+upon regulations on municipal credits, 
+adjustments, and compliance mechanisms 
+Housing unless those regulations are 
+contradicted by statute, including but not 
+limited to P.L.2024, c.2 (C.52:27D-304.1 et 
+al.), or binding court decisions.
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 11 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 12 =====
+12
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+2 • ABOUT PARAMUS
+ABOUT PARAMUS
+The Borough of Paramus is a 10.5 square-mile (6,720.36-acre) municipality in Bergen County with a 
+population of 26,698 as of 2020. The Borough is considered to be a regional center of commerce, 
+as it is home to several regional shopping centers including the Garden State Plaza, Bergen Town 
+Center, and the Paramus Park Mall. It is also intersected by three major highways - State Routes 
+17 and 4 and the Garden State Plaza, which helps to sustain its regional economic supremacy. In 
+addition to being a commercial Parkway, the Borough is also home to several cultural, recreational, 
+medical, and educational institutions, including Van Saun Park - a County park containing the 
+Bergen County Zoo, Bergen Community College, Bergen County Technical Schools, Bergen New 
+and two (2) cemeteries.
+Unlike most suburban communities in New Jersey, where one-to-four-family residential properties 
+comprise at least two-thirds of the land area, low-density residences only make up 27.7% of tax-
+assessed property acreage. Half of the Borough’s assessed land area is made up of commercial 
+properties (35.3%) and publicly-owned properties (14.7%).
+State Highway 17 (NJ-17) connects the Borough to Rockland County, New York to the City of Newark, 
+NJ.   State Highway 4 (NJ-4) connects the Borough to western Bergen County and to New York City. 
+Garden State Parkway connects the Borough to Rockland County, NY and the Jersey Shore area.
+The Borough has adequate sewer and water capacity to service the housing units in this plan or will 
+AFFORDABLE HOUSING HISTORY
+1,097 units, adjusted downward to 341 units based upon a vacant land analysis. The plan relied on 
+existing income-restricted units as well as the creation of inclusionary townhouse zones on excess 
+land on two of the Borough’s golf courses and a special development fee scheme. The Plan was 
+The Borough adopted its Second Round Plan in 1995, which it amended in 1997 prior to receiving 
+and Second Rounds, representing a reduction from the 1,097-unit obligation imposed in the First 
+Round rules.  The Borough further reduced this obligation to 260 units using a vacant land analysis. 
+The obligation was met through a combination of a Regional Contribution Agreement with Jersey 
+City and the creation of 100% affordable senior housing units.
+The Borough adopted Third Round Fair Share Plans to comply with the 2004 and 2008 iterations of 
+the Third Round Rules; however, COAH did not certify either Third Round Plan before its rules were 
+invalidated by the Courts. 
+In order to comply with the NJ Supreme Court’s Mount Laurel IV decision, Paramus entered into a 
+Settlement Agreement on February 6, 2020 (Amended April 19, 2023) to establish its Third Round 
+Prospective and Present Needs and a strategy to meet those Needs. The Planning Board adopted 
+its Third Round Housing Element and Fair Share Plan on December 5, 2024. 
+WHAT IS “AFFORDABLE” IN PARAMUS BOROUGH
+Paramus is located in Housing Region 1, which includes Bergen, Hudson, Passaic, and Sussex 
+Counties. Whereas COAH has historically had the responsibility of annually publishing “income 
+limits” establishing the maximum very-low, low-, and moderate-income household incomes based 
+on household size in each region, as well as the maximum value of assets qualifying households 
+may own, that responsibility now falls with the New Jersey Housing and Mortgage Finance Agency 
+(“HMFA”). Income limits are generally calculated based on HUD’s methodology for calculating its 
+own income limits. 
+Chart 1 - “2025 Region 1 Income Limits” on Page 14  summarizes the maximum incomes for very-
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 12 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 13 =====
+13
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+2 • ABOUT PARAMUS
+Paramus Borough Land Use Map
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 13 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 14 =====
+14
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+2 • ABOUT PARAMUS
+low, low, and moderate income households in Region 1 by household size as published for the year 
+2025 by HMFA. 
+Chart 1. 2025 Region 1 Income Limits
+HOUSEHOLD INCOME CATEGORY
+1-PERSON
+2-PERSON
+3-PERSON
+4-PERSON
+5-PERSON
+MODERATE
+$71,280
+$81,440
+$109,920
+LOW
+$44,550
+$50,900
+$57,250
+$30,540
+$34,350
+$41,220
+Source: NJHMFA 2025 UHAC Affordable Regional Income Limits
+Based on the Uniform Housing Affordability Controls (UHAC) at N.J.A.C. 5:80-26.3, the “gross” rent for 
+affordable units, which means the rents and any utilities and services (example: trash, gas, electric, 
+water/sewer) included therein, cannot exceed 30%  the gross household incomes for households at 
+the 30% of regional median income level for very-low income units, 50% of regional median income 
+level for low-income units, or 60% of regional median income for moderate income units.  
+The UHAC limits the highest affordable-unit sales price to that which is affordable to moderate 
+income households earning 70% of regional median income. Affordability for for-sale / homeowner 
+units are more variable than rental units as they depend upon current mortgage rates, homeowner 
+insurance rates, and homeowner association or condominium fees, but are not affected by utilities. 
+Additionally, unlike affordable rents, which are based upon 30% of gross household income, sales 
+prices are considered to be affordable when the costs of the mortgage, insurance, and HOA/Condo 
+fees are less than or equal to 28% of gross household income.  
+As of the writing of this Plan, the HMFA has not yet published calculators, like those previously provided 
+by COAH or the Affordable Housing Professionals of New Jersey, to assist in calculating affordable 
+rents or sales prices. However, based on the guidelines for affordability as a percentage of household 
+income, affordable monthly renter and homeowner costs for a 1, 2, or 3 bedroom unit would be as 
+follows. See Chart 2 - “2025 Region 1 Affordable Rents” on Page 14 and Chart 3 - “2025 Region 1 
+Affordable Monthly Costs for Homeowners” on Page 14 
+Chart 2. 2025 Region 1 Affordable Rents
+HOUSEHOLD 
+INCOME CATEGORY
+1-BEDROOM
+(1.5-PERSON H.H.)
+2-BEDROOM
+(3-PERSON H.H.)
+3-BEDROOM
+(4.5-PERSON H.H.)
+ $1,432 
+ $1,718 
+ $1,985 
+LOW
+ $1,193 
+ $1,431 
+ $859 
+ $992 
+Source: NJHMFA 2025 UHAC Affordable Regional Income Limits
+Chart 3. 2025 Region 1 Affordable Monthly Costs for Homeowners
+HOUSEHOLD 
+INCOME CATEGORY
+1-BEDROOM
+(1.5-PERSON H.H.)
+2-BEDROOM
+(3-PERSON H.H.)
+3-BEDROOM
+(4.5-PERSON H.H.)
+ $1,559 
+ $1,870 
+LOW
+ $1,114 
+ $1,544 
+ $802 
+Source: NJHMFA 2025 UHAC Affordable Regional Income Limits
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 14 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 15 =====
+15
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+3 • DEMOGRAPHICS AND HOUSING STOCK
+PARAMUS 
+BOROUGH 
+DEMOGRAPHICS 
+AND 
+HOUSING STOCK
+INTRODUCTION
+This section of the Housing Element and Fair Share Plan is intended to provide the following information 
+required at N.J.S.A. 52:27D-310:
+ An inventory of the municipality’s housing stock by age, condition, purchase or rental value, 
+occupancy characteristics, and type, including the number of units affordable to low and 
+moderate income households and substandard housing capable of being rehabilitated;
+ A projection of the municipality’s housing stock, including the probable future construction of low 
+and moderate income housing, for the next ten years, taking into account, but not necessarily 
+limited to, construction permits issued, approvals of applications for development and probable 
+residential development of lands;
+ An analysis of the municipality’s demographic characteristics, including but not necessarily 
+limited to, household size, income level and age; and
+ An analysis of the existing and probable future employment characteristics of the municipality.
+HOUSING CHARACTERISTICS
+Chart 4 - “Housing Units in Paramus Borough by Type of Structure, Tenure, and Occupancy Status in 
+2023” on Page 15 displays the total number of housing units in the Borough broken down by the 
+type of building containing the housing unit(s). More than 8 out of every ten (84%) of the housing units 
+is in a detached single- family house.  A total of 6% of the housing units are in apartment buildings 
+with 20 or more units. Most of the remainder of the Borough’s housing is in attached housing and 
+buildings with 2 units (8%), and small apartment buildings with 3 to 19 units(2%).
+Chart 4. Housing Units in Paramus Borough by Type of Structure, Tenure, and Occupancy Status in 2023
+TYPE OF BUILDING/
+STRUCTURE
+TOTAL UNITS
+PERCENT OF 
+TOTAL
+OWNER 
+OCCUPIED
+RENTALS
+NOT 
+OCCUPIED
+1, DETACHED
+7,489
+84%
+753
+294
+1, ATTACHED
+385
+4%
+200
+177
+8
+2 UNITS
+354
+4%
+134
+143
+77
+3 OR 4
+101
+1%
+8
+33
+5 TO 9
+1%
+8
+38
+0
+10 TO 19
+8
+0%
+0
+8
+0
+20 TO 49
+1%
+0
+0
+50 OR MORE
+437
+5%
+295
+MOBILE HOME
+9
+0%
+9
+0
+0
+BOAT, RV, VAN, ETC. 
+0
+0%
+0
+0
+0
+Source: 2023 American Community Survey - 5 year estimate (B25024, B25032)
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 15 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 16 =====
+16
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+3 • DEMOGRAPHICS AND HOUSING STOCK
+Chart 5 - “Housing Units in Paramus 
+Borough by Year Built and Tenancy 
+Type in 2023” on Page 16  breaks 
+down the number of housing units 
+occupied in 2023 by the time period 
+in which they were built , as well as 
+whether the units were owner or renter 
+occupied. The chart shows that only 6% 
+of the total housing units were built in 
+1939 or earlier, another 40% were built 
+between 1940 and 1959 and nearly 
+23% were built between 1960 and 1979. 
+Between 1980 and 2009, 24% was built 
+and since 2010 only 6.5% of the current 
+occupied housing stock was built. 
+Much of the renter occupied housing 
+stock was constructed between 1950 
+and 1999 when over 75% of the entire 
+renter occupied housing stock was 
+median year of construction of renter 
+occupied units, 1960. The median year 
+of construction for owner occupied 
+units was similar, 1963.
+Chart 6 - “Housing Units in Paramus 
+Borough by Number of Rooms in a 
+Unit in 2023” on Page 16  shows the 
+number of units in Paramus by their 
+number of rooms. The most common 
+together constitute nearly two-thirds 
+of the total units. Less than 3% of units 
+have 1 or 2 rooms, those with 3 rooms 
+make up 2.10%.  The median number 
+solid upper middle-income nature of 
+Paramus.
+Similarly, Chart 7 - “Housing Units 
+in 
+Paramus Borough 
+by 
+Number 
+of Bedrooms in 2023” on Page 
+16 indicates 
+that 
+approximately 
+one-third of the housing units in 
+Paramus have 3 bedrooms (36.83%) 
+and another one-third  have 4 
+bedrooms (36.13%) while 13.94% have 
+the predominantly single-family nature of the Borough’s housing stock.
+Chart 5. Housing Units in Paramus Borough by Year Built and Tenancy Type 
+in 2023
+YEAR BUILT
+OCCUPIED 
+UNITS
+PERCENT  
+OF TOTAL
+OWNER
+RENTER
+2020 OR LATER
+ 78 
+0.93%
+ 78 
+0
+2010 TO 2019
+ 335 
+133
+2000 TO 2009
+ 800 
+9.50%
+ 730 
+70
+1990 TO 1999
+ 728 
+ 438 
+290
+1980 TO 1989
+ 512 
+144
+1970 TO 1979
+ 800 
+9.50%
+ 544 
+ 1,129 
+13.41%
+ 893 
+1950 TO 1959
+ 2,920 
+239
+1940 TO 1949
+ 483 
+5.74%
+ 348 
+135
+1939 OR EARLIER
+ 502 
+40
+1963
+1960
+1975
+Source: 2023 American Community Survey - 5 year estimate (B25035, 
+B25036, B25037)
+Chart 6. Housing Units in Paramus Borough by Number of Rooms in a Unit in 
+2023
+ROOMS
+NUMBER OF UNITS
+PERCENT 
+1 ROOM
+193
+2.17%
+2 ROOMS
+53
+3 ROOMS
+187
+2.10%
+4 ROOMS
+521
+5 ROOMS
+915
+10.28%
+1,319
+14.82%
+7 ROOMS
+18.88%
+8 ROOMS
+1,597
+17.95%
+9+ ROOMS 
+2,433
+27.34%
+Source: 2023 American Community Survey - 5 year estimate (DP04) 
+Chart 7. Housing Units in Paramus Borough by Number of Bedrooms in 2023
+BEDROOMS
+NUMBER OF UNITS
+PERCENT 
+EFFICIENCY
+201
+1 BEDROOM
+282
+3.17%
+2 BEDROOMS
+3 BEDROOMS
+3277
+4 BEDROOMS
+3215
+5 OR MORE BEDROOMS
+1240
+13.94%
+Source: 2023 American Community Survey - 5 year estimate (DP04) 
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 16 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 17 =====
+17
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+3 • DEMOGRAPHICS AND HOUSING STOCK
+Chart 8 - “Housing Units in Paramus Borough by Value” on Page 17  compares the estimated 
+housing values in 2015 and 2023 according to American Community Survey data. The majority of 
+home values was between $300,000 and $499,000 in 2015 (34.56%) and between $500,000 and 
+$999,999 (50.65%) increasing  to a value of between $500,000 and $999,999  (69.64%) in 2023 and 
+&1,000,000 or more(16.80%). The median occupied home value was $545,700 in 2015 and $736,000 
+in 2023.
+Chart 8. Housing Units in Paramus Borough by Value
+HOUSING UNIT VALUE
+2015 UNITS
+PERCENT
+2023 UNITS
+PERCENT
+LESS THAN $50,000
+134
+1.80%
+0.97%
+0.82%
+104
+1.51%
+91
+1.22%
+35
+0.51%
+23
+0.33%
+3.59%
+92
+1.34%
+8.90%
+4,789
+$1,000,000 OR MORE
+500
+1155
+MEDIAN
+$545,700 
+$736,000 
+Source: 2015 and 2023 American Community Survey - 5 year estimate (DP04, B25075)
+Chart 9. Housing Units in Paramus Borough, Bergen County, and New Jersey by Gross Rent in 2023
+GROSS RENT
+PARAMUS 
+BOROUGH
+BERGEN COUNTY
+NEW JERSEY
+UNITS
+PERCENT 
+UNITS
+PERCENT 
+UNITS 
+PERCENT 
+LESS THAN $500
+74
+5.22%
+3,595
+$500 TO $999
+50
+3.53%
+5.02%
+9.41%
+$1,000 TO $1,499
+11.43%
+21,914
+18.04%
+312,849
+25.18%
+$1,500 TO $1,999
+199
+14.04%
+39,382
+32.42%
+351,379
+28.28%
+$2,000 TO $2,499
+91
+20,033
+192,283
+15.48%
+$2,500 TO $2,999
+192
+13.55%
+12,117
+9.98%
+88,284
+7.11%
+$3,000 OR MORE
+45.80%
+15.08%
+8.58%
+$2,845 
+$1,870 
+$1,667 
+126
+3,915
+40,711
+1,417
+121,460
+1,242,294
+Source: 2023 American Community Survey - 5 year estimate (DP04, B25063)
+Chart 10. Housing Units in Paramus Borough by Tenure and by Monthly Cost of Housing as a Percent of Household Income in 2023
+MONTHLY COST AS % OF INCOME
+OWNER
+PERCENT 
+RENTER
+PERCENT 
+ALL OCCUPIED
+PERCENT 
+        LESS THAN 10.0 PERCENT
+14.19%
+8
+0.52%
+984
+        10.0 TO 14.9 PERCENT
+15.49%
+181
+11.73%
+14.80%
+        15.0 TO 19.9 PERCENT
+1100
+115
+7.45%
+1,215
+14.43%
+        20.0 TO 24.9 PERCENT
+9.71%
+178
+11.54%
+10.05%
+        25.0 TO 29.9 PERCENT
+745
+10.83%
+121
+7.84%
+10.29%
+        30.0 TO 34.9 PERCENT
+9.44%
+43
+2.79%
+8.22%
+        35.0 TO 39.9 PERCENT
+212
+3.08%
+110
+7.13%
+322
+3.82%
+        40.0 TO 49.9 PERCENT
+498
+7.24%
+224
+14.52%
+722
+8.57%
+        50.0 PERCENT OR MORE
+12.53%
+431
+27.93%
+1,293
+102
+1.48%
+132
+8.55%
+234
+2.78%
+6,877
+100.00%
+1,543
+100.00%
+8,420
+100.00%
+867
+12.61%
+132
+8.55%
+999
+11.86%
+Source: 2023 American Community Survey - 5 year estimate (B25070, B25091)
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 17 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 18 =====
+18
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+3 • DEMOGRAPHICS AND HOUSING STOCK
+Chart 9 - “Housing Units in Paramus Borough, Bergen County, and New Jersey by Gross Rent in 2023” 
+on Page 17  compares gross rent payments in Paramus Borough, the entirety of Bergen County, 
+and the State of New Jersey in 2023. Housing costs for renters in Paramus are generally higher than 
+those across Bergen County and the rest of the state. The median monthly rent in Paramus was 
+$2,845 compared to $1,870 for Bergen County and $1,667 for New Jersey. Over 45% of renters pay 
+more than $3,000 each month in Paramus versus 15% in Bergen County and 8.58% across New Jersey; 
+while 20.18% pay less than $1,500 per month in Paramus versus 26.02% in Bergen County and 40.55% 
+across New Jersey.
+Chart 10 - “Housing Units in Paramus Borough by Tenure and by Monthly Cost of Housing as a 
+Percent of Household Income in 2023” on Page 17  Housing is considered to be affordable if costs 
+associated with occupying that housing unit are lower than 28% for owner occupied units and 30% 
+for renter occupied units. Households paying more than 30% of their gross income (before taxes 
+and other deductions) for housing are considered to be “cost burdened”, and households paying 
+more than 50% of their gross income for housing are considered to be “severely cost burdened”. 
+Chart 10 shows that 35.97% of households in Paramus are cost burdened, including 15.36% who 
+are severely cost burdened. The rates are higher among renters where 52.37% are cost burdened 
+including 27.93% who are severely cost burdened.
+Chart 11 – “ Population Changes in Paramus Borough, Bergen County, and New Jersey Between 
+2000 and 2023 “  compares the population change over the last two-and-a-half decades in 
+Paramus, Bergen County and New Jersey. The trend across the three jurisdictions between 2000 and 
+2015 shows Paramus having a lower growth rate (3.97%) than Bergen County (4.77%) and the State 
+(6.46%). Paramus actually declined by some 260 people or slightly less than 1% between 2015 and 
+2023,  while during the same period Bergen County grew by 3.4% and the State grew by 3.7%. 
+Chart 11. Population Changes in Paramus Borough, Bergen County, and New Jersey between 2000 and 2023
+LOCATION
+2000
+2015
+00 -'15 
+CHANGE 
+2020
+15'- '23 
+CHANGE 
+00' TO 23' 
+CHANGE 
+PARAMUS BOROUGH
+25,737
+3.97%
+-1.0%
+3.0%
+BERGEN COUNTY
+884,118
+4.77%
+3.4%
+8.3%
+NEW JERSEY 
+8,414,350
+8,958,013
+9,290,841
+3.7%
+10.4%
+Source: 2000 and 2010 Decennial Census, 2023 American Community Survey
+Chart 12. Population Age Distribution in 2015 and 2023.
+AGE GROUP 
+(YEARS OLD)
+ 2015
+PERCENT  OF 
+TOTAL
+2023
+PERCENT  OF 
+TOTAL
+CHANGE 
+UNDER 5
+1,079
+4.03%
+1,039
+3.92%
+-4%
+5 TO 9
+1,421
+5.31%
+4.39%
+-18%
+10 TO 14
+1,589
+5.94%
+1,870
+18%
+15 TO 19
+1,782
+5.91%
+-12%
+20 TO 24
+1,395
+5.21%
+1,554
+11%
+25 TO 34
+2,300
+8.59%
+0%
+35 TO 44
+3,210
+12.00%
+10.11%
+-17%
+45 TO 54
+4,048
+15.13%
+3,103
+11.71%
+-23%
+55 TO 59
+2,003
+7.49%
+2,098
+7.92%
+5%
+1,941
+7.25%
+2,173
+8.20%
+12%
+5,992
+22.39%
+MEDIAN AGE 
+(
+46.8
+49.1 
+Source: 2015 Decennial Census and 2023 American Community Survey - 5 year estimate 
+(DP05)
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 18 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 19 =====
+19
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+3 • DEMOGRAPHICS AND HOUSING STOCK
+POPULATION 
+AND HOUSEHOLD 
+CHARACTERISTICS
+Chart 12 – “ Population 
+Age Distribution in 2015 
+and 2023 “ Chart 11 - 
+“Population  shows the age 
+distribution of individuals 
+living in Paramus, and 
+the 
+change 
+in 
+age 
+distribution 
+between 
+2015 and 2023. Similar 
+to many communities in 
+New Jersey the Paramus 
+population 
+got 
+older 
+between 2015 and 2023. 
+Although there were no 
+a percentage standpoint in any age 
+group the median age increased from 
+46.8 years to 49.1 years. 
+Chart 13 – “ Households in Paramus 
+Borough by Type in 2023 “ breaks 
+down households in Paramus by 
+type 
+(married, 
+single, 
+etc.). 
+The 
+as consisting of “ all the people who 
+occupy a given housing unit including 
+related family members and unrelated 
+people, if any, such as lodgers, foster 
+children, wards, or employees “. A 
+person living alone or a group of 
+unrelated people sharing a housing 
+unit is also counted as a household. 
+The count of households excludes 
+group quarters.
+Married couples made up 68.32% of 
+households in Paramus in 2015 and 
+64.68% in 2023. Less than one-third 
+of these married households had 
+children younger than 18 years living 
+at home (28.47% in 2015 and 24.9% in 
+2023). Single female households outnumbered single male households in both 2015 and 2023. Seniors 
+over 65 living alone was higher in 2015 (13.61%) than in 2023 (6.77%). 
+Chart 14 – “ Average Household Size in Paramus Borough in 2015 and 2023 “ shows that average 
+household size has decreased for owner occupied households while increasing for  renter households 
+between 2015 and 2023. Average household size decreased from 3.07 to 2.97 for owner occupied 
+households between 2015 and 2023 and increased from 2.43 to 2.86 for renter households between 
+2015 and 2023.
+Chart 13.Households in Paramus Borough by Type
+HOUSEHOLD TYPE
+2015 
+NUMBER OF 
+HOUSEHOLDS
+PERCENT 
+2023 
+NUMBER OF 
+HOUSEHOLDS
+PERCENT
+  MARRIED COUPLES
+     WITH CHILD UNDER 18
+2,411
+28.47%
+2,045
+24.29%
+COHABITANT COUPLE
+(X)
+(X)
+215
+   WITH CHILD UNDER 18
+(X)
+(X)
+19
+0.20%
+NON FAMILY HOUSEHOLD
+19.80%
+(X)
+(X)
+SINGLE MALE
+242
+811
+   WITH CHILD UNDER 18
+45
+0.53%
+8
+0.10%
+SINGLE FEMALE
+764
+9.02%
+1948
+23.14%
+WITH CHILD UNDER 18
+250
+2.95%
+319
+3.79%
+LIVING ALONE
+18.35%
+525
+65 AND OLDER
+570
+Source: 2015 and 2023 American Community Survey (DP02)
+Chart 14. Average Household Size in Paramus
+HOUSEHOLD TYPE
+2015 AVERAGE 
+HH SIZE
+2023 AVERAGE 
+HH SIZE
+OWNER
+3.07
+2.97
+RENTER
+2.43
+ALL HOUSEHOLDS
+2.75
+2.915
+Source: 2015 and 2023 American Community Survey (DP02, DP04)
+Chart 15. Households in Paramus by Income 
+HOUSEHOLD INCOME
+NUMBER OF HOUSEHOLDS
+PERCENT 
+LESS THAN $10,000
+232
+$10,000 TO $14,999
+80
+0.95%
+$15,000 TO $24,999
+$25,000 TO $34,999
+454
+5.39%
+$35,000 TO $49,999
+4.28%
+$50,000 TO $74,999
+702
+8.34%
+$75,000 TO $99,999
+843
+10.01%
+$100,000 TO $149,999
+1,493
+17.73%
+$150,000 TO $199,999
+18.00%
+$200,000 OR MORE
+2,434
+28.91%
+Source: 2023 American Community Survey - 5 year estimate (DP03)
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 19 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 20 =====
+20
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+3 • DEMOGRAPHICS AND HOUSING STOCK
+Chart 15 – “ Households in Paramus 
+Borough by Income in 2023 “ on Page 
+19 shows that 35.36% of households in 
+Paramus earned less than $100,000 a 
+year in 2023 and 64.64% earned more 
+than $100,000.  Nearly 30% earned 
+$200,000 or more. The median household 
+income was $139,707 in 2023 which was 
+considerably more than the New Jersey 
+household median income of  $99,781, 
+which was second highest among all 
+states.
+ECONOMIC CHARACTERISTICS
+Chart 16 – “ Poverty Rates in Paramus 
+Borough, Bergen  County, and New 
+Jersey in 2023 “ shows the distribution 
+of individuals and families living below 
+the poverty level. Paramus has a lower 
+poverty rate for both individuals and 
+families than Bergen County and the 
+State. The poverty rate for individuals 
+is 5.50% in Paramus compared to 7% 
+for the County and 10% for the State. 
+The poverty rate for families is 3.10% for 
+Paramus ,5.10% for the County   and 
+7.10% for the State.
+Chart 17 – “ Employed Paramus 
+Borough Residents by Sector “ shows 
+the number of employed Paramus 
+System (NAICS). The most represented 
+industries of residents employment in 
+Paramus are the Education, Health 
+Care and Social assistance industries 
+at 28.75%. Employment in the next 
+three sectors is fairly even; 12.84% in 
+Administration and Waste management 
+; 11.54% in Finance/insurance and Real 
+Estate; and 10.60% in Retail Trade. All 
+other sectors have employment of 
+under 8%.
+Chart 18 – “Employed Paramus Borough Residents by Occupation Category “ shows the number of 
+employed Paramus residents by “ Occupation “ , which describes the nature of the jobs performed. 
+The leading occupation was Management, Business, Science and Arts at 56.60% followed by Sales 
+Chart 19 – “ Labor Force and Unemployment Rates for Paramus Borough 2015 – 2023 “ This chart 
+provides estimates on number of employed persons, unemployed persons and the unemployment 
+rate in Paramus from 2015 through 2023 from the New Jersey Department of Labor and Workforce 
+Development. The lowest unemployment rate occurred in 2019 when it was 2.8%. The highest rate 
+of unemployment was in 2020 at 9.2% during the Covid pandemic. By 2022 the unemployment rate 
+Chart 16.Poverty Rates in Paramus Borough, Bergen County, and New 
+Jersey
+LOCATION
+INDIVIDUAL POVERTY 
+FAMILY POVERTY 
+PARAMUS BOROUGH
+5.5%
+3.10%
+BERGEN COUNTY
+7.0%
+5.10%
+NEW JERSEY
+10.0%
+7.10%
+Source: 2020 American Community Survey - 5 year estimate (DP03)
+Chart 17. Employed Paramus Residents by Sector 
+SECTOR
+NUMBER
+PERCENT 
+AGRICULTURE, FORESTRY, MINING, 
+FISHING & HUNTING
+9
+0.08%
+CONSTRUCTION
+897
+7.57%
+MANUFACTURING
+WHOLESALE TRADE
+393
+3.32%
+RETAIL TRADE
+TRANSPORTATION, WAREHOUSING, 
+UTILITIES
+3.95%
+INFORMATION
+301
+2.54%
+FINANCE/INSURANCE, REAL ESTATE
+11.54%
+PROFESSIONAL, SCIENTIFIC, 
+MANAGEMENT, ADMINISTRATION, 
+WASTE MGMT.
+1,522
+12.84%
+EDUCATION, HEALTH CARE, SOCIAL 
+ASSISTANCE
+3,407
+28.75%
+ARTS, ENTERTAINMENT, RECREATION, 
+HOSPITALITY
+5.20%
+OTHER SERVICES
+380
+3.21%
+PUBLIC ADMIN
+539
+4.55%
+Source: 2023 American Community Survey - 5 year estimate (DP03)
+Chart 18. Employed Paramus Residents by Occupation Category 
+OCCUPATION CATEGORY
+NUMBER
+PERCENT 
+MANAGEMENT, BUSINESS, SCIENCE, ARTS
+SERVICE
+1220
+10.30%
+SALES AND OFFICE
+2,570
+NATURAL RESOURCES, CONSTRUCTION, 
+MAINTENANCE
+PRODUCTION, TRANSPORTATION, 
+MATERIALS
+589
+4.97%
+Source: 2023 American Community Survey - 5 year estimate (DP03)
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 20 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 21 =====
+21
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+3 • DEMOGRAPHICS AND HOUSING STOCK
+had recovered to 3.5%. 
+Chart 20 – “ Mode of Commute for 
+Employed 
+Residents 
+of 
+Paramus 
+Borough, Bergen County and New 
+Jersey in 2023 “ shows the means of 
+commuting to work for employed 
+residents at the local , County , and 
+State level in 2023. Slightly less Paramus 
+residents drove alone or carpooled 
+to work (68.9%) than County (69.3%) 
+or 
+State 
+(71.3%) 
+residents. 
+The 
+percentage 
+of 
+Paramus 
+residents 
+who took public transportation to 
+work was less than the County or 
+State percentage. The percentage 
+of Paramus residents who worked 
+from home (21.50%) was considerably 
+more than the percentage of County 
+(12.80%) or State residents (14.00%).
+Employees who work in Paramus that 
+were 
+covered 
+by 
+Unemployment 
+Chart 21 
+–  “ Number of Employees in Paramus 
+Borough Covered by Unemployment 
+Insurance 
+in 
+2023 
+“. 
+Employees 
+covered by unemployment insurance 
+represent approximately 95% of all 
+workers in the state of New Jersey. 
+This chart indicates that there were 
+38,757 
+private 
+sector 
+employees 
+213 employees employed by federal 
+and local government and 2,682 
+employed in local education. The 
+highest annual wage was enjoyed 
+by those employed in the private 
+Finance/Insurance sector ($208,720) 
+followed by the Information sector 
+($195,598. The lowest average annual 
+wage was in the Arts/Entertainment 
+sector ($27,675) followed by the 
+Accommodations/Food 
+sector 
+($31,616). The average annual wage 
+for all employees in Paramus in 2023 
+was $76,062. 
+HOUSING, 
+EMPLOYMENT, 
+AND 
+POPULATION PROJECTIONS
+The 
+North 
+Jersey 
+Transportation 
+Planning Authority (NJTPA) publishes 
+demographic 
+forecasts 
+for 
+future 
+population, 
+households, 
+and 
+employment levels in north Jersey 
+Chart 19.Labor Force and Unemployment Rates Since 2015
+YEAR
+LABOR 
+FORCE
+EMPLOYED 
+PERSONS
+UNEMPLOYED 
+PERSONS
+UNEMPLOY-
+MENT RATE 
+2015
+12,810
+12,220
+590
+12,755
+509
+4.0%
+2017
+13,050
+12,545
+505
+3.9%
+2018
+12,974
+12,554
+420
+3.2%
+2019
+13,133
+12,770
+2.8%
+2020
+12,847
+1,180
+9.2%
+2021
+12,790
+11,992
+798
+2022
+13,115
+457
+3.5%
+2023
+13,358
+12,847
+511
+3.8%
+Source: NJ Department of Labor and Workforce Development Annual 
+Average Labor Estimates by Municipality 
+Chart 20. Mode of Commute for Employed Residents of Paramus Bor-
+ough, Bergen County, and New Jersey
+MODE OF TRANSPORT
+PARAMUS 
+BOROUGH
+BERGEN 
+COUNTY
+NEW 
+JERSEY
+DRIVE ALONE
+CARPOOL
+5.70%
+8.80%
+8.00%
+TRANSIT
+7.80%
+13.20%
+WALK
+1.30%
+2.50%
+2.50%
+WORK AT HOME
+0.50%
+2.20%
+OTHER
+21.50%
+12.80%
+14.00%
+32
+Source: 2023 American Community Survey - 5 year estimate (DP03)
+Chart 21. Number of Employees in Paramus Covered by Unemployment 
+Insurance in 2023
+EMPLOYMENT 
+SECTOR
+2023 AVERAGE 
+NUMBER OF 
+EMPLOYERS / 
+FIRMS
+2023 
+AVERAGE 
+NUMBER OF 
+EMPLOYEES
+AVERAGE 
+ANNUAL 
+WAGES IN 
+2023
+FEDERAL 
+GOVERNMENT 
+TOTALS
+2
+142
+ $95,742 
+LOCAL 
+GOVERNMENT 
+20
+71
+ $78,180 
+LOCAL PUBLIC 
+EDUCATION ONLY
+AGRICULTURE
+.
+.
+ . 
+CONSTRUCTION
+70
+477
+MANUFACTURING
+27
+382
+ $131,053 
+WHOLESALE TRADE
+.
+.
+ . 
+RETAIL TRADE
+437
+513
+ $54,379 
+TRANSP/ 
+WAREHOUSING
+28
+.
+ . 
+INFORMATION
+33
+580
+ $195,598 
+FINANCE/
+INSURANCE
+123
+1,780
+ $208,720 
+REAL ESTATE
+.
+ . 
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 21 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 22 =====
+22
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+3 • DEMOGRAPHICS AND HOUSING STOCK
+municipalities. 
+In 
+2021 
+NJTPA 
+published the forecasts shown in 
+Chart 22 – “Projection of Population, 
+Households, Employment from 2015 
+– 2050 “. The NJTPA’s projections 
+for Paramus Borough’s population 
+and employment in 2023 was fairly 
+accurate with actual population 
+approximately 
+5.5% 
+less 
+than 
+NJTPA’s projections while actual 
+employment 
+was 
+approximately 
+2.1% more than NJTPA’s projections. 
+NJTPA projects a 2050 population 
+for Paramus of 32,066 (annualized 
+rate of change of 0.5%), 10,310 
+households, and 42,586 jobs. In 
+2035, the year the Fourth Affordable 
+Housing Round ends, NJTPA projects 
+a population of 28,134 in Paramus 
+across 8,939 households.
+The HEFSP is required to include a projection of 
+the number of housing units to be constructed 
+in a municipality during the Fourth Round based 
+on known factors including historic development 
+patterns and pending development applications. 
+Chart 23 – “ Housing Supply Trends and Projection 
+“ reports building permit data collected from the 
+local building department. Between 2014 and 
+2024 the Borough has issued permits to build a total 
+of 457 new housing units and demolish 377 existing 
+housing units, for a net of 80 new housing units, or 
+an average of 7.27 units per year. As the Borough 
+has recently approved developments that would 
+create hundreds of new housing units, this Plan 
+anticipates that the number of new housing units 
+to be granted building permits by June 30, 2025 
+Chart 21.Number of Employees in Paramus Covered by Unemployment 
+Insurance in 2023
+EMPLOYMENT 
+SECTOR
+2023 AVERAGE 
+NUMBER OF 
+EMPLOYERS / 
+FIRMS
+2023 
+AVERAGE 
+NUMBER OF 
+EMPLOYEES
+AVERAGE 
+ANNUAL 
+WAGES IN 
+2023
+PROFESSIONAL / 
+TECHNICAL
+243
+3,194
+MANAGEMENT
+14
+377
+ADMINISTRATION 
+/ WASTE 
+MANAGEMENT
+2,023
+EDUCATION
+35
+1,503
+ $43,953 
+HEALTH / SOCIAL 
+SERVICES
+347
+7,115
+ $70,578 
+ARTS / 
+ENTERTAINMENT
+23
+ACCOMMODATIONS 
+/ FOOD
+132
+2,795
+OTHER
+108
+772
+UNCLASSIFIED
+PRIVATE SECTOR 
+TOAL
+1,914
+38,757
+ $81,249 
+ALL TOTALS
+ 1,952 
+Source: NJ LWD 2023 Covered Employment - Annual Municipal Data By 
+Sector
+Chart 22. Projection of Population, Households, Employment from 2015-2050
+DEMO
+YEAR
+PARAMUS BOROUGH                    
+2015
+2023 
+PROJECTED
+2023 
+ACTUAL
+2035 
+PROJECTED
+2050
+ANNUALIZED 
+RATE OF 
+CHANGE
+POPULATION
+27,980
+28,134
+0.50%
+HOUSEHOLDS
+9,044
+8,420
+8,939
+ 10,310 
+0.50%
+EMPLOYMENT
+40,129
+0.20%
+Source: NJTPA Municipal Demographics Forecast, 2021 *(based on 2023 actual data)
+Chart 23. Housing Projections  Through 2025
+YEAR
+PERMITS 
+ISSUED
+DEMOS
+DIFFERENCE
+2014
+143
+25
+118
+2015
+129
+29
+100
+2017
+45
+43
+2
+2018
+43
+-43
+2019
+2020
+22
+-22
+2021
+140
+23
+117
+2022
+44
+-44
+2023
+54
+-54
+32
+-32
+457
+377
+Source:  Paramus Building Department
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 22 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 23 =====
+23
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+4 • LANDS CONSIDERED FOR AFFORDABLE HOUSING
+CONSIDERATION OF LANDS
+The Fair Housing Act at N.J.S.A. 52:27D-310.f requires the HEFSP to include “A consideration of the 
+lands that are most appropriate for construction of low- and moderate-income housing and of the 
+existing structures most appropriate for conversion to, or rehabilitation for, low- and moderate-income 
+housing, including a consideration of lands of developers who have expressed a commitment to 
+provide low- and moderate-income housing”. 
+For the purposes of preparing this Fourth Round Plan, the Borough of Paramus considered lands 
+that had been designated or which were being considered for designation as areas in need 
+of redevelopment. Additionally, the Fourth Round Plan also makes use of excess inclusionary 
+development capacity in the HCC Highway Commercial Corridor district under the zoning that 
+was adopted to satisfy its Third Round Unmet Need. The zoning in the HCC district, if fully developed 
+according to the zoning, would result in more than 1,000 more affordable units than the Prior and Third 
+Round Unmet Need obligations the zoning was created to address. Additionally, there are sites in 
+the Borough’s Nursery Rehabilitation Area - another Third Round Prospective Need mechanism - that 
+have not yet been developed or the subject of development applications and may still contribute 
+to the Borough’s Prospective Need. 
+The bonus credit structure of the Fourth Round rules incentivizes municipalities to zone for affordable 
+housing within half a mile of transit stops or on current or former commercial properties. The 
+Borough has designated two commercial sites with prolonged vacancies or underutilization for 
+Redevelopment with inclusionary set-asides, including 650 Winters Avenue and Block 6701, Lot 1 (at 
+the intersection of Paramus Road and West Ridgewood Avenue), which were not contemplated in 
+the Third Round Settlement Agreement or Third Round Housing Element and Fair Share Plan, and are 
+therefore eligible for inclusion in the Fourth Round Plan. 
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 23 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 24 =====
+24
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+4 • LANDS CONSIDERED FOR AFFORDABLE HOUSING
+REVIEW OF PRIOR ROUND COMPLIANCE 
+MECHANISMS
+The Borough met its accumulated Prospective Need, including both the Realistic Development 
+Potential determined from First, Second, and Third Round Vacant Land Adjustments and the 
+accumulated Unmet Need, through a combination of existing projects and new zoning or 
+redevelopment plans. Pursuant to the Settlement Agreement with Fair Share Housing Center, 
+the Borough adopted zoning to permit mixed-use development in its HCC Highway Commercial 
+Corridor zone with apartments at a density of 24 units per acre, and adopted a redevelopment plan 
+permitting multi-family housing at 8 units per acre and assisted living / continuum-of-care facilities 
+at higher densities on nursery sites. These rezonings have led to several inclusionary redevelopment 
+projects, proving those zones to be effective.
+The Borough also facilitated a 100%-affordable, 120-unit project on Columbus Way, and used trust 
+funds to acquire and convey land for the redevelopment of a former Oster Site as an inclusionary 
+development with 45 affordable units, based upon redevelopment plans adopted for affordable 
+housing compliance.  
+The Borough was able to also receive affordable housing credit for previously developed, municipally-
+run affordable housing sites and programs, assisted living facilities, and group homes for adults with 
+special needs.
+Additionally, the Borough adopted a Borough-wide affordable housing set-aside requirement 
+affordable housing set-aside (15% for rental units, 20% for for-sale units). 
+The affordable housing law requires municipalities to re-examine un-implemented zoning or projects 
+from previous affordable housing rounds if they were put in place prior to July 1, 2020. Each of 
+the Third Round compliance projects contemplated by  the Settlement Agreement with Fair Share 
+Housing Center and the Third Round Housing Plan have been implemented or are substantially on 
+their way to being built, with the exception of the Oster Redevelopment site. A project was approved 
+on this site by the Planning Board in September of 2020; however, the approved developer has since 
+transferred ownership of the project. The Borough has committed to revising the Redevelopment 
+Plan parameters and to contributing Trust Fund monies as needed to develop the site to provide 
+Round obligation.
+All redevelopment plans or zoning adopted for Third Round compliance will continue to be valid unless 
+replacement is deemed necessary to continue to provide a realistic possibility for the satisfaction of 
+the Borough’s affordable housing obligation. 
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 24 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 25 =====
+25
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+4 • LANDS CONSIDERED FOR AFFORDABLE HOUSING
+Considered Lands
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 25 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 26 =====
+26
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+5 • FAIR SHARE PLAN
+FAIR SHARE PLAN - PROSPECTIVE NEED
+As a largely built-out municipality, Paramus 
+has historically been, and continues to be, 
+eligible for a vacant land adjustment (VLA). 
+This adjustment permits the Borough, over the 
+next 10 years, to address a smaller number than 
+the 1,000 unit Prospective Need calculated by 
+Realistic Development Potential (RDP). The RDP is, 
+zoning, development, and housing programs that 
+have a high likelihood of being fully implemented/
+developed within the 10-year housing round. 
+The Fourth Round rules at N.J.S.A. 52:27D-310.1 
+(Section 23 of P.L. 2024, c.2) lay out the steps 
+and conditions by which a municipality can 
+request an adjustment of its Prospective Need to 
+through a process referred to as a “vacant land 
+analysis”. See “Figure 9. Vacant Land Analysis” 
+on page 26.
+The vacant land analysis conducted by DMR 
+vacant private and public lands in the Borough as 
+well as known vacant buildings and sites that are 
+expected to be designated for redevelopment 
+and the vacant part of an unconsolidated tract 
+of land (multiple lots under common ownership 
+that have not been merged into one lot). The 
+vacant land analysis considered densities that 
+would be reasonable on each property based 
+upon surrounding conditions and site capacity, 
+and determined that the Borough’s realistic 
+development potential is just 87 units. More 
+information about the analysis can be found in 
+Appendix 4.
+The Borough is not required to develop or zone 
+vacant land analysis, as long that it can create 
+realistic opportunities for affordable housing 
+elsewhere in town. The vacant land adjustment 
+exercise is meant to provide a uniform process 
+for towns around the state to demonstrate a 
+lack of available land and quantify the realistic 
+development potential of that land. 
+redevelop during the current round of obligations to address at least 25 percent of the prospective 
+need obligation that has been adjusted and adopt realistic zoning that allows for such adjusted 
+obligation”. This language has been subject to a variety of interpretations, particularly as to what 
+the “prospective need obligation that has been adjusted” or the “adjusted obligation” refers to. This 
+Fourth Round Plan has been crafted to satisfy the most conservative interpretation of the language, 
+“undeveloped and unused land area” which has clear 
+title and is free of encumbrances which preclude 
+development for low- and moderate-income housing.
+The following categories of land can be excluded from 
+the inventory of vacant land:
+a. Local government owned land restricted by 
+resolution prior to 1/1/1997 for public purposes 
+other than housing;
+b. Land listed in the municipal  master plan as 
+being dedicated, by easement or otherwise, for 
+purposes of conservation, park lands or open 
+space and which is owned, leased, licensed, or in 
+any manner operated by a county, municipality 
+a local board of education, or by more than one 
+municipality by joint agreement;
+c. Any vacant contiguous parcels of land in private 
+housing densities;
+d. Sites listed on the State Register of Historic Places 
+or National Register of Historic Places prior to the 
+plan;
+e. Preserved agricultural lands;
+f. 
+Sites designated for active recreation that are 
+designated for recreational purposes in the 
+municipal master plan; and
+g. Environmentally 
+sensitive 
+lands 
+where 
+development is prohibited by any State or 
+federal agency, including, but not limited to, the 
+Highlands Water Protection and Planning Council, 
+established pursuant to section 4 of P.L.2004, c.120 
+(C.13:20-4), for lands in the Highlands Preservation 
+Area, and lands in the Highlands Planning Area for 
+Highlands-conforming municipalities.
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 26 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 27 =====
+27
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+5 • FAIR SHARE PLAN
+although it does not agree with it, which is that in addition to planning for the 87-unit RDP, the 
+Borough must also plan for 25% of the “Unmet Need”1, or 229 units. Unmet Need may be addressed 
+housing units during the housing round (in this case, 229 units), but must create a realistic opportunity 
+for those units to be created through redevelopment. Zoning is one of the most common means of 
+achieving this. 
+Paramus’s Fair Share Plan to address its 87-unit Fourth Round RDP and the 229-unit unmet need 
+The rules of the Council on Affordable Housing (COAH) at N.J.A.C. 5:97-5.3(b) required fair share 
+plans to demonstrate that sites intended for inclusionary development are “available, suitable, 
+N.J.A.C. 5:93-1”. Operating on the presumption that 
+those rules continue to be valid, the “suitability analysis”, as it has historically been referred, for each 
+site is below: 
+SATISFACTION OF THE 87-UNIT RDP.
+615 WINTERS AVENUE - BLOCK 6203, LOT 2 (APPENDIX 6)
+The Borough designated the vacant cosmetic school building at 615 Winters Avenue as an area in 
+need of Redevelopment on February 6, 2024, and adopted a redevelopment plan for the site in 
+Summer of 2024. An application to redevelop the 2.75-acre site with 136 units was approved at a 
+November 7, 2024 public hearing of the Paramus Planning Board.  Of the 136 approved units, 20 units 
+will be affordable to very-low, low- and moderate-income households. 
+ “Available site” means a site with clear title, free of encumbrances which preclude development 
+for low- and moderate-income housing. 
+There are no known encumbrances to creating affordable housing at this site. 
+ “Suitable site” means a site that is adjacent to compatible land uses, has access to appropriate 
+streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4. 
+The site is located in a part of Paramus that has historically been dominated by big-box retail, 
+mixed-use development as the HCC zone has permitted these lagging real estate sectors to be 
+redeveloped with multi-family residential. The site has suitable road frontage and is near a variety 
+site from being redeveloped. 
+ “Developable site” means a site that has access to appropriate water and sewer infrastructure, 
+and is consistent with the applicable areawide water quality management plan (including the 
+wastewater management plan) or is included in an amendment to the areawide water quality 
+management plan submitted to and under review by DEP. 
+The site is served by public water and sewer.
+ “Approvable site” means a site that may be developed for low and moderate income housing 
+in a manner consistent with the rules or regulations of all agencies with jurisdiction over the site. 
+A site may be approvable although not currently zoned for low and moderate income housing. 
+The site appears to be developable consistent with the Residential Site Improvement Standards, 
+N.J.A.C. 5:21. The site does not contain any historic or architecturally important structures and is 
+not within an historic district. 
+913 units. A quarter of 913, 
+rounding up, is 229, which is the minimum unmet need the Borough must plan for.
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 27 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 28 =====
+28
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+5 • FAIR SHARE PLAN
+WEST RIDGEWOOD AVENUE AND PARAMUS ROAD – BLOCK 6701, LOT 7 (APPENDIX 7)
+This site at the northwest corner of West Ridgewood Avenue and Paramus Road was designated as 
+an area in need of redevelopment on January 21, 2025, and a redevelopment plan was adopted 
+by ordinance on May 20, 2025. The Redevelopment Plan permits duplexes, townhouses, and 
+conceptual plan submitted by an interested developer, which would provide for 40 total units, of 
+which eight (8) would be affordable family units. 
+The site is available, suitable, developable, and approvable as shown, below:
+ “Available site” means a site with clear title, free of encumbrances which preclude development 
+for low- and moderate-income housing. 
+There are no known encumbrances to creating affordable housing at this site. 
+ “Suitable site” means a site that is adjacent to compatible land uses, has access to appropriate 
+streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4. 
+The site is located in the Borough’s Neighborhood Business zone at the intersection of two roads 
+that connect the site to amenities on Route 17 in Paramus, to the east, and downtown Ridgewood, 
+to the west. It is also within walking distance to schools and houses of worship. Surrounding uses 
+are predominantly single-family, although commercial uses occupy the northeast and southwest 
+site from being redeveloped.
+ “Developable site” means a site that has access to appropriate water and sewer infrastructure, 
+and is consistent with the applicable areawide water quality management plan (including the 
+wastewater management plan) or is included in an amendment to the areawide water quality 
+management plan submitted to and under review by DEP. 
+The site is served by public water and sewer.
+ “Approvable site” means a site that may be developed for low- and moderate-income housing 
+in a manner consistent with the rules or regulations of all agencies with jurisdiction over the site. 
+A site may be approvable although not currently zoned for low- and moderate-income housing.
+The site appears to be developable consistent with the Residential Site Improvement Standards, 
+N.J.A.C. 5:21. The site contains a locally designated historic structure which the interested 
+developer is considering relocating on site.
+OSTER SITE / GENESIS PARAMUS - BLOCK 601, LOT 5 (APPENDIX 8)
+Paramus will satisfy the balance of its RDP by using affordable housing trust funds to increase the 
+affordable housing set-aside at the Oster / Genesis Paramus  redevelopment site that was included 
+in the Third Round Housing Element and Fair Share Plan.
+The Borough had adopted a redevelopment plan for the site in question and previously designated 
+Genesis Paramus Housing Urban Renewal LLC as Redeveloper and entered into a Redevelopment 
+Agreement therewith. Genesis received a tax credit allocation in the 2020 tax credit cycle and 
+received planning board approvals in the same year to construct 104 total apartments of which 45 
+would be affordable family rentals satisfying the Third Round RDP. 
+Genesis sold the project to a new developer, with whom the Borough has begun negotiations to use 
+affordable housing trust funds to make the site 100% affordable. The total number of units anticipated 
+at the site are still undetermined, but the Borough intends to increase the affordable housing yield by 
+the minimum of 14 units - eligible for 1-for-1 bonus credits in the Fourth Round - needed to meet the 
+affordable housing obligation.
+ “Available site” means a site with clear title, free of encumbrances which preclude development 
+for low- and moderate-income housing. 
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 28 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 29 =====
+29
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+5 • FAIR SHARE PLAN
+The site is owned by the developer of the approved project or its successor; therefore there are 
+no owner encumbrances on use of the site.
+ “Suitable site” means a site that is adjacent to compatible land uses, has access to appropriate 
+streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4. 
+The site is surrounded by single-family uses to the south and east, the NJ-4 / NJ-17 interchange 
+to the northwest, and a BJs Wholesale Club Store to the southwest. It has access to local roads. 
+The site is not currently listed as being contaminated, nor is it known to have other environmental 
+constraints.
+ “Developable site” means a site that has access to appropriate water and sewer infrastructure, 
+and is consistent with the applicable areawide water quality management plan (including the 
+wastewater management plan) or is included in an amendment to the areawide water quality 
+management plan submitted to and under review by DEP. 
+The site is served by public water and sewer and the Borough represents there is adequate water 
+and sewer capacity.
+ “Approvable site” means a site that may be developed for low and moderate income housing 
+in a manner consistent with the rules or regulations of all agencies with jurisdiction over the site. 
+A site may be approvable although not currently zoned for low and moderate income housing. 
+The site appears to be developable consistent with the Residential Site Improvement Standards, 
+N.J.A.C. 5:21. The site does not contain any historic or architecturally important structures and is 
+not within an historic district.
+SURPLUS CREDITS
+The Borough has 23 surplus credits from the Second and Third Rounds that it will utilize toward 
+satisfaction of the Fourth Round obligation.
+SATISFACTION OF THE 229-UNIT UNMET NEED
+The Borough will satisfy the 229-unit Unmet Need minimum by continuing to maintain the HCC zoning 
+and the Nursery Redevelopment Plan, detailed below:
+HIGHWAY CORRIDOR COMMERCIAL (HCC) ZONE (APPENDIX 9)
+The HCC Zone extends along the majorities of the NJ-17 and NJ-4 highway corridors, and covers 559 
+acres of public and private properties. The Borough amended the zoning standards to permit mixed-
+use development as a conditional use permitting not more than 24 dwelling units per acre provided 
+aside requirement, and that three-bedroom units shall only be permitted as required for compliance 
+with UHAC or superseding rules. The zoning theoretically creates an opportunity for as many as 2,683 
+affordable housing units over the long term if every property was redeveloped to include a housing 
+component, which is 1,343 units in excess of the 1,340 Third Round unmet need. This excess need will 
+be used, in part, to satisfy the Fourth Round Unmet Need. The HCC zone has proven successful at 
+attracting mixed-use inclusionary development since being adopted. 
+NURSERY REDEVELOPMENT PLAN - BLOCK 7002, LOT 1; BLOCK 7701, LOT 3; BLOCK 7003, LOT 1; 
+BLOCK 7101, LOT 4; BLOCK 2701, LOT 12; AND BLOCK 2801, LOT 1 (APPENDIX 10)
+The Borough adopted a rehabilitation plan that would allow for the redevelopment of several 
+nursery /agricultural properties around Paramus with inclusionary housing with set-aside requirements 
+of 15% of rentals and 20% of for-sale units. Several of these sites have already been approved for 
+redevelopment, including the Joy Farms site, which contributes to satisfaction of the RDP. As with the 
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 29 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 30 =====
+30
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+5 • FAIR SHARE PLAN
+HCC zone, the Borough reserves the right to apply excess build-out potential from sites in the Nursery 
+Redevelopment Plan to address its Fourth Round obligation, with the exception of units created on 
+Center. The remaining nursery properties are estimated to have capacity to create an additional 15 
+affordable units based on the existing permitted densities. 
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 30 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 31 =====
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+5 • FAIR SHARE PLAN
+Chart 24. Fourth Round Compliance Mechanisms
+Family rentals
+Approved
+20
+Transit/
+Redevelopment
+0.5
+10
+30
+Family Sale
+Redevelopment 
+Plan
+40
+8
+Transit/
+Redevelopment
+0.5
+4
+12
+23
+23
+Family
+In Negotiation
+15
+Transit/
+Redevelopment
+0.5
+7
+22
+21
+Chart 25. Required Minimums and Maximums
+30% x 43
+12 units
+0 units
+25% x Realistic Development Potential
+25% x 87
+21 bonus credits
+21 bonus credits
+50% x 43
+22 units
+10% of Fair Share Obligation
+10% x 87
+8 units
+0 units
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 31 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 32 =====
+32
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+5 • FAIR SHARE PLAN
+REHABILITATION (APPENDIX 11)
+The NJ DCA’s affordable housing calculations published on October 18, 2024, and accepted by 
+the Borough on January 20, 2025, estimated the Borough’s Present Need at 254 units. The Borough 
+is entitled to reduce its Present Need by conducting a Structural Conditions Survey according to 
+the rules and rubric created by COAH in the Prior Rounds. Such a survey was conducted by the 
+to be occupied by low- and moderate-income households. In previous affordable housing rounds, 
+level. According to the Present Need calculation sheet provided by NJ DCA, 82.4% of overcrowded 
+housing in Paramus is estimated to be occupied by low- and moderate-income households. If this is 
+the appropriate deterioration ratio to apply, the Borough will provide funding to rehabilitate 82.4% 
+of 22 units, or 19 units at an average rate of $25,000 per applicant.
+also eligible for housing rehabilitation assistance through the Bergen County HIP Home Improvement 
+Program. 
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 32 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 33 =====
+33
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+6 • ADMINISTRATION
+OTHER REQUIREMENTS
+ADMINISTRATION AND MARKETING OF AFFORDABLE HOUSING
+Paramus’ affordable housing program is administered by the Paramus Affordable Housing 
+Corporation. The PAHC is responsible for administering, marketing, maintaining, and operating the 
+Borough’s rehabilitation program and affordable housing sites. The Borough’s website includes 
+marketing and manuals for the rehab program and affordable housing units at Soldier Hill Commons, 
+Brightview Senior Housing, Paramus Veterans Housing, and Parkview Residences.
+The Borough of Paramus adopted its current Affordable Housing Ordinance in 2016 to update 
+development fee ordinances adopted during the Prior Round to fund the creation of 100%-affordable 
+housing units. The Borough amended its ordinance further in 2020 and 2022 to comply with the Court-
+approved Settlement Agreement with Fair Share Housing Center, and to ensure conformance with 
+the UHAC, FHA, and Municipal Land Use Law (MLUL) at N.J.S.A. 40:55D-1 et seq. 
+COST GENERATION
+Subchapter 10 of N.J.A.C 5:93 requires COAH (or in this case the Court) to ensure that municipal land 
+use ordinances, including or especially those permitting or providing for inclusionary or 100% affordable 
+development, are not overly burdensome as to prevent the number of affordable units from being 
+created as are needed to address the municipal fair share obligation. The Borough has amended 
+the HCC Highway Corridor Commercial zone to permit mixed-use multi-family development at a 
+has resulted in the creation or approval of more than 1,500 total housing units since its adoption, 
+demonstrating that the ordinance has not placed cost generative or burdensome standards that 
+impede the creation of affordable housing. 
+MULTIGENERATIONAL FAMILY HOUSING CONSISTENCY
+The Multigenerational Family Housing Continuity Commission was established by the State of New 
+Jersey in 2021. As noted in N.J.S.A. 52:27D-329.20, one of the primary duties of the Commission is to 
+“prepare and adopt recommendations on how State government, local government, community 
+organizations, private entities, and community members may most effectively advance the goal of 
+enabling senior citizens to reside at the homes of their extended families, thereby preserving and 
+and policies in the areas of housing, land use planning, parking and streetscape planning, and 
+other relevant areas.” As of the date of this HEFSP, the Multigenerational Family Housing Continuity 
+Commission has not yet adopted any recommendations.
+STATE DEVELOPMENT & REDEVELOPMENT PLAN CONSISTENCY, AND SEWER & WATER
+The sites included and proposed to satisfy the Fourth Round Prospective Need are located in 
+Planning Area 1 - Metropolitan Planning Area, which is the priority area for the creation of inclusionary 
+housing through redevelopment. Some of the sites are in proximity to public transit, supporting multi-
+modal transportation, and all of the sites are located outside of environmentally constrained or 
+sensitive areas, or will be designed in accordance with NJ DEP regulations to mitigate environmental 
+concerns. All of the sites are in approved sewer service areas. 
+sewer capacity to service all of the projects in this Plan.
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 33 of 34   Trans ID: LCV20251880356 
+
+===== PAGE 34 =====
+34
+Paramus Borough Housing Element and Fair Share Plan
+June 2025
+7 • CONCLUSION
+CONCLUSION
+This 2025 Fourth Round Housing Element and Fair Share Plan prepared for and adopted by the 
+Borough of Paramus, Bergen County, New Jersey, complies with P.L. 2024, c.2, the Fair Housing Act 
+of New Jersey, and all applicable regulations. It also maintains consistency and compliance with 
+the Settlement Agreement entered into between the Borough and Fair Share Housing Center dated 
+February 6, 2020, amended on April 19, 2023, and approved by the Honorable Gregg A. Padavano, 
+JSC by way of a Fairness Order dated December 20, 2023. 
+The Plan provides a realistic opportunity for the creation of affordable housing in Paramus through 
+2035 and beyond, through zoning, redevelopment planning, and cooperation with developers 
+interested in providing their fair share of affordable housing. The Plan addresses the 87-unit Realistic 
+Development Potential claimed through a vacant land adjustment, as well as any “unmet need” that 
+may be required by the Fair Housing Act. The Borough also continues to comply with its Affordable 
+Housing obligation for the years 1987 to 2025. The Housing Element and Fair Share Plan advances the 
+Borough’s objectives of increasing the vitality of its commercial corridors and protecting its single-
+family neighborhoods.
+                                                                                                                                                                                              
+BER-L-000529-25   06/27/2025 1:55:16 PM   Pg 34 of 34   Trans ID: LCV20251880356 

@@ -1,0 +1,103 @@
+{
+  "municipality": "Rochelle Park",
+  "research_status": "done",
+  "obligation": {
+    "present_need": 10,
+    "prospective_need": 109,
+    "total_obligation": 119,
+    "rdp": 10,
+    "unmet_need": 99,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp"
+  },
+  "compliance": {
+    "status": "DJ action filed",
+    "settlement_party": null,
+    "settlement_date": null,
+    "hefsp_status": "adopted",
+    "hefsp_adopted_date": "2025-06-25",
+    "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp"
+  },
+  "notes": "DCA obligation: present need 10, prospective need 109 — accepted by Township. VLA yields RDP 10 (from 3 sites). Unmet need 99. Plan addresses 10 RDP via 2 inclusionary sites (29 Fairfield Dr and 210/222 Rochelle Ave) and 23 units of unmet need via 375 West Passaic St (Ramada Inn, available ~2028). Docket BER-L-000583-25 filed 06/26/2025. Present need met via Bergen County Rehabilitation Program + municipal rehab program. Block/lot identifications come from map captions in Section 4 of the HEFSP. Revised December 2025 version also on file but the June 2025 adopted plan was verified.",
+  "sources": [
+    {
+      "doc_type": "HEFSP",
+      "title": "Rochelle Park Township Housing Element and Fair Share Plan Part 1 (Adopted June 25, 2025)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp",
+      "excerpt": "4th Round Obligation (2025-2035): 109 units ... Present Need (Rehabilitation) Obligation: 10 ... RDP of 10 RDP units ... sites: 29 Fairfield Dr/70 West Passaic St, 210 & 222 Rochelle Ave, 375 West Passaic Street"
+    }
+  ],
+  "sites": [
+    {
+      "site_name": "29 Fairfield Dr / 70 West Passaic Street",
+      "address": "29 Fairfield Dr / 70 West Passaic Street",
+      "block": "90, 91.01.1",
+      "lot": "Block 90 Lots 2.02 & 3; Block 91.01.1 Lots 1-5 & 9",
+      "acreage": 1.3,
+      "mechanism": "inclusionary",
+      "current_zoning": null,
+      "proposed_zoning": "Inclusionary residential (15 du/ac)",
+      "density": 15.0,
+      "total_units": 19,
+      "affordable_units": 4,
+      "set_aside_pct": 20,
+      "tenure": null,
+      "adoption_status": "proposed/adopted in HEFSP 2025",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp",
+      "source_page": "Section 4.3 / Map 4: Site 1 caption",
+      "source_date": "2025-06-25",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Map 4: Site 1: 29 Fairfield Dr/ 70 W. Passaic St ... Block 90, Lots 2.02 & 3 / Block 91.01.1, Lots 1-5 & 9 ... 1.3 acres ... 15 units per acre ... 19 units ... 20 percent set-aside ... 4 affordable housing units",
+      "notes": "Located on northwest corner of W. Passaic Street and Fairfield Drive. 1.3 acres, 15 du/ac = 19 total units, 20% = 4 affordable. Addresses 4 of the 10 RDP units. Township rejected a 300-unit proposal at this site."
+    },
+    {
+      "site_name": "210 & 222 Rochelle Avenue",
+      "address": "210 & 222 Rochelle Avenue",
+      "block": "23, 24.01",
+      "lot": "Block 23 Lot 2.03; Block 24.01 Lots 1, 2 & 3",
+      "acreage": 1.45,
+      "mechanism": "inclusionary redevelopment (AINR 2019)",
+      "current_zoning": null,
+      "proposed_zoning": "Mixed-use residential/retail, 20 du/ac",
+      "density": 20.0,
+      "total_units": 29,
+      "affordable_units": 6,
+      "set_aside_pct": 20,
+      "tenure": null,
+      "adoption_status": "AINR designated 2019; adopted in HEFSP 2025",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp",
+      "source_page": "Section 4.3 / Map 5 caption",
+      "source_date": "2025-06-25",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Map 567: Site 210 & 222 Rochelle Ave ... Block 23, Lot 2.03 / Block 24.01, Lots 1, 2 & 3 ... 1.45 acres ... 20 units per acre ... 29 apartments ... 20 percent for affordable units ... 6 deed-restricted",
+      "notes": "Currently developed with a bank and a diner. AINR designated 2019 (non-condemnation). Mixed-use: at-grade retail, apartments above. 1.45 acres, 20 du/ac = 29 units, 20% = 6 affordable. Addresses 6 of the 10 RDP units."
+    },
+    {
+      "site_name": "375 West Passaic Street (Ramada Inn)",
+      "address": "375 West Passaic Street",
+      "block": "103.01",
+      "lot": "1.01, 2",
+      "acreage": 3.89,
+      "mechanism": "inclusionary (unmet need)",
+      "current_zoning": null,
+      "proposed_zoning": "Inclusionary residential, 30 du/ac, max 4 stories",
+      "density": 30.0,
+      "total_units": 116,
+      "affordable_units": 23,
+      "set_aside_pct": 20,
+      "tenure": null,
+      "adoption_status": "proposed; site anticipated available ~2028",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/rochelle-park-twp/Part1RochelleParkHousingElementandFairSharePlan6252025.pdf?VersionId=vn754CQhu7SU3nA8zN1OASnlwL7t3Mtp",
+      "source_page": "Section 4.3c / Map 6 caption",
+      "source_date": "2025-06-25",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Map 6: Site 375 West Passaic St. ... Block 103.01, Lot 1.01, 2 ... 3.89 acres ... Ramada Inn ... 30 units per acre within a maximum 4 story building ... 116 units ... 23 of the units being set-aside for affordable housing (a 20 percent set-aside)",
+      "notes": "Currently occupied by Ramada Inn. Preliminary discussions ongoing; site anticipated available ~2028. 3.89 acres, 30 du/ac, 4 stories max = 116 total units, 20% = 23 affordable. Addresses 23 units of unmet need."
+    }
+  ]
+}

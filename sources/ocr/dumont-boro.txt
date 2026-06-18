@@ -1,0 +1,3368 @@
+SOURCE_URL: https://library.njcourts.gov/files/civil/affordable-housing/bergen/dumont-boro/DumontBoroughAdoptedHEFSPFinal61125ExB.pdf?VersionId=UIFVSZbr2p2FvD.vdzjud7QZOJHsDmEr
+
+===== PAGE 1 =====
+BER-L-000349-25
+06/12/2025 4:29:57 PM
+Pg 1 of46
+Trans ID: LCV20251747704
+EXHIBIT B
+
+===== PAGE 2 =====
+Housing Plan Element and Fair Share Plan 
+Borough of Dumont
+4th Round
+2025
+Approved by the Joint Land Use Board acting as the Planning Board on June 11, 2025
+Adopted by the Mayor and Council via Resolution #
+, on
+(Insert date)
+Prepared by
+________
+Dan Levin, AICP, PP
+License No. 6472
+_______________________
+Peter Van den Kooy, AICP, PP
+License No. 5918
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 2 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 3 =====
+1 
+Acknowledgements 
+Dumont Mayor & Council 
+John W. Russell III – Mayor 
+Donald Morrell – Council President 
+Tom Kelly – Councilman 
+Doreen Aponte – Councilwoman 
+Christopher Kourelakos – Councilman 
+Daniel LaBarbera – Councilman 
+Gidget Petry – Councilwoman 
+Dumont Joint Land Use Board 
+Ken Armellino, Class IV, Chairman 
+Chris Sheridan, Class IV, Vice Chairman 
+Kai Chen, Mayor's Designee, Class I  
+David Gluckman, Class II  
+Tom Kelly, Councilman Class III  
+Nicola Attanasio, Class IV 
+Michael Affrunti, Class IV  
+Carl Manna, Class IV  
+Michael Sullivan, Jr., Class IV 
+Andrew Artuso - Alt. #1
+Joseph Faulborn - Atl. #2 
+Martha Francis Alt. #3  
+Michael Francavilla, Alt. #4  
+William Paige, Board Secretary 
+Marc Leibman, Esq., Board Attorney 
+Joseph Burgis, PP, AICP, Board Planner
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 3 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 4 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+2 
+Table of Contents 
+INTRODUCTION ........................................................................................................................ 3
+INVENTORY OF HOUSING STOCK ........................................................................................... 5
+ANALYSES .............................................................................................................................. 16
+Vacant Land Analysis .................................................................................................................. 16
+Analysis of Multigenerational Family Continuity ............................................................................. 16
+Analysis of consistency with the State Development and Redevelopment Plan ................................. 17
+FAIR SHARE PLAN .................................................................................................................. 18
+Satisfaction of Rehabilitation Obligation ....................................................................................... 18
+Satisfaction of Prior Round Obligation ........................................................................................... 18
+Satisfaction of 3rd Round Obligation .............................................................................................. 19
+Unmet Need ............................................................................................................................... 19
+Satisfaction of the 4TH Round Obligation ........................................................................................ 21
+Unmet Need ............................................................................................................................... 24
+Cost Generation.......................................................................................................................... 24
+APPENDIX A – RESOLUTION ACCEPTING 4TH ROUND OBLIGATIONS ................................ 25
+APPENDIX B – DOWNTOWN OVERLAY ZONE ORDINANCE ................................................. 26
+APPENDIX C – MUNICIPAL SET-ASIDE ORDINANCE ............................................................ 27
+APPENDIX D – RESOLUTION DECLARING 2 W. MADISON AN AREA IN NEED OF 
+REDEVELOPMENT .................................................................................................................. 28
+APPENDIX E – 219 WASHINGTON PROPOSED CONCEPT PLAN .......................................... 29
+APPENDIX F– OTHER COMPLIANCE DOCUMENTS ............................................................... 30
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 4 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 5 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+3 
+Introduction 
+The Borough of Dumont is an established suburban community located in the eastern section of 
+Bergen County. The Borough is just under 2 square miles in area and is bordered by Haworth to the 
+north, New Milford and Oradell to the west, Bergenfield to the south and Cresskill and Demarest to 
+the east. 
+The Borough has prepared this Housing Plan Element and Fair Share Plan (“HEFSP”) in accordance 
+with the requirements set forth in the Fair Housing Act, N.J.S.A. 52:27D-301, et. seq., as amended 
+by A4/S50 (Senate Bill No. 50) (hereinafter “Amended FHA”), including the methodology and 
+procedures established for the Fourth Round of affordable housing obligations.  In response to the 
+requirements of the Amended FHA and the creation of a new quasi-administrative and legal 
+procedure for processing municipal affordable housing plans, the Administrative Office of the 
+Courts issued Directive #14-24 (“AOC Directive #14-24”), which also creates requirements for the 
+filing of municipal HEFSP’s with the Affordable Housing Dispute Resolution Program (“the Program”) 
+by the June 30, 2025 statewide deadline. 
+While the Amended FHA does not require municipalities to adopt a Fair Share Plan, doing so 
+provides protection from exclusionary zoning litigation, including builder’s remedy lawsuits. 
+Similarly, the New Jersey Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.) does not mandate a 
+Housing Plan Element, but it is a prerequisite for adopting or amending zoning ordinances. Together, 
+the FHA and MLUL require that any adopted Housing Element address the municipality’s present 
+and prospective housing needs, with particular attention to low- and moderate-income housing. In 
+accordance with the Fair Housing Act (N.J.S.A. 52:27D-310), as implemented through the Fourth 
+Round methodology and procedures established in A4/S50 (P.L. 2024, c.___), the Housing Element 
+shall include at minimum the following components: 
+1.
+An inventory of the municipality's housing stock by age, condition, purchase or rental value, 
+occupancy characteristics, and type, including the number of units affordable to low- and 
+moderate-income households and substandard housing capable of being rehabilitated. In 
+conducting this inventory, the municipality shall have access, on a confidential basis, to all 
+necessary property tax assessment records and information in the assessor's office, 
+including but not limited to property record cards. 
+2.
+A projection of the municipality’s housing stock for the next ten years, including the probable 
+future construction of low- and moderate-income housing, taking into account construction 
+permits issued, approved applications for development, and anticipated residential 
+development of lands. 
+3.
+An analysis of the municipality’s demographic characteristics, including but not limited to 
+household size, income level, and age. 
+4.
+An analysis of the existing and projected employment characteristics within the 
+municipality. 
+5.
+A determination of the municipality’s present and prospective fair share obligation for low- 
+and moderate-income housing, and an assessment of its capacity to accommodate those 
+housing needs, in accordance with the methodologies outlined in A4/S50. 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 5 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 6 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+4 
+6.
+A consideration of lands and structures most appropriate for the development, conversion, 
+or rehabilitation of low- and moderate-income housing, including consideration of sites 
+owned by or offered by developers committed to providing affordable housing. 
+7.
+A map of all sites designated for the production of low- and moderate-income housing and 
+a listing that includes the owner, acreage, lot, and block for each site. 
+8.
+The location and capacity of existing and proposed water and sewer lines and facilities 
+relevant to the designated housing sites. 
+9.
+Copies of applications or approvals required for amendments or consistency 
+determinations with applicable area-wide water quality management plans, including 
+wastewater management plans. 
+10. A copy of the most recently adopted master plan, and where required, the immediately 
+preceding adopted master plan. 
+11. For each designated site, a copy of the New Jersey Freshwater Wetlands maps where 
+available. If unavailable, appropriate copies of the National Wetlands Inventory maps 
+provided by the U.S. Fish and Wildlife Service shall be submitted. 
+12. A copy of the appropriate United States Geological Survey (USGS) topographic quadrangle 
+maps for each designated site. 
+13. Any other documentation reasonably necessary to support review and evaluation of the 
+Housing Element under the standards applicable to the Fourth Round. 
+The Borough of Dumont has a longstanding record of engaging in proactive land use and housing 
+planning. Dumont previously submitted a Housing Element and Fair Share Plan in compliance with 
+prior COAH rounds, and in response to the court-based process following COAH’s dissolution, the 
+Borough filed a Declaratory Judgment action with the Superior Court of New Jersey (Docket No. BER-
+L-6280-15) on July 2, 2015. Temporary immunity from exclusionary zoning litigation was granted 
+shortly thereafter. 
+During the litigation process, Crescent Developers, LLC intervened in the matter and proposed a 
+mixed-use inclusionary housing development to be located on Washington Avenue. The Borough 
+entered into a settlement agreement with Fair Share Housing Center (FSHC) on June 20, 2018, which 
+was later amended and executed with Crescent Developers on November 14, 2018. A Fairness 
+Hearing was held on December 21, 2018, before the Hon. Christine A. Farrington, J.S.C., who 
+approved the terms of the agreement and issued a preliminary compliance order. 
+Following this, the Dumont Planning Board adopted an amended Housing Element and Fair Share 
+Plan on January 29, 2019, incorporating the proposed Crescent inclusionary development and 
+outlining the Borough’s affordable housing strategy through the end of the Third Round. A Final 
+Compliance Hearing was held on March 8, 2019, during which the Court granted the Borough a 
+Judgment of Compliance and Repose, providing protection from builder’s remedy litigation through 
+July 1, 2025. 
+With this plan, the Borough of Dumont continues to demonstrate its commitment to balancing 
+responsible land use planning with its constitutional obligation to provide housing opportunities for 
+low- and moderate-income households. The updated Fourth Round Housing Plan builds on this 
+history and establishes a foundation for continued compliance and community well-being. 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 6 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 7 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+5 
+Inventory of Housing Stock 
+Age of Housing Stock 
+As an older suburban community, the majority of the Borough’s housing stock was constructed 
+between 1950 and 1960. During the aforementioned time period, approximately 71% of the 
+Borough’s housing stock was constructed. Since 2010, only 3.6% of the Borough’s housing units 
+were constructed. This is generally in line with the County’s age of housing stock. See table 1.  
+Table 1 - Housing Characteristics
+Dumont 
+Bergen County 
+Time of Construction  
+Number of 
+Units 
+Percent of 
+Units 
+Number of 
+Units 
+Percent 
+of Units 
+Prior to 1939 
+1,630 
+24.0% 
+71,679 
+19.4% 
+1940 to 1949 
+1,383 
+20.4% 
+39,338 
+10.7% 
+1950 to 1959 
+1,805 
+26.6% 
+77,527 
+21.0% 
+1960 to 1969 
+819 
+12.1% 
+51,957 
+14.1% 
+1970 to 1979 
+475 
+7.0% 
+34,504 
+9.4% 
+1980 to 1989 
+220 
+3.2% 
+30,051 
+8.2% 
+1990 to 1999 
+145 
+2.1% 
+20,951 
+5.7% 
+2000 to 2009 
+62 
+0.9% 
+21,455 
+5.8% 
+2010 to 2019 
+225 
+3.3% 
+18,587 
+5.0% 
+2020 or later 
+17 
+0.3% 
+2,486 
+0.7% 
+Total  
+6,781 
+100% 
+368,535 
+100% 
+Source: 2023 American Community Survey Table DP-04 5-year Estimates 
+Condition of Housing Stock
+This plan utilizes the 2023 American Community Survey 5-Year Estimates, where available, to 
+estimate the number of substandard housing units in Dumont that are occupied by low and 
+moderate income households. ACS data considers the following factors to estimate the number of 
+substandard housing units: 
+•
+Persons per room: 1.01 or more persons per room is an index of overcrowding. 
+•
+Plumbing facilities: Inadequate plumbing facilities is indicated by either a lack of exclusive 
+use of plumbing facilities or incomplete plumbing facilities. 
+•
+Kitchen facilities: Inadequate facilities are indicated by shared use of a kitchen or the lack 
+of a sink with piped water, a stove or a refrigerator. 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 7 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 8 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+6 
+Using the above indicators, the table below shows the number of substandard occupied housing in 
+the Borough of Dumont. 
+Table 2 
+Condition of Housing Stock 
+Total 
+Percentage 
+Number of Persons per Room 
+1.01 or more  
+70 
+1.0% 
+Plumbing Facilities 
+Units Lacking Complete Plumbing Facilities 
+0 
+0.0% 
+Kitchen Equipment 
+Lacking Complete Kitchen Facilities 
+25 
+0.4% 
+Total Occupied Units 
+6,491 
+100% 
+Source: 2023 American Community Survey Table DP-04 5-year Estimates
+The 2023 ACS indicators presented were utilized to estimate the presence of substandard housing 
+within Dumont. Table 2 above identifies 0.4% of Borough’s housing stock were substandard units, 
+as no more than 25 units could be both lacking complete kitchen facilities and have more than 1 
+person per room. In accordance with the methodology outlined in A4/S50 and implemented by the 
+DCA, this figure is used directly to calculate present need. No additional adjustments based on 
+income levels or duplicative household factors were applied, consistent with the standardized 
+present need calculation now utilized statewide. 
+Purchase or Rental Value of Housing Stock
+The overwhelming majority of owner-occupied housing stock in Dumont is between $300,000 and 
+$1m, with nearly 55% of these units under $500,000.  This value of housing is much more affordable 
+on average than Bergen County, which has far fewer purchase options under $500,000. The median 
+value of housing in Dumont was $469,900 compared to almost $600,000 in the County. Table 3 
+shows the percentage of housing units in each value category.  
+Table 3 
+Value of Owner-Occupied Units
+Dumont 
+Bergen County 
+Value 
+Units 
+Percentage 
+Units 
+Percentage 
+Less than $50,000 
+12
+1.6%
+4,241
+1.8%
+$50,000 to $99,999 
+20
+0.3%
+2,583
+1.1%
+$100,000 to $149,999 
+0
+0.4%
+2,366
+1.0%
+$150,000 to $199,999 
+156
+0.0%
+2,680
+1.2%
+$200,000 to $299,999 
+2,571
+3.3%
+11,285
+4.9%
+$300,000 to $499,999 
+1,810
+54.9%
+62,212
+26.9%
+$500,000 to $999,999 
+41
+38.6%
+115,000
+49.8%
+$1,000,000 or more 
+12
+0.9%
+30,556
+13.2%
+Total 
+4,686 
+100% 
+230,923 
+100% 
+Median (dollars) 
+$469,900 
+$593,200 
+Source: 2023 American Community Survey Table DP-04 5-year Estimates
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 8 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 9 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+7 
+The median gross rent for rental units in the Borough is $1,778, which is $85 less than the County. 
+Of the 1,740 occupied rental units, approximately 42.5% and 23.6% of the Borough’s rental units 
+were identified in the $1,500-$1,999 and $2,000-$2,499 categories, respectively. Bergen County 
+has a greater diversity of rental pricing than Dumont, however the median rent is higher outside of 
+the Borough. See table 4.  
+Table 4 
+Cost of Rent
+Dumont 
+Bergen County 
+Occupied Units Paying Rent 
+Units 
+Percentage 
+Units 
+Percentage 
+Less than $500 
+149
+8.6%
+3,870
+3.3%
+$500-$999 
+32
+1.8%
+5,086
+4.3%
+$1,000-$1,499 
+278
+16.0%
+21,678
+18.3%
+$1,500-$1,999 
+739
+42.5%
+39,395
+33.3%
+$2,000-$2,499 
+410
+23.6%
+21,731
+18.3%
+$2,500-$2,999 
+21
+1.2%
+11,103
+9.4%
+$3,000 or more 
+111
+6.4%
+15,614
+13.2%
+No Rent Paid 
+65 
+- 
+3,907 
+- 
+Total Occupied Units Paying Rent 
+1,740 
+100.0% 
+118,477 
+100.0% 
+Median (dollars) 
+$1,778 
+$1,863 
+Source: 2023 American Community Survey Table DP-04 5-year Estimates
+Occupancy Characteristics and Types of Housing Units
+Out of the 6,781 total housing units in the Borough, almost 96% were occupied. Of those occupied 
+housing units, 72.2 percent were owner-occupied and 27.8 percent were renter-occupied. 
+Compared to Bergen County, Dumont has a higher percentage of homeowners, though the housing 
+vacancy rate is very similar. See table 5a.  
+Table 5a 
+Owner Occupied/Rentals and Total 
+Occupied Units
+Dumont 
+Bergen County 
+Total 
+Percentage 
+Total 
+Percentage 
+Total Number of Housing Units 
+6,781 
+- 
+368,535 
+- 
+Total Number of Occupied Housing 
+Units 
+6,491
+95.7% 
+353,307
+95.9% 
+Total Number of Owner-Occupied 
+Housing Units 
+4,686 
+72.2% 
+230,923
+65.4% 
+Total Number of Renter-Occupied 
+Housing Units 
+1,805 
+27.8% 
+122,384 
+34.6% 
+Vacant Housing Units 
+290 
+4.3% 
+15,228 
+4.1% 
+Source: 2023 American Community Survey Table DP-04 5-year Estimates 
+Single family detached units comprise approximately 70 percent of the Borough’s housing stock. 
+The second largest category was identified as multi-family buildings with more than 20 units, 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 9 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 10 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+8 
+followed by attached duplexes. Dumont has a significantly higher rate of single family units than the 
+County, but also has a lower percentage of higher density housing as well. See table 5b.   
+Table 5b 
+Housing Units
+Dumont 
+Bergen County 
+Units in Structure  
+Numbers in Structure 
+Percentage 
+Numbers in Structure 
+Percentage 
+1 - Unit Detached 
+4,756
+70.1%
+196,102
+53.2%
+1 - Unit Attached 
+186
+2.7%
+22,284
+6.0%
+2 Units 
+635
+9.4%
+46,500
+12.6%
+3 or 4 Units 
+173
+2.6%
+20,426
+5.5%
+5 to 9 Units 
+69
+1.0%
+12,139
+3.3%
+10 to 19 Units 
+209
+3.1%
+13,742
+3.7%
+20 Units or more 
+753
+11.1%
+55,788
+15.1%
+Mobile Home 
+0
+0.0%
+1,457
+0.4%
+Other 
+0
+0.0%
+97
+0.0%
+Total  
+6,781 
+100.0% 
+368,535 
+100.0% 
+Source: 2023 American Community Survey Table DP-04 5-year Estimates 
+Units Affordable to Low and Moderate Income Households
+Low income households are defined as those earning less than or equal to 50 percent of a regional 
+median income. Moderate income households earn more than 50 percent of regional 
+median  income, but less than 80 percent of regional median income. The New Jersey Housing and 
+Mortgage Finance Agency (NJHMFA) publishes annual income limits, which define low and 
+moderate income limits based on household size from one (1) occupant up to eight (8) persons per 
+household. Housing units are to be priced to be affordable to households who could reasonably be 
+expected to live within the housing units. For example, the current Affordable Housing rules require 
+that an efficiency unit be affordable to a household of one (1) as shown below in Table 6. 
+Table 6 
+2025 UHAC Income Limits for BergenCounty 
+1 Person 
+2 Person 
+3 Person 
+4 Person 
+Median Income 
+$89,100 
+$101,800 
+$114,500 
+$127,200 
+Moderate (80% of Median 
+$71,280 
+$81,440 
+$91,600 
+$101,760 
+Low (50% of Median) 
+$44,550 
+$50,900 
+$57,250 
+$63,600 
+Very Low (30% of Median) 
+$26,730 
+$30,540 
+$34,350 
+$38,160 
+Source: April 2025, UHAC 2025 Affordable Housing Regional Income Limits by Household 
+Size
+To be considered affordable, an owner-occupied household should not pay more than 28 percent 
+of its gross income on principal, interest, taxes and insurance, subsequent to a minimum down 
+payment of 5 percent. A rental unit is deemed affordable if a household pays no more than 30 
+percent of its gross income on rent and utilities. The following table displays the number of 
+homeowners and renters who are paying more than 30% of their gross income on mortgage and rent 
+payments.   
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 10 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 11 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+9 
+Approximately half of the Borough’s owner-occupied households contributed less than 20% of their 
+household income towards housing costs. The second largest category represented households 
+that had housing costs that exceeded 30% of their household income, which represented 
+approximately 30%. By contrast, approximately 40% of the Borough’s households residing in rental 
+units contributed more than 35% of their income towards housing costs.
+Table 7a 
+Dumont Monthly Housing Costs as a Percentage of Household Income in Owner- Occupied 
+Units 
+Percentage of Income 
+Number 
+Percentage 
+Less than 20% 
+2,383 
+51%
+20% to 29% 
+883 
+18.9% 
+30% or more 
+1,404 
+30% 
+Total 
+4,670 
+100% 
+Not computed 
+16 
+(X) 
+Source: DP-04, 2023 American Community Survey 5-year Estimates
+Table 7b 
+Dumont Monthly Housing Costs as Percentage of Household Income in Rental Units 
+Percentage of Income 
+Number 
+Percentage 
+Less than 15% 
+183 
+10.5% 
+15% to 19.9% 
+120 
+6.9% 
+20% to 24.9% 
+149 
+8.6% 
+25% to 29.9% 
+306 
+17.6% 
+30% to 34.9% 
+302 
+17.4% 
+35% or more 
+680 
+39.1% 
+Total 
+1,740 
+100% 
+Not computed 
+65 
+(X) 
+Source: DP-04, 2023 American Community Survey 5-year Estimates
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 11 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 12 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+10 
+Projected Housing Stock 
+Between 2013 and 2024, Dumont issued building permits for 249 housing units. During the same 
+time period, the Borough also issued permits to demolish 52 units, adding a total of 197 housing 
+units to the Borough over that time period. See Table 8.   
+Table 8 
+Dwelling Units Authorized 
+Year 
+Residential Building Permits Issued 
+Residential Demolitions 
+Total Added 
+2013 
+1 
+0 
+1 
+2014 
+5 
+0 
+5 
+2015 
+0 
+0 
+0 
+2016 
+0 
+13 
+-13 
+2017 
+1 
+18 
+-17 
+2018 
+73 
+7 
+66 
+2019 
+137 
+5 
+132 
+2020 
+8 
+4 
+4 
+2021 
+11 
+1 
+10 
+2022 
+9 
+1 
+8 
+2023 
+1 
+2 
+-1 
+2024 
+3 
+1 
+2 
+Total 
+249 
+52 
+197 
+Source: New Jersey Department of Community Affairs, Division of Codes and Standards
+Municipality’s Demographic Characteristics
+Dumont grew rapidly between 1950 and 1970 and then experienced an overall period of decline 
+from 1980 until 2020.  The population of Dumont has generally followed the trends of Bergen 
+County. Table 9 below summarizes the Borough’s population trends since 1950. 
+Table 9 
+Dumont Borough and Bergen County Population Characteristics 1950-2050 (Projected) 
+Year 
+Dumont Borough 
+Bergen County 
+Population 
+Population 
+Increase 
+Percentage 
+Change 
+Population 
+Population 
+Increase 
+Percentage 
+Change 
+1950 
+13,013 
+- 
+- 
+539,139 
+- 
+- 
+1960 
+18,882 
+5,869 
+45.1% 
+780,255 
+241,116 
+44.7% 
+1970 
+20,155 
+1,273 
+6.7% 
+897,148 
+116,893 
+14.9% 
+1980 
+18,334 
+-1,821 
+-9% 
+845,385 
+-51,763 
+-5.7% 
+1990 
+17,178 
+-1,147 
+-6.3% 
+825,380 
+-20,005 
+-2.4% 
+2000 
+17,503 
+316 
+1.8% 
+884,118 
+58,738 
+-7.1% 
+2010 
+17,479 
+-24 
+-0.1% 
+905,116 
+20,998 
+2.3% 
+2020 
+17,863 
+384 
+2.1% 
+955,732 
+50,616 
+5.6% 
+Sources: US Census, New Jersey Department of Labor and North Jersey Transportation 
+Planning Authority 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 12 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 13 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+11 
+The median age in Dumont at 42.1 years is nearly the same as the median age of Bergen County 
+(42.0 years) as shown below in table 10. The table shows that the age cohorts for Dumont were 
+relatively similar to the data for Bergen County.  
+Table 10 
+Population Comparison by Age 
+Age 
+Dumont Borough 
+Bergen County  
+Under 5 
+5.1% 
+5.0% 
+5 to 19 
+15.9% 
+17.9% 
+20 to 24 
+7.4% 
+5.7% 
+25 to 44 
+23.8% 
+25% 
+45 to 64 
+31% 
+27.8% 
+Over 65 
+16.7% 
+18.7% 
+Total 
+100% 
+100% 
+Median Age 
+42.1 
+42.0 
+Source: DP-05, 2023 American Community Survey 5-year Estimates
+The 2023 ACS indicated that Dumont’s median household income was $125,585, which was higher 
+than Bergen County’s median income of $123,715. Approximately 60% of the Borough’s households 
+earned an income of more than $100,000, which also largely resembled the County’s income 
+distribution. A distribution of households by income for Dumont and Bergen County are presented 
+below in table 11.  
+Table 11 
+Households by Income 
+Income Level 
+Dumont Borough 
+Bergen County 
+Less than $10,000 
+2.5% 
+3.2% 
+$10,000-$14,999 
+1.9% 
+2.0% 
+$15,000-$24,999 
+3.2% 
+3.8% 
+$25,000-$34,999 
+4.7% 
+4.3% 
+$35,000-$49,999 
+4.5% 
+6.5% 
+$50,000-$74,999 
+12.3% 
+11.3% 
+$75,000-$99,999 
+10.1% 
+9.9% 
+$100,000-$149,999 
+24.2% 
+17.8% 
+$150,000-$199,999 
+12.5% 
+12.8% 
+$200,000 or more 
+24.0% 
+28.4% 
+Median Household Income 
+$125,585 
+$123,715 
+Source: DP-03, 2023 American Community Survey 5-year Estimates
+Approximately 60% of the Borough’s households were classified as married-couple households. 
+The second largest household type was identified as female householder, no spouse and partner 
+present, which represented approximately 25% of the Borough’s total households. The County’s 
+largest types of households were also identified as married-couple households and female 
+householder, no spouse and partner present. See table 12.    
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 13 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 14 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+12 
+Table 12 
+Household by Type 
+Household Type 
+Dumont 
+Bergen County 
+Number 
+Percentage 
+Number 
+Percentage 
+Total Occupied Households 
+6,491 
+100% 
+353,307 
+100% 
+Married-couple Households 
+4,038 
+62.2% 
+197,228 
+55.8% 
+Cohabiting couple family 
+189 
+2.9% 
+18,654 
+5.3% 
+Female householder, no spouse and 
+partner present 
+1,587 
+24.4% 
+86,136 
+24.4% 
+> Female householder living alone 
+965 
+14.9% 
+48,088 
+13.6% 
+Male householder, no spouse and 
+partner present 
+677 
+10.4% 
+51,289 
+14.5% 
+> Male householder living alone 
+443 
+6.8% 
+36,632 
+10.4% 
+Source: DP-02, 2023 American Community Survey 5-year Estimates
+Employment Characteristics
+Of the 10,176 employed residents in the Borough, approximately 80% work in the private sector. The 
+second largest category is represented by government workers, nearly double that of Bergen 
+County.  The Borough also has about half the percentage of self-employed workers as the County. 
+See table 13.  
+Table 13 
+Classification of Workers 
+Class 
+Dumont 
+Bergen County 
+Number 
+Percentage 
+Number 
+Percentage 
+Private Wage and Salary 
+7,861 
+77.3% 
+403,408 
+81.5% 
+Government Workers 
+2,032 
+20.0% 
+61,885 
+12.5% 
+Self Employed 
+283 
+2.8% 
+28,640 
+5.8% 
+Unpaid Family Workers 
+0 
+0.0% 
+988 
+0.2% 
+Total 
+10,176 
+100% 
+494,921 
+100% 
+Source: DP-03, 2023 American Community Survey 5-year Estimates
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 14 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 15 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+13 
+An analysis of the workforce by employment sector indicated that Dumont employees work a broad 
+array of jobs. The highest concentration of workers are employed in the educational, health, and 
+social services; professional, scientific, management, administrative, and waste management; and 
+retail trade employment sectors. The Borough’s workforce sector data is shown below in table 14.  
+Table 14 
+Workforce by Sector 
+Sector 
+Number of 
+Employees 
+Percentage of 
+Workforce 
+Agriculture, Forestry, Fishing and Hunting, and 
+Mining 
+35 
+0.3% 
+Construction 
+474 
+4.7% 
+Manufacturing 
+544 
+5.3% 
+Wholesale trade 
+234 
+2.3% 
+Retail Trade 
+867 
+8.5% 
+Transportation and Warehousing, and Utilities 
+455 
+4.5% 
+Information 
+340 
+3.3% 
+Finance, Insurance & Real Estate 
+1,011 
+9.9% 
+Professional, Scientific, Management, 
+Administrative, and Waste Management Services 
+1,148 
+11.3% 
+Educational, Health, and Social Services 
+3,509 
+34.5% 
+Arts, Entertainment, Recreation, Accommodation 
+and Food Services 
+692 
+6.8% 
+Other Services 
+357 
+3.5% 
+Public Administration 
+510 
+5.0% 
+Total 
+10,176 
+100% 
+Source: DP-03, 2023 American Community Survey 5-year Estimates
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 15 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 16 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+14 
+As indicated in Table 15, the occupation characteristics of the Borough’s residents  closely 
+resemble those of workers residing in Bergen County. The Borough maintained a slightly higher 
+percentage of workers in the educational; health, and social services; information; and public 
+administration occupation sectors than the County’s overall totals. Conversely, the County has a 
+higher percentage of workers in the professional, scientific, management, administrative, and 
+waste management services; retail trade and manufacturing occupation sectors.  
+Table 15 
+Occupation Characteristics 
+Sector 
+Dumont 
+(Percentage) 
+Bergen County 
+(Percentage) 
+Agriculture, Forestry, Fishing and Hunting, and Mining 
+0.3% 
+0.1% 
+Construction 
+4.7% 
+5.2% 
+Manufacturing 
+5.3% 
+7.7% 
+Wholesale trade 
+2.3% 
+3.7% 
+Retail Trade 
+8.5% 
+10.2% 
+Transportation and Warehousing, and Utilities 
+4.5% 
+5.2% 
+Information 
+3.3% 
+2.9% 
+Finance, Insurance & Real Estate 
+9.9% 
+10.2% 
+Professional, Scientific, Management, Administrative, and 
+Waste Management Services 
+11.3% 
+15.2% 
+Educational, Health, and Social Services 
+34.5% 
+25.1% 
+Arts, Entertainment, Recreation, Accommodation and 
+Food Services 
+6.8% 
+6.8% 
+Other Services 
+3.5% 
+4.5% 
+Public Administration 
+5.0% 
+3.2% 
+Total 
+100% 
+100% 
+Source: DP-03, 2023 American Community Survey 5-year Estimates
+To understand what implications this employment data has for the Borough and understand what 
+the employment field and area trends are for Dumont Borough and Bergen County, the New Jersey 
+Department of Labor (NJDOL) has prepared projections, which analyze the expected increase or 
+decrease in a particular employment sector by the year 2032. This data has been summarized and 
+is illustrated within table 16. 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 16 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 17 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+15 
+Table 16 
+Bergen County Projected Employment 
+Industry 
+2022 Actual 
+Employment 
+2032 Projected 
+Employment 
+Numeric 
+Change 
+Outlook 
+Accommodation and Food Services 
+32,188 
+32,940 
+752 
+Stable 
+Administrative and Support and 
+Waste Management and 
+Remediation Services 
+30,427 
+30,310 
+-117 
+Declining 
+Arts, Entertainment and Recreation 
+8,086 
+9,496 
+1,410 
+Growing 
+Construction 
+17,161 
+17,933 
+772 
+Stable 
+Educational Services 
+41,177 
+43,169 
+1,992 
+Stable 
+Finance and Insurance 
+16,157 
+15,260 
+-897 
+Declining 
+Government 
+19,426 
+18,922 
+-504 
+Declining 
+Health Care and Social Assistance 
+78,862 
+87,159 
+8,297 
+Growing 
+Information 
+11,116 
+10,530 
+-586 
+Declining 
+Management of Companies and 
+Enterprises 
+11,515 
+12,218 
+703 
+Growing 
+Manufacturing 
+29,622 
+30,152 
+530 
+Stable 
+Other Services (except 
+Government) 
+18,807 
+19,779 
+972 
+Growing 
+Professional, Scientific, and 
+Technical Services 
+34,380 
+35,787 
+1,407 
+Stable 
+Real Estate and Rental and Leasing 
+9,599 
+8,950 
+-649 
+Declining 
+Retail Trade 
+48,794 
+47,533 
+-1,261 
+Declining 
+Transportation and Warehousing 
+19,020 
+21,462 
+2,442 
+Growing 
+Utilities 
+1,353 
+1,471 
+118 
+Growing 
+Wholesale Trade 
+36,591 
+34,758 
+-1,833 
+Declining 
+Total (All Industries) 
+493,090 
+507,129 
+14,039 
+Growing 
+Source: New Jersey Department of Labor and Workforce Development  
+As indicated above, it is projected that by 2032, Bergen County’s economy will grow by 14,039 jobs, 
+a percentage of which will likely be located in Dumont. Health care and social assistance; 
+transportation and warehousing; and arts, entertainment and recreation employment services are 
+projected to have the largest growth increase during the 2022-2032 time period. 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 17 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 18 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+16 
+Analyses 
+Vacant Land Analysis 
+The Borough of Dumont conducted a comprehensive Vacant Land Analysis (VLA) to assess its 
+realistic development potential and identify land available to meet its affordable housing 
+obligations. This assessment reviewed tax records, zoning designations, and physical site 
+constraints such as wetlands, flood zones, and parcel size thresholds. Below is a summary of the 
+results. 
+All parcels listed in the ROSI (Recreation and Open Space Inventory) were excluded from the VLA 
+due to their dedication for public recreation, natural preservation, or open space use. These lands 
+are not available for development due to their designation and use restrictions, and therefore do not 
+contribute to the Borough’s developable acreage. 
+The Borough identified a number of parcels coded as vacant or underutilized in the MOD IV Tax 
+Assessment data. Dumont is a small, mature urban municipality with very few vacant parcels.  The 
+majority of those identified were excluded for having less than 0.83 acres of unconstrained land, 
+which would not realistically support a density of 6 dwelling units per acre after accounting for 
+required infrastructure and environmental buffers. Other sites were determined to be unsuitable for 
+development due to environmental constraints. Based on the results of the VLA, the Borough’s total 
+Fourth Round Realistic Development Potential (RDP) is 0 units. The VLA is included in the Appendix.  
+Analysis of Multigenerational Family Continuity 
+The 2024 FHA requires an analysis of the extent to which municipal ordinances and other local 
+factors advance or detract from the goal of preserving multigenerational family continuity as 
+expressed in the recommendations of the Multigenerational Family Housing Continuity 
+Commission, adopted pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c. 273 
+(C.52:27D-329.20). The Commission has the primary goal of enabling senior citizens to reside at the 
+homes of their extended families, thereby preserving and enhancing multigenerational family 
+continuity. 
+A review of the Borough’s ordinances indicates that there are no ordinances that would specifically 
+create a detraction from meeting the Commission’s goal of enabling senior citizens to reside at the 
+homes of their extended families. Notable characteristics of the Borough’s housing stock, which 
+promote multigenerational family continuity include the presence of many homes and residential 
+structures that contain three or more bedrooms, and a variety of housing stock in terms of for-sale 
+and rental units in the form of single-family and multi-family units. Furthermore, the Borough’s 
+ordinances permit accessory dwelling units as a conditional use in any existing detached one-family 
+dwelling in any residential district in the Borough, thus allowing senior citizens to live within close 
+proximity to their extended families and still maintain autonomy over their dwelling unit.  
+In addition, Dumont’s affordable housing ordinance requires at least 20% of all affordable housing 
+units within inclusionary developments to be three-bedroom units; and the Borough contains senior 
+buildings where adult children of seniors can reside in a unit. 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 18 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 19 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+17 
+Analysis of consistency with the State Development and Redevelopment Plan 
+The Borough’s Fourth Round Housing Element and Fair Share Plan is consistent with the 2001 State 
+Development and Redevelopment Plan (SDRP) as the approved and proposed projects outlined in 
+the Fair Share Plan provide ample opportunity for the construction of affordable housing. All of 
+Dumont is designated as Metropolitan Planning Area (PA1). Pursuant to the SDRP, PA1 is the 
+preferred location for redevelopment and compact growth. The development of dense, affordable 
+housing in PA1 is consistent with the overall State Development and Redevelopment Plan goal to 
+direct redevelopment and growth into existing “centers” where infrastructure can support the 
+development and services such as open space, retail shopping, public transportation, schools are 
+within walking distance. Adequate sewer and water capacity are available for development.   
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 19 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 20 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+18 
+Fair Share Plan 
+Satisfaction of Rehabilitation Obligation   
+PRESENT NEED (REHABILITATION OBLIGATION) - 16  UNITS 
+The Borough accepted a present need (rehabilitation) obligation of 16 units as identified in 
+resolution R-25-66.  The Borough has been successful in utilizing Bergen County’s Home 
+Improvement Program (BCHIP) and will continue to use the BCHIP to address its rehabilitation 
+obligation heading into the 4th Round. The Borough will also provide a rental housing rehabilitation 
+program in accordance with applicable regulations to supplement the BCHIP. 
+Satisfaction of Prior Round Obligation  
+PRIOR ROUND (1987-1999) - 34 UNITS    
+The Borough has a Prior Round obligation of 34 units. Dumont has addressed its obligation through 
+the following mechanism: 
+David F. Roche Apartments 
+The Borough addressed the entirety of this obligation with existing units in the 100 percent 
+affordable David F. Roche Apartments. This development was constructed in 1983 with HUD 
+funding. It contains 99 affordable rental units, including 90 age restricted units and 9 non-senior 
+disabled units. In accordance with HUD’s rules, the units have perpetual affordability controls. The 
+units meet the definition of Prior Cycle Credits as outlined at NJAC 5:93-1.3, and, as such, these 
+units are eligible for one-for-one credit and are exempt from the maximum age-restriction 
+limitations under the Second Round rules. 
+PRIOR ROUND CREDITS   
+The Borough has satisfied its 34 unit Prior Round obligation as follows:   
+Table 17 - Prior Round Compliance Mechanisms 
+Compliance Mechanism
+Rental or 
+Sale
+Family or Age 
+Restricted
+Units
+Bonus 
+Credits
+Total 
+Credits
+David F. Roche Apartments 
+Rental 
+Age Restricted 
+34 
+34 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 20 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 21 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+19 
+Satisfaction of 3rd Round Obligation 
+THIRD ROUND (2000-2025) – 295 units 
+For the 3rd round, Dumont had an obligation of 295 units.  The Borough took a vacant land 
+adjustment which revised this figure down to an RDP of 81 units, with an Unmet need of 214 units. 
+The Borough addressed its RDP obligation with a combination of surplus Prior Cycle Credits, existing 
+age-restricted affordable housing units, an inclusionary development, and rental bonus credits 
+permitted in accordance with COAH’s Second Round rules. These mechanisms are detailed below. 
+Table 18 - 3rd Round RDP Compliance Mechanisms 
+Compliance Mechanism
+Rental 
+or Sale
+Family or Age 
+Restricted
+Units
+Bonus 
+Credits
+Total 
+Credits
+David F. Roche Apartments 
+Rental 
+Age Restricted 
+18 
+0 
+18 
+Schraalenburgh Senior Housing 
+Rental  
+Age Restricted 
+20 
+0 
+20 
+Landmark Dumont, LLC 
+Rental 
+Family 
+22 
+21 
+43 
+Total
+60 
+21 
+81 
+Unmet Need 
+The difference between the Borough’s Third Round Prospective Need number and its RDP obligation 
+is what is known as Unmet Need. Whereas the RDP obligation must be affirmatively addressed by 
+the Borough (as outlined above), Unmet Need is more aspirational. Pursuant to the Borough’s 3rd
+Round Settlement Agreement with FSHC, Dumont had an Unmet Need 3rd round need of 214 units. 
+The Borough addressed a portion of its Unmet Need with surplus Prior Cycle Credits, existing age-
+restricted units in 100 percent affordable developments, bedrooms in a variety of 
+supportive/special needs housing units, and one additional eligible unit identified by the Court’s 
+Special Master in his report dated August 25, 2017. In sum, these existing units contribute 111 
+credits toward Unmet Need. These units are identified in the table below, with more detail on each 
+development provided later in this section. 
+Table 19 - Compliance Mechanisms Addressing Unmet Need 
+Compliance Mechanism
+Rental 
+or Sale
+Family or Age 
+Restricted
+Units
+Bonus 
+Credits
+Total 
+Credits
+David F. Roche Apartments 
+Rental 
+Age Restricted 
+47 
+47 
+Schraalenburgh Senior Housing 
+Rental  
+Age Restricted 
+20 
+20 
+St. Mary’s Senior Residence 
+Rental 
+Age Restricted 
+28 
+28 
+Bethesda Lutheran  
+Rental 
+Special Needs 
+4 
+4 
+Community Options 
+Rental 
+Special Needs 
+3 
+3 
+ARC of Bergen & Passaic 
+Rental 
+Special Needs 
+5 
+5 
+Advance Housing 
+Rental 
+Special Needs 
+3 
+3 
+Unit Identified by Court Master 
+1 
+1 
+Total
+111 
+111 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 21 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 22 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+20 
+In addition, the Borough addressed the remaining Unmet Need through the creation of a downtown 
+overlay zone, as well as a Borough-wide mandatory set-aside ordinance. These mechanisms, both 
+of which are described in more detail below, provided a realistic opportunity for the development of 
+additional affordable housing in Dumont.  
+a) Downtown Overlay Zone. The Borough adopted an overlay district on March 6, 2018 over a large 
+portion of the downtown area within the B2 Zone to permit inclusionary mixed-use development. 
+The overlay zone will encompassed approximately 52 acres of the 57-acre B2 Zone, with 
+approximately 5 acres being excluded from the overlay due to the presence of single-family 
+residential uses. The areas included within the downtown overlay zone are illustrated in Figure 1, 
+presented subsequently within this section of the Plan. 
+The downtown overlay zone requires an affordable housing set-aside of 15 percent of all residential 
+units, where affordable units will be for rent, or 20 percent of all residential units, where affordable 
+units will be for sale. A maximum density of 20 dwelling units per acre and a maximum building 
+height of three stories will be permitted throughout the majority of the downtown overlay zone. 
+However, the Borough will permit densities up to 24 units per acre and heights up to four stories/48 
+feet in limited sections of the downtown overlay zone. These sections, encompassing approximately 
+6 acres, include portions of the overlay zone that are along Dixon Avenue opposite West Shore 
+Avenue behind the railroad tracks, as well as areas located at the intersection of Washington and 
+Madison Avenues that do not abut single-family residences. In total, the Borough anticipates that 
+the downtown overlay zone may generate approximately 150-200 affordable units. A copy of the 
+downtown overlay zone ordinance is included in the Appendix of this document. 
+b) Mandatory Set-Aside Ordinance. The Borough also adopted an ordinance on March 3, 2018 which 
+required that any multi-family development with a density of 6 dwelling units per acre or higher shall 
+provide an affordable housing set-aside at a rate of 15 percent, where affordable units will be for 
+rent, or 20 percent, where affordable units will be for sale. This requirement ensures that new multi-
+family residential development in Dumont will provide its fair share of affordable units and assist 
+with the Borough’s continuous efforts to address its affordable housing obligation. The Borough will 
+not, however, be under any obligation to grant variances or extraordinary approvals for any such 
+construction and development applications will be required to otherwise conform to the Borough’s 
+zoning requirements. The adopted mandatory set-aside ordinance is included in the Appendix of 
+this document. 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 22 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 23 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+21 
+Satisfaction of the 4TH Round Obligation 
+4TH ROUND OBLIGATION 128 units 
+DCA determined that the obligation for Dumont for the Fourth Round is 128 units, which was 
+accepted by the Borough in its binding resolution.  As noted previously in this document, Dumont 
+has applied a vacant land adjustment to this obligation, which establishes a new RDP of 0 units.  
+However, the Amended FHA requires that any municipality that receives an adjustment of its 
+prospective need obligations for the fourth round based on a lack of vacant land shall as part of the 
+process of adopting and implementing its housing element and fair share plan identify sufficient 
+parcels likely to redevelop during the current round of obligations to address at least 25 percent of 
+the prospective need obligation that has been adjusted, if possible, and adopt realistic zoning that 
+allows for such adjusted obligation, or demonstrate why the municipality is unable to do so. Twenty-
+five percent of the prospective need obligation that has been adjusted is 32 housing units.  As such, 
+the Borough has identified the following compliance mechanisms to address an obligation of 25% 
+of the 128-unit obligation (32 units), with the remaining 96 units to be addressed via Unmet Need 
+mechanisms.   
+Table 20 – Compliance Mechanisms Addressing the 4th Round 25% Adjusted Need 
+Compliance 
+Mechanism 
+Rental or 
+Sale 
+Family or Age 
+Restricted 
+Units 
+Bonus 
+Credits 
+Total 
+Credits 
+New Construction 
+    2 West Madison Ave 
+Rental 
+Family 
+7 
+3.5 
+10.5 
+    125 Washington  
+    (Dunkin) 
+Rental 
+Family 
+1 
+0.5 
+1.5 
+    219 Washington 
+Sale 
+Family 
+2 
+0.5 
+2.5 
+    Supportive/Special 
+    Needs Housing  
+Rental 
+Special Needs 
+TBD 
+TBD 
+TBD 
+Subtotal 
+10 
+4.5 
+14.5 
+Zoning Mechanisms 
+ 
+    Downtown Overlay 
+    Zone 
+Both 
+Both 
+TBD 
+TBD 
+TBD 
+    Municipal Set-Aside 
+    Ordinance 
+Both 
+Both 
+TBD 
+TBD 
+TBD 
+Total 
+10 
+4.5 
+14.5 
+2 West Madison 
+Two West Madison (B. 905 L. 11 & 12) is subject to a recently approved Area in Need of 
+Redevelopment (non-condemnation) designation, and a draft redevelopment plan is being 
+prepared. Within the redevelopment plan, a mandatory set-aside for the project is required for 15% 
+of the rental units being developed. In its current iteration, the project is expected to generate 48 
+units, of which seven (7) will be affordable housing units.  An additional 3.5 units of bonus credits 
+are applied to the project as the project qualifies for ½ credit infill bonus available within the 
+Amended FHA.  This results in a total of 10.5 credits against the obligation.  
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 23 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 24 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+22 
+125 Washington 
+Located above an existing retail development, 125 Washington (B. 1216, L. 1) will be a multi-family 
+rental project that will create one (1) affordable unit.  The project qualifies for an additional ½ unit 
+credit as infill development for a total of 1.5 credits.   
+219 Washington 
+Fermano Builders, LLC has proposed to erect a nine (9) unit multi-family townhome development 
+with two (2) affordable units at 219 Washington Ave (B. 908, L. 22).  The developer has not yet 
+formally submitted an application to the Joint Land Use Board, and the project as currently 
+described would require a “D” variance for density.  This site is not within the Downtown Overlay 
+Zone, nor is it adjacent to the current boundary of the DOZ.  As such, the Borough will adopt a special 
+overlay zone for the site permitting the density of this proposed development. The project qualifies 
+for an additional ½ unit credit as infill development for a total of 2.5 credits. 
+Supportive/Special Need Housing Project 
+The Borough will seek to develop a supportive/special needs housing project to be operated by a 
+licensed provider by the New Jersey Division of Developmental Disabilities. Any subsidy to be 
+provided to the operator will be conditional upon executing and recording a 40 year deed restriction 
+in accordance with the Amended FHA.  
+Downtown Overlay Zone 
+As mentioned previously, the Borough has adopted overlay zoning that will create approximately 
+200 affordable units upon full buildout.  Eight (8) of these units are already proposed in this plan, 
+demonstrating the viability of the overlay zone.  The Borough will continue to apply the overlay zone 
+to applicable redevelopment projects in order to meet its 4th round prospective need obligation.  
+Municipal Set-Aside Ordinance 
+Dumont’s existing set-aside ordinance is responsible for the requirement of two (2) affordable units 
+at the proposed 219 Washington development.  The Borough will continue to apply the MSO on 
+multi-family projects as appropriate in order to continue adding to the affordable housing stock.  
+Category 
+Required 
+Provided
+Total 
+Provided and 
+Planned 
+Total Credits 
+32 
+14.5* 
+32 
+Family Units 
+16 
+10* 
+16 
+Family Rental Units 
+8 
+8 
+8 
+Very Low-Income Units 
+2 
+2 
+2 
+Very Low-Income Family Units 
+1 
+2 
+2 
+Age Restricted Cap 
+9 
+0 
+- 
+Bonus Credits 
+8 
+0 
+8 
+* Dumont anticipates that additional required credits will be provided by existing overlay and set-aside 
+ordinances 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 24 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 25 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+23
+Figure 1 – Compliance Mechanisms addressing the Prior, 3rd, and 4th Round Obligations.
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 25 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 26 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+24 
+Unmet Need 
+The Borough has a combined Unmet Need from the Prior, 3rd, and 4th rounds of 209 units, once the 
+units addressing the 25% requirement are removed.  The Borough will address the Unmet Need via 
+the Downtown Overlay Zone and municipal set-aside ordinance.  
+Cost Generation   
+The Borough of Dumont will focus on complying with N.J.A.C. 5:93-10 regarding ensuring the 
+elimination of unnecessary cost generating features from municipal land use ordinances.  The 
+municipality will eliminate development standards that are not essential to protecting the public 
+welfare and will expedite (“fast track”) approvals/denials on inclusionary development 
+applications. The Borough will cooperate with developers of inclusionary developments in 
+scheduling preapplication meetings, and municipal boards shall schedule regular and special 
+monthly meetings (as needed) and provide ample time at those meetings to consider the merits of 
+the inclusionary development application.   
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 26 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 27 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+25 
+Appendix A – Resolution Accepting 4th Round Obligations 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 27 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 28 =====
+BER-L-000349-25
+06/12/2025 4:29:57 PM
+Pg 28 of 46
+Trans ID: LCV20251747704
+f ane5
+Bi 2 BG
+2025
+BOROUGH OF DUMONT
+RESOLUTION
+Ee
+MEMBERS
+AYE
+NAY
+ABSTAIN
+ABSENT
+foe
+|
+|fd
+Fanuary 7, 2028
+feo
+TZ TT page
+are
+raomnae | ¥ || _|
+Aefe
+_
+} |
+Subject:
+Fourth Round Present &
+LaBARBERA
+i 2
+Prospective Need Obligations
+a
+CY,
+a
+_Prospeotive
+Need Obiigations
+fem | Parse:
+Adoption of NJDCA
+Pauses | [| [|_| _|
+Affordable Housing
+—
+Calculations
+rows
+tot tt
+Ss
+Dollar Amount:
+Offered by:
+Ot
+——sa"S
+= ame.
+Seconded by:
+Prepared By:
+Jeanine E. Siek, RMC
+Certified as a true copy of a Resolution adopted by the Borough ofDumont on above date at a
+Regular Meeting by:
+:
+'
+Jea
+, Siek, RMC, Municipal Clerk/Borough Administrator
+__ Borough of Dumont, Bergen County, New Jersey
+RESOLUTION ADOPTING THE NEW JERSEY DEPARTMENT OF
+COMMUNITY AFFAIRS’ CALCULATION OF THE BOROUGH OF
+DUMONT’S FOURTH ROUND PRESENT AND PROSPECTIVE
+NEED AFFORDABLE HOUSING OBLIGATIONS
+WHEREAS, the Borough of Dumont, County of Bergen (the “Borough”) is a public body
+corporate and politic of the State ofNew Jersey; and
+WHEREAS, on March 20, 2024, Governor Murphy signed into law P.L. 2024, c. 2 (the “Act”),
+which established a new framework for determining and enforcing municipalities’ affordable
+housing obligations under the New Jersey Supreme Court’s Mount Laurel doctrine and the State of
+New Jersey’s Fair Housing Act; and
+
+===== PAGE 29 =====
+BER-L-000349-25
+06/12/2025 4:29:57 PM
+Pg 29 0f46
+Trans ID: LCV20251747704
+WHEREAS, N.J.S.A, 52:27D-304.1(c) of the Act provides that prior to the beginning of each
+new 10-year round of affordable housing obligations beginning with the Fourth Round on July 1,
+2025, the State of New Jersey’s Department of Community Affairs (the “DCA”) is tasked with
+determining municipal present and prospective need in accordance with the formulas established at
+N.JS.A. 52:27D-304.2 and N.JS.A, 52:27D-304,3; and
+WHEREAS, N.J.S.A. 52:27D-304.1(d) further provides that the DCA is required to prepare and
+submit a report to the Governor and Legislature on the calculations of such municipal obligations
+by October 20, 2024; and
+WHEREAS, in accordance with the requirements of the Act, on October 18, 2024, the DCA
+provided a report setting forth its non-binding calculations of municipalities’ present and
+prospective need for affordable housing for the Fourth Round using the formulas set forth at
+N.JS.A. 52:27D-304,2 and N.JS.A. 52:27D-304.3 (the “Report”); and
+WHEREAS, the Report determined the Borough’s present need obligation to be 16 units and
+its prospective need obligation to be 128 units; and
+WHEREAS, N.J.S.A. 52:27D-304.1(f) provides that the Borough is required to determine its
+present and prospective fair share obligation for affordable housing in accordance with the formulas
+established at N.J.S.A. 52:27D-304.2 and N.J.S.A, 52:27D-304.3 and adopt a housing element and
+fair share plan based on this determination (as may be adjusted by the Affordable Housing Dispute
+Resolution Program (the “Program”) in accordance with the Act); and
+WHEREAS, for the Fourth Round of affordable housing obligations, this determination ofpresent
+and prospective fair share obligation is required to be made by binding resolution no later than
+January 31, 2025; and
+WHEREAS, the Borough has determined that its present and prospective need obligations of 16
+units and 128 units, respectively, as calculated in the Report are accurate and wishes to adopt these
+:
+calculations as the determination of its Fourth Round affordable housing obligation; and
+WHEREAS, notwithstanding the foregoing, the Act’s future is uncertain at this stage due to
+ongoing litigation, and accordingly, the Borough also desires to reserve its right to review and
+revise its Fourth Round affordable housing obligation calculations in the event the Act should be
+overturned.
+NOW, THEREFORE, BE IT RESOLVED by the Mayor and the Council of the Borough of
+Dumont, County of Bergen, State ofNew Jersey as follows:
+1. The aforementioned recitals are incorporated herein as though fully set forth at length.
+2. The Borough has determined that its present and prospective need obligations of 16 units and
+128 units, respectively, as calculated in the Report are accurate and adopts these calculations as the
+determination of its Fourth Round affordable housing obligation.
+
+===== PAGE 30 =====
+BER-L-000349-25
+06/12/2025 4:29:57 PM
+Pg 30 of 46
+Trans ID: LCV20251747704
+3. The Borough reserves its right to review and revise its Fourth Round affordable housing
+obligation calculations in the event the Act should be overturned.
+4. The Borough shall file a declaratory judgment action with the Program no later than 48 hours
+following adoption of this Resolution, in accordance with the requirements of the Act. A certified
+copy of this Resolution shall be included with such filing.
+5. A copy of this Resolution shall be posted on Borough’s website.
+6. This Resolution will take effect immediately.
+By my signature below, I, Jeanine E. Siek, RMC, do hereby certify that this is a true copy of a
+Resolution adopted by the Borough of Dumont Borough Council at a regular meeting of the Mayor
+and Council conducted on the 7" day of January 2025.
+Q
+‘
+| ()
+'
+anine E. Siek, RMC
+inicipal Clerk/Borough Administrator
+
+===== PAGE 31 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+26 
+Appendix B – Downtown Overlay Zone Ordinance 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 31 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 32 =====
+P *++$('%(% 2HNGKHNG 7M@IE<O 9HG@ 2DJKID>K% :0??@? )$,$(&'- =O 7I?% 6H% '+)); 
+6( C^[YX\N( FQN Y^[YX\N XO ]QN 9X`W]X`W B_N[UJb IXWN 9R\][RL] R\ ]X L[NJ]N J [NJUR\]RL 
+XYYX[]^WR]b OX[ ]QN LXW\][^L]RXW XO UX`' JWM VXMN[J]N'RWLXVN QX^\RWP RW \^R]JKUN YX[]RXW\ XO 
+]QN 7X[X^PQ XO 9^VXW]#\ 7, 7^\RWN\\ IXWN& JWM ]QN[NKb QNUY ]X JMM[N\\ ]QN OJR[ \QJ[N 
+QX^\RWP XKURPJ]RXW XO ]QN 7X[X^PQ XO 9^VXW] ^WMN[ ]QN AN` >N[\Nb ;JR[ <X^\RWP 6L]( FQN 
+9X`W]X`W B_N[UJb IXWN 9R\][RL] NWLX^[JPN\ ]QN MN_NUXYVNW] XO UX`' JWM VXMN[J]N'RWLXVN 
+QX^\RWP Kb JUUX`RWP OX[ QRPQN[ MNW\R]RN\ JWM K^RUMRWP QNRPQ]\5 QX`N_N[& MN_NUXYN[\ \QJUU JU\X 
+QJ_N ]QN XY]RXW XO MN_NUXYRWP RW JLLX[MJWLN `R]Q ]QN ^WMN[UbRWP 7, IXWN \]JWMJ[M\( 
+7( 
+CN[VR]]NM ^\N\( FQN ^\N\ YN[VR]]NM JWM Y[XQRKR]NM RW ]QN 9X`W]X`W B_N[UJb IXWN 9R\][RL] 
+\QJUU KN RMNW]RLJU ]X ]QX\N ^\N\ YN[VR]]NM JWM Y[XQRKR]NM RW ]QN 7, 7^\RWN\\ IXWN J\ \N] OX[]Q 
+J] d .//'35 Y[X_RMNM& QX`N_N[& ]QJ] JWb MN_NUXYN[ ]QJ] NUNL]\ ]X MN_NUXY RW JLLX[MJWLN `R]Q 
+]QN 9X`W]X`W B_N[UJb IXWN 9R\][RL] \]JWMJ[M\ J\ \N] OX[]Q QN[NRWKNUX` \QJUU KN [NZ^R[NM ]X 
+Y[X_RMN V^U]ROJVRUb M`NUURWP\ JKX_N ]QN OR[\] OUXX[ XO JUU K^RUMRWP\( 
+8( 
+@^U]ROJVRUb [N\RMNW]RJU [NZ^R[NVNW]\( 
+$+% @^U]ROJVRUb [N\RMNW]RJU \QJUU KN YN[VR]]NM ]X KN MN_NUXYNM J] J VJaRV^V P[X\\ MNW\R]b 
+XO ,* M`NUURWP ^WR]\ YN[ JL[N& `R]Q ]QN NaLNY]RXW XO ]QN OXUUX`RWP YJ[LNU\& `QN[NXW ]QN 
+VJaRV^V P[X\\ MNW\R]b \QJUU KN ,. M`NUURWP ^WR]\ YN[ JL[N4 
+$J% 9RaXW 6_NW^N& XYYX\R]N HN\] EQX[N 6_NW^N5 7UXLT 2,,& ?X]\ / JWM 0( 
+$K% =W]N[\NL]RXW XO HJ\QRWP]XW JWM @JMR\XW 6_NW^N\4 7UXLT 3*/& ?X]\ +,& +-& +.& +/& 
++0& JWM +15 7UXLT 3*3& ?X]\ +-& +.& JWM +/5 7UXLT +,+.& ?X]\ + JWM ,5 JWM 7UXLT 
++,+0& ?X] +( 
+$,% 6UU V^U]ROJVRUb MN_NUXYVNW] LXW\][^L]NM `R]QRW ]QN 9X`W]X`W B_N[UJb IXWN \QJUU KN 
+[NZ^R[NM ]X \N] J\RMN J VRWRV^V YN[LNW]JPN XO ^WR]\ OX[ JOOX[MJKUN QX^\RWP( HQN[N ^WR]\ 
+`RUU KN OX[ Y^[LQJ\N& ]QN VRWRV^V \N] J\RMN \QJUU KN ,*"( HQN[N ^WR]\ `RUU KN OX[ [NW]& 
+]QN VRWRV^V \N] J\RMN \QJUU KN +/"( HQNW LJUL^UJ]RWP ]QN [NZ^R[NM W^VKN[ XO 
+JOOX[MJKUN ^WR]\& JWb LXVY^]J]RXW [N\^U]RWP RW J O[JL]RXW XO J ^WR] \QJUU KN [X^WMNM 
+^Y`J[M\ ]X ]QN WNa] `QXUN W^VKN[( 
+$-% 6UU JOOX[MJKUN ^WR]\ ]X KN Y[XM^LNM Y^[\^JW] ]X E^K\NL]RXW 8$,% JKX_N \QJUU \][RL]Ub 
+LXVYUb `R]Q ]QN 6OOX[MJKUN <X^\RWP 8QJY]N[ XO ]QN 7X[X^PQ 8XMN
+' JWM ]QN JYYURLJKUN 
+8B6< [NP^UJ]RXW\& J\ VJb KN JVNWMNM O[XV ]RVN ]X ]RVN( 
+$.% FQN JOOX[MJKUN ^WR]\ ]X KN Y[XM^LNM \QJUU NR]QN[ KN Y^[LQJ\N X[ [NW]JU ^WR]\& `QRLQ \QJUU 
+KN J] ]QN MR\L[N]RXW XO ]QN MN_NUXYN[( 
+$/% 6Wb Y[XYN[]b `R]QRW ]QN 9X`W]X`W B_N[UJb IXWN ]QJ] R\ UR\]NM J\ QR\]X[RL XW ]QN 
+AJ]RXWJU DNPR\]N[ XO <R\]X[RL CUJLN\ JWM)X[ ]QN E]J]N DNPR\]N[ XO <R\]X[RL CUJLN\ \QJUU KN 
+NaNVY] O[XV ]QN [NZ^R[NVNW] ]X Y[X_RMN V^U]ROJVRUb M`NUURWP\ JKX_N ]QN OR[\] OUXX[( 
+9( 7^UT [NZ^R[NVNW]\( FQN K^UT [NZ^R[NVNW]\ OX[ ]QN 9X`W]X`W B_N[UJb IXWN 9R\][RL] \QJUU KN 
+]QX\N J\ \N] OX[]Q RW ]QN ?RVR]RWP ELQNM^UN `QRLQ R\ QN[NKb JMXY]NM JWM VJMN J YJ[] XO ]QR\ 
+'% 3?DKHI"J 6HK@/ 8@@ 1C% .-# 0AAHI?<=E@ 4HLJDGB% 
+7X[X^PQ XO 9^VXW]& A>
+9X`WUXJMNM O[XV Q]]Y\4))NLXMN-0*(LXV)9G*222 XW ,*,/'*/',3
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 32 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 33 =====
+LQJY]N[(( 
+:( 
+7^OON[ \][RY\( FQN OXUUX`RWP K^OON[ \][RY [NZ^R[NVNW]\ \QJUU JYYUb ]X JWb ^\N RW ]QN 9X`W]X`W 
+B_N[UJb IXWN 9R\][RL] `QRLQ JMSXRW\ X[ R\ JMSJLNW] ]X J \RWPUN'OJVRUb [N\RMNW]RJU ^\N X[ JWb 
+UJWM ]QJ] R\ cXWNM OX[ \RWPUN'OJVRUb [N\RMNW]RJU ^\N4 
+$+% FQN ^\N \QJUU KN \L[NNWNM JUXWP ]QX\N YX[]RXW\ XO ]QN Y[XYN[]b ]QJ] J[N JMSJLNW] ]X X[ 
+JMSXRW J \RWPUN'OJVRUb [N\RMNW]RJU ^\N X[ cXWN Kb J ONWLN X[ ONWLN `JUU XO WX] UN\\ ]QJW 
+OR_N ONN] RW QNRPQ] X[ `R]Q J OX^['OXX] YUJW]RWP \][RY LXW\R\]RWP XO \Q[^K\ X[ ][NN\ `QRLQ 
+J[N J] UNJ\] OX^[ ONN] QRPQ J] ]QN ]RVN XO YUJW]RWP( 
+$,% E^LQ \L[NNWRWP \QJUU Na]NWM ]X ]QN VRWRV^V \N]KJLT URWN OX[ ]QN \^[[X^WMRWP Y[XYN[]b( 
+;( 
+8XW\][^L]RXW XO K^RUMRWP\ RW ]QN 9X`W]X`W B_N[UJb IXWN( 
+8XW\][^L]RXW XO K^RUMRWP\ RW ]QN 9X`W]X`W B_N[UJb IXWN 9R\][RL] \QJUU KN LXW\R\]NW] `R]Q 
+]QN [NZ^R[NVNW]\ OX[ LXW\][^L]RXW XO K^RUMRWP\ RW ]QN 7, IXWN& J\ \N] OX[]Q J] d .//'3<( 
+(% 3?DKHI"J 6HK@/ 8@@ P *++$)+# 5DFDKDGB 8>C@?LE@% 
+7X[X^PQ XO 9^VXW]& A>
+d .//',+(,
+d .//',+(,
+9X`WUXJMNM O[XV Q]]Y\4))NLXMN-0*(LXV)9G*222 XW ,*,/'*/',3
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 33 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 34 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+27 
+Appendix C – Municipal Set-Aside Ordinance 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 34 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 35 =====
+Q *++$('%'% 0CCJLA>?GB EJOMFID HOGNFC>HFGP MBN >MFABM% <0AABA )$,$(&'- ?P 6LA% 5J% '+)*= 
+7) DMZQLMU[QIS LM]MSVWTMU[ ZM[(IZQLM YMX\QYMTMU[Z) 
+%,& ;_KMW[ IZ V[PMY^QZM YMO\SI[ML QU [PQZ KPIW[MY' IU` T\S[QNITQS` YMZQLMU[QIS LM]MSVWTMU[ 
+[PI[ QZ IWWYV]ML [V WYV]QLM LMUZQ[QMZ I[ VY IJV]M ZQ_ \UQ[Z WMY IKYM IZ I YMZ\S[ VN IU` 
+IK[QVU VN [PM :\TVU[ >VQU[ ?IUL GZM 8VIYL ZPISS JM YMX\QYML [V ZM[ IZQLM I TQUQT\T 
+WMYKMU[IOM VN \UQ[Z NVY INNVYLIJSM PV\ZQUO) HPMYM \UQ[Z ^QSS JM NVY W\YKPIZM' [PM 
+TQUQT\T ZM[ IZQLM ZPISS JM -+#) HPMYM \UQ[Z ^QSS JM NVY YMU[' [PM TQUQT\T ZM[ IZQLM 
+ZPISS JM ,0#) 
+%-& HPMYM [PM ZM[(IZQLM YMX\QYMTMU[ QU E\JZMK[QVU 7%,& IJV]M YMZ\S[Z QU I NYIK[QVUIS \UQ[' 
+[PM [V[IS ZM[(IZQLM YMX\QYMTMU[ ZPISS JM YV\ULML \W^IYLZ [V [PM UM_[ ^PVSM U\TJMY) 
+%.& =YYMZWMK[Q]M VN [PM YMX\QYMTMU[Z QU E\JZMK[QVU 7%,& IUL %-& IJV]M' [PM 8VYV\OP ZPISS 
+UV[ JM \ULMY IU` VJSQOI[QVU [V OYIU[ ]IYQIUKMZ VY M_[YIVYLQUIY` IWWYV]ISZ NVY IU` Z\KP 
+KVUZ[Y\K[QVU IUL LM]MSVWTMU[ IWWSQKI[QVUZ ^QSS JM YMX\QYML [V V[PMY^QZM KVUNVYT [V [PM 
+8VYV\OP$Z aVUQUO YMX\QYMTMU[Z) 
+8) 
+7NNVYLIJSM PV\ZQUO KVTWSQIUKM TMKPIUQZTZ) 
+%,& 7U` LM]MSVWMY ^Q[P IU INNVYLIJSM PV\ZQUO ZM[(IZQLM YMX\QYMTMU[ W\YZ\IU[ [V E\JZMK[QVU 
+7%,& IJV]M ZPISS JM WMYTQ[[ML [V ZI[QZN` ZIQL YMX\QYMTMU[ [PYV\OP IU` VN [PM NVSSV^QUO 
+TMKPIUQZTZ' VY I KVTJQUI[QVU [PMYMVN' WYV]QLML [PI[ IL]IUKML ^YQ[[MU WMYTQZZQVU QZ 
+VJ[IQUML NYVT [PM 8VYV\OP VN :\TVU[5 
+%I& BU(ZQ[M PV\ZQUO WYVL\K[QVU6 
+%J& BNN(ZQ[M PV\ZQUO WYVL\K[QVU QU [PM 8VYV\OP6 
+%K& FPM W\YKPIZM VN IU M_QZ[QUO TIYRM[(YI[M L^MSSQUO I[ IUV[PMY SVKI[QVU QU [PM 
+8VYV\OP IUL KVU]MYZQVU [PMYMVN [V IU INNVYLIJSM LMML(YMZ[YQK[ML L^MSSQUO QU 
+IKKVYLIUKM ^Q[P [PM IWWSQKIJSM AM^ >MYZM` 9V\UKQS VU 7NNVYLIJSM <V\ZQUO 
+%9B7<& YMO\SI[QVUZ' IZ TI` JM ITMULML NYVT [QTM [V [QTM6 
+%L& CIY[QKQWI[QVU QU O\[ YMPIJQSQ[I[QVU IUL*VY J\`(LV^U*^YQ[M(LV^U IUL*VY J\`(LV^U*
+YMU[(LV^U WYVOYITZ6 
+%M& CI`TMU[ QU SQM\ VN WYV]QLQUO INNVYLIJSM PV\ZQUO6 IUL 
+%N& 7U` V[PMY KVTWSQIUKM TMKPIUQZT WMYTQ[[ML \ULMY [PM IWWSQKIJSM 9B7< 
+YMO\SI[QVUZ' IZ TI` JM ITMULML NYVT [QTM [V [QTM) 
+%-& EI[QZNIK[QVU VN [PM INNVYLIJSM PV\ZQUO KVTWSQIUKM TMKPIUQZT%Z& ZV WMYTQ[[ML ZPISS JM 
+IU I\[VTI[QK KVULQ[QVU VN ISS IWWYV]ISZ) EIQL KVULQ[QVU ZPISS JM ZI[QZNQML QU IKKVYLIUKM 
+^Q[P 9B7<$Z WPIZQUO YMX\QYMTMU[Z W\YZ\IU[ [V A)>)7)9) 054.(0)1%L&) 
+9) 
+7WWSQKIJSM Y\SMZ6 [MU\YM6 ILTQUQZ[YI[QVU) 
+%,& 7SS INNVYLIJSM \UQ[Z [V JM WYVL\KML W\YZ\IU[ [V E\JZMK[QVUZ 7 IUL 8 IJV]M ZPISS Z[YQK[S` 
+KVTWS` ^Q[P [PM 7NNVYLIJSM <V\ZQUO 9PIW[MY VN [PM 8VYV\OP 9VLM
+' IUL [PM IWWSQKIJSM 
+9B7< YMO\SI[QVUZ' IZ TI` JM ITMULML NYVT [QTM [V [QTM) 
+8VYV\OP VN :\TVU[' A>
+:V^USVILML NYVT P[[WZ5**MKVLM.1+)KVT*:G+333 VU -+-0(+0(-4
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 35 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 36 =====
+%-& FPM INNVYLIJSM \UQ[Z [V JM WYVL\KML ZPISS MQ[PMY JM W\YKPIZM VY YMU[IS \UQ[Z' ^PQKP ZPISS 
+JM I[ [PM LQZKYM[QVU VN [PM LM]MSVWMY) 
+%.& =[ ZPISS JM [PM LM]MSVWMY$Z YMZWVUZQJQSQ[`' I[ Q[Z KVZ[ IUL M_WMUZM' [V IYYIUOM NVY IU 
+ILTQUQZ[MYQUO IOMUK` [PI[ TI` MQ[PMY JM [PM 8VYV\OP VN :\TVU[ @\UQKQWIS <V\ZQUO 
+?QIQZVU' VY ZVTM V[PMY MU[Q[` IWWYV]ML J` 9B7< IUL [PM 8VYV\OP' [V MUZ\YM N\SS 
+KVTWSQIUKM ^Q[P [PMZM Y\SMZ IUL Z\KP KMY[QNQKI[QVUZ' YMWVY[Z IUL*VY TVUQ[VYQUO NVYTZ IZ 
+TI` JM YMX\QYML [V ]MYQN` KVTWSQIUKM VN MIKP INNVYLIJSM \UQ[) 
+:) CI`TMU[Z QU SQM\ VN KVUZ[Y\K[QVU) 
+%,& FPM ITV\U[ VN WI`TMU[Z QU SQM\ VN KVUZ[Y\K[QUO INNVYLIJSM \UQ[Z VU ZQ[M ZPISS JM JIZML 
+VU [PM KVZ[ VN KVUZ[Y\K[QUO MIKP UM^ YMZQLMU[QIS \UQ[' SMZZ WYVKMMLZ IU[QKQWI[ML NYVT [PM 
+ZISM VN [PM \UQ[ VY [PM KIWQ[ISQaI[QVU VN YMU[IS QUKVTM NYVT [PM \UQ[) FPM KVZ[ VN 
+KVUZ[Y\K[QUO UM^ YMZQLMU[QIS \UQ[Z QUKS\LMZ [PM Z\T VN LM]MSVWTMU[ PIYL KVZ[Z' YMSI[ML 
+ZVN[ KVZ[Z IUL LM]MSVWMY$Z NMMZ W\YZ\IU[ [V [PM KVZ[ KVU[IQUTMU[ WYV]QZQVUZ VN A)>)7)9) 
+05/.(-)/%I&, [PYV\OP 1' IUL SIUL KVZ[Z MX\IS [V -0# VN [PM NQYZ[ X\IY[QSM VN UM^ 
+KVUZ[Y\K[QVU KVZ[Z IZ YMWVY[ML [V [PM <VTMV^UMY HIYYIU[` CYVOYIT) 
+%-& ;_ITWSM5 
+'MN 8O>LNFGB 
+4>IA 1JMNM 
+1JIMNLO@N$ 
+FJI 1JMNM 
+;JN>G 1JMN 
+0CCJLA>?GB 
+7LF@B 
+9BKOFLBA 
+7>PHBIN FI 
+4FBO 
+0HJOIN 
+"-00'+++ 
+"1.'20+ 
+",1.'-+1 
+"-//'/4, 
+"40'3+3 
+",/3'13. 
+'% 2AFNJL"M 5JNB/ :BB 1E% .-# 0CCJLA>?GB 3JOMFID% 
+8VYV\OP VN :\TVU[' A>
+b /00(-,),
+b /00(-,),
+:V^USVILML NYVT P[[WZ5**MKVLM.1+)KVT*:G+333 VU -+-0(+0(-4
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 36 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 37 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+28 
+Appendix D – Resolution declaring 2 W. Madison an Area 
+in Need of Redevelopment 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 37 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 38 =====
+|
+BER-L-000349-25
+06/12/2025 4:29:57 PM
+Pg 38 of 46
+Trans ID: LCV20251747704
+QUMONr ,
+A
+Sara
+i
+NO
+On
+By
+y=
+2025
+BOROUGH OF DUMONT
+RESOLUTION
+[rweawens
+[ave [nav [usta
+[ansenr | ResounionNo S70
+MEMBERS
+AYE
+NAY
+ABSTAIN
+ABSENT
+favove
+|ZT te
+January 7, 2025
+Ca
+2
+ee
+ee
+1of3
+mma
+og
+Aefs
+Femmes TZ Pf SiN
+Blo 905 Lot
+2
+[em
+TZ TT
+Non-Condemnation Area in
+Fwvormsan |
+| [|
+_Need of
+Redevelopment
+Offered by:
+U YQ | A
+Prepared By:
+Jeanine E. Siek, RMC
+Seconded by: _
+|C2
+|
+( \
+Certified as a true copy of a Resolution adopted by the Borough ofDumont on above date at a
+Regular Meeting by:
+:
+)
+) )
+5
+Jeanin¢g
+Siek, RMC, Municipal Clerk/Borough Administrator
+Borough of Dumont, Bergen County, New Jerse
+A RESOLUTION OF THE BOROUGH OF DUMONT, IN THE COUNTY OF BERGEN, NEW
+JERSEY DESIGNATING THE PROPERTY IDENTIFIED ON THE BOROUGH’S TAX
+RECORDS AS BLOCK 905, LOT 12 AS
+A NON-CONDEMNATION AREA IN NEED OF
+REDEVELOPMENT
+WHEREAS, the Local Redevelopment and Housing Law, N.J.S.A. 40A:12A-1 ef seq., as
+amended and supplemented (the “Redevelopment Law”), authorizes municipalities to determine
+whether certain parcels of land located therein constitute an area in need of redevelopment; and
+WHEREAS, on August 21, 2024, the Borough Council (the "Council") of the Borough of
+Dumont (the “Borough”) adopted Resolution 238 authorizing and directing the Joint Land Use Board
+of the Borough (the "JLU Board") to undertake an investigation to determine whether property
+located at the corner of Madison and Washington and identified as Block 905, Lot 12, as shown on
+
+===== PAGE 39 =====
+BER-L-000349-25
+06/12/2025 4:29:57 PM
+Pg 39 0f 46
+Trans ID: LCV20251747704
+the official Tax Maps of the Borough (the "Study Area"), or any portions thereof, qualify as a non-
+condemnation redevelopment area; and
+WHEREAS, at the direction of the JLU Board, Acuity Consulting Services, prepared a
+preliminary investigation to evaluate the Study Area to determine whether the designation ofthe Study
+Area, or any portions thereof, as a non-condemnation redevelopment area met any of the statutory
+criteria contained in N.J.S.A. 40A:12A-5; and
+WHEREAS, Acuity Consulting Services prepared
+a map showing the boundaries of the Study
+Area and a preliminary investigation of the Study Area entitled "2 West Madison Area in Need of
+Redevelopment Study" dated November 13, 2024 (the "Study Area Report"), which were placed on file
+with the JLU Board and the Borough Clerk at least ten days in advance ofthe public hearing conducted by
+the JLU Board to consider the redevelopment designation; and
+WHEREAS, the Redevelopment Law requires the JLU Board to conduct a public hearing
+prior to a determination whether the Study Area should be designated as a non-condemnation area in
+need of redevelopment, at which hearing the JLU Board shall hear all persons who are interested in or
+would be affected by a determination that the property is an area in need of redevelopment; and
+WHEREAS, timely notices of the public hearing to be held by the JLU Board on November 26,
+2024 were published on November 8, 2024 and November 15, 2024 and sent, by certified mail, return receipt
+requested, to the owner ofthe property in the Study Area as required by N.J,S.A, 40A:12A-6; and
+WHEREAS, on November 26, 2024, the JLU Board held a public hearing at Borough Hall on the
+proposed designation ofthe Study Area as an area in need ofredevelopment; and
+WHEREAS, after the conclusion of the public hearing described above, the JLU Board
+adopted a resolution accepting the recommendation contained in the Report that the Study Area be
+declared a non-condemnation area in need of redevelopment, in accordance with the Redevelopment
+Law, and for the reasons set forth in the Report and forwarded such recommendation to the Borough;
+and
+WHEREAS, the Borough Council agrees with the conclusion of the JLU Board that the Study
+Area satisfies the criterion for redevelopment area designation set forth in the Redevelopment Law
+and finds that such conclusion is supported by substantial evidence; and
+WHEREAS, the Borough Council now desires to designate the Study Area as a non-
+condemnation area in need of redevelopment pursuant to N./.S.A. 40A:12A-6.
+NOW, THEREFORE, BE IT RESOLVED by the Borough Council of the Borough of
+Dumont, New Jersey:
+Section 1. The aforementioned recitals are incorporated herein as though fully set forth at
+length.
+Section 2.
+The recommendations and conclusions of the JLU Board are hereby accepted by
+the Borough Council.
+
+===== PAGE 40 =====
+BER-L-000349-25
+06/12/2025 4:29:57 PM
+Pg 40 of 46
+Trans ID: LCV20251747704
+Section 3. Based upon the findings and recommendations of the JLU Board, the Study Area
+is hereby designated
+as a “Non-Condemnation Redevelopment Area” as referenced
+in
+the
+Redevelopment Law. The designation of the Study Area as a “Non-Condemnation Redevelopment
+Area” shall authorize the Borough to exercise all powers under the Redevelopment Law except the
+power of eminent domain.
+Section 4.
+In accordance with the Redevelopment Law, the Borough Council hereby directs
+the Borough Clerk to transmit a certified copy of this resolution forthwith to the Commissioner of the
+Department ofCommunity Affairs and to all record owners and person(s) who filed a written objection
+with respect to the herein designation.
+Section 5.
+If any part of this resolution shall be deemed invalid, such parts shall be severed
+and the invalidity thereby shall not affect the remaining parts of this resolution.
+Section 6. A copy of this resolution shall be available for public inspection at the offices of
+the Borough Clerk.
+Section 7.
+This resolution shall take effect immediately.
+By my signature below, I, Jeanine E. Siek, RMC, do hereby certify that this is a true copy of a
+Resolution adopted by the Borough of Dumont Borough Council at a regular meeting of the Mayor
+and Council conducted on the 7" day of January 2025.
+ahine E. Siek, RMC
+|
+inicipal Clerk/Borough Administrator
+
+===== PAGE 41 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+29 
+Appendix E – 219 Washington Proposed Concept Plan 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 41 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 42 =====
+PROJECT
+NORTH
+0
+4'
+12'
+24'
+1/8" = 1'-0"
+This drawing is the property of Virgona & Virgona
+Architects.  Any unauthorized use or reproduction
+of this drawing without the written consent of the
+Architect will be prosecuted to the fullest extent
+allowed under all applicable copyright laws.
+New Multifamily
+Development
+Lot 22   Block 908
+Dumont, New Jersey
+Fermano Builders LLC
+219 Washington Avenue
+A-1
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 42 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 43 =====
+Dumont Borough 4th Round Housing Plan Element and Fair Share Plan
+30 
+Appendix F– Other Compliance Documents 
+Additional items to be provided 
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 43 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 44 =====
+BLOCK
+LOT
+ADDRESS
+TAX CLASS
+OWNER ADDRESS
+OWNER ADDRESS
+LOT
+DESCRIPTION
+TAX ASSESSOR NOTES
+Acres (Tax Record)
+Acres (GIS)
+Constraint
+Unconstrained Acres
+724
+25
+CONCORD ST
+15C
+50 WASHINGTON AVE
+DUMONT NJ
+2AC
+VACANT LAND
+2
+2.0832
+Irregular shape, stream, special flood
+hazard area, portions of the site are
+inaccessible, and site does not have
+proper street frontage access. The
+constraints combine to render the
+property fully constrained.
+0
+101
+1
+PROSPECT AVE
+1
+HAWORTH DR.
+HAWORTH, N.J.
+1.033 AC
+1.033
+1.2216
+0 Development Yield. Part of Block 102,Lot
+2 (Tax Coded 4A) which is an active golf
+course.
+0
+806
+2
+DIXON AVE
+15C
+50 WASHINGTON AVE
+DUMONT N J
+320X120
+VACANT LAND
+0.8815
+0.8781
+Property faces unimproved Dixon
+Avenue and is Borough owned open
+space..
+0
+512
+20
+333 WASHINGTON AVE
+1
+397 COMMERCIAL AVE
+PALISADES PARK, NJ
+100X118
+0.2709
+0.2908
+Under 0.83 Acres in Size
+0
+1109
+21
+FIRST STREET
+15C
+50 WASHINGTON AVE
+DUMONT N J
+102X108
+VACANT LAND
+0.2529
+0.2640
+Under 0.83 Acres in Size
+0
+310
+15
+179 LENOX AVE
+15C
+50 WASHINGTON AVE
+DUMONT N J
+98X100
+VACANT LAND
+0.225
+0.2111
+Under 0.83 Acres in Size
+0
+1220
+7
+SUNNYSIDE AVE
+15C
+50 WASHINGTON AVE
+DUMONT N J
+80X105
+VACANT LAND
+0.1928
+0.1860
+Under 0.83 Acres in Size
+0
+708
+11
+LAFAYETTE STREET
+15C
+50 WASHINGTON AVE
+DUMONT NJ
+50X140
+VACANT LAND
+0.1607
+0.1440
+Under 0.83 Acres in Size
+0
+201
+6
+WAREHAM ROAD
+15C
+50 WASHINGTON AVE
+DUMONT N J
+200X33
+VACANT LAND
+0.1515
+0.1570
+Under 0.83 Acres in Size
+0
+1109
+3
+WEST MADISON AVE
+15C
+50WASHINGTON AVE
+DUMONT N J
+60X104
+VACANT LAND
+0.1433
+0.1367
+Under 0.83 Acres in Size
+0
+309
+17
+180 LENOX AVE
+1
+82 APPLEGATE ROAD
+FREEHOLD, NJ
+49X125
+0.1406
+0.1287
+Under 0.83 Acres in Size
+0
+1105
+22
+ALADDIN AVE
+15C
+50 WASHINGTON AVE
+DUMONT NJ
+39X150
+VACANT LAND
+0.1343
+0.1501
+Under 0.83 Acres in Size
+0
+310
+19
+LEXINGTON AVENUE
+1
+162 LEXINGTON AVENUE
+DUMONT, NJ
+50X100
+0.1148
+0.1200
+Under 0.83 Acres in Size
+0
+310
+2
+RUCERETO
+1
+73 RUCERETO AVE.
+DUMONT NJ
+50X100
+0.1148
+0.1111
+Under 0.83 Acres in Size
+0
+918
+1
+275 DEPEW ST
+1
+275 DEPEW ST
+DUMONT NJ
+50X100
+0.1148
+0.1213
+Under 0.83 Acres in Size
+0
+716
+5
+77 SENECA
+1
+77 SENECA AVE
+DUMONT, NJ
+40X122
+0.112
+0.0991
+Under 0.83 Acres in Size
+0
+1216
+5
+E MADISON
+1
+33 E.MADISON AVE.
+DUMONT,NJ
+50X97
+0.1113
+0.1117
+Under 0.83 Acres in Size
+0
+824
+10
+VETERANS PLAZA
+15C
+150 WASHINGTON AVE
+DUMONT, NJ
+40X118
+VACANT LAND
+0.1084
+0.1110
+Under 0.83 Acres in Size
+0
+1217
+3
+15 DUMONT AVE
+1
+11 DUMONT AVENUE
+DUMONT, NJ
+50X85
+0.0976
+0.0971
+Under 0.83 Acres in Size
+0
+1220
+11
+SUNNYSIDE
+1
+63 SUNNYSIDE AVENUE
+DUMONT, NJ
+40X105
+0.0964
+0.0944
+Under 0.83 Acres in Size
+0
+1109
+1
+W MADISON AVE
+15C
+50 WASHINGTON AVE
+DUMONT NJ
+40X100
+VACANT LAND
+0.0918
+0.0921
+Under 0.83 Acres in Size
+0
+1320
+15
+130 MAPLE STREET
+1
+130 MAPLE STREET
+DUMONT NJ
+40X100
+0.0918
+0.0921
+Under 0.83 Acres in Size
+0
+906
+7
+EAST LINDEN AVE
+15C
+50 WASHINGTON AVE
+DUMONT N J
+33X114
+VACANT LAND
+0.0864
+0.0886
+Under 0.83 Acres in Size
+0
+416
+28
+35 BEDFORD ROAD
+1
+92 MOLEHULENA LOOP
+KAHULUI,HAWAII
+100X37
+0.0849
+0.1111
+Under 0.83 Acres in Size
+0
+1302
+12
+34 MAGNOLIA AVE
+15C
+50 WASHINGTON AVE
+DUMONT,NJ
+25X100
+VACANT LAND
+0.0574
+0.0564
+Under 0.83 Acres in Size
+0
+1308
+2
+E MADISON AVE
+15C
+50 WASHINGTON AVE
+DUMONT NJ
+25X100
+VACANT LAND
+0.0574
+0.0535
+Under 0.83 Acres in Size
+0
+1309
+3
+DUMONT AVE
+15C
+50 WASHINGTON AVE
+DUMONT N J
+25X100
+VACANT LAND
+0.0574
+0.0555
+Under 0.83 Acres in Size
+0
+605
+3
+LEXINGTON
+1
+89 LEXINGTON AVENUE
+DUMONT, N. J.
+25X100
+0.0574
+0.0584
+Under 0.83 Acres in Size
+0
+807
+14
+ROOS/MCKIN.AVE
+15C
+50 WASHINGTON AVE
+DUMONT, N.J.
+10X240
+VACANT LAND
+0.0551
+0.1029
+Under 0.83 Acres in Size
+0
+604
+24
+E LINDEN AVE
+15C
+50 WASHINGTON AVE
+DUMONT NJ
+25X87
+VACANT LAND
+0.0499
+0.0559
+Under 0.83 Acres in Size
+0
+1005
+42
+HOWARD STREET
+1
+127 SO. WASHINGTON AVE.
+BERGENFIELD, NJ
+21X100
+0.0482
+0.1090
+Under 0.83 Acres in Size
+0
+1005
+39.01
+224 E. MADISON AVE.
+1
+224 E. MADISON AVE.
+DUMONT, N.J.
+10 X 170
+0.039
+0.0501
+Under 0.83 Acres in Size
+0
+208
+19
+121 STRATFORD ROAD
+15C
+50 WASHINGTON AVE
+DUMONT, N.J.
+1600 SF
+VACANT LAND
+0.0367
+0.0309
+Under 0.83 Acres in Size
+0
+603
+13
+RANDOLPH/GRANT AVES.
+15C
+50 WASHINGTON AVE
+DUMONT, N.J.
+10X160
+VACANT LAND
+0.0367
+0.0325
+Under 0.83 Acres in Size
+0
+812
+10
+CATAWBA STREET
+15C
+50 WASHINGTON AVE
+DUMONT N J
+20X75
+VACANT LAND
+0.0344
+0.0305
+Under 0.83 Acres in Size
+0
+516
+19
+E LINDEN AVE
+15C
+50 WASHINGTON AVE
+DUMONT NJ
+15X97
+VACANT LAND
+0.0334
+0.0303
+Under 0.83 Acres in Size
+0
+516
+10
+RANDOLPH AVE
+15C
+50 WASHINGTON AVE
+DUMONT, NJ
+9X92
+VACANT LAND
+0.019
+0.0235
+Under 0.83 Acres in Size
+0
+DUMONT VACANT LAND ADJUSTMENT ANALYSIS
+                                                                                                                                                                                              
+BER-L-000349-25   06/12/2025 4:29:57 PM   Pg 44 of 46   Trans ID: LCV20251747704 
+
+===== PAGE 45 =====
+BER-L-000349-25
+06/12/2025 4:29:57 PM
+Pg 45of46
+Trans ID: LCV20251747704
+er
+a3
+of
+a) oe
+P
+Ba
+Boa =
+E
+Re trl be
+ee ae a
+ar S|
+i
+1
+SN
+sQas
+So
+EL
+aD
+a
+Tntbertry= =
+St
+Merritt
+Ave
+=~
+=
+lds
+tae
+a3nuR lS uooeeg = anata
+=jese
+ate
+rT
+AL
+T
+pe
+ISnujsays | be =
+ins
+AL
+TT
+eee
+1
+-
+LU
+—f
+tot
+=B
+~
+=
+‘
+7
+Tena
+wits 8ZeH}
+——=
+err
+3
+:
+= a
+|
+4
+Seeg
+a
+cesi=
+eae
+m
+pyre
+*=* PershingSt +=
+rife
+Na
+Thee
+rE
+et ec
+he
+.
+-
+ta
+oer
+JD NON] =| Ue
+a
+= wpe
+Sif
+= “Howard
+Str
+sir =F FUR et os
+te
+=e
+Se
+ied Tit- A a
+ee el
+be
+Sh
+etd
+te
+-"
+?
+bd
+AES
+ES
+oS
+StS
+LEE CH
+ee
+4
+=
+i
+S
+file syaeens
+Ny: 7 OF
+ce:
+ict
+=
+£
+=
+As Se
+erry y
+}
+=|
+awn CIPS ei
+=
+==
+'
+:
+2
+b <9
+|
+eer Soe
+:
+Nolet
+ee
+is
+:
+a
+ee
+Ppa et|
+PCE
+ey
+Geers
+ja
+eS bt
+SeeGe
+ita
+Saaa5
+=
+= Medford Ra
+Fae
+eet
+ro
+eas ee
+CE le
+ry
+a ey
+:
+[lame
+-
+5
+3,
+oy
+met Pee ee
+a he
+=e ey
+f
+i
+saane
+Ss
+a
+te
+a) aes
+ek
+cy
+I
+EUs
+EET
+-
+BT
+celMN To
+A
+Fe
+Vast
+2=[=(\lco
+‘
+‘
+“
+‘
+¥
+=
+ht
+-
+=o
+=
+wk’
+NOR
+co
+ETT
+=
+|
+AYeg
+=
+bee
+dl
+ioe AAA
+ee
+*
+S\Sie:s2"=|> -|Pine
+St
+r=
+i oo
+ee
+a i
+Seis He
+ere
+a
+Py
+aD ea 1a
+|
+=}=a
+|ealle i= SSSI
+She
+:
+Het Ts
+<4
+B..
+a
+|
+= Johnson Ave
+0
+Ea
+=> 1
+*2; Cole Ct
+2
+Bet
+aes
+aed ae i
+a
+es
+|
+=h>== 2a
+;
+elmer -4
+SMO =
+tse
+ine
+fe
+see
+staat
+ot
+ats
+SpE
+Sh: sgl
+Dy
+a)
+ae
+7
+eo,
+==
+=i
+ib}
+.
+~
+Py
+1S
+.
+=
+-
+~
+=
+:
+=
+:
+UL
+3
+“
+ry
+7
+Fo
+~
+=
+a
+es
+Fy
+a
+Hy:
+|
+1,
+cee
+=|59
+~
+-
+g
+2g
+A
+5
+2.
+s8
+5
+—&
+fea
+et
+Ned
+orn es
+a
+bl
+o
+a>
+bed
+=a
+Se
+er
+|
+L
+\
+ee
+|
+|
+=
+s vot
+no
+zZ
+=
+:
+<
+2
+Sh Co:
+F
+s oe
+ '&
+8S
+&
+eo:
+maha
+OE
+= }==Dance Blvd
+«
+a20own ©
+3
+—:
+iL
+|
+Wo
+r
+}
+=<;
+FPeaeEeN
+a.
+cae
+|
+ir
+;
+<a
+es x28
+se
+&
+\&
+SF Oey ganas
+EP PE AS ae
+ad
+Sa
+OS far
+.
+g2
+2a
+as
+ty
+:
+il
+|
+Le
+£
+6
+oF
+8G
+SSeS
+eee
+e
+8
+8H
+O
+6
+82
+of
+a
+ze
+za
+
+===== PAGE 46 =====
+BER-L-000349-25
+06/12/2025 4:29:57 PM
+Pg 46 of 46
+Trans ID: LCV20251747704
+7
+CTR
+ie
+=) :
+SS ne
+z
+FEC Hie eS Sons Cera
+SEREREeS erePE se
+FECEECEE operee
+A eeerr
+==
+=
+fas AES=e Co TO
+Sl)
+A
+=|
+EnCorres eSSom
+Sell erritt Ave oor CEE EB
+EEEEr
+Et
+ETH
+beerFa wo
+coro)
+LIT
+Lion
+=BANTOUOVOANOVENOND
+Ul
+cA
+Cn eS
+eye
+==
+PRETn ep
+Coo
+SEE
+———
+EeA
+Con 7
+Ase
+Me DIL Epes
+Chere eS
+=p
+LT pas
+LCC
+Co
+ooo
+=
+Er 7
+Charles:St:
+BI
+== Contre
+CLEWee
+eh
+=
+Ce eo
+TTY
+The
+=|
+LO] frase ALLO
+COIETTErrr}
+Wenenie
+Pershing: Sts
+iE
+UCETT
+\N
+=e
+Pee =Weeal Eat
+a
+===)—
+»De
+His
+Eo
+Pe feCHoo
+&
+°
+God
+rH
+=P ioward St
+ES
+fini =
+i
+me eelee|eleel==|=<|e=
+=
+TS =o
+ee
+Bees
+Fee EH
+nas
+Coot
+SA
+ER
+Eben fio
+emacd
+oi
+Aoor
+me
+(A
+(Tit eAriO
+om
+asco a
+ICTS CSS
+JENS,
+os
+Pea
+|
+Eee
+celeslees|
+=
+COTS
+SJ=nl== qe ES
+Ere
+EHS FS Eee
+Sauir
+© usnununumncd==-e=|\U7cleel==|e"\gulee
+Phi ein Sel
+AEEREREREREE\S\S====(=)).0li=
+HSE
+otro 0 ES
++
+tt
+I
+mage
+EH
+Cigpriine
+(py Seeeee 03
+FAeS
+zlee\==l==
+FA ee ANEEERESCa
+Ey Aa =
+Bees
+eaie
+DULCE AY
+SteS
+SS
+FY
+Wi 1
+Be
+oo Sees
+FSooo
+[| RNG =
+U 8
+Th
+=
+=iro==15
+DFeeros ELLATTR
+SO
+=i
+Sas la
+RetPp
+KD
+==
+=—=Seal—
+Saas
+og
+FeAre
+iV
+PRS |
+nee
+2taaey,, a
+SO
+AG
+eS
+Bea Ty SeIT Se
+SCT
+ca
+Fac
+CaOA
+ar
+Sten
+FaccH
+a ceo LOTT
+Cui
+Feinun
+ee eee
+==
+Pann
+=e
+el==|zzleele=leclen=
+7
+=
+tr Ee ea
+ine
+Ste
+-[==
+Bros
+= [ee |=-2o= alae (<2
+el=—[=_|—|-=
+sled
+Ere)
+eSSS ee
+EB
+|
+=
+LANL
+Cie ee
+eee
+HES
+ES SS ee
+L77
+BoASSSa
+BES
+Fe Be Be
+ST Foe
+BS See Ee
+=
+i= =
+1]
+CIA
+RS ES eS ES EMIT
+=Johinson'Ave
+Sponllnal
+Naianscts Eee] | EE Belze ES eae Sceegpee (ail CLS Ta as=
+cae
+[TTT
+HES
+Ero A S| A ESS
+BS eS SS BS SS ES
+ESAT
+in
+DHS
+8
+ia
+EES
+PaaS ES 6S 6S eS
+Bee
+ye SSS oe ere be eS Ce SSSe a
+elssle
+=== (ent=
+araoeee
+ny
+CUT ese
+ESS
+a
+ile ==
+SU
+REaEEEEREMSBLARSRTRMRNRTITTUTITTITIRN=(=T=e
+CO tind fir)
+ae
+.
+Swi
+Bg
+eee:
+o
+cS >
+\ee4en
+=
+i
+Ss §
+CREE
+Ze
+¢
+& 8
+==seD,
+=
+iS
+2
+-
+5
+E+ Ca
+=i
+5 3
+,
+82
+Oa
+ESS It
+See SH
+>
+YS
+Fee
+283
+ESQET) Se4gmm
+et
+ra
+-
+oO
+o
+GO
+—
+a ee[|
+— 23
+age
+o=
+NTT
+Seance Biva
+Q
+aoe
+©2560
+o a
+Ly
+DCH cos es oo
+=
+SEs_&9
+23
+LOTT
+COO jas
+S
+gee o8te.
+5°
+BPRS goose
+«| 2
+TOE EBSL RECS
+FRA Eos coo A
+Co}eo =r Hin
+O}
+SoZ ES 2ESSE S
+Err earache pC
+|
+bear]
+2
+S Cs B8e8rzb ESS
+LOA
+eh
+ie a=b=
+.
+3
+£&
+a
+Om
+oO
+SUBRBUOBURE
+3
+7
+B

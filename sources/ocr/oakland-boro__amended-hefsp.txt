@@ -1,0 +1,1288 @@
+
+===== PAGE 1 =====
+ Master Plan Amendment 
+Amended Housing Plan Element and Fair Share Plan 
+Round 4 
+Borough of Oakland 
+Bergen County, New Jersey 
+Amendment Prepared: 
+March 2026 
+Prepared for: 
+Borough of Oakland Planning Board 
+Prepared by: 
+T&M Associates 
+11 Tindall Road 
+Middletown, NJ 07748 
+____________________________________________ 
+Caroline Z. Reiter, PP, AICP 
+NJ Professional Planner: 33LI00534300 
+________________________________ 
+Robert E. Dare, PP, AICP 
+NJ Professional Planner: 33LI00596400 
+Original Plan Adopted on June 23, 2025 by the Borough of Oakland Planning Board. 
+Original Plan Endorsed on June 23, 2025 by the Oakland Borough Council. 
+Amended Plan Adopted on March 12, 2026 by the Borough of Oakland Planning Board. 
+Amended Plan Endorsed on March 12, 2026 by the Oakland Borough Council. 
+The original of this document has been signed and sealed in accordance with Law. 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 1 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 2 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+Page ii 
+ 
+OAKLAND BOROUGH 
+ 
+ 
+Mayor and Council 
+Eric Kulmala, Mayor 
+Russell Talamini, Council President 
+Bill Eilert, Councilman 
+Carol Ann Rose, Councilwoman 
+Pat Pignatelli, Councilman 
+Steven Saliani, Councilman 
+ 
+ 
+Planning Board 
+Eric Kulmala, Class I Official/Designee 
+Lee Haymon, Class II Official 
+Russell Talamini, Class III Official 
+Andrea Levy, Class IV Official 
+Gregory Liss, Class IV Official 
+Tom Connolly, Class IV Official 
+Thomas Potash, Class IV Official 
+Joseph Marscovetra, Class IV Official 
+Edward Clark, Class IV Official 
+Andrew Gisonna, Alternate I 
+ 
+Kevin Boswell, Borough Engineer 
+Gregg Pastor, Planning Board Attorney 
+Caroline Reiter, T&M Associates, Borough Planner 
+ 
+Borough Officials 
+Richard Kunze, Borough Administrator 
+Wendi Seelin, Acting Borough Clerk 
+ 
+Kathy Gurney, Confidential Secretary 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 2 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 3 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+Page iii 
+ 
+Table of Contents 
+Affordable Housing in New Jersey ...................................................................................................... 1 
+Mandatory Contents of the Housing Element ................................................................................ 4 
+Analysis of Demographic, Housing, and Employment Characteristics ............................... 6 
+Population Characteristics ................................................................................................................ 6 
+Population Composition by Age ...................................................................................................... 8 
+Existing Housing Characteristics ...................................................................................................... 10 
+Type of Household ............................................................................................................................. 10 
+Household Size .................................................................................................................................... 11 
+Per Capita and Household Income .............................................................................................. 12 
+Family Income Distribution ........................................................................................................... 13 
+Housing Affordability ....................................................................................................................... 14 
+Housing Unit Data .............................................................................................................................. 15 
+Year Householder Moved into Unit ............................................................................................ 16 
+Housing Unit Information ............................................................................................................... 17 
+Housing Conditions ........................................................................................................................... 19 
+Housing Values .................................................................................................................................... 20 
+Contract Rents ..................................................................................................................................... 21 
+Employment Data ............................................................................................................................... 22 
+Residential Construction ................................................................................................................. 25 
+Population and Household Projection ...................................................................................... 26 
+Employment Projection ................................................................................................................... 27 
+Affordable Housing Obligation .......................................................................................................... 28 
+Prior Round & Round 3 Obligations ........................................................................................... 28 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 3 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 4 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+Page iv 
+ 
+Round 4 Present Need ...................................................................................................................... 31 
+Round 4 Prospective Need ............................................................................................................. 32 
+Availability of Existing and Planned Infrastructure ............................................................ 37 
+Consideration of Lands Appropriate for Affordable Housing ......................................... 38 
+Compliance with the Highlands ....................................................................................................... 38 
+Consistency with the State Development and Redevelopment Plan ........................... 39 
+Minimums & Maximums ................................................................................................................... 40 
+Multigenerational Housing Continuity ..................................................................................... 40 
+Conclusion ............................................................................................................................................. 41 
+Appendices ............................................................................................................................................ 42 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 4 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 5 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+ 
+Page 1 
+Housing Element 
+The Borough of Oakland, Bergen County, adopted and endorsed a Housing Element 
+and Fair Share Plan as an amendment to the municipal master plan in accordance 
+with the New Jersey Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.) and the New 
+Jersey Fair Housing Act 2 (N.J.S.A. 52:27D-301 et seq.) in June 2025. 
+The Municipal Land Use Law requires that a municipal master plan include a housing 
+element to enable the municipality to exercise the power to zone and regulate land 
+use. The housing element is adopted by the municipal planning board and endorsed 
+by the municipal governing body, and is drawn to achieve the goal of meeting the 
+municipal obligation to provide for a fair share of the regional need for affordable 
+housing. 
+The adopted June 2025 Housing Element and Fair Share Plan (HEFSP) amends the 
+Borough’s master plan to addresses affordable housing planning requirements for the 
+time period known as Round 4, which includes the decade between July 2025 and July 
+2035.  It addresses the Borough’s cumulative fair share obligation for the period from 
+1987 through 2035.  This amended Housing Element and Fair Share Plan will replace 
+the June 2025 adopted HEFSP.  
+Affordable Housing in New Jersey 
+The Mt. Laurel II doctrine requires that all municipalities provide a realistic 
+opportunity for their fair share of low and moderate income housing. The Oakland 
+Fair Share Plan is the Borough’s proposal for satisfying its share of the regional 
+affordable housing needs under applicable affordable housing regulations.  
+This Plan provides the Borough’s fair share obligation and details its strategies for 
+addressing its present, prior, and prospective housing needs. The New Jersey Fair 
+Housing Act established the New Jersey Council on Affordable Housing (COAH). COAH 
+was responsible for developing rules and regulations on affordable housing, as well 
+as approving municipalities’ submitted affordable housing plans. The COAH approval 
+process was known as Substantive Certification.  
+COAH adopted its first set of rules, known as ‘Round 1,’ for the period of 1987 through 
+1993. COAH ‘Round 2’ covered the 1993 to 1999 time period. These rounds are now 
+combined and collectively referred to as the ‘Prior Round,’ which covers the 1987 to 
+1999 time period. 
+COAH adopted its first Round 3 rules in 2005. The Round 3 rules included a new 
+methodology for calculating affordable housing, known as Growth Share. These rules 
+were challenged, and the Appellate Division invalidated the Round 3 rules in 2007.  
+COAH then adopted its second set of Round 3 rules in 2008; these rules also used the 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 5 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 6 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+ 
+Page 2 
+Growth Share methodology and were found invalid by the Appellate Division in 2010. 
+COAH was directed to prepare new rules that used the Prior Round methodologies of 
+establishing the statewide and regional affordable housing obligation and assigning 
+municipalities their fair share of the regional affordable housing obligations. 
+COAH prepared new rules in 2014, but failed to adopt them. In response, a motion 
+was filed with the New Jersey Supreme Court to enforce litigant’s rights in response 
+to COAH’s lack of action. On March 10, 2015 the Supreme Court issued its decision to 
+enforce litigant’s rights and established a procedure for municipalities to transition 
+their COAH applications to the Courts. 
+The Supreme Court established a new procedure that requires participating towns, 
+such as Oakland, to submit a Declaratory Judgment action. The Borough of Oakland 
+filed its action of Declaratory Judgment with the Court on or about July 8, 2015.  
+ 
+ Fair Share Housing Center (FSHC), a nonprofit affordable housing advocacy group, 
+was considered an “interested party” in all municipal Declaratory Actions.  FSHC and 
+the Borough engaged in a mediation process under the supervision of the court-
+appointed Special Master. Oakland and FSHC also settled its affordable housing 
+litigation. Oakland’s Settlement Agreement is dated August 11, 2020. 
+ 
+Round 4 Affordable Housing 
+On March 20, 2024 Governor Murphy signed new legislation known as P.L.2024, c.2 
+that amended the state’s Fair Housing Act and changed the affordable housing 
+process in New Jersey.  
+ 
+The Fair Housing Act (FHA) Amendment (“FHA 2” or the “Act”) eliminated the Council 
+on Affordable Housing (COAH), directed the Department of Community Affairs (DCA) 
+to prepare nonbinding affordable housing obligations, changed certain aspects of the 
+vacant land process, eliminated and revised available bonus credits, and imposed 
+strict deadlines on municipalities.   
+ 
+Pursuant to the FHA 2, municipalities were required to adopt a Housing Element and 
+Fair Share Plan by June 30, 2025.  Oakland’s plan conforms to the requirements 
+established in the legislation and FHA 2 and addresses Oakland’s Prior Round, Round 
+3 and Round 4 affordable housing obligations. The Borough filed the adopted HEFSP 
+with the Court on June 24, 2025.  Four challenges were filed in response to the 
+adopted HEFSP, which are briefly described below.  As a result of the subsequent 
+mediation process, the Borough agreed to make certain revisions to its 2025 plan, 
+which are reflected in this Amended Housing Element and Fair Share Plan. 
+ 
+Ropper-Oakland LLC Challenge: 
+The challenge was originally filed on August 31, 2025, with a second submission 
+consisting of a letter filed on December 18, 2025.  The challenger owns the property 
+known as Block 1802, Lot 1, located off of Terhune Street and Elm Street, which was 
+included in the Borough’s Round 3 Housing Element and Fair Share Plan. The 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 6 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 7 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+ 
+Page 3 
+challenge recognizes that the property is located in the sewer service area but does 
+not have sewer infrastructure. 
+ 
+The Borough’s response to the Ropper-Oakland LLC challenge is as follows: 
+The site is situated in the RA-5AH Zone District, which permits inclusionary 
+development resulting in 17 affordable units. The Borough is not proposing any 
+zoning revisions in connection with the site because it is already zoned to allow for 
+inclusionary development. 
+ 
+The Borough has participated in multiple mediation sessions and meetings in 
+connection with the challenge.  The Borough has an agreement “in principle” with the 
+challenger that involves the project obtaining sewer service via the Oakwood Knolls 
+Pump Station (OKPS) located on Oak Street.  The OKPS will need to be upgraded, and 
+various approvals will be needed for this upgrade to occur.   
+ 
+TDC Acquisition, LLC Challenge 
+This challenge was originally filed on August 28, 2025. The challenger is the owner 
+of a grouping of properties known as Block 3301, Lot 2 and Block 3401, Lots 19, 40, 
+41, 42, 43, 11, 12, 57, and 58, all of which are also commonly known as the McBride 
+or Hovan site.  The combined acreage of all parcels approximates 66.9 acres.  The 
+challenge recognizes that the properties are not located within the sewer service 
+area, and construction of an on-site waste management system is being proposed.  
+ 
+The properties are located in both the RC Residential Cluster and IP Industrial Park 
+Zone Districts. The challenge references plans with an inclusionary development of 
+up to 250 units, but Exhibit 2 to the challenge includes a plan prepared by Langan 
+Engineering, entitled, “Oakland Shire Residential Development,” that indicates 204 
+units. 
+ 
+A second submission was made on December 12, 2025, which references  
+inclusionary development of 225 units, of which 45 would be affordable.   The 
+submission includes a July 18, 2025 memo from Langan Engineering stating that 
+there are approximately 27.5 acres of developable land, and that a new LOI 
+application would be prepared in connection with any proposed project.  
+ 
+The Borough’s response to the TDC Acquisition LLC challenge is as follows: 
+The Borough recognizes that the property contains significant environmental 
+constraints and that NJDEP approval would be needed in connection with the 
+proposed development. Furthermore, the proposed on-site waste management 
+system is needed for the site to be suitable.  
+The Borough participated both in meetings with the challenger and in mediation 
+sessions with the challenger and the Special Adjudicator. As a result of the meetings, 
+and in response to the challenger’s request, the Borough has proposed a zoning 
+ordinance to rezone the property for inclusionary development to a maximum of 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 7 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 8 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+ 
+Page 4 
+240 residential units, of which 20% would be affordable units. The zoning ordinance 
+is contained in Appendix C. 
+Leone Brothers Property, LLC Challenge 
+This challenge was originally filed on August 29, 2025, with subsequent submissions 
+made on December 16, 2025. The challengers are the owners of a  property on 
+McCoy Road known as Block 4004, Lots 4 and 5. The properties are known as the 
+“horse farm” and consist of approximately 10.5 acres.  The challenge and its 
+attachments indicate that the site could yield 80 or more housing units. While the 
+property is not located within the approved sewer service area, the challenger 
+states that sewer service can be provided via an adjacent property. 
+The Borough’s response to the Leone Brothers Property, LLC challenge is as follows: 
+The Borough participated both in meetings with the challenger and in mediation 
+sessions with the challenger and the Special Adjudicator. As a result, there is a 
+settlement “in principle,” and the Borough has proposed a zoning ordinance to 
+rezone the property for inclusionary development to a maximum of 85 residential 
+units, of which 20% would be affordable units.  In order for this to occur, the site 
+would need to be added to the sewer service area  and would need to connect to 
+sewer infrastructure via an adjacent property.  The zoning ordinance for the Leone 
+Brothers property is contained in Appendix D. 
+ 
+Fair Share Housing Center Challenge 
+The Fair Share Housing Center (FSHC) challenge included several comments 
+regarding the durational adjustment, which have been resolved. 
+Mandatory Contents of the Housing Element 
+Pursuant to the New Jersey Fair Housing Act (FHA 2), “a municipality’s housing 
+element shall be designed to achieve the goal of access to affordable housing to meet 
+present and prospective housing needs, with particular attention to low-and 
+moderate-income housing.”  The essential plan components are: 
+• An inventory of the municipality's housing stock by age, condition, purchase 
+or rental value, occupancy characteristics, and type, including the number of 
+units affordable to low- and moderate-income households and substandard 
+housing capable of being rehabilitated; 
+• A projection of the municipality's housing stock, including the probable future 
+construction of low- and moderate-income housing, for the next ten years, 
+taking into account, but not necessarily limited to, construction permits 
+issued, approvals of applications for development and probable residential 
+development of lands; 
+• An analysis of the municipality's demographic characteristics, including but 
+not necessarily limited to, household size, income level, and age; 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 8 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 9 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+ 
+Page 5 
+• An analysis of the existing and probable future employment characteristics of 
+the municipality; 
+• A determination of the municipality's present and prospective fair share for 
+low- and moderate-income housing and its capacity to accommodate its 
+present and prospective housing needs, including its fair share for low- and 
+moderate-income housing, as established pursuant to section 3 of P.L.2024, 
+c.2 (C.52:27D-304.1); and, 
+• A consideration of the lands that are most appropriate for construction of low- 
+and moderate-income housing and of the existing structures most appropriate 
+for conversion to, or rehabilitation for, low- and moderate-income housing, 
+including a consideration of lands of developers who have expressed a 
+commitment to provide low- and moderate-income housing; 
+• An analysis of the extent to which municipal ordinances and other local factors 
+advance or detract from the goal of preserving multigenerational family 
+continuity as expressed in the recommendations of the Multigenerational 
+Family Housing Continuity Commission, adopted pursuant to paragraph (1) of 
+subsection f. of section 1 of P.L.2021, c.273 (C.52:27D-329.20);  
+• For a municipality located within the jurisdiction of the Highlands Water 
+Protection and Planning Council, established pursuant to section 4 of P.L.2004, 
+c.120 (C.13:20-4), an analysis of compliance of the housing element with the 
+Highlands Regional Master Plan of lands in the Highlands Preservation Area, 
+and lands in the Highlands Planning Area for Highlands conforming 
+municipalities. This analysis shall include consideration of the municipality’s 
+most recent Highlands Municipal Build Out Report, consideration of 
+opportunities for P.L. 2024, redevelopment of existing developed lands into 
+inclusionary or 100 percent affordable housing, or both, and opportunities for 
+100 percent affordable housing in both the Highlands Planning Area and 
+Highlands Preservation Area that are consistent with the Highlands regional 
+master plan; and  
+• An analysis of consistency with the State Development and Redevelopment 
+Plan, 
+including 
+water, 
+wastewater, 
+stormwater, 
+and 
+multi-modal 
+transportation based on guidance and technical assistance from the State 
+Planning Commission. 
+This Housing Element and Fair Share Plan Amendment addresses the above 
+requirements. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 9 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 10 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+ 
+Page 6 
+Analysis of Demographic, Housing, and Employment 
+Characteristics 
+As required by N.J.S.A. 52:27D-310, all housing elements must contain a discussion of 
+the municipality’s demographic, housing, and economic characteristics. The following 
+subsections fulfill this requirement by providing a profile of information for the 
+Borough of Oakland from the US Census Bureau, the New Jersey Department of Labor 
+and Workforce Development, and the North Jersey Transportation Planning 
+Authority. 
+Population Characteristics 
+ 
+Table 1 shows the population trends for the Borough of Oakland and Bergen County 
+from 1930 to 2020. As shown, Oakland’s population increased by 12,013 residents 
+during this period. The three greatest increases occurred in the periods from: 1950 
+to 1960, when the Borough’s population increased by approximately 419.9 percent; 
+1940 to 1950, when there was an increase of approximately 95.0 percent; and 
+between 1960 and 1970, when population increased by approximately 52.7 percent. 
+There were decreases in population between 1970 and 1980, when the Borough’s 
+population decreased by about 6.8 percent; and 1980 and 1990, when the Borough’s 
+population decreased by about 10.8 percent. 
+Bergen County’s population also increased over the period from 1930 to 2020. 
+Indeed, the County’s population increased by 590,755 residents over this period. As 
+compared to the Borough, however, change in the County’s population was never as 
+great as in the Borough. Indeed, the maximum rate of change in the Borough’s 
+population was about 419.9 percent (between 1950 and 1960), but the change in the 
+County’s population never exceeded about 44.7 percent (also between 1950 and 
+1960) in any ten-year period. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 10 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 11 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+ 
+Page 7 
+Table 1 
+POPULATION CHANGE, 1930 – 2020 
+Borough of Oakland and Bergen County 
+ 
+Borough of Oakland 
+ 
+ 
+Change 
+Year 
+Population 
+Number 
+Percent 
+1930 
+735 
+------ 
+------ 
+1940 
+932 
+197 
+26.8 
+1950 
+1,817 
+885 
+95.0 
+1960 
+9,446 
+7,629 
+419.9 
+1970 
+14,420 
+4,974 
+52.7 
+1980 
+13,443 
+-977 
+-6.8 
+1990 
+11,997 
+-1,446 
+-10.8 
+2000 
+12,466 
+469 
+3.9 
+2010 
+12,754 
+288 
+2.3 
+2020 
+12,748 
+-6 
+0.0 
+ 
+Bergen County 
+ 
+ 
+Change 
+Year 
+Population 
+Number 
+Percent 
+1930 
+364,977 
+------ 
+------ 
+1940 
+409,646 
+44,669 
+12.2 
+1950 
+539,139 
+129,493 
+31.6 
+1960 
+780,255 
+241,116 
+44.7 
+1970 
+897,148 
+116,893 
+15.0 
+1980 
+845,385 
+-51,763 
+-5.8 
+1990 
+825,380 
+-20,005 
+-2.4 
+2000 
+884,118 
+58,738 
+7.1 
+2010 
+905,116 
+20,998 
+2.4 
+2020 
+955,732 
+50,616 
+5.6 
+ 
+Sources: 
+1930 - 1950: “Number of Inhabitants, New Jersey.” 
+https://www2.Census.Gov/library/publications/decennial/1950/population-volume-
+2/23024255v2p30ch1.pdf. U.S. Census Bureau, 1950; 
+1940 - 2000: “New Jersey Population Trends 1790 to 2000.” Division of Labor Market and 
+Demographic Research New Jersey State Data Center, August 2001. 
+https://www.nj.gov/labor/labormarketinformation/assets/PDFs/census/2kpub/njsdcp3.pdf; 
+2010: 2010 U.S. Census (Table P3); and, 
+2020: 2020 U.S. Census (Table DP1) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 11 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 12 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+ 
+Page 8 
+Population Composition by Age 
+ 
+Table 2 shows population by age cohort in the Borough of Oakland during 2010 and 
+2020. As can be seen, the population decreased by 6 residents or less than 0.0 percent 
+between 2010 and 2020. The three age-cohort with the largest decreases were 5-14, 
+which decreased by 495 residents or about 24.4 percent; 35-44, which decreased by 
+436 residents or about 22.8 percent; and 45-54, which decreased by 488 residents or 
+about 20.2 percent. The three age cohorts with the largest increases were: 15-24, 
+which increased by 456 residents or 33.7 percent; 65-74, which increased by 271 
+residents or 29.5 precent; and 55-64, which increased by 470 residents or 29.0 
+percent. The change in all other age cohorts was less than ± 20 percent. 
+ 
+ 
+Table 2 
+POPULATION BY AGE 
+Borough of Oakland 
+ 
+ 
+2010 Population 
+2020 Population 
+Change 2010-2020 
+Age Group 
+Persons 
+Percent 
+Persons 
+Percent 
+Persons 
+Percent 
+Under 5 
+679 
+5.3 
+ 630  
+4.9 
+-49 
+-7.2 
+5-14 
+2,032 
+15.9 
+ 1,537  
+12.1 
+-495 
+-24.4 
+15-24 
+1,352 
+10.6 
+ 1,808  
+14.2 
+456 
+33.7 
+25-34 
+937 
+7.3 
+ 1,112  
+8.7 
+175 
+18.7 
+35-44 
+1,912 
+15.0 
+ 1,476  
+11.6 
+-436 
+-22.8 
+45-54 
+2,414 
+18.9 
+ 1,926  
+15.1 
+-488 
+-20.2 
+55-64 
+1,621 
+12.7 
+ 2,091  
+16.4 
+470 
+29.0 
+65-74 
+918 
+7.2 
+ 1,189  
+9.3 
+271 
+29.5 
+75-84 
+592 
+4.6 
+ 631  
+4.9 
+39 
+6.6 
+85+ 
+297 
+2.3 
+ 348  
+2.7 
+51 
+17.2 
+TOTALS 
+12,754 
+100.0 
+ 12,748  
+100.0 
+-6 
+< 0.0 
+ 
+Sources: 
+2010: 2010 U.S. Census (Table PCT12); and, 
+2020: U.S. Census (Table DP1) 
+ 
+Table 2 shows considerable growth and decline in several age cohorts. The effects of 
+the change in the distribution of Oakland’s population among age cohorts can be 
+summarized in the change in the median age of the Borough’s population, which 
+increased by one (1.0) year, from 42.8 years to 43.8 years, in the period from 2010 to 
+2020. This represents an increase of about 2.3 percent. By comparison, the median 
+age of Bergen County’s population increased by approximately 0.9 years, from 41.1 
+years to 42.0 years, which equates to an increase of about 2.2 percent. Table 3 
+summarizes the distribution of the Borough’s and County’s populations among age 
+cohorts and the change in the median age of said populations. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 12 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 13 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+ 
+Page 9 
+Table 3 
+PERCENTAGE POPULATION DISTRIBUTION, 2010 & 2020 
+Borough of Oakland and Bergen County 
+ 
+ 
+2010 Percentage of Population 
+2020 Percentage of Population 
+Age Group 
+Borough 
+County 
+Borough 
+County 
+Under 5 
+5.3 
+5.6 
+4.9 
+5.0 
+5-14 
+15.9 
+12.9 
+12.1 
+12.0 
+15-24 
+10.6 
+11.6 
+14.2 
+12.0 
+25-34 
+7.3 
+11.6 
+8.7 
+11.8 
+35-44 
+15.0 
+14.3 
+11.6 
+13.2 
+45-54 
+18.9 
+16.3 
+15.1 
+14.0 
+55-64 
+12.7 
+12.7 
+16.4 
+14.3 
+65+ 
+14.2 
+15.1 
+17.0 
+17.7 
+TOTALS 
+100.0 
+100.0 
+100.0 
+100.0 
+ 
+ 
+ 
+ 
+ 
+Median Age 
+42.8 
+41.1 
+43.8 
+42.0 
+ 
+Sources:  
+2010: 2010 U.S. Census (Tables PCT12, P13) 
+2020: 2020 U.S. Census (Tables DP1, P13) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 13 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 14 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+ 
+Page 10 
+Existing Housing Characteristics 
+ 
+Type of Household 
+ 
+A household is a group of people who occupy a housing unit as their usual place of 
+residence. As shown in Table 4, there were 4,356 households in the Borough of 
+Oakland in 2020. The majority, or approximately 84.3 percent, of households 
+consisted of two or more persons. The remaining 15.7 percent of households 
+consisted of one person. Table 4 provides additional details on the types of 
+households in Oakland Borough during 2020. 
+ 
+ 
+Table 4 
+TYPES OF HOUSEHOLDS, 2020 
+ 
+Borough of Oakland 
+ 
+Type of Households 
+Total 
+Number in 
+Subgroup 
+Percent of 
+Total 
+TOTAL HOUSEHOLDS 
+4,356 
+ 
+One Person 
+684 
+15.7 
+Male Householder 
+277 
+6.4 
+65 years or older 
+101 
+2.3 
+Female Householder 
+407 
+9.3 
+65 years or older 
+241 
+5.5 
+Two or More Persons 
+3,672 
+84.3 
+Married Couple Families 
+2,985 
+68.5 
+With Own Children Under 18 
+1,309 
+30.1 
+Cohabitating Couple 
+147 
+3.4 
+With Own Children Under 18 
+34 
+0.8 
+Male Householder Not living alone 
+189 
+4.3 
+With Own Children Under 18 
+34 
+0.8 
+Female Householder Not living alone 
+351 
+8.1 
+With Own Children Under 18 
+121 
+2.8 
+ 
+Source: 2020 U.S. Census (Table DP1) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 14 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 15 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+ 
+Page 11 
+Household Size 
+ 
+Table 5 provides further details on household size in the Borough of Oakland during 
+2020. As shown, the most frequent household size was two persons, which accounted 
+for 31.0 percent of all households in Oakland and 29.1 percent of all households in 
+Bergen County. The average household size in Oakland was 2.87, which is 0.17 more 
+than the average household size of 2.70 in Bergen County during 2020.   
+ 
+ 
+Table 5 
+HOUSEHOLD SIZE, 2020 
+Borough of Oakland & Bergen County 
+ 
+Borough of Oakland 
+Bergen County 
+Household Size 
+Number 
+Percent 
+Number  Percent 
+1 Person 
+ 684  
+15.7 
+84,254 
+24.0 
+2 Persons 
+ 1,350  
+31.0 
+102,218 
+29.1 
+3 Persons 
+ 849  
+19.5 
+63,130 
+18.0 
+4 Persons 
+ 967  
+22.2 
+61,107 
+17.4 
+5 Persons 
+ 362  
+8.3 
+26,098 
+7.4 
+6+ Persons 
+ 144  
+3.3 
+13,857 
+4.0 
+TOTALS 
+ 4,356  
+100.0 
+350,664 
+100.0 
+Average Household Size 
+2.87 
+ 
+2.70 
+ 
+ 
+Source: 2020 U.S. Census (Tables H12, DP1) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 15 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 16 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+ 
+Page 12 
+Per Capita and Household Income 
+ 
+Table 6 displays the per capita income, median household income, and population 
+poverty status of Oakland, Bergen County and the State of New Jersey. This data is 
+derived from the 2023 American Community Survey Five-Year Estimates and 
+represents estimated average conditions over the five-year period ending in 2023. 
+ 
+As shown in Table 6, Oakland had a higher per capita income at $64,120 than in 
+Bergen County and New Jersey, where the per capita incomes were $62,968 and 
+$53,118, respectively. Oakland also had a higher median household income at 
+$162,862 than Bergen County and New Jersey, where the median household incomes 
+were $123,715 and $101,050, respectively. Additionally, the Borough had just 3.2 
+percent of its population living below poverty status, which is lower than the 6.7 
+percent and 9.8 percent exhibited by Bergen County and New Jersey, respectively. 
+ 
+ 
+Table 6 
+PER CAPITA AND HOUSEHOLD INCOME; POVERTY STATUS 2023 
+Borough of Oakland, Bergen County & New Jersey 
+ 
+ 
+Per Capita Income 
+Median Household 
+Income 
+ Percentage of 
+Population Below 
+Poverty Status  
+Borough of Oakland 
+$64,120 
+$162,862 
+3.2 
+Bergen County 
+$62,968 
+$123,715 
+6.7 
+New Jersey 
+$53,118 
+$101,050 
+9.8 
+ 
+Source: 2023 American Community Survey 5-Year Estimates (Tables BP19301, S1901 and S1701) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 16 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 17 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+ 
+Page 13 
+Family Income Distribution 
+ 
+Table 7 details family income for the Borough and County as represented by 2023 
+American Community Survey Five-Year Estimates. Approximately 85.6 percent of 
+Oakland’s families earned $75,000 or more. By comparison, just 77.6 percent of 
+Bergen County’s families earned $75,000 or more. 
+ 
+ 
+Table 7 
+FAMILY INCOME DISTRIBUTION, 2023 
+Borough of Oakland & Bergen County 
+ 
+Borough 
+County 
+Income Levels 
+Number 
+Percent 
+Number 
+Percent 
+Less than $10,000 
+13 
+0.4 
+4,882 
+1.9 
+$10,000 - $14,999 
+5 
+0.1 
+2,555 
+1.0 
+$15,000 - $24,999 
+34 
+1.0 
+6,022 
+2.4 
+$25,000 - $34,999 
+63 
+1.8 
+7,350 
+2.9 
+$35,000 - $49,999 
+99 
+2.8 
+12,602 
+5.0 
+$50,000 - $74,999 
+294 
+8.4 
+23,286 
+9.2 
+$75,000 - $99,999 
+265 
+7.6 
+23,706 
+9.4 
+$100,000 - $149,999 
+522 
+14.9 
+45,647 
+18.1 
+$150,000 - $199,999 
+794 
+22.6 
+36,887 
+14.6 
+$200,000 or more 
+1,420 
+40.5 
+89,702 
+35.5 
+TOTALS 
+3,509 
+100.0 
+252,639 
+100.0 
+ 
+Source: 2023 American Community Survey 5-Year Estimates (Table DP03) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 17 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 18 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+ 
+Page 14 
+Housing Affordability 
+ 
+Table 8 identifies the maximum income limits for low, very low- and moderate-
+income households in Housing Region 1. All of Bergen, Hudson, Passaic and Sussex 
+counties are in Housing Region 1. 
+ 
+Oakland is in Housing Region 1. As of 2025, the median household income for a three-
+person household in Housing Region 1 was $114,500. A three-person moderate 
+income household, defined as a household with an income in excess of 50 percent but 
+less than 80 percent of the median income, would have an income that does not 
+exceed $91,600. A four-person low-income household, defined as a household with 
+income equal to or less than 50 percent but more than 30 percent of the median 
+income, would have an income that does not exceed $63,600. A two-person very low-
+income household, defined as a household with an income equal to 30 percent or less 
+of the median income, would have an income that does not exceed $30,540. Finally, 
+the 1.5 person, three-person and 4.5-percon columns are used for calculating the 
+pricing for one-, two- and three-bedroom affordable units. 
+ 
+ 
+Table 8 
+2025 REGIONAL INCOME LIMITS 
+HOUSING REGION 1 
+ 
+Household Size 
+Median Income 
+Moderate Income 
+Low Income 
+Very Low Income 
+ 
+1 Person 
+$89,100 
+$71,280 
+$44,550 
+$26,730 
+1.5 Person 
+$95,450 
+$76,360 
+$47,725 
+$28,635 
+2 Person 
+$101,800 
+$81,440 
+$50,900 
+$30,540 
+2.5 Person 
+$108,150 
+$86,520 
+$54,075 
+$32,445 
+3 Person 
+$114,500 
+$91,600 
+$57,250 
+$34,350 
+4 Person 
+$127,200 
+$101,760 
+$63,600 
+$38,160 
+4.5 Person 
+$132,300 
+$105,840 
+$66,150 
+$39,690 
+5 Person 
+$137,400 
+$109,920 
+$68,700 
+$41,220 
+6 Person 
+$147,600 
+$118,080 
+$73,800 
+$44,280 
+7 Person 
+$157,800 
+$126,240 
+$78,900 
+$47,340 
+8 Person 
+$168,000 
+$134,400 
+$84,000 
+$50,400 
+ 
+Source: 2025 Affordable Housing Regional Income Limits by Household Size, Prepared by 
+Affordable Housing Professionals of New Jersey (AHPNJ) – May 16, 2025. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 18 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 19 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+ 
+Page 15 
+Housing Unit Data 
+ 
+In 2020, there were 4,561 housing units in Oakland, of which 4,356 or 95.5 percent 
+were occupied. By comparison, the County had 367,383 housing units, of which 
+350,664 or 95.4 percent were occupied.  
+ 
+As shown in Table 9, owner-occupied housing stock comprised a greater percentage 
+of the Borough’s housing stock than in the County’s housing stock. In 2020, 
+approximately 91.2 percent of the Borough’s housing stock was owner-occupied, 
+versus 63.1 percent of the County’s housing stock. 
+ 
+ 
+Table 9 
+HOUSING UNIT DATA, 2020 
+Borough of Oakland & Bergen County 
+ 
+Borough 
+County 
+Number 
+Percent 
+Number 
+Percent 
+Unit Type 
+Occupied 
+4,356 
+95.5 
+350,664 
+95.4 
+Vacant, Seasonal & Migratory 
+205 
+4.5 
+16,719 
+4.6 
+TOTALS 
+4,561 
+100.0 
+367,383 
+100.0 
+Owner vs Renter Occupied Units 
+Owner Occupied 
+3,974 
+91.2 
+221,274 
+63.1 
+Renter Occupied 
+382 
+8.8 
+129,390 
+36.9 
+TOTALS 
+4,356 
+100.0 
+350,664 
+100.0 
+ 
+Source: 2020 U.S. Census (Table DP1) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 19 of 20   Trans ID: LCV2026677047 
+
+===== PAGE 20 =====
+Amended Housing Element and Fair Share Plan  
+Borough of Oakland  
+ 
+ 
+ 
+Page 16 
+Year Householder Moved into Unit 
+Table 10 provides the year the current householders moved into the Oakland and 
+Bergen County homes. As shown, 64.7 percent of the Borough’s households moved 
+into their current residences during or after 2000, compared to 74.2 percent 
+countywide. Approximately 32.6 percent of the Borough’s households and 25.8 
+percent of the County’s households moved into their residences before 2000. 
+ 
+ 
+Table 10 
+YEAR HOUSEHOLDER MOVED INTO UNIT, 2023 
+Borough of Oakland & Bergen County 
+ 
+Borough  
+County 
+Year Householder Moved 
+into Unit 
+Number 
+Percent 
+Number 
+Percent 
+2021 or later 
+ 256  
+5.8 
+27,042 
+7.7 
+2010 - 2020 
+ 1,852  
+42.1 
+165,730 
+46.9 
+2000 - 2009 
+ 856  
+19.5 
+69,267 
+19.6 
+1990 - 1999 
+ 689  
+15.7 
+42,548 
+12.0 
+1989 or earlier 
+ 742  
+16.9 
+48,720 
+13.8 
+TOTALS 
+4,395 
+100.0 
+353,307 
+100.0 
+ 
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04) 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000866-25   03/16/2026 10:54:03 AM   Pg 20 of 20   Trans ID: LCV2026677047 

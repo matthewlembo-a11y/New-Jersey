@@ -1,0 +1,659 @@
+SOURCE_URL: https://library.njcourts.gov/files/civil/affordable-housing/bergen/harrington-park-boro/ResolutionofPBAdoptionofAmendedHEFSP4throundsigned03052026wAmendmenttoPlan.pdf?VersionId=nu6Bn571rOyuxVV86.ER2oNlXa0dUBE7
+
+===== PAGE 1 =====
+BER-L-000793-25
+03/16/2026 7:15:54 PM
+Pg1of17
+Trans ID: LCV2026690313
+BOROUGH OF HARRINGTON PARK
+PLANNING BOARD
+AMENDED FOURTH ROUND
+HOUSING ELEMENT AND FAIR SHARE PLAN ADOPTION
+RESOLUTION
+~
+PB-_ -26
+WHEREAS,
+the Borough
+of Harrington Park
+(hereinafter the "Borough")
+has
+a
+demonstrated history ofvoluntary compliance with its affordable housing obligations as evidenced
+in its Third Round record; and
+WHEREAS, pursuant to N.L.A.C. 5:96 and 5:97, 221 N.J. 1 (2015) (Mount Laurel IV),
+the Borough of Harrington Park filed a Declaratory Judgment Complaint in the Superior Court,
+Law Division seeking, among other things, a judicial declaration that its Third Round Housing
+Element and Fair Share Plan, satisfied its "fair share," of the regional need for low and moderate
+housing pursuant to the "Mount Laurel doctrine," and,
+WHEREAS, that culminated in a Third Round Housing Element and Fair Share Plan
+adopted by the Planning Board and a Final Judgement of Repose in 2017; and,
+WHEREAS, the Borough continues to incorporate and implement its Third Round
+Housing Element and Fair Share Plan; and
+WHEREAS, on March 20, 2024, Governor Murphy signed into law P.L. 2024, c.2. which
+amended the 1985 Fair Share Housing Act (hereinafter the "Amended FHA"); and,
+WHEREAS, on October
+18, 2024, New Jersey Department of Community Affairs
+(“NJDCA”) published local and regional affordable housing obligations pursuant to P.L. 2024, c.2.
+proposing that Borough of Harrington Parlk has a Fourth Round present need, or rehabilitation,
+obligation of 0 units and a prospective need obligation of 202 units; and
+1
+
+===== PAGE 2 =====
+BER-L-000793-25
+03/16/2026 7:15:54 PM
+Pg2of17
+Trans ID: LCV2026690313
+WHEREAS, in accordance with the Amended FHA and the Administrative Office of the
+Courts ("AOC") Directive #14-24, the Borough filed a timely Fourth Round Declaratory Judgment
+Complaint ("DJ Action") with the Affordable Housing Dispute Resolution Program
+(the
+"Program") on January 31, 2025; and,
+WHEREAS, the Fair Share Housing Center (“FSHC”) filed an Answer to the DJ Action,
+objecting to the position taken by the Borough on the prospective need obligation; and
+WHEREAS, pursuant to theAmended FHA and theAOC's Directive #14-24, the Borough
+and the FSHC entered into negotiations as part ofthe Program; and
+WHEREAS, a
+settlement was entered into between the parties before the Honorable
+Thomas Miller, A.J.S.C.
+(ret.) of the Program providing that the Borough’s Fourth Round
+affordable housing obligation for present need is 0 units and prospective need is 188 units; and
+WHEREAS, an Order was entered by The Honorable Ronald Bookbinder, A.J.S.C (Ret.)
+establishing the present and prospective need obligations as 0 units and 188 units, respectively, on
+May 19, 2025; and
+WHEREAS, the Borough authorized the preparation of a Fourth Round Housing Element
+and Fair Share Plan ("HEFSP") to be prepared by the Borough Planners, Elizabeth Leheny,
+AICP/PP and Nikhil Ramachandran, AICP/PP of Phillips Preiss Grygiel Leheny Keller, LLC, and
+after proper notice and public hearing the Planning Board of the Borough of Harrington Park
+adopted the Fourth Round HEFSP on June 24, 2025; and
+WHEREAS, interested parties were permitted to file challenges with the Program to the
+HEFSP and a challenge by Fair Share Housing Center were filed to the Borough’s Fourth Round
+HEFSP; and
+2
+
+===== PAGE 3 =====
+AMENDMENT TO  
+THE FOURTH ROUND HOUSING ELEMENT & FAIR SHARE 
+PLAN FOR THE BOROUGH OF HARRINGTON PARK 
+Prepared for: 
+Planning Board and Borough Council 
+Borough of Harrington Park 
+85 Harriot Avenue  
+Harrington Park, NJ 07640 
+Prepared by: 
+Phillips Preiss Grygiel Leheny Keller LLC 
+Planning and Real Estate Consultants 
+70 Hudson Street, Suite 5B 
+Hoboken, New Jersey 07030 
+March 2026 
+The original copy of this document was signed and sealed 
+in accordance with N.J.S.A. 45:14 A-1 et seq. 
+____________________________ 
+Elizabeth Leheny, AICP, PP 
+New Jersey Professional Planner License #6133 
+_____________________________ 
+Nikhil Ramachandran, AICP, PP 
+New Jersey Professional Planner License # 6551 
+                                                                                                                                                                                              
+BER-L-000793-25   03/16/2026 7:15:54 PM   Pg 3 of 17   Trans ID: LCV2026690313 
+
+===== PAGE 4 =====
+i 
+ 
+Acknowledgments 
+ 
+Planning Board 
+Richard McLaughlin, Chair 
+Joon L. Chung, Mayor 
+Jeffrey Brockman, Councilman 
+ 
+  
+Peter Ardito 
+Jesse Barragato 
+Robert Waldron 
+Philip Lee 
+Thomas Gleason, Alternate  
+Jennifer Helfman, Alternate 
+ 
+Planning Board Professionals 
+Carolyn Lee, Board Clerk 
+Jennifer Knarich, Board Attorney 
+Neglia Engineering, Board Engineers 
+Mayor and Council 
+Joon L. Chung, Mayor 
+Allan Napolitano, Council President 
+Gregory Evanella 
+William Blackinton 
+Diane Walker 
+Jorden “Nick” Pedersen 
+Jeffrey Brockman 
+ 
+ 
+ 
+ 
+ 
+ 
+Elizabeth Leheny, Board Planner
+                                                                                                                                                                                              
+BER-L-000793-25   03/16/2026 7:15:54 PM   Pg 4 of 17   Trans ID: LCV2026690313 
+
+===== PAGE 5 =====
+i 
+Table of Contents 
+ 
+I. 
+Introduction & Purpose ..................................................................................................................... 1 
+II. 
+Amendment to the 2025 HEFSP ....................................................................................................... 2 
+Fourth Round Affordable Housing Obligation ....................................................................................... 2 
+Satisfaction of the Fourth Round Obligation ........................................................................................ 2 
+Mechanisms to Address Unmet Need ................................................................................................... 5 
+Summary .................................................................................................................................................. 9 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000793-25   03/16/2026 7:15:54 PM   Pg 5 of 17   Trans ID: LCV2026690313 
+
+===== PAGE 6 =====
+1 
+I. Introduction & Purpose 
+This amendment to the Borough of Harrington Park’s Housing Element and Fair Share Plan (“HEFSP”) 
+amends the HEFSP adopted on June 24, 2025 (“2025 HEFSP”). Those portions of the 2025 HEFSP that are 
+not amended by the following remain in full force and effect as the policy and implementation document 
+for affordable housing in Harrington Park. 
+ 
+The Borough of Harrington Park filed a resolution of participation in the Affordable Housing Dispute 
+Resolution Program (the “Program”) and a declaratory judgment action pursuant to N.J.S.A. 52:27D-301 
+et. seq. (the “Fair Housing Act”) on January 31, 2025. The Court subsequently entered an order on May 19, 
+2025, setting the Borough’s Fourth Round fair share obligations as a Present Need of 0 units and a 
+Prospective Need of 188 units, which no party appealed, and ordered the Borough to file its HEFSP by June 
+30, 2025. The Borough then filed its HEFSP on June 25, 2025 via a resolution adopted by the governing body 
+endorsing the 2025 HEFSP. On September 2, 2025, Fair Share Housing Center (“FSHC”) filed a challenge 
+to the Borough’s 2025 HEFSP pursuant to N.J.S.A. 52:27D-304.1(f)(2)(b). The Borough and FSHC in 
+December 2025 then agreed to settle the litigation and to present an agreement to the Program and the 
+Court with jurisdiction over this matter to review, recognizing that the settlement of Mount Laurel litigation 
+is favored because it ends delays and the expense of trial and results more quickly in the construction of 
+homes for very-low-, low- and moderate-income households. The Borough executed a Settlement 
+Agreement with FSHC on December 15, 2025. That Settlement Agreement established the Borough’s 
+affordable housing obligation and mechanisms to satisfy the obligation, which notably included a vacant 
+land adjustment. As such, this Amendment to the 2025 HEFSP has been prepared to be consistent with 
+the Settlement Agreement reached with FSHC dated December 15, 2025.   
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000793-25   03/16/2026 7:15:54 PM   Pg 6 of 17   Trans ID: LCV2026690313 
+
+===== PAGE 7 =====
+2 
+II. 
+Amendment to the 2025 HEFSP 
+Fourth Round Affordable Housing Obligation 
+In accordance with the settlement agreement reached between the Borough of Harrington Park and FSHC, 
+Harrington Park’s Fourth Round affordable housing obligation is as follows: 
+ 
+• 
+Present Need or Rehabilitation Obligation: 0 
+• 
+Fourth Round (2025-2035) Prospective Need obligation: 188 
+Satisfaction of the Fourth Round Obligation  
+The Borough prepared a VLA for the Fourth Round which established, consistent with the Settlement 
+Agreement with FSHC, that the Borough has a Fourth Round RDP of 12 units. 
+The proposed affordable housing mechanisms that would address Harrington Park’s Fourth Round RDP of 
+12 units are discussed below and shown in Table 1, Entitlement to Fourth Round Affordable Housing 
+Credits for Planned Projects. 
+ 
+Allegro Assisted Living Facility 
+As part of the Borough’s compliance with its Third Round obligations, it adopted the OALSR 
+Office/Assisted Living/Senior Residential Community Zone District, which facilitated the construction 
+of the Allegro Senior Living facility. Pursuant to State law, 10 percent of assisted living beds are 
+Medicaid beds. The Borough is accordingly meeting a portion of its Fourth Round obligation through 9 
+Medicaid beds or 9 credits toward its Fourth Round RDP.  
+ 
+Accessory Apartment Program 
+The Borough will meet the remainder of its Fourth Round RDP through 3 accessory apartment units to 
+be created through its accessory apartment program established within the Borough’s affordable 
+housing ordinance. The Borough will contribute $30,000 per unit to owners of rental accessory 
+apartments. The Borough will also implement an annual tax credit to owners of rental accessory 
+apartments, initially by 25% per year increasing to a maximum of a $50,000 credit. For all rental 
+accessory apartment units, the permit and review fees will be waived.  The Borough will work with its 
+contracted administrative agent, Rehabco, to prepare an “Accessory Apartment Program Guide” that 
+shall be circulated annually to Borough residents, along with other outreach about the program. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000793-25   03/16/2026 7:15:54 PM   Pg 7 of 17   Trans ID: LCV2026690313 
+
+===== PAGE 8 =====
+3 
+Table 1: Entitlement to Fourth Round Affordable Housing Credits for Planned Projects 
+Plan Component 
+Type 
+Units Anticipated 
+Bonus Credits 
+Total Credits 
+Allegro Assisted Living  
+Medicaid 
+9 
+- 
+9 
+Accessory Apartment 
+Program 
+Family Rental 
+3 
+- 
+3 
+Total  
+12 
+- 
+12 
+ 
+Bergen County United Way Group Home 
+Additionally, recognizing its overall lack of available and developable land, the Borough intends to 
+continue to make efforts to provide realistic opportunities for affordable housing development. 
+Accordingly, the Borough is in discussions with Bergen County United Way (“BCUW”) regarding the 
+potential development of special needs housing for seniors, on property identified on the Tax Maps of 
+the Borough as Block 707, Lots 1 and 16 and Block 728, Lot 1. The Borough will proceed diligently and 
+act in good faith to work with BCUW to construct a 4-bedroom group home for seniors on these three 
+parcels which are owned by the Borough of Harrington Park. BCUW will have 60 days from January 5, 
+2026 to perform due diligence on the aforementioned parcels. The Borough reserves the right to grant 
+BCUW reasonable extensions of time to perform due diligence if needed.  If BCUW determines the 
+parcels are suitable for the group home, then the Borough will reserve the land by ordinance deed to 
+BCUW subject to BCUW obtaining the necessary funding for the project. If BCUW determines it cannot 
+develop the group home on the Borough’s parcels, the Borough will make good faith and best efforts 
+to find another location in Harrington Park for BCUW to develop a group home. If despite the good faith 
+and best efforts of the Borough and BCUW, the group home has not been completed by the mid-way 
+point of the Fourth Round compliance period (i.e., July 1, 2030), then the Borough will create a realistic 
+opportunity for the development of 4-units of affordable housing by adjusting its existing or proposed 
+affordable housing overlay zones. The Borough will report annually to the Court and Fair Share 
+Housing Center regarding the progress made on development of the group home. 
+The following provides a description of the site and its suitability for development. 
+The Second Round Substantive Rules of the former New Jersey Council on Affordable Housing (COAH) 
+are the recognized guide for determining the suitability of a property for the production of affordable 
+housing. A “Suitable site” is defined in these rules at N.J.A.C. 5:93-1.3 as “a site that is adjacent to 
+compatible land uses, has access to appropriate streets and is consistent with the environmental 
+policies delineated in N.J.A.C. 5:93-4.” Additional requirements for site suitability at N.J.A.C. 5:93-
+5.3(b) include that affordable housing sites are “available, suitable, developable and approvable, as 
+defined in N.J.A.C. 5:93-1.” Sites where infrastructure is currently or imminently available are given 
+priority. 
+The site is available, suitable, developable and approvable, as described below: 
+                                                                                                                                                                                              
+BER-L-000793-25   03/16/2026 7:15:54 PM   Pg 8 of 17   Trans ID: LCV2026690313 
+
+===== PAGE 9 =====
+4 
+Available: The parcels comprising the site are owned by the Borough of Harrington Park and are 
+available for the development for affordable housing, as they are not encumbered by any title, deed 
+restriction, or other hindrance.  
+Suitable: The site is generally located within the central portion of the Borough, measuring 
+approximately 0.508 acres in area, with ±54 feet of frontage along the western side of Guy Street, ±76 
+feet of frontage along the eastern side of Dora Street, and ±52 feet of frontage along the northern end 
+of Dora Street. The site is currently undeveloped, consisting of vacant, wooded land. Two of the 
+parcels are located in the R-1 Zone (Block 707, Lots 1 and 16) and the other is located in the R-2 Zone 
+(Block 728, Lot 1). Surrounding land uses include primarily single-family residential development. A 
+wooded open space conservation area lies further northwest amidst abutting single-family dwellings. 
+Other notable uses in the greater neighborhood include the municipal complex further south, and the 
+Harrington Park Public School and George Street Park further southwest.  The residential character of 
+the surrounding neighborhood and its proximity to open space/recreational areas make the site 
+suitable for potential development with special needs senior housing. 
+Developable: The site is developable given that it is located in an area with existing infrastructure, 
+within the Bergen County Utilities Authority Wastewater Management Plan and the Northeast Water 
+Quality Management Plan. Furthermore, the site does not contain any wetlands or water bodies as 
+discerned from the New Jersey 2020 Land Use/Land Cover dataset nor any FEMA delineated flood 
+hazard areas located within the 100-year floodplain. The site also does not contain any steep slope 
+areas exceeding 15 percent greater than 5,000 square feet as per 10 foot digital elevation model LiDAR 
+data.  
+Approvable: Both the R-1 and R-2 District permit one-family dwellings; customary accessory uses and 
+buildings; public utility distribution lines and mains necessary for the service of the area; reservoir on 
+water supply reservation; and real estate signs. The R-1 District additionally permits churches or 
+similar places of worship, parish houses and convents; elementary and secondary day schools; 
+public parks and playgrounds and other municipal recreation uses; public libraries, museums and 
+municipal facilities. Permitted conditional uses within the R-1 District include satellite antennas and 
+home occupations and professional offices. Furthermore, pursuant to N.J.S.A. 40:55D-66.1 of the 
+Municipal Land Use Law, “community residences for persons with developmental disabilities, 
+community shelters for victims of domestic violence, community residences for persons with 
+terminal illnesses, community residences for persons with head injuries, and adult family care homes 
+for persons who are elderly and adults with physical disabilities shall be a permitted use in all 
+residential districts of a municipality, and the requirements therefor shall be the same as for single 
+family dwelling units located within such districts.” As such, the potential special needs senior 
+housing development is a permitted use within the Borough’s R-1 and R-2 residential districts.  
+The potential development is anticipated to be provided within a single-family detached dwelling, 
+effectively reflecting the character of the existing neighborhood. Moreover, the site can be developed 
+consistent with RSIS and other state regulations including those from NJDEP. 
+                                                                                                                                                                                              
+BER-L-000793-25   03/16/2026 7:15:54 PM   Pg 9 of 17   Trans ID: LCV2026690313 
+
+===== PAGE 10 =====
+5 
+ In addition, with respect to consistency with the 2025 State Development and Redevelopment Plan, 
+the site is located within both the Metropolitan Planning Area 1 (PA1) and the Environmentally 
+Sensitive Planning Area 5 (PA5). Block 707, Lots 1 and 16 are located entirely in PA1. Block 728, Lot 1 
+is split between PA1 and PA5, with the southeastern corner of Lot 1 being located in PA1 and the 
+remaining majority of the lot being located in PA5. The stated intent of PA 1 includes providing for 
+compact development and the protection and enhancement of existing stable communities, which 
+will be achieved through development in an area with existing infrastructure and community facilities, 
+while also reflecting the general character of the surrounding community.  State policy also 
+encourages inclusionary development within PA-1 as per N.J.A.C. 5:93-5.4.(a), which is consistent 
+with Smart Growth planning principles. The stated intent of PA5 includes to protect environmental 
+resources, which will be upheld as the potential affordable housing development will not encroach 
+upon any existing areas of environmental constraints. As such, the site is approvable for development 
+with low- and moderate-income housing. See Figure 2 for an aerial context depiction of the site.  
+ 
+Mechanisms to Address Unmet Need 
+The Fourth Round RDP of 12 units subtracted from the Fourth Round obligation of 188 units results in an 
+unmet need of 176 units. Pursuant to N.J.S.A. 52:27D-310.1, any municipality that receives an adjustment 
+of its prospective need obligations for the Fourth Round or subsequent rounds based on a lack of vacant 
+land shall, as part of the process of adopting and implementing its housing element and fair share plan, 
+identify sufficient parcels likely to redevelop during the current round of obligations to address at least 25 
+percent of the prospective need obligation that has been adjusted ( 25 percent of 188 units is 44 units) and 
+adopt realistic zoning that allows for such adjusted obligation. The Borough will address its unmet need 
+through the following mechanisms.  
+ Inclusionary Overlay Zoning 
+The Borough will adopt new and expand existing inclusionary overlay zoning at the following sites (shown 
+in Figure 1). This will not only address the 25 percent unmet need requirement stated above, but will also 
+increase permitted densities within existing overlay zones to enhance the Borough’s ability to continue to 
+provide realistic opportunities for the creation of affordable housing.   
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000793-25   03/16/2026 7:15:54 PM   Pg 10 of 17   Trans ID: LCV2026690313 
+
+===== PAGE 11 =====
+6 
+Table 2: The Borough of Harrington Park Affordable Housing Overlay Zones 
+Property 
+Permitted Number of 
+Total Residential Units 
+Minimum Number of 
+Affordable Units  
+Block 1204, Lots 1 & 2 
+16
+3 
+Block 1204, Lots 4 & 5
+15
+3 
+Block 1204, Lots 6, 9, 10, &11 
+30 
+6  
+Block 1204, Lot 8 
+8 
+2  
+Block 1205, Lots 2 & 5 
+36 
+7 
+Block 1205, Lot 4;  
+8 
+2 
+Block 1206, Lot 1
+10
+2
+Block 1207, Lot 2
+60
+12 
+Block 1316, Lots 1-7, 9 & 11
+47
+9 
+Block 1406, Lots 24, 25 & 26 
+71 
+14  
+Total 
+60 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000793-25   03/16/2026 7:15:54 PM   Pg 11 of 17   Trans ID: LCV2026690313 
+
+===== PAGE 12 =====
+New Jersey Office of Information Technology (NJOIT), Office of Geographic
+Information Systems, Sources: Esri, TomTom, Garmin, FAO, NOAA, USGS, ©
+OpenStreetMap contributors, and the GIS User Community, Microsoft, Vantor
+Norwood
+Old Tappan
+River Vale
+Emerson
+Closter
+0
+0.25
+0.5 MILES  
+KLINE ST
+GUY ST
+COUNCIL PL
+RIKER AVE
+DORA ST
+BLOCK 707
+LOT 16
+BLOCK 707
+LOT 1
+BLOCK 728
+LOT 1
+Potential Bergen County United Way Site
+Block 707, Lots 1 & 16 | Block 728, Lot 1
+0
+50
+100 FEET 
+)LJXUH Block 707, Lots 1 & 16 | Block 728, Lot 1
+Borough of Harrington Park | Amendment to the 2025 Housing Element and Fair Share Plan
+PHILLIPS PREISS GRYGIEL LEHENY KELLER LLC 2026
+                                                                                                                                                                                              
+BER-L-000793-25   03/16/2026 7:15:54 PM   Pg 12 of 17   Trans ID: LCV2026690313 
+
+===== PAGE 13 =====
+Sources: Esri, TomTom, Garmin, FAO, NOAA, USGS, © OpenStreetMap
+contributors, and the GIS User Community, Maxar
+Norwood
+Old Tappan
+River Vale
+Emerson
+Closter
+Schraalen
+bur
+gh 
+ 
+Ro
+ad
+Hariot Avenue (C.R. 53)
+Hackensack Avenue
+Lafayette Road (C.
+R. 109
+)
+Blanch Avenue (C.R. S-
+109)
+La Roche Avenue
+Tappan Road (C.R. 39)
+Lohs Pla
+c
+e 
+Old Hook Road
+Liv
+in
+gston Street (C
+.R. 505)
+Bogerts Mill 
+Road
+Lynn Street
+Highland Avenue
+Herring Street
+Par
+kwa
+y
+Ehret Avenue
+Harrington 
+Avenue
+(C.R. 102)
+Broo
+k S
+treet
+Glen Avenue
+George    Street
+Oradell Reservoir
+1 2
+3
+4
+5
+6
+7
+8
+10
+11
+9
+0                                 0.25                          0.5 MILES  
+Figure 2: Affordable Housing Overlay Zones
+Borough of Harrington Park | Amendment to the 2025 Housing Element and Fair Share Plan
+PHILLIPS PREISS GRYGIEL LEHENY KELLER LLC 2026
+Existing Overlay Zone
+Overlay Zone Expansion
+Overlay Zones
+Overlay ID # 
+Block 
+Lot  
+Zone 
+1 
+1204 
+4, 5 
+B-1 
+2 
+1204 
+6, 9, 10, 11 
+B-1 
+3 
+1205 
+1 
+I-1 
+4 
+1205 
+4 
+I-1 
+5 
+1206  
+1 
+I-1 
+6 
+1207 
+2 
+I-1 
+7 
+1316 
+1-7, 9 & 11 
+B-2 
+ 
+Existing Affordable Housing Overlay Zone 
+Proposed Affordable Housing Overlay Zone Expansion
+Overlay ID # 
+Block 
+Lot  
+Zone 
+8 
+1204 
+1, 2 
+B-1 
+9 
+1204 
+8 
+B-1 
+10 
+1205 
+2, 5 
+I-1 
+11 
+1406 
+24, 25, 26 
+R-1 
+ 
+                                                                                                                                                                                              
+BER-L-000793-25   03/16/2026 7:15:54 PM   Pg 13 of 17   Trans ID: LCV2026690313 
+
+===== PAGE 14 =====
+9 
+Summary 
+The Borough of Harrington Park has limited resources in terms of vacant and/or developable land. 
+However, the Borough is committed to addressing its fair share obligation to provide affordable housing. 
+Harrington Park will continue to pursue and encourage realistic opportunities for the development of new 
+affordable housing units in the Borough through innovative mechanisms including accessory apartment 
+incentives, overlay zoning, municipal mandatory set-aside, and continued pursuit of a partnership to 
+develop special needs housing on Borough-owned land with Bergen County United Way. 
+ 
+                                                                                                                                                                                              
+BER-L-000793-25   03/16/2026 7:15:54 PM   Pg 14 of 17   Trans ID: LCV2026690313 
+
+===== PAGE 15 =====
+BER-L-000793-25
+03/16/2026 7:15:54 PM
+Pg 15o0f17
+Trans ID: LCV2026690313
+WHEREAS, the Borough participated in mediations and sessions pursuant to, and before,
+the Program and ultimately entered into Settlement Agreements with
+FSHC; and
+WHEREAS, Hon. Ronald Bookbinder,
+A.J.S.C, serving as the Mount Laurel Judge,
+entered an Order, dated February 4, 2026, ordering that (1) the Settlements are approved, (2) the
+endorsed Fourth Round HEFSP (as amended) is approved, (3) the challenge filed by Fair Share
+Housing Center is dismissed, (4) the Borough is authorized to adopt and file the Amended Fourth
+Round HEFSP and notice and adopt the implementing ordinances and resolutions on or before
+March 16, 2026, and (5) thereafter the Court shall schedule a Fairness and/or Compliance Hearing
+to consider approval of the Amended Fourth Round HEFSP and enter the Borough’s certification
+ofcompliance and repose from builder's remedy and/or exclusionary zoning litigation in the Fourth
+Round and the period 2025 to 2035; and
+WHEREAS, upon notice duly provided pursuant to N.L.S.A. 40:55D-13, the Planning
+Board of the Borough of Harrington Park held a public hearing on the Amended Fourth Round
+HEFSP on March 4, 2026; and,
+WHEREAS, the Planning Board determined, after hearing testimony from the Borough
+Planner and the public, that the attached Amended Fourth Round HEFSP will guide the use of
+lands in the Borough in a manner which protects public health and safety and promotes the general
+welfare in accordance with N.J.S.A. 40:55D-28, and is designed to achieve access to affordable
+housing to meet the Borough’s Fourth Round Mount Laurel constitutional affordable housing
+obligations and considers the lands that are most appropriate for construction of low and moderate
+income housing in accordance with N.J.S.A. 52:27D-310; and
+WHEREAS, the Planning Board recommends by this Resolution that the Borough Council
+of the Borough of Harrington Park endorse the amended Fourth Round HEFSP; and
+3
+
+===== PAGE 16 =====
+BER-L-000793-25
+03/16/2026 7:15:54 PM
+Pg 16o0f17
+Trans ID: LCV2026690313
+NOW, THEREFORE, BE IT RESOLVED, on this 4th day of March 2026, that the
+Planning Board of the Borough of Harrington Park, County of Bergen, State of New Jersey, as
+follows:
+1.
+The foregoing recitals are incorporated herein as if set forth in full.
+2.
+The Planning Board, having reviewed the proposed Amended Fourth Round HEFSP,
+finds the same will guide the use of lands in the Borough in a manner which protects
+public health and safety and promotes the general welfare in accordance with N.J.S.A.
+40:55D-28, and is designed to achieve access to affordable housing to meet the
+Borough’s Fourth Round Mount Laurel constitutional affordable housing obligations
+and considers the lands that are most appropriate for construction of low and moderate
+income housing in accordance with N.J.S.A. 52:27D-310.
+3.
+The Planning Board hereby adopts the Amended Fourth Round HEFSP attached hereto
+as Exhibit A.
+4.
+This Resolution and the Amended Fourth Round HEFSP shall be filed with the
+Superior Court no later than March 16, 2026;
+5.
+The Secretary of the Planning Board shall forward a copy of this Resolution, with the
+attached Fourth Round HEFSP, to the New Jersey State Office of Planning Advocacy
+and to the Bergen County Planning Board, within 30 days of the date of adoption of
+this resolution, and a notice that the Fourth Round HEFSP has been adopted shall be
+sent to the municipal clerk of each adjoining municipality; and
+6.
+This Resolution shall be effective immediately upon adoption.
+Adopted: March 4, 2026
+Memorialized: March 4, 2026
+4
+
+===== PAGE 17 =====
+BER-L-000793-25
+03/16/2026 7:15:54 PM
+Pg17of17
+Trans ID: LCV2026690313
+I, Carolyn Lee, Secretary of the Planning Board, in the County of Bergen, and State of New
+Jersey, do hereby certify the foregoing to be a true and correct copy of a Resolution passed at a
+regular meeting of the Borough of Harrington Park held on March 4, 2026.
+BOROUGH OF HARRINGTON PARK
+WA, BOARD
+‘
+YA
+Carolyn Lee, Secretary
+Borough of Harrington Park Planning Board
+5

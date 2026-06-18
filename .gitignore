@@ -1,2 +1,7 @@
 __pycache__/
 *.pyc
+
+# Large/regenerable raw downloads (kept out of git; OCR text + parsed JSON are tracked)
+sources/cache/
+*.xlsx
+sources/*.html

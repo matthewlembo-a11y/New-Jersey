@@ -1,0 +1,2019 @@
+SOURCE_URL: https://library.njcourts.gov/files/civil/affordable-housing/bergen/garfield-city/4300.00GarfieldHousingElementMay222025forfiling.pdf?VersionId=c_jz6.q7XgIzCwKh8eJnFJs98YmmURpZ
+
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+ 
+Housing Element  
+ 
+ 
+ 
+ 
+City of Garfield 
+Bergen County, New Jersey 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PREPARED FOR: 
+City of Garfield Planning Board 
+BA: 4300.00 
+MAY 12, 2025 
+ 
+ADOPTED MAY 22, 2025 
+ 
+BURGIS 
+A SSOC I ATES, 
+IN C. 
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 1 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 2 =====
+Community Planning 
+Principals: 
+Land Development and Design 
+Joseph H. Burgis PP, AICP 
+Landscape Architecture 
+Edward Snieckus, Jr. PP, LLA, ASLA 
+ 
+David Novak PP, AICP 
+ 
+ 
+ 
+ 
+b a 
+B
+U
+R
+G
+I
+S 
+A S S O C I A T E S,  I N C. 
+ 
+ 
+ 
+ 
+ 
+HOUSING ELEMENT  
+CITY OF GARFIELD 
+BERGEN COUNTY, NEW JERSEY 
+ 
+ 
+ 
+PREPARED FOR: 
+ 
+CITY OF GARFIELD PLANNING BOARD 
+BA#  4300.00 
+ 
+ 
+ 
+ 
+The original document was appropriately signed and sealed on May 12, 2025 in accordance with Chapter 
+41 of Title 13 of the State Board of Professional Planners. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_____________________________  
+ 
+ 
+ 
+_____________________________ 
+Joseph H. Burgis PP, AICP 
+ 
+ 
+ 
+ 
+Allison J. Fahey, PP, AICP 
+Professional Planner #2450 
+ 
+ 
+ 
+ 
+Professional Planner #6406 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 2 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 3 =====
+ 
+ 
+MEMBERS OF THE CITY OF GARFIELD PLANNING BOARD 
+Everett E. Garnto, Jr., Mayor 
+James Kovacs, Jr., Class II Member 
+Kevin Kane, Jr., Deputy Mayor, Class III Member 
+James Clark 
+Fasil Khan 
+Michael Garcia 
+Antonino Randazzo 
+Constantino Conte 
+John Tamweber 
+Sun Mellawa, First Alternate 
+Gerald Walis, Second Alternate 
+ 
+Planning Board Attorney/Secretary 
+Alyssa A. Cimino, Esq. 
+ 
+Mayor and Council 
+Everett E. Garnto, Jr., Mayor 
+Tana Raymond, Deputy Mayor / Mayoral Advisor 
+Kevin Kane, Jr., Deputy Mayor 
+Richard Rigoglioso, Councilman 
+Joseph Delaney, Councilman 
+ 
+City Manager 
+Erin Nora Delaney 
+ 
+Affordable Housing Planning Consultant 
+Joseph H. Burgis, PP, AICP 
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 3 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 4 =====
+ 
+ 
+TABLE OF CONTENTS 
+ 
+EXECUTIVE SUMMARY ............................................................................................................................................................ 1 
+SECTION I: INTRODUCTION................................................................................................................................................... 2 
+SECTION II: HOUSING ELEMENT ........................................................................................................................................... 7 
+SECTION III:  FAIR SHARE OBLIGATION .............................................................................................................................. 19 
+SECTION IV:  FAIR SHARE PLAN ......................................................................................................................................... 19 
+ 
+LIST OF TABLES 
+ 
+Table 1: Dwelling Units (1960 to 2023)................................................................................................................... 7 
+Table 2: Housing Units by Tenure and Occupancy Status (2010 - 2023) .................................................... 8 
+Table 3: Units in Structure (2010 - 2023) .............................................................................................................. 9 
+Table 4: Year Structure Built (2023) ....................................................................................................................... 9 
+Table 5: Occupants per Room (2010 - 2019) ...................................................................................................... 10 
+Table 6: Occupied Housing Units - Equipment and Plumbing Facilities (2010 and 2023) .................... 10 
+Table 7: Gross Rent of Specified Renter-Occupied Housing Units (2010 and 2023) ............................... 11 
+Table 8: Value of Specified Owner-Occupied Housing Units (2010 and 2023) ........................................ 11 
+Table 9: Number of Residential Building Permits Issued For New Construction (2011 to 2020) .......... 13 
+Table 10: Population Growth (1930 to 2023) ...................................................................................................... 13 
+Table 11: Age Characteristics (2010 and 2023) ................................................................................................... 14 
+Table 12: Average Household Size (1970 to 2023) ........................................................................................... 15 
+Table 13: Household Income Distribution (2010 - 2023) ................................................................................. 15 
+Table 14: Employment Status - Population 16 & Over (2010 - 2023) .......................................................... 16 
+Table 15: Employed Residents Age 16 and Over, By Occupation (2010 and 2023) ................................. 16 
+Table 16: Employed Residents Age 16 and Over, By Industry (2010 and 2023) ........................................ 17 
+Table 17: Covered Employment Trends (2007 to 2019) ................................................................................... 17 
+Table 18: Non-Residential Space Authorized by Building Permits (sq. ft.) (2009 to 2023) .................... 18 
+ 
+  
+ 
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 4 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 5 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+1 
+ 
+EXECUTIVE SUMMARY 
+ 
+The following 2025 Housing Element and Fair Share Plan (HE&FSP) of the Master Plan has been 
+prepared for the City of Garfield, Bergen County, New Jersey. A typical HEFSP is designed to outline 
+the manner in which a municipality will address its affordable housing obligations. For the Fourth 
+Round, these obligations were derived from a variety of different sources including the Council on 
+Affordable Housing (COAH), prior Court-approved Judgments of Compliance and Repose and 
+settlement agreements with Fair Share Housing Center (FSHC), and most recently from Fourth 
+Round obligation calculations provided by the Department of Community Affairs (DCA). 
+Governor Murphy signed the A-4/S-50 Bill into law on March 20, 2024 after the Senate and 
+Assembly adopted it. This legislation amended the Fair Housing Act by abolishing COAH and 
+created a new process that involved the creation of an entity known as the Affordable Housing 
+Dispute Resolution Program (the Program), which is overseen by seven retired Mount Laurel 
+judges. The Program has taken the place of the trial courts and COAH regarding the approval 
+process involving municipal HE&FSPs. The DCA and the Administrative Office of the Courts (AOC) 
+are both also involved in assisting the Program with this process. 
+ 
+The Amended Fair Housing Act directed the DCA to calculate the Present Need (also referred to 
+as the Rehabilitation obligation) and the Prospective Need (also known as the new construction 
+obligation) for Round Four based upon the standards set forth in the Fair Housing Act. The DCA 
+issued its report on October 18, 2024, and made clear that the obligations generated by the report 
+were advisory only and were non-binding. For Garfield’s Fourth Round obligation, the DCA Report 
+identified a Present Need of 322 units and a Prospective Need of zero units. 
+ 
+The City adopted a binding resolution on January 21, 2025 which committed to the present and 
+prospective need obligations identified by DCA. On May 5th, 2025, an order of the Court found the 
+present and prospective need to be recalculated, reported and uncontested as zero for 
+rehabilitation and zero for prospective need for the Fourth Round Housing cycle. The Town 
+Attorney confirmed the court order incorrectly identifies the rehabilitation as zero units when the 
+DCA has in fact determined the rehabilitation obligation to be 322 units.  
+ 
+The Housing Element is organized into four sections, the first of which provides an introduction to 
+affordable housing. Section II, the Housing Element, contains background data on the City’s 
+population and housing characteristics. Section III, the Fair Share Obligation, describes the City’s 
+obligation for the provision of affordable housing. The final section is the Fair Share Plan.    
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 5 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 6 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+2 
+ 
+ 
+SECTION I: INTRODUCTION 
+ 
+The first section of the 2025 HE&FSP provides an introduction to affordable housing. It summarizes 
+what affordable housing is, offers an overview of the history of affordable housing in the state, and 
+explains the role of a housing element and fair share plan. 
+ 
+A. 
+WHAT IS AFFORDABLE HOUSING? 
+ 
+Affordable housing is income-restricted housing that is available for sale or for rent. Typically, 
+affordable housing is restricted to very-low, low-, and moderate-income households. These 
+categories are derived from median regional income limits established for the state. New Jersey is 
+delineated into six different affordable housing regions. Garfield is located in Region 1, which 
+includes Bergen, Hudson, Passaic and Sussex Counties.  
+Moderate-Income Households 
+Earn 80% of the region’s 
+median income 
+Low-Income Households 
+Earn 50% of the region’s 
+median income 
+Very Low-Income Households 
+Earn 30% of the region’s 
+median income 
+ 
+Regional income limitations are updated every year, with different categories established for 
+varying household sizes. The following table identifies the 2024 regional income limits by 
+household size for Region 1. As shown, a three-person family with a total household income 
+of no greater than $ 86,697 could qualify for affordable housing in the City’s region. 
+ 
+Table 1: 2024 Affordable Housing Region 1 Income Limits by Household Size 
+Income Level 
+2 Person 
+3 Person 
+4 Person 
+5 Person 
+Median 
+$ 96,329 
+$ 108,371 
+$ 120,412 
+$ 130,045 
+Moderate 
+$ 77,064 
+$ 86,697 
+$ 96,329 
+$ 104,036 
+Low 
+$ 48,165 
+$ 54,185 
+$ 60,206 
+$ 65,022 
+Very-Low 
+$ 28,899 
+$ 32,511 
+$ 36,124 
+$ 39,013 
+ 
+One of the most common forms of affordable housing is inclusionary development, in which a 
+certain percentage of units within a multifamily development are reserved for affordable 
+housing. Affordable housing can be found in a variety of other forms, including but not limited 
+to: 100% affordable housing developments, deed-restricted accessory apartments, alternative 
+living arrangements such as special need/supportive housing or group homes, assisted living 
+facilities, and age-restricted housing. 
+-
+-
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 6 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 7 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+3 
+ 
+ 
+B. 
+WHAT IS THE HISTORY OF AFFORDABLE HOUSING IN NEW JERSEY? 
+ 
+The history of affordable housing in New Jersey can be traced 
+back to 1975, when the Supreme Court first decided in So. 
+Burlington Cty. NAACP v. Township of Mount Laurel (known as 
+Mount Laurel I) that every developing municipality throughout 
+New Jersey had an affirmative obligation to provide for its fair 
+share of affordable housing. In a subsequent Supreme Court 
+decision in 1983 (known as Mount Laurel II), the Court 
+acknowledged that the vast majority of municipalities had not 
+addressed their constitutional obligation to provide affordable 
+housing.  
+As such, the Court refined this obligation to establish that every 
+municipality had an obligation, although those within the 
+growth area of the State Development and Redevelopment Plan 
+(SDRP) had a greater obligation. The Court also called for the 
+state legislature to enact legislation that would save 
+municipalities from the burden of having the courts determine 
+their affordable housing needs. The result of this decision was 
+the adoption of the Fair Housing Act in 1985, as well as the 
+creation of the New Jersey Council on Affordable Housing 
+(COAH), which became the state agency responsible for 
+overseeing the manner in which New Jersey’s municipalities 
+address their low- and moderate-income housing needs. 
+COAH proceeded to adopt regulations for the First Round 
+obligation, which covered the years 1987 to 1993. It also 
+established the Second Round housing-need numbers that 
+cumulatively covered the years 1987 through 1999. Under both 
+the First and Second Rounds, COAH utilized what is commonly 
+referred to as the “fair share” methodology. COAH utilized a 
+different methodology, known as “growth share,” beginning with 
+its efforts to prepare Third Round housing-need numbers. The 
+Third Round substantive and procedural rules were first adopted 
+in 2004.  
+ 
+ 
+2015: Mount Laurel IV
+COAH defunct and moribund. All 
+affordable housing matters to be heard 
+by courts
+1986: Mount Laurel III
+Every municipality has an obligation if 
+any portion of municipality was within 
+the “Growth Share Area” of the State 
+Development and Redevelopment Plan
+1983: Mount Laurel II
+Every municipality has an obligation if 
+any portion of municipality was within 
+the “Growth Share Area” of the State 
+Development and Redevelopment Plan
+1975: Mount Laurel I
+Every developing municipality has an 
+affordable housing obligation
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 7 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 8 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+4 
+ 
+ 
+These regulations were challenged and in January 2007, the 
+Appellate Division invalidated various aspects of these rules 
+and remanded considerable portions of the rules to COAH with 
+the directive to adopt revised regulations. 
+In May 2008, COAH adopted revised Third Round regulations 
+which were published and became effective on June 2, 2008. 
+Coincident to this adoption, COAH proposed amendments to 
+the rules they had just adopted, which subsequently went into 
+effect in October 2008. These 2008 rules and regulations were 
+subsequently challenged, and in an October 2010 decision, the 
+Appellate Division invalidated the Growth Share methodology, 
+and also indicated that COAH should adopt regulations 
+pursuant to the Fair Share methodology utilized in Rounds One 
+and Two. The Supreme Court affirmed this decision in 
+September 2013, which invalidated much of the third iteration 
+of the Third Round regulations and sustained the invalidation 
+of growth share. As a result, the Court directed COAH to adopt 
+new regulations pursuant to the methodology utilized in 
+Rounds One and Two. 
+Deadlocked with a 3-3 vote, COAH failed to adopt newly 
+revised Third Round regulations in October 2014. Fair Share 
+Housing Center, who was a party in both the 2010 and 2013 
+cases, responded by filing a motion in aid of litigants’ rights 
+with the New Jersey Supreme Court. The Court heard the 
+motion in January 2015 and issued its ruling on March 20, 2015. 
+The Court ruled that COAH was effectively dysfunctional and, 
+consequently, returned jurisdiction of affordable housing issues 
+back to the trial courts where it had originally been prior to the creation of COAH in 1985. 
+This 2015 Court decision created a process in which municipalities may file a declaratory judgment 
+action seeking a declaration that their HE&FSP is constitutionally compliant and receive temporary 
+immunity from affordable housing builders’ remedy lawsuits while preparing a new or revised 
+HE&FSP to ensure their plan continues to affirmatively address their local housing need as may be 
+adjusted by new housing-need numbers promulgated by the court or COAH. 
+ 
+ 
+2024: A-4/S-50
+New Jersey adopts new legislation which 
+overhauls the FHA. COAH is elimianted, 
+and its duties are split between the DCA 
+and the AOC. 
+2018: Jacobson Decision
+Established methodology in Mercer 
+County for determining housing 
+obligation. Being utilized outside of 
+Mercer County for settlement purposes
+2017: Gap Period
+Finds that gap period (1999-2015) 
+generates an affordable housing 
+obligation
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 8 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 9 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+5 
+ 
+ 
+Subsequently, the Supreme Court ruled on January 18, 2017 that municipalities are also responsible 
+for obligations accruing during the so-called “gap period,” the period of time between 1999 and 
+2015. However, the Court stated that the gap obligation should be calculated as a never-before 
+calculated component of Present Need, which would serve to capture Gap Period households that 
+were presently in need of affordable housing as of the date of the Present Need calculation (i.e. 
+that were still income eligible, were not captured as part of traditional present need, were still living 
+in New Jersey and otherwise represented a Present affordable housing need). 
+On March 20, 2024, Governor Murphy signed the A4/S50 Bill into law, which amended the FHA for 
+the Fourth Round and beyond. The amendments to the FHA eliminated COAH, moved away from 
+just allowing trial courts to approve municipal HE&FSPs, and created a new entity to approve the 
+plans known as The Program, which consists of seven retired Mount Laurel Judges.  FHA-2 also 
+involved the DCA and the AOC in the process. 
+The DCA was designated by the amended FHA as the entity responsible for calculating the state’s 
+regional needs as well as each municipality’s present and prospective fair share obligations pursuant 
+to the Jacobson Decision. However, the Amended FHA makes clear that these numbers are advisory 
+and non-binding, and that each municipality must set its own obligation number utilizing the same 
+methodology. The Program was tasked to handle any disputes regarding affordable housing 
+obligations and plans, and to ultimately issue a Compliance Certification to approve a municipality’s 
+HE&FSP, which would continue immunity from all exclusionary zoning lawsuits until July 30, 2035. 
+C. 
+WHAT IS A HOUSING ELEMENT AND FAIR SHARE PLAN? 
+ 
+A HE&FSP serves as the blueprint for how a municipality will address its fair share of affordable 
+housing. It is designed to help a community broaden the accessibility of affordable housing.  
+While technically a discretionary component of a 
+municipal master plan, a HE&FSP is nevertheless an 
+effectively obligatory plan element. As established by 
+N.J.S.A. 40:55D-62.a of the Municipal Land Use Law 
+(MLUL), a municipality must have an adopted HE&FSP in 
+order to enact its zoning ordinance. Thus, from a public 
+policy perspective, a HE&FSP is an essential community 
+document. Moreover, without an approved HE&FSP, a municipality may be susceptible to a builder’s 
+remedy lawsuit in which a developer could file suit to have a specific piece of property rezoned to 
+permit housing at higher densities than a municipality would otherwise allow, provided a certain 
+percentage of units are reserved as affordable. 
+The Fair Housing Act, as most recently amended pursuant to FHA-2, establishes the required 
+components of a HE&FSP. These are summarized as follows: 
+The Municipal Land Use Law 
+(MLUL) is the enabling legislation 
+for municipal land use and 
+development, planning, and 
+zoning for the State of New Jersey.  
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 9 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 10 =====
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+6 
+ 
+ 
+1. An inventory of the municipality’s housing stock by age, condition, purchase or rental value, 
+occupancy characteristics, and type, including the number of units affordable to low- and 
+moderate-income households and substandard housing capable of being rehabilitated; 
+2. A projection of the municipality’s housing stock, including the probable future construction 
+of low- and moderate-income housing, for the next ten years, taking into account, but not 
+necessarily limited to, construction permits issued, approvals of applications for 
+development and probable residential development of lands; 
+3. An analysis of the municipality’s demographic characteristics, including but not necessarily 
+limited to, household size, income level and age; 
+4. An analysis of the existing and probable future employment characteristics of the 
+municipality; 
+5. A determination of the municipality’s present and prospective fair share for low- and 
+moderate-income housing and its capacity to accommodate its present and prospective 
+housing needs, including its fair share for low- and moderate-income housing; 
+6. A consideration of the lands that are most appropriate for construction of low- and 
+moderate-income housing and the existing structures most appropriate for conversion to, 
+or rehabilitation for, low- and moderate-income housing, including a consideration of lands 
+of developers who have expressed a commitment to provide low- and moderate-income 
+housing; 
+7. An analysis of the extent to which municipal ordinances and other local factors advance or 
+detract from the goal of preserving multigenerational family continuity as expressed in the 
+recommendations of the Multigenerational Family Housing Continuity Commission; 
+8. For a municipality located within the jurisdiction of the Highlands Water Protection and 
+Planning Council, an analysis of compliance of the housing element with the Highlands 
+Regional Master Plan of lands in the Highlands Preservation Area, and lands in the 
+Highlands Planning Area for Highlands conforming municipalities; and 
+9. An analysis of consistency with the State Development and Redevelopment Plan, including 
+water, wastewater, stormwater, and multi-modal transportation based on guidance and 
+technical assistance from the State Planning Commission. 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 10 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 11 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+7 
+ 
+ 
+SECTION II: HOUSING ELEMENT 
+ 
+Section II contains the Housing Element for the City. It offers a community overview of the City, as 
+well as background information regarding its population, housing, and employment characteristics. 
+It also provides projections of the City’s housing stock and employment.   
+ 
+A. .COMMUNITY OVERVIEW 
+ 
+The City of Garfield occupies an area of approximately 2.22 square miles (1,412 acres) in the 
+southwest portion of Bergen County.  Surrounding municipalities include Elmwood Park to the 
+north, Lodi and Saddle Brook to the east, Wallington and South Hackensack to the south and 
+Clifton and Passaic across the Passaic River to the west. Garfield is a fully developed community 
+consisting of predominately residential uses including detached single-family homes, duplexes 
+and several multifamily apartment complexes.  Commercial uses in the City are concentrated 
+on Passaic Street, River Drive and Midland Avenue.  Industrial development is located adjacent 
+to the rail lines in the northwest portion of the municipality. Public, semi-public and vacant land 
+interspersed throughout, accounts for a small percentage of the City’s land uses. Major 
+roadways providing regional access to Garfield include Route 46 which traverses the northeast 
+corner of the City, as well as the nearby Garden State Parkway and Interstate Route 80. The 
+Garfield and Plauderville Train Stations are located along NJ Transit’s Bergen County Line 
+providing rail access to New York City and Newark Liberty International Airport. 
+ 
+B. INVENTORY OF MUNICIPAL HOUSING STOCK 
+ 
+This section of the Housing Element provides an inventory of the City’s housing stock, as required 
+by the Municipal Land Use Law.  The inventory details housing characteristics such as age, 
+condition, purchase/rental value, and occupancy.  It also details the number of affordable units 
+available to low- and moderate-income households and the number of substandard housing units 
+capable of being rehabilitated. 
+ 
+1. Number of Dwelling Units.  As shown in Table 1 below, the City’s housing stock has grown 
+each decade from 1960 to 2023 with significant development occurring in the 1960’s of 
+over 13% and then stabilizing with modest growth after 1970.   
+ 
+Table 1: Dwelling Units (1960 to 2023) 
+Year 
+Dwelling Units 
+Numerical 
+Change 
+Percentage 
+Change 
+1960 
+9,707 
+- 
+- 
+1970 
+11,003 
+1,296 
+13.4% 
+1980 
+11,112 
+109 
+1.0% 
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 11 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 12 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+8 
+ 
+ 
+Year 
+Dwelling Units 
+Numerical 
+Change 
+Percentage 
+Change 
+1990 
+11,458 
+346 
+3.1% 
+2000 
+11,698 
+240 
+2.1% 
+2010* 
+11,788 
+289 
+2.5% 
+2023* 
+12,234 
+247 
+2.1% 
+Sources: 2010 & 2023 ACS 5-year estimates 
+ 
+The following table provides additional information regarding the tenure and occupancy of the 
+City’s housing stock. As shown below, more than 42 percent of the City’s housing stock was 
+estimated to be owner-occupied in 2023.  In this period, rental rates were 51.5%, indicating that 
+more than half of the City’s housing stock is renter occupied. The vacancy rate decreased slightly 
+between 2010 and 2023 from 6.6% to 5.7%. 
+ 
+Table 2: Housing Units by Tenure and Occupancy Status (2010 - 2023) 
+Characteristics 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Owner-occupied 
+Units 
+4,221 
+35.2% 
+5,237 
+42.8% 
+Renter-occupied 
+Units 
+6,980 
+58.2% 
+6,304 
+51.5% 
+Vacant Units 
+786 
+6.6% 
+693 
+5.7% 
+Total 
+11,987 
+100.0% 
+12,234 
+100.0% 
+Sources: 2010 & 2023 ACS 5-year estimates 
+ 
+ 
+2. Housing Characteristics. The following table provides additional information on the 
+characteristics of the City’s housing stock such as the number of units in the structure. As 
+shown below, the housing stock is predominantly characterized by two-family and 
+multifamily development, where single-family detached development accounts for 21.7 
+percent of the housing stock.   
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 12 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 13 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+9 
+ 
+ 
+Table 3: Units in Structure (2010 - 2023) 
+Units in Structure 
+2010 
+2023 
+Number  
+Percent  
+Number 
+Percent 
+ Single Family, detached  
+2,342 
+19.5% 
+2631 
+21.5% 
+ Single Family, attached  
+351 
+2.9% 
+889 
+7.3% 
+ 2 units 
+5,991 
+50.0% 
+5806 
+47.5% 
+ 3 or 4 units 
+1,635 
+13.6% 
+1335 
+10.9% 
+ 5 to 9 units 
+1,043 
+8.7% 
+543 
+4.4% 
+ 10-19 units 
+169 
+1.4% 
+217 
+1.8% 
+ 20 or more units 
+456 
+3.8% 
+781 
+6.4% 
+ Other  
+0 
+0.0% 
+32 
+0.3% 
+ Total  
+11,987 
+100.0% 
+12,234 
+100.0% 
+Sources: 2010 & 2023 ACS 5-year estimates 
+ 
+ 
+3. Housing Age. The following table details the age of the City’s housing stock. As shown, the 
+majority (83.1 percent) of the City’s housing units were constructed prior to 1980.  
+Approximately 7 percent of Garfield’s housing stock has been built since 2000.  
+ 
+Table 4: Year Structure Built (2023) 
+Year Units Built 
+Number 
+Percent 
+2020 or later 
+0 
+0.0% 
+2010 to 2019 
+372 
+3.0% 
+2000 to 2009 
+513 
+4.2% 
+1990 to 1999 
+633 
+5.2% 
+1980 to 1989 
+545 
+4.5% 
+1970 to 1979 
+948 
+7.7% 
+1960 to 1969 
+1673 
+13.7% 
+1950 to 1959 
+2568 
+21.0% 
+1940 to 1949 
+1647 
+13.5% 
+1939 or earlier 
+3335 
+27.3% 
+Total 
+12,234 
+100.0% 
+Source: 2023 American Community Survey 5-Year Estimate 
+ 
+4. 
+Housing Conditions. An inventory of the City’s housing conditions is presented in the 
+following tables. Table 5 identifies the extent of overcrowding in the City, defined as housing 
+units with more than one occupant per room. The data indicates that the number of 
+occupied housing units considered as overcrowded has increased slightly since 2010 from 
+0.7% to 2.6%.  
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 13 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 14 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+10 
+ 
+ 
+Table 5: Occupants per Room (2010 - 2019) 
+Occupants Per Room 
+2010 
+2023 
+Number  
+Percent 
+Number 
+Percent 
+1.00 or less 
+10,928 
+97.6% 
+10,770 
+93.3% 
+1.01 to 1.50  
+199 
+1.8% 
+475 
+4.1% 
+1.51 or more 
+74 
+0.7% 
+296 
+2.6% 
+Total Occupied Units 
+11,201 
+100.0% 
+11,541 
+100.0% 
+Sources: 2010 & 2023 ACS 5-year estimates 
+ 
+Table 6 below presents other key characteristics of housing conditions, including the 
+presence of complete plumbing and kitchen facilities and the type of heating equipment 
+used. As shown, all occupied housing units in the City had complete plumbing facilities as 
+of 2023 while 99.8% had complete kitchen facilities and 99% used standard heating means. 
+Albeit slight, these figures represent an improvement in the upgrading of the City’s housing 
+stock since 2010. 
+ 
+Table 6: Occupied Housing Units - Equipment and Plumbing Facilities (2010 and 2023) 
+Facilities 
+2010 
+2023 
+Number  
+Percent  
+Number 
+Percent 
+Kitchen: 
+With Complete Facilities  
+Lacking Complete Facilities 
+ 
+11,001 
+200 
+ 
+98.2% 
+1.8% 
+ 
+11,517 
+24 
+ 
+99.8% 
+0.2% 
+Plumbing:  
+With Complete Facilities  
+Lacking Complete Facilities  
+ 
+11,033 
+168 
+ 
+98.5% 
+1.5% 
+ 
+11,541 
+0 
+ 
+100.0% 
+0.0% 
+Heating Equipment (Occupied Units):  
+Standard Heating Facilities  
+Other Means,  
+No Fuel Used  
+ 
+11,173 
+8 
+20 
+ 
+99.8% 
+0.0% 
+0.2% 
+ 
+11,429 
+52 
+60 
+ 
+99.0% 
+0.5% 
+0.5% 
+Sources: 2010 & 2023 ACS 5-year estimates 
+ 
+5. Purchase and Rental Values. Table 7 shows that 17 percent of Garfield’s rental housing 
+stock had monthly rents of $1,500 or more in 2010, 57 percent of City’s rental units had 
+monthly rents of $1,500 or more by 2023. The City’s median monthly rent in 2023 was 
+$1,612, representing an 43 percent increase over the City’s median monthly rent in 2010. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 14 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 15 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+11 
+ 
+ 
+Table 7: Gross Rent of Specified Renter-Occupied Housing Units (2010 and 2023) 
+Rent 
+2010  
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Less than $500 
+86 
+1.3% 
+277 
+4.4% 
+$500 to $999 
+1,426 
+20.9% 
+2,386 
+8.1% 
+$1,000 to $1,499 
+3,453 
+50.7% 
+1,882 
+30.1% 
+$1,500 to $1,999 
+1,150 
+17% 
+2,043 
+32.7% 
+$2,000 to $2,499 
+1,219 
+19.5% 
+$2,500 to $2,999 
+161 
+2.6% 
+$3,000 or more 
+159 
+2.5% 
+No cash rent 
+163 
+X 
+59 
+X 
+Total 
+6,817 
+100.0% 
+6,245 
+100.0% 
+Median Gross Rent  
+$1,130 
+$1,612 
+Sources: 2010 & 2023 ACS 5-year estimates 
+ 
+Table 8 below shows the breakdown of the value of owner-occupied housing according to  
+2010 and 2023 ACS 5-year estimates. The majority of owner-occupied housing units in the 
+City are valued between $300,000 and $499,000. With that said, there has been a significant 
+increase in owner-occupied units within the value range of $500,000 to $999,999 between 
+2010 and 2023. The median value of owner-occupied housing units increased by 22 percent 
+from 2010 to 2023. 
+ 
+Table 8: Value of Specified Owner-Occupied Housing Units (2010 and 2023) 
+Value Range 
+2010  
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Less than $100,000 
+56 
+1.3% 
+138 
+2.6% 
+$100,000 to $149,999 
+101 
+2.4% 
+34 
+0.6% 
+$150,000 to $199,999 
+193 
+4.6% 
+116 
+2.2% 
+$200,000 to $299,999 
+744 
+17.6% 
+486 
+9.3% 
+$300,000 to $499,999 
+2,306 
+54.6% 
+2,556 
+48.8% 
+$500,000 to $999,999 
+794 
+18.8% 
+1,836 
+35.1% 
+$1,000,000 or more 
+27 
+0.6% 
+71 
+1.4% 
+Total 
+4,221 
+100.0% 
+5,237 
+100.0% 
+Median Value 
+$371,900 
+$454,300 
+Sources: 2010 & 2023 ACS 5-Year Estimates.  
+ 
+6. Number of Units Affordable to Low- and Moderate-Income Households.  Garfield is located 
+in COAH Housing Region One, which is comprised of Bergen, Passaic, Hudson and Sussex 
+Counties. Based on the 2024 Affordable Housing Professionals of New Jersey (AHPNJ) 
+regional income limits (attached hereto as Appendix A-1, the median household income for 
+a three-person household in COAH Region One is $108,371.  A three-person moderate-
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 15 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 16 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+12 
+ 
+ 
+income household, established at no more than 80 percent of the median income, would 
+have an income not exceeding $86,697. A three-person low-income household, established 
+at no more than 50 percent of the median income, would have an income not exceeding 
+$54,185. 
+ 
+Assuming a 30-year fixed-rate mortgage at in interest rate 6% with putting 5% of the 
+purchase price down, and spending 28% of income towards housing, an affordable sales 
+price for a three-person moderate-income household earning 80 percent of the median 
+income is estimated at approximately $404,000. An affordable sales price for a three-person 
+low-income household earning 50 percent of the median income is estimated at 
+approximately $253,000. These estimates are based on the UHAC affordability controls 
+outlined in N.J.A.C. 5:80-26.3. In 2023, 48.8 percent of Garfield’s housing units were valued 
+between $300,000 and $499,999. For renter-occupied housing, an affordable monthly rent 
+for a three-person moderate-income household is estimated at approximately $2,300. An 
+affordable monthly rent for a three-person low-income household is estimated at 
+approximately $1,443.  In 2023, approximately 95 percent of Garfield’s rental units had a 
+gross monthly rent of less than $2,500, and approximately 42 percent of the rental units 
+had a gross monthly rent of less than $1,500. 
+ 
+7. Completed Affordable Units. The City has an array of developments incorporating a range 
+of housing options for very low, low, and moderate-income residents. The City has 
+constructed a total of 84 affordable housing units through regional contribution 
+agreements (RCAs) with partnering municipalities. The most recent information available 
+indicates there is an estimated total of 12,234 dwelling units in the community as of 2023. 
+ 
+8. Substandard Housing Capable of Being Rehabilitated. As discussed, Garfield has an 
+estimated rehabilitation obligation of 322 units. 
+ 
+C. PROJECTION OF MUNICIPAL HOUSING STOCK 
+ 
+The COAH regulations require a projection of the community’s housing stock, including the 
+probable future construction of low- and moderate-income housing, for the ten years subsequent 
+to the adoption of the Housing Element. This projection shall be based upon an assessment of data 
+which minimally must include the number of residential construction permits issued, approvals of 
+applications for residential development, and probable residential development of lands. Each of 
+these items are identified and outlined below. 
+ 
+1. Housing Units Constructed During the Last Ten Years.  The table below provides data 
+concerning residential building permits issued for new construction between 2011 and 2020.  
+During this period, a total of 484 residential building permits were issued for new 
+construction.   
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 16 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 17 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+13 
+ 
+ 
+ 
+Table 9: Number of Residential Building Permits Issued For New Construction (2011 to 2020) 
+Year Issued 
+One & Two 
+Family 
+Multi-
+Family 
+Mixed-Use 
+Total 
+2011 
+4 
+28 
+0 
+32 
+2012 
+6 
+49 
+0 
+55 
+2013 
+7 
+35 
+0 
+42 
+2014 
+2 
+128 
+0 
+130 
+2015 
+8 
+45 
+0 
+53 
+2016 
+11 
+75 
+0 
+86 
+2017 
+6 
+3 
+0 
+9 
+2018 
+16 
+3 
+0 
+19 
+2019 
+4 
+32 
+0 
+36 
+2020 
+10 
+12 
+0 
+22 
+Total 
+74 
+410 
+0 
+484 
+Source: New Jersey Construction Reporter. 
+ 
+2. Probable Residential Development of Lands. Considering the rate of residential growth 
+experienced in the City over the past ten years and the limited amount of developable 
+parcels remaining in the City, it is anticipated that Garfield will continue to see only modest 
+growth in one- and two-family residential development over the next five years.  
+ 
+D. POPULATION ANALYSIS 
+The COAH regulations require that a Housing Element provide an analysis of the community's 
+demographic characteristics, including an assessment of population size, rate of population growth, 
+age characteristics, income levels, and household size.  Each of these items is described in this 
+section of the report. 
+ 
+1. 
+Population Size. As seen in the table below, Garfield has had a relatively stable population 
+of approximately 30,000 residents since at least 1930.  The City experienced a 6.6% increase 
+in population from 2010 to 2023. 
+ 
+Table 10: Population Growth (1930 to 2023) 
+Year 
+Population 
+Population 
+Change  
+Percent 
+Change 
+1930 
+29,739 
+- 
+- 
+1940 
+28,044 
+-1,695 
+-5.69% 
+1950 
+27,550 
+-494 
+-1.76% 
+1960 
+29,253 
+1,703 
+6.18% 
+1970 
+30,797 
+1,544 
+5.27% 
+1980 
+26,803 
+-3,994 
+-12.96% 
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 17 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 18 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+14 
+ 
+ 
+Year 
+Population 
+Population 
+Change  
+Percent 
+Change 
+1990 
+26,727 
+-76 
+-0.28% 
+2000 
+29,786 
+3,059 
+11.44% 
+2010 
+30,487 
+701 
+2.4% 
+2023* 
+32,655 
+2,015 
+6.6% 
+Sources: US Decennial Census, *American Community Survey 5-Year Estimates  
+  
+2. 
+Age Characteristics. The City’s age characteristics are outlined in the following table. 
+Roughly 45 percent of the City’s population has remained between the ages of 25 and 55 
+from 2010 to 2023. The City experienced slight increases in the population ages 35-44, 60-
+75 and 85 and older, while there were slight declines in all other age groups. Overall, the 
+median age of City residents increased from 35 in 2010 to 39 in 2023. 
+ 
+Table 11: Age Characteristics (2010 and 2023) 
+ 
+2010 
+2023 
+Age Group  
+Total  
+% Total  
+Total 
+% Total 
+Under 5 
+1865 
+6.2% 
+1941 
+6% 
+5-9 
+1789 
+5.9% 
+1728 
+5% 
+10-14 
+1,973 
+6.5% 
+1565 
+5% 
+15-19 
+1,917 
+6.3% 
+1968 
+6% 
+20-24 
+2,376 
+7.9% 
+2301 
+7% 
+25-34 
+5,160 
+17.1% 
+4747 
+15% 
+35-44 
+4,034 
+13.4% 
+5017 
+15% 
+45-54 
+4,650 
+15.4% 
+4647 
+14% 
+55-59 
+2,037 
+6.7% 
+1848 
+6% 
+60-64 
+1,193 
+4.0% 
+2020 
+6% 
+65-74 
+1340 
+4.4% 
+2912 
+9% 
+75-84 
+1276 
+4.2% 
+1258 
+4% 
+85 and over  
+580 
+1.9% 
+550 
+2% 
+Total  
+30,190 
+100.0% 
+32,502 
+100.0% 
+Median Age 
+35 
+39 
+Sources: 2010 and 2023 American Community Survey 5-Year Estimates.  
+ 
+3. Average Household Size. The average household size for the City has declined and then 
+risen again in the years between 1970 and 2023. The average household size for 2023 
+increased from 2.58 in 2010, back up to 2.81 surpassing the average household size of the 
+1970s.  
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 18 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 19 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+15 
+ 
+ 
+ 
+Table 12: Average Household Size (1970 to 2023) 
+Year 
+Average Household Size 
+1970 
+2.79 
+1980 
+2.41 
+1990 
+2.33 
+2000 
+2.55 
+2010 
+2.58 
+2023 
+2.81 
+Sources: U.S. Decennial Census 1970 to 2010; 2023 American Community Survey 5-Year Estimates. 
+ 
+4. Household Income. Detailed household income figures are shown in the table below. The 
+City’s median household income increased by approximately 47 percent, from $51,407 in 
+2010 to $75,701 in 2023. The City’s 2023 median household income was 38 percent lower 
+than that of Bergen County as a whole, which was $123,715 in 2023. 
+ 
+Table 13: Household Income Distribution (2010 - 2023) 
+Income Category 
+2010 
+2023 
+Number  
+Percent 
+Number 
+Percent 
+Less than $10,000 
+711 
+6% 
+583 
+5% 
+$10,000 to $14,999  
+592 
+5% 
+410 
+4% 
+$15,000 to $24,999 
+1313 
+12% 
+903 
+8% 
+$25,000 to $34,999 
+1135 
+10% 
+591 
+5% 
+$35,000 to $49,999 
+1580 
+14% 
+1247 
+11% 
+$50,000 to $74,999 
+2362 
+21% 
+1988 
+17% 
+$75,000 to $99,999  
+1386 
+12% 
+1661 
+14% 
+$100,000 to $149,999 
+1489 
+13% 
+2046 
+18% 
+$150,000 or more 
+402 
+4% 
+781 
+7% 
+Total  
+231 
+2% 
+1,331 
+12% 
+Median  
+$51,407 
+$75,701 
+Sources: 2010 & 2023 American Community Survey 5-Year Estimates.  
+ 
+E.  EMPLOYMENT ANALYSIS 
+ 
+The COAH regulations require that the Housing Element include an analysis of the existing and 
+probable future employment characteristics of the community. The following tables present 
+information on historic trends, employment characteristics, occupational patterns, and related data. 
+ 
+1. Employment Status. As shown below, the percentage of employed City residents, age 16 
+and over, decreased from 65 percent to 62.5 percent from 2010 to 2023. The 
+unemployment rate for the City’s civilian labor force also decreased from 7.6 percent in 
+2010 to 5.6 percent in 2023. Whereas, the percentage of the population not in the labor 
+force increased from 29.7 percent to 33.7 percent during this same period. 
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 19 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 20 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+16 
+ 
+ 
+ 
+Table 14: Employment Status - Population 16 & Over (2010 - 2023) 
+Employment Status 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+In labor force 
+16,998 
+70.3% 
+17,807 
+66.3% 
+   Civilian labor force 
+16,998 
+70.3% 
+17,796 
+66.2% 
+        Employed 
+15,711 
+65.0% 
+16,807 
+62.5% 
+        Unemployed 
+1287 
+5.3% 
+989 
+3.7% 
+             % of civilian labor force 
+- 
+7.6% 
+- 
+5.6% 
+   Armed Forces 
+0 
+0.0% 
+11 
+0.0% 
+Not in labor force 
+7,173 
+29.7% 
+9,067 
+33.7% 
+Total Population 16 and Over 
+24,171 
+100.0% 
+26,874 
+100.0% 
+Sources: 2010 & 2023 American Community Survey 5-Year Estimates.  
+ 
+ 
+2. Employment Characteristics of Employed Residents. The following two tables detail 
+information on the employment characteristics of Garfield residents. The first table details 
+employment by occupation and the second table details employment by industry. The 2023 
+ACS estimate shows that more than half of the City’s residents were employed in either the 
+management, professional and related occupations or sales and office occupations There 
+have been declines in the Service Occupations, Sales and Office Occupations as well as 
+Natural Resources, Construction and Maintenance Occupations. The percentage of 
+residents employed in Transportation, Warehousing and Utilities increased as well as 
+Finance, Insurance and Real Estate industries. Declines were seen across the Information 
+industry as well as professional, scientific, management, administrative and waste 
+management services. 
+ 
+Table 15: Employed Residents Age 16 and Over, By Occupation (2010 and 2023) 
+Occupation 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Management, professional, and related occupations 
+3,684 
+23.4% 
+5468 
+32.5% 
+Service occupations 
+2860 
+18.2% 
+2687 
+16.0% 
+Sales and office occupations 
+4,733 
+30.1% 
+3369 
+20.0% 
+Natural resources, construction, and maintenance occupations 
+1978 
+12.6% 
+1761 
+10.5% 
+Production, transportation, and material moving occupations 
+2456 
+15.6% 
+3522 
+21.0% 
+Total 
+15,711 
+100.0% 
+16,807 
+100.0% 
+Sources: 2010 & 2023 American Community Survey 5-Year Estimates.  
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 20 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 21 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+17 
+ 
+ 
+Table 16: Employed Residents Age 16 and Over, By Industry (2010 and 2023) 
+Industry  
+2010 
+2023 
+Number  
+Percent  
+Number 
+Percent 
+Agriculture, Forestry, Fisheries & Mining  
+0 
+0.0% 
+5 
+0.0% 
+Construction 
+1735 
+11.0% 
+1860 
+11.1% 
+Manufacturing 
+1674 
+10.7% 
+1850 
+11.0% 
+Transportation and Warehousing, and Utilities  
+856 
+5.4% 
+891 
+5.3% 
+Wholesale Trade 
+1860 
+11.8% 
+2012 
+12.0% 
+Retail Trade 
+970 
+6.2% 
+1406 
+8.4% 
+Information 
+363 
+2.3% 
+159 
+0.9% 
+Finance, Insurance & Real Estate 
+910 
+5.8% 
+1287 
+7.7% 
+Education, Health and Social Services 
+1823 
+11.6% 
+1623 
+9.7% 
+Arts, Entertainment & Recreational Services 
+3208 
+20.4% 
+3434 
+20.4% 
+Professional & Related Services  
+1078 
+6.9% 
+1007 
+6.0% 
+Public Administration  
+801 
+5.1% 
+809 
+4.8% 
+Other Services  
+433 
+2.8% 
+464 
+2.8% 
+Total  
+15,711 
+100.0% 
+16,807 
+100.0% 
+Sources: 2010 & 2023 American Community Survey 5-Year Estimates.  
+ 
+3. Employment Projections. A projection of the City’s probable future employment 
+characteristics is based on an assessment of historic employment trends, the number of 
+non-residential construction permits issued, and probable non-residential development of 
+lands.  Each of these items are identified and outlined below. 
+ 
+a. Historic Employment Trends.  The table below provides data on the City’s average 
+annual employment from 2010 through 2023. The City made some gains between 2012 
+and 2016, then lost jobs again in 2017 and 2018 with a modest gain again in 2019 before 
+losses during the beginning of the COVID pandemic. The number of jobs has been on 
+the rise since. 
+ 
+Table 17: Covered Employment Trends (2007 to 2019) 
+Year 
+Number of Jobs 
+Change in 
+Number of Jobs Percent Change 
+2010 
+5,295 
+- 
+- 
+2011 
+5,455 
+160 
+3.02% 
+2012 
+5,414 
+-41 
+-0.75% 
+2013 
+5,579 
+165 
+3.05% 
+2014 
+5,930 
+351 
+6.29% 
+2015 
+6,207 
+277 
+4.67% 
+2016 
+6,333 
+126 
+2.03% 
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 21 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 22 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+18 
+ 
+ 
+Year 
+Number of Jobs 
+Change in 
+Number of Jobs Percent Change 
+2017 
+6,296 
+-37 
+-0.58% 
+2018 
+6,191 
+-105 
+-1.67% 
+2019 
+6,257 
+66 
+1.07% 
+2020 
+5,389 
+-868 
+-16.1% 
+2021 
+5,716 
+327 
+5.7% 
+2022 
+6,032 
+316 
+5.2% 
+2023 
+6,181 
+149 
+2.4% 
+Sources: New Jersey Department of Labor and Workforce Development 
+ 
+b. Existing Non-Residential Square Footage. The table below provides data concerning 
+the amount of non-residential square footage authorized by building permits between 
+2010 and 2023.  During this period, building permits were issued for more than 300,000 
+square feet of non-residential space. More than two thirds of this space was for retail. 
+Thirteen percent was for assembly A-2, A-3, and A-4 space. Eight percent was office 
+space and six percent was industrial space. 
+ 
+Table 18: Non-Residential Space Authorized by Building Permits (sq. ft.) (2009 to 2023) 
+Year Issued 
+Office 
+Retail 
+A-2 
+A-3 
+A-4 
+Institu-
+tional 
+Indus- 
+trial 
+Storage 
+Total 
+2009 
+0 
+146,613 
+0 
+0 
+0 
+0 
+0 
+5,020 
+151,633 
+2010 
+3,501 
+10,850 
+8,200 
+0 
+0 
+0 
+0 
+0 
+22,551 
+2011 
+0 
+0 
+9,571 
+0 
+0 
+0 
+19,670 
+0 
+29,241 
+2012 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+8,679 
+8,679 
+2013 
+450 
+27,720 
+3,900 
+13,169 
+0 
+0 
+0 
+0 
+45,239 
+2014 
+3,500 
+18,227 
+0 
+0 
+0 
+0 
+0 
+0 
+21,727 
+2015 
+0 
+50,002 
+1,848 
+0 
+0 
+0 
+0 
+0 
+51,850 
+2016 
+0 
+64,871 
+0 
+0 
+0 
+0 
+0 
+0 
+64,871 
+2017 
+19,432 
+221 
+0 
+0 
+0 
+0 
+0 
+0 
+19,653 
+2018 
+0 
+35,000 
+1,370 
+0 
+0 
+0 
+0 
+0 
+36,370 
+2019 
+0 
+0 
+0 
+0 
+0 
+2,660 
+0 
+0 
+2,660 
+2020 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+2021 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+2022 
+550 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+550 
+2023 
+1 
+0 
+0 
+3,117 
+0 
+0 
+0 
+0 
+3,118 
+Total 
+27,434 
+353,504 
+24,889 
+16,286 
+0 
+2,660 
+19,670 
+13,699 
+458,142 
+Source: New Jersey Construction Reporter. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 22 of 23   Trans ID: LCV20251886719 
+
+===== PAGE 23 =====
+ 
+ 
+25 Westwood Avenue, Westwood NJ 07675 
+p: 201.666.1811 | f: 201.666.2599 | e: jhb@burgis.com 
+ 
+19 
+ 
+ 
+SECTION III:  FAIR SHARE OBLIGATION 
+ 
+Section III provides an overview of the City’s fair share obligation. These housing-need numbers 
+for the City are as follows: 
+ 
+ 
+Rehabilitation Obligation: 
+322 
+Prospective Need Obligation: 
+0 
+ 
+The rehabilitation component of the affordable housing obligation is based on a municipality’s 
+existing housing deficiencies. It is defined as the number of deficient housing units occupied by 
+low- and moderate-income households within a municipality. A deficient housing unit is a unit with 
+health and safety code violations that require the repair or replacement of a major system.  A major 
+system includes any of the following: weatherization, roofing, plumbing, heating, electricity, sanitary 
+plumbing, lead paint abatement and/or load bearing structural systems.  
+ 
+As a designated Urban Aid Municipality, pursuant to N.J.S.A. 52.27D-178 et. Seq., the City is only 
+required to address a Rehabilitation Obligation pursuant to N.J.S.A. 5:93-2.19. The City continues 
+to be designated an Urban Aid Municipality and thus, has never had a new construction 
+obligation. Nevertheless, the City has supported the creation of affordable housing by various 
+developers and has adopted policies in support of creating affordable housing. 
+ 
+SECTION IV:  FAIR SHARE PLAN 
+ 
+The final section of a HE&FSP typically details the manner in which a municipality will address its 
+affordable housing obligation consistent with the Fair Housing Act. The City had a surplus of 8 
+credits from the 2023 HE&FSP which shall be applied towards the 322-unit obligation. In addition, 
+the City has supported the creation of affordable housing through continued rehabilitation within 
+its municipal Housing Authority. The Housing Authority of the City of Garfield is an equal housing 
+opportunity agency that has been providing housing for low to moderate income families and 
+seniors since 1952. The Housing Authority owns and manages more than 450 units and is 
+recognized by the Department of Housing and Urban Development (HUD) as a high performing 
+Public Housing Authority. Funding for the Garfield Housing Authority comes from HUD. All 
+rehabilitation completed by the Garfield Housing Authority has been fully funded by HUD. At the 
+time of completing the Fourth Round HE&FSP, the Housing Authority provided documentation 
+showing the rehabilitation of 171 units since the Third Round HE&FSP. This, in addition to the surplus 
+from 2023, comes to a total of 143 units. The City will continue with this successful program to 
+address the entirety of the rehabilitation obligation. This plan may be amended following the 
+completion of a structural conditions survey.
+                                                                                                                                                                                              
+BER-L -000506-25   06/30/2025 2:00:00 AM   Pg 23 of 23   Trans ID: LCV20251886719 

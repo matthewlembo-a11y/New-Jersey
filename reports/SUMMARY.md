@@ -1,78 +1,102 @@
 # Bergen County Fourth Round Inventory — Executive Summary
 
-_Search-only candidate build. Generated June 2026. Branch:
-`claude/bergen-county-fourth-round-inventory-h1d2v6`._
+_**Phase 2: primary-document verification — COMPLETE.** Generated June 2026.
+Branch: `claude/funny-newton-ihn59l`._
 
 ## Headline numbers
 
 | Metric | Value |
 |---|---|
-| Municipalities covered | **70 / 70** |
-| Candidate sites catalogued | **186** |
-| Primary sources recorded | **353** |
-| Municipalities resolved (`done`) | 43 |
-| Municipalities pending verification (`in_progress`) | 27 |
-| Sites with block captured | ~82 |
-| Sites with lot captured | ~78 |
-| Sites with set-aside % | ~112 |
-| Sites with unit counts | ~93 |
+| Municipalities covered (`research_status = done`) | **70 / 70** |
+| Municipalities with verified development sites | **64** |
+| Documented site-less municipalities (legitimate) | **6** |
+| Total catalogued sites | **374** |
+| **Sites verified against a primary document** (`confidence = high`) | **359** |
+| Sites still `needs-human-review` (flagged, with notes) | 15 |
+| Sites with block captured | **309** |
+| Sites with affordable-unit count | 285 |
+| Sites with set-aside % | 256 |
+| Primary sources recorded | **428** |
 
-## What this is — and what it is NOT
+## What changed from Phase 1
 
-This inventory was built **search-only**: the environment's network egress
-allowlist blocked every primary-source host (NJ Courts library, nj.gov/DCA,
-Fair Share Housing Center, municipal sites), so site data was mined from
-WebSearch result synthesis rather than read out of the HEFSPs themselves.
+Phase 1 was a **search-only candidate build** (egress to every primary-source
+host was blocked, so nothing was confirmed against the underlying documents; all
+186 rows were `needs-human-review`). In Phase 2, **network egress was opened** and
+every municipality was re-built or re-verified by reading the **primary documents
+themselves** — adopted Fourth Round HEFSPs, settlement/consent orders, mediation
+agreements, and implementing/overlay ordinances, almost all from the NJ Courts
+affordable-housing library (`library.njcourts.gov`).
 
-**Every site row is flagged `verification_status = needs-human-review`.**
-Block/lot, density, unit counts, and set-asides that did come through are
-captured with their source URL and a `confidence` rating (`medium` = from an
-official municipal/court snippet; `low` = from a news/summary paraphrase), but
-**none has been confirmed against the underlying primary document.** Do not
-treat any parcel identifier here as contract-ready until the verification pass.
+Because the court filings are **scanned images**, a fetch + OCR pipeline was built
+(`scripts/fetchpdf.py`, PyMuPDF + Tesseract). The **authoritative NJ DCA Fourth
+Round Calculation Workbook** was downloaded and parsed (`sources/dca_bergen_obligations.json`)
+to lock each municipality's official Present/Prospective Need and cross-check
+every plan's numbers. Block/lot, density, units, and set-asides were read directly
+out of the plans and ordinances; every verified site carries a verbatim source
+quote in its `notes` for provenance.
 
-No block/lot, unit count, density, or set-aside was ever invented. Where a value
-was not stated in a reliable search result, it is left null with a note.
+## Coverage
 
-## Coverage classes
+- **64 municipalities with verified inclusionary/affordable sites** — inclusionary
+  overlays, affordable-housing overlay zones, redevelopment areas, 100%-affordable
+  and municipally-sponsored sites, group homes, and RDP-compliance parcels, each
+  with block/lot read from the adopted plan or ordinance where the document states it.
+- **6 documented site-less municipalities (legitimate, each confirmed against a
+  primary source):**
+  - **Cliffside Park**, **Garfield**, **Lodi** — Qualified Urban Aid Municipalities
+    (QUAM): rehabilitation-only, Prospective (new-construction) Need = 0, no
+    inclusionary sites. (Garfield's prior "recalculated to zero" note was corrected:
+    its 322-unit rehab obligation stands; only new construction is zero.)
+  - **Lyndhurst** — claims a Vacant Land Adjustment yielding RDP 0; HEFSP challenged
+    by Fair Share Housing Center; full Fair Share Plan not in the court-library upload.
+  - **Teterboro** — Prospective Need 92 is satisfied by existing deed-restricted
+    units under DCA's 20%-of-stock cap; no new construction required.
+  - **Moonachie** — ⚠️ **OPEN ITEM:** DCA Present 102 / Prospective 301, but NO
+    adopted HEFSP could be located (no court-library folder; municipal 2026
+    ordinances are non-housing). Flagged `REVISIT` — a potential missed deal.
 
-- **Sites found & sourced (most municipalities):** inclusionary rezonings,
-  affordable-housing overlays, redevelopment areas, 100%-affordable sites,
-  group homes, and accessory-apartment programs — each tied to a source URL.
-- **Documented zero-obligation / exempt (no inclusionary sites — legitimate):**
-  - **Cliffside Park** — Qualified Urban Aid Municipality (QUAM); prospective
-    need = 0; rehabilitation share only.
-  - **Garfield** — present and prospective need recalculated to **zero** by
-    court order (May 5, 2025); fully built-out urban city.
-  - **Teterboro** — ~827 acres of airport, near-zero residential land; zero
-    rehab obligation confirmed; no development sites.
-- **Genuine gaps — HEFSP exists but not search-accessible (verification-pass
-  targets):** Carlstadt, Lodi, Lyndhurst, Moonachie, Northvale. Each has an
-  adopted plan, ongoing litigation, or DCA numbers that could not be confirmed
-  from search snippets. These are the highest-priority items for the egress-
-  enabled pass — potential missed deals.
+## High-value leads — now verified (block/lot confirmed)
 
-## Notable high-value leads (verify first)
+- **Fair Lawn** — Fair Lawn Avenue Site = **Block 4702, Lot 1** (≤352 units, 17.65
+  du/ac, 20% set-aside) + two overlay districts. (HEFSP not filed with the court;
+  verified from the codified zoning ordinance, eCode360 Ch. 49.)
+- **Mahwah** — 457 Ridge Road = **Block 139, Lot 41** (~74 affordable), plus
+  MF-1/2/3 overlays and Block 70/82 redevelopment.
+- **Oakland** — McBride RA-6AH (**Block 3301 L2 + Block 3401** multi-lot, 240u/48aff),
+  Leone RA-7AH (**Block 4004 L4-5**, 85u/17aff), DT-1/DT-2 AH overlays (22/15 du/ac, 20%).
+- **Oradell** — 445-447 Kinderkamack rezone (22 du/ac, 15u/3aff), Reis Ave Habitat
+  (**Block 107 L29**), CBD overlay extension.
+- **Hackensack** — QUAM (rehab-only) but actively redeveloping: 7 sites incl. Meridia
+  (Block 305 L2), Essex Street Redevelopment (Block 66 multi-lot, 250u/25aff), HABC.
+- **Maywood** — West Passaic (**Block 87 L2-4**), Brook Ave (**Block 107 L51-55**),
+  AH-1 (**Block 3 L1**), all 20% set-aside.
+- **East Rutherford** (11 sites: Tomu/Meadows 420u, Monarch 316u, AHO/AHO-B/AHO-C),
+  **Saddle Brook**, **Teaneck** (822 Palisade 60 du/ac), **Englewood**, **Edgewater**.
 
-- **Fair Lawn** — large obligation (Present 224 / Prospective 650), settled with
-  FSHC (Apr 2025); Fair Lawn Avenue site referenced at up to 352 units, 20%
-  set-aside (block/lot unconfirmed).
-- **Mahwah** — 457 Ridge Road, ~74 affordable rental units.
-- **Oakland** — Leone (85 u / 17 aff), McBride (240 u), Downtown-1/-2 overlays
-  (20% set-aside, density raised to 22 du/ac).
-- **Oradell** — six Kinderkamack Road corridor sites.
-- **Hackensack** — multiple downtown redevelopment / 100%-affordable sites.
-- **Maywood** — Brook Ave & West Passaic St stacked-townhome overlays (Block 87),
-  20% set-aside.
+## Largest verified opportunities (by affordable capacity)
 
-## Next step — verification pass (resumable)
+Paramus HCC overlay (~2,683 aff capacity), Ridgewood Downtown B1/B2 (313),
+Leonia Fort Lee Road redevelopment (243, 40-60 du/ac), Englewood Cliffs Overlay
+Zone D (166), Franklin Lakes Parsons Pond (133, Cigna/IBM site), Palisades Park
+14th & Edsall (118, 100% municipally-sponsored). _Overlay-zone figures are
+maximum zoned capacity, not committed units._
 
-1. Widen the environment's network egress (hosts in `../NETWORK_ACCESS.md`).
-2. Resume on this branch and run the verification pass: for each
-   `in_progress` / `needs-human-review` row, open the HEFSP / settlement /
-   ordinance and confirm or correct block, lot, acreage, density, units,
-   set-aside, and adoption status; flip `verification_status` to `verified`.
-3. Prioritize the 5 genuine gaps (Carlstadt, Lodi, Lyndhurst, Moonachie,
-   Northvale) and the high-value leads above.
+## Remaining caveats (the 15 `needs-human-review` rows + notes)
 
-All state is in `../db/bergen.db`; re-running ingestion/export is idempotent.
+These are sites the verification agents recorded but flagged as not fully
+confirmable from the primary document (e.g., block/lot from a zoning-ordinance
+snippet rather than clean plan text, or Fourth-Round vs prior-round status
+ambiguous): clustered in **Tenafly, Upper Saddle River, Waldwick, Wallington,
+South Hackensack**. Each carries a note describing exactly what could not be
+confirmed. Also flagged for follow-up: **Moonachie** (no plan located),
+**Montvale** (Fair Share Plan section not in the court-library upload — sites
+known but block/lot pending), and **Fair Lawn** (verified from codified zoning,
+not an adopted HEFSP).
+
+## Integrity
+
+No block/lot, unit count, density, or set-aside was invented. Verified rows were
+read directly from the cited primary document (URL + section recorded, with a
+verbatim quote in `notes`); where a value was not stated it is left null. All
+state is in `db/bergen.db`; `python3 scripts/export.py` regenerates `reports/`.

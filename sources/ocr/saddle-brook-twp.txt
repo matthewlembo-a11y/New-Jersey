@@ -1,0 +1,2563 @@
+SOURCE_URL: https://library.njcourts.gov/files/civil/affordable-housing/bergen/saddle-brook-twp/SDBRK001FourthRoundHEFSPAmendedADOPTED.pdf?VersionId=tgAeFS7ZKkFV1Qi78ZkzP76F5bWB8Q9z
+
+===== PAGE 1 =====
+BER-L-000822-25
+03/13/2026 6:35:18 PM
+Pg 1of46
+Trans ID: LCV2026669469
+ae
+ee
+ee
+eis ee
+|
+:
+Engineering
+3
+tod
+;
+:
+.
+ul
+he
+Te
+ne
+|
+me i
+eal
+»
+bs
+-
+il
+a
+La
+Cie
+a.
+BS
+im ae)
+Tae ii
+'
+aie
+sere A
+cranes ae
+|
+ie
+a=ed
+=
+Amended Fourth Round
+ss di
+Housing Element
+>
+Township of Saddle Brook
+February 6, 2026
+Prepared for:
+Prepared by:
+_
+\
+f
+‘ )
+Colliers Engineering& Design
+A
+rn Oph
+() th a) y
+recat
+Shelbourne at Hunterdon
+Township of Saddle Brook
+OS
+fAies™=*
+sae pone
+AH a
+hnBa ornea
+Bergen County, New Jersey
+Daniel Bloch, PP, AICP
+Darlene A. Green, PP, AICP
+lampton, New
+Jersey
+License Ne. 33L100610700
+License No. 33100611400
+Main: 908.238.0900
+Colliersengineering.com
+$$ Accelerating success. ——
+
+===== PAGE 2 =====
+ 
+ 
+ 
+ 
+Amended Fourth Round 
+Housing Element & Fair Share Plan 
+Township of Saddle Brook 
+Bergen County, New Jersey 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adopted by the Planning Board: February 18, 2026 
+ 
+Endorsed by the Township Council: March 5, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The original of this report was signed and sealed in accordance with NJSA 45:14A-12. 
+SDP-003 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 2 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 3 =====
+Page ii  
+ 
+Table of Contents 
+Table of Contents ............................................................................................................................................... ii 
+I. 
+Introduction ................................................................................................................................................ 1 
+HOUSING ELEMENT .......................................................................................................................................... 7 
+II. 
+Required Content of Housing Element ................................................................................................... 7 
+III. 
+Population Demographics ........................................................................................................................ 9 
+IV. 
+Housing Demographics........................................................................................................................... 14 
+V. 
+Employment Demographics ................................................................................................................... 19 
+VI. 
+Projection of Housing Stock ................................................................................................................... 23 
+VII. Capacity for Fair Share ............................................................................................................................ 24 
+FAIR SHARE PLAN ........................................................................................................................................... 27 
+VIII. Required Content of Fair Share Plan ..................................................................................................... 27 
+IX. 
+Regional Income Limits ........................................................................................................................... 28 
+X. 
+Saddle Brook’s Affordable Housing Obligation ................................................................................... 29 
+XI. 
+Mechanisms & Credits ............................................................................................................................ 31 
+XII. Appendix ................................................................................................................................................... 43 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 3 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 4 =====
+Page 1  
+ 
+I. 
+Introduction 
+According to the New Jersey Fair Housing Act of 1985 (L. 1985, c. 222, s. 1, eff. July 2, 1985), a Housing 
+Plan Element shall be designed to achieve the goal of access to affordable housing to meet present 
+and prospective housing needs, with particular attention to low- and moderate-income housing. 
+This is the Township of Saddle Brook’s Amended Housing Element and Fair Share Plan (“HEFSP”) for 
+the period between 2025 and 2035 (known as the Fourth Round). Saddle Brook Township seeks to 
+voluntarily comply with its constitutional obligation to provide a realistic opportunity for affordable 
+housing. This HEFSP is prepared utilizing the Prior Round Rules1, Third Round Rules2 (as applicable), 
+and the amendments implemented in P.L. 2024, c.2. Each municipality in the State has a four-part 
+obligation:  
+1. Present Need (Rehabilitation Obligation) 
+2. Prior Round Obligation (1987-1999) 
+3. Third Round Obligation (1999–2025) 
+4. Fourth Round Obligation (2025-2035) 
+Affordable Housing History 
+Mount Laurel Doctrine 
+Affordable housing planning in New Jersey dates back to 1975, when the New Jersey Supreme Court 
+ruled in Southern Burlington County NAACP v. the Township of Mount Laurel, 67 N.J. 151 (1975), 336 
+(Mount Laurel I), that each municipality within New Jersey has a constitutional obligation to provide 
+a realistic opportunity for the construction of their fair share of affordable housing. Mount Laurel I is 
+the landmark decision that created what is commonly referred to as the “Mount Laurel Doctrine”. 
+The Supreme Court found that Mount Laurel Township’s zoning ordinance only permitted one type 
+of housing—single-family detached dwellings, while all other types of multi-family housing, such as 
+garden apartments, townhomes, or mobile home parks, were prohibited, which the court 
+determined resulted in economic discrimination and exclusion of substantial segments of the area 
+population, and therefore the zoning ordinance was unconstitutional and invalid. 
+In 1983, the New Jersey Supreme Court issued Southern Burlington County NAACP v. Township of 
+Mount Laurel, 92 N.J. 158 (1983), another monumental decision which became known as the “Mount 
+Laurel II” decision. In this case, the Supreme Court upheld and expanded upon the Mount Laurel I 
+decision. Mount Laurel II clarified that the constitutional obligation applies to all municipalities, not 
+just the “developing” municipalities as referenced in Mount Laurel I.  Each municipality is required to 
+establish zoning that provides a realistic opportunity for the construction of affordable housing to 
+comply with the municipality’s fair share obligation. Mount Laurel II established the “Builder’s 
+Remedy” as a judicial mechanism to enforce the Mount Laurel Doctrine. A Builder’s Remedy lawsuit 
+allows a plaintiff (typically a developer) to challenge a municipality’s zoning ordinance if it fails to 
+create a realistic opportunity to provide affordable housing units to meet the constitutional fair 
+share obligation.  
+ 
+1 N.J.A.C. 5:91 (Procedural) and N.J.A.C. 5:93 (Substantive) Rules. They can be found at: 
+New Jersey Department of Community Affairs | Second Round Regulations 
+2N.J.A.C. 5:96 (Procedural) and N.J.A.C. 5:97 (Substantive) Rules, which can be found at: 
+https://nj.gov/dca/dlps/hss/thirdroundregs.shtml  
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 4 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 5 =====
+Page 2  
+ 
+In 1985, the Fair Housing Act (“FHA”) was enacted in response to the court decisions, which provided 
+an administrative process for municipal compliance. The FHA also created the New Jersey Council on 
+Affordable Housing (“COAH”), which was the governmental agency responsible for promulgating 
+municipal obligations, adopting regulations, and administering the compliance process.  
+Prior Rounds (1993-1999) 
+Under COAH, the First Round of affordable housing spanned from 1987 to 1993, followed by the 
+Second Round from 1993 to 1999. The First Round Substantive Rules were enacted under N.J.A.C. 
+5:92 and the Second Round Substantive Rules were enacted under N.J.A.C. 5:93.  
+Saddle Brook’s Prior Round Compliance 
+Saddle Brook was granted a Judgement of Repose (“JOR”) for its Second Round Housing Plan on April 
+8, 2004.   Saddle Brook Township’s Second Round certified plan was subsequently extended by 
+COAH to December 31, 2008 for all municipalities.  Saddle Brook’s Second Round Plan addressed a 
+1987-1999 pre-credited need of 124 units, which was adjusted downward to a realistic development 
+potential (“RDP”) of 4 units via a vacant land adjustment. 
+Third Round (1999-2025) 
+The Third Round of affordable housing commenced in 1999, which was supposed to end in 2018; 
+however, due to numerous legal challenges and court orders, the Third Round was ultimately 
+extended through 2025.  
+The first version of COAH’s Third Round Substantive Rules was enacted under N.J.A.C. 5:94 in 2004. 
+This version of the rules was challenged and in January 2007 the Appellate Court issued a decision 
+requiring COAH to revise its rules. 
+In October 2008, COAH adopted numerous amendments to its substantive and procedural 
+regulations to address the Third Round fair housing requirements.  The Third Round methodology, 
+adopted in September 2008, required that a municipality’s fair share consist of three elements: the 
+1) rehabilitation share, 2) any remaining Prior Round obligation that was not provided for, and 3) the 
+Growth Share or Third Round, which is based upon one affordable housing unit for every four 
+market-rate units built and one affordable unit for every 16 new jobs created. In addition to these 
+new rules, COAH assigned new rehabilitation, Prior Round and Third Round obligation numbers to 
+each municipality. Additionally, the State legislature passed Assembly Bill A-500 (now P.L. 2008), 
+which made significant changes to COAH’s rules.  
+In 2009, appeals were filed regarding the new Third Round Rules’ growth share methodology.  The 
+case worked its way through the Appellate Division and finally went before the Supreme Court. The 
+Supreme Court issued a decision on September 26, 2013, finding that the key set of rules 
+establishing the growth share methodology as the mechanism for calculating “fair shares” was 
+inconsistent with the FHA and the Mount Laurel Doctrine. The Supreme Court instructed COAH “to 
+adopt new third round rules that use a methodology for determining prospective need similar to the 
+methodologies used in the first and second rounds,” within five months, which was later extended 
+to November 2014.  
+In July 2014, COAH proposed new Third Round under N.J.A.C. 5:98 and 5:99. However, the new rules 
+were never formally adopted by COAH. 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 5 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 6 =====
+Page 3  
+ 
+After COAH failed to promulgate its revised rules by the November 2014 deadline, the Supreme 
+Court made a ruling on March 10, 2015 entitled In re Adoption of N.J.A.C. 5:96 & 5:97 by the N.J. 
+Council on Affordable Housing, 221 N.J. 1 (2015) (Mount Laurel IV), which allows for judicial review 
+for constitutional compliance, as was the case before the FHA was enacted. The ruling allowed low- 
+and moderate-income families and their advocates to challenge exclusionary zoning in court, rather 
+than having to wait for COAH to issue rules that may never come. The process provided a 
+municipality that had sought to use the FHA’s mechanisms the opportunity to demonstrate 
+constitutional compliance to a court’s satisfaction before being declared noncompliant and then 
+being subjected to the remedies available through exclusionary zoning litigation, including a 
+builder’s remedy.  
+The transitional process created by the Supreme Court tracked the FHA procedures for compliance. 
+In this regard, the process permitted municipalities to file a Declaratory Judgment Action during a 
+30-day window between June 8 and July 8, 2015 that sought an adjudication as to their fair share. 
+This would enable the municipality to comply voluntarily with its constitutional obligation to provide 
+a realistic opportunity for the construction of its fair share of the regions’ low- and moderate-income 
+households.  
+On January 18, 2017, the Supreme Court decided In Re Declaratory Judgment Actions Filed by 
+Various Municipalities, County of Ocean, Pursuant to The Supreme Court’s Decision In In re Adoption 
+of N.J.A.C. 5:96, 221 N.J. 1 (2015) (“Mount Laurel V”), which held that municipalities are responsible 
+for obligations accruing during the so-called “gap period,” the period between 1999 and 2015. 
+However, the Court stated that the gap obligation should be calculated as a never-before calculated 
+component of Present Need (also referred to as Rehabilitation Obligation), which would serve to 
+capture Gap Period households that were presently in need of affordable housing as of the date of 
+the Present Need calculation (i.e. that were still income eligible, were not captured as part of 
+traditional present need, were still living in New Jersey and otherwise represented a Present 
+affordable housing need). 
+Between 2015 and 2024, municipalities that elected to voluntarily comply with their constitutional 
+obligation participated in mediation sessions, reached settlement agreements, adopted Third Round 
+Housing Element and Fair Share Plans, and most municipalities concluded the process with a Third 
+Round Judgment of Compliance and Repose (“Third Round JOR”) from the courts. As a result of 
+COAH’s inability to function, the Third Round period spanned from 1999 to 2025, a 26-year long 
+period as opposed to the 6-year periods for the first and second rounds. The Third Round is set to 
+expire on June 30, 2025. 
+Saddle Brook’s Third Round Compliance 
+Saddle Brook adopted a Housing Element and Fair Share Plan in 2006 to address the Third Round 
+Substantive Rules in N.J.A.C. 5:94. Saddle Brook submitted a petition for Third Round Substantive 
+Certification on December 20, 2005. This HEFSP was never certified by COAH due to lawsuits 
+involving the Third Round rules. 
+Under N.J.A.C. 5:97, COAH determined that Saddle Brook had a rehabilitation obligation of 38 units, 
+a Prior Round obligation of 127 units, and a Third Round growth share obligation of 68 units. Saddle 
+Brook adopted a Housing Element and Fair Share Plan in December 2008 to address these 
+obligations.  Saddle Brook’s Third Round petition was submitted to COAH on January 5, 2009, and 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 6 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 7 =====
+Page 4  
+ 
+ruled complete by COAH on May 5, 2009.  The petition was never reviewed by COAH for substantive 
+certification. 
+Pursuant to the Mount Laurel IV Supreme Court decision, the Township of Saddle Brook filed for 
+declaratory judgement on July 21, 2015, seeking a judicial declaration that its Housing Element and 
+Fair Share Plan satisfied the Township’s constitutional obligation to address its fair share of the 
+regional need for low- and moderate-income housing.   
+A Settlement Agreement was reached between the Township and the Fair Share Housing Center 
+(“FSHC”) on November 12, 2018, setting forth the extent of Saddle Brook’s Rehabilitation, Prior 
+Round, and Third Round fair share obligations, providing a brief description of the compliance 
+mechanisms by which Saddle Brook proposes to address those obligations, and setting forth other 
+terms relevant to compliance and monitoring. The Settlement Agreement outlined Saddle Brook 
+Township’s affordable housing obligations as follows:  
+ 
+Present Need (Rehabilitation Obligation): 38 units  
+ 
+Prior Round Obligation: 124 units  
+ 
+Third Round Prospective Need: 418 units, which was adjusted to an RDP of 36 units 
+On February 11, 2019, a Fairness Hearing was held by the New Jersey Superior Court, which found 
+the Settlement Agreement to be fair and reasonable to low- and moderate-income households and 
+deemed it to be preliminarily in compliance with the Township’s affordable housing fair share 
+obligation.  
+The Saddle Brook Planning Board adopted a Housing Element & Fair Share Plan on August 24, 2021, 
+to effectuate the terms of the Settlement Agreement.  The Township received a preliminary Third 
+Round Judgment of Compliance and Repose on November 21, 2019.  
+Fourth Round (2025-2035) 
+On March 20, 2024, Governor Murphy signed legislation that dramatically modified the State’s 
+affordable housing regulations. The 75-page bill, known as the A4/S50 Bill, abolished COAH, 
+modified the process of affordable housing compliance, amended bonus credits, and, among other 
+changes, set forth several important deadlines.  P.L. 2024, c.2 amended the FHA (hereinafter the 
+“Amended FHA”) and charged the Department of Community Affairs (“DCA”) with the preparation of 
+Fourth Round obligations and set forth aggressive timelines for compliance. In October 2024, DCA 
+published a report on its calculations of regional need and municipal present need (Rehabilitation 
+Obligation) and prospective fair share obligations (Fourth Round Obligation). The report is entitled 
+“Affordable Housing Obligation of 2025-2035 (Fourth Round) Methodology and Background”.  
+The DCA calculated Saddle Brook Township’s Present Need (Rehabilitation) Obligation as 42 units and 
+its Fourth Round Prospective Need Obligation as 279 units.  
+Municipalities were required to adopt a binding resolution outlining their present and prospective fair 
+share obligations by January 31, 2025.  On January 29, 2025, the Township Council adopted Resolution 
+0125-24 accepting the DCA’s calculations of the Township’s Present Need Obligation of 42 units and 
+Fourth Round Prospective Need Obligation of 279 units.  
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 7 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 8 =====
+Page 5  
+ 
+The Township also filed a “Complaint for a Declaratory of Compliance with the Fair Housing Act” on 
+January 31, 2025 as part of the compliance certification process outlined in the Director of the 
+Administrative Office of the Courts Directive #14-24.  
+During the 30-day challenge window, Saddle Brook Township did not receive any challenges to the 
+calculated obligations.  The Honorable Gregg A. Padovano, J.S.C. issued an order on May 16, 2025, 
+ordering that Saddle Brook Township’s Present Need shall be 42 units and the prospective need for 
+the Fourth Round housing cycle shall be 279 units (Docket No. BER-L-822-25). 
+Saddle Brook adopted its Fourth Round housing plan on June 16, 2025 and timely filed the adopted 
+report with the Affordable Housing Dispute Resolution Program.  Thereafter, two challenges were 
+filed during the challenge window by Fair Share Housing Center (“FSHC”) and 580 North Midland, 
+LLC.  The Township attended mandatory mediation with FSHC and 580 North Midland, LLC and 
+ultimately reached a resolution.  Settlement terms are memorialized in a Mediation Agreement 
+executed January 2, 2026 by the Township and countersigned by FSHC on January 15, 2026 and by 
+580 North Midland, LLC on January 19, 2026.   
+Municipal Summary 
+The Township of Saddle Brook is located in Bergen County in northern New Jersey and is 2.716 
+square miles in size. Saddle Brook is located along the western bank of the Saddle River, which is a 
+tributary of the Passaic River. The Garden State Parkway and Interstate 80 pass through the 
+Township’s midsection and is served by Parkway Exit 159 and I-80 Exit 62. The Main/Bergen County 
+Line of NJ Transit is the Township’s western boundary and offers rail access to New York City via 
+Secaucus Junction or Hoboken from the nearby Broadway or Plauderville stations. Saddle Brook is 
+approximately four miles from the City of Paterson and is approximately 10 miles from the George 
+Washington Bridge. 
+Affordable Housing Goals 
+It is the overall goal of the HEFSP, in combination with the Land Use Plan, to provide the planning 
+context in which access to low and moderate income housing can be provided in accordance with 
+the requirements of the Amended Fair Housing Act and the laws of the State of New Jersey, while 
+respecting the character and density of Saddle Brook Township. 
+Master Plan Goals 
+Goal 2. It is the objective of the Master Plan to avoid the haphazard proliferation of multi-family 
+projects and therefore it is its objective to channel and guide multi-family residential growth to areas 
+proposed to be zoned for such uses. 
+Policy Statement. While the Township has adopted townhouse zoning to address multi-family 
+residential construction, the Township needs to consider altering the number and location of 
+zoning for multi-family residential projects. The Township will see a large increase in the 
+number of multi-family units constructed in the Township as a result of the affordable 
+housing litigation. Additionally, these affordable housing sites are at scattered locations 
+throughout the Township. The Township seeks to minimize the number of non-age multi-
+family housing developments so as to not overburden the Township's services, and monitor 
+the development of age-restricted housing to meet, but not exceed, current needs. 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 8 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 9 =====
+Page 6  
+ 
+Goal 8. It is the purpose of this Master Plan to assist achieving the goal of access to affordable 
+housing to meet present and prospective needs, with particular attention to low and moderate 
+income housing.  
+Policy Statement. The Township has achieved the goal of access to affordable housing 
+through the rezoning of several areas of the Township to meet its affordable housing 
+obligation. The Township will continue to provide for prospective needs through its 
+development fee ordinance. 
+ 
+Affordable Housing Obligation 
+Saddle Brook Township’s four-part affordable housing obligation is as follows: 
+1. Present Need (Rehabilitation Obligation): 42 units 
+2. Prior Round Obligation: 124 units 
+3. Third Round Obligation: 418 units 
+4. Fourth Round Obligation: 279 units 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 9 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 10 =====
+Page 7  
+ 
+HOUSING ELEMENT 
+II. Required Content of Housing Element 
+The Amended Fair Housing Act requires that “the housing element be designed to achieve the goal 
+of access to affordable housing to meet present and prospective housing needs, with particular 
+attention to low- and moderate-income housing”.  As per the Municipal Land Use Law (“MLUL”), 
+specifically N.J.S.A. 52:27D-310, a housing element must contain at least the following items: 
+a. An inventory of the municipality's housing stock by age, condition, purchase or rental value, 
+occupancy characteristics and type, including the number of units affordable to low- and 
+moderate-income households and substandard housing capable of being rehabilitated, and 
+in conducting this inventory the municipality shall have access, on a confidential basis for the 
+sole purpose conducting this inventory, to all necessary property tax assessment records 
+and information in the assessor’s office, including but not limited to the property record 
+cards; 
+b. A projection of the municipality's housing stock, including the probable future construction 
+of low-and moderate-income housing for the next ten years, taking into account, but not 
+necessarily limited to, construction permits issued, approvals of applications for 
+development and probable residential development of lands; 
+c. An analysis of the municipality's demographic characteristics, including but not necessarily 
+limited to, household size, income level and age; 
+d. An analysis of the existing and probable future employment characteristics of the 
+municipality; 
+e. A determination of the municipality’s present and prospective fair share for low- and 
+moderate-income housing and its capacity to accommodate its present and prospective 
+housing needs, including its fair share for low- and moderate-income housing, as established 
+pursuant to section 3 of P.L.2024, c.2 (C.52-27D-304.1); 
+f. 
+A consideration of the lands that are most appropriate for construction of low- and 
+moderate-income housing and of the existing structures most appropriate for conversion to, 
+or rehabilitation for, low- and moderate-income housing, including a consideration of lands 
+of developers who have expressed a commitment to provide low- and moderate-income 
+housing; 
+g. An analysis of the extent to which municipal ordinances and other local factors advance or 
+detract from the goal of preserving multigenerational family continuity as expressed in the 
+recommendations of the Multigenerational Family Housing Continuity Commission, adopted 
+pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c.273 (C.52D-329.20); 
+h. For a municipality located within the jurisdiction of the Highlands Water Protection and 
+Planning Council, established pursuant to section 4 of P.L.2004, C.120 (C.13-20-4), an analysis 
+of compliance of the housing element with the Highlands Regional Master Plan of lands in 
+the Highlands Preservation Area, and lands in the Highlands Planning Area for Highlands-
+conforming municipalities.  This analysis shall include consideration of the municipality’s 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 10 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 11 =====
+Page 8  
+ 
+most recent Highlands Municipal Build Out Report, consideration of opportunities for 
+redevelopment of existing developed lands into inclusionary or 100 percent affordable 
+housing, or both, and opportunities for 100 percent affordable housing in both the 
+Highlands Planning Area and Highlands Preservation Area that are consistent with the 
+Highlands regional master plan; and 
+i. 
+An analysis of consistency with the State Development and Redevelopment Plan, including 
+water, wastewater, stormwater, and multi-modal transportation based on guidance and 
+technical assistance from the State Planning Commission. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 11 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 12 =====
+Page 9  
+ 
+III. Population Demographics  
+Population Growth 
+The Township of Saddle Brook’s population saw rapid growth through the 1950s.  During the 1960s, 
+Saddle Brook gained 5,879 new residents followed by 2,141 new residents during the 1970s.  
+However, between 1980 and 2000, the Township’s population has decreased by over 2,500.  As of 
+the 2020 Census, the population of Saddle Brook was 14,294, which is 1,681 residents less than its 
+peak of 15,975 in 1970.  See the table below for additional details. 
+Population Growth 
+Year 
+Population 
+Change 
+Percent 
+1940 
+3,169 
+--- 
+--- 
+1950 
+7,955 
+4,786 
+151.0% 
+1960 
+13,834 
+5,879 
+73.9% 
+1970 
+15,975 
+2,141 
+15.5% 
+1980 
+14,084 
+-1,891 
+-11.8% 
+1990 
+13,296 
+-788 
+-5.6% 
+2000 
+13,155 
+-141 
+9.8% 
+2010 
+13,659 
+504 
+3.6% 
+2020 
+14,294 
+635 
+4.5% 
+Source:  2010 and 2020 Census Table P1: New Jersey Population Trends, 1790 to 2000 
+The NJTPA projects that the Township’s population will grow to 16,131 residents by 2050 from their 
+baseline 2015 population of 13,952.  This represents an increase of 2,179 residents, or an average 
+increase of approximately 62 residents annually over 35 years.  However, the Township’s estimated 
+population according to the 2023 ACS is 14,349, which is 99 less than projected by the NJTPA.   
+Population Projection 
+Year 
+Population 
+Change 
+Percent 
+2015 
+13,952 
+--- 
+--- 
+2020 
+14,294 
+342 
+2.5% 
+2050 
+16,131 
+1,837 
+12.9% 
+Source:  NJTPA Plan 2050, Appendix E, 2050 Demographic Forecasts, 
+/https://www.njtpa.org/NJTPA/media/Documents/Data-Maps/Demographics-GIS/Forecasts/E-2050-
+Demographic-Forecasts.pdf; 2020 Census Table P1 
+  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 12 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 13 =====
+Page 10  
+ 
+Age Distribution of Population 
+The 2023 ACS estimates just 19.1% of Saddle Brook’s population was 65 years or older, while 21.3% 
+of the population was 19 years or younger.  The largest age cohort was estimated to be those aged 
+25 to 34 years, which comprised 15.6% (2,232) of the Township’s population.  Residents aged 35 to 
+44 years comprised the second-largest age cohort at 13.7% (1,972) of the population, followed 
+closely by those aged 65 to 74 years at 13.0% (1,867) of the population.  The median age was 
+estimated at 40.8 years in the 2023 ACS.  See the table and chart below for further details.  
+Population by Age Cohort 
+Age 
+Total 
+Percent 
+Under 5 years 
+820 
+5.7% 
+5 to 9 years 
+851 
+5.9% 
+10 to 14 years 
+763 
+5.3% 
+15 to 19 years 
+627 
+4.4% 
+20 to 24 years 
+731 
+5.1% 
+25 to 34 years 
+2,232 
+15.6% 
+35 to 44 years 
+1,972 
+13.7% 
+45 to 54 years 
+1,807 
+12.6% 
+55 to 59 years 
+716 
+5.0% 
+60 to 64 years 
+1,093 
+7.6% 
+65 to 74 years 
+1,867 
+13.0% 
+75 to 84 years 
+495 
+3.4% 
+85 years and over 
+375 
+2.6% 
+Total  
+14,349 
+100.0% 
+  
+Household Size & Type 
+According to the 2023 ACS, Saddle Brook had 5,358 households of various types.  A majority were 
+married-couple households, which comprised just over 56% of all households.  Of those, 1,259 had 
+children under 18 years old.  Female householders with no spouse present comprised 22.1% of all 
+households, while male householders with no spouse present comprised only 13.9%.  Of all 
+households with no spouse present, 180 had children under the age of 18 (3.3%), while 1,211 were 
+living alone (22.6%).  See the table on the following page for complete details. 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 13 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 14 =====
+Page 11  
+ 
+Household Type 
+Type 
+Number 
+Percent 
+Married-couple 
+3,043 
+56.8% 
+     with children under 18 
+1,259 
+23.5% 
+Cohabitating couple 
+387 
+7.2% 
+     with children under 18 
+113 
+2.1% 
+Male householder, no spouse 
+745 
+13.9% 
+ 
+with children under 18 
+ 
+50 
+0.9% 
+     living alone 
+487 
+9.1% 
+Female householder, no spouse 
+1,183 
+22.1% 
+ 
+with children under 18 
+ 
+130 
+2.4% 
+     living alone 
+724 
+13.5% 
+Total 
+5,358 
+100% 
+Source: 2023 ACS Table DP02 
+ 
+The most common household size in Saddle Brook was estimated to be two-person households, 
+which comprised 31.1% of households in 2023.  Four-person households and up comprised the 
+second-largest number of households at just under 27.8%.  Finally, one-person households 
+comprised 22.6% of the 5,358 households in Saddle Brook.  The table and pie chart below 
+graphically illustrate the household size composition in Saddle Brook.  Additionally, the 2023 ACS 
+estimated the average household size at 2.68 persons, which is slightly more than reported in the 
+2020 Census (2.57 persons). 
+  
+ 
+Household Size 
+Size 
+Total 
+Percent 
+1-person 
+1,211 
+22.6% 
+2-person 
+1,664 
+31.1% 
+3-person 
+996 
+18.6% 
+4- person 
+1,110 
+20.7% 
+5-person 
+285 
+5.3%  
+6-person 
+67 
+1.3% 
+7+person 
+25 
+0.5% 
+Total  
+5,358 
+100% 
+Source: 2023 ACS Table B11016 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 14 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 15 =====
+Page 12  
+ 
+Income & Poverty Status 
+The 2023 ACS estimated the median household income for the Township of Saddle Brook to be 
+$125,935, which is over $9,000 more than Bergen County’s and over $26,000 more than the State’s. 
+Similarly, the median family income for Saddle Brook was estimated at $143,110, which is over $702 
+below the County’s and over $21,000 greater than the State’s.  Finally, the Township’s per capita 
+income was estimated at $52,760, which is less than the County’s and the State’s.  Saddle Brook’s 
+poverty rate for individuals was estimated at 5.4%, which is less than the County’s 6.6% and the 
+State’s 9.7%.  The Township’s poverty rate for families was estimated at 4.8%, which is less than the 
+County’s 5.1% and the State’s 9.7%. The table and bar chart below provide a comparison between 
+income and poverty characteristics. 3 
+Income Characteristics 
+Income Type 
+Saddle 
+Brook 
+Township 
+Bergen 
+County 
+New Jersey 
+Median Household Income 
+$125,935  
+$116,709  
+$99,781  
+Median Family Income 
+$143,110  
+$143,812  
+$121,944  
+Per Capita Income 
+$52,760  
+$62,986  
+$53,118  
+Poverty Status (Percent of People) 
+5.4% 
+6.6% 
+9.7% 
+Poverty Status (Percent of Families) 
+4.8% 
+5.1% 
+7.1% 
+Source: 2023 ACS Table DP03 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 A household includes all the people who occupy a housing unit as their usual place of residence. A household includes the 
+related family members and all the unrelated people, if any, who share the housing unit. A family household includes a 
+householder and one or more people living in the same household who are related to the householder by birth, marriage, or 
+adoption. All people in a household who are related to the householder are regarded as members of his or her family. A 
+family household may contain people not related to the householder, but those people are not included as part of the 
+householder's family in census tabulations. A nonfamily household consists of a householder living alone or where the 
+householder shares the home only with people to whom he/she is not related (e.g., a roommate). 
+https://www.census.gov/glossary. 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 15 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 16 =====
+Page 13  
+ 
+According to the 2023 ACS, nearly 26% of households in Saddle Brook (1,393) earn over $200,000 
+annually.  Household earning $100,000 or more annually were estimated to include 3,306 
+households or 61.7% of all households in Saddle Brook.  Over 42.8% of household in Bergen County 
+earned at least $100,000 annually, including 57.3% earning more than $200,000.  Households in New 
+Jersey earning $100,000 or more according to the 2023 ACS included 50.1% of households.  It should 
+be noted that only 16.1% of households in Saddle Brook earned less than $50,000.  See the table 
+below for additional details. 
+Household Income 
+Income Range 
+Saddle Brook Twp. 
+Bergen County 
+New Jersey 
+Total 
+Percent 
+Total 
+Percent 
+Total 
+Percent 
+Less than $10,000 
+155 
+2.9% 
+12,832 
+3.6% 
+152,154 
+4.3% 
+$10,000 to $14,999 
+123 
+2.3% 
+8,198 
+2.3% 
+99,077 
+2.8% 
+$15,000 to $24,999 
+123 
+2.3% 
+14,614 
+4.1% 
+180,461 
+5.1% 
+$25,000 to $34,999 
+268 
+5.0% 
+14,258 
+4.0% 
+184,000 
+5.2% 
+$35,000 to $49,999 
+193 
+3.6% 
+23,168 
+6.5% 
+279,538 
+7.9% 
+$50,000 to $74,999 
+418 
+7.8% 
+40,634 
+11.4% 
+467,076 
+13.2% 
+$75,000 to $99,999 
+772 
+14.4% 
+38,852 
+10.9% 
+410,461 
+11.6% 
+$100,000 to $149,999 
+1,200 
+22.4% 
+64,872 
+18.2% 
+640,461 
+18.1% 
+$150,000 to $199,999 
+713 
+13.3% 
+43,129 
+12.1% 
+403,384 
+11.4% 
+$200,000 or more 
+1,393 
+26.0% 
+96,238 
+27.0% 
+721,845 
+20.4% 
+Total 
+5,358 
+100% 
+356,438 
+100% 
+3,538,457 
+100% 
+Source: 2023 ACS Table DP03 
+ 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 16 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 17 =====
+Page 14  
+ 
+IV. Housing Demographics 
+Housing Type 
+The 2023 ACS estimated the Township’s housing stock at 5,457 units, which contains a variety of 
+residential dwellings.  Single-family, detached dwellings comprised a majority of the housing stock 
+with 3,409 units or 62.5% of all dwellings.  One-unit, attached dwellings (e.g. townhomes) comprised 
+178 units (3.3%), while two-family dwellings comprised 681 units (12.5%) of the housing stock.   See 
+the table below for details.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Occupancy Status 
+Of the 5,457 residential units, 5,358 units, or 98.2% of the housing stock, was occupied.  This 
+includes 3,562 owner-occupied units and 1,796 rental units.  The 99 vacant units only included 
+properties classified as “sold, not occupied”.  See the table on the following page for details.  
+The 2023 ACS estimated the average household size in Saddle Brook was 2.68 persons, while the 
+average family size was 3.20 persons.  Comparing tenure, the average owner-occupied household 
+was 2.79, while the average renter-occupied household was 1.97 persons. 
+ 
+ 
+ 
+ 
+ 
+Housing Type by Units in Structure 
+Unit Type 
+Number of Units 
+Percent  
+1-unit, Detached 
+3,409 
+62.5% 
+1-unit, Attached 
+178 
+3.3% 
+2 units 
+681 
+12.5% 
+3 or 4 units 
+352 
+6.5% 
+5 to 9 units 
+0 
+0.0% 
+10 to 19 units 
+143 
+2.6% 
+20 or more units 
+694 
+12.7% 
+Mobile Home 
+0 
+0.0% 
+Other (boat, RV, van, etc.) 
+0 
+0.0% 
+Total 
+5,457 
+100.0% 
+Source: 2023 ACS Table DP04 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 17 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 18 =====
+Page 15  
+ 
+Occupancy Status 
+ Status  
+ Households 
+ Percent 
+Occupied Total 
+5,358 
+98.2% 
+     Owner Occupied 
+3,562 
+66.5% 
+     Renter Occupied 
+1,796 
+33.5% 
+Vacant Total 
+99 
+1.8% 
+     For rent 
+0 
+0.0% 
+     Rented, not occupied 
+0 
+0.0% 
+     For Sale 
+0 
+0.0% 
+     Sold, not occupied 
+99 
+100.0% 
+     Seasonal 
+0 
+0.0% 
+     Other 
+0 
+0.0% 
+Total 
+5,457 
+100.0% 
+ 
+Value & Rent of Housing Stock 
+The 2023 ACS provided estimates for owner-occupied housing units in Saddle Brook.  According to 
+the data, a plurality of homes in the Township were worth between $300,000 and $499,999 (49.0%).  
+Homes worth between $500,000 and $999,999 comprised 41.2% of the owner-occupied housing 
+units, while 4.2% of homes were estimated to be worth between $200,000 and $299,999.  Only 4.6% 
+of homes (149 units) were valued $100,000 and $199,999, while 38 homes (1.1%) were estimated to 
+be worth more than $1 million.  The median home value estimated in the 2023 ACS was $473,700.   
+Value of Owner-Occupied Units 
+Value  
+Number of Units 
+Percent  
+Less than $199,999 
+163 
+4.6% 
+$200,000 to $299,999 
+149 
+4.2% 
+$300,000 to $499,999 
+1,745 
+49.0% 
+$500,000 to $999,999 
+1,467 
+41.2% 
+$1,000,000 or more 
+38 
+1.1% 
+Total  
+3,562 
+100% 
+Median Value 
+$480,100 
+Source: 2023 ACS Table DP04 
+  
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 18 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 19 =====
+Page 16  
+ 
+The median rent in the Township was estimated at $2,018 per the 2023 ACS.  Looking at the rent 
+ranges, a majority of the Township’s rental units fell between $2,000 and $2,499 per month (43.6%) 
+followed by $1,500 and $1,999 (36.5%).  Units that cost less than $1,500 per month comprised 12% 
+of rentals (214 units), while 7.9% (141 units) cost more than $2,500 per month.  See the table and 
+chart below for more information.  
+Cost of Rentals 
+Cost 
+Number of Units 
+Percent  
+Less than $1,000 
+89 
+5.0% 
+$1,000 to $1,499 
+125 
+7.0% 
+$1,500 to $1,999 
+650 
+36.5% 
+$2,000 to $2,499 
+778 
+43.6% 
+$2,500 to $2,999 
+93 
+5.2% 
+$3,000 or more 
+48 
+2.7% 
+No rent paid 
+0 
+0.0% 
+Total  
+1,783 
+100.0% 
+Median (in dollars) 
+$2,018  
+Source:  2023 ACS Table DP04 
+ 
+ 
+Condition of Housing Stock  
+The Census does not classify housing units as standard or substandard, but it can provide an 
+estimate of the substandard housing units that are occupied by low and moderate income 
+households.  The Appellate Division upheld COAH’s use of three indicators to determine 
+substandard housing in the State.  Those three indicators are: 
+ 
+Houses built before 1970, and which are overcrowded with more than one person per 
+room; 
+ 
+Homes lacking complete plumbing; 
+ 
+Homes lacking kitchen facilities.    
+Most of the Census indicators available at the municipal level indicate a sound housing stock.  Only 
+52 occupied homes were estimated to not contain complete plumbing or kitchen facilities, while all 
+homes within the Township had adequate heat. 
+Condition of Housing Stock 
+Fuel Type 
+Number of Units 
+Percent  
+Lack of complete plumbing 
+30 
+0.6% 
+Lack of complete kitchen 
+25 
+0.5% 
+Lack of telephone service 
+16 
+0.3% 
+Lack of adequate heat 
+0 
+0.0% 
+Total  
+5,358 
+1.3% 
+Source: 2023 ACS Table DP04 
+4.99%
+7.01%
+36.46%
+43.63%
+5.22%
+2.69%
+Cost of Rentals 
+Less than $1,000
+$1,000 to $1,499
+$1,500 to $1,999
+$2,000 to $2,499
+$2,500 to $2,999
+$3,000 or more
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 19 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 20 =====
+Page 17  
+ 
+ 
+Housing with 1.01 or more persons per room is an index of overcrowding as defined by the U.S. 
+Department of Housing and Urban Development.  According to the 2023 ACS, 97.3% of the 
+Township’s 3,538 occupied housing units contained 1.00 or less persons per room. Whereas 2.7% 
+have more than 1.01 persons per room. 
+OCCUPANTS PER ROOM 
+Occupants 
+Number of Units 
+Percent 
+1.00 or less 
+5,211 
+97.3% 
+1.01 to 1.50 
+115 
+2.1% 
+1.51 or more 
+32 
+0.6% 
+Total  
+5,358 
+100.0% 
+Source: 2023 ACS Table DP04 
+ 
+Research has demonstrated that units built 50 or more years ago (i.e. 1975 or earlier) are much 
+more likely to be in substandard condition.  Included in the rehabilitation calculation are 
+overcrowded units and dilapidated housing as discussed above. 
+The table and bar graph on the following page provide the 2023 ACS estimates for the age of 
+housing units in Saddle Brook.  An estimated 3,525 units, or 64.6%, of the Township’s housing stock 
+were constructed prior to 1970 with over 24% being constructed prior to 1940.  Residential 
+development in Saddle Brook boomed during the 1950s and 1960s as an estimated 39.8% of the 
+Township’s housing stock was constructed during this era.  Since 1990, only 1,047 homes have been 
+constructed.  See the table and chart on the following page for more details.  The Township’s 
+Rehabilitation Obligation is 38 units, reflecting the relatively good condition of these older homes. 
+It should be noted that the “2020 or later” line item may be inaccurate.  The New Jersey Department 
+of Community Affairs’ (“DCA”), Division of Codes and Standards website provides data on building 
+permits, certificates of occupancy, and demolition permits for both residential and non-residential 
+development.  We have reviewed the data from the State for 2020 through 2024 and 142 certificates 
+of occupancy have been issued for new residential units since the beginning of 2020.  See the table 
+on page 23 for additional details. 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 20 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 21 =====
+Page 18  
+ 
+Age of Housing Stock 
+Year Built 
+Number of Units 
+Percent 
+1939 or earlier 
+565 
+10.4% 
+1940 to 1949 
+788 
+14.4% 
+1950 to 1959 
+1,562 
+28.6% 
+1960 to 1969 
+610 
+11.2% 
+1970 to 1979 
+523 
+9.6% 
+1980 to 1989 
+362 
+6.6% 
+1990 to 1999 
+161 
+3.0% 
+2000 to 2009 
+334 
+6.1% 
+2010 to 2019 
+478 
+8.8% 
+2020 or later 
+74 
+1.4% 
+Total  
+5,457 
+100% 
+Source: 2023 ACS Table DP04 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 21 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 22 =====
+Page 19  
+ 
+V. Employment Demographics 
+The 2023 ACS estimated that Saddle Brook had 8,387 residents over the age of 16 in the workforce.  
+Of those, 8,060 (96.1%) were employed, which translates to a 3.9% unemployment rate.  A majority 
+of workers were private wage and salary workers (81.3%).  However, 14.7% were workers employed 
+by the government and 4.0% were self-employed.  See the table below for details.    
+Class of Worker 
+Class of Worker 
+Number of Workers 
+Percent 
+Private wage and salary workers 
+6,582 
+81.3% 
+Government workers 
+1,189 
+14.7% 
+Self-employed workers 
+273 
+4.0% 
+Unpaid family workers 
+16 
+0.2% 
+Total employed residents 
+8,060 
+100% 
+Total unemployed residents 
+325 
+3.9% 
+Total residents in workforce 
+8,385 
+100% 
+Source: 2023 ACS Table DP-03 
+ 
+Occupational Characteristics 
+The 2023 ACS estimated 3,856 workers were employed management, business, science, and arts 
+fields, which represents 47.8% of the Township’s employed residents.  Sales and office workers 
+totaled 24.6% of employed residents, while 11.5% were employed in service jobs.  See the table 
+below for details. 
+Employed Civilian Population by Occupation (Age 16 Years or Older) 
+Occupation 
+Saddle Brook Twp. 
+Total 
+Percent 
+Management, professional, and related 
+3,856 
+47.8% 
+Service 
+930 
+11.5% 
+Sales and office 
+1,983 
+24.6% 
+Natural resources, construction, and maintenance 
+581 
+7.2% 
+Production, transportation, and material moving 
+710 
+8.8% 
+Total 
+8,060 
+100% 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 22 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 23 =====
+Page 20  
+ 
+Employment Projections 
+NJTPA’s Plan 2050 estimates that the number of available jobs in Saddle Brook will increase from 
+8,749 reported in 2015 to 9,557 in 2050.  This represents an increase of 808 jobs, or an average 
+annual increase of 23 jobs annually.  However, as detailed in the following section, the NJDLWD 
+estimated a total of 9,721 private sector jobs and 597 public-sector jobs in Saddle Brook in 2023, 
+which is 265 greater than the NJTPA 2050 projection.   
+Employment Projection 
+Year 
+Jobs 
+Change 
+Percent 
+2015 
+8,749 
+--- 
+--- 
+2050 
+9,557 
+808 
+9.2% 
+Source:  NJTPA Plan 2050, Appendix E, 2050 Demographic Forecasts 
+ 
+In-Place Employment by Industry 
+New Jersey’s Department of Labor and Workforce Development (“NJDLWD”) is the entity that reports 
+on employment and wages within the State of New Jersey through the Quarterly Census of 
+Employment and Wages (“QCEW”).  The latest Municipal Report was completed in 2023.  According 
+to the data, there were 7,966 private sector jobs within the Township, which were provided by an 
+average of 539 employers.  The QCEW data reflects employment within Saddle Brook, regardless of 
+where the employee lives. The Municipal Report redacts data from multiple private-sector industries 
+for not meeting minimum publication standards (manufacturing, professional, management, etc.)  
+The “Private Sector Total” row in the table on the following page includes the redacted data.   
+Based on the 2023 QCEW data provided, Admin/Waste remediation industry contained the largest 
+number of jobs in the Township with an average of 1,708 jobs (16.6 percent).  These jobs were 
+provided by 50 employers.  The “health/social” industry had 121 employers, which was the highest 
+employer, and the second highest number of average jobs (1,045).   
+In the public sector, the 2023 QCEW Municipal Report indicated that there was one federal 
+government employer, which had an average of 52 employees, one state government employer 
+which had an average of 37 employees, and seven local government employers, which had an 
+average of 508 jobs.  This included six local government education employers providing an average 
+of 354 jobs.  See the table on the following page for data on each industry sector.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 23 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 24 =====
+Page 21  
+ 
+Private and Public Sector Employment (2023) 
+Industry 
+Establishments 
+Employees 
+Annual 
+Wages 
+Total 
+Percent 
+Total 
+Percent 
+Construction 
+48 
+8.0% 
+220 
+2.1% 
+$108,142 
+Manufacturing 
+- 
+- 
+- 
+- 
+- 
+Wholesale Trade 
+29 
+4.9% 
+249 
+2.4% 
+$73,616 
+Retail Trade 
+36 
+6.0% 
+236 
+2.3% 
+$53,577 
+Transportation/Warehousing 
+30 
+5.0% 
+900 
+0 
+$75,356 
+Information 
+13 
+2.2% 
+161 
+0 
+$97,064 
+Finance/Insurance 
+- 
+- 
+- 
+- 
+- 
+Real Estate 
+31 
+5.2% 
+146 
+0 
+$131,593 
+Professional/Technical 
+- 
+- 
+- 
+- 
+- 
+Management 
+- 
+- 
+- 
+- 
+- 
+Admin/Waste Remediation 
+50 
+8.4% 
+1,708 
+16.6% 
+$44,572 
+Education 
+12 
+2.0% 
+67 
+0 
+$40,758 
+Health/Social 
+121 
+20.3% 
+1,045 
+10.1% 
+$68,586 
+Arts/Entertainment 
+7 
+1.2% 
+82 
+0.8% 
+$19,763 
+Accommodations/Food 
+53 
+8.9% 
+588 
+5.7% 
+$28,658 
+Other Services 
+58 
+9.7% 
+196 
+1.9% 
+$53,438 
+Unclassified 
+29 
+4.9% 
+36 
+0.4% 
+$54,234 
+Private Sector Total 
+588 
+87% 
+9,721 
+55% 
+$70,601 
+Local Government Totals 
+7 
+1.2% 
+508 
+4.9% 
+$70,820 
+    Local Government 
+Education 
+6 
+1.0% 
+354 
+3.4% 
+$72,296 
+State Government 
+1 
+0.2% 
+37 
+0.4% 
+$45,213 
+Federal Government Total 
+1 
+0.2% 
+52 
+0.5% 
+$70,924 
+Public Sector Total 
+9 
+2% 
+597 
+6% 
+$64,813 
+Source:  The table values above are from the NJDLWD's Q CEW Municipal Report. It is noted that this Report has redacted 
+multiple private sector industries for not meeting the publication standard.  
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 24 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 25 =====
+Page 22  
+ 
+Travel Time to Work 
+The 2023 ACS collected data regarding employed resident’s commute time.  The most common 
+commute time was between 15 and 19 minutes, which was made by 1,251 workers (18.3%).  A 
+commute between 10 and 14 minutes followed close behind with 1,197 workers (17.6%).   Rounding 
+off the top three was a commute of 30 to 34 minutes, which was reported by 1,045 workers (15.3%).  
+The mean travel time was estimated at 20.2 minutes.  It should be noted that only 470 workers 
+(6.9%) reported a commute of more than one hour.  Additionally, 1,139 workers, or 14.1% of the 
+Township’s employed residents, reported working from home.  See the table below for additional 
+details.  
+Commute Time 
+Travel Time (minutes) 
+Workers 
+Percent 
+Less than 5 
+135 
+2.0% 
+5 to 9 
+600 
+8.8% 
+10 to 14 
+1,197 
+17.6% 
+15 to 19 
+1,251 
+18.3% 
+20 to 24 
+997 
+14.6% 
+25 to 29 
+381 
+5.6% 
+30 to 34 
+1,045 
+15.3% 
+35 to 39 
+161 
+2.4% 
+40 to 44 
+275 
+4.0% 
+45 to 59 
+307 
+4.5% 
+60 to 89  
+407 
+6.0% 
+90 or more 
+63 
+0.9% 
+Total 
+6,819 
+100% 
+Source: 2023 ACS Table B08303 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 25 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 26 =====
+Page 23  
+ 
+VI. Projection of Housing Stock 
+As per the MLUL, specifically N.J.S.A. 52:27D-310, a housing element must contain a projection of the 
+municipality's housing stock, including the probable future construction of low- and moderate-
+income housing for the next ten years, taking into account, but not necessarily limited to, 
+construction permits issued, approvals of applications for development and probable residential 
+development of lands. 
+The DCA Division of Codes and Standards website provides data on building permits, certificates of 
+occupancy, and demolition permits for both residential and non-residential development through 
+the New Jersey Construction Reporter.  This database contains permit and certificate of occupancy 
+information that is submitted by municipal construction officials across the State each month.  The 
+Construction Reporter has information dating back to 2000, which can be used to show the 
+Township’s historic development trends.  However, data from 2013 and onward was reviewed to 
+determine more recent trends.   
+As shown in the table below, the issuance of residential certificates of occupancy varies from year to 
+year in the Township of Saddle Brook.  From 2013 to 2018, 21 certificates of occupancy were issued, 
+while 39 were issued in 2019 and another 89 were issued in 2020.  Of those issued in 2020, 80 were 
+for multi-family units and 9 were for single- or two-family dwelling.  Between 2021 and October of 
+2025, 53 certificates of occupancy were issued, including 43 in 2024 alone.  It should be noted that 
+40 of the certificates issued in 2024 were for multi-family units.   Since 2013, a total of 124 
+demolition permits were issued, which equates to a net development of 78 residential units.  
+Aside from any inclusionary sites identified for the Third Round and the Market Street 
+Redevelopment Plan, the Township does not foresee any significant residential growth during the 
+Fourth Round period. The Township estimates approximately 20 new housing units might be 
+developed as infill or minor subdivisions of oversized lots. 
+ 
+ 
+'13
+'14
+'15
+'16
+'17
+'18
+'19
+'20
+'21
+'22
+'23
+'24
+'25
+Total
+COs Issued
+4
+4
+7
+2
+2
+2
+39
+89
+2
+7
+1
+43
+0
+202
+Demolitions
+3
+3
+2
+3
+3
+3
+3
+4
+0
+0
+101
+0
+1
+126
+Net Development
+1
+1
+5
+-1
+-1
+-1
+36
+85
+2
+7
+-100
+43
+-1
+76
+Historic Trend of Residential Certificates of Occupancy & Demolition Permits (2013-2025)
+Source:  NJDCA, Construction Reporter - Housing Units Certified and Demolition Permits, Yearly Summary Data
+Note that data from 2025 only includes January through October.
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 26 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 27 =====
+Page 24  
+ 
+VII. Capacity for Fair Share 
+This chapter of the HEFSP provides the following information as required by the rules: 
+ 
+The Township’s capacity to accommodate its housing needs. 
+ 
+A consideration of the lands that are most appropriate for construction of low and moderate 
+income housing and of the existing structures most appropriate for conversion to, or 
+rehabilitation for, low and moderate income housing. 
+ 
+Lands of developers who have expressed a commitment to provide low and moderate 
+income housing. 
+ 
+The location and capacities of existing and proposed water and sewer lines and facilities 
+relevant to the proposed affordable housing sites. 
+Land Capacity 
+Saddle Brook’s capacity to accommodate its present and prospective affordable housing need is 
+determined by three components - available land, water capacity and sewer capacity.  Note that land 
+development is limited by wetlands, flood plains, easements (conservation, sewer, water, etc.), 
+parcel size and municipal regulations. 
+The Township has conducted a Vacant Land Adjustment analysis for the Fourth Round that indicates 
+that there are no vacant lands remaining that can realistically be developed with inclusionary 
+housing projects in the Township.  However, the realistic development potential for the Fourth 
+Round has been amended to 17 as part of the Township’s Mediation Agreement with FSHC.   
+Utility Capacity 
+Saddle Brook does not supply water but only distributes potable water provided by Veolia.  Saddle 
+Brook does not treat sanitary sewer, but conveys it to Passaic Valley Sewerage Commission.  To the 
+extent of the supply of water and the treatment of sanitary sewer, the aforementioned utility 
+providers would need to opine on available capacity.  It is anticipated that the total build out of 
+affordable housing properties could be as high as 428 units.  Saddle Brook will need to evaluate the 
+capacity of the conveyance system including three sanitary sewer pump stations, at the time that 
+development for each property is presented.  It is anticipated that improvements will be necessary 
+to accommodate said developments; they can be accomplished at the time their need is 
+determined.4 
+Appropriate Locations for Affordable Housing 
+In addition to the sites that were previously identified as part of the Court-Approved Third Round 
+HEFSP, two other sites are appropriate for affordable housing: 
+1. Block 401, Lots 1, 2.01, 2.02, 3, 4, and 5 – inclusionary residential development 
+2. Block 1710, Lot 28 – inclusionary age-restricted development or inclusionary supportive, 
+independent living housing  
+Existing structures appropriate for conversion to affordable housing include homes in foreclosures, 
+which may be cost effective to buy and convert to affordable housing.  As for structures suitable for 
+ 
+4 Email from Robert Klein, PE, CME of Remington & Vernick Engineers, Township Engineer, received on February 5, 2026. 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 27 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 28 =====
+Page 25  
+ 
+rehabilitation, according to the Township’s Rehabilitation Obligation, 42 homes within the Township 
+are in need of a major system repair (e.g.  roof, electric, plumbing, etc.). 
+Potential Affordable Housing Developers 
+The Township is negotiating with potential redevelopers for the former Municipal Building site at 93-
+95 Market Street.  Otherwise, no other developers have submitted plans for consideration for 
+affordable housing development as of June of 2025. 
+Anticipated Development Patterns 
+Anticipated land use patterns within the Township of Saddle Brook will most likely follow the 
+established zoning map, except for the three new overlay zones for Block 401, Lots 1, 2.01, 2.02, 3, 4, 
+and 5 and Block 1710, Lot 28.
+ 
+Multigenerational Family Continuity Evaluation 
+P.L. 2024, c.2 amended various aspects of the Fair Housing Act.  These amendments modified the 
+mandatory components of a municipality’s housing element.  NJSA 52:27D-310g. has been added, 
+which states “An analysis of the extent to which municipal ordinances and other local factors 
+advance or detract from the goal of preserving multigenerational family continuity as expressed in 
+the recommendations of the Multigenerational Family Housing Continuity Commission, adopted 
+pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c. 273 (C.52:27D-329.20)” 
+P.L. 2021, c.273 took effect on November 8, 2021.  The law established the Multigenerational Family 
+Housing Continuity Commission, which consists of a body of nine members.  The duties of the 
+Commission include the preparation and adoption of recommendations on how State government, 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 28 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 29 =====
+Page 26  
+ 
+local government, community organizations, private entities, and community members may most 
+effectively advance the  goal of enabling senior citizens to reside at the homes of their  extended 
+families, thereby preserving and enhancing multigenerational family continuity, through the 
+modification of State and local laws and policies in the areas of housing, land use planning, parking 
+and streetscape planning, and other relevant areas.  The Law requires the Commission to report 
+annually to the Governor on its activities, findings, and recommendations, if any, for State and local 
+government.  The Department of Community Affairs (“DCA”) is required to provide staff services as 
+may be needed for the Commission to carry out its responsibilities, including assembly of necessary 
+information and statistics, and preparation of draft reports, analyses, and recommendations. 
+The State of New Jersey’s website was reviewed on March 18, 2025.  A search of the website 
+revealed no webpage for the Multigenerational Family Housing Continuity Commission.  As DCA is 
+required to provide staff and research for the Commission, DCA’s website was reviewed on March 
+18, 2025.  DCA’s website is silent regarding the Commission, its annual required reports, studies, 
+and/or recommendations.  Without recommendations from the Commission, Saddle Brook is 
+unable to conduct an analysis of its ordinances and other local factors.  Despite the absence of 
+recommendations, it should be noted that there is nothing in Saddle Brook’s zoning ordinance that 
+prohibits senior citizens from residing at the home of their extended families. 
+State Development & Redevelopment Plan Consistency 
+P.L. 2024, c.2 amended the Fair Housing Act to include a new requirement for housing elements.  
+NJSA 52:27D-310i. reads, “An analysis of consistency with the State Development and 
+Redevelopment Plan, including water, wastewater, stormwater, and multi-modal transportation 
+based on guidance and technical assistance from the State Planning Commission.” 
+The Draft State Development and Redevelopment Plan was approved by the State Planning 
+Commission (“SPC”) on December 4, 2024, and was released on December 6, 2024.  The Office of 
+Planning Advocacy (“OPA”) conducted public hearings in each of New Jersey’s 21 Counties between 
+February 12, 2025 and April 16, 2025.  The State Plan and Redevelopment Plan was adopted on 
+December 17, 2025.  Due to the State-mandated December 31, 2025 and March 15, 2026 affordable 
+housing deadlines, the Township has not yet reviewed the document for consistency.     
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 29 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 30 =====
+Page 27  
+ 
+FAIR SHARE PLAN 
+VIII. Required Content of Fair Share Plan 
+The Fair Share Plan contains the following information:  
+ 
+Description of existing credits intended to satisfy the obligation;  
+ 
+Description of mechanisms that will be used to meet any outstanding obligation; and  
+ 
+An implementation schedule that sets forth a detailed timetable for units to be provided.  
+In adopting its housing element, a municipality may provide for its fair share of low and moderate 
+income housing by means of any technique or combination of techniques that provide a realistic 
+opportunity for the provision of the fair share. As per N.J.A.C. 5:93, these potential techniques 
+include but are not limited to:  
+ 
+Rehabilitation of existing substandard housing units;  
+ 
+ECHO units (as a Rehabilitation credit);  
+ 
+Municipally-sponsored and 100% affordable developments;  
+ 
+Zoning for inclusionary development;  
+ 
+Alternative living arrangements;  
+ 
+Accessory apartment program;  
+ 
+Purchase of existing homes;  
+ 
+Write-down/buy-down programs; and  
+ 
+Assisted living residences.  
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 30 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 31 =====
+Page 28  
+ 
+IX. Regional Income Limits 
+Dwelling units are affordable to low and moderate income households if the maximum sales price 
+or rental cost is within their ability to pay such costs, based on a specific formula. The State 
+historically provided income limits based upon the median gross household income of the 
+affordable housing region in which the household is located. A moderate income household is one 
+with a gross household income equal to or more than 50 percent, but less than 80 percent, of the 
+median gross regional household income. A low income household is one with a gross household 
+income equal to 50 percent or less of the median gross regional household income. Very-low 
+income households are those with a gross household income equal to 30 percent or less of the 
+median gross household income. Saddle Brook is located in Region 1, which contains Bergen, 
+Hudson, Passaic, and Sussex Counties.  
+Using the Affordable Housing Professionals of New Jersey’s chart on the regional income limits for 
+Housing Region 1 in 2025, a four-person moderate income household is capped at $101,760.  Two-
+person moderate-income households are capped at $81,440, while two-person households could 
+make up to $50,900 to be considered a low-income household.  The table below provides the 
+median, moderate-, low-, and very-low-income limits for one-, two-, three-, and four-person 
+households in Region 1.  
+ 
+1 Person
+2 Person
+3 Person
+4 Person
+Median
+$89,100
+$101,800
+$114,500
+$127,200
+Moderate
+$71,280
+$81,440
+$91,600
+$101,760
+Low
+$44,550
+$50,900
+$57,250
+$63,600
+Very-Low
+$26,730
+$30,540
+$34,350
+$38,160
+2025 Regional Income Limits
+Income
+Household Size
+Source:  https://www.nj.gov/dca/hmfa/about/regulations/docs/UHAC_Income%20Limits.pdf
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 31 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 32 =====
+Page 29  
+ 
+X. Saddle Brook’s Affordable Housing Obligation 
+This chapter outlines the four-part affordable housing obligation Saddle Brook has been assigned.  
+Four-Part Obligation 
+Rehabilitation | 42  
+Saddle Brook accepted DCA’s rehabilitation obligation of 42 for the Fourth Round.  
+Prior Round (1987-1999) | 124  
+The 2018 Settlement Agreement and the 2021 HEFSP reaffirmed the 124-unit Prior Round obligation 
+for Saddle Brook.  
+Third Round (1999-2025) | 418  
+Saddle Brook settled with FSHC regarding its Third Round obligation and accepted an obligation of 
+418 units.  The certified Third Round HEFSP relied on a Vacant Land Adjustment resulting in an RDP 
+of 36 units and an Unmet Need of 382 units for the Third Round. 
+Fourth Round (2025-2035) | 279  
+As indicated in the May 16, 2025 Order, the Township’s Fourth Round Obligation is 279 units. 
+The Township has prepared an updated Vacant Land Inventory, which shows that aside from the 
+parcels contributing to the Third Round RDP of 36 units, there are no vacant and developable 
+properties in the Township that are suitable for inclusionary housing. However, as part of the 
+mediation process, the Township has agreed to adjust its Fourth Round RDP to 17.  The original 
+Fourth Round VLA can be found in Appendix C.  A Fourth Round RDP of 17 results in an Unmet Need 
+of 262 units.  
+The Amended FHA modified the micro-requirement formulas for the Fourth Round Obligation, 
+which are as follows: 
+ 
+Minimum 50% of the actual affordable units (exclusive of any bonus credits) available to 
+families 
+ 
+Minimum 25% of the actual affordable units (exclusive of any bonus credits) as rental units 
+ 
+Half of the above as family rental units 
+ 
+Maximum 30% of the affordable units exclusive of any bonus credits) as age-restricted 
+housing 
+ 
+Maximum 25% of the obligation as bonus credits  
+Applying the 17-unit RDP against the micro-requirements results in the following minimums and 
+maximums: 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 32 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 33 =====
+Page 30  
+ 
+ 
+17
+Calculation
+Rounding
+Percent
+Category
+6.5
+7
+50%
+Minimum Families with Children (non-restricted, excluding bonuses)
+3.25
+4
+25%
+Minimum Rentals (excluding bonuses)
+2
+2
+12.5%
+Minimum half of the above reserved for familieis with children
+4.25
+4
+25%
+Maximum Bonuses
+3.9
+3
+30%
+Maximum Senior Credits (excluding bonuses)
+RDP DCA Fourth Round Obligation
+Fourth Round Micro Requirements
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 33 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 34 =====
+Page 31  
+ 
+XI. Mechanisms & Credits 
+This chapter provides the existing and proposed mechanisms and credits for each of the four 
+affordable housing obligations.  
+Rehabilitation Mechanisms & Credits 
+The purpose of a rehabilitation program is to rehabilitate substandard housing units occupied by 
+low- and moderate-income households.  A substandard housing unit is defined as a unit with health 
+and safety code violations that require the repair of a major system such as weatherization, a roof, 
+plumbing (including wells), heating, electricity, sanitary plumbing (including septic systems), and/or 
+load bearing structural system.  Upon rehabilitation, housing deficiencies must be corrected, and 
+the house must be brought up to code.  The standard for evaluating rehabilitation activity shall be 
+the local property maintenance code, or, if none is available, the BOCA (Building Officials and Code 
+Administrators) Property Maintenance Code, in effect at the time of evaluation.  The rehabilitation 
+activity shall not include luxury improvements, the purchase of appliances (with the exception of 
+stoves) or improvements that are strictly cosmetic.  A rehabilitated unit is considered complete at 
+the date of final inspection. Rehabilitation must occur within the affordable housing round to count 
+for credit. 
+N.J.A.C. 5:93-5.2(g) and (h) requires an average of $10,000 to be spent per unit and a six-year control 
+on affordability for owner-occupied units.5  Additionally, a major system6 must be repaired in order 
+for a home to qualify as a credit.   
+Bergen County’s Office of Community Development runs a Home Improvement Program for 
+residents.  The Bergen County Home Improvement Program provides resources to rehabilitate 
+existing one- and two-family housing. This program is designed to assist owners/occupants of one- 
+and two-family homes in making necessary repairs to their homes. Eligibility is based on income, 
+family size, and type of improvement.  Saddle Brook will continue to encourage residents to 
+participate in the County Program, which does not require a shared services agreement.  
+Prior Round Mechanisms & Credits 
+As per the terms of the FSHC Settlement Agreement, Saddle Brook is addressing a Prior Round 
+Obligation of 124 units as follows: 
+1. Mayhill Apartments 
+The Mayhill Apartments are located at 140 Mayhill Street (Block 910, Lot 2). The complex consists of 
+156 one- and two-bedroom units, 15 of which are affordable family rental units.  The existing 15 
+units count for 15 credits, as well as an additional 15 rental bonus credits.  The project was 
+deemed credit worthy in the Third Round Judgment of Compliance and Repose. 
+ 
+5 The rules specifically require a minimum of $2,000 per unit to be spent on administration and $8,000 per unit to be spent on 
+the rehabilitation activity, which totals at least $10,000.   
+6 A major system is defined by N.J.A.C. 5:93-5.2(b) as weatherization, a roof, plumbing (including wells), heating, electricity, 
+sanitary plumbing (including septic systems) and/or a load bearing structural system.   
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 34 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 35 =====
+Page 32  
+ 
+2. Midland Commons/The Grande at Saddle Brook 
+Midland Commons is an inclusionary residential development on Block 402, Lots 1 and 2 at the 
+intersection of Midland and Van Bussum Avenues. The project is in the AH-3 (Affordable Housing 
+Residential District) Zone and totals 60 apartments across two buildings. The development was 
+approved on June 16th, 2015 and contains 12 affordable family rental units. The development received 
+a certificate of occupancy on July 12, 2021.  The deed restriction can be found in Appendix D.  This 
+qualifies the development for 12 credits plus 12 rental bonus credits. The project was deemed credit 
+worthy in the Third Round Judgment of Compliance and Repose. 
+3. AH-5 Zone (Block 1401, Lots 4 and 5) 
+86 North Midland Avenue is a parcel approximately 0.75 acres in size and is within the Township’s 
+Affordable Housing Residential District Zone. Once redeveloped, it is expected to produce two 
+affordable housing units. This project is thus expected to yield 2 credits. The site is vacant and flat 
+with direct access to Midland Avenue and water and sewer service is available. The project was 
+deemed credit worthy in the Third Round Judgment of Compliance and Repose. 
+4. Senior Housing at Saddle Brook (Block 408, Lot 8) 
+In 2013, Saddle Brook purchased a former nursing home at 29 Caldwell Avenue using affordable 
+housing trust funds.  The Township is leasing the property to the Housing Authority of Bergen 
+County which completed the construction of 30 handicap accessible one-bedroom affordable units 
+for senior citizens.  The development’s 30 units will count towards 30 credits of Saddle Brook’s Prior 
+Round Obligation.  The 30 unit complex received a certificate of occupancy on October 10, 2019 and 
+will be administered by the Housing Authority. The waiting list was closed within an hour of opening 
+for applications. The Housing Authority was established in 1964 with a goal of providing housing 
+low-income families and older adults.  The facility is now occupied and provides 3 moderate income 
+units, 9 low income units and 18 very low income units. The project was deemed credit worthy in the 
+Third Round Judgment of Compliance and Repose. 
+5. Saddle Brook 100% Affordable (Block 1401, Lot 18) 
+The Township of Saddle Brook is seeking to develop a 2.9 acre municipally-owned parcel at 435 
+North Midland Avenue for an affordable housing development. The project would feature a 100% 
+affordable development. Ingerman has been selected as the developer/operator of this site.  
+Ingerman (d/b/a Saddle Brook Urban Renewal Associates, LLC) filed an application for preliminary 
+site plan approval in 2021 and was approved via resolution memorialized on August 24, 2021.  In 
+2024 Ingerman filed for final site plan approval for a 58 unit 100% affordable building.  The Planning 
+Board approved the application and  memorialized the resolution on June 17, 2024 (see Appendix E).  
+The site is under construction and is anticipated to be ready for occupancy in 2026.   This 
+mechanism will yield 58 credits, of which 14 credits will be applied to the Prior Round.  The site is 
+vacant and has never been developed. There are no contamination issues. Access is available via an 
+easement from Rosol Lane, and a water main provides water service to the site. Sewer service is also 
+available, and the property is close to the Midland Avenue pump station. The project was deemed 
+credit worthy in the Third Round Judgment of Compliance and Repose. 
+6. CARING, Inc. (Block 703, Lot 31) 
+A four-bedroom group home for clients with mental disabilities operates in the Township. The 
+property was purchased in 2001 and was included in the Township’s 2004 Court Settlement. Each 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 35 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 36 =====
+Page 33  
+ 
+bedroom counts for one credit, thus totaling 4 credits for Supportive/Special Needs Housing. 
+Additionally, the facility qualifies for 4 credits of rental bonuses.  The project was deemed credit 
+worthy in the Third Round Judgment of Compliance and Repose. 
+7. Legregni Street (Block 511, Lot 19.20) 
+A supportive/special needs residence has been approved for 30 Legregni Street. The site plan 
+application was approved in August 2017 by the Zoning Board of Adjustment for 16 bedrooms for 
+special needs adults. A CO was issued for this residence on November 18, 2019.  World Wheat 
+Foundation, Inc. is the operator.  This will yield 16 credits.  There are no environmental constraints at 
+this site and adequate water and sewer capacity are available. The project was deemed credit worthy 
+in the Third Round Judgment of Compliance and Repose. 
+Prior Round Credit Summary 
+Prior Round Affordable Housing Credits 
+Project 
+Credits  
+Available 
+Prior Round  
+Units Bonus Total 
+Mayhill Apartments 
+15 
+15 
+15 
+30 
+Midland Commons  
+12 
+12 
+12 
+24 
+86 North Midland Avenue  
+2 
+2 
+  
+2 
+Senior Housing at Saddle Brook  
+30 
+30 
+  
+30 
+Saddle Brook 100% Affordable 
+58 
+14 
+  
+14 
+CARING Inc. 
+4 
+4 
+4 
+8 
+30 Legregni Street 
+16 
+16 
+  
+16 
+Total 
+93 
+31 
+124 
+Obligation 
+124 
+ 
+Third Round (1999-2025) Mechanisms & Credits 
+Vacant Land Adjustment | 36 RDP 
+The Court-Approved Third Round HEFSP relied on a Vacant Land Adjustment resulting in an RDP of 
+36 units and an Unmet Need of 382 units for the Third Round. Two mechanisms satisfy the Third 
+Round RDP of 36: 
+1. Saddle Brook 100% Affordable - Ingerman 
+The 100% Affordable project proposed for Block 1401, Lot 18 (435 North Midland Avenue) will contain 
+58 units. Of the 58 units, credits for 14 units were assigned to the Prior Round. The remaining 44 units 
+will be assigned to the Third Round.  As the site is producing family rental units,  9 rental bonus 
+credits are permitted. 
+2. Midland Commons Expansion 
+The Township has rezoned Block 402 Lots 3, 4 and 5 adjacent to Midland Commons to allow 
+additional affordable and market rate units. The site has limited environmental constraints of steep 
+slopes on 0.1 acre leaving 1.3 acres of the 1.4-acre site without constraints. Access has been 
+reserved to this vacant parcel through the adjacent Midland Commons site.  The Township Water 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 36 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 37 =====
+Page 34  
+ 
+Department upgraded water mains in the area when Midland Commons was initially proposed. An 
+upgraded sewer pump station is nearby on Fifth Street.  An inclusionary development was approved 
+by the Township on Block 402, Lot 3, which includes 6 affordable housing units.  The building 
+received a certificate of occupancy on August 1, 2024.  A deed restriction was recorded on February 
+29, 2024, which can be found in Appendix F.  The Third Round Settlement Agreement only 
+envisioned four affordable units on this site.  Therefore, four credits will be applied to the Third 
+Round RDP and the two surplus credits will be carried forward to a future obligation. 
+Third Round RDP Credit Summary 
+The two proposed mechanisms provide 57 credits as shown in the chart below.   
+Third Round Affordable Housing Credits 
+Project 
+Credits  
+Available 
+Third Round  
+Units Bonus Total 
+Midland Commons Expansion 
+6 
+4 
+0 
+4 
+Saddle Brook 100% Affordable 
+58 
+44 
+9 
+53 
+Total 
+48 
+9 
+57 
+RDP 
+36 
+ 
+Third Round Unmet Need Compliance 
+The Third Round RDP of 36 plus the 21 surplus credits created from the two RDP mechanisms leave 
+unmet need of 361 units for the Third Round.  
+The Third Round unmet need is addressed through the following mechanisms: 
+1. President Street / Midland Avenue Overlay 
+An affordable housing overlay zone was adopted as part of the Third Round for Block 102, Lots 
+19-26 at the corner of President Street and Midland Avenue in the southern end of the Township 
+near the border with the City of Garfield. The area currently consists of active industrial uses and 
+a small number of single-family homes and is within walking distance of New Jersey Transit’s 
+Plauderville train station. The overlay zone permits multifamily residential, up to three stories in 
+height at a density of 20 dwelling units per acre.  See https://ecode360.com/43382198 for the 
+AHOZ-1 Overlay Zone requirements.   
+2. OM Office Midrise District Overlay  
+An affordable housing overlay zone was adopted as part of the Third Round to cover lots in the 
+OM Office Midrise district on Block 101, Lots 2-7 and Block 403, Lots 14 and 15. The overlay is 
+located just north of the Kensington Crossing townhouse development. The overlay zoning 
+permits mixed-use buildings with commercial uses on the first floor and residential uses on the 
+second and third floors at a maximum density of 16 dwelling units per acre.  See  
+https://ecode360.com/43382213 for the AHOZ-4 Overlay Zone requirements. 
+3. B-2 Business Zone Overlay 1 
+An affordable housing overlay zone was adopted as part of the Third Round to cover properties 
+located in the B-2 Business Zone on Block 705, Lots 1 and 22-33 on the north side of Market 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 37 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 38 =====
+Page 35  
+ 
+Street. The overlay zoning permits mixed-use buildings  with commercial uses on the first floor 
+and residential uses on the second and third floors. The maximum allowable density is 12 units 
+per acre.  See https://ecode360.com/43382203 for the AHOZ-2 Overlay Zone requirements. 
+4. B-2 Business Zone Overlay 2 
+An affordable housing overlay zone was adopted as part of the Third Round to cover properties 
+in the B-2 Business Zone on Blocks 707, Lots 1, 2 (part), 3-13 and 37 and 708, Lots 1-7 are on the 
+south side of Market Street. The overlay zoning permits mixed-use buildings (with commercial 
+uses on the first floor and residential uses on the second floor. The maximum allowable density 
+is eight (8) units per acre. See https://ecode360.com/43382208 for the AHOZ-3 Overlay Zone 
+requirements. 
+5. Mandatory Set-aside Ordinance  
+A mandatory affordable housing set-aside has been adopted for all new multifamily residential 
+developments of five units or more. The set-aside for rental developments shall be 15% and the 
+set aside for for-sale developments shall be 20%. The provisions of the ordinance shall not apply 
+to residential expansions, additions, renovations, replacement, or any other type of residential 
+development that does not result in a new increase in the number of dwellings of five or more. 
+Fourth Round (2025-2035) Mechanisms & Credits 
+Vacant Land Adjustment | 17 RDP 
+The Township has prepared an updated Vacant Land Inventory, which shows that aside from the 
+parcels contributing to the Third Round RDP of 36 units, there are no vacant and developable 
+properties in the Township that are suitable for inclusionary housing. However, for purposes of 
+settlement with FSHC, the Township has increased its RDP to 17.   The Township proposes two 
+mechanisms to satisfy the Fourth Round RDP. 
+1. 93-95 Market Street Redevelopment 
+The Township Council designated Lot 1.01 in Block 611 as an Area in Need of Rehabilitation on 
+August 15, 2024. The property contains 1.437 acres and is located at 93-95 Market Street. The 
+property is developed with the former municipal building, which is now vacant since the Township 
+offices moved to a new building at 55 Mayhill Street. The Township adopted a Redevelopment Plan 
+for the area in need of redevelopment on November 13, 2025 via Ordinance 1793-25.  The 
+Redevelopment Plan permits a multi-family housing development with up to 60 units with a 15 
+percent set-aside for low- and moderate-income households. 
+In the fall of 2025 Manor at Saddle Brook, LLC filed an application for preliminary and final site plan 
+approval for a 60-unit inclusionary development including 9 rental affordable units.  The application 
+was heard on January 21, 2026  and approved.  The resolution memorializing the Board’s decision is 
+expected to be adopted on February 18, 2026.  The site is eligible for 9 credits and 3 bonuses. 
+Site Suitability  
+The affordable housing rules require municipalities to designate sites that are available, suitable, 
+developable and approvable, as defined in N.J.A.C. 5:93-1.  These terms are defined below: 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 38 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 39 =====
+Page 36  
+ 
+• 
+Approvable site means a site that may be developed for low- and moderate-income housing in a 
+manner consistent with the rules or regulations of all agencies with jurisdiction over the site. A 
+site may be approvable although not currently zoned for low- and moderate-income housing. 
+• 
+Available site means a site with clear title, free of encumbrances which preclude development 
+for low- and moderate-income housing. 
+• 
+Developable site means a site that has access to appropriate water and sewer infrastructure and 
+is consistent with the applicable areawide water quality management plan (including the 
+wastewater management plan) or is included in an amendment to the areawide water quality 
+management plan submitted to and under review by NJDEP.  
+• 
+Suitable site means a site that is adjacent to compatible land uses, has access to appropriate 
+streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4. 
+The property meets the four prongs of the rules as follows: 
+ 
+Approvable site – The Township has designated the property as an area in need of 
+redevelopment and has adopted a Redevelopment Plan to encourage the redevelopment of 
+the site with an inclusionary housing development.  The property has received site plan 
+approval from the Planning Board and is scheduled to begin demolition in the coming 
+months. 
+ 
+Available site – The site is under private ownership by the designated redeveloper and has 
+clear title.  
+ 
+Developable site – The property is in the sewer and water service areas.  The Township will 
+cooperate with the property owner/developer to secure water and sewer capacity.  
+ 
+Suitable site – The property is adjacent to existing residential uses.  The site is accessible 
+from Market Street and Harrison Avenue, and is a half mile from I-80 connecting to the 
+regional roadway network. There are no known environmental constraints on the site.  
+2. Liberty Street 
+A Class F CSLR sober living house is located at 17 Liberty Street, identified by the tax map as Block 
+1105, Lot 20.   The home contains four bedrooms and received a certificate of occupancy on 
+February 1, 2024.  The initial license was also issued in 2024.  A copy of the Supportive and Special 
+Needs Housing Survey and State License can be found in Appendix G. This site is eligible for 4 
+credits and 1 bonus.   
+Fourth Round RDP Credit Summary 
+The proposed mechanisms 
+provide 17 credits as shown in 
+the chart to the right.   
+ 
+ 
+ 
+Credits 
+Available
+Units
+Bonus
+Total
+93-95 Market Street 
+9
+9
+3
+12
+Liberty Street
+4
+4
+1
+5
+13
+4
+17
+Fourth Round RDP Affordable Housing Credits
+Project
+Prior Round 
+RDP
+17
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 39 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 40 =====
+VFW DR
+ROSEDALE AVE
+GRUNAUER AVE
+FRANKLIN AVE
+BELLA VISTA AVE
+WOODWARD ST
+HARRISON AVE
+ACKERMAN
+A
+V
+E
+CATHERINE
+A
+V
+E
+CLAREM
+O
+N
+T
+AVE
+CENT
+R
+A
+L
+AVE
+4
+79
+4
+56
+§¨¦
+80
+ENVIRONMENTAL CONSTRAINTS:
+BLOCK 611, LOT 1.01
+TOWNSHIP OF SADDLE BROOK
+BERGEN COUNTY, NEW JERSEY
+±
+0
+200
+100
+Feet
+Legend
+Municipal Boundaries
+Study Area
+Parcels
+Non-Category 1 Streams
+FEMA Special Flood Hazard Zone
+Waterbodies
+50-foot Riparian Buffer
+Slopes greater than 15%
+February 3, 2026
+SDP003
+1 inch = 187 feet
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 40 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 41 =====
+Page 38  
+ 
+Unmet Need | 262 
+The Fourth Round RDP of 17 units results in an Unmet Need of 262 units.  The Fourth Round Unmet 
+Need will be addressed through the following mechanisms: 
+1. Increased Affordable Housing Set-Asides 
+The required affordable housing set-aside within the four overlay zoning districts adopted for the 
+Third Round Unmet Need and the mandatory set-aside for any future multifamily inclusionary 
+residential developments is 15% for rental housing developments and 20% for for-sale 
+developments.  The Township will amend the Zoning Overlays Districts (AHOZ-1, AHOZ-2, AHOZ-3, 
+and AHOZ-4) to require at least 20% set-aside for affordable housing regardless of tenure. The 
+Township will also amend the mandatory affordable housing set-aside ordinance that was 
+previously adopted to a 20% set-aside regardless of tenure.  See Appendix H for the draft overlay 
+zone ordinance and Appendix I for the affordable housing ordinance, where the mandatory set-
+aside ordinance is located. 
+2. Midland Avenue-Van Bussum Overlay 
+Maxim Realty Trust, the principal company of Midland Commons of Saddlebrook, LLC, has 
+assembled 3.77 acres comprised of Lots 1, 2.01, 2.02, 3, 4, and 5 in Block 401 for a proposed 
+inclusionary housing development.  The Township will adopt an overlay zone for the assemblage of 
+properties to allow for the construction of a multi-family inclusionary development of not less than 
+220 total units, inclusive of a 20% affordable housing set-aside, resulting in 44 affordable housing 
+units assuming all 220 units are constructed.  The draft overlay ordinance can be found in Appendix 
+J.  
+Site Suitability  
+The affordable housing rules require municipalities to designate sites that are available, suitable, 
+developable and approvable, as defined in N.J.A.C. 5:93-1.  The property meets the four prongs of 
+the rules as follows: 
+ 
+Approvable site – The lots are presently within the O-MR Office Mid-Rise Zone District. The 
+Township intends to rezone the parcels with an overlay zone that would permit the property 
+to be redeveloped with an inclusionary housing development.  
+ 
+Available site – The site is under private ownership and has clear title.  
+ 
+Developable site – The property is in the sewer and water service areas.  The Township will 
+cooperate with the property owner/developer to secure water and sewer capacity.  
+ 
+Suitable site – The property is adjacent to the Grande at Saddle Brook, a 60-unit inclusionary 
+apartment development.  The site is accessible from Midland Avenue, and in close proximity 
+to U.S. Route 46 and connecting to the regional roadway network. There are no known 
+environmental constraints on the site.  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 41 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 42 =====
+RENA
+L
+A
+VAN BUSSUM AVE
+ECHO PL
+GRACE AVENUE
+DYE AVE
+STEFANIC AVE
+S
+EIFERT RD
+4
+67
+£
+¤
+46
+Garfield City
+Elmwood Park
+Borough
+Block 401
+Lot 3
+Lot 2.01
+Lot 1
+Lot 4
+Lot 5
+Lot 2.02
+ENVIRONMENTAL CONSTRAINTS:
+BLOCK 401, LOTS 1, 2.02, 2.02, 3, 4, 5
+TOWNSHIP OF SADDLE BROOK
+BERGEN COUNTY, NEW JERSEY
+±
+0
+200
+100
+Feet
+Legend
+Municipal Boundaries
+Midland Avenue-Van Bussum Overlay
+Parcels
+Slopes greater than 15%
+February 3, 2026
+SDP003
+1 inch = 185 feet
+This map was developed using GIS digital data from FEMA, NJDEP, NJDOT, NJGIN, but this secondary product has
+not been verified and is not state-authorized. Aerial image sourced from NearMap, dated October 1, 2025
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 42 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 43 =====
+Page 40  
+ 
+3. 580 North Midland Avenue 
+The Township of Saddle Brook entered into a Mediation Agreement with 580 North Midland, LLC 
+and agreed to rezone the property at 580 North Midland Avenue with two separate overlay zone 
+districts allowing for the development of either supportive independent living housing for disabled 
+individuals, or an age-restricted development.  The property is a 0.74-acre parcel known as Lot 38 in 
+Block 1710. The property is currently within the RA Single Family District.  
+• 
+The first overlay zone will permit the construction of a supportive independent living 
+housing development for disabled individuals, who are capable of living independently with 
+visiting services provided by the State of New Jersey, which will be comprised of 10 one-
+bedroom apartments. Recognizing that this is not a currently allowed use, the zoning bulk 
+standards shall still otherwise be consistent with the existing R-A zone, except that sufficient 
+off-street parking required for this use, in accordance with Section 206-37 of the Township 
+Code, will be allowed in the front yard. The parties agree in good faith that sufficient parking 
+will not be an obstacle to the implementation and construction of this development. The 
+developer will also provide reasonable and appropriate landscaping buffers to minimize 
+impacts to the surrounding single-family neighborhood. The overlay zoning to be adopted by 
+the Township shall be consistent with a concept plan to be agreed to by all parties. 
+ 
+• 
+The second overlay shall allow for the development of a structure to include 12 one-
+bedroom age-restricted rental units. Not less than 20% (3 of the 12 units) of the units shall 
+be deed restricted as affordable housing units and shall be UHAC compliant. Similar to the 
+supportive housing overlay, the development shall comply with the bulk standards for the R-
+A zone, except that it shall allow for multi-family use, and sufficient off-street parking as 
+required for this use as required in Section 206-37 of the Township Code in the front yard, 
+and allow for 55% lot coverage to provide for the required parking. The parties agree in good 
+faith that sufficient parking will not be an obstacle to the implementation and construction 
+of this development. The developer will also provide reasonable and appropriate 
+landscaping buffers to minimize impacts to the surrounding single-family neighborhood. The 
+overlay zoning to be adopted by the Township shall be consistent with a concept plan to be 
+agreed to by all parties. 
+ 
+The draft overlay zoning can be found in Appendix J. 
+Site Suitability  
+The affordable housing rules require municipalities to designate sites that are available, suitable, 
+developable and approvable, as defined in N.J.A.C. 5:93-1.  The property meets the four prongs of 
+the rules as follows: 
+ 
+Approvable site – The property is presently within the RA Single Zone District. The Township 
+intends to rezone the property with overlay zoning that would permit the property to be 
+developed with either a 10-unit special needs supportive housing or a 12-unit age-restricted 
+inclusionary rental development. 
+ 
+Available site – The site is under private ownership and has clear title.  
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 43 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 44 =====
+Page 41  
+ 
+ 
+Developable site – The property is in the sewer and water service areas.  The Township will 
+cooperate with the property owner/developer to secure water and sewer capacity.  
+ 
+Suitable site – The property is adjacent to the B-1 Primary Business District and single-family 
+and two-family residences in the RA Zone District.  The overlay zone is intended to be 
+consistent with the scale and character of the permitted uses in the underlying RA Zone 
+District.  The site is accessible from North Midland Avenue, and accessible to the regional 
+roadway network. There are no known environmental constraints on the site.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+r:\projects\q-t\sdp\sdp003\reports\4th round, amended\260206dag_sdp_fourth_round_hefsp_amended_adopted.docx 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 44 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 45 =====
+HAYES DR
+EVANS PL
+ROSARIO CT
+OAK AVE
+WILSON ST
+WILSON CT
+SCHEPIS AVE
+4
+67
+ENVIRONMENTAL CONSTRAINTS:
+BLOCK 1710, LOT 38
+TOWNSHIP OF SADDLE BROOK
+BERGEN COUNTY, NEW JERSEY
+±
+0
+200
+100
+Feet
+Legend
+Municipal Boundaries
+Study Area
+Parcels
+Slopes greater than 15%
+February 3, 2026
+SDP003
+1 inch = 141 feet
+This map was developed using GIS digital data from FEMA, NJDEP, NJDOT, NJGIN, but this secondary product has
+not been verified and is not state-authorized. Aerial image sourced from NearMap, dated October 1, 2025
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 45 of 46   Trans ID: LCV2026669469 
+
+===== PAGE 46 =====
+Page 43  
+ 
+XII. Appendix 
+A. May 16, 2025 Order Fixing Municipal Obligations for “Present Need” and “Prospective Need” 
+for the Fourth Round Housing Cycle 
+B. 2026 Mediation Agreement 
+C. Vacant Land Adjustment  
+D. Midland Commons/The Grande at Saddle Brook 2024 Deed Restriction (Block 402, Lot 1) 
+E. Ingerman 2024 Final Site Plan Approval 
+F. Midland Commons Expansion 2024 Deed Restriction (Block 402, Lot 3) 
+G. Liberty Street Supportive and Special Needs Housing Survey and State License 
+H. Ordinance #1797-26 Overlay Zone Set-aside Increase  
+I. 
+Ordinance #1798-26 Affordable Housing  
+J. 
+Ordinance #1796-26 Round 4 Overlay Zones  
+K. Ordinance #1799-26 Development Fees  
+L. Affirmative Marketing Plan and Resolution 
+M. 2026 Spending Plan and Resolution 
+N. Municipal Housing Liaison Resolution  
+O. Administrative Agent Resolution  
+P. 2026 Planning Board Resolution Adopting Amended HEFSP 
+Q. 2026 Council Resolution Endorsing Amended HEFSP 
+                                                                                                                                                                                              
+BER-L-000822-25   03/13/2026 6:35:18 PM   Pg 46 of 46   Trans ID: LCV2026669469 

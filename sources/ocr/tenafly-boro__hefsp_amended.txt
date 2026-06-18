@@ -1,0 +1,4470 @@
+
+===== PAGE 1 =====
+ 
+ 
+  
+ 
+Amended 
+Housing 
+Element 
+& 
+Fair Share 
+Plan 
+Borough of Tenafly 
+Bergen County | New Jersey 
+Adopted 02-11-26 
+b a 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 1 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 2 =====
+BER-L-000525-25
+02/13/2026 6:30:27 PM
+Pg2of59
+Trans ID: LCV2026364566
+
+===== PAGE 3 =====
+Community Planning 
+Principals: 
+Land Development and Design 
+Joseph H. Burgis PP, AICP 
+Landscape Architecture 
+Edward Snieckus, Jr. PP, LLA, ASLA 
+ 
+David Novak PP, AICP  
+ 
+b a 
+B
+U
+R
+G
+I
+S 
+A S S O C I A T E S,  I N C. 
+ 
+ 
+ 
+ 
+Housing Element and 
+Fair Share Plan 
+ 
+Borough of Tenafly 
+Bergen County, New Jersey 
+ 
+ 
+Prepared for the Borough of Tenafly 
+Planning Board 
+BA# 4168.04 
+ 
+ 
+The original document was appropriately signed and sealed on February 11, 2026 in accordance 
+with Chapter 41 of Title 13 of the State Board of Professional Planners 
+ 
+ 
+ 
+ 
+_______________________________ 
+_______________________________ 
+Joseph H. Burgis, AICP, PP 
+David Novak, AICP, PP 
+Professional Planner #2450 
+Professional Planner #6269 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 3 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 4 =====
+ 
+ 
+Members of the Borough of Tenafly Planning Board 
+Mary Beth Wilmit, Chairperson 
+Nichole Osborne, Vice Chairperson 
+Mark Zinna, Mayor 
+Lauren Dayton, Council Member 
+Linda Khorozian 
+Ted Nevins 
+Dan Oelsner 
+Julia Park 
+Jon Warms 
+Linda Baldini, Alternate #1 
+Jordan Brink, Alternate #2 
+MLUL Officer/Planning Board Secretary 
+Amanda Booth 
+Planning Board Attorney 
+Jeffrey A. Zenn, Esq. 
+Cullen and Dykman, LLP 
+Planning Board Engineer 
+David Hals, P.E. 
+Schwanewede/Hals Engineering 
+Planning Board Planning Consultant 
+Joseph H. Burgis PP, AICP 
+David Novak PP, AICP 
+Burgis Associates, Inc. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 4 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 5 =====
+ 
+ 
+Contents 
+Executive Summary ................................................................................................................................................................................... 1 
+Prior Round Obligation ...................................................................................................................................................................... 1 
+Third Round Obligation ..................................................................................................................................................................... 2 
+Fourth Round Obligation .................................................................................................................................................................. 3 
+Section 1: Introduction ............................................................................................................................................................................ 6 
+1.1: What is Affordable Housing? ................................................................................................................................................... 6 
+1.2: What is the History of Affordable Housing in New Jersey? ........................................................................................... 7 
+1.3: What is a Housing Element and Fair Share Plan? ........................................................................................................... 10 
+Section 2: Housing Element ................................................................................................................................................................ 12 
+2.1: Community Overview .............................................................................................................................................................. 13 
+2.2: Demographic and Population Data .................................................................................................................................... 16 
+Population Changes ................................................................................................................................................................... 16 
+Age Characteristics ..................................................................................................................................................................... 17 
+Household Tenure and Occupancy ....................................................................................................................................... 18 
+Average Household Size ........................................................................................................................................................... 18 
+Household Income ..................................................................................................................................................................... 19 
+2.3: Inventory of Housing Stock ................................................................................................................................................... 20 
+Number of Dwelling Units........................................................................................................................................................ 20 
+Units in Structure for Occupied Units ................................................................................................................................... 21 
+Purchase and Rental Value of Housing Units ..................................................................................................................... 21 
+Year Structure Built ..................................................................................................................................................................... 23 
+Deficient Housing Units ............................................................................................................................................................ 24 
+2.4: Housing and Employment Projection ................................................................................................................................ 25 
+Recent Residential Development Activity ............................................................................................................................ 25 
+Recent Multifamily Development Approvals ...................................................................................................................... 26 
+Covered Employment ................................................................................................................................................................ 26 
+Section 3: 4th Round Obligation ........................................................................................................................................................ 28 
+3.1: Summary of Fourth Round Obligation .............................................................................................................................. 28 
+3.2: Present Need Obligation and Structural Conditions Survey ....................................................................................... 29 
+Present Need Obligation .......................................................................................................................................................... 29 
+Structural Conditions Survey ................................................................................................................................................... 29 
+3.3: Realistic Development Potential .......................................................................................................................................... 31 
+Prior Round RDP .......................................................................................................................................................................... 31 
+Third Round RDP ......................................................................................................................................................................... 31 
+Fourth Round RDP ...................................................................................................................................................................... 32 
+Section 4: Fair Share Plan ..................................................................................................................................................................... 34 
+4.1: Prior Round Obligation ........................................................................................................................................................... 34 
+4.2: Third Round Obligation .......................................................................................................................................................... 36 
+Third Round RDP Components .............................................................................................................................................. 39 
+Unmet Need Components ....................................................................................................................................................... 44 
+4.3: Fourth Round Obligation ....................................................................................................................................................... 45 
+Fourth Round RPD Components ............................................................................................................................................ 48 
+Fourth Round Unmet Need Components ........................................................................................................................... 49 
+4.4: Present Need Obligation ........................................................................................................................................................ 56 
+4.5: Other Provisions ........................................................................................................................................................................ 56 
+4.6: Consistency with State Planning Initiatives ...................................................................................................................... 58 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 5 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 6 =====
+ 
+ 
+Multigenerational Family Housing Continuity Commission .......................................................................................... 58 
+State Development and Redevelopment Plan ................................................................................................................... 58 
+Appendices: .............................................................................................................................................................................................. 60 
+Appendix A: Resolution #R25-72................................................................................................................................................. 61 
+Appendix B: Settlement Agreement ........................................................................................................................................... 62 
+Appendix C: Structural Conditions Survey ................................................................................................................................ 63 
+Appendix D: Vacant Land Adjustment ....................................................................................................................................... 64 
+Appendix E: Ordinance 21-23 re: Tenafly Senior Center ...................................................................................................... 69 
+Appendix F: Draft Deed Restriction for Tenafly Senior Housing ........................................................................................ 70 
+Appendix G: Ordinance 23-25 ...................................................................................................................................................... 71 
+Appendix H: Planning Board Resolution re: 4.5-5 West Railroad Ave ............................................................................. 72 
+Appendix I: Planning Board Resolution re: Giesi 31 Central Ave ....................................................................................... 73 
+Appendix J: Planning Board Resolution re: RRD North Sumit Street ............................................................................... 74 
+Appendix K: Planning Board Resolution re: Adoni ................................................................................................................. 75 
+Appendix L: Dean Drive Draft Ordinance .................................................................................................................................. 76 
+Appendix M: Adopted MF-I-2 Ordinance ................................................................................................................................. 77 
+Appendix N: Adopted AHO-9 Ordinance ................................................................................................................................. 78 
+Appendix O: Draft AHO-11 Ordinance ...................................................................................................................................... 79 
+Appendix P: Third Round Overlay Site Ordinance Amendment ........................................................................................ 80 
+Appendix Q: Spending Plan .......................................................................................................................................................... 81 
+Appendix R: Adopted Mandatory Set-Aside Ordinance ...................................................................................................... 82 
+Appendix S: Affordable Housing Provisions ............................................................................................................................ 83 
+Appendix T: Development Fee Ordinance ................................................................................................................................ 84 
+Appendix U: Rehab Manual ........................................................................................................................................................... 85 
+Appendix V: Sales Operating Manual ........................................................................................................................................ 86 
+Appendix W: Resolution Appointing MHL ............................................................................................................................... 87 
+Appendix X: Affirmative Marketing Plan ................................................................................................................................... 88 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 6 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 7 =====
+  
+~ 1 ~ 
+Executive Summary 
+The following 2026 Housing Element and Fair Share Plan (HE&FSP) of the Master 
+Plan has been prepared for the Borough of Tenafly.  
+This plan is designed to outline the manner in which the Borough will address its 
+affordable housing obligations. As discussed in greater detail herein, these obligations 
+were derived from a variety of different sources including the Council on Affordable 
+Housing (COAH), a prior settlement agreement with Fair Share Housing Center (FSHC), 
+and most recently from calculations provided by the Department of Community Affairs 
+(DCA) as well as a settlement agreement with FSHC dated January 7, 2026. 
+These obligations are summarized as follows: 
+Table 1: Affordable Housing Obligations Summary 
+Category 
+Obligation 
+Present Need (Rehabilitation) Obligation 
+10 
+Prior Round Obligation (1987-1999) 
+159 
+Third Round Obligation (1999-2025) 
+501 
+Fourth Round Obligation (2025-2035) 
+297 
+Prior Round Obligation 
+The Borough was assigned a Prior Round Obligation of one hundred and fifty-nine (159) 
+affordable units. It subsequently received a Prior Round judgement of compliance and 
+repose which established a realistic development potential (RDP) of thirty-eight (38) 
+affordable units which was later adjusted to sixty-seven (67) affordable units. The 
+Borough addressed this Prior Round RDP through the components identified in Table 2 
+below. As shown, these components comprised a total of seventy-six (76) credits. After 
+applying these seventy-six (76) credits as well as thirty-five (35) existing credits of 
+subsidized senior housing from the Tenafly Senior Housing site, the remaining Prior 
+Round Unmet Need constituted forty-eight (48) affordable units. 
+Table 2: Prior Round RDP Components 
+Plan Component 
+Units 
+Rental 
+Units 
+Applicable 
+Rental Bonus 
+Unused 
+Credits 
+Total 
+Units/Credits 
+Accessory Apartments 
+10 
+0 
+0 
+0 
+10 
+Arc Group Home 
+5 
+5 
+A 5 
+0 
+10 
+Brightview Tenafly Assisted Living 
+9 
+9 
+0 
+0 
+9 
+Tenafly Special Needs Housing 
+10 
+10 
+A 10 
+0 
+20 
+The Plaza at Tenafly 
+17 
+0 
+0 
+0 
+17 
+The Crossings at Tenafly 
+9 
+5 
+A 1 
+B 4 
+10 
+Total 
+60 
+29 
+16 
+4 
+76 
+A Rental bonus may only account for twenty-five (25%) percent (16 units) toward Prior Round RDP 
+B Four bonus credits could not be applied from this development due to sixteen (16) unit constraint noted in 
+Footnote A 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 7 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 8 =====
+ 
+~ 2 ~ 
+Third Round Obligation 
+As per a settlement agreement with FSHC, the Borough was assigned a Third Round 
+Obligation of five hundred and one (501) affordable units as well as a Third Round RDP of 
+ten (10) affordable units. Pursuant to an amended settlement agreement, this Third 
+Round RDP was later adjusted to forty-two (42) affordable units which was informed by a 
+previously conducted vacant land adjustment (VLA) as well as four components which 
+were anticipated to generate thirty-seven (37) affordable units. The Borough plans to 
+address its Third Round RDP with the following components. 
+Table 3: Components to Address Third Round RDP 
+Component 
+Affordable 
+Units 
+Bonus 
+Credit 
+Total 
+Credit 
+Unit Type 
+Tenafly Senior Housing1 
+10 
+0 
+10 
+Extension of Controls 
+Piermont Road Site 
+7 
+0 
+7 
+Family 
+Serpentine Road Site 
+16 
+11 
+27 
+Family 
+West Railroad Avenue Site 
+3 
+0 
+3 
+Family 
+Total 
+36 
+11 
+47 
+ 
+1 34 units were extended. Only 10 are applied to the Third Round due to a 25% cap. 
+The Borough has a remaining Third Round Unmet Need of five hundred and two (502) 
+affordable units which is informed from the following: 
+❖ Remaining Prior Round Obligation. The Borough has a remaining Prior Round 
+Unmet Need of forty-eight (48) affordable units. 
+❖ Third Round Obligation. The Borough has a Third Round obligation of five 
+hundred and one (501) affordable units. 
+❖ Combined Prior and Third Round Obligation. The remaining Prior Round Unmet 
+Need and the Third Round Obligation total five hundred and forty-nine (549) 
+affordable units. 
+❖ Subtracting RDP Components. When subtracting the forty-seven (47) credits to be 
+generated by the amended Third Round Components, the Borough has a 
+remaining Unmet Need of five hundred and two (502) affordable units. 
+The components which were utilized by the 2023 Amendment to the 2018 HE&FSP to 
+address the Borough’s Unmet Need are identified in Table 4 on the following page. As 
+shown, these components were originally contemplated to produce a total of two 
+hundred and ten (210) units, including forty-four (44) affordable units. However, as 
+discussed in the following subsection and in Section 4.3, the Borough proposes to 
+increase the densities of several of these overlay districts. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 8 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 9 =====
+ 
+~ 3 ~ 
+Table 4: Third Round Unmet Need Components 
+Plan Component 
+Overlay 
+District 
+Density 
+(units/acre) 
+Total 
+Units 
+Affordable 
+Units 
+Harold Street 
+AHO-3 
+18 
+32 
+7 
+Riveredge Road/Tenafly Road 
+AHO-5 
+15 
+14 
+3 
+South Summit Street/Riveredge Road  
+AHO-6 
+18 
+5 
+1 
+Riveredge Road/W. Railroad 
+AHO-6 
+18 
+5 
+1 
+Block 1305 
+AHO-7 
+15 
+32 
+7 
+Block 1306 Lot 1.01 
+AHO-8 
+15 
+8 
+2 
+Block 1308 
+AHO-7 
+15 
+75 
+15 
+Block 1302 
+AHO-7 
+15 
+39 
+8 
+Total 
+ 
+ 
+210 
+44 
+Fourth Round Obligation 
+The DCA calculated a Fourth Round Obligation of two hundred and ninety-seven (297) 
+affordable units for the Borough. Despite finding errors in its land capacity factor, the 
+Borough accepted the DCA’s calculations by way of Resolution #R25-72 which was 
+adopted on January 21, 2025. That same resolution noted that the Borough reserved the 
+right to conduct a VLA analysis to determine its RDP. 
+An updated VLA was subsequently conducted for Tenafly. It finds that since the Borough 
+last conducted a VLA for its prior Housing Element and Fair Share Plan, no new vacant 
+land had been made available for development. However, one municipally-owned 
+parking lot was found to have the potential to redevelop. This results in a RDP of two (2) 
+affordable units. 
+The Borough will address this two-unit RDP through the Giesi 31 Central Avenue Site. As 
+detailed herein, the site received preliminary and final site plan approval as well as “c” 
+variance relief for a mixed use development consisting of 700 square feet of commercial 
+space as well as ten (10) units, including two (2) affordable units. This component is 
+currently under construction. 
+Table 5: Component to Address RDP 
+Plan Component 
+Total Units 
+Affordable Units 
+Giesi 31 Central Avenue Site 
+10 
+2 
+Total 
+10 
+2 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 9 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 10 =====
+ 
+~ 4 ~ 
+This component leaves the Borough with an Unmet Need of two hundred and ninety-five 
+(295) affordable units. After applying the remaining twenty-four (24) extended credits 
+from Tenafly Senior Housing, the Borough’s Unmet Need is further reduced to two 
+hundred and seventy-one (271) affordable units. As per NJSA 52:27D-310.1 and its 
+Settlement Agreement with FSHC, the Borough will address twenty-five percent (25%) of 
+this Unmet Need which equates to sixty-eight (68) affordable units. It will do so in a two-
+part manner. 
+1. Fourth Round Unmet Need Components. To address a portion of this requirement, 
+the existing and proposed components identified in Table 6 will be utilized. These 
+components, which are discussed in greater detail in Section 4.3, can generate 
+sixty (60) affordable units.  
+2. Third Round Unmet Need Components: Increased Densities. To address the 
+remaining eight (8) unit Unmet Need requirement, the Borough will also increase 
+the densities of its Third Round Unmet Need Overlay Zones as identified in Table 
+7. As shown, these increased densities can generate an additional eight (8) 
+affordable units as otherwise contemplated in Table 4. 
+Table 6: Fourth Round Unmet Need Components 
+Plan Component 
+Status 
+Affordable Units 
+RRD North Summit Street Site 
+Site Plan Approved 
+17 
+Adoni West Railroad Avenue Site 
+Site Plan Approved 
+6 
+Dean Drive Site 
+Proposed 
+20 
+33 Engle Street 
+Proposed 
+2 
+West Clinton Avenue Overlay Site 
+Proposed 
+3 
+Block 1311 Overlay Site 
+Newly Proposed 
+3 
+Block 715 Overlay Site 
+Newly Proposed 
+3 
+Block 1707 Overlay Site 
+Newly Proposed 
+4 
+Block 1801 Overlay Site 
+Newly Proposed 
+2 
+Total 
+ 
+60 
+Table 7: Revised Third Round Unmet Need Components 
+Plan Component 
+Overlay 
+District 
+Revised Density 
+(units/acre) 
+Total 
+Units 
+Affordable 
+Units 
+Harold Street 
+AHO-3 
+19 
+35 
+7 
+Riveredge Road/Tenafly Road 
+AHO-5 
+18 
+18 
+4 
+South Summit Street/Riveredge Road  
+AHO-6 
+18 
+5 
+1 
+Riveredge Road/W. Railroad 
+AHO-6 
+18 
+4 
+1 
+Block 1305 
+AHO-7 
+19 
+40 
+8 
+Block 1306 Lot 1.01 
+AHO-8 
+18 
+10 
+2 
+Block 1308 
+AHO-7 
+19 
+94 
+19 
+Block 1302 
+AHO-7 
+19 
+49 
+10 
+Total 
+ 
+ 
+254 
+52 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 10 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 11 =====
+ 
+~ 5 ~ 
+Accordingly, the remainder of this 2026 HE&FSP is divided into the following sections: 
+❖ Section 1: Introduction 
+The first section of the 2026 HE&FSP provides an introduction to affordable 
+housing. It summarizes what affordable housing is, offers an overview of the 
+history of affordable housing in the state, and explains the role of a housing 
+element and fair share plan. 
+❖ Section 2: Housing Element 
+Section 2 contains the Housing Element for the Borough of Tenafly. It offers a 
+community overview of the Borough, as well as background information 
+regarding its population, housing, and employment characteristics. It also 
+provides projections of the Borough’s housing stock and employment.   
+❖ Section 3: Fair Share Obligation 
+Next, Section 3 provides an overview of the Borough’s fair share obligation. It 
+includes a brief history of the methodologies utilized to calculate affordable 
+housing obligations throughout the state. 
+❖ Section 4: Fair Share Plan 
+Finally, Section 4 details the manner in which the Borough has addressed its Prior 
+Round and Third Round Obligation as well as how it will address its Fourth Round 
+Obligation.  
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 11 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 12 =====
+ 
+~ 6 ~ 
+Section 1: Introduction 
+The following section provides an introduction to affordable housing. It summarizes what 
+affordable housing is, offers an overview of the history of affordable housing in the state, 
+and explains the role of a housing element and fair share plan. 
+1.1: What is Affordable Housing? 
+Affordable housing is income-restricted housing that is available for sale or for rent. 
+Typically, affordable housing is restricted to very-low, low-, and moderate-income 
+households. These categories are derived from median regional income limits established 
+for the state. New Jersey is delineated into six different affordable housing regions. 
+Tenafly is located in Region 1 which includes Bergen, Hudson, Passaic, and Sussex 
+Counties.  
+Moderate-Income 
+Households 
+Earn 80% of the region’s 
+median income 
+Low-Income 
+Households 
+Earn 50% of the region’s 
+median income 
+Very Low-Income 
+Households 
+Earn 30% of the region’s 
+median income 
+Regional income limitations are updated every year, with different categories established 
+for varying household sizes. Table 8 identifies the 2024 regional income limits by 
+household size for Region 1. As shown, a three-person family with a total household 
+income of no greater than $86,697 could qualify for affordable housing in the Borough’s 
+region. 
+Table 8: 2024 Affordable Housing Region 1 Income Limits by Household Size 
+Income Level 
+2 Person 
+3 Person 
+4 Person 
+5 Person 
+Median 
+$96,329 
+$108,371 
+$120,412 
+$130,045 
+Moderate 
+$77,064 
+$86,697 
+$96,329 
+$104,036 
+Low 
+$48,165 
+$54,185 
+$60,206 
+$65,022 
+Very-Low 
+$28,899 
+$32,511 
+$37,568 
+$39,013 
+One of the most common forms of affordable housing is inclusionary development, in 
+which a certain percentage of units within a multifamily development are reserved for 
+affordable housing. Affordable housing can be found in a variety of other forms, 
+including but not limited to: one hundred percent affordable housing developments, 
+deed-restricted accessory apartments, assisted living facilities, alternative arrangements 
+such as supportive housing or group homes, and age restricted housing. 
+ 
+80%
+50%
+30%
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 12 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 13 =====
+ 
+~ 7 ~ 
+1.2: What is the History of Affordable Housing in New Jersey? 
+The history of affordable housing in New Jersey can 
+be traced back to 1975, when the Supreme Court 
+first decided in So. Burlington Cty. NAACP v. 
+Township of Mount Laurel (known as Mount Laurel 
+I) that every developing municipality throughout 
+New Jersey had an affirmative obligation to provide 
+for its fair share of affordable housing. In a 
+subsequent decision in 1983 (known as Mount 
+Laurel II), the Court acknowledged that the vast 
+majority of municipalities had ignored their 
+constitutional obligation to provide affordable 
+housing.  
+Accordingly, the Court refined this obligation to 
+establish that every municipality had an obligation, 
+although those within the growth area of the State 
+Development and Redevelopment Plan (SDRP) had 
+a greater obligation. The Court also called for the 
+state legislature to enact legislation that would save 
+municipalities from the burden of having the courts 
+determine their affordable housing needs. The 
+result of this decision was the adoption of the Fair 
+Housing Act in 1985 as well as the creation of the 
+New Jersey Council on Affordable Housing (COAH), 
+which became the state agency responsible for 
+overseeing the manner in which New Jersey’s 
+municipalities address their low and moderate 
+income housing needs. 
+COAH proceeded to adopt regulations for the First 
+Round obligation, which covered the years 1987 to 
+1993. It also established the Second Round 
+housing-need numbers that cumulatively covered 
+the years 1987 through 1999. Under both the First 
+and Second Rounds, COAH utilized what is 
+commonly referred to as the “Fair Share” 
+methodology. 
+COAH utilized a different methodology, known as 
+“Growth Share,” beginning with its efforts to 
+prepare Third Round housing-need numbers. The 
+Third Round substantive and procedural rules were 
+adopted in 2004.  
+ 
+ 
+2015: Mount Laurel IV
+COAH defunct and moribund. All 
+affordable housing matters to be heard 
+by courts
+1986: Mount Laurel III
+Every municipality has an obligation if 
+any portion of municipality was within 
+the “Growth Share Area” of the State 
+Development and Redevelopment Plan
+1983: Mount Laurel II
+Every municipality has an obligation if 
+any portion of municipality was within 
+the “Growth Share Area” of the State 
+Development and Redevelopment Plan
+1975: Mount Laurel I
+Every developing municipality has an 
+affordable housing obligation
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 13 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 14 =====
+ 
+~ 8 ~ 
+However, these regulations were challenged and in 
+January 2007, the Appellate Division invalidated 
+various aspects of them and remanded considerable 
+portions of the rules to COAH with the directive to 
+adopt revised regulations. 
+In May 2008, COAH adopted revised Third Round 
+regulations which were published and became 
+effective on June 2, 2008. Coincident to this 
+adoption, COAH proposed amendments to the rules 
+they had just adopted, which subsequently went 
+into effect in October 2008. These 2008 rules and 
+regulations were subsequently challenged again, 
+and in an October 2010 decision the Appellate 
+Division invalidated the Growth Share methodology 
+and also indicated that COAH should adopt 
+regulations pursuant to the Fair Share methodology 
+utilized in Rounds One and Two. The Supreme Court 
+affirmed this decision in September 2013, which 
+invalidated much of the third iteration of the Third 
+Round regulations and sustained the invalidation of 
+Growth Share. As a result, the Court directed COAH 
+to adopt new regulations pursuant to the 
+methodology utilized in Rounds One and Two. 
+Deadlocked with a 3-3 vote, COAH failed to adopt 
+revised Third Round regulations in October 2014. 
+Fair Share Housing Center (FSHC), who was a party 
+in both the 2010 and 2013 cases, responded by 
+filing a motion in aid of litigants’ rights with the 
+New Jersey Supreme Court. The Court heard the 
+motion in January 2015 and issued its ruling on 
+March 20, 2015. The Court ruled that COAH was 
+effectively dysfunctional, and consequently returned jurisdiction of affordable housing 
+issues back to the trial courts where it had originally been prior to the creation of COAH 
+in 1985. 
+This 2015 Court decision created a process in which municipalities may file a declaratory 
+judgment action seeking a declaration that their HE&FSP is constitutionally compliant 
+and receive temporary immunity from affordable housing builders’ remedy lawsuits while 
+preparing a new or revised HE&FSP to ensure their plan continues to affirmatively 
+address their local housing need as may be adjusted by new housing-need numbers 
+promulgated by the court or COAH. 
+ 
+ 
+2024: A-4/S-50
+New Jersey adopts new legslation which 
+overhauls the FHA. COAH is elimianted, 
+and its duties are split between the DCA 
+and the AOC. 
+2018: Jacobson Decision
+Established methodology in Mercer 
+County for determining housing 
+obligation. Being utilized outside of 
+Mercer County for settlement purposes
+2017: Gap Period
+Finds that gap period (1999-2015) 
+generates an affordable housing 
+obligation
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 14 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 15 =====
+ 
+~ 9 ~ 
+Subsequently, the Supreme Court ruled on January 18, 2017 that municipalities are also 
+responsible for obligations accruing during the so-called “gap period,” the period of time 
+between 1999 and 2015. However, the Court stated that the gap obligation should be 
+calculated as a never-before calculated component of Present Need, which would serve 
+to capture Gap Period households that were presently in need of affordable housing as of 
+the date of the Present Need calculation (i.e. that were still income eligible, were not 
+captured as part of traditional present need, were still living in New Jersey and otherwise 
+represented a Present affordable housing need). 
+On March 20, 2024, the State of New Jersey adopted a package of affordable housing 
+bills which overhauled the Fair Housing Act. This legislation ultimately eliminated COAH 
+and split its duties and functions between the Department of Community Affairs (DCA) 
+and the Administrative Office of the Courts (AOC). 
+The DCA was designated by the legislation as the entity responsible for calculating the 
+state’s regional needs as well as each municipality’s present and prospective fair share 
+obligations pursuant to the Jacobson Decision. However, the legislation makes clear that 
+these numbers are advisory and that each municipality must set its own obligation 
+number utilizing the same methodology. Meanwhile, the Affordable Housing Dispute 
+Resolution Program (the “Program”) within the AOC is tasked to handle any disputes 
+regarding affordable housing obligations and plans. 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 15 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 16 =====
+ 
+~ 10 ~ 
+1.3: What is a Housing Element and Fair Share Plan? 
+A Housing Element and Fair Share Plan (HE&FSP) serves as the blueprint for how a 
+municipality will address its fair share of affordable housing. It is designed to help a 
+community broaden the accessibility of affordable housing.  
+While technically a discretionary component of a 
+municipal master plan, a HE&FSP is nevertheless an 
+effectively obligatory plan element. As established 
+by NJSA 40:55D-62.a of the Municipal Land Use 
+Law (MLUL), a municipality must have an adopted 
+HE&FSP in order to enact its zoning ordinance. 
+Thus, from a public policy perspective, a HE&FSP is 
+an essential community document. Moreover, 
+without a HE&FSP, a municipality may be susceptible to a builder’s remedy lawsuit in 
+which a developer could file suit to have a specific piece of property rezoned to permit 
+housing at higher densities than a municipality would otherwise allow, provided a certain 
+percentage of units are reserved as affordable. 
+The Fair Housing Act (FHA), which was adopted in 1985 and has been amended multiple 
+times since then, establishes the required components of a HE&FSP. These are 
+summarized as follows: 
+1. An inventory of the municipality’s housing stock by age, condition, purchase or 
+rental value, occupancy characteristics, and type, including the number of units 
+affordable to low- and moderate-income households and substandard housing 
+capable of being rehabilitated; 
+2. A projection of the municipality’s housing stock, including the probable future 
+construction of low- and moderate-income housing, for the next ten years, taking 
+into account, but not necessarily limited to, construction permits issued, 
+approvals of applications for development and probable residential development 
+of lands; 
+3. An analysis of the municipality’s demographic characteristics, including but not 
+necessarily limited to, household size, income level and age; 
+4. An analysis of the existing and probable future employment characteristics of the 
+municipality; 
+5. A determination of the municipality’s present and prospective fair share for low- 
+and moderate-income housing and its capacity to accommodate its present and 
+prospective housing needs, including its fair share for low- and moderate-income 
+housing; 
+6. A consideration of the lands that are most appropriate for construction of low- 
+and moderate-income housing and the existing structures most appropriate for 
+conversion to, or rehabilitation for, low- and moderate-income housing, including 
+a consideration of lands of developers who have expressed a commitment to 
+provide low- and moderate-income housing; 
+The Municipal Land Use Law 
+(MLUL) is the enabling 
+legislation for municipal land 
+use and development, planning, 
+and zoning for the State of New 
+Jersey.  
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 16 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 17 =====
+ 
+~ 11 ~ 
+7. An analysis of the extent to which municipal ordinances and other local factors 
+advance or detract from the goal of preserving multigenerational family 
+continuity as expressed in the recommendations of the Multigenerational Family 
+Housing Continuity Commission; 
+8. For a municipality located within the jurisdiction of the Highlands Water 
+Protection and Planning Council, an analysis of compliance of the housing 
+element with the Highlands Regional Master Plan of lands in the Highlands 
+Preservation Area, and lands in the Highlands Planning Area for Highlands 
+conforming municipalities; 
+9. An analysis of consistency with the State Development and Redevelopment Plan, 
+including water, wastewater, stormwater, and multi-modal transportation based 
+on guidance and technical assistance from the State Planning Commission. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 17 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 18 =====
+ 
+~ 12 ~ 
+Section 2: Housing Element 
+The following section provides the housing element for the Borough of Tenafly. It offers a 
+community overview of the Borough, as well as background information regarding its 
+population, housing, and employment characteristics. It also provides projections of the 
+Borough’s housing stock and its employment. 
+ 
+1. United States Decennial 
+Census 
+The US Census is described in Article I, Section 2 
+of the Constitution of the United States, which 
+calls for an enumeration of the people every ten 
+years for the apportionment of seats in the 
+House of Representatives. Since the time of the 
+first Census conducted in 1790, it has become 
+the leading source of data about the nation’s 
+people and economy. Please note that all 
+incomes reported in the Census are adjusted for 
+inflation. 
+4. New Jersey Department of 
+Community Affairs (DCA) 
+The New Jersey Department of Community 
+Affairs is a governmental agency of the State 
+of New Jersey. Its function is to provide 
+administrative guidance, financial support, 
+and technical assistance to local 
+governments, community development 
+organizations, businesses, and individuals to 
+improve the quality of life in New Jersey. 
+ 
+2. American Community Survey 
+(ACS) 
+The American Community Survey is a 
+nationwide ongoing survey conducted by the 
+US Census Bureau. The ACS gathers information 
+previously contained only in the long form 
+version of the decennial census, such as age, 
+ancestry, educational attainment, income, 
+language proficiency, migration, disability, 
+employment, and housing characteristics. It 
+relies upon random sampling to provide 
+ongoing, monthly data collection. Please note 
+that all incomes reported in the ACS are 
+adjusted for inflation. 
+5. New Jersey Department of Labor 
+and Workforce Development 
+The New Jersey Department of Labor and 
+Workforce Development is a governmental 
+agency of the State of New Jersey. One of its 
+roles is to collect labor market information 
+regarding employment and wages 
+throughout the state.  
+ 
+3. New Jersey Department of Health 
+The New Jersey Department of Health is a 
+governmental agency of the State of New 
+Jersey. The department contains the Office of 
+Vital Statistics and Registry, which gathers data 
+regarding births, deaths, marriages, domestic 
+partnerships, and civil unions. 
+ 
+ 
+Information Regarding Data Sources 
+The information contained in Section 2.2 entitled “Demographic and Population Data,” 
+Section 2.3 entitled “Inventory of Housing Stock,” and Section 2.4 entitled “Housing and 
+Employment Projections” was obtained from a variety of publicly available data sources. 
+These are summarized below: 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 18 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 19 =====
+ 
+~ 13 ~ 
+2.1: Community Overview 
+The Borough of Tenafly is located along the eastern border of Bergen County, 
+immediately adjacent to the Hudson River. It is bounded by five (5) municipalities, 
+including: the Borough of Alpine and the Borough of Cresskill to the north; the Borough 
+of Bergenfield to the west; and the City of Englewood and the Borough of Englewood 
+Cliffs to the south. 
+Tenafly has a total area of approximately 5.18 square miles, making it the twelfth largest 
+municipality in Bergen County. As summarized in Table 9, Tenafly is essentially a fully 
+developed community with very little vacant land remaining for development. The 
+majority of the Borough is characterized by residential development which accounts for 
+approximately 60.3% of its total parcel area. 
+Commercial uses and light industrial uses approximately account for a combined 2.8% of 
+the Borough’s total parcel area. Commercial uses are largely concentrated in the 
+Borough’s downtown area, which is characterized by small retail and service 
+establishments catering to the needs of the local populace. A mixed commercial and light 
+industrial area is also located within the northerly portion of the Borough, in close 
+proximity to the Borough of Cresskill. 
+In addition, there are more than six hundred and fifty (650) acres throughout the Borough 
+dedicated to open space purposes. This is largely divided between the Tenafly Nature 
+Center and the Palisades Interstate Parkway, both of which are located in the easterly 
+portion of Tenafly. 
+Table 9: Existing Land Uses 
+Land Use 
+Parcels 
+% Parcels 
+Area 
+% Area 
+Residential: One and Two Family 
+4,193 
+92.6% 
+1,481.9 
+58.7% 
+Residential: Multifamily 
+17 
+0.4% 
+40.0 
+1.6% 
+Residential: Age Restricted/Assisted Living 
+3 
+0.1% 
+4.8 
+0.2% 
+Commercial 
+163 
+3.6% 
+66.5 
+2.6% 
+Light Industrial 
+8 
+0.2% 
+5.9 
+0.2% 
+House of Worship/Charitable Property 
+24 
+0.5% 
+82.3 
+3.3% 
+Public Property 
+31 
+0.7% 
+42.1 
+1.7% 
+Public School Property 
+6 
+0.1% 
+65.7 
+2.6% 
+Quasi-Public 
+4 
+0.1% 
+4.8 
+0.2% 
+Parks and Open Space 
+30 
+0.7% 
+653.6 
+25.9% 
+Golf Course 
+2 
+0.0% 
+40.0 
+1.6% 
+Cemeteries 
+3 
+0.1% 
+10.3 
+0.4% 
+Parking Lot 
+14 
+0.3% 
+6.4 
+0.3% 
+Railroad 
+1 
+0.0% 
+12.4 
+0.5% 
+Right-of-Way 
+1 
+0.0% 
+0.6 
+0.0% 
+Vacant 
+27 
+0.6% 
+6.1 
+0.2% 
+Total 
+4,526 
+100.0% 
+2,522.9 
+100.0% 
+Source: ArcGIS Calculations 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 19 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 20 =====
+Engle St
+E Clinton Ave
+Sylvan Ave
+Hudson Dr
+Tenafly Rd
+Dean Dr
+Elm St
+Knickerbocker Rd
+County Rd
+Highwood Ave
+Piermont Rd
+Grove St
+Riveredge Rd
+Leroy St
+W Clinton Ave
+Westervelt Ave
+Hickory Ave
+Oxford Dr
+Woodland St
+Palisades Interstate Pkwy
+Oak St
+Sunset Ln
+Oak Ave
+Columbus Dr
+Devon Rd
+Jefferson Ave
+George St
+Churchill Rd
+Magnolia Ave
+Norman Pl
+Sussex Rd
+Essex Dr
+Newcomb Rd
+Kent Rd
+Franklin St
+Ridge Rd
+N Summit St
+Stonehurst Dr
+Day Ave
+Serpentine Rd
+Esmond Pl
+Palmer Ave
+Bliss Ave
+Downey Dr
+Forest Rd
+Park St
+Thatcher Rd
+Buff Rd
+Hillside Ave
+Farview Rd
+Glenwood Rd
+Surrey Ln
+Joyce Rd
+Prospect Ter
+Walnut Dr
+Gordon Ave
+Mayflower Dr
+Hudson Ave
+Cortlandt Pl
+Floral Ter
+Woodland Park Dr
+Windsor Rd
+Creston Ave
+Wight Pl
+Lylewood Dr
+Coppel Dr
+Willow Ln
+Foster Rd
+Berkeley Dr
+Jewett Ave
+S Park Dr
+N Lyle Ave
+Erledon Rd
+Lindley Ave
+Edgewood St
+Benjamin Rd
+Hamilton Pl
+Richard St
+Homestead Rd
+Crabtree Ln
+Brook Rd
+Huyler Ave
+Leonard Ave
+Cambridge Rd
+Marcotte Ln
+Ravine Rd
+Knoll Rd
+York Pl
+Trafalgar Rd
+Burlington Rd
+Sisson Ter
+Harold St
+Louise Ln
+Lawrence Pkwy
+N Brae Ct
+Roberts Ct
+Laurel Ave
+Woodmere Ln
+Mahan St
+Stanton Rd
+Birchwood Pl
+Mountain Rd
+Grandview Ter
+E Hill Ct
+N Browning Ave
+Tekening Dr
+Atwood Ave
+Dogwood Ln
+Cypress St
+Briarcliff Rd
+Greentree Ter
+Davenport Ave
+Chestnut St
+Peter Lynas Ct
+Westerly Dr
+Illingsworth Ave
+Devriese Ct
+Lancaster Rd
+Ivy Ln
+Wilkins Pl
+Northrop Ln
+Mackay Dr
+Moller St
+Victoria Ln
+Deerfield Dr
+Colonial Rd
+Leslie Pl
+Somerset Rd
+Hodskin Pl
+Kensington Ct
+Clarke Pl
+Jersey Ave
+Malcolm Ct
+Elkwood Ter
+Boulder Rd
+S Summit St
+Maple St
+Phelps Ave
+Porter Ave
+Henry St
+Hickory Ave
+Hudson Ave
+Ivy Ln
+Ivy Ln
+Park St
+Oak St
+B U R G I S ASSOCIATES, INC. 
+25 Westwood Avenue               
+Westwood, New Jersey 07675   
+ p: 201.666.1811
+f:  201.666.2599
+COMMUNITY PLANNING | LAND DEVELOPMENT AND DESIGN | LANDSCAPE ARCHITECTURE 
+Project Title
+Housing Element and Fair Share Plan
+Borough of Tenafly | Bergen County, New Jersey
+Dwg. Title
+Map 1: Community Overview
+Project No.
+Date
+Drawn
+4168.04
+02.03.25
+DN
+Dwg. No.:
+Scale:
+map 1
+°
+Legend
+Municipal Boundary
+Parcels
+1 " = 1,800 '
+Source 1: Boundary data from NJDEP.
+Source 2: Parcel data from NJGIN Open Data, Bergen County,
+Source 3: Street data from NJ Open Data. 
+Borough of
+Alpine
+Borough of Cresskill
+Borough of
+Bergenfield
+City of
+Englewood
+Borough of
+Englewood Cliffs
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 20 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 21 =====
+Engle St
+E Clinton Ave
+Sylvan Ave
+Hudson Dr
+Tenafly Rd
+Dean Dr
+Elm St
+Knickerbocker Rd
+County Rd
+Highwood Ave
+Piermont Rd
+Grove St
+Riveredge Rd
+Leroy St
+W Clinton Ave
+Westervelt Ave
+Hickory Ave
+Oxford Dr
+Woodland St
+Palisades Interstate Pkwy
+Oak St
+Sunset Ln
+Oak Ave
+Columbus Dr
+Devon Rd
+Jefferson Ave
+George St
+Churchill Rd
+Magnolia Ave
+Norman Pl
+Sussex Rd
+Essex Dr
+Newcomb Rd
+Kent Rd
+Franklin St
+Ridge Rd
+N Summit St
+Stonehurst Dr
+Day Ave
+Serpentine Rd
+Esmond Pl
+Palmer Ave
+Bliss Ave
+Downey Dr
+Forest Rd
+Park St
+Thatcher Rd
+Buff Rd
+Hillside Ave
+Farview Rd
+Glenwood Rd
+Surrey Ln
+Joyce Rd
+Prospect Ter
+Walnut Dr
+Gordon Ave
+Mayflower Dr
+Hudson Ave
+Cortlandt Pl
+Floral Ter
+Woodland Park Dr
+Windsor Rd
+Creston Ave
+Wight Pl
+Lylewood Dr
+Coppel Dr
+Willow Ln
+Foster Rd
+Berkeley Dr
+Jewett Ave
+S Park Dr
+N Lyle Ave
+Erledon Rd
+Lindley Ave
+Edgewood St
+Benjamin Rd
+Hamilton Pl
+Richard St
+Homestead Rd
+Crabtree Ln
+Brook Rd
+Huyler Ave
+Leonard Ave
+Cambridge Rd
+Marcotte Ln
+Ravine Rd
+Knoll Rd
+York Pl
+Trafalgar Rd
+Burlington Rd
+Sisson Ter
+Harold St
+Louise Ln
+Lawrence Pkwy
+N Brae Ct
+Roberts Ct
+Laurel Ave
+Woodmere Ln
+Mahan St
+Stanton Rd
+Birchwood Pl
+Mountain Rd
+Grandview Ter
+E Hill Ct
+N Browning Ave
+Tekening Dr
+Atwood Ave
+Dogwood Ln
+Cypress St
+Briarcliff Rd
+Greentree Ter
+Davenport Ave
+Chestnut St
+Peter Lynas Ct
+Westerly Dr
+Illingsworth Ave
+Devriese Ct
+Lancaster Rd
+Ivy Ln
+Wilkins Pl
+Northrop Ln
+Mackay Dr
+Moller St
+Victoria Ln
+Deerfield Dr
+Colonial Rd
+Leslie Pl
+Somerset Rd
+Hodskin Pl
+Kensington Ct
+Clarke Pl
+Jersey Ave
+Malcolm Ct
+Elkwood Ter
+Boulder Rd
+S Summit St
+Maple St
+Phelps Ave
+Porter Ave
+Henry St
+Hickory Ave
+Hudson Ave
+Ivy Ln
+Ivy Ln
+Park St
+Oak St
+B U R G I S ASSOCIATES, INC. 
+25 Westwood Avenue               
+Westwood, New Jersey 07675   
+ p: 201.666.1811
+f:  201.666.2599
+COMMUNITY PLANNING | LAND DEVELOPMENT AND DESIGN | LANDSCAPE ARCHITECTURE 
+Project Title
+Housing Element and Fair Share Plan
+Borough of Tenafly | Bergen County, New Jersey
+Dwg. Title
+Map 2: Existing Land Use
+Project No.
+Date
+Drawn
+4168.04
+02.03.25
+DN
+Dwg. No.:
+Scale:
+map 2
+°
+Legend
+Municipal Boundary
+Parcels
+1 " = 1,800 '
+Borough of
+Alpine
+Borough of Cresskill
+Borough of
+Bergenfield
+City of
+Englewood
+Borough of
+Englewood Cliffs
+Existing Land Use
+Residential: One and Two Family
+Residential: Multifamily
+Residential: Age-Restricted/Assisted Living
+Commercial
+Light Industrial
+Golf Course
+Parks and Open Space
+Public Property
+Public School Property
+House of Worship
+Cemeteries
+Quasi-Public
+Right-of-way
+Railroad
+Parking Lot
+Vacant
+Source 1: Boundary data from NJDEP.
+Source 2: Parcel data from NJGIN Open Data, Bergen County,
+Source 3: Street data from NJ Open Data. 
+Source 4: Existing land use data from Mod IV Tax data, with edits
+                made by Burgis Associates, Inc.
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 21 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 22 =====
+ 
+~ 16 ~ 
+2.2: Demographic and Population Data 
+Analyzing demographic and population data is a necessary and integral step in planning 
+for the future needs of a community. As such, the following section outlines the 
+demographic changes experienced by the Borough of Tenafly over the past several 
+decades. 
+Population Changes 
+The Borough experienced a consistent level of growth between 1930 to 1960, wherein its 
+population increased approximately 150%. Between 1950 and 1960 alone, Tenafly’s 
+population increased by nearly fifty percent. Nevertheless, this trend reversed during the 
+1970s and 1980s, which saw the Borough’s population decline by 10.1% to 13,326 in 
+1990. By 2000, however, this trend reversed again and the Borough’s population 
+increased 3.6 percent to 13,806.  
+Between 2000 and 2020, the Borough’s population is estimated to have increased 
+approximately 11.6%. Since that time, however, the ACS indicates a slight decrease of 
+approximately 1.0%. As of 2023, the ACS estimates that the Borough’s population is 
+approximately 15,252 people. 
+Due to recent approvals for multifamily developments throughout the community over 
+the past several years, it is anticipated that the Borough’s population will increase over 
+the next several years. 
+Table 10: Population Growth, 1930-2023 
+Year 
+Population 
+Change 
+Percent Change 
+1930 
+5,669 
+- 
+- 
+1940 
+7,413 
+1,744 
+30.8% 
+1950 
+9,651 
+2,238 
+30.2% 
+1960 
+14,264 
+4,613 
+47.8% 
+1970 
+14,827 
+563 
+3.9% 
+1980 
+13,552 
+-1,275 
+-8.6% 
+1990 
+13,326 
+-226 
+-1.7% 
+2000 
+13,806 
+480 
+3.6% 
+2010 
+14,488 
+682 
+4.9% 
+2020 
+15,409 
+921 
+6.4% 
+2023 
+15,252 
+-157 
+-1.0% 
+Source: US Census Bureau; 2023 American Community Survey Five-Year Estimate 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 22 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 23 =====
+ 
+~ 17 ~ 
+Age Characteristics 
+Overall, the Borough’s median age increased slightly from 40.9 years in 2000 to 42.1 years 
+in 2023. Nevertheless, Tenafly is not aging as rapidly nor as dramatically as other 
+municipalities throughout the state. This is particularly evident in its younger age cohorts. 
+The percentage of the Borough’s population aged nineteen and under has increased over 
+the past twenty-three years. In 2000, an estimated 30.2% of the Borough’s population was 
+aged nineteen and under. By 2023, this percentage slightly increased to an estimated 
+32.1%. Overall, the total number of residents in the age cohort is estimated to have 
+increased approximately 17.3% during that same time period. 
+Meanwhile, the percentage of the Borough’s population aged sixty-five and over has 
+decreased over the same time period. In 2000, an estimated 15.1% of the Borough’s 
+population was aged sixty-five and over. By 2023, this percentage decreased to an 
+estimated 12.9%. Overall, the total number of residents in this age cohort decreased by 
+approximately 5.9% during that same time period. 
+Table 11: Age Characteristics, 2000-2023 
+Age 
+2000 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Under 5 
+904 
+6.5% 
+728 
+5.0% 
+482 
+3.2% 
+5 to 19 
+3,275 
+23.7% 
+4,086 
+28.2% 
+4,417 
+29.0% 
+20 to 24 
+371 
+2.7% 
+424 
+2.9% 
+407 
+2.7% 
+25 to 34 
+1,000 
+7.2% 
+711 
+4.9% 
+708 
+4.6% 
+35 to 44 
+2,513 
+18.2% 
+2,209 
+15.2% 
+2,570 
+16.8% 
+45 to 54 
+2,232 
+16.2% 
+2,743 
+18.9% 
+2,611 
+17.1% 
+55 to 64 
+1,419 
+10.3% 
+1,634 
+11.3% 
+2,089 
+13.7% 
+65 to 74 
+1,064 
+7.7% 
+959 
+6.6% 
+1040 
+6.8% 
+75 to 84 
+734 
+5.3% 
+678 
+4.7% 
+537 
+3.5% 
+85 and over 
+294 
+2.1% 
+316 
+2.2% 
+391 
+2.6% 
+Total 
+13,806 
+14,488 
+15,299 
+Median Age 
+40.9 
+41.8 
+42.1 
+Source: US Census Bureau; 2023 American Community Survey Five-Year Estimate 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 23 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 24 =====
+ 
+~ 18 ~ 
+Household Tenure and Occupancy 
+Over the past twenty-three years, the total number and overall percentage of owner-
+occupied housing units is estimated to have decreased while the overall number and 
+percentage of renter-occupied units is estimated to have increased. The 2023 ACS further 
+estimates that the number of vacant units in the Borough has fluctuated between a low of 
+123 units and a high of 214 units during that same time period. 
+Figure 1: Owner-Occupied and Renter-Occupied Units, 1990-2023 
+ 
+Source: US Census Bureau; 2022 American Community Survey Five-Year Estimate 
+Average Household Size 
+The Borough’s average household size has generally fluctuated since 1980. As per the 
+2023 ACS, it is estimated that the average household size in the Borough was 2.90 people 
+per unit. This represents a decrease of approximately 5.5% since 2010. 
+Figure 2: Household Sizes, 1990-2023 
+ 
+Source: US Census Bureau; 2023 American Community Survey Five-Year Estimate 
+ 
+3,800
+3,847
+3,748
+3,768
+924
+927
+1,018
+1,454
+174
+123
+214
+193
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+1990
+2000
+2010
+2023
+Owner-Occupied
+Renter-Occupied
+Vacant Units
+2.87
+2.79
+2.86
+3.07
+2.90
+2.65
+2.70
+2.75
+2.80
+2.85
+2.90
+2.95
+3.00
+3.05
+3.10
+1980
+1990
+2000
+2010
+2022
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 24 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 25 =====
+ 
+~ 19 ~ 
+Household Income 
+Households incomes have increased throughout the Borough since 1999. This is 
+particularly evident in upper-tier incomes. In 1999, an estimated 30% of the Borough’s 
+households reported an income of $150,000 or more. By 2023, this percentage increased 
+to approximately 65.7% of households.  
+Overall, the Borough’s median income increased approximately 202.7% over the past few 
+decades, from $68,742 per household in 1999 to $208,088 per household in 2023. This 
+represents a higher percentage increase experienced by the County as a whole (78.9%) 
+during that same time period. The Borough’s median household income has also 
+historically been higher than the County’s. 
+Pursuant to the ACS, an estimated 3.7% of the Borough’s population reported an income 
+below the federal poverty line in 2023. This is below the County’s estimated rate of 6.6%. 
+Table 12: Household Incomes, 1999-2023 
+1999 
+2010 
+2023 
+Income Level 
+Households 
+Percent 
+Households 
+Percent 
+Households 
+Percent 
+Less than $10,000 
+198 
+4.1% 
+112 
+2.40% 
+133 
+2.6% 
+$10,000 to $14,999 
+116 
+2.4% 
+39 
+0.80% 
+23 
+0.4% 
+$15,000 to $24,999 
+244 
+5.1% 
+110 
+2.40% 
+117 
+2.2% 
+$25,000 to $34,999 
+258 
+5.4% 
+148 
+3.20% 
+47 
+0.9% 
+$35,000 to $49,999 
+392 
+8.2% 
+422 
+9.10% 
+279 
+5.4% 
+$50,000 to $74,999 
+722 
+15.1% 
+791 
+17% 
+203 
+3.9% 
+$75,000 to $99,999  
+599 
+12.5% 
+376 
+8.10% 
+252 
+4.8% 
+$100,000 to $149,999 
+815 
+17.0% 
+605 
+13% 
+737 
+14.1% 
+$150,000 to $199,999 
+375 
+7.8% 
+492 
+10.60% 
+646 
+12.4% 
+$200,000 or more 
+1,062 
+22.2% 
+1550 
+33.40% 
+2,785 
+53.3% 
+Total 
+4,871 
+100.00% 
+4,645 
+100.00% 
+5,222 
+100.0% 
+Median Income 
+$68,742 
+$125,865 
+$208,088  
+Bergen County 
+$65,241 
+$81,708 
+$116,709  
+Source: US Census Bureau; 2010 and 2023 American Community Survey 5-Year Estimates. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 25 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 26 =====
+ 
+~ 20 ~ 
+2.3: Inventory of Housing Stock 
+The following section provides an overview of the Borough’s housing stock. It inventories 
+several housing characteristics such as age, condition, purchase/rental value, and 
+occupancy. 
+Number of Dwelling Units 
+Between 1950 and 2023, the number of dwelling units in the Borough is estimated to 
+have increased approximately 90.5%, from 2,843 units in 1950 to 5,415 units in 2023. 
+Nevertheless, the largest percentage increase in the Borough’s housing stock took place 
+between 1950 and 1960, wherein the number of units increased by 50.6%. Since that 
+time, the growth rate of the Borough’s housing stock has slowed. The ACS estimates that 
+between 2010 and 2023, the Borough’s housing stock increased by approximately 8.7%. 
+This reduced rate can likely be attributed to the Borough’s fully developed nature. 
+Figure 3: Housing Units, 1950-2023 
+ 
+Source: US Census Bureau, 2023 ACS Five-Year Estimate 
+ 
+ 
+ 
+2,843
+4,284
+4,619
+4,753
+4,898
+4,897
+4,980
+5,415
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+1950
+1960
+1970
+1980
+1990
+2000
+2010
+2023
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 26 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 27 =====
+ 
+~ 21 ~ 
+Units in Structure for Occupied Units 
+Information regarding the number of dwelling units in different types of housing 
+structures provides insights into the types of housing which exists throughout the 
+Borough. Thus, the following table summarizes the unit-composition of the Borough’s 
+structures since 2000. 
+As per the 2023 ACS, single-family detached dwellings account for an estimated 75.9% of 
+the Borough’s housing stock, down slightly from 81.0% in 2000. Single-family attached 
+dwellings represent the second largest housing category at 6.1%. Those buildings with 
+twenty or more units experienced an estimated increase of approximately 64.4% since 
+2023. 
+Table 13: Units in Structure, 2000-2023 
+2000 
+2010 
+2023 
+Units in Structure 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Single Family, Detached 
+3,966 
+81.0% 
+3,766 
+77.5% 
+4,110 
+75.9% 
+Single Family, Attached 
+140 
+2.9% 
+152 
+3.1% 
+331 
+6.1% 
+2 Units 
+332 
+6.8% 
+452 
+9.3% 
+298 
+5.5% 
+3 to 4 Units 
+88 
+1.8% 
+146 
+3.0% 
+122 
+2.3% 
+5 to 9 Units 
+98 
+2.0% 
+109 
+2.2% 
+138 
+2.5% 
+10 to 19 Units 
+110 
+2.2% 
+144 
+3.0% 
+86 
+1.6% 
+20 or More 
+163 
+3.3% 
+89 
+1.8% 
+268 
+5.0% 
+Other 
+0 
+0.0% 
+0 
+0.0% 
+62 
+1.1% 
+Total 
+4,897 
+100.0% 
+4,858 
+100.0% 
+5,415 
+100.0% 
+Source: US Census Bureau; 2010 and 2023 American Community Survey Five-Year Estimates. 
+Purchase and Rental Value of Housing Units 
+The following two tables identify purchase values and rental values for owner-occupied 
+and renter-occupied units in Tenafly, respectively. 
+As shown in Table 14, the overall median value of the Borough’s owner-occupied housing 
+increased substantially between 2000 and 2010, from $403,600 to $742,500. Since that 
+time, the ACS estimates that the median value of the Borough’s owner-occupied housing 
+stock increased again, albeit at a slower rate. As of 2023, the ACS estimates that the 
+median value of the Borough’s owner-occupied housing is approximately $974,300. This 
+is higher than both Bergen County’s and the State of New Jersey’s estimated median 
+values. 
+Similarly, the overall value of contract rents in the Borough has increased consistently 
+since 2000. As of 2023, the ACS estimates that the median contract rent asked in the 
+Borough is approximately $2,913, which represents a 145.6% increase since 2000. Rents in 
+the Borough have historically been higher than those estimated for Bergen County and 
+the State as a whole. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 27 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 28 =====
+ 
+~ 22 ~ 
+Table 14: Value of Owner-Occupied Units, 2000-2023 
+ 
+2000 
+2010 
+2023 
+Value Range 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Less than $50,000 
+26 
+0.7% 
+12 
+0.3% 
+0 
+0.0% 
+$50,000 to $99,999 
+9 
+0.3% 
+15 
+0.4% 
+19 
+0.5% 
+$100,000 to $149,999 
+17 
+0.5% 
+15 
+0.4% 
+20 
+0.5% 
+$150,000 to $199,999 
+145 
+4.1% 
+0 
+0.0% 
+7 
+0.2% 
+$200,000 to $299,999 
+769 
+21.7% 
+83 
+2.4% 
+127 
+3.4% 
+$300,000 to $499,999 
+1352 
+38.2% 
+536 
+15.6% 
+140 
+3.7% 
+$500,000 to $999,999 
+938 
+26.5% 
+1,978 
+57.4% 
+1,685 
+44.7% 
+$1,000,000 or More 
+283 
+8.0% 
+805 
+23.4% 
+1770 
+47.0% 
+Total 
+3,539 
+100.0% 
+3,444 
+100.0% 
+3,768 
+100.0% 
+Borough Median Value 
+$403,600  
+$742,500  
+$974,300  
+Bergen County Median Value 
+$250,300  
+$483,300  
+$615,300  
+New Jersey Median Value 
+$170,800 
+$357,000 
+$461,000  
+Source: US Census Bureau; 2010 and 2023 American Community Survey Five-Year Estimates. 
+Table 15: Specified Renter Occupied Housing Units by Rent, 2000-2023 
+2000 
+2010 
+2023 
+Rent Range 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Less than $500 
+66 
+7.1% 
+43 
+4.3% 
+22 
+1.5% 
+$500 to $999 
+337 
+36.4% 
+81 
+8.1% 
+0 
+0.0% 
+$1,000 to $1,499 
+222 
+24.0% 
+177 
+17.8% 
+29 
+2.0% 
+$1,500 to $1,999 
+89 
+9.6% 
+101 
+10.1% 
+154 
+10.6% 
+$2,000 to $2,499 
+137 
+14.8% 
+47 
+4.7% 
+336 
+23.1% 
+$2,500 to $2,999 
+---  
+--- 
+79 
+7.9% 
+173 
+11.9% 
+$3,000 or more 
+---  
+--- 
+469 
+47.1% 
+654 
+45.0% 
+No Rent paid 
+75 
+8.1% 
+0 
+0.0% 
+86 
+5.9% 
+Total 
+926 
+100.0% 
+997 
+100.0% 
+1,454 
+100 
+Median Rent  
+$1,186  
+$1,882  
+$2,913  
+Bergen County Median Rent 
+$872  
+$1,236  
+$1,644  
+New Jersey Median Value 
+$751  
+$1,092  
+$1,498  
+Source: US Census Bureau; 2010 and 2023 American Community Survey Five-Year Estimates. 
+Note: 2000 US Census provided different rental categories than 2023 ACS 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 28 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 29 =====
+ 
+~ 23 ~ 
+Year Structure Built 
+The following figure identifies the years in which the Borough’s structures were built. As 
+shown, the Borough has an older housing stock with more than half (56.1%) of all 
+dwellings constructed prior to 1960. Conversely, only 10.8% of the Borough’s dwellings 
+are estimated to have been constructed after 2010. 
+Figure 4: Year Structure Built 
+ 
+Source: 2023 American Community Survey Five-Year Estimates. 
+ 
+ 
+ 
+48
+537
+352
+293
+351
+287
+511
+1,230
+433
+1,373
+0
+200
+400
+600
+800
+1,000
+1,200
+1,400
+1,600
+Built 2020 or later
+Built 2010 to 2019
+Built 2000 to 2009
+Built 1990 to 1999
+Built 1980 to 1989
+Built 1970 to 1979
+Built 1960 to 1969
+Built 1950 to 1959
+Built 1940 to 1949
+Built 1939 or earlier
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 29 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 30 =====
+ 
+~ 24 ~ 
+Deficient Housing Units 
+Neither the Census nor the ACS classify housing units as deficient. However, the Fair 
+Housing Act defines a “deficient housing unit” as housing which: is over fifty years old 
+and overcrowded; lacks complete plumbing, or; lacks complete kitchen facilities.  
+Accordingly, the following tables are intended to provide insights into the extent to which 
+the Borough has deficient housing units. First, Table 16 examines the extent to which 
+there is overcrowding in the Borough’s housing stock which is typically associated with 
+housing units with more than one occupant per room. As shown, the estimated number 
+of occupied housing units within the Borough considered to be overcrowded is negligible 
+Table 16: Occupants Per Room (2023) 
+Occupants per Room 
+Owner-Occupied 
+Renter-Occupied 
+0.50 or Fewer 
+3,171 
+874 
+0.51 to 1.00 
+597 
+529 
+1.01 to 1.50 
+0 
+21 
+1.51 to 2.00 
+0 
+30 
+2.01 or More 
+0 
+0 
+Total 
+3,768 
+1,454 
+Source: 2023 American Community Survey Five-Year Estimates. 
+Table 17 identifies housing units with and without complete plumbing and kitchen 
+facilities. As shown, all occupied units in the Borough were identified as having complete 
+kitchen facilities, while nearly all (99.8%) of occupied units have complete plumbing 
+facilities. 
+Table 17: Plumbing and Kitchen Facilities (2023) 
+ 
+Units with Complete Facilities 
+Units without Complete Facilities 
+Plumbing 
+5,214 
+8 
+Kitchen 
+5,222 
+0 
+Source: 2023 American Community Survey Five-Year Estimates. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 30 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 31 =====
+ 
+~ 25 ~ 
+2.4: Housing and Employment Projection 
+The following section identifies the extent to which housing and economic development 
+have occurred in the community, which can assist in the determination of future 
+residential and employment projections. 
+Recent Residential Development Activity 
+One way of examining the stability of a community’s housing stock is by comparing the 
+number of residential building permits and demolition permits issued every year. Since 
+2000, the Borough has annually issued an average of 39.6 and 25.1 building permits and 
+demolition permits, respectively. This results in an average positive net of 14.4 permits 
+annually. This is reflective of the Borough’s established development pattern. 
+Table 18: Residential Building Permits and Demolition Permits 
+ 
+Building Permits 
+ 
+ 
+Year 
+1 & 2 Family 
+Multifamily 
+Mixed Use 
+Total 
+Demos 
+Net 
+2000* 
+ 
+ 
+ 
+30 
+24 
+6 
+2001* 
+ 
+ 
+ 
+31 
+20 
+11 
+2002* 
+ 
+ 
+ 
+54 
+26 
+28 
+2003* 
+ 
+ 
+ 
+24 
+18 
+6 
+2004 
+36 
+0 
+1 
+37 
+20 
+17 
+2005 
+48 
+0 
+0 
+48 
+36 
+12 
+2006 
+53 
+0 
+0 
+53 
+26 
+27 
+2007 
+35 
+147 
+0 
+182 
+26 
+156 
+2008 
+21 
+2 
+0 
+23 
+14 
+9 
+2009 
+14 
+12 
+0 
+26 
+19 
+7 
+2010 
+23 
+0 
+0 
+23 
+20 
+3 
+2011 
+22 
+0 
+0 
+22 
+27 
+-5 
+2012 
+22 
+0 
+0 
+22 
+18 
+4 
+2013 
+28 
+0 
+0 
+28 
+26 
+2 
+2014 
+29 
+0 
+0 
+29 
+35 
+-6 
+2015 
+32 
+0 
+0 
+32 
+36 
+-4 
+2016 
+35 
+0 
+0 
+35 
+12 
+23 
+2017 
+38 
+0 
+0 
+38 
+18 
+20 
+2018 
+39 
+0 
+0 
+39 
+52 
+-13 
+2019 
+46 
+0 
+0 
+46 
+38 
+8 
+2020 
+25 
+0 
+0 
+25 
+27 
+-2 
+2021 
+53 
+0 
+0 
+53 
+11 
+42 
+2022 
+21 
+0 
+0 
+21 
+25 
+-4 
+2023 
+30 
+0 
+0 
+30 
+30 
+0 
+Total 
+650 
+161 
+1 
+951 
+604 
+347 
+Source: Department of Community Affairs 
+* Data not broken down by category 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 31 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 32 =====
+ 
+~ 26 ~ 
+Recent Multifamily Development Approvals 
+The Borough has approved several multifamily developments which may not be reflected 
+in Table 18. These include the following. As shown, these developments comprise a total 
+of one hundred and eighty-nine (189) residential units. 
+❖ 4.5-5 West Railroad Avenue. 4.5-5 West Railroad Avenue, which is identified by 
+municipal tax records as Block 1011 Lot 19, received site plan approval in 2022 
+for a mixed-use development consisting of eighteen (18) residential units. 
+❖ 6 West Railroad Avenue. 6 West Railroad Avenue, which is identified by municipal 
+tax records as Block 1011 Lot 18, received site plan approval in 2022 for a mixed-
+use development consisting of four (4) residential units. 
+❖ 11 West Railroad Avenue. 11 West Railroad Avenue, which is identified by 
+municipal tax records as Block 1011 Lot 15, received site plan approval in 2022 
+for a mixed-use development consisting of five (5) residential units. 
+❖ 31 Central Avenue. 31 Central Avenue, which is identified by municipal tax 
+records as Block 1104 Lots 7 and 8, received site plan approval in 2023 for a 
+mixed-use development consisting of ten (10) residential units. 
+❖ 121-131 North Summit Street/145 Piermont Road. 121-131 North Summit 
+Street/145 Piermont Road, which is identified by municipal tax records as Block 
+1301 Lots 2 and 13, received site plan approval in 2023 for a mixed-use 
+development consisting of one hundred and twelve (112) residential units. 
+❖ 66 West Railroad Avenue. 66 West Railroad Avenue, which is identified by 
+municipal tax records as Block 1104 Lot 4, received site plan approval for a 
+mixed-use development consisting of forty (40) residential units. 
+Covered Employment 
+Figure 8 and Figure 9 provide data on the Borough’s covered employment trends 
+between 2004 and 2023, as reported by the New Jersey Department of Labor and 
+Workforce Development. “Covered employment” refers to any employment covered 
+under the Unemployment and Temporary Disability Benefits Law. Generally, nearly all 
+employment in the state is considered to be “covered employment.”  
+Figure 8 depicts the number of reported “employment units” within the Borough. An 
+“employment unit” is defined as an individual or organization which employs one or more 
+workers. As shown, the Borough experienced a fairly consistent loss of employment units 
+between 2005 and 2017. Since that time, however, the number of employment units have 
+increased approximately 13.7%. As of 2023, there were a reported 541 employment units 
+in the Borough. 
+While the Borough may have generally experienced a decrease of employment units 
+between 2005 and 2017, Figure 9 suggests it actually experienced an increase in 
+employment during that same time frame. Ironically, as the number of employment units 
+increased since 2017, employment levels decreased continually between 2017 and 2020. 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 32 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 33 =====
+ 
+~ 27 ~ 
+Since that time, however, employment has increased by approximately 23.6%. As of 2023, 
+the Borough’s reported covered employment was 4,843 individuals. 
+Figure 5: Covered Employment Units, 2004 to 2023 
+ 
+Source: Department of Labor and Workforce Development  
+ 
+Figure 6: Average Covered Employment, 2004 to 2023 
+ 
+Source: Department of Labor and Workforce Development  
+ 
+565
+571
+565
+540
+540
+526
+523
+508
+496
+486
+496
+490
+483
+476
+491
+492
+500
+512
+526
+541
+400
+420
+440
+460
+480
+500
+520
+540
+560
+580
+600
+2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+4,189
+3,869
+3,644
+3,673
+3,773
+4,223
+4,184
+4,159
+4,238
+4,404
+4,516
+4,618
+4,728
+4,760
+4,712
+4,569
+3,918
+4,210
+4,562
+4,843
+3,000
+3,200
+3,400
+3,600
+3,800
+4,000
+4,200
+4,400
+4,600
+4,800
+5,000
+2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 33 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 34 =====
+ 
+~ 28 ~ 
+Section 3: 4th Round Obligation 
+The following section provides an overview of the Borough’s fair share obligation. It 
+includes a brief overview of the methodology utilized to calculate affordable housing 
+obligations throughout the state. 
+3.1: Summary of Fourth Round Obligation 
+On March 20, 2024, the State of New Jersey adopted a package of affordable housing 
+bills which overhauled the Fair Housing Act (FHA). This legislation eliminated the Council 
+on Affordable Housing (COAH) and split its duties and functions between the Department 
+of Community Affairs (DCA) and the Administrative Office of the Courts (AOC). 
+The DCA was designated as the entity responsible for calculating the state’s regional 
+needs. NJSA 52:27D-304.2 establishes the methodology to be utilized by the DCA to 
+determine the state’s regional prospective needs of low- and moderate-income housing 
+for the ten-year period spanning from July 1, 2025 to June 30, 2035. In summary, the 
+projected household change for this period is estimated by establishing the household 
+change experienced in each region between the most recent federal decennial census 
+and the second-most recent decennial census. This household change, if positive, is then 
+to be divided by 2.5 to estimate the number of low- and moderate-income homes 
+needed to address low- and moderate-income household change in the region for the 
+next ten years. This methodology resulted in a statewide prospective need of 84,698 low- 
+and moderate-income units. 
+Furthermore, the DCA was also designated as the entity responsible for calculating each 
+municipality’s present and prospective fair share obligations. However, the FHA makes 
+clear that these calculations are advisory and that each municipality must set its own 
+obligation number utilizing the same methodology. 
+On January 21, 2025, Tenafly adopted Resolution #R25-72 which established its affordable 
+housing obligations for the Fourth Round. A copy of this resolution is located in Appendix 
+A. Despite finding flaws in its land capacity factor, the Borough accepted the DCA’s 
+Fourth Round Obligation calculation of two hundred and ninety-seven (297) affordable 
+units. That same resolution also noted that the Borough reserves the right to conduct a 
+vacant land adjustment (VLA) to determine its realistic development potential (RDP). This 
+is discussed in greater detail herein. 
+Furthermore, Resolution #R25-72 adjusted the Borough’s Present Need Obligation from 
+sixty-one (61) to ten (10) affordable units based upon a Structural Conditions Survey. This 
+is also discussed in greater detail herein. 
+Table 19: Summary of Fair Share Obligation 
+Affordable Obligation 
+Units 
+Present (Rehabilitation Need) Obligation 
+10 
+Prospective Need 
+297 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 34 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 35 =====
+ 
+~ 29 ~ 
+3.2: Present Need Obligation and Structural Conditions Survey 
+The following is noted regarding the Borough’s Present Need Obligation and Structural 
+Conditions Survey. 
+Present Need Obligation 
+As per the adopted legislation, a municipality’s Present Need Obligation is determined 
+“by estimating the deficient housing units occupied by low- and moderate-income 
+households in the region, following a methodology similar to the methodology used to 
+determine third round municipal present need, through the use of most recent datasets 
+made available through the federal decennial census and the American Community 
+Survey, including the Comprehensive Housing Affordability Strategy dataset thereof.” 
+The “Affordable Housing Obligations for 2025-2035 (Fourth Round) Methodology and 
+Background” workbook released by the DCA (herein referred to as the “DCA Workbook” 
+or the “Workbook”) notes that the Present Need calculations used three (3) factors to 
+calculate its present need: the number of housing units lacking complete kitchen facilities; 
+the number of units lacking complete plumbing facilities; and the number of 
+overcrowded units. 
+The analysis employed by the DCA utilizes data from HUD’s Comprehensive Housing 
+Affordability Strategy (CHAS) dataset, which has municipal-level data on the number and 
+percentage of low- and moderate-income households from a special tabulation of the US 
+Census’s American Community Survey (ACS) data. Utilizing the methodology outlined in 
+the Workbook, the DCA calculated a Present Need of sixty-eight (68) affordable units for 
+the Borough. 
+Structural Conditions Survey 
+However, as per NJAC 5:93-5.2, “each municipality shall be provided with the Council’s 
+estimate for substandard units occupied by low and moderate income households. This 
+estimate shall be the municipality’s indigenous need, unless the municipality or an 
+objector performs the Council’s Structural Conditions Survey (see Appendix C, 
+incorporated herein by reference). Where the municipality or objector performs the 
+Structural Conditions Survey, the Council shall review the results of the data collected and 
+shall modify the indigenous need if it determines a modification is warranted.” 
+Appendix C to COAH’s Round 2 rules (5:93) sets forth the guidelines for the preparation 
+of a Structural Conditions Survey. As set forth therein, the first step in the process is for 
+the Construction Official (or their designee) to conduct an exterior survey to determine 
+the number of substandard units in the municipality. The second step is to estimate the 
+number of substandard units occupied by low- and moderate-income households. To 
+calculate this estimate, Appendix C states that “the Council will rely on census information 
+that is available from the Public Use Micro-Data Sample (PUMS).” 
+In regard to the first step, the Borough’s Construction Official conducted a survey on 
+December 11, 2024. As per that survey, the Construction Official observed thirteen (13) 
+structures being in need of repair. See Appendix C for a copy of this survey. 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 35 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 36 =====
+ 
+~ 30 ~ 
+The next step is to estimate the number of those surveyed substandard units which are 
+occupied by low- and moderate-income households. However, in calculating the Round 4 
+Present Need obligations, the DCA did not rely upon PUMS data for determining the 
+percentage of substandard units occupied by low-and moderate-income households. 
+Rather, the DCA relied upon HUD’s Comprehensive Housing Affordability Strategy (CHAS) 
+dataset for this estimate. Separate percentages were calculated for overcrowded units 
+and units lacking complete plumbing or kitchen facilities. 
+The entirety of the Present Need calculated for the Borough consisted of overcrowded 
+units. The data employed by the DCA found that ninety-two (92) units were overcrowded, 
+and it was estimated by the DCA that 74.0% of these units were overcrowded by low- and 
+moderate-income households. 
+When applying this same percentage to the units identified by the Structural Conditions 
+survey, a total of ten (10) units are in need of rehabilitation. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 36 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 37 =====
+ 
+~ 31 ~ 
+3.3: Realistic Development Potential 
+The Borough of Tenafly is a fully developed community and is therefore entitled to adjust 
+its obligation in accordance with a procedure set forth in the FHA. Specifically, NJSA 
+52:27D-310.1 permits municipalities to perform a realistic development potential (RDP) 
+analysis by seeking a vacant land adjustment (VLA).  
+A RDP analysis is intended to determine which sites in a municipality are most likely to 
+develop for low- and moderate-income housing. Municipalities may present 
+documentation that eliminates a site or part of a site from its inventory of vacant land. 
+Such eliminating factors include: lands dedicated for public uses other than housing since 
+1997; park lands or open space; vacant contiguous parcels in private ownership of a size 
+which would accommodate fewer than five housing units; historic and architecturally 
+important sites listed on the State Register of Historic Places or the National Register of 
+Historic Places; preserved architectural lands; sites designated for active recreation; and 
+environmentally sensitive lands. 
+Prior Round RDP 
+The Borough received a Prior Round judgement of compliance and repose which 
+established a RDP of thirty-eight (38) affordable units which was later adjusted to sixty-
+seven (67) affordable units. 
+Third Round RDP 
+A VLA was conducted for the Borough’s 2018 HE&FSP. This analysis identified sixteen (16) 
+vacant parcels which totaled 6.37 acres of vacant land in the Borough. A total of 4.05 
+acres were comprised of vacant sites that were minimally 0.83 acres, all of which were 
+devoid of the aforementioned constraints. Pursuant to the applicable regulations, a 
+minimum presumptive density of six units per acre was imposed on these 4.05 acres. A 
+twenty percent (20%) set-aside was then imposed on that calculation. This formula 
+resulted in a RDP of five (5) affordable units. 
+Subsequently, and pursuant to an amended settlement agreement and a 2023 
+amendment to the Borough’s HE&FSP, this RDP of five (5) affordable units was combined 
+with an RDP of thirty-seven (37) units which was comprised of four separate components: 
+the Dean Drive Site; the Piermont Road Site; the Serpentine Road Site; and the West 
+Railroad Avenue Site. This resulted in a total Third Round Prospective Need RDP of forty-
+two (42) units. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 37 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 38 =====
+ 
+~ 32 ~ 
+Fourth Round RDP 
+A new VLA has been conducted for the Borough. This analysis first identified those 
+properties in the Borough which have a vacant tax assessment. Next, wetland, steep 
+slope, and floodplain information pursuant to the applicable regulations were applied to 
+these vacant sites. The remaining acreage of sites minimally 0.83 acres in size was then 
+calculated. The analysis revealed that there are no newly vacant properties which meet 
+the aforementioned 0.83 acre threshold.  
+However, the Borough found one (1) municipally owned parking lot which has the 
+potential to be redeveloped. This parking lot, which is identified by municipal tax records 
+as Block 1009 Lot 9, is located at the corner of Tenafly Avenue and Washington Road. 
+Pursuant to Bergen County tax records, this site has an area of approximately 0.462 acres. 
+A presumptive density of fifteen (15) units per acre was applied to this site; this 
+presumptive density is based upon the AHO-5 Overlay District which is the nearest 
+overlay zoning district. This results in a RDP of two (2) affordable units. 
+A copy of the VLA can be found in Appendix D. 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 38 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 39 =====
+Engle St
+E Clinton Ave
+Sylvan Ave
+Hudson Dr
+Tenafly Rd
+Dean Dr
+Elm St
+Knickerbocker Rd
+County Rd
+Highwood Ave
+Piermont Rd
+Grove St
+Riveredge Rd
+Leroy St
+W Clinton Ave
+Westervelt Ave
+Hickory Ave
+Oxford Dr
+Woodland St
+Palisades Interstate Pkwy
+Oak St
+Sunset Ln
+Oak Ave
+Columbus Dr
+Devon Rd
+Jefferson Ave
+George St
+Churchill Rd
+Magnolia Ave
+Norman Pl
+Sussex Rd
+Essex Dr
+Newcomb Rd
+Kent Rd
+Franklin St
+Ridge Rd
+N Summit St
+Stonehurst Dr
+Day Ave
+Serpentine Rd
+Esmond Pl
+Palmer Ave
+Bliss Ave
+Downey Dr
+Forest Rd
+Park St
+Thatcher Rd
+Buff Rd
+Hillside Ave
+Farview Rd
+Glenwood Rd
+Surrey Ln
+Joyce Rd
+Prospect Ter
+Walnut Dr
+Gordon Ave
+Mayflower Dr
+Hudson Ave
+Cortlandt Pl
+Floral Ter
+Woodland Park Dr
+Windsor Rd
+Creston Ave
+Wight Pl
+Lylewood Dr
+Coppel Dr
+Willow Ln
+Foster Rd
+Berkeley Dr
+Jewett Ave
+S Park Dr
+N Lyle Ave
+Erledon Rd
+Lindley Ave
+Edgewood St
+Benjamin Rd
+Hamilton Pl
+Richard St
+Homestead Rd
+Crabtree Ln
+Brook Rd
+Huyler Ave
+Leonard Ave
+Cambridge Rd
+Marcotte Ln
+Ravine Rd
+Knoll Rd
+York Pl
+Trafalgar Rd
+Burlington Rd
+Sisson Ter
+Harold St
+Louise Ln
+Lawrence Pkwy
+N Brae Ct
+Roberts Ct
+Laurel Ave
+Woodmere Ln
+Mahan St
+Stanton Rd
+Birchwood Pl
+Mountain Rd
+Grandview Ter
+E Hill Ct
+N Browning Ave
+Tekening Dr
+Atwood Ave
+Dogwood Ln
+Cypress St
+Briarcliff Rd
+Greentree Ter
+Davenport Ave
+Chestnut St
+Peter Lynas Ct
+Westerly Dr
+Illingsworth Ave
+Devriese Ct
+Lancaster Rd
+Ivy Ln
+Wilkins Pl
+Northrop Ln
+Mackay Dr
+Moller St
+Victoria Ln
+Deerfield Dr
+Colonial Rd
+Leslie Pl
+Somerset Rd
+Hodskin Pl
+Kensington Ct
+Clarke Pl
+Jersey Ave
+Malcolm Ct
+Elkwood Ter
+Boulder Rd
+S Summit St
+Maple St
+Phelps Ave
+Porter Ave
+Henry St
+Hickory Ave
+Hudson Ave
+Ivy Ln
+Ivy Ln
+Park St
+Oak St
+46
+43
+112
+48
+68
+108
+51
+53
+49
+52
+69
+50
+27
+3
+110
+73
+113
+45
+47
+83
+109
+4
+76
+1
+25
+37
+100
+44
+101
+111
+34
+103
+95
+94
+114
+106
+105
+36
+39
+102
+98
+38
+97
+74
+93
+31
+9
+35
+84
+8
+104
+81
+66
+85
+79
+6
+20
+5
+17
+13
+55
+57
+41
+22
+B U R G I S ASSOCIATES, INC. 
+25 Westwood Avenue               
+Westwood, New Jersey 07675   
+ p: 201.666.1811
+f:  201.666.2599
+COMMUNITY PLANNING | LAND DEVELOPMENT AND DESIGN | LANDSCAPE ARCHITECTURE 
+Project Title
+Housing Element and Fair Share Plan
+Borough of Tenafly | Bergen County, New Jersey
+Dwg. Title
+Map 3: Vacant Land Adjustment
+Project No.
+Date
+Drawn
+4168.04
+12.18.25
+DN
+Dwg. No.:
+Scale:
+map 3
+°
+Legend
+Municipal Boundary
+Parcels
+1 " = 1,800 '
+Borough of
+Alpine
+Borough of Cresskill
+Borough of
+Bergenfield
+City of
+Englewood
+Borough of
+Englewood Cliffs
+Vacant Land Adjustment
+Does not contribute to RDP
+Contributes to RDP
+C-1 Stream
+C-1 Stream: 300' Buffer
+Wetlands
+Wetlands: 50' Buffer
+100-Year Flood Zone
+Steep Slopes
+Source 1: Boundary data from NJDEP.
+Source 2: Parcel data from NJGIN Open Data, Bergen County,
+Source 3: Street data from NJ Open Data. 
+Source 4: Wetland data from NJOGIS, Land Use/Land Cover data dated 2020.
+Source 5: C-1 Stream data from NJDEP, dated 023.
+Source 6: Flood zone data from FEMA, dated 2019.
+Source 7: Steep slope data extrapolated from DEM data from NJDEP.
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 39 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 40 =====
+ 
+~ 34 ~ 
+Section 4: Fair Share Plan 
+The following Fair Share Plan outlines the components and mechanisms the Borough will 
+utilize to address its affordable housing obligations. These obligations are summarized as 
+follows: 
+Table 20: Affordable Housing Obligation Summary 
+Category 
+Obligation 
+Present Need (Rehabilitation) Obligation 
+10 
+Prior Round Obligation (1987-1999) 
+159 
+Third Round Obligation (1999-2025) 
+501 
+Fourth Round Obligation (2025-2035) 
+297 
+4.1: Prior Round Obligation 
+The Borough was assigned a Prior Round Obligation of one hundred and fifty-nine (159) 
+affordable units and subsequently a Prior Round judgement of compliance and repose 
+which established a realistic development potential (RDP) of thirty-eight (38) affordable 
+units which was later adjusted to sixty-seven (67) affordable units. The Borough 
+addressed this Prior Round RDP through the components identified in Table 21. As 
+shown, these components comprised a total of seventy-six (76) credits. After applying 
+those seventy-six (76) credits as well as thirty-five (35) existing credits of subsidized senior 
+housing from the Tenafly Senior Housing site, the remaining Prior Round unmet need 
+constituted forty-eight (48) affordable units. 
+Table 21: Prior Round RDP Components 
+Plan Component 
+Units 
+Rental 
+Units 
+Applicable 
+Rental Bonus 
+Unused 
+Credits 
+Total 
+Units/Credits 
+Accessory Apartments 
+10 
+0 
+0 
+0 
+10 
+Arc Group Home 
+5 
+5 
+A 5 
+0 
+10 
+Brightview Tenafly Assisted Living 
+9 
+9 
+0 
+0 
+9 
+Tenafly Special Needs Housing 
+10 
+10 
+A 10 
+0 
+20 
+The Plaza at Tenafly 
+17 
+0 
+0 
+0 
+17 
+The Crossings at Tenafly 
+9 
+5 
+A 1 
+B 4 
+10 
+Total 
+60 
+29 
+16 
+4 
+76 
+A Rental bonus may only account for twenty-five (25%) percent (16 units) toward Prior Round RDP 
+B Four bonus credits could not be applied from this development due to sixteen (16) unit constraint noted in 
+Footnote A 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 40 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 41 =====
+Engle St
+E Clinton Ave
+Sylvan Ave
+Hudson Dr
+Tenafly Rd
+Dean Dr
+Elm St
+Knickerbocker Rd
+County Rd
+Highwood Ave
+Piermont Rd
+Grove St
+Riveredge Rd
+Leroy St
+W Clinton Ave
+Westervelt Ave
+Hickory Ave
+Oxford Dr
+Woodland St
+Palisades Interstate Pkwy
+Oak St
+Sunset Ln
+Oak Ave
+Columbus Dr
+Devon Rd
+Jefferson Ave
+George St
+Churchill Rd
+Magnolia Ave
+Norman Pl
+Sussex Rd
+Essex Dr
+Newcomb Rd
+Kent Rd
+Franklin St
+Ridge Rd
+N Summit St
+Stonehurst Dr
+Day Ave
+Serpentine Rd
+Esmond Pl
+Palmer Ave
+Bliss Ave
+Downey Dr
+Forest Rd
+Park St
+Thatcher Rd
+Buff Rd
+Hillside Ave
+Farview Rd
+Glenwood Rd
+Surrey Ln
+Joyce Rd
+Prospect Ter
+Walnut Dr
+Gordon Ave
+Mayflower Dr
+Hudson Ave
+Cortlandt Pl
+Floral Ter
+Woodland Park Dr
+Windsor Rd
+Creston Ave
+Wight Pl
+Lylewood Dr
+Coppel Dr
+Willow Ln
+Foster Rd
+Berkeley Dr
+Jewett Ave
+S Park Dr
+N Lyle Ave
+Erledon Rd
+Lindley Ave
+Edgewood St
+Benjamin Rd
+Hamilton Pl
+Richard St
+Homestead Rd
+Crabtree Ln
+Brook Rd
+Huyler Ave
+Leonard Ave
+Cambridge Rd
+Marcotte Ln
+Ravine Rd
+Knoll Rd
+York Pl
+Trafalgar Rd
+Burlington Rd
+Sisson Ter
+Harold St
+Louise Ln
+Lawrence Pkwy
+N Brae Ct
+Roberts Ct
+Laurel Ave
+Woodmere Ln
+Mahan St
+Stanton Rd
+Birchwood Pl
+Mountain Rd
+Grandview Ter
+E Hill Ct
+N Browning Ave
+Tekening Dr
+Atwood Ave
+Dogwood Ln
+Cypress St
+Briarcliff Rd
+Greentree Ter
+Davenport Ave
+Chestnut St
+Peter Lynas Ct
+Westerly Dr
+Illingsworth Ave
+Devriese Ct
+Lancaster Rd
+Ivy Ln
+Wilkins Pl
+Northrop Ln
+Mackay Dr
+Moller St
+Victoria Ln
+Deerfield Dr
+Colonial Rd
+Leslie Pl
+Somerset Rd
+Hodskin Pl
+Kensington Ct
+Clarke Pl
+Jersey Ave
+Malcolm Ct
+Elkwood Ter
+Boulder Rd
+S Summit St
+Maple St
+Phelps Ave
+Porter Ave
+Henry St
+Hickory Ave
+Hudson Ave
+Ivy Ln
+Ivy Ln
+Park St
+Oak St
+B U R G I S ASSOCIATES, INC. 
+25 Westwood Avenue               
+Westwood, New Jersey 07675   
+ p: 201.666.1811
+f:  201.666.2599
+COMMUNITY PLANNING | LAND DEVELOPMENT AND DESIGN | LANDSCAPE ARCHITECTURE 
+Project Title
+Housing Element and Fair Share Plan
+Borough of Tenafly | Bergen County, New Jersey
+Dwg. Title
+Map 4: Prior Round Components
+Project No.
+Date
+Drawn
+4168.04
+02.03.25
+DN
+Dwg. No.:
+Scale:
+map 4
+°
+Legend
+Municipal Boundary
+Parcels
+Prior Round Components
+1 " = 1,800 '
+Borough of
+Alpine
+Borough of Cresskill
+Borough of
+Bergenfield
+City of
+Englewood
+Borough of
+Englewood Cliffs
+Arc Group
+Home
+Tenafly Special
+Needs Housing
+Tenafly Senior
+Housing
+The Crossings
+at Tenafly
+The Plaza
+at Tenafly
+Brightview Assisted
+Living
+Source 1: Boundary data from NJDEP.
+Source 2: Parcel data from NJGIN Open Data, Bergen County,
+Source 3: Street data from NJ Open Data. 
+Source 4: Prior round components from Burgis Associates, Inc.
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 41 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 42 =====
+ 
+~ 36 ~ 
+4.2: Third Round Obligation 
+Pursuant to a Settlement Agreement signed with FSHC, the Borough had a Third Round 
+Prospective Need Obligation of five hundred and one (501) affordable units. As discussed 
+in the prior section, the 2018 HE&FSP initially established a Third Round Prospective 
+Need RDP of ten (10) affordable units. This was later adjusted in a Revised Settlement 
+Agreement to forty-two (42) units, which was informed by: 
+❖ A VLA analysis which generated a RDP of five (5) units; 
+❖ The Dean Drive Site which generated a RDP of eleven (11) units; 
+❖ The Serpentine Road Site which generated a RDP of sixteen (16) units, and; 
+❖ The West Railroad Avenue Site which generated a RDP of three (3) units. 
+The Borough proposes to address its Third Round RDP through the components 
+identified in Table 22 below. As shown, these components generate forty-eight (48) 
+credits. 
+Table 22: Components to Address Third Round RDP 
+Component 
+Affordable 
+Units 
+Bonus 
+Credit 
+Total 
+Credit 
+Unit Type 
+Tenafly Senior Housing1 
+10 
+0 
+10 
+Extension of Controls 
+Piermont Road Site 
+7 
+0 
+7 
+Family 
+Serpentine Road Site 
+16 
+11 
+27 
+Family 
+West Railroad Avenue Site 
+3 
+0 
+3 
+Family 
+Total 
+36 
+11 
+47 
+ 
+1 34 units were extended. Only 10 are applied to the Third Round due to a 25% cap. 
+In addition to the above, the Borough has a remaining Third Round Unmet Need of five 
+hundred two (502) affordable units which is informed from the following: 
+❖ Remaining Prior Round Obligation. As discussed herein, the Borough has a 
+remaining Prior Round Unmet Need Obligation of forty-eight (48) affordable 
+units. 
+❖ Third Round Obligation. The Borough has a Third Round obligation of five 
+hundred and one (501) affordable units. 
+❖ Combined Prior and Third Round Obligation. The remaining Prior Round Unmet 
+Need Obligation and the Third Round Obligation total five hundred and forty-
+nine (549) affordable units. 
+❖ Subtracting RDP Components. When subtracting the forty-seven (47) credits to be 
+generated by the amended Third Round Components, the Borough has a 
+remaining Unmet Need of five hundred and two (502) affordable units. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 42 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 43 =====
+ 
+~ 37 ~ 
+The components which were utilized by the 2023 Amendment to the 2018 HE&FSP to 
+address the Borough’s Unmet Need are identified in Table 23. As shown, these 
+components produce a total of two hundred and ten (210) units, including forty-four (44) 
+affordable units. However, as discussed in Section 4.3, the Borough proposes to increase 
+the densities of these overlay districts. 
+Table 23: Third Round Unmet Need Components 
+Plan Component 
+Overlay 
+District 
+Density 
+(units/acre) 
+Total 
+Units 
+Affordable 
+Units 
+Harold Street 
+AHO-3 
+18 
+32 
+7 
+Riveredge Road/Tenafly Road 
+AHO-5 
+15 
+14 
+3 
+South Summit Street/Riveredge Road  
+AHO-6 
+18 
+5 
+1 
+Riveredge Road/W. Railroad 
+AHO-6 
+18 
+5 
+1 
+Block 1305 
+AHO-7 
+15 
+32 
+7 
+Block 1306 Lot 1.01 
+AHO-8 
+15 
+8 
+2 
+Block 1308 
+AHO-7 
+15 
+75 
+15 
+Block 1302 
+AHO-7 
+15 
+39 
+8 
+Total 
+ 
+ 
+210 
+44 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 43 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 44 =====
+Engle St
+E Clinton Ave
+Sylvan Ave
+Hudson Dr
+Tenafly Rd
+Dean Dr
+Elm St
+Knickerbocker Rd
+County Rd
+Highwood Ave
+Piermont Rd
+Grove St
+Riveredge Rd
+Leroy St
+W Clinton Ave
+Westervelt Ave
+Hickory Ave
+Oxford Dr
+Woodland St
+Palisades Interstate Pkwy
+Oak St
+Sunset Ln
+Oak Ave
+Columbus Dr
+Devon Rd
+Jefferson Ave
+George St
+Churchill Rd
+Magnolia Ave
+Norman Pl
+Sussex Rd
+Essex Dr
+Newcomb Rd
+Kent Rd
+Franklin St
+Ridge Rd
+N Summit St
+Stonehurst Dr
+Day Ave
+Serpentine Rd
+Esmond Pl
+Palmer Ave
+Bliss Ave
+Downey Dr
+Forest Rd
+Park St
+Thatcher Rd
+Buff Rd
+Hillside Ave
+Farview Rd
+Glenwood Rd
+Surrey Ln
+Joyce Rd
+Prospect Ter
+Walnut Dr
+Gordon Ave
+Mayflower Dr
+Hudson Ave
+Cortlandt Pl
+Floral Ter
+Woodland Park Dr
+Windsor Rd
+Creston Ave
+Wight Pl
+Lylewood Dr
+Coppel Dr
+Willow Ln
+Foster Rd
+Berkeley Dr
+Jewett Ave
+S Park Dr
+N Lyle Ave
+Erledon Rd
+Lindley Ave
+Edgewood St
+Benjamin Rd
+Hamilton Pl
+Richard St
+Homestead Rd
+Crabtree Ln
+Brook Rd
+Huyler Ave
+Leonard Ave
+Cambridge Rd
+Marcotte Ln
+Ravine Rd
+Knoll Rd
+York Pl
+Trafalgar Rd
+Burlington Rd
+Sisson Ter
+Harold St
+Louise Ln
+Lawrence Pkwy
+N Brae Ct
+Roberts Ct
+Laurel Ave
+Woodmere Ln
+Mahan St
+Stanton Rd
+Birchwood Pl
+Mountain Rd
+Grandview Ter
+E Hill Ct
+N Browning Ave
+Tekening Dr
+Atwood Ave
+Dogwood Ln
+Cypress St
+Briarcliff Rd
+Greentree Ter
+Davenport Ave
+Chestnut St
+Peter Lynas Ct
+Westerly Dr
+Illingsworth Ave
+Devriese Ct
+Lancaster Rd
+Ivy Ln
+Wilkins Pl
+Northrop Ln
+Mackay Dr
+Moller St
+Victoria Ln
+Deerfield Dr
+Colonial Rd
+Leslie Pl
+Somerset Rd
+Hodskin Pl
+Kensington Ct
+Clarke Pl
+Jersey Ave
+Malcolm Ct
+Elkwood Ter
+Boulder Rd
+S Summit St
+Maple St
+Phelps Ave
+Porter Ave
+Henry St
+Hickory Ave
+Hudson Ave
+Ivy Ln
+Ivy Ln
+Park St
+Oak St
+B U R G I S ASSOCIATES, INC. 
+25 Westwood Avenue               
+Westwood, New Jersey 07675   
+ p: 201.666.1811
+f:  201.666.2599
+COMMUNITY PLANNING | LAND DEVELOPMENT AND DESIGN | LANDSCAPE ARCHITECTURE 
+Project Title
+Housing Element and Fair Share Plan
+Borough of Tenafly | Bergen County, New Jersey
+Dwg. Title
+Map 5: Third Round Components
+Project No.
+Date
+Drawn
+4168.04
+12.18.25
+DN
+Dwg. No.:
+Scale:
+map 5
+°
+Legend
+Municipal Boundary
+Parcels
+RDP Sites
+Unmet Need Sites
+1 " = 1,800 '
+Borough of
+Alpine
+Borough of Cresskill
+Borough of
+Bergenfield
+City of
+Englewood
+Borough of
+Englewood Cliffs
+Source 1: Boundary data from NJDEP.
+Source 2: Parcel data from NJGIN Open Data, Bergen County,
+Source 3: Street data from NJ Open Data. 
+Source 4: Third round components from Burgis Associates, Inc.
+AHO-5: Riveredge Road/Tenafly Road
+Overlay Site
+AHO-6: South Summit Street/Riveredge Road
+Overlay Site
+AHO-6: Riveredge Road/W. Railroad Ave
+Overlay Site
+AHO-8: Block 1306 Lot 1.01
+Overlay Site
+AHO-7: Block 1305
+Overlay Site
+MF-I-3: Piermont Road
+Site
+4.5-5 West Railroad Ave
+Site
+AHO-3: Harold Street
+Overlay Site
+AHO-7: Block 1302
+Overlay Site
+AHO-7: Block 1308
+Overlay Site
+Serpentine Road Site
+Tenafly Senior Housing
+RRD Site
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 44 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 45 =====
+ 
+~ 39 ~ 
+Third Round RDP Components 
+The following components are to be employed to address the Borough’s Third Round 
+RDP. 
+Tenafly Senior Housing 
+ 
+Map 6: Tenafly Senior Housing (scale: 1” = 300’) 
+The Tenafly Senior Housing Site is identified by municipal tax records as Block 1008 Lot 2. 
+It is located at the intersection of West Clinton Avenue and Tenafly Road.  
+The Tenafly Senior Housing Site was constructed in 1983 as a Federal Housing 
+Administration Section 202 senior housing project. The facility consists of thirty-four (34) 
+units occupied by very-low, low- and moderate-income senior households.  
+The Borough has adopted an ordinance which authorized an amendment to the tax 
+abatement agreement by and between the Borough and Tenafly Senior Housing. A copy 
+of this ordinance can be found in Appendix E. In short, this ordinance extended the 
+property’s Payment in Lieu of Taxes (PILOT). In partial consideration of the term of the 
+PILOT, Tenafly Senior Housing agreed to a recording of an affordable housing deed 
+restriction for the term of the PILOT. A copy of the draft recording can be found in 
+Appendix F. 
+Since the Third Round regulations only permitted twenty-five percent (25%) of a 
+municipality’s obligation to be addressed by age-restricted units, the Borough will apply 
+ten (10) of these thirty-four (34) units towards its Third Round RDP obligation. The 
+remaining twenty-four (24) units will be utilized in the Fourth Round. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 45 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 46 =====
+ 
+~ 40 ~ 
+Piermont Road Site 
+ 
+Map 7: Piermont Road Site (scale: 1” = 300’) 
+The Piermont Road Site is identified by municipal tax records as Block 1304 Lot 2. It is 
+located at the intersection of Piermont Road and North Summit Street. The site has an 
+area of approximately 0.90 acres. 
+Pursuant to the Borough’s 2018 HE&FSP and Settlement Agreement, the site was placed 
+in the Multi-Family Inclusionary Housing District 3 (MF-I-3) District. The purpose of this 
+district is to encourage the production of very-low, low- and moderate-income housing 
+units. Accordingly, the district permits multifamily uses at a maximum density of thirty-
+five units per acre with a required affordable housing set-aside of either twenty percent 
+for for-sale units or fifteen percent for-rent units. This permits the development of thirty-
+two total units, including seven affordable units. 
+For new HE&FSPs, the revised legislation requires that in addressing prior round 
+obligations, the municipality shall “demonstrate how any sites that were not built in the 
+prior rounds continue to present a realistic opportunity, which may include proposing 
+changes to the zoning on the site to make its development more likely, and which may 
+also include the dedication of municipal affordable housing trust fund dollars or other 
+monetary or in-kind resources.” While this component has not yet been constructed, the 
+site continues to present a realistic opportunity for the production of affordable housing. 
+Specifically, the site remains: 
+1. Approvable. The Borough has already adopted a zoning ordinance permitting 
+inclusionary developments with a required affordable housing set-aside. 
+2. Available. There are no known title issues which would prohibit the development 
+of this site.  
+3. Developable. The site is located in a water and sewer service area. 
+4. Suitable. The site is located in close proximity to other multifamily developments 
+including the Plaza at Tenafly. It is also located in close proximity to the 
+Borough’s downtown. 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 46 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 47 =====
+ 
+~ 41 ~ 
+Serpentine Road 
+ 
+Map 8: Serpentine Road Site (scale: 1” = 300’) 
+The Serpentine Road site is located near the southerly portion of the Borough, 
+immediately adjacent to its shared municipal border with the City of Englewood. On April 
+13, 2017, the Borough obtained approval to utilize up to $1,300,000 from its Affordable 
+Housing Trust Fund to acquire Block 715 Lots 11, 12, and 13. The 2018 HE&FSP noted 
+that the Borough intended to work with a nonprofit organization to develop five units of 
+either special needs or veterans housing through the construction of new units or the 
+rehabilitation of the existing structures on site. 
+On September 1, 2020, the Borough received further approval to allocate an additional 
+$600,000 for the purchase of Block 715 Lot 14. As noted in that approval, the property is 
+immediately adjacent to the three aforementioned lots and, as a result, its acquisition 
+increased the total acreage of the project area thus enabling the potential development 
+of additional affordable units. The Borough ultimately acquired this property by way of 
+Ordinance #20-24, which was adopted on December 21, 2020. 
+As per the 2023 Amendment to the 2018 HE&FSP, the Borough plans to partner with 
+Bergen County’s United Way for the construction of a sixteen unit affordable 
+development consisting of family units. To assist with the construction of this 
+development, the Borough has allocated an additional $200,000 from its affordable 
+housing trust fund to subsidize a portion of the project. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 47 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 48 =====
+ 
+~ 42 ~ 
+For new HE&FSPs, the revised legislation requires that in addressing prior round 
+obligations, the municipality shall “demonstrate how any sites that were not built in the 
+prior rounds continue to present a realistic opportunity, which may include proposing 
+changes to the zoning on the site to make its development more likely, and which may 
+also include the dedication of municipal affordable housing trust fund dollars or other 
+monetary or in-kind resources.” While this component has not yet been constructed, the 
+site continues to present a realistic opportunity for the production of affordable housing. 
+Specifically, the site remains:  
+1. Approvable. The Borough adopted Ordinance No. 23-25 on November 20, 2023 
+which permits a 100% affordable housing multifamily development. See 
+Appendix G for a copy of the adopted ordinance. 
+2. Available. There are no known title issues which would prohibit the development 
+of this site.  
+3. Developable. The site is located in a water and sewer service area. 
+4. Suitable. The site is located in close proximity to other multifamily developments, 
+commercial uses, and a NJ Transit bus stop. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 48 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 49 =====
+ 
+~ 43 ~ 
+4.5-5 West Railroad Avenue Site 
+ 
+Map 9: 4.5-5 West Railroad Avenue Site (scale: 1” = 250’) 
+The 4.5-5 West Railroad Avenue Site is located near the center of the Borough’s 
+downtown. It is identified by municipal tax records as Block 1011 Lot 19. The site has an 
+area of approximately 0.22 acres. 
+On October 26, 2022, the site received preliminary and final site plan approval as well as 
+“c” variance relief for a mixed use development consisting of 1,116 square feet of 
+commercial space as well as eighteen residential units, including three affordable units. 
+See Appendix H for a copy of the approving resolution. 
+While this component has not yet been constructed, the site continues to present a 
+realistic opportunity for the production of affordable housing. Specifically, the site 
+remains: 
+1. Approvable. The site has already received site plan approval from the Borough’s 
+Planning Board. 
+2. Available. There are no known title issues which would prohibit the development 
+of this site.  
+3. Developable. The site is located in a water and sewer service area. 
+4. Suitable. The site is located near the center of the Borough’s downtown and is in 
+close proximity to several NJ Transit bus stops. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 49 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 50 =====
+ 
+~ 44 ~ 
+Unmet Need Components 
+As already noted, the components which were utilized by the 2023 Amendment to the 
+2018 HE&FSP to address the Borough’s Unmet Need are identified in Table 24. As shown, 
+these components produce a total of two hundred and ten (210) units, including forty-
+four (44) affordable units. However, as discussed in Section 4.3, the Borough proposes to 
+increase the densities of these overlay districts. 
+Table 24: Third Round Unmet Need Components 
+Plan Component 
+Overlay 
+District 
+Density 
+(units/acre) 
+Total 
+Units 
+Affordable 
+Units 
+Harold Street 
+AHO-3 
+18 
+32 
+7 
+Riveredge Road/Tenafly Road 
+AHO-5 
+15 
+14 
+3 
+South Summit Street/Riveredge Road  
+AHO-6 
+18 
+5 
+1 
+Riveredge Road/W. Railroad 
+AHO-6 
+18 
+5 
+1 
+Block 1305 
+AHO-7 
+15 
+32 
+7 
+Block 1306 Lot 1.01 
+AHO-8 
+15 
+8 
+2 
+Block 1308 
+AHO-7 
+15 
+75 
+15 
+Block 1302 
+AHO-7 
+15 
+39 
+8 
+Total 
+ 
+ 
+210 
+44 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 50 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 51 =====
+ 
+~ 45 ~ 
+4.3: Fourth Round Obligation 
+As previously noted, Tenafly adopted Resolution #R25-72 which establishes its affordable 
+housing obligations for the Fourth Round. A copy of this resolution is located in Appendix 
+A. Despite finding flaws in its land capacity factor, the Borough accepted the DCA’s 
+Fourth Round Obligation calculation of two hundred and ninety-seven (297) affordable 
+units. That same resolution also noted that the Borough reserves the right to conduct a 
+vacant land adjustment (VLA) to determine its realistic development potential (RDP).  
+Accordingly, the Borough prepared a new VLA for the Fourth Round. The analysis 
+revealed that there are no newly vacant properties which meet the aforementioned 0.83 
+acre threshold. However, the Borough found one (1) municipally owned parking lot which 
+has the potential to be redeveloped. This parking lot, which is identified by municipal tax 
+records as Block 1009 Lot 9, is located at the corner of Tenafly Avenue and Washington 
+Road. Pursuant to Bergen County tax records, this site has an area of approximately 0.462 
+acres. A presumptive density of fifteen (15) units per acre was applied to this site; this 
+presumptive density is based upon the AHO-5 Overlay District which is the nearest 
+overlay zoning district. This results in a RDP of two (2) affordable units. A copy of the 
+VLA can be found in Appendix D.  
+The Borough will address this two-unit RDP through the Giesi 31 Central Avenue Site. As 
+detailed herein, the site received preliminary and final site plan approval as well as “c” 
+variance relief for a mixed use development consisting of 700 square feet of commercial 
+space as well as ten (10) units, including two (2) affordable units. This component is 
+currently under construction. 
+Table 25: Component to Address Fourth Round RDP 
+Plan Component 
+Total Units 
+Affordable Units 
+Giesi 31 Central Avenue Site 
+10 
+2 
+Total 
+10 
+2 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 51 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 52 =====
+ 
+~ 46 ~ 
+This component leaves the Borough with an Unmet Need of two hundred and ninety-five 
+(295) affordable units. After applying the remaining twenty-four (24) extended credits 
+from Tenafly Senior Housing, the Borough’s Unmet Need is further reduced to two 
+hundred and seventy-one (271) affordable units. As per NJSA 52:27D-310.1 and its 
+Settlement Agreement with FSHC (see Appendix B), the Borough will address twenty-five 
+percent (25%) of this Unmet Need which equates to sixty-eight (68) affordable units. It 
+will do so in a two-part manner. 
+1. Fourth Round Unmet Need Components. To address a portion of this requirement, 
+the existing and proposed components identified in Table 26 will be utilized. 
+These components, which are discussed in greater detail herein, can generate 
+sixty (60) affordable units.  
+2. Third Round Unmet Need Components: Increased Densities. To address the 
+remaining eight (8) unit Unmet Need requirement, the Borough will also increase 
+the densities of its Third Round Unmet Need Overlay Zones as identified in Table 
+27. As shown, these increased densities can generate an additional eight (8) 
+affordable units as otherwise contemplated in Table 24. 
+These components are all identified in Map 10. 
+Table 26: Fourth Round Unmet Need Components 
+Plan Component 
+Status 
+Affordable Units 
+RRD North Summit Street Site 
+Site Plan Approved 
+17 
+Adoni West Railroad Avenue Site 
+Site Plan Approved 
+6 
+Dean Drive Site 
+Proposed 
+20 
+33 Engle Street 
+Proposed 
+2 
+West Clinton Avenue Overlay Site 
+Proposed 
+3 
+Block 1311 Overlay Site 
+Newly Proposed 
+3 
+Block 715 Overlay Site 
+Newly Proposed 
+3 
+Block 1707 Overlay Site 
+Newly Proposed 
+4 
+Block 1801 Overlay Site 
+Newly Proposed 
+2 
+Total 
+ 
+60 
+Table 27: Revised Third Round Unmet Need Components 
+Plan Component 
+Overlay 
+District 
+Revised Density 
+(units/acre) 
+Total 
+Units 
+Affordable 
+Units 
+Harold Street 
+AHO-3 
+19 
+35 
+7 
+Riveredge Road/Tenafly Road 
+AHO-5 
+18 
+18 
+4 
+South Summit Street/Riveredge Road  
+AHO-6 
+18 
+5 
+1 
+Riveredge Road/W. Railroad 
+AHO-6 
+18 
+4 
+1 
+Block 1305 
+AHO-7 
+19 
+40 
+8 
+Block 1306 Lot 1.01 
+AHO-8 
+18 
+10 
+2 
+Block 1308 
+AHO-7 
+19 
+94 
+19 
+Block 1302 
+AHO-7 
+19 
+49 
+10 
+Total 
+ 
+ 
+254 
+52 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 52 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 53 =====
+Engle St
+E Clinton Ave
+Sylvan Ave
+Hudson Dr
+Tenafly Rd
+Dean Dr
+Elm St
+Knickerbocker Rd
+County Rd
+Highwood Ave
+Piermont Rd
+Grove St
+Riveredge Rd
+Leroy St
+W Clinton Ave
+Westervelt Ave
+Hickory Ave
+Oxford Dr
+Woodland St
+Palisades Interstate Pkwy
+Oak St
+Sunset Ln
+Oak Ave
+Columbus Dr
+Devon Rd
+Jefferson Ave
+George St
+Churchill Rd
+Magnolia Ave
+Norman Pl
+Sussex Rd
+Essex Dr
+Newcomb Rd
+Kent Rd
+Franklin St
+Ridge Rd
+N Summit St
+Stonehurst Dr
+Day Ave
+Serpentine Rd
+Esmond Pl
+Palmer Ave
+Bliss Ave
+Downey Dr
+Forest Rd
+Park St
+Thatcher Rd
+Buff Rd
+Hillside Ave
+Farview Rd
+Glenwood Rd
+Surrey Ln
+Joyce Rd
+Prospect Ter
+Walnut Dr
+Gordon Ave
+Mayflower Dr
+Hudson Ave
+Cortlandt Pl
+Floral Ter
+Woodland Park Dr
+Windsor Rd
+Creston Ave
+Wight Pl
+Lylewood Dr
+Coppel Dr
+Willow Ln
+Foster Rd
+Berkeley Dr
+Jewett Ave
+S Park Dr
+N Lyle Ave
+Erledon Rd
+Lindley Ave
+Edgewood St
+Benjamin Rd
+Hamilton Pl
+Richard St
+Homestead Rd
+Crabtree Ln
+Brook Rd
+Huyler Ave
+Leonard Ave
+Cambridge Rd
+Marcotte Ln
+Ravine Rd
+Knoll Rd
+York Pl
+Trafalgar Rd
+Burlington Rd
+Sisson Ter
+Harold St
+Louise Ln
+Lawrence Pkwy
+N Brae Ct
+Roberts Ct
+Laurel Ave
+Woodmere Ln
+Mahan St
+Stanton Rd
+Birchwood Pl
+Mountain Rd
+Grandview Ter
+E Hill Ct
+N Browning Ave
+Tekening Dr
+Atwood Ave
+Dogwood Ln
+Cypress St
+Briarcliff Rd
+Greentree Ter
+Davenport Ave
+Chestnut St
+Peter Lynas Ct
+Westerly Dr
+Illingsworth Ave
+Devriese Ct
+Lancaster Rd
+Ivy Ln
+Wilkins Pl
+Northrop Ln
+Mackay Dr
+Moller St
+Victoria Ln
+Deerfield Dr
+Colonial Rd
+Leslie Pl
+Somerset Rd
+Hodskin Pl
+Kensington Ct
+Clarke Pl
+Jersey Ave
+Malcolm Ct
+Elkwood Ter
+Boulder Rd
+S Summit St
+Maple St
+Phelps Ave
+Porter Ave
+Henry St
+Hickory Ave
+Hudson Ave
+Ivy Ln
+Ivy Ln
+Park St
+Oak St
+B U R G I S ASSOCIATES, INC. 
+25 Westwood Avenue               
+Westwood, New Jersey 07675   
+ p: 201.666.1811
+f:  201.666.2599
+COMMUNITY PLANNING | LAND DEVELOPMENT AND DESIGN | LANDSCAPE ARCHITECTURE 
+Project Title
+Housing Element and Fair Share Plan
+Borough of Tenafly | Bergen County, New Jersey
+Dwg. Title
+Map 10: Fourth Round Components
+Project No.
+Date
+Drawn
+4168.04
+12.22.25
+DN
+Dwg. No.:
+Scale:
+map 10
+°
+Legend
+Municipal Boundary
+Parcels
+1 " = 1,800 '
+Borough of
+Alpine
+Borough of Cresskill
+Borough of
+Bergenfield
+City of
+Englewood
+Borough of
+Englewood Cliffs
+RRD Site
+Tenafly Senior Housing
+Source 1: Boundary data from NJDEP.
+Source 2: Parcel data from NJGIN Open Data, Bergen County,
+Source 3: Street data from NJ Open Data. 
+Source 4: Fourth round components from Burgis Associates, Inc.
+Giesi
+Adoni
+33 Engle Street
+West Clinton Avenue Site
+AHO-5: Riveredge Road/Tenafly Road
+Overlay Site
+AHO-6: South Summit Street/Riveredge Road
+Overlay Site
+AHO-8: Block 1306 Lot 1.01
+Overlay Site
+AHO-7: Block 1305
+Overlay Site
+AHO-3: Harold Street
+Overlay Site
+AHO-7: Block 1302
+Overlay Site
+AHO-7: Block 1308
+Overlay Site
+AHO-6: Riveredge Road/W. Railroad Avenue Overlay Site
+Block 1801 Site
+Block 1707 Site
+Dean Drive Site
+Block 715 Site
+Block 1311 Site
+Fourth Round Components
+Fourth Round RDP Need Sites
+Fourth Round Unmet Need Sites
+Third Round Overlay Zones
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 53 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 54 =====
+ 
+~ 48 ~ 
+Fourth Round RPD Components 
+The following components are to be employed to address the Borough’s Fourth Round 
+RDP. 
+Giesi 31 Central Ave Site 
+ 
+Map 11: Giesi 31 Central Ave Site (scale: 1" = 200') 
+The Giesi 31 Central Avenue Site is located in the north-central portion of the Borough, at 
+the intersection of Central Avenue and West Railroad Avenue. The site, which is identified 
+by municipal tax records as Block 1104 Lots 7 and 8, is located at 27-31 Central Avenue. 
+On January 10, 2024, the site received preliminary and final site plan approval as well as 
+“c” variance for a mixed use development consisting of 700 square feet of commercial 
+space as well as ten (10) affordable units, including two (2) affordable units. See Appendix 
+I for a copy of the approving resolution. 
+The site presents a realistic opportunity for the production of affordable housing. 
+Specifically, the site is: 
+1. Approvable. The Borough has already granted preliminary and final site plan 
+approval as well as “c” variance relief for the development. 
+2. Available. There are no known title issues which would prohibit the development 
+of this site.  
+3. Developable. The site is located in a water and sewer service area 
+4. Suitable. The site is located in close proximity to nearby commercial areas 
+including the Borough’s downtown, other multifamily developments, and NJ 
+Transit bus stops. 
+This component is intended to address the Borough’s two-unit RDP and reduces its 
+Unmet Need to two hundred and ninety-five (295) affordable units. 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 54 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 55 =====
+ 
+~ 49 ~ 
+Fourth Round Unmet Need Components 
+The following components are to be employed to address the Borough’s Fourth Round 
+Unmet Need. 
+Tenafly Senior Housing 
+ 
+Map 12: Tenafly Senior Housing (scale: 1” = 300’) 
+The Tenafly Senior Housing Site is identified by municipal tax records as Block 1008 Lot 2. 
+It is located at the intersection of West Clinton Avenue and Tenafly Road.  
+The Tenafly Senior Housing Site was constructed in 1983 as a Federal Housing 
+Administration Section 202 senior housing project. The facility consists of thirty-four (34) 
+units occupied by very-low, low- and moderate-income senior households.  
+The Borough has adopted an ordinance which authorized an amendment to the tax 
+abatement agreement by and between the Borough and Tenafly Senior Housing. A copy 
+of this ordinance can be found in Appendix E. In short, this ordinance extended the 
+property’s Payment in Lieu of Taxes (PILOT). In partial consideration of the term of the 
+PILOT, Tenafly Senior Housing agreed to a recording of an affordable housing deed 
+restriction for the term of the PILOT. A copy of the draft recording can be found in 
+Appendix F. 
+As noted in the prior subsection, the Borough will apply ten (10) of the thirty-four (34) 
+credits towards its Third Round RDP obligation. The remaining twenty-four (24) will be 
+utilized in the Fourth Round. 
+This component is intended to reduce the Borough’s Unmet Need Obligation from two 
+hundred and ninety-five (295) affordable units to two hundred and seventy-one (271) 
+affordable units. 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 55 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 56 =====
+ 
+~ 50 ~ 
+RRD North Summit Street Site 
+ 
+Map 13: RRD North Summit Street Site (scale: 1" = 400') 
+The RRD North Summit Street Site is located in the northerly portion of the Borough, near 
+its shared municipal border with the Borough of Cresskill. The site, which is identified by 
+municipal tax records as Block 1301 Lots 1 and 3, is located at 121-131 North Summit 
+Street. 
+On May 24, 2023, the site received preliminary and final site plan approval as well as “c” 
+variance relief for a mixed use development consisting of 2,470 square feet of retail space 
+as well as one hundred and twelve (112) multifamily units, including seventeen (17) 
+affordable units. See Appendix J for a copy of the approving resolution. 
+Adoni West Railroad Avenue Site 
+ 
+Map 14: Adonie West Railroad Ave Site (scale: 1" = 300') 
+The Adoni West Railroad Avenue Site is located in the north-central portion of the 
+Borough, to the north of the intersection of Central Avenue and West Railroad Avenue. 
+The site, which is identified by municipal tax records as Block 1104 Lot 4, is located at 66 
+West Railroad Avenue. 
+On July 24, 2024, the site received preliminary and final site plan approval as well as “c” 
+variance for a mixed use development consisting of 2,588 square feet of retail space and 
+forty (40) residential units, including six (6) affordable units. See Appendix K for a copy of 
+the approving resolution. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 56 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 57 =====
+ 
+~ 51 ~ 
+Dean Drive Site 
+ 
+Map 15: Dean Drive Site (scale: 1" = 650') 
+The Dean Drive site is located between 123 and 145 Dean Drive. It is identified by 
+municipal tax records as Block 906 Lots 1, 2, 3, and 4. 
+The 123-145 Dean Drive Redevelopment Plan was adopted on July 18, 2022. This plan 
+enables the redevelopment of the site as a hotel and assisted living/congregate care 
+facility. Ten percent (10%) of the assisted living/congregate care facility’s beds are 
+required to be set-aside as affordable, provided that no fewer than eleven (11) beds are 
+reserved as such. This redevelopment area was designed as an overlay district, thus 
+preserving the underlying zone which permits mixed use development. 
+The Borough now proposes to change the redevelopment plan to permit an inclusionary 
+multifamily development consisting of one hundred (100) residential uses, of which 
+twenty (20) units shall be affordable. See Appendix L for a copy of this draft ordinance. 
+Note that this ordinance is in draft form and may be refined at a future date. 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 57 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 58 =====
+ 
+~ 52 ~ 
+33 Engle Street Site 
+ 
+Map 16: 33 Engle Street Site (scale: 1" = 300') 
+The 33 Engle Street Site is located in the southerly portion of the Borough, to the south of 
+the intersection of Engle Street and Elm Street. The site, which is identified by municipal 
+tax records as Block 2006 Lot 7, is located at 33 Engle Street. It has an area of 0.75 acres 
+and is somewhat rectangular in shape. 
+The Borough has rezoned this property from the R-7.5 District to a new MF-I-2 District 
+which will permit multifamily development at a density not to exceed 12 units per acre. 
+This will permit the development of eight (8) multifamily units, including two (2) 
+affordable units. See Appendix M for a copy of this ordinance. 
+West Clinton Avenue Overlay Site 
+ 
+Map 17: West Clinton Ave Site (scale: 1" = 350') 
+The West Clinton Avenue Overlay Site is located near the center of the Borough’s 
+downtown. The site, which is identified by municipal tax records as Block 904 Lots 3, 4, 5, 
+and 6, is located at the intersection of West Clinton Avenue and Franklin Street. It has a 
+collective area of approximately 1.28 acres and is irregular in shape. 
+The Borough has adopted a new AHO-9 Affordable Housing Overlay District to 
+encapsulate this site. This overlay district will permit the development of thirteen (13) 
+multifamily units, including three (3) affordable units. It will also permit a small-scale 
+commercial development along West Clinton Avenue. See Appendix N for a copy of this 
+ordinance. 
+ 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 58 of 59   Trans ID: LCV2026364566 
+
+===== PAGE 59 =====
+ 
+~ 53 ~ 
+Block 1311 Overlay Site 
+ 
+Map 18: Block 1311 Overlay Site (scale: 1” = 250’) 
+The Block 1311 Overlay Site is located near the north-central portion of the Borough, to 
+the north of the Borough’s downtown. The site, which is identified by municipal tax 
+records as Block 1311 Lots 7, 8, 9, and 10, is located at the intersection of County Road 
+and Prospect Terrace. It has a collective area of approximately 0.77 acres and is irregular 
+in shape.  
+The Borough proposes establishing a new AHO-11 Affordable Housing Overlay Zone 
+District, No. 11 to encapsulate this site. This overlay district will permit the development 
+of approximately fifteen (15) total units including three (3) affordable units. See Appendix 
+O for a copy of this draft ordinance. 
+Block 715 Overlay Site 
+ 
+Map 19: Proposed Block 715 Overlay Site (scale: 1" = 200') 
+The Block 715 Overlay Site is located near the southerly portion of the Borough, near its 
+shared municipal border with the Borough of Englewood. The site, which is identified by 
+municipal tax records as Block 715 Lots 15 and 16, is located at the intersection of Dean 
+Drive and Ivy Lane. It has a collective area of approximately 0.78 acres and is irregular in 
+shape.  
+The Borough proposes establishing a new AHO-11 Affordable Housing Overlay Zone 
+District, No. 11 to encapsulate this site. This overlay district will permit the development 
+of approximately fifteen (15) total units including three (3) affordable units. See Appendix 
+O for a copy of this draft ordinance. 
+                                                                                                                                                                                              
+BER-L-000525-25   02/13/2026 6:30:27 PM   Pg 59 of 59   Trans ID: LCV2026364566 

@@ -1,0 +1,85 @@
+{
+  "municipality": "Fairview borough",
+  "research_status": "done",
+  "obligation": {
+    "present_need": 313,
+    "prospective_need": 95,
+    "total_obligation": 408,
+    "rdp": 16,
+    "unmet_need": 79,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/fairview-boro/FinalHEFSPPart1.pdf?VersionId=b01A7bWthzTcUUZmk5cZPLKcF.YBJtKC"
+  },
+  "compliance": {
+    "status": "settled",
+    "settlement_party": "NJBA",
+    "settlement_date": null,
+    "hefsp_status": "adopted",
+    "hefsp_adopted_date": "2025-06-23",
+    "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/fairview-boro/FinalHEFSPPart1.pdf?VersionId=b01A7bWthzTcUUZmk5cZPLKcF.YBJtKC"
+  },
+  "notes": "Fairview is a highly built-out borough (2.06 sq miles). DCA calculated prospective need of 97 units; settled with NJBA at 95 (Borough proposed 95 based on data corrections). VLA resulted in RDP of 16 units from two approved residential projects at 429-439 Fairview Ave and 251-281 Broad Ave. Unmet need is 95 - 16 = 79 units. Borough satisfies unmet need through Borough-wide Mandatory Set-Aside Ordinance (20% for-sale, 15% rental, applies to 5+ unit MF projects) and existing AHO zones. Present Need (rehab) = 313 units addressed via BCHIP county program. Prior Round = 20 units; Third Round = 44 units; both addressed through earlier compliance mechanisms. Candidate snapshot had incorrect prospective_need (117) and rdp (0) — corrected per HEFSP: prospective need 95 (settled), RDP 16.",
+  "sources": [
+    {
+      "doc_type": "HEFSP",
+      "title": "Fairview Borough Fourth Round Housing Element and Fair Share Plan (Final, Adopted June 23, 2025)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/fairview-boro/FinalHEFSPPart1.pdf?VersionId=b01A7bWthzTcUUZmk5cZPLKcF.YBJtKC",
+      "excerpt": "Table [VLA]: B:217 L:12 | 429-439 Fairview Avenue | 30 units 15% set-aside = 5 affordable (ZBA approved); B:802 L:1-4 | 251-281 Broad Avenue | 112 units 10% set-aside = 11 affordable (ZBA approved); Total RDP = 16 affordable units"
+    },
+    {
+      "doc_type": "DCA",
+      "title": "DCA Bergen County Obligations (Oct 2024)",
+      "url": null,
+      "excerpt": "Fairview borough: present_need=313, prospective_need=97"
+    }
+  ],
+  "sites": [
+    {
+      "site_name": "429-439 Fairview Avenue (ZBA Approved Inclusionary)",
+      "address": "429-439 Fairview Avenue, Fairview, NJ",
+      "block": "217",
+      "lot": "12",
+      "acreage": null,
+      "mechanism": "inclusionary overlay",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": null,
+      "total_units": 30,
+      "affordable_units": 5,
+      "set_aside_pct": 15,
+      "tenure": "rental",
+      "adoption_status": "ZBA approved",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/fairview-boro/FinalHEFSPPart1.pdf?VersionId=b01A7bWthzTcUUZmk5cZPLKcF.YBJtKC",
+      "source_page": "p.25 (VLA/RDP Table)",
+      "source_date": "2025-06-23",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "B:217 L:12 | 429-439 Fairview Avenue | 30 units | 15% set-aside | 5 affordable | ZBA approved",
+      "notes": "RDP site. Counts toward 4th Round RDP of 16. 15% rental set-aside."
+    },
+    {
+      "site_name": "251-281 Broad Avenue (ZBA Approved Inclusionary)",
+      "address": "251-281 Broad Avenue, Fairview, NJ",
+      "block": "802",
+      "lot": "1-4",
+      "acreage": null,
+      "mechanism": "inclusionary overlay",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": null,
+      "total_units": 112,
+      "affordable_units": 11,
+      "set_aside_pct": 10,
+      "tenure": "rental",
+      "adoption_status": "ZBA approved",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/fairview-boro/FinalHEFSPPart1.pdf?VersionId=b01A7bWthzTcUUZmk5cZPLKcF.YBJtKC",
+      "source_page": "p.25 (VLA/RDP Table)",
+      "source_date": "2025-06-23",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "B:802 L:1-4 | 251-281 Broad Avenue | 112 units | 10% set-aside | 11 affordable | ZBA approved",
+      "notes": "RDP site. Counts toward 4th Round RDP of 16. 10% rental set-aside."
+    }
+  ]
+}

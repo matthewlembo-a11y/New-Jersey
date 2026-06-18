@@ -1,0 +1,3728 @@
+SOURCE_URL: https://library.njcourts.gov/files/civil/affordable-housing/bergen/emerson-boro/EmersonHEFSPpart1.pdf?VersionId=a2qVjKjBv9hr8nuMR.oPKiVNQqokDnr2
+
+===== PAGE 1 =====
+Master Plan Amendment
+Housing Plan Element and Fair Share Plan
+Round 4
+Borough of Emerson
+Bergen County, New Jersey
+Prepared: 
+June 8, 2025
+Prepared for:
+Borough of Emerson Land Use Board
+Prepared by:
+T&M Associates
+11 Tindall Road
+Middletown, NJ 07748
+_________________________________
+Caroline Z. Reiter, PP, AICP
+NJ Professional Planner: 33LI00534300
+____________________________
+Robert E. Dare, PP, AICP
+NJ Professional Planner: 33LI00596400
+Adopted on June 19, 2025 by the Borough of Emerson Land Use Board
+Endorsed on ______ by the Emerson Borough Council.
+The original of this document has been signed and sealed in accordance with Law.
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 1 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 2 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page i 
+EMERSON BOROUGH
+Mayor and Council 
+Danielle DiPaola, Mayor 
+Nicole Argenzia, Council President 
+Megan Ciolino, Councilmember 
+Jill McGuire, Councilmember 
+Ashley Rice, Councilmember 
+Ashley Sayers, Councilmember 
+Michael Timmerman, Councilmember 
+ 
+Planning Board 
+Mayor Danielle DiPaola, Class I 
+Rich Taub, Class IV / Chair 
+Anthony Khiami, Class IV / Vice Chair 
+Megan Quigley, Class II
+Councilwoman Megan Ciolino, Class III 
+Jeff Bischoff, Class IV 
+Mike Cimino, Class IV 
+Paul Hulburt, Class IV
+Rich Worthington, Class IV
+Dominic Aramini, Alternate I 
+Eric Ciavaglia, Alternate II
+John DiRado, Alternate III 
+ 
+The Mecca Law Firm, LUB Attorney 
+David Atkinson, Neglia Group, LUB Engineer 
+Caroline Reiter, Board Planner 
+Marie Shust, Secretary 
+ 
+Public Officials 
+Michelle Ryan, Acting Borough Clerk 
+Triessa DeSimone, Deputy Borough Clerk 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 2 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 3 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page ii
+Table of Contents 
+Affordable Housing in New Jersey ...................................................................................................... 1 
+Mandatory Contents of the Housing Element ................................................................................ 2 
+Analysis of Demographic, Housing, and Employment Characteristics ............................... 4 
+Population Characteristics ................................................................................................................ 4 
+Population Composition by Age ...................................................................................................... 6 
+Existing Housing Characteristics ......................................................................................................... 8 
+Type of Household ................................................................................................................................ 8 
+Household Size ....................................................................................................................................... 9 
+Per Capita and Household Income .............................................................................................. 10 
+Family Income Distribution ........................................................................................................... 11 
+Housing Affordability ....................................................................................................................... 12 
+Housing Unit Data .............................................................................................................................. 13 
+Year Householder Moved into Unit ............................................................................................ 14 
+Housing Unit Information ............................................................................................................... 15 
+Housing Conditions ........................................................................................................................... 17 
+Housing Values .................................................................................................................................... 18 
+Contract Rents ..................................................................................................................................... 19 
+Employment Data ............................................................................................................................... 20 
+Residential Construction ................................................................................................................. 23 
+Population and Household Projection ...................................................................................... 24 
+Employment Projection ................................................................................................................... 25
+Affordable Housing Obligation .......................................................................................................... 26
+Prior Round Obligation .................................................................................................................... 27
+Round 3 Prospective Need ............................................................................................................. 27
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 3 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 4 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page iii 
+Round 4 Present Need ...................................................................................................................... 29 
+Round 4 Prospective Need ............................................................................................................. 29 
+Availability of Existing and Planned Infrastructure ............................................................ 31 
+Consideration of Lands Appropriate for Affordable Housing ......................................... 31 
+Consistency with the State Development and Redevelopment Plan ........................... 31 
+Minimums & Maximums ................................................................................................................. 33 
+Multigenerational Housing Continuity ..................................................................................... 33 
+Conclusion ............................................................................................................................................. 33
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 4 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 5 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 1
+Housing Element 
+The Borough of Emerson, Bergen County, has prepared this Housing Element and Fair 
+Share Plan as an amendment to the municipal master plan in accordance with the 
+New Jersey Municipal Land Use Law (N.J.S.A. 40:55D-1 et seq.) and the New Jersey 
+Fair Housing Act 2 (N.J.S.A. 52:27D-301 et seq.). 
+The Municipal Land Use Law requires that a municipal master plan include a housing 
+element to enable the municipality to exercise the power to zone and regulate land 
+use. The housing element is adopted by the municipal planning board and endorsed 
+by the municipal governing body, and is drawn to achieve the goal of meeting the 
+municipal obligation to provide for a fair share of the regional need for affordable 
+housing. 
+This Housing Element and Fair Share Plan amends the Borough’s master plan to 
+address affordable housing planning requirements for the time period known as 
+Round 4, which includes the decade between July 2025 and July 2035.  It addresses 
+the Borough’s cumulative fair share obligation for the period from 1987 through
+2035.  The Borough last adopted a Round 3 Housing Element on December 6, 2018. 
+This plan will replace the 2018 Round 3 plan. 
+Affordable Housing in New Jersey 
+The Mt. Laurel II doctrine requires that all municipalities provide a realistic 
+opportunity for their fair share of low and moderate income housing. The Emerson 
+Fair Share Plan is the Borough’s proposal for satisfying its share of the regional 
+affordable housing needs under applicable affordable housing regulations.  
+This Plan provides the Borough’s fair share obligation and details its strategies for 
+addressing its present, prior, and prospective housing needs. The New Jersey Fair 
+Housing Act established the New Jersey Council on Affordable Housing (COAH). COAH 
+was responsible for developing rules and regulations on affordable housing, as well 
+as approving municipalities’ submitted affordable housing plans. The COAH approval
+process was known as Substantive Certification.  
+COAH adopted its first set of rules, known as ‘Round 1,’ for the period of 1987 through 
+1993. COAH ‘Round 2’ covered the 1993 to 1999 time period. These rounds are now 
+combined and collectively referred to as the ‘Prior Round,’ which covers the 1987 to 
+1999 time period. 
+COAH adopted its first Round 3 rules in 2005. The Round 3 rules included a new 
+methodology for calculating affordable housing, known as Growth Share. These rules 
+were challenged, and the Appellate Division invalidated the Round 3 rules in 2007. 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 5 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 6 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 2
+COAH then adopted its second set of Round 3 rules in 2008; these rules also used the 
+Growth Share methodology and were found invalid by the Appellate Division in 2010.
+COAH was directed to prepare new rules that used the Prior Round methodologies of 
+establishing the statewide and regional affordable housing obligation and assigning 
+municipalities their fair share of the regional affordable housing obligations. 
+COAH prepared new rules in 2014, but failed to adopt them. In response, a motion 
+was filed with the New Jersey Supreme Court to enforce litigant’s rights in response 
+to COAH’s lack of action. On March 10, 2015 the Supreme Court issued its decision to 
+enforce litigant’s rights and established a procedure for municipalities to transition 
+their COAH applications to the Courts. 
+The Supreme Court established a new procedure that requires participating towns, 
+such as Emerson, to submit a Declaratory Judgment action. The Borough of Emerson
+filed its action of Declaratory Judgment with the Court on or about July 8, 2015. 
+ 
+ Fair Share Housing Center (FSHC), a nonprofit affordable housing advocacy group, 
+was considered an “interested party” in all municipal Declaratory Actions.  FSHC and 
+the Borough engaged in a mediation process under the supervision of the court-
+appointed Special Master. Emerson and FSHC also settled its affordable housing 
+litigation. Emerson’s Settlement Agreement was executed on November 28, 2017.  
+ 
+Round 4 Affordable Housing 
+On March 20, 2024 Governor Murphy signed new legislation known as P.L.2024, c.2 
+that amended the state’s Fair Housing Act and changed the affordable housing 
+process in New Jersey.  
+The Fair Housing Act (FHA) Amendment (“FHA 2” or the “Act”) eliminated the Council 
+on Affordable Housing (COAH), directed the Department of Community Affairs (DCA) 
+to prepare nonbinding affordable housing obligations, changed certain aspects of the 
+vacant land process, eliminated and revised available bonus credits, and imposed 
+strict deadlines on municipalities.  
+Pursuant to the FHA 2, municipalities must adopt a Housing Element and Fair Share 
+Plan by June 30, 2025.  This plan conforms to the requirements established in the 
+legislation and FHA 2 and addresses Emerson’s Prior Round, Round 3 and Round 4 
+affordable housing obligations.  
+Mandatory Contents of the Housing Element 
+Pursuant to the New Jersey Fair Housing Act (FHA 2), “a municipality’s housing 
+element shall be designed to achieve the goal of access to affordable housing to meet 
+present and prospective housing needs, with particular attention to low-and 
+moderate-income housing.”  The essential plan components are: 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 6 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 7 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 3
+ An inventory of the municipality's housing stock by age, condition, purchase 
+or rental value, occupancy characteristics, and type, including the number of 
+units affordable to low- and moderate-income households and substandard 
+housing capable of being rehabilitated;
+ A projection of the municipality's housing stock, including the probable future 
+construction of low- and moderate-income housing, for the next ten years, 
+taking into account, but not necessarily limited to, construction permits 
+issued, approvals of applications for development and probable residential 
+development of lands; 
+ An analysis of the municipality's demographic characteristics, including but 
+not necessarily limited to, household size, income level, and age;
+ An analysis of the existing and probable future employment characteristics of 
+the municipality; 
+ A determination of the municipality's present and prospective fair share for 
+low- and moderate-income housing and its capacity to accommodate its 
+present and prospective housing needs, including its fair share for low- and 
+moderate-income housing, as established pursuant to section 3 of P.L.2024, 
+c.2 (C.52:27D-304.1); and, 
+ A consideration of the lands that are most appropriate for construction of low- 
+and moderate-income housing and of the existing structures most appropriate 
+for conversion to, or rehabilitation for, low- and moderate-income housing, 
+including a consideration of lands of developers who have expressed a 
+commitment to provide low- and moderate-income housing; 
+ An analysis of the extent to which municipal ordinances and other local factors 
+advance or detract from the goal of preserving multigenerational family 
+continuity as expressed in the recommendations of the Multigenerational 
+Family Housing Continuity Commission, adopted pursuant to paragraph (1) of 
+subsection f. of section 1 of P.L.2021, c.273 (C.52:27D-329.20);  
+ For a municipality located within the jurisdiction of the Highlands Water 
+Protection and Planning Council, established pursuant to section 4 of P.L.2004, 
+c.120 (C.13:20-4), an analysis of compliance of the housing element with the 
+Highlands Regional Master Plan of lands in the Highlands Preservation Area, 
+and lands in the Highlands Planning Area for Highlands conforming 
+municipalities. This analysis shall include consideration of the municipality’s 
+most recent Highlands Municipal Build Out Report, consideration of 
+opportunities for P.L. 2024, redevelopment of existing developed lands into 
+inclusionary or 100 percent affordable housing, or both, and opportunities for 
+100 percent affordable housing in both the Highlands Planning Area and 
+Highlands Preservation Area that are consistent with the Highlands regional 
+master plan; and  
+ An analysis of consistency with the State Development and Redevelopment 
+Plan, 
+including 
+water, 
+wastewater, 
+stormwater, 
+and 
+multi-modal 
+transportation based on guidance and technical assistance from the State 
+Planning Commission. 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 7 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 8 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 4
+This Housing Element and Fair Share Plan Amendment addresses the above
+requirements.
+Analysis of Demographic, Housing, and Employment 
+Characteristics 
+As required by N.J.S.A. 52:27D-310, all housing elements must contain a discussion of 
+the municipality’s demographic, housing, and economic characteristics. The following 
+subsections fulfill this requirement by providing a profile of information for the 
+Borough of Emerson from the US Census Bureau, the New Jersey Department of Labor 
+and Workforce Development, and the North Jersey Transportation Planning 
+Authority. 
+Population Characteristics
+Table 1 shows the population trends for the Borough of Emerson and Bergen County 
+from 1930 to 2020. As shown, Emerson’s population increased by 5,896 residents 
+during this period. The three greatest increases occurred in the periods from: 1950 
+to 1960, when the Borough’s population increased by approximately 292.7 percent; 
+1960 to 1970, when there was an increase of approximately 23.1 percent; and 
+between 1940 and 1950, when population increased by approximately 17.3 percent. 
+There were decreases in population between 1970 and 1980, when the Borough’s 
+population decreased by about 7.5 percent; 1980 and 1990, when the Borough’s 
+population decreased by 11.1 percent; and 2010 and 2020, when the Borough’s 
+population decreased by about 1.5 percent. 
+Bergen County’s population also increased over the period from 1930 to 2020. 
+Indeed, the County’s population increased by 590,755 residents over this period. As 
+compared to the Borough, however, change in the County’s population was never as 
+great as in the Borough. Indeed, the maximum rate of change in the Borough’s 
+population was about 292.7 percent (between 1950 and 1960), but the change in the 
+County’s population never exceeded about 44.7 percent (also between 1950 and 
+1960) in any ten-year period. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 8 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 9 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 5
+Table 1 
+POPULATION CHANGE, 1930 – 2020 
+Borough of Emerson and Bergen County 
+Borough
+Change
+Year
+Population
+Number
+Percent
+1930
+1,394
+------
+------
+1940 
+1,487 
+93 
+6.7 
+1950 
+1,744 
+257
+17.3 
+1960 
+6,849 
+5,105 
+292.7
+1970 
+8,428 
+1,579 
+23.1 
+1980 
+7,793 
+-635 
+-7.5 
+1990 
+6,930 
+-863 
+-11.1 
+2000 
+7,197 
+267
+3.9 
+2010 
+7,401 
+204
+2.8 
+2020 
+7,290 
+-111 
+-1.5 
+County 
+ 
+Change 
+Year 
+Population 
+Number 
+Percent 
+1930 
+364,977
+------ 
+------ 
+1940 
+409,646
+44,669 
+12.2 
+1950 
+539,139
+129,493 
+31.6 
+1960 
+780,255
+241,116 
+44.7 
+1970 
+897,148
+116,893 
+15.0 
+1980 
+845,385
+-51,763
+-5.8
+1990 
+825,380
+-20,005
+-2.4
+2000 
+884,118
+58,738
+7.1
+2010 
+905,116
+20,998
+2.4
+2020
+955,732
+50,616 
+5.6 
+Sources: 
+1930 - 1950: “Number of Inhabitants, New Jersey.” 
+https://www2.Census.Gov/library/publications/decennial/1950/population-volume-
+2/23024255v2p30ch1.pdf. U.S. Census Bureau, 1950; 
+1940 - 2000: “New Jersey Population Trends 1790 to 2000.” Division of Labor Market and 
+Demographic Research New Jersey State Data Center, August 2001. 
+https://www.nj.gov/labor/labormarketinformation/assets/PDFs/census/2kpub/njsdcp3.pdf; 
+2010: 2010 U.S. Census (Table P3); and, 
+2020: 2020 U.S. Census (Table DP1) 
+ 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 9 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 10 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 6
+Population Composition by Age 
+Table 2 shows population by age cohort in the Borough of Emerson during 2010 and 
+2020. As can be seen, the population decreased by 111 residents or 1.5 percent 
+between 2010 and 2020. The age-cohort with the largest decreases were 5-14, which 
+decreased by 218 residents or about 20.5 percent; 85+, which decreased by 73 
+residents or about 20.3 percent; 45-54, which decreased by 220 residents or about 
+17.6 percent; and 35-44, which decreased by 156 residents or about 15.6 percent. The 
+age cohorts with the largest increases were: 25-34, which increased by 153 residents 
+or 26.7 percent; 15-24, which increased by 154 residents or 20.3 precent; 55-64, 
+which increased by 199 residents or 22.4 percent; and 65-74, which increased by 75 
+residents or 11.9 percent. 
+ 
+Table 2 
+POPULATION BY AGE 
+Borough of Emerson 
+ 
+2010 Population 
+2020 Population 
+Change 2010-2020 
+Age Group 
+Persons 
+Percent 
+Persons 
+Percent 
+Persons
+Percent
+Under 5 
+395
+5.3 
+387 
+5.3 
+-8 
+-2.0
+5-14 
+1,062 
+14.3
+844 
+11.6 
+-218 
+-20.5 
+15-24
+757
+10.2
+911 
+12.5 
+154 
+20.3
+25-34
+572
+7.7 
+725 
+9.9 
+153 
+26.7
+35-44
+1,003 
+13.6
+847 
+11.6 
+-156 
+-15.6 
+45-54
+1,253 
+16.9
+1,033 
+14.2 
+-220 
+-17.6 
+55-64
+890
+12.0
+1,089 
+14.9 
+199 
+22.4
+65-74
+632
+8.5 
+707 
+9.7 
+75
+11.9
+75-84
+477
+6.4 
+460 
+6.3 
+-17
+-3.6
+85+ 
+360
+4.9 
+287 
+3.9 
+-73
+-20.3 
+TOTALS 
+7,401 
+100.0 
+7,290 
+100.0 
+-111 
+-1.5 
+Sources: 
+2010: 2010 U.S. Census (Table PCT12); and, 
+2020: U.S. Census (Table DP1)
+Table 2 shows considerable growth and decline in several age cohorts. The effects of 
+the change in the distribution of Emerson’s population among age cohorts can be 
+summarized in the change in the median age of the Borough’s population, which 
+decreased by four-tenths (o.4) of a year, from 44.3 years to 43.9 years, in the period 
+from 2010 to 2020. This represents a decrease of about 0.9 percent. By comparison, 
+the median age of Bergen County’s population increased by approximately 0.9 years, 
+from 41.1 years to 42.0 years, which equates to an increase of about 2.2 percent. Table 
+3 summarizes the distribution of the Borough’s and County’s populations among age 
+cohorts and the change in the median age of said populations. 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 10 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 11 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 7
+Table 3 
+PERCENTAGE POPULATION DISTRIBUTION, 2010 & 2020
+Borough of Emerson and Bergen County 
+2010 Percentage of Population
+2020 Percentage of Population 
+Age Group 
+Borough 
+County
+Borough 
+County 
+Under 5 
+5.3
+5.6 
+5.3 
+5.0 
+5-14 
+11.6 
+12.9 
+14.3 
+12.0 
+15-24
+12.5 
+11.6 
+10.2 
+12.0 
+25-34
+9.9
+11.6 
+7.7 
+11.8 
+35-44
+11.6 
+14.3 
+13.6 
+13.2 
+45-54
+14.2
+16.3
+16.9
+14.0
+55-64
+14.9
+12.7
+12.0
+14.3
+65+
+19.9
+15.1
+19.8
+17.7
+TOTALS 
+100 
+100
+100
+100
+ 
+ 
+ 
+ 
+Median Age
+44.3 
+41.1 
+43.9 
+42.0 
+Sources:  
+2010: 2010 U.S. Census (Tables PCT12, P13) 
+2020: 2020 U.S. Census (Tables DP1, P13) 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 11 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 12 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 8
+Existing Housing Characteristics 
+Type of Household 
+A household is a group of people who occupy a housing unit as their usual place of 
+residence. As shown in Table 4, there were 2,482 households in the Borough of 
+Emerson in 2020. The majority, or approximately 81.7 percent, of households 
+consisted of two or more persons. The remaining 18.3 percent of households 
+consisted of one person. Table 4 provides additional details on the types of 
+households in Emerson Borough during 2020.
+Table 4 
+TYPES OF HOUSEHOLDS, 2020 
+Borough of Emerson 
+Type of Households 
+ Total 
+Number in 
+Subgroup 
+Percent of 
+Total 
+TOTAL HOUSEHOLDS 
+2,482
+One Person 
+453 
+18.3 
+Male Householder 
+160
+6.4 
+65 years or older 
+77 
+3.1 
+Female Householder
+293
+11.8 
+65 years or older 
+215
+8.7 
+Two or More Persons 
+2,029 
+81.7 
+Married Couple Families
+1,627
+65.6 
+With Own Children Under 18
+717
+28.9 
+Cohabitating Couple
+79
+3.2
+With Own Children Under 18
+30 
+1.2 
+Male Householder Not living alone 
+106
+4.3 
+With Own Children Under 18
+23 
+0.9 
+Female Householder Not living alone 
+217
+8.7 
+With Own Children Under 18
+69 
+2.8 
+Sources:  
+2020 U.S. Census (Table DP1) 
+ 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 12 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 13 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 9
+Household Size 
+Table 5 provides further details on household size in the Borough of Emerson during 
+2020. As shown, the most frequent household size was two persons, which accounted 
+for 27.7 percent of all households in Emerson and 29.1 percent of all households in 
+Bergen County. The average household size in Emerson was 2.89, which is 0.19 more 
+than the average household size of 2.70 in Bergen County during 2020.   
+ 
+ 
+Table 5 
+HOUSEHOLD SIZE, 2020 
+Borough of Emerson & Bergen County 
+Borough of Emerson 
+Bergen County
+Household Size 
+Number 
+Percent 
+Number 
+Percent 
+1 Person
+453 
+18.3
+84,254 
+24.0
+2 Persons 
+688 
+27.7
+102,218
+29.1
+3 Persons 
+494 
+19.9
+63,130 
+18.0
+4 Persons 
+531 
+21.4
+61,107 
+17.4
+5 Persons 
+203 
+8.2 
+26,098 
+7.4 
+6+ Persons 
+113 
+4.6 
+13,857 
+4.0 
+TOTALS 
+2,482 
+100.0
+350,664
+100.0 
+Average Household Size 
+2.89 
+ 
+2.70 
+ 
+Source: 2020 U.S. Census (Tables H12, DP1) 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 13 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 14 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 10 
+Per Capita and Household Income 
+Table 6 displays the per capita income, median household income, and population 
+poverty status of Emerson, Bergen County and the State of New Jersey. This data is 
+derived from the 2023 American Community Survey Five-Year Estimates and 
+represents estimated average conditions over the five-year period ending in 2023.
+As shown in Table 6, Emerson had a higher per capita income at $68,008 than in 
+Bergen County and New Jersey, where the per capita incomes were $62,968 and 
+$53,118, respectively. Emerson also had a higher median household income at 
+$153,963 than Bergen County and New Jersey, where the median household incomes 
+were $123,715 and $101,050, respectively. Additionally, the Borough had just 2.3
+percent of its population living below poverty status, which is lower than the 6.7 
+percent and 9.8 percent exhibited by Bergen County and New Jersey, respectively. 
+ 
+ 
+Table 6 
+PER CAPITA AND HOUSEHOLD INCOME; POVERTY STATUS 2023
+Borough of Emerson, Bergen County & New Jersey
+Per Capita Income 
+Median Household 
+Income 
+Percentage of 
+Population Below 
+Poverty Status 
+Borough of Emerson 
+$68,008
+$153,963 
+2.3 
+Bergen County 
+$62,968
+$123,715 
+6.7 
+New Jersey 
+$53,118
+$101,050 
+9.8 
+Source: 2023 American Community Survey 5-Year Estimates (Tables BP19301, S1901 and S1701) 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 14 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 15 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 11 
+Family Income Distribution 
+Table 7 details family income for the Borough and County as represented by 2023 
+American Community Survey Five-Year Estimates. Approximately 83.6 percent of 
+Emerson’s families earned $75,000 or more. By comparison, just 77.6 percent of 
+Bergen County’s families earned $75,000 or more. 
+ 
+ 
+Table 7 
+FAMILY INCOME DISTRIBUTION, 2023 
+Borough of Emerson & Bergen County 
+Borough
+County 
+Income Levels 
+Number 
+Percent
+Number 
+Percent 
+Less than $10,000 
+22
+1.0
+4,882 
+1.9 
+$10,000 - $14,999 
+0 
+0.0
+2,555 
+1.0 
+$15,000 - $24,999 
+0 
+0.0
+6,022 
+2.4 
+$25,000 - $34,999 
+0 
+0.0
+7,350 
+2.9 
+$35,000 - $49,999 
+138 
+6.3
+12,602 
+5.0 
+$50,000 - $74,999 
+197 
+9.0
+23,286 
+9.2 
+$75,000 - $99,999 
+266 
+12.2 
+23,706 
+9.4 
+$100,000 - $149,999 
+350 
+16.1 
+45,647 
+18.1 
+$150,000 - $199,999 
+434 
+19.9 
+36,887 
+14.6 
+$200,000 or more
+771 
+35.4 
+89,702 
+35.5 
+TOTALS 
+2,178 
+100.0 
+252,639 
+100.0 
+Source: 2023 American Community Survey 5-Year Estimates (Table DP03) 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 15 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 16 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 12 
+Housing Affordability 
+Table 8 identifies the maximum income limits for low, very low- and moderate-
+income households in Housing Region 1. All of Bergen, Hudson, Passaic and Sussex 
+counties are in Housing Region 1. 
+ 
+Emerson is in Housing Region 1. As of 2025, the median household income for a three-
+person household in Housing Region 1 was $114,500. A three-person moderate 
+income household, defined as a household with an income in excess of 50 percent but 
+less than 80 percent of the median income, would have an income that does not 
+exceed $91,600. A four-person low-income household, defined as a household with 
+income equal to or less than 50 percent but more than 30 percent of the median 
+income, would have an income that does not exceed $63,600. A two-person very low-
+income household, defined as a household with an income equal to 30 percent or less 
+of the median income, would have an income that does not exceed $30,540. Finally, 
+the 1.5 person, three-person and 4.5-percon columns are used for calculating the 
+pricing for one-, two- and three-bedroom affordable units. 
+Table 8 
+2025 REGIONAL INCOME LIMITS 
+HOUSING REGION 1 
+ 
+Household Size
+Median Income
+Moderate Income
+Low Income
+Very Low Income
+1 Person 
+$89,100
+$71,280 
+$44,550 
+$26,730 
+1.5 Person 
+$95,450
+$76,360 
+$47,725 
+$28,635 
+2 Person 
+$101,800 
+$81,440 
+$50,900 
+$30,540 
+2.5 Person
+$108,150
+$86,520
+$54,075
+$32,445
+3 Person 
+$114,500 
+$91,600 
+$57,250 
+$34,350 
+4 Person 
+$127,200 
+$101,760 
+$63,600 
+$38,160 
+4.5 Person 
+$132,300 
+$105,840 
+$66,150 
+$39,690 
+5 Person 
+$137,400 
+$109,920 
+$68,700 
+$41,220 
+6 Person 
+$147,600 
+$118,080 
+$73,800 
+$44,280 
+7 Person 
+$157,800 
+$126,240 
+$78,900 
+$47,340 
+8 Person 
+$168,000 
+$134,400 
+$84,000 
+$50,400 
+Source: 2025 Affordable Housing Regional Income Limits by Household Size, Prepared by 
+Affordable Housing Professionals of New Jersey (AHPNJ) – May 16, 2025 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 16 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 17 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 13 
+Housing Unit Data 
+In 2020, there were 2,600 housing units in Emerson, of which 2,482 or 95.5 percent 
+were occupied. By comparison, the County had 367,383 housing units, of which 
+350,664 or 95.4 percent were occupied.  
+ 
+As shown in Table 9, owner-occupied housing stock comprised a greater percentage 
+of the Borough’s housing stock than in the County’s housing stock. In 2020, 
+approximately 87.6 percent of the Borough’s housing stock, versus 63.1 percent of 
+the County’s housing stock, was owner-occupied. 
+Table 9 
+HOUSING UNIT DATA, 2020 
+Borough of Emerson & Bergen County 
+Borough 
+County 
+Number 
+Percent
+Number 
+Percent
+Unit Type 
+Occupied 
+2,482 
+95.5 
+350,664 
+95.4 
+Vacant, Seasonal & Migratory 
+118 
+4.5
+16,719 
+4.6
+TOTALS 
+2,600 
+100.0 
+367,383 
+100.0 
+Owner vs Renter Occupied Units
+Owner Occupied 
+2,173 
+87.6 
+221,274 
+63.1 
+Renter Occupied 
+309 
+12.4 
+129,390 
+36.9 
+TOTALS 
+2,482 
+100.0 
+350,664 
+100.0 
+Source: 2020 U.S. Census (Table DP1) 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 17 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 18 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 14 
+Year Householder Moved into Unit 
+Table 10 provides the year the current householders moved into the Emerson and 
+Bergen County homes. As shown, 60.8 percent of the Borough’s households moved 
+into their current residences after 2000, compared to 74.2 percent countywide. 
+Approximately 39.2 percent of the Borough’s households and 25.8 percent of the 
+County’s households moved into their residences before 2000. 
+Table 10 
+YEAR HOUSEHOLDER MOVED INTO UNIT, 2023 
+Borough of Emerson & Bergen County 
+Borough  
+County 
+Year Householder Moved 
+into Unit 
+Number 
+Percent 
+Number 
+Percent 
+2021 or later 
+78 
+3.0 
+27,042
+7.7 
+2010 - 2020 
+1007 
+38.1 
+165,730 
+46.9 
+2000 - 2009 
+522 
+19.8 
+69,267
+19.6 
+1990 - 1999 
+613 
+23.2 
+42,548
+12.0 
+1989 or earlier
+421 
+15.9 
+48,720
+13.8 
+TOTALS 
+2,641
+100.0 
+353,307 
+100.0
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04) 
+ 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 18 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 19 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 15 
+Housing Unit Information 
+Table 11 includes a variety of information from the American Community Survey on 
+the Borough of Emerson and Bergen County housing stocks, including when the 
+housing unit was built, the number of units per structure, and the number of rooms 
+and bedrooms per unit. 
+ 
+As shown, approximately 89.3 percent of the Borough’s housing stock consists of 
+single-family detached structures. In contrast, single-family detached homes 
+comprise approximately 53.2 percent of the County’s housing stock. 
+As shown in Table 11, the Borough’s housing stock contains more rooms than the 
+County’s housing stock. In 2023, about 77.5 percent of Emerson’s housing units 
+contained six (6) or more rooms, while approximately 54.7 percent of the County’s 
+housing stock recorded the same number of rooms. On the other hand, about 40.5
+percent of the Borough’s housing units contain four or more bedrooms, compared 
+with approximately 27.2 percent of the County’s housing stock.
+Finally, approximately 82.6 percent of the Borough’s housing stock was built before 
+1980, Similarly, about 74.6 percent of the County’s housing stock was built before 
+1980. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 19 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 20 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 16 
+Table 11 
+HOUSING UNIT INFORMATION, 2023 
+Borough of Emerson & Bergen County 
+Borough 
+County 
+Number 
+Percent 
+Number 
+Percent 
+Total Units
+2,641
+100.0 
+368,535
+100.0 
+Units in Structure
+One (Single Family Detached) 
+2,359 
+89.3 
+196,102 
+53.2 
+One (Single Family Attached) 
+0 
+0.0
+22,284 
+6.0 
+Two+ Units 
+282
+10.7 
+148,595 
+40.3 
+Mobile Home, Trailer, Other
+0 
+0.0
+1,554 
+0.4 
+Number of Rooms 
+1 Room
+51 
+1.9
+10,090 
+2.7 
+2 or 3 Rooms
+124
+4.7
+54,929 
+14.9 
+4 or 5 Rooms
+418
+15.8 
+101,934 
+27.7 
+6 or 7 Rooms
+1157
+43.8 
+103,786 
+28.2 
+8+ Rooms 
+891
+33.7 
+97,796 
+26.5 
+Number of Bedrooms 
+No Bedroom 
+51 
+1.9
+11,192 
+3.0 
+1 Bedroom 
+143
+5.4
+58,568 
+15.9 
+2 or 3 Bedrooms 
+1,377 
+52.1 
+198,472 
+53.9 
+4+ Bedrooms
+1070
+40.5 
+100,303 
+27.2 
+Year Structure Built
+2020 - later 
+0 
+0.0
+2,486 
+0.7 
+2010 - 2019
+128
+4.8
+18,587 
+5.0 
+2000 - 2009
+101
+3.8
+21,455 
+5.8 
+1990 - 1999
+81 
+3.1
+20,951 
+5.7 
+1980 - 1989
+150
+5.7
+30,051 
+8.2 
+1960 - 1979
+843
+31.9 
+86,461 
+23.5 
+1940 - 1959
+1,106 
+41.9 
+116,865 
+31.7 
+1939 or earlier 
+232
+8.8
+71,679 
+19.4 
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04) 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 20 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 21 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 17 
+Housing Conditions 
+Housing conditions in Emerson are excellent. As shown in Table 12, none of the 
+Borough’s housing units lack complete plumbing facilities, kitchen facilities, or phone 
+service, compared to 0.3, 0.7 and 0.8 percent, respectively, in the county overall. 
+In addition to the above, none of the Borough’s housing stock has more than one 
+person per room, compared to about 3.4 percent of the County’s housing stock. 
+Having more than one person per room is an indicator of overcrowding. 
+ 
+ 
+Table 12 
+INDICATORS OF HOUSING CONDITIONS, 2023
+Borough of Emerson & Bergen County
+Borough 
+County 
+Number 
+Percent 
+Number
+Percent
+Total Occupied Units 
+2,641
+353,307 
+Units Lacking Complete Plumbing
+0
+0.0 
+899 
+0.3 
+Units Lacking Kitchen Facilities
+0
+0.0 
+2,541
+0.7 
+No telephone service 
+0
+0.0 
+2,797
+0.8 
+Persons per Room, Occupied Units 
+1.00 or less 
+2,641
+100.0 
+341,275 
+96.6 
+1.01 to 1.50
+0
+0.0 
+7,036
+2.0 
+1.51 or more
+0
+0.0 
+4,996
+1.4 
+TOTALS 
+1,053
+100.0 
+353,307 
+100.0 
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04) 
+ 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 21 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 22 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 18 
+Housing Values 
+Table 13 shows 2023 housing values for the Borough of Emerson and Bergen County. 
+As indicated, approximately 98.0 percent of the Borough’s owner-occupied housing 
+units are valued at over $300,000. This is higher than in the County, where only about 
+89.9 percent of the owner-occupied housing units are valued at over $300,000. This 
+higher percentage of units is reflected in the fact that the median value of owner-
+occupied units in Bergen County is lower than in the Borough. Indeed, the median 
+value of owner-occupied units is $593,200 in Bergen County, but $626,000 in 
+Emerson Borough. 
+ 
+ 
+Table 13 
+OWNER-OCCUPIED HOUSING VALUES, 2023 
+Borough of Emerson & Bergen County 
+Borough 
+County 
+Housing Value
+Number 
+Percent
+Number 
+Percent 
+Less than $50,000 
+0 
+0.0
+4,241 
+1.8 
+$50,000 - $99,999 
+15 
+0.6
+2,583 
+1.1 
+$100,000 - $149,999 
+0 
+0.0
+2,366 
+1.0 
+$150,000 - $199,999 
+16 
+0.7
+2,680 
+1.2 
+$200,000 - $299,999 
+15 
+0.6
+11,285
+4.9 
+$300,000 - $499,999 
+407 
+17.3
+62,212
+26.9 
+$500,000 - $999,999 
+1,816 
+77.2
+115,000 
+49.8 
+$1,000,000 or more 
+84 
+3.6
+30,556
+13.2 
+TOTALS 
+2,353 
+100.0 
+230,923 
+100.0
+Median Value 
+$ 626,000 
+$ 593,200
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04) 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 22 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 23 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 19 
+Contract Rents 
+Table 14 details the gross rents for renter-occupied units in Emerson and Bergen 
+County. As shown, the median monthly rent in Emerson was $1,926. In Bergen County 
+overall, however, the median rent was $1,863. In Emerson, about 5.4 percent of all 
+cash rents were at least $3,000, whereas in Bergen County only about 13.2 percent of 
+all cash rents were $3,000 or more.
+Table 14 
+GROSS RENTS, 2023 
+OCCUPIED UNITS PAYING RENT 
+Borough of Emerson & Bergen County 
+Borough 
+County 
+Contract Rents
+Number 
+Percent
+Number 
+Percent
+Less than $500
+0 
+0.0% 
+3,870 
+3.3
+$500 - $999
+0 
+0.0% 
+5,086 
+4.3
+$1,000 - $1,499
+11 
+4.3% 
+21,678 
+18.3
+$1,500 - $1,999
+138 
+53.7%
+39,395 
+33.3
+$2,000 - $2,499
+66 
+25.7%
+21,731 
+18.3
+$2,500 - $2,999
+28 
+10.9%
+11,103 
+9.4
+$3,000 or more
+14 
+5.4% 
+15,614 
+13.2
+TOTALS 
+257 
+100.0 
+118,477 
+100.0 
+Median Rent
+$ 1,926
+ 
+$ 1,863
+Source: 2023 American Community Survey 5-Year Estimates (Table DP04) 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 23 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 24 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 20 
+Employment Data 
+Table 15 details the occupational characteristics of Emerson residents as indicated 
+by 2023 American Community Survey Five-Year Estimates. As indicated, the largest 
+occupational group among Emerson residents aged 16 years and over engaged in the 
+civilian labor force is “Management, Business Science & Arts” with about 59.1 percent. 
+This was also the largest occupational group in Bergen County with about 53.3 
+percent of County residents aged 16 years and over engaged in the civilian labor force. 
+The second largest occupational group was “Sales & Office Occupations,” which 
+accounted for 22.1 percent and 20.4 percent of the Borough and County residents 
+aged 16 years and over engaged in the civilian labor force, respectively. The third 
+largest occupational group was “Service Occupations,” which accounted for 11.8 
+percent of the Borough residents and 12.4 percent of the County residents aged 16 
+years and over engaged in the civilian labor force. In total, these three occupational 
+groups accounted for about 93.0 percent of the Borough residents and 86.2 percent 
+of the County residents aged 16 years and over engaged in the civilian labor force.
+With regard to the industry of employment, it is noted that the top-three industries 
+of employment among Borough residents aged 16 years and over and engaged in the 
+civilian labor force were “Educational Services, Health Care/Social Assist.” with 28.1 
+percent; “Professional, Scientific, Management” with 16.6 percent; and “Finance, 
+Insurance, Real Estate” with 13.4 percent. Among County residents, the top-three 
+industries of employment were “Educational Services, Health Care/Social Assist.” 
+with 25.1 percent; “Professional, Scientific, Management” with 15.2 percent; and 
+“Retail Trade” with 10.2 percent. 
+  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 24 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 25 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 21 
+Table 15 
+OCCUPATIONAL CHARACTERISTICS, 2023 
+Borough of Emerson & Bergen County 
+ 
+Borough
+County
+Occupation Group 
+Number 
+Percent 
+Number 
+Percent 
+Management, Business, Science & Arts 
+2,205 
+59.1
+263,942 
+53.3 
+Service Occupations 
+439
+11.8
+61,574 
+12.4 
+Sales & Office Occupations
+825
+22.1
+101,185 
+20.4 
+Nat. Resources, Construction & Maint. 
+123
+3.3 
+25,740 
+5.2 
+Production, Transportation & Material
+140
+3.8
+42,480
+8.6
+TOTALS
+3,732
+100.0
+494,921
+100.0
+ 
+ 
+Borough 
+County
+Industry 
+Number 
+Percent 
+Number 
+Percent 
+Agriculture, Forestry, Fishing 
+29 
+0.8 
+636 
+0.1 
+Construction
+175
+4.7 
+25,742 
+5.2 
+Manufacturing
+169
+4.5 
+38,180 
+7.7 
+Wholesale Trade
+137
+3.7 
+18,362 
+3.7 
+Retail Trade 
+285
+7.6 
+50,517 
+10.2 
+Transportation & Warehousing 
+159
+4.3 
+25,586 
+5.2 
+Information
+106
+2.8 
+14,303 
+2.9 
+Finance, Insurance, Real Estate 
+499
+13.4
+50,356 
+10.2 
+Professional, Scientific, Management 
+618
+16.6
+75,107 
+15.2 
+Edu. Services, Health Care/Social Assist. 
+1,047 
+28.1
+124,338 
+25.1 
+Arts, Entertain., Recreation, Food Services 
+278
+7.4 
+33,665 
+6.8 
+Other Services, Except Public Admin. 
+33 
+0.9 
+22,115 
+4.5 
+Public Administration 
+197
+5.3 
+16,014 
+3.2 
+TOTALS 
+3,732 
+100.0
+494,921 
+100.0 
+Source: 2023 American Community Survey 5-Year Estimates (Tables S2401, S2405) 
+Data from the New Jersey Department of Labor and Workforce Development 
+indicates that there was an average total of 2,054 private sector jobs located in 
+Emerson during 2023. This represents jobs located in Emerson, not the occupational 
+characteristics of Emerson’s residents. 
+Table 16 provides data on the sector of employment of 2,054 private jobs located 
+within the Borough of Emerson. Of these jobs, 910 or 44.3 percent were classified as 
+“Health/Social.” An additional 410 jobs or 20.4 percent were classified as “Retail 
+Trade,” and an additional 152 jobs or 3.8 percent were classified as “Other Services.” 
+These three employment sectors account for about 72.1 percent of all jobs located 
+within the Borough of Emerson. All other sectors for which data was provided 
+accounted for less than five percent of all jobs. 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 25 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 26 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 22 
+While the New Jersey Department of Labor and Workforce Development has 
+provided information on the sector of employment for 98.8 percent of the private jobs 
+located within the Borough of Emerson. It has not disclosed sector of employment for 
+1.2 percent of the 2,054 private jobs located within the Borough. Typical reasons why 
+the New Jersey Department of Labor and Workforce Development would not provide 
+the number of jobs in a particular sector include the presence of only one or very few 
+employers in a particular sector, or the presence of a very limited number of jobs in a 
+sector. In such cases, the New Jersey Department of Labor and Workforce 
+Development withholds information so as to not release what could be perceived as 
+confidential information.
+Table 16 
+PRIVATE EMPLOYMENT BY SECTOR, 2023 
+Borough of Emerson
+Borough 
+Employee Sector 
+Number
+Percent 
+Agriculture 
+Undisclosed
+Undisclosed 
+Construction 
+61 
+3.0 
+Manufacturing 
+60 
+2.9 
+Wholesale Trade 
+49 
+2.4 
+Retail Trade 
+419 
+20.4 
+Transportation/Warehousing 
+Undisclosed
+Undisclosed 
+Information 
+Undisclosed
+Undisclosed 
+Finance/Insurance 
+24 
+1.2 
+Real Estate
+Undisclosed
+Undisclosed 
+Professional/Technical 
+81 
+3.9 
+Admin/Waste Remediation 
+98 
+4.8 
+Education 
+Undisclosed
+Undisclosed
+Health/Social 
+910 
+44.3 
+Arts/Entertainment 
+73 
+3.6
+Accommodations/Food 
+95 
+4.6 
+Other Services
+152 
+7.4 
+Unclassified 
+8
+0.4 
+TOTAL 
+2,054
+100.0 
+Source: New Jersey Department of Labor and Workforce Development 
+ 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 26 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 27 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 23 
+Residential Construction 
+Table 17 contains data on dwelling units authorized by building permit and 
+demolished with a demolition permit from 2012 through 2023. This data has been 
+obtained from the New Jersey Department of Community Affairs.
+In the reported period, a total of 197 new units were created and 14 units were 
+demolished, resulting in a net increase of 183 units. The average annual net change 
+in the reported period was slightly more than 15.3 units. 
+Table 17 
+NEW DWELLING UNITS AUTHORIZED BY BUILDING PERMIT & HOUSING UNITS 
+DEMOLISHED: 2012 - 2023
+Borough of Emerson
+ 
+Year 
+New Units 
+Demolitions
+Net Increase 
+2012 
+1 
+0 
+1 
+2013 
+2 
+4 
+-2 
+2014 
+7 
+0 
+7 
+2015 
+14
+2 
+12 
+2016 
+7 
+3 
+4 
+2017 
+1 
+3 
+-2 
+2018 
+3 
+0 
+3 
+2019 
+2 
+1 
+1 
+2020 
+2 
+0 
+2 
+2021 
+147 
+1 
+146
+2022 
+11
+0 
+11 
+2023
+0
+0
+0 
+TOTALS 
+197 
+14 
+183
+Source: “Development Trends Viewer.” State of New Jersey Department of Community Affairs, 
+September 16, 2024. Accessed February 4, 2025. 
+https://www.nj.gov/dca/codes/reporter/Development_Trend_Viewer.xlsb. 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 27 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 28 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 24 
+Population and Household Projection 
+As has been previously mentioned, the Borough of Emerson’s population was 7,290 
+at the time of the 2020 United States Census. 
+The North Jersey Transportation Planning Authority has released 2050 population 
+and household projections for its constituent municipalities. The 2050 population 
+projection for Emerson is 8,783, which represents an increase of 1,493 residents over 
+the 2020 United States Census population of 7,290 residents. The 2050 household 
+projection for Emerson is 2,898, which represents an increase of 416 households over 
+the 2020 United States Census count of 2,482 households. 
+ 
+N.J.S.A. 52:27D-310.b requires that Housing Elements and Fair Share Plans include a 
+household projection for the next ten years. When the 2050 projections of the North 
+Jersey Transportation Planning Authority are linearly adjusted to represent 2035 
+values, projections of 8,037 residents and 2,690 households result. This is 
+summarized in Table 18. 
+ 
+Table 18 
+POPULATION AND HOUSEHOLD PROJECTION, 2015 - 2050 
+Borough of Emerson 
+ 
+2020 Census Population 
+2035 Population Projection 
+(Adjusted from 2050) 
+2050 Population Projection 
+7,290 
+8,037 
+8,783 
+2020 Census Households
+2035 Household Projection 
+(Adjusted from 2050)
+2050 Household Projection
+2,482 
+2,690 
+2,898 
+Sources:  
+2020: United States Census;  
+2035: Calculated by T&M based on 2050 values; and, 
+2050: North Jersey Transportation Planning Authority. 
+The foregoing information has been provided for informational purposes only and 
+in response to N.J.S.A. 52:27D-310.b. 
+ 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 28 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 29 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 25 
+Employment Projection 
+The North Jersey Transportation Planning Authority (NJTPA) has released a 2050 
+employment projection for the Borough of Emerson of 2,683, which represents an 
+increase of 324 jobs over the Borough’s 2023 average total of 2,359 public and private 
+sector jobs (includes: 2,054 private sector jobs; 3 federal government jobs; and 302 
+local government jobs).  
+ 
+When the NJTPA’s 2050 employment projection is linearly adjusted to represent 
+2035 values, an adjusted 2035 employment projection of 2,503 jobs results. This is 
+summarized in Table 19. 
+ 
+ 
+Table 19 
+EMPLOYMENT PROJECTION, 2023 - 2050 
+Borough of Emerson  
+2023 
+2035
+2050 
+Public and Private 
+Employment
+Adjusted Employment 
+Projection 
+Employment 
+Projection 
+2,359 
+2,503 
+2,683 
+Sources:  
+2023: New Jersey Department of Labor and Workforce Development;  
+2035: Calculated by T&M; and, 
+2050: North Jersey Transportation Planning Authority. 
+Note: 2023 average of 2,359 public and private sector jobs + ((2050 Employment Projection of 2,683 jobs – 
+2023 average of 2,359 public and private sector jobs) ÷ (2050 – 2023)) × 12 years = 2,503 jobs in 2035.
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 29 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 30 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 26 
+Fair Share Plan 
+Affordable Housing Obligation 
+A municipality’s affordable housing obligation is made up of both a present need 
+(rehabilitation obligation) and a prospective need obligation.  Obligations are 
+calculated in time periods known as “rounds.”  
+Previous Round obligations have either been determined by the New Jersey Council 
+on Affordable Housing (COAH), or by Court decisions.  However, pursuant to  FHA 2, 
+for Round 4 and subsequent rounds, the Department of Community Affairs (DCA) was 
+directed to provide a non-binding calculation of regional need and municipal present 
+and prospective need obligations in accordance with the formula contained in the Act. 
+DCA calculated a Round 4 present need obligation of zero (0) units and a prospective 
+need obligation of 181 units for the Borough of Emerson. The Borough analyzed the 
+data that resulted in the obligation and, as permitted under the FHA 2, calculated a 
+prospective need obligation of 167 units.  The Borough adopted a binding resolution 
+stipulating its Round 4 affordable housing obligations on January 28, 2025. 
+The New Jersey Builders Association (NJBA) objected to the Borough’s asserted 
+prospective need obligation. A settlement was reached between the parties for a 
+prospective need obligation of 174 units, as memorialized in a settlement agreement 
+dated May 5, 2025.   
+Emerson’s  affordable housing obligations are as follows: 
+ Prior Round (Rounds 1 & 2, from 1987-1999) Obligation: 74 units 
+ Round 3 (from 1999-2025) Prospective Need Obligation: 234 Units 
+Round 4 (from 2025-2035) Present Need (Rehabilitation Obligation):  0 units
+ Round 4 (from 2025-2035) Prospective Need Obligation: 174 Units 
+The Borough’s affordable housing obligation and the manner in which it has met and 
+intends to meet it, is described in the following subsections.  
+ 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 30 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 31 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 27 
+Prior Round Obligation1 
+The Borough’s 2017 Housing Element and Fair Share Plan states the following 
+regarding Emerson’s Prior Round Obligation.
+ The Borough adopted a housing Element and Fair Share Plan in April 2001. 
+This action occurred within the context of pending litigation.  
+ Trial proceedings were conducted in Superior Court in September 2001, 
+which resulted in the April 2001 plan being invalidated.  
+ The Special Master then prepared a compliance plan dated December 31, 
+2001.  
+ The Court declined to approve the Special Master’s plan in March 2002. 
+The final plan to meet the Prior Round obligation included a Vacant Land 
+Adjustment (VLA). A VLA is utilized when a community does not contain sufficient 
+land to build or to zone for its entire obligation.  
+The VLA results in the calculation of a Realistic Development Potential (RDP) of 20 
+units, with the remaining 54 units of obligation classified as Unmet Need. 
+The Prior Round RDP and unmet need were addressed as follows: 
+Regional Contribution Agreement (RCA) with Ridgefield. COAH’s Prior Round 
+rules permitted Emerson to transfer up to half of its RDP to a municipality in the 
+same housing region through a Regional Contribution Agreement (RCA). Five (5) 
+units of the Borough’s RDP were addressed via an RCA with Ridgefield.  
+New Concepts for Living Group Home.  Ten units of credit, and five (5) bonus 
+credits were obtained via a group home.  
+The Borough addressed its unmet need obligation via overlay zoning and the 
+collection of development fees. 
+Round 3 Prospective Need 
+The Borough of Emerson’s Round 3 prospective need obligation is 234 units.  The 
+Borough reached settlement with the FSHC in 2017.  The settlement recognized that 
+Emerson did not have sufficient vacant land to build or to zone for its entire 
+obligation, and, therefore, received a Vacant Land Adjustment (VLA).  The VLA 
+resulted in the calculation of a Realistic Development Potential (RDP) of 53 units.  The 
+Borough’s settlement agreement and the 2017 Housing Element & Fair Share Plan 
+actually exceeded the 53-unit RDP.   
+ 
+1 Borough of Emerson 2017 Housing Element & Fair Share Plan.  
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 31 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 32 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 28 
+Group Homes.  The Borough received 10 units of credit for two separate group 
+homes.  
+Veterans’ Housing.  The Veterans Housing development, located at 324 Main Street 
+(Block 304, Lot 3) was an existing development at the time of the Round 3 plan.  This 
+development provided 14 units of affordable housing credit toward the Round 3 
+obligation. 
+Block 419.  The Block 419 project is located on Kinderkamack Road and includes 
+Block 419, Lots 1, 2, 3, 4 6.01, 6.02, 7, 8, 9 and 10.  The development is presently under 
+construction. The project is the result of a  Redevelopment Plan  and Agreement.  The 
+Block  419 development is a mixed use development containing both retail use and 
+147 total residential units, of which 29 are affordable.  The approval provided the 
+option of seven (7) of the affordable units located off-site.  
+Block 419 provides 29 units of rental affordable housing.     
+Emerson Grand. The Emerson Grand development is located at 55 Emerson Plaza 
+East (Block 616, Lot 16). The site was approved for a mixed use development 
+including 18 residential units.  The approval included the provision of four (4) 
+affordable units, which would be provided off-site, at 18 Emerson Plaza West (Block 
+603, Lot 3). However, the units were not deed restricted.  
+The Borough initiated litigation against the property owner.  A settlement was 
+reached whereby the owner agreed to deed restrict the four affordable units at 18 
+Emerson Plaza West (Block 603, Lot 3).  The settlement agreement is included in 
+Appendix F.
+The Emerson Grand provides four (4) units of affordable rental housing. 
+Bonus Credits:  The Borough received 14 units of bonus credit toward its 
+affordable housing obligation. 
+Therefore, the Borough provided 71 units of credit and actually exceeded the 53-unit 
+RDP. 
+Round 3 Unmet Need 
+The following compliance mechanisms were utilized to address the Borough’s unmet 
+need obligation. 
+ Surplus credits from Round 3.
+ Adoption of a mandatory-set aside ordinance that provides for an affordable 
+housing set-aside on future residential development.  
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 32 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 33 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 29 
+ Adoption of overlay zones, known as the Multi-Family Residential Affordable 
+Housing Overlay Zone District North and the Multi-Family Residential 
+Affordable Housing Overlay Zone District South.  
+It is important to note that the Multi-Family Residential Affordable Housing Overlay 
+zone has been successful in the provision of affordable housing. The Borough Land 
+Use Board approved an application for a property known as 161 Kinderkamack Road 
+(Block 616, Lots 1 & 2), that included eight (8) residential units, of which two (2) are 
+affordable. This development is constructed and occupied.  
+Round 4 Present Need 
+The present need is a measure of overcrowded and deficient housing that is occupied 
+by low- and moderate-income households. The present need has previously been 
+called “rehabilitation share.”  Emerson’s Round 4 present need obligation is zero 
+(0) units.    
+Emerson did have a Present Need obligation in Round 3, and the Borough has 
+established a Rehabilitation Program. At this time, one Borough property has 
+completed rehabilitation consisting of electrical work and roof and gutter system 
+replacement; a total of $15,850 was expended at this property.  Two other 
+properties are presently in the construction phase of the rehabilitation process.  
+Round 4 Prospective Need 
+Emerson’s Round 4 prospective need obligation is 174 units. The Borough does 
+not have sufficient vacant land to zone for or build for its full Round 4 obligation.  
+Round 4 Vacant Land Adjustment 
+Because the Borough does not have sufficient vacant land to zone for or build for its 
+full Round 4 obligation, it is entitled to a Vacant Land Adjustment (VLA) for Round 4.  
+The Round 4 VLA table and associated mapping is included  in Appendix A. The VLA 
+was prepared pursuant to COAH Round 2 rules contained in N.J.A.C. 5:93-4.2 and the 
+FHA 2. 
+In its preparation of the Round 4 VLA, the Borough relied upon all analyses and 
+conclusions from its approved  Round 3 VLA.  The Round 4 VLA analyzed vacant lots 
+with a tax assessment classification of 1, vacant land or 15C, public property.  Full lots, 
+or portions thereof, that contain environmental constraints, were excluded from the 
+analysis. Properties that are listed on the Borough’s Recreation and Open Space 
+Inventory (ROSI) were excluded, in addition to properties that are a Round 3
+compliance mechanism or were identified as not buildable in Round 3. A six-unit per 
+acre density was applied to the remaining lots or portions thereof.
+The resulting RDP was zero (0) units.  
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 33 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 34 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 30 
+Round 4 Unmet Need 
+The Borough proposes the following unmet need mechanisms:
+Continuation of the mandatory set-aside ordinance.
+ Continuation of collection of development fees. 
+ Four additional units have been approved at the Veterans’ Housing site, 324 
+Main Street.                                      
+ Overlay zoning as described below.  
+The FHA 2 contains the following new requirement:  
+Any municipality that receives an adjustment of its prospective need obligations 
+for the fourth round or subsequent rounds based on a lack of vacant land shall 
+as part of the process of adopting and implementing its housing element and fair 
+share plan identify sufficient parcels likely to redevelop during the current round 
+of obligations to address at least 25 percent of the prospective need obligation 
+that has been adjusted, and adopt realistic zoning that allows for such 
+adjusted obligation, or demonstrate why the municipality is unable to do so. 
+(emphasis added) 
+The Borough’s Round 4 obligation is 174 units. The Borough has a zero (0) unit RDP, 
+resulting in 174 units of unmet need.  
+Four (4) additional units have been approved for the Veterans’ Housing development 
+located at 324 Main Street, which reduces the unmet need to 170 units.  Therefore, 
+the Borough needs to address 25% of its 170-unit unmet need obligation with 
+realistic zoning.  With a 170-unit unmet need requirement, the Borough needs to 
+provide realistic zoning for 43 affordable units. 
+To address the unmet need obligation, the Borough proposes to create a new overlay 
+zone district for the properties known as Block 1301, Lots 1.01 and 1.02. These 
+properties are presently improved with commercial structures and uses and are 
+situated in the Retail Commercial/RC Zone Districts that are located along Old Hook 
+Road and Main Street.  The combined acreage of the of these lots is approximately 
+7.8 acres. The proposed zoning ordinance is attached in Appendix E and would 
+permit multifamily residential development at a density of 30 units per acre with a 
+required 20% affordable housing set-aside.  Therefore, the new overlay zoning offers 
+the potential for 234 units, of which 47 would be affordable units.  The proposed 
+overlay zoning exceeds the 25% required as referenced above, and provides a 
+realistic opportunity for the provision of affordable housing.  
+As required by affordable housing rules, the overlay zoning locations meet the 
+definitions of approvable, available, developable and suitable.  The property will be 
+rezoned to permit inclusionary development, has access to water and sewer 
+infrastructure, and is situated in an area where growth is identified to occur. There 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 34 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 35 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 31 
+is public transportation available, and employment opportunities are within 
+walking distance, including the Hackensack Meridian Health hospital on Old Hook 
+Road.   
+Availability of Existing and Planned Infrastructure 
+The majority of the site proposed to address the unmet need is located in State 
+Planning Area 1.  Emerson offers  a developed infrastructure. 
+Consideration of Lands Appropriate for Affordable Housing  
+Emerson is a developed community with no vacant land.  The Borough anticipates 
+that future development and growth will predominantly be limited to its downtown 
+area and the location identified as a proposed overlay zone. 
+Consistency with the State Development and Redevelopment Plan 
+The 2001 New Jersey State Development and Redevelopment Plan (SDRP) contains a 
+series of smart growth goals and policies, and mapping that reflects desired growth 
+patterns within a series of state planning areas. 
+As provided in the SDRP,  the majority of the proposed overlay zone district is located 
+within Planning Area 1, which is also known as the Metropolitan Planning Area.  A 
+small portion, in the southeast corner of the property, is located in Planning Area 5.  
+In the Metropolitan Planning Area, the SDRP’s intention is to: 
+ Provide for much of the State’s future redevelopment; 
+ Revitalize cities and towns; 
+Promote growth in compact forms;
+ Stabilize older suburbs; 
+ Redesign areas of sprawl; and
+ Protect the character of existing stable communities. 
+Additionally, it is noted that the 2001 SDRP outlines several policy objectives for the 
+Metropolitan Planning Area, including: 
+ Land Use: Promote redevelopment and development in cores and 
+neighborhoods of centers and in nodes that have been identified through 
+cooperative regional planning efforts. Promote diversification of land uses, 
+including housing where appropriate, in single-use developments and 
+enhance their linkages to the rest of the community. Ensure efficient and 
+beneficial utilization of scarce land resources throughout the Planning Area to 
+strengthen its existing diversified and compact nature. 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 35 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 36 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 32 
+ Housing: Provide a full range of housing choices through redevelopment, new 
+construction, rehabilitation, adaptive reuse of nonresidential buildings, and 
+the introduction of new housing into appropriate nonresidential settings. 
+Preserve the existing housing stock through maintenance, rehabilitation and 
+flexible regulation. 
+Execution of this Housing Element and Fair Share Plan and, therewith, promotion of 
+affordable housing development in the Metropolitan Planning Area would be 
+consistent with the intent and aforementioned policy objectives of said planning area.  
+SDRP Update 
+It is noted that as of the preparation of this Housing Element and Fair Share Plan, the 
+State of New Jersey was in the process of updating the SDRP. While a draft of an 
+updated SDRP was released for public review and comment in December 2024, its 
+finalization and adoption are not anticipated to occur before late 2025 or early 2026. 
+Thus, the 2001 SDRP remained in effect as of the preparation and adoption of this 
+Housing Element and Fair Share Plan. 
+Notwithstanding the above, it is noted that the draft SDRP incorporates the same 
+planning areas as the 2001 SDRP and associated mapping indicates that the Borough 
+would remain in the Metropolitan Planning Area.  
+In addition to the above, it is noted that the draft SDRP includes several “State 
+Planning Goals.” One of these goals relates to housing and includes the following core 
+objectives: 
+ Increase the Construction of Diverse Housing Types and the Amount of 
+Affordable Housing: Promote varied housing options for all income levels, 
+including rentals, starter homes, senior housing, and market-rate units in 
+transit-rich and mixed-income communities.
+ Focus on Retaining Residents and Increasing Sustainability: Support 
+inclusionary zoning, green building standards, and Transit-Oriented 
+Development, while reinforcing fair housing practices and preventing the 
+displacement of residents. 
+ Address Housing Needs of Diverse Demographics: Facilitate multi-
+generational households, senior housing, and adaptable options to ensure all 
+residents can age in place and access affordable housing. 
+ Promote Regional Housing Balance: Encourage diverse housing development 
+in areas with strong job markets, educational opportunities, and other 
+amenities which support socio-economic mobility and integrate communities.
+Based on its continuation of the same planning areas as outlined in the 2001 SDRP 
+and its promotion of affordable housing, it is concluded that this Housing Element and 
+Fair Share Plan is generally consistent with the draft SDRP. 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 36 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 37 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 33 
+Minimums & Maximums 
+The FHA2 stipulates certain requirements within C.52:27D-311.k(10)1 which the 
+Emerson plan meets. Emerson has a zero-unit RDP.   The following is noted: 
+ A maximum of 30% of a municipality’s Round 4 prospective need obligation 
+may be met with age restricted housing: the Borough’s plan conforms. No 
+Round 4 units are age-restricted housing.  
+ A minimum of 50% of a municipality’s Round 4 prospective need obligation 
+must be satisfied with the creation of housing available to families with 
+children.  All units proposed for the Round 4 overlay zone are available to 
+families with children.  
+ A minimum of 25% of  a municipality’s Round 4 prospective need obligation 
+must be satisfied through rental housing. The Veterans’ Housing units are 
+rentals, and it is anticipated that units created in the proposed overlay zone 
+would be rentals. Regardless, the Borough has a Round 4 RDP of zero-units, 
+which results in a zero-unit rental requirement.    
+Multigenerational Housing Continuity 
+In 2021, the New Jersey Senate and General Assembly of the State of New Jersey 
+enacted C.52:27D-329.20, which established the Multigenerational Family Housing 
+Continuity Commission. 
+The commission’s responsibilities include preparing and adopting recommendations 
+on how to best advance the goal of “enabling senior citizens to reside at the homes of 
+their extended families, thereby preserving and enhancing multigenerational family 
+continuity, through the modification of State and local laws and policies in the areas 
+of housing, land use planning, parking and streetscape planning, and other relevant 
+areas.”  The commission members and associated staff shall conduct research, 
+obtaining public input, and adopt recommendations on how to most effectively 
+advance the goal of enhancing multigenerational family housing continuity.
+We note that the Borough of Emerson’s Round 4 Housing Element encourages 
+inclusionary development in the Borough’s downtown area and near Old Hook Road. 
+The Borough’s Senior Center is located on Palisade Avenue, which is proximate to 
+Emerson’s downtown. The Senior Center hosts educational and health related 
+programs. Finally, the Borough’s plan includes a variety of housing options.  
+Therefore, the Borough’s ordinances advance the goals of preserving multifamily 
+generational continuity.  
+Conclusion 
+Emerson will provide for its fair share of affordable housing despite having a vacant 
+land deficiency.  As shown, the Borough exceeded its Round 3 RDP and meets its 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 37 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 38 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+Page 34 
+Round 4 RDP.  The proposed overlay zone location is near employment opportunities 
+and public transportation. This area is primarily located within Planning Area 1 of the 
+State Plan, which is the location where such growth is encouraged.
+ 
+All affordable units will conform to necessary rules, legislation and regulations, 
+including but not limited to bedroom distribution and income distribution.  At least 
+13% of all affordable housing units will be available to very low income households. 
+This plan addresses Emerson’s affordable housing obligation within the confines of 
+sound planning, and while respecting its built environment and development 
+characteristics. 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 38 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 39 =====
+Housing Plan Element and Fair Share Plan – Round 4
+Borough of Emerson, Bergen County, New Jersey
+ 
+Appendices  
+This report contains the following appendices.
+Appendix A:  Vacant Land Adjustment Documentation 
+Appendix B: Affordable Housing Ordinance & Affirmative Marketing Plan. The 
+Borough’s existing ordinance, affirmative marketing plan ad mandatory set-aside 
+ordinance are included. Modifications will be made as needed to comply with any 
+future Round 4 requirements. 
+Appendix C: Development Fee Ordinance. The Borough’s existing ordinance is 
+included. Modifications will be made as needed to comply with any future Round 4 
+requirements.
+Appendix D: Resolutions Appointing the Municipal Housing Liaison and 
+Administrative Agent. 
+Appendix E: Draft Ordinance & Map  – RC Overlay Zone.  
+Appendix F:  Emerson Grand Settlement Agreement
+Appendix G: Spending Plan 
+ 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 39 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 40 =====
+Housing Plan Element and Fair Share Plan – Round 4 
+Borough of Emerson, Bergen County, New Jersey
+ 
+Appendix A: Vacant Land Adjustment Documentation 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 40 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 41 =====
+BER-L-000704-25
+06/20/2025 11:21:14 AM
+Pg 41 of 62
+Trans ID: LCV20251813250
+SETTT
+ae
+8
+|
+|
+SFTP
+TUTTIEEUU
+Te
+TTTTTTTTTTTTITTTTTTT
+EEEEEFEA
+le} | Ele HE
+2|2]2)2)2)2|2|2|
+al | s/s)
+AS
+|
+FERRER EE
+el | ele) |g
+|
+EREREEEE
+e}
+Fels}S)ot3lafe
+Bi
+=|] 2|212] 2] 23}
+BEREREEEH
+Ea
+EEREEREERE
+BREE BEHEE
+Be
+Ste STEVEIEIETEIElEI
+BRCEEEREE
+sf
+Be
+ele teletelclelel tale
+EaeEEAEEE
+Be
+Eee
+eredet te eteteTe eT eIEIEIETEFE EVEETEFEIEVEEFEFEIEETEFEIEVEETEFEIEVEETETEIEIEIECIEIESE
+TEU Ue
+eleletctetetel loll a1eleLVEIS(
+etleleteleleteleletelelel lll vale feel tele telelelt ell tte tae tee telelerr lel relel Meee eR
+HEE eeeEeEEEREL ERE
+FEE Ee EEA ECA AP EAP ERE RFERF EEE RP ERP OPE RFEREEFFAr PE ar Ear EEE
+eTTUITE
+TTT TTT
+|
+TTT
+ITTTTTT
+ERRE
+fl
+EEE ERE RE BEEBE RUBE EER GEPEEGRERRERRREEERE
+gah
+i
+z
+Hh
+|
+EGE
+eEGEEGEEER
+ef
+| fee]
+12/8
+12) eHeh245}
+182243)
+felt
+lets ttele|edetetetetelslalatetekatsl=le]
+fe
+33
+5
+EB
+z
+B
+BEREEEE
+Se
+TTT
+g
+7SO
+TTT
+TTT
+208.
+3]
+BB
+|
+ala]
+8
+eee
+| |NITITTTTTTT
+Hill
+Hill
+oe TE ET
+TE
+ee
+E
+H
+EE
+EI
+H
+et
+Fe)
+(ele
+eke oe EES SERRE EERE EEER EES eee Elekta
+ele
+eked
+letelel |
+(ey Jereve et tel etehe erehel TEI HEI TSIeIEy
+el | | PRET AEI AE ee eee ee eae ARERR Ite Ite tele eis
+Vallala lal lve
+rel lel HSI SEIS EF IsIeIeFEISISITTTTTTSTSTSTIIIII
+ISIS
+AAASTSTE EI IEEE SBE EEE
+SEER EERE RE EE EEE EE REFS EEF ET REE EEE EEEFERR Eee ee ee cee cece e ec EERE RE RER HEEL ERE
+BEE
+Eel ee ele be Ie
+a
+2
+ge ee eee Riese ie rede IPI
+EPI
+eel ei de PIPE PIPE EPI Eee EEE RIB
+EreTSeITSlELe|
+fe) fale Tle
+Stel stele
+V et AV tAEVECEVESTVSIeAHEIeIA
+STVEISTEVEIISHe| releleletele etHlelstate;
+PECeE eee
+ACEAEEY EE EE EEEEELP EEE ERIE EEE BEEE EEE EEE EE AEE BELL EPEEEP ER EEE EEEEECEREREEE EE EIEEBELE
+ARRREREREERERRREREE
+alselte ely
+FRRUFEER
+eet UAE AANA ATAU
+toletstetstel tol YY
+letaletetelstelataletatetstel etoletsleteteletelstaletatetstel etal etetetetelteletaclatel alle
+PeEPCEEE
+EEE EEE EECELEEREEREECEE EEE EREEREEREEREEEFEEFEEREEFEEREEEEEEFEEFEEREEEEEREEER
+FE
+.
+EI
+SEPT ERT
+“a
+PEPPERS Peer
+TEE
+Pree
+Fai
+eA
+a a WONRWAWCERCEEEE
+BeWaE
+Pe TTT TTTPLETETT
+Se
+errr
+TT TT
+TTTTFETT
+
+===== PAGE 42 =====
+BER-L-000704-25
+06/20/2025 11:21:14 AM
+Pg 42 of 62
+Trans ID: LCV20251813250
+alii
+,
+Elli
+Pauli
+alii
+iii
+Pauli
+alll
+cull
+eer
+iiiil
+alii
+ei
+THN
+4
+iii
+
+===== PAGE 43 =====
+BER-L-000704-25
+06/20/2025 11:21:14 AM
+Pg 43 of 62.
+Trans ID: LCV20251813250
+ES
+3
+a8
+P
+f°
+3
+|
+zg
+ze
+<=
+|
+-
+23
+Be
+.
+Pik
+oy
+S
+‘
+U NOUBEE
+i}
+"
+8
+Ge ha ae
+®
+an ae oe a
+si R
+= 5 hee
+AE
+On
+oiieetus
+q
+Bed
+PORE
+Pee
+
+===== PAGE 44 =====
+BER-L-000704-25
+06/20/2025 11:21:14 AM
+Pg 44 of 62
+Trans ID: LCV20251813250
+cS
+>
+ss
+2
+@
+3G
+as
+>
+38
+3
+Ss
+y
+zo
+é
+3 g
+g
+68%
+7
+s<
+B
+BGs
+O¢
+>
+|
+2S
+egies
+g
+38
+eeéss
+¢
+RE
+(
+B28 a:
+Su
+B
+ggegee
+x 2
+:
+SOOO
+a)
+B
+LT a
+ee
+oS
+?
+Qa
+cr
+;
+°
+alin
+~
+a
+<&
+8
+g
+tS 5,,2
+opti...ll
+i.
+§ 5sett
+See Sit
+ray
+x
+geese
+PE
+Ae
+[vine
+g88 8 8
+ASA
+‘5 = s/a—
+55
+"
+SoO00 0080
+ety laa
+UUGHE
+I]
+eS
+HRS
+Bz0°!
+i>
+RE
+Sea
+uitais
+RT
+ste
+Pon
+pole) TT
+=
+
+===== PAGE 45 =====
+BER-L-000704-25
+06/20/2025 11:21:14 AM
+Pg 45of62
+Trans ID: LCV20251813250
+>
+ge
+@
+33
+-
+.
+3
+'
+8
+rd
+a
+:
+g
+ry
+C2
+e
+o =
+$
+=]
+te
+ai 3 ; i
+a8
+;
+BaE5fEE
+&
+gé
+Te
+WwW
+<
+a
+a3
+be
+ig
+24a
+re
+=)
+a)
+8!
+g
+.
+ype
+[Bee
+igr
+h
+Rapa.
+isp
+Qo
+/ Bf
+
+===== PAGE 46 =====
+Housing Plan Element and Fair Share Plan – Round 4 
+Borough of Emerson, Bergen County, New Jersey
+ 
+Appendix B: Affordable Housing Ordinance, Affirmative Marketing Plan, 
+Mandatory Set-Aside Ordinance 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000704-25   06/20/2025 11:21:14 AM   Pg 46 of 62   Trans ID: LCV20251813250 
+
+===== PAGE 47 =====
+BER-L-000704-25
+06/20/2025 11:21:14 AM
+Pg 47 of 62
+Trans ID: LCV20251813250
+_
+BOROUGH OF EMERSON
+.
+COUNTY OF BERGEN
+:
+NOTICE OF ADOPTION
+ORDINANCE
+NO 1567-18
+Introduced: August 14,2018
+Adopted: September 4, 2018
+i
+NOTICE IS HEREBY GIVEN that the following ordinance was adopted on the second reading after a Public
+Hearing at the Regular Meeting of the Borough Council of the Borough of Emerson on the 4th day of September,
+2018. A copy of Ordinance 1567-18 is on file in the Borough Clerk’s Office in the Municipal Building, 1
+/
+Municipal Pi., Emerson, NJ 07630.
+:
+AN ORDINANCE OF THEBOROUGH OF EMERSON,
+|
+COUNTY OF BERGEN, STATE OF NEW JERSEY, REPEALING AND REPLACING CHAPTER 290
+:
+“ZONING”, ARTICLE XI “AFFORDABLE HOUSING REGULATIONS” OF THE REVISED
+|
+GENERAL ORDINANCES OF THE BOROUGH OF EMERSON
+H
+|
+WHEREAS, the Borough of Emerson has a constitutional obligation to create a realistic opportunity for the
+|
+construction of its fair share of the region's need for affordable housing; and
+WHEREAS, the Borough voluntarily brought a timely declaratory judgment action pursuant to the procedures set
+forth by the Supreme Court in In Re Adoption ofN.LA.C. 5:96, 221 N.J. 1 (2015) (“Mt. Laurel IV”) seeking
+approval of a Housing Element and Fair Share Plan that satisfies the Borough’s obligation to provide for its fair
+share of the regional need of low and moderate income housing; and
+WHEREAS, after a Fairness Hearing held on June 20, 2018, by Order dated June 29, 2018, Honorable Gregg
+.
+Padovano approved a settlement agreement between the Borough of Emerson and Fair Share Housing Center; and
+/
+WHEREAS, the 2018 Housing Element and Fair Share Plan pursuant to the Municipal Land Use Law, N.JS.A.
+40:55D-1, et seq., addresses the requirements ofN.J.A.C. 5:93-1, et seq., as amended and supplemented, N.J.A.C.
+:
+5:80-26.1, et seq. as amended and supplemented, and the New Jersey Fair Housing Act of 1985; and
+WHEREAS, the Borough is desirous ofamending and supplementing the Borough Code to implement the above-
+referenced Housing Element and Fair Share Plan, which has been endorsed by the Governing Body, and include
+provisions addressing Emerson’s constitutional obligation to provide for its fair share of low and moderate income
+housing, as directed by the Superior Court and consistent with the Fair Housing Act (N.J.S.A. 52:27D-301, et
+seq.), Uniform Housing Affordability Controls (N.J.A.C. 5:80-26.1, et seq.), and applicable Affordable Housing
+i
+Regulations adopted by COAH and the New Jersey Department of Community Affairs; and
+:
+WHEREAS, this Ordinance is intended to provide assurances that low and moderate income units ("affordable
+:
+units") are created with controls on affordability over time and that low and moderate income households shall
+occupy those units.
+NOW, THEREFORE, BE IT ORDAINED, by the Mayor and Council of the Borough of Emerson, County of
+Bergen, State ofNew Jersey, that:
+.
+Section 1. Chapter 290 “Zoning”, Article XII “Affordable Housing Regulations” of the revised General Ordinances
+of the Borough is hereby repealed and replaced as follows:
+:
+1
+:
+
+===== PAGE 48 =====
+BER-L-000704-25
+06/20/2025 11:21:14AM
+Pg 48 of 62
+Trans ID: LCV20251813250
+Article XH AFFORDABLE H¢
+= jING REGULATIONS
+|
+§ 290-63
+Purpose and Applicability.
+1.
+Purpose. The purpose of this article is to provide a realistic opportunity for the construction of the
+borough’s constitutional obligation to provide for its fair share of affordable housing for households with
+very low, low, and moderate incomes, as directed by the Superior Court and is consistent with the Fair
+Housing Act (N.LS.A. 52:27D-301, et seq.), Uniform Housing Affordability Controls (N.J.A.C. 5:80-
+/
+26.1, et seq.), except where modified by the terms of a Settlement Agreement between the Borough and
+/
+Fair Share Housing Center (FSHC) such that the statutory requirement to provide very low-income units
+i
+equal to 13 percent of affordable units approved and constructed after July 1, 2008, to be affordable to
+|
+households at 30 percent ofthe regional median income, overrides the UHAC requirement that 10 percent
+of all low- and moderate-income units must be affordable at 35 percent of the regional median income,
+|
+and the Borough’s constitutional obligation to provide a fair share of affordable housing for low- and
+|
+moderate-income households.
+2. Applicability. The provisions of this Ordinance shall apply:
+|
+a.
+To ail affordable housing developments and affordable housing units that currently exist within
+|
+the Borough of Emerson.
+/
+b.
+To all affordable housing developments and affordable housing units that are proposed to be
+created pursuant to the Borough of Emerson’s Housing Element and Fair Share Plan; and
+i
+c.
+To all other affordable housing developments and housing units that are created pursuant to actions
+by the Borough of Emerson or its Land Use Board, including projects that may be funded with Low
+Income Housing Tax Credit financing, or projects subject to the mandatory affordable housing set aside
+/
+set forth in Section 13D of this Chapter, which shall comply with the income and bedroom distribution
+requirements of this Ordinance.
+:
+§ 290-63.1 Monitoring Requirements.
+:
+a.
+On the first anniversary of the entry of the Order granting the Borough a Final Judgment of Compliance
+and Repose in IMO Application of the Borough of Emerson, Docket No.: BER-L-6300-15 and every
+:
+anniversary thereafter through the end of2025, the Borough shall provide annual reporting of its Affordable
+Housing Trust Fund activity to the New Jersey Department of Community Affairs, or other entity
+designated by the State ofNew Jersey, with a copy provided to Fair Share Housing Center and posted on
+the municipal website, using forms developed for this purpose by the New Jersey Department of
+/
+Community Affairs.
+The reporting shall include an accounting of all Affordable Housing Trust Fund
+/
+activity, including the source and amount of funds collected and the amount and purpose for which any
+funds have been expended.
+b,
+On the first anniversary of the entry of the Order granting the Borough a Final Judgment of Compliance
+and Repose in IMO Application of the Borough of Emerson, Docket No.: BER-L-6300-15 and every
+anniversary thereafter through the end of 2025, the Borough shall provide annual reporting of the status of
+all affordable housing activity within the municipality through posting on the municipal website, with
+copies provided to Fair Share Housing Center, using forms previously developed for this purpose by the
+Council on Affordable Housing or any other forms endorsed by the Court-appointed Special Master and
+Fair Share Housing Center. Such forms shall be provided to the Borough.
+c.
+For the midpoint realistic opportunity review, due on July 1, 2020, as required pursuant to N.J.S.A. 52:27D-
+313,.the Borough shall post on its municipal website, with copies provided to Fair Share Housing Center,
+a status report as to its implementation of its Plan and an analysis ofwhether any unbuilt sites or unfulfilled
+mechanisms continue to present a realistic opportunity and whether any mechanisms to meet unmet need
+should be revised or supplemented. Such posting shall invite any interested party to submit comments to
+the municipality, with copies provided to Fair Share Housing Center, regarding whether any sites no longer
+present a realistic opportunity and should be replaced and whether any mechanisms to meet unmet need
+/
+should be revised or supplemented.
+:
+
+===== PAGE 49 =====
+BER-L-000704-25
+06/20/2025 11:21:14AM
+Pg 49 of 62
+Trans ID: LCV20251813250
+d.
+For the review of very k
+income housing requirements required by
+TSA, 52:27D-329.1, within 30
+days ofthe third anniversary ofthe entry ofthe Order granting the Borough a Final Judgment ofCompliance
+and Repose in IMO Application ofthe Borough of Emerson, Docket No.: BER-L-6300-15, and every third
+year thereafter, the Borough will post on its municipal website, with copies provided to Fair Share Housing
+Center, a status report as to its satisfaction of its very low income requirements, including the family very
+low income requirements referenced in the Settlement Agreement. Such posting shall invite any interested
+/
+party to submit comments to the municipality, with copies provided to Fair Share Housing Center, on the
+issue ofwhether the municipality has complied with its very low income housing obligation under the terms
+ofthe Settlement Agreement.
+|
+§ 290-63.2 Definitions.
+|
+|
+The following terms when used in this Ordinance shall have the meanings given in this Section:
+|
+ACT
+°
+|
+The Fair Housing Act of 1985, P.L. 1985, c, 222 (N.JI.S.A. 52:27D-301 et seq.)
+j
+ADAPTABLE
+:
+Constructed in compliance with the technical design standards ofthe Barrier Free Subcode, N.J.A.C. 5:23-7.
+|
+ADMINISTRATIVE AGENT
+|
+The entity designated by the Borough to administer affordable units in accordance with this Ordinance, N.J.A.C.
+|
+5:93, and UHAC (N.J.A.C. 5:80-26).
+:
+A tegional marketing strategy designed to attract buyers and/or renters of affordable units pursuant to N.J.A.C.
+|
+5:80-26.15.
+AFFORDABILITY AVERAGE
+|
+The average percentage ofmedian income at which new restricted units in an affordable housing development are
+|
+affordable to low and moderate income households.
+AFFORDABLE
+|
+A sales price or rent level that is within the means of a low or moderate income household as defined within
+N.J.A.C. 5:93-7.4, and, in the case of an ownership unit, that the sales price for the unit conforms to the standards
+|
+set forth in N.J.A.C. 5:80-26.6, as may be amended and supplemented, and, in the case of a rental unit, that the
+rent for the unit conforms to the standards set forth in N.J.A.C. 5:80-26.12, as may be amended and supplemented.
+AFFORDABLE HOUSING DEVELOPMENT
+A development included in or approved pursuant to the Housing Element and Fair Share Plan or otherwise
+intended to address the Borough’s fair share obligation, and includes, but is not limited to, an inclusionary
+development, a municipal construction project or a 100 percent affordable housing development.
+AFFORDABLE HOUSING PROGRAM(S)
+Any mechanism in a municipal Fair Share Plan prepared or implemented to address a municipality’s fair share
+obligation.
+AFFORDABLE UNIT
+A housing unit proposed or created pursuant to the Act and approved for crediting by the Court and/or funded
+through an affordable housing trust fund.
+AGENCY
+The New Jersey Housing and Mortgage Finance Agency established by P.L. 1983, c. 530 (N.J.S.A. 55:14K-1, et
+seq.).
+|
+
+===== PAGE 50 =====
+BER-L-000704-25
+06/20/2025 11:21:14AM
+Pg 50 of 62
+Trans ID: LCV20251813250
+AGE-RESTRICTED UNIT
+;
+j
+A housing unit designed to meet the needs of, and exclusively for, the residents of an age- restricted segment of
+the population such that: 1) all the residents ofthe development wherein the unit is situated are 62 years of age or
+older; or 2) at least 80 percent of the units are occupied by one person who is 55 years of age or older; or 3) the
+development has been designated by the Secretary ofthe U.S. Department ofHousing and Urban Development as
+“housing for older persons” as defined in Section 807(b)(2) of the Fair Housing Act, 42 U.S.C. § 3607.
+ALTERNATIVE LIVING ARRANGEMENTS
+|
+A structure in which households live in distinct bedrooms, yet share kitchen and plumbing facilities, central heat
+and common areas. Alternative living arrangements include, but are not limited to: transitional facilities for the
+|
+homeless; Class A, B, C, D and E boarding homes as regulated by the State of New Jersey Department of
+Community Affairs; residential health care facilities as regulated by the New Jersey Department of Health; group
+homes for the developmentally disabled and mentally ill as licensed and/or regulated by the New Jersey
+|
+Department of Human Services; and congregate living arrangements.
+ASSISTED LIVING RESIDENCE
+|
+A facility that is licensed by theNew Jersey Department ofHealth and Senior Services to provide apartment-style
+|
+housing and congregate dining and to assure that assisted living services are available when needed for four or
+more adult persons unrelated to the proprietor and that offers units containing, at a minimum, one unfurnished
+room, a private bathroom, a kitchenette and a lockable door on the unit entrance.
+CERTIFIED HOUSEHOLD
+|
+A household that has been certified by an Administrative Agent as a low income household or moderate income
+|
+household.
+|
+COAH
+|
+The Council on Affordable Housing, as established by the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301,
+et seq.), or any successor agency charged with the administration of the Act.
+COURT
+The Superior Court ofNew Jersey, Law Division, Somerset County.
+DCA
+The State ofNew Jersey Department of Community Affairs.
+DEFICIENT HOUSING UNIT
+.
+A housing unit with health and safety code violations that requires the repair or replacement of a major system. A
+major system includes weatherization, roofing, plumbing (including wells), heating, electricity, sanitary plumbing
+(including septic systems), lead paint abatement and/or load bearing structural systems.
+DEVELOPER
+Any person, partnership, association, company or corporation that is the legal or beneficial owner or owners of a
+lot or any land included in a proposed development including the holder of an option to contract to purchase, or
+other person having an enforceable proprietary interest in such land.
+DEVELOPMENT
+The division of a parcel of land into two or more parcels, the construction, reconstruction, conversion, structural
+alteration, relocation, or enlargement of any use or change in the use of any building or other structure, or of any
+mining, excavation or landfill, and any use or change in the use of any building or other structure, or land or
+extension of use of land, for which permission may be required pursuant to N.J.S.A. 40:55D-1, et seq.
+:
+FAIR SHARE PLAN
+The plan that describes the mechanisms, strategies and the funding sources, ifany, by which the Borough proposes
+to address its affordable housing obligation as established in the Housing Element, including the draft ordinances
+necessary to implement that plan, and addresses the requirements ofN.J.A.C. 5:93-5.
+4
+Q
+
+===== PAGE 51 =====
+BER-L-000704-25
+06/20/2025 11:21:14AM
+Pg 51 of 62
+Trans ID: LCV20251813250
+HOUSING ELEMENT
+ y
+The portion ofthe Borough’s Master Plan, required by the Municipal Land Use Law (MLUL), N.J.S.A. 40:55D-
+28b(3) and the Act, that includes the information required by N.J.A.C. 5:93-5.1 and establishes the Borough’s fair
+share obligation.
+INCLUSIONARY DEVELOPMENT
+A development containing both affordable units and market rate units. This term includes, but is not limited to:
+new construction, the conversion ofa non-residential structure to residential use and the creation ofnew affordable
+/
+units through the gut rehabilitation or reconstruction of a vacant residential structure.
+LOW INCOME HOUSEHOLD
+|
+A household with a total gross annual household income equal to 50 percent or less of the regional median
+i
+household income by household size.
+|
+LOW INCOME UNIT
+A restricted unit that is affordable to a low income household.
+|
+MAJOR SYSTEM
+!
+The primary structural, mechanical, plumbing, electrical, fire protection, or occupant service components of a
+building which include but are not limited to, weatherization, roofing, plumbing (including wells), heating,
+electricity, sanitary plumbing (including septic systems), lead paint abatement and load bearing structural systems.
+MARKET-RATE UNITS
+Housing not restricted to low and moderate income households that may sell or rent at any price.
+MEDIAN INCOME
+The median income by household size for the applicable housing region, as adopted annually by COAH or a
+successor entity approved by the Court.
+MODERATE INCOME HOUSEHOLD
+A household with a total gross annual household income in excess of 50 percent but less than 80 percent of the
+regional median household income by household size.
+MODERATE INCOME UNIT
+A restricted unit that is affordable to a moderate income household.
+MUNICIPAL HOUSING LIAISON
+The employee charged by the governing body with the responsibility for oversight and administration of the
+affordable housing program for Emerson and such other duties as set forth in §57-59 ofthe Code ofthe Borough of
+Emerson.
+NON-EXEMPT SALE
+Any sale or transfer of ownership other than the transfer of ownership between husband and wife; the transfer of
+ownership between former spouses ordered as a result of a judicial decree of divorce or judicial separation, but
+.
+not including sales to third parties; the transfer of ownership between family members as a result of inheritance,
+the transfer of ownership through an executor’s deed to a class A beneficiary and the transfer of ownership by
+court order,
+RANDOM SELECTION PROCESS
+A process by which currently income-eligible households are selected for placement in affordable housing units
+such that no preference is given to one applicant over another except for purposes of matching household income
+and size with an appropriately priced and sized affordable unit (e.g., by lottery).
+5
+/
+
+===== PAGE 52 =====
+BER-L-000704-25
+06/20/2025 11:21:14AM
+Pg 52of62
+Trans ID: LCV20251813250
+REGIONAL ASSET LIMIT
+The maximum housing value in each housing region affordable to a four-person household with an income at 80
+percent ofthe regional median as defined by duly adopted Regional Income Limits published annually by COAH
+or a successor entity.
+REHABILITATION
+:
+The repair, renovation, alteration or reconstruction of any building or structure, pursuant to the Rehabilitation
+Subcode, N.LA.C. 5:23-6.
+|
+The gross monthly cost ofa rental unit to the tenant, including the rent paid to the landlord, as well as an allowance
+for tenant-paid utilities computed in accordance with allowances published by DCA for its Section 8 program. In
+|
+assisted living residences, rent does not include charges for food and services.
+|
+RESTRICTED UNIT
+i
+|
+A dwelling unit, whether a rental unit or an ownership unit, that is subject to the affordability controls ofN.J.A.C.
+|
+5:80-26.1, as amended and supplemented, but does not include a market-rate unit financed under UHORP or
+The Uniform Housing Affordability Controls set forth in N.J.A.C. 5:80-26, et seq.
+VERY LOW INCOME HOUSEHOLD
+|
+A household with a total gross annual household income equal to 30 percent or less of the
+regional median household income by household size.
+VERY LOW INCOME UNIT
+A restricted unit that is affordable to a very low income household.
+WEATHERIZATION
+:
+Building insulation (for attic, exterior walls and crawl space), siding to improve energy efficiency, replacement
+storm windows, replacement storm doors, replacement windows and replacement doors, and is considered a major
+system for purposes of a rehabilitation program.
+§ 290-63.3 Applicability.
+a.
+The provisions of this Ordinance shall apply to all affordable housing developments and affordable
+housing units that currently exist and that are proposed to be created within the Borough of Emerson
+pursuant to the Borough’s most recently adopted Housing Element and Fair Share Plan.
+b.
+Moreover, this Ordinance shall apply to all developments that contain low and moderate income housing
+units, including any currently anticipated future developments that will provide low and moderate income
+housing units.
+
+===== PAGE 53 =====
+BER-L-000704-25
+06/20/2025 11:21:14AM
+Pg 53 of 62
+Trans ID: LCV20251813250
+§ 290-63.4 Rehabilitation prog
+A.
+\
+a.
+Emerson’s rehabilitation program shall be designed to renovate deficient housing units occupied by low
+and moderate income households such that, after rehabilitation, these units will comply with the New Jersey
+State Housing Code pursuant to N.LA.C, 5:28,
+b.
+Both owner-occupied and renter-occupied units shall be eligible for rehabilitation funds.
+c.
+All rehabilitated units shall remain affordable to low and moderate income households for a period of 10
+/
+years (the control period). For owner-occupied units the control period will be enforced with a lien and for
+renter-occupied units the control period will be enforced with a deed restriction.
+|
+d.
+The Borough shall dedicate a minimum of $10,000 in hard costs for each unit to be rehabilitated through
+this program.
+e. The Borough shail adopt a resolution committing to fund any shortfall in the rehabilitation program.
+:
+f.
+The Borough shall designate, subject to the approval of the Court, one or more Administrative Agents to
+|
+administer the rehabilitation program in accordance with N.J.A.C. 5:93. The Administrative Agent(s) shall
+|
+provide a rehabilitation manual forthe owner occupancy rehabilitation program and a rehabilitation manual
+|
+for the rental occupancy rehabilitation program to be adopted by resolution of the governing body and
+subject to approval ofthe Court. Both rehabilitation manuals shall be available for public inspection in the
+Office ofthe Municipal Clerk and in the office(s) of the Administrative Agent(s).
+|
+g.
+Units in a rehabilitation program shall be exempt from the Uniform Housing Affordability Controls
+(UHAC), but shall be administered in accordance with the following:
+|
+i.
+If a unit is vacant, upon initial rental subsequent to rehabilitation, or if a renter-occupied unit is
+re-rented prior to the end of controls on affordability, the deed restriction shall require the unit
+to be rented to a low or moderate income household at an affordable rent and affirmatively
+marketed pursuant to N.J.A.C. 5:93-11 and UHAC.
+ii.
+Ifa unit is renter-occupied, upon completion ofthe rehabilitation, the maximum rate of rent shall
+be the lesser of the current rent or the maximum permitted rent pursuant to UHAC.
+ili.
+Rents in rehabilitated units may increase annually based on the standards per this ordinance.
+iv.
+Applicant and/or tenant households shall be certified as income-eligible in accordance with
+UBAC, except that households in owner occupied units shall be exempt from the regional asset
+:
+limit.
+|
+§ 290-63.5 Alternative Living Arrangements.
+a.
+The administration of an alternative living arrangement shall be in compliance with N.J.A.C. 5:93-5.8 and
+UHAC, with the following exceptions:
+1.
+Affirmative marketing (N.J.A.C. 5:80-26.15), provided, however, that the units or bedrooms may be
+affirmatively marketed by the provider in accordance with an alternative plan approved by the Court.
+2.
+Affordability average and bedroom distribution (N.J.A.C. 5:80-26.3).
+b.
+With the exception of units established with capital funding through a 20-year operating contract with the
+Department of Human Services, Division of Developmental Disabilities, alternative living arrangements
+shall have at least 30 year controls on affordability in accordance with UHAC, unless an alternative
+commitment is approved by the Court.
+1.
+The service provider for the alternative living arrangement shall act as the Administrative Agent for
+the purposes of administering the affirmative marketing and affordability requirements for the
+alternative living arrangement.
+7
+
+===== PAGE 54 =====
+BER-L-000704-25
+06/20/2025 11:21:14AM
+Pg 54 of 62
+Trans ID: LCV20251813250
+§ 290-64
+Inclusionary Development.
+Purpose. This section sets forth the requirements applicable to low- and moderate-income housing units, where
+such units are required to be provided as part of either an inclusionary development in the R-MF-AH Zone, the
+MFRAH North Zone or the MFRAH South Zone; a 100% affordable senior housing project developed as a
+conditional use in the R-7.5 Zone; or a development subject to the Affordable Housing Overlay Zone Set Aside.
+§ 290-64 .1
+Phasing Schedule for Inclusionary Zoning.
+|
+a.
+In inclusionary developments the following schedule shall be followed:
+|
+rf
+Maximum Percentage of Market-
+Minimum Percentage ofLow and
+i
+Rate Units Completed
+Moderate Income Units Completed
+|
+25
+9
+2541
+10
+50
+50
+|
+75
+715
+|
+90
+100
+b.
+No initial occupancy of a low- or moderate-income housing sales unit shall be permitted prior to issuance
+;
+of a certificate of occupancy, and no certificate of occupancy for initial occupancy of a low- or moderate-
+income housing unit shall be issued unless there is a written determination by the Administrative Agent
+that the unit is to be controlled by a deed restriction and mortgage lien as required by UHAC.
+c.
+A certificate of reoccupancy for any occupancy of a low- or moderate-income housing sales unit resulting
+from a resale shall be required, and the Borough shall not issue such certificate unless there is a written
+determination by the Administrative Agent that the unit is to be controlled by a deed restriction and
+mortgage lien as required by UHAC,
+d.
+The certificate of reoccupancy shall not be required where there is a written determination by the
+Administrative Agent that controls are allowed to expire or that the repayment option is being exercised
+pursuant to N.J.A.C, 5:93-9.8-12.3
+§ 290-64.2
+Fractional Units; Payment-in-Lieus.
+a.
+Fractional Units. Inclusionary developments that result in an affordable housing obligation that is
+fractional shall either round up and provide the additional affordable unit or provide a payment-in-lieu for
+the fractional amount.
+b.
+Payment-in-lieu. The payment-in-lieu amount for Emerson shall be calculated based on pro formas on
+file. To calculate the payment-in-lieu the developer shall multiply the fraction by the payment.
+8
+
+===== PAGE 55 =====
+BER-L-000704-25
+06/20/2025 11:21:14AM
+Pg 55 of 62
+Trans ID: LCV20251813250
+§ 290-64.3 New Construction.
+:
+3
+a.
+Low/Moderate Split and Bedroom Distribution of Affordable Housing Units:
+1.
+The fair share obligation shall be divided equally between low and moderate income units, except that
+:
+where there is an odd number of affordable housing units, the extra unit shall be a low income unit.
+/
+At least 13 percent of all restricted rental units shall be very low income units (affordable to a
+household earning 30 percent or less ofmedian income). The very low income units shall be counted
+as part ofthe required number of low income units within the development.
+2, At least 25 percent ofthe obligation shall be met through rental units, including at least half in rental
+|
+units available to families
+:
+3. A maximum of 25 percent ofthe Borough's obligation may be met with age restricted units. At least
+half of all affordable units in the Borough's Plan shall be non-restricted.
+4,
+In each affordable development, at least 50 percent of the restricted units within each bedroom
+|
+distribution shall be low income units.
+/
+5. Affordable developments that are not age-restricted shall be structured in conjunction with realistic
+|
+market demands such that:
+(a) The combined number ofefficiency and one-bedroom units shall be no greater than 20 percent of
+|
+the total low and moderate income units;
+(b) At least 30 percent of all low and moderate income units shall be two bedroom units;
+|
+(c) At least 20 percent of all low and moderate income units shall be three bedroom units; and
+|
+(d) The remaining units may be allocated among two and three bedroom units at the discretion ofthe
+|
+developer.
+6.
+Affordable developments that are age-restricted shall be structured such that the number ofbedrooms
+shall equal the number of age-restricted low and moderate income units within the inclusionary
+:
+development. This standard may be met by having all one-bedroom units or by having a two-bedroom
+unit for each efficiency unit.
+b.
+Accessibility Requirements
+|
+1. The first floor of all restricted townhouse dwelling units and all restricted units in all other multi-story
+|
+buildings shall be subject to the technical design standards of the Barrier Free SubCode, N.J.A.C.
+5:23-7,
+/
+2.
+Allrestricted townhouse dwelling units and all restricted units in other multi-story buildings in which
+a restricted dwelling unit is attached to at least one other dwelling unit shall have the following
+features:
+|
+(a) An adaptable toilet and bathing facility on the first floor; and
+(b) An adaptable kitchen on the first floor; and
+(c) An interior accessible route of travel on the first floor, and
+(d) An adaptable room that can be used as a bedroom, with a door or casing for the installation of a
+door, on the first floor; and
+(e) If not all of the foregoing requirements in 2.(a) through 2.(d) can be satisfied, then an interior
+accessible route of travel must be provided between stories within an individual unit, but if all of
+the terms of paragraphs 2.(a) through 2.(d) above have been satisfied, then an interior accessible
+route of travel shall not be required between stories within an individual unit; and
+
+===== PAGE 56 =====
+BER-L-000704-25
+06/20/2025 11:21:14AM
+Pg 56 of 62
+Trans ID: LCV20251813250
+(f) An accessible e.
+aceway as set forth at P.L. 2005, 6. 350¢
+)S.A. 52:27D-31 1a, et seq.) and
+the Barrier Free SubCode, N.J.A.C. 5:23-7, or evidence that Emerson has collected funds from
+the developer sufficient to make 10 percent of the adaptable entrances in the development
+accessible:
+(1) Where a unit has been constructed with an adaptable entrance, upon the request of a person
+with disabilities who is purchasing or will reside in the dwelling unit, an accessible entrance
+shall be installed.
+(2) To this end, the builder ofrestricted units shall deposit funds within the Borough ofEmerson’s
+|
+Affordable Housing Trust Fund sufficient to install accessible entrances in 10 percent of the
+|
+affordable units that have been constructed with adaptable entrances.
+|
+(3) The funds deposited under paragraph (f)(2) above shall be used by the Borough of Emerson
+:
+for the sole purpose ofmaking the adaptable entrance of an affordable unit accessible when
+|
+requested to do so by a person with a disability who occupies or intends to occupy the unit
+and requires an accessible entrance.
+|
+(4) The developer of the restricted units shall submit a design plan and cost estimate to the
+|
+Construction Official ofthe Borough ofEmerson for the conversion ofadaptable to accessible
+entrances.
+i
+(5) Once the Construction Official has determined that the design plan to convert the unit
+|
+entrances from adaptable to accessible meet the requirements of the Barrier Free SubCode,
+|
+N.J.A.C, 5:23-7, and that the cost estimate of such conversion is reasonable, payment shall
+|
+be made to the Borough's Affordable Housing Trust Fund in care of the Borough Chief
+Financial Officer who shall ensure that the funds are deposited into the Affordable Housing
+Trust Fund and appropriately earmarked.
+(6) Full compliance with the foregoing provisions shall not be required where an entity can
+|
+demonstrate that it is “site impracticable” to meet the requirements. Determinations of site
+impracticability shall be in compliance with the Barrier Free SubCode, N.J.A.C. 5:23-7.
+/
+c.
+Design.
+1.
+In inclusionary developments, to the extent possible, low and moderate income units shall be
+integrated with the market units,
+2.
+In inclusionary developments, low and moderate income units shail have access to all of the same
+:
+common elements and facilities as the market units.
+d.
+Maximum Rents and Sales Prices.
+1.
+In establishing rents and sales prices of affordable housing units, the Administrative Agent shall
+follow the procedures set forth in UHAC and by the Superior Court, utilizing the regional income
+i
+limits established.
+2.
+The maximum rent for restricted rental units within each affordable development shall be affordable
+to households earning no more than 60 percent of median income, and the average rent for restricted
+rental units shall be affordable to households earning no more than 52 percent ofmedian income.
+:
+3.
+The developers and/or municipal sponsors of restricted rental units shall establish at least one rent for
+each bedroom type for both low income and moderate income units, provided that at least 13 percent
+of all low and moderate income rental units shall be affordable to very low income households,
+earning 30 percent or less ofthe regional median household income, with such very low income units
+counted towards the low income housing requirement.
+10
+
+===== PAGE 57 =====
+BER-L-000704-25
+06/20/2025 11:21:14AM
+Pg 57 of 62
+Trans ID: LCV20251813250
+4.
+The maximum sales,
+2 of restricted ownership units within eac
+\fordable development shall be
+affordable to households earning no more than 70 percent of median income, and each affordable
+development must achieve an affordability average of 55 percent for restricted ownership units; in
+achieving this affordability average, moderate income ownership units must be available for at least
+three different sales prices for each bedroom type, and low income ownership units must be available
+for at least two different sales prices for each bedroom type.
+:
+5.
+In determining the initial sales prices and rent levels for compliance with the affordability average
+i
+requirements for restricted units other than assisted living facilities and age-restricted developments,
+:
+the following standards shall be used:
+i
+(a) A studio shall be affordable to a one-person household;
+|
+i
+(b) A one-bedroom unit shall be affordable to a one and one-half person household;
+|
+(c) A two-bedroom unit shall be affordable to a three-person household;
+(d) A three-bedroom unit shall be affordable to a four and one-half person household; and
+(e) A four-bedroom unit shall be affordable to a six-person household.
+|
+6.
+In determining the initial sales prices and rents for compliance with the affordability average
+requirements for restricted units in assisted living facilities and age-restricted developments, the
+following standards shall be used:
+|
+j
+(a) A studio shall be affordable to a one-person household;
+(b) A one-bedroom unit shall be affordable to a one and one-half person household; and
+/
+(c) A two-bedroom unit shall be affordable to a two-person household or two one-person households.
+7.
+The initial purchase price for all restricted ownership units shall be calculated so that the monthly
+carrying cost ofthe unit, including principal and interest (based on a mortgage loan equal to 95 percent
+of the purchase price and the Federal Reserve H.15 rate of interest), taxes, homeowner and private
+mortgage insurance and condominium or homeowner association fees do not exceed 28 percent of the
+eligible monthly income of the appropriate size household as determined under N.J.A.C. 5:80-26.4,
+as may be amended and supplemented; provided, however, that the price shall be subject to the
+affordability average requirement ofN.J.A.C. 5:80-26.3, as may be amended and supplemented.
+8.
+The initial rent for a restricted rental unit shall be calculated so as not to exceed 30 percent of the
+eligible monthly income of the appropriate size household, including an allowance for tenant paid
+utilities, as determined under N.J.A.C. 5:80-26.4, as may be amended and supplemented; provided,
+however, that the rent shall be subject to the affordability average requirement ofN.J.A.C. 5:80-26.3,
+as may be amended and supplemented.
+9.
+The price of owner-occupied low and moderate income units may increase annually based on the
+/
+percentage increase in the regional median income limit for each housing region. In no event shall the
+maximum resale price established by the Administrative Agent be lower than the last recorded
+purchase price. Income limits for all units for which income limits are not already established through
+a federal program exempted from UHAC pursuant to N.J.A.C. 5:80-26.1 shall be updated by the
+Borough annually within 30 days of the publication of determinations of median income by HUD as
+follows:
+li
+
+===== PAGE 58 =====
+BER-L-000704-25
+06/20/2025 11:21:14AM
+Pg 58 of 62
+Trans ID: LCV20251813250
+(a)
+jional income limits shall be establishe
+jr the Region
+I based on the
+median income by household size, which shall be established by a regional
+weighted average of the uncapped Section 8 income limits published by HUD.
+To compute this regional income limit, the HUD determination of median
+county income for a family of four is multiplied by the estimated households
+within the county according to the most recent decennial Census. The resulting
+product for each county within the housing region is summed. The sum is
+divided by the estimated total households from the most recent decennial Census
+|
+in Region 1. This quotient represents the regional weighted average of median
+income for a household of four. The income limit for a moderate-income unit
+for a household of four shall be 80 percent of the regional weighted average
+|
+median income for a family of four. The income limit for a low-income unit for
+i
+a household offour shall be 50 percent ofthe HUD determination ofthe regional
+weighted average median income for a family of four. The income limit for a
+very low-income unit for a household of four shall be 30 percent ofthe regional
+i
+weighted average median income for a family four. These income limits shall
+i
+be adjusted by household size based on multipliers used by HUD to adjust
+|
+median income by household size. In no event shall the income limits be less
+:
+than those for the previous year.
+(b)
+The income limits calculated each year shall be the result of applying the
+|
+percentages set forth in paragraph (a) above to HUD’s determination ofmedian
+/
+income for the relevant fiscal year, and shall be utilized until the Borough
+updates the income limits after HUD has published revised determinations of
+median income for the next fiscal year.
+:
+(c)
+The Regional Asset Limit used in determining an applicant’s eligibility for
+affordable housing pursuant to N.J.A.C. 5:80-26.16(b)3 shall be calculated by
+:
+the Borough annually by taking the percentage increase of the income limits
+calculated pursuant to paragraph (a) above over the previous year’s income
+limits, and applying the same percentage increase to the Regional Asset Limit
+from the prior year. In no event shall the Regional Asset Limit be less than that
+for the previous year.
+-
+10. The rent of very low, low and moderate income units may be increased annually based on the
+permitted percentage increase in the Housing Consumer Price Index for the United States (Northeast
+.
+Urban Area). This increase shall not exceed nine percent in any one year. Rents for units constructed
+:
+pursuant to low income housing tax credit regulations shall be indexed pursuant to the regulations
+governing low income housing tax credits.
+i
+§290-64.4
+Utilities.
+a.
+Affordable units shall utilize the same type of heating source as market units within an inclusionary
+:
+development.
+b.
+Tenant-paid utilities included in the utility allowance shall be set forth in the lease and shall be consistent
+with the utility allowance approved by the U.S. Department of Housing and Urban Development for use in
+New Jersey.
+12
+/
+
+===== PAGE 59 =====
+BER-L-000704-25
+06/20/2025 11:21:14AM
+Pg 59 of 62
+Trans ID: LCV20251813250
+§290-64.5
+Occupancy Standa.
+|
+)
+a.
+In referring certified households to specific restricted units, the Administrative Agent shall, to the extent
+feasible and without causing an undue delay in the occupancy of a unit, strive to:
+1.
+Provide an occupant for each bedroom;
+2.
+Provide children of different sexes with separate bedrooms;
+3.
+Provide separate bedrooms for parents and children; and
+_
+4. Prevent more than two persons from occupying a single bedroom.
+|
+b.
+Additional provisions related to occupancy standards (if any) shall be provided in the municipal Operating
+|
+Manual.
+|
+§290-65
+Controls on Affordability; Affirmative Marketing
+|
+|
+Purpose. This section is intended to implement the provisions of Subchapter 9 ofthe COAH regulations, N.J.A.C.
+|
+5:93-9.17 and N.J.A.C. 5:80-26, which establish regulations designed to provide assurance that low- and
+moderate-income housing units will remain affordable over time; as well as Subchapter 11 ofthe COAH
+regulations, N.J.A.C. 5:93-11. It applies to all new developments in Emerson that contain proposed low- and
+moderate-income housing units
+/
+§290-65.1 Control Periods for Restricted Ownership Units and Enforcement Measures.
+a.
+Control periods for restricted ownership units shall be in accordance with N.J.A.C. 5:80- 26.5, as may be
+amended and supplemented, and each restricted ownership unit shall remain subject to the requirements of
+this Ordinance for a period of at least thirty (30) years, until the Borough takes action to release the unit
+from such requirements; prior to such action, a restricted ownership unit shall remain subject to the
+requirements ofN.J.A.C. 5:80-26.1, as may be amended and supplemented.
+b,
+Rehabilitated owner-occupied housing units that are improved to code standards shall be subject to
+affordability controls for a period of 10 years.
+c.
+The affordability control period for a restricted ownership unit shall commence on the date the initial
+certified household takes title to the unit.
+d.
+Prior to the issuance of the initial certificate of occupancy for a restricted ownership unit and upon each
+|
+successive sale during the period of restricted ownership, the Administrative Agent shall determine the
+restricted price for the unit and shall also determine the non-restricted, fair market value of the unit based
+on either an appraisal or the unit’s equalized assessed value without the restrictions in place.
+e,
+Atthe time ofthe initial sale ofthe unit, the initial purchaser shall execute and deliver to the Administrative
+Agent a recapture note obligating the purchaser (as well as the purchaser’s heirs, successors and assigns) to
+repay, upon the first non-exempt sale after the unit’s release from the restrictions set forth in this Ordinance,
+an amount equal to the difference between the unit’s non-restricted fair market value and its restricted price,
+and the recapture note shall be secured by a recapture lien evidenced by a duly recorded mortgage on the
+unit.
+f.
+The affordability controls set forth in this Ordinance shall remain in effect despite the entry and enforcement
+of any judgment of foreclosure with respect to restricted ownership units.
+g. A restricted ownership unit shall be required to obtain a Continuing Certificate of Occupancy or a certified
+statement from the Construction Official stating that the unit meets all Code standards upon the first transfer
+of title following the removal ofthe restrictions provided under N.J.A.C. 5:80-26.5(a), as may be amended
+and supplemented.
+13
+
+===== PAGE 60 =====
+BER-L-000704-25
+06/20/2025 11:21:14AM
+Pg 60 of 62
+Trans ID: LCV20251813250
+§290-65.2
+Price Restrictions for Restricted Ownership Units, Homeowner Association Fees and Resale
+Prices.
+a.
+Price restrictions for restricted ownership units shall be in accordance with N.J.A.C. 5:80- 26.1, as may be
+amended and supplemented, including:
+1. The initial purchase price for a restricted ownership unit shall be approved by the Administrative Agent.
+|
+2. The Administrative Agent shall approve all resale prices, in writing and in advance of the resale, to
+|
+assure compliance with the foregoing standards.
+'
+3. The master deeds ofinclusionary developments shall provide no distinction between the condominium
+|
+or homeowner association fees and special assessments paid by low and moderate income purchasers
+and those paid by market purchasers
+|
+4,
+The owners of restricted ownership units may apply to the Administrative Agent to increase the
+maximum sales price for the unit on the basis of anticipated capital improvements. Eligible capital
+improvements shall be those that render the unit suitable for a larger household or the addition of a
+j
+bathroom. See §290-65.5.
+|
+§290-65.3 Buyer Income Eligibility.
+|
+a. Buyer income eligibility for restricted ownership units shall be in accordance with N.J.A.C. 5:80-26.1, as
+|
+may be amended and supplemented, such that low income ownership units shall be reserved for households
+with a gross household income less than or equal to 50 percent of median income and moderate income
+ownership units shall be reserved for households with a gross household income less than 80 percent of
+median income.
+b.
+Notwithstanding the foregoing, however, the Administrative Agent may, upon approval by the Mayor and
+Council, and subject to the Court's approval, permit moderate income purchasers to buy low income units
+in housing markets ifthe Administrative Agent determines that there are an insufficient number of eligible
+:
+low income purchasers to permit prompt occupancy of the units. All such low income units to be sold to
+:
+moderate income households shall retain the required pricing and pricing restrictions for low income units.
+c.
+Acertified household that purchases a restricted ownership unit must occupy it as the certified household’s
+|
+principal residence and shall not lease the unit; provided, however, that the Administrative Agent may
+/
+permit the owner of a restricted ownership unit, upon application and a showing of hardship, to lease the
+restricted unit to another certified household for a period not to exceed one year.
+d.
+The Administrative Agent shall certify a household as eligible for a restricted ownership unit when the
+household is a low income household or a moderate income household, as applicable to the unit, and the
+estimated monthly housing cost for the particular unit (including principal, interest, taxes, homeowner and
+private mortgage insurance and condominium or homeowner association fees, as applicable) does not
+exceed 33 percent ofthe household’s eligible monthly income.
+§290-65.4
+Limitations on Indebtedness Secured by Ownership Unit; Subordination.
+a.
+Prior to incurring any indebtedness to be secured by a restricted ownership unit, the owner shall apply to
+the Administrative Agent for a determination in writing that the proposed indebtedness complies with the
+provisions of this Section, and the Administrative Agent shall issue such determination prior to the owner
+incurring such indebtedness.
+b.
+With the exception of First Purchase Money Mortgages, neither an owner nor a lender shall at any time
+cause or permit the total indebtedness secured by a restricted ownership unit to exceed 95 percent of the
+maximum allowable resale price of the unit, as such price is determined by the Administrative Agent in
+accordance with N.J.A.C.5:80-26.6(b).
+14
+
+===== PAGE 61 =====
+BER-L-000704-25
+06/20/2025 11:21:14AM
+Pg 61 of 62
+Trans ID: LCV20251813250
+j
+)
+§290-65.5
+Capital bmprovements to Ownership Units.
+a.
+The owners of restricted ownership units may apply to the Administrative Agent to increase the maximum
+/
+sales price for the unit on the basis of capital improvements made since the purchase of the unit. Eligible
+capital improvements shall be those that render the unit suitable for a larger household or that adds an
+additional bathroom. In no event shall the maximum sales price of an improved housing unit exceed the
+limits of affordability for the larger household.
+b. Upon the resale ofa restricted ownership unit, all items ofproperty that are permanently affixed to the unit
+|
+or were included when the unit was initially restricted (e.g. refrigerator, range, washer, dryer, dishwasher,
+|
+wall-to-wall carpeting) shall be included in the maximum allowable resale price. Other items may be sold
+:
+to the purchaser at a reasonable price that has been approved by the Administrative Agent at the time ofthe
+|
+signing of the agreement to purchase. The purchase of central air conditioning installed subsequent to the
+initial sale ofthe unit and not included in the base price may be made a condition ofthe unit resale provided
+the price, which shall be subject to 10-year, straight- line depreciation, and has been approved by the
+Administrative Agent. Unless otherwise approved by the Administrative Agent, the purchase of any
+property other than central air conditioning shall not be made a condition ofthe unit resale. The owner and
+|
+the purchaser must personally certify at the time of closing that no unapproved transfer of funds for the
+|
+purpose of selling and receiving property has taken place at the time of or as a condition of resale.
+§290-65.6 Control Periods for Restricted Units.
+|
+a.
+Control periods for restricted rental units shall be in accordance with N.J.A.C. 5:80- 26.11, as may be
+amended and supplemented, and each restricted rental unit shall remain subject to the requirements ofthis
+|
+Ordinance for a period of at least 30 years, until the Borough takes action to release the unit from such
+requirements. Prior to such action, a restricted rental unit shall remain subject to the requirements of
+N.LA.C. 5:80-26.1, as may be amended and supplemented.
+1.
+Restricted rental units created as part of developments receiving nine percent (9%) Low Income
+|
+Housing Tax Credits must comply with a control period of not less than a 30-year compliance period
+plus a 15-year extended use period.
+|
+b.
+Rehabilitated renter-occupied housing units that are improved to code standards shall be subject to
+|
+affordability controls for a period of 10 years.
+|
+c.
+Deeds of all real property that include restricted rental units shall contain deed restriction language. The
+|
+deed restriction shall have priority over all mortgages on the property, and the deed restriction shail be filed
+by the developer or seller with the records office of the County ofBergen. The deed shall also identify each
+affordable unit by apartment number and/or address and whether that unit is designated as a very low, low
+or moderate income unit. Neither the unit nor its affordability designation shall change throughout the term
+of the deed restriction. A copy ofthe filed document shall be provided to the Administrative Agent within
+30 days of the receipt of a Certificate of Occupancy.
+d. A
+restricted rental unit shall remain subject to the affordability controls of this Ordinance despite the
+occurrence of any of the following events:
+1.
+Sublease or assignment of the lease of the unit;
+2.
+Sale or other voluntary transfer ofthe ownership ofthe unit; or
+3.
+The entry and enforcement of any judgement of foreclosure on the property containing the unit.
+
+===== PAGE 62 =====
+BER-L-000704-25
+06/20/2025 11:21:14AM
+Pg 62 of 62
+Trans ID: LCV20251813250
+§290-65.7 Rent Restrictions f
+sental Units; Leases.
+}
+a. A written lease shall be required for all restricted rental units and tenants shall be responsible for security
+deposits and the full amount of the rent as stated on the lease. A copy of the current lease for each restricted
+rental unit shall be provided to the Administrative Agent.
+b. No additional fees or charges shall be added to the approved rent (except, in the case of units in an assisted
+/
+living residence, to cover the customary charges for food and services) without the express written approval
+of the Administrative Agent.
+c. Application fees (including the charge for any credit check) shall not exceed five percent ofthe monthly
+|
+rent of the applicable restricted unit and shall be payable to the Administrative Agent to be applied to the
+:
+costs of administering the controls applicable to the unit as set forth in this Ordinance.
+|
+d. No rent control ordinance or other pricing restriction shall be applicable to either the market units or the
+|
+affordable units in any development in which at least 15 percent of the total number of dwelling units are
+restricted rental units in compliance with this Ordinance.
+a
+i
+§290-65.8
+Tenant Income Eligibility.
+,
+|
+a,
+Tenant income eligibility shall be in accordance with NJ.A.C. 5:80-26.13, as may be amended and
+supplemented, and shall be determined as follows:
+1.
+Very low income rental units shall be reserved for households with a gross household income less than
+|
+or equal to 30 percent of median income.
+|
+2.
+Low income rental units shall be reserved for households with a gross household income less than or
+equal to 50 percent of median income.
+3.
+Moderate income rental units shall be reserved for households with a gross household income less than
+80 percent ofmedian income.
+b.
+The Administrative Agent shall certify a household as eligible for a restricted rental unit when the household
+/
+is a very low income household, low income household or a moderate income household, as applicable to
+the unit, and the rent proposed for the unit does not exceed 35 percent (40 percent for age-restricted units)
+of the household’s eligible monthly income as determined pursuant to N.J.A.C. 5:80-26.16, as may be
+amended and supplemented; provided, however, that this limit may be exceeded if one or more of the
+following circumstances exists:
+1, The household currently pays more than 35 percent (40 percent for households eligible for age-
+|
+restricted units) of its gross household income for rent, and the proposed rent will reduce its housing
+|
+costs;
+2.
+The household has consistently paid more than 35 percent (40 percent for households eligible for age-
+restricted units) of eligible monthly income for rent in the past and has proven its ability to pay;
+3.
+The household is currently in substandard or overcrowded living conditions;
+4.
+The household documents the existence of assets with which the household proposes to supplement the
+rent payments; or
+5.
+The household documents reliable anticipated third-party assistance from an outside source such as a
+family member in a form acceptable to the Administrative Agent and the owner of the unit.
+¢.
+The applicant shall file documentation sufficient to establish the existence of the circumstances in 1.a.
+through 2.e. above with the Administrative Agent, who shall counsel the household on budgeting.
+16
+|

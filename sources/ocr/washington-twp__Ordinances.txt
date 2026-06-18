@@ -1,0 +1,2749 @@
+
+===== PAGE 1 =====
+March 17, 2026
+Via e-courts
+Honorable Gregg A. Padovano, J.S.C.
+Affordable Housing Dispute Resolution Program
+Richard J. Hughes Justice Complex
+25 Market Street, P.O. Box 37
+Trenton, New Jersey 08625
+RE:
+In the matter of the Application of the Township of Washington, a Municipal
+Corporation of the State of New Jersey
+Docket No.: BER-L-000669-25
+Dear Judge Padovano:
+The undersigned is the Director of Law of the Township of Washington. Pursuant to the
+FHA and Directive #14-24 of the Program, enclosed herewith please find the following:
+1.
+ORDINANCE NO. 26-01, AN ORDINANCE AMENDING CHAPTER 540,
+ARTICLE XXI ENTITLED “AFFORDABLE HOUSING” AND ARTICLE XXII ENTITLED
+“MANDATORY AFFORDABLE
+HOUSING
+SET-ASIDE”,
+OF
+THE
+CODE
+OF THE
+TOWNSHIP OF WASHINTON.
+2.
+ORDINANCE NO.
+26-02, AN ORDINANCE OF THE TOWNSHIP OF
+WASHINGTON, BERGEN COUNTY, NEW JERSEY, AMENDING CHAPTER 580, ZONING,
+OF THE TOWNSHIP CODE BY CREATING NEW AH-1 and AH-2 AFFORDABLE HOUSING
+DISTRICTS TO PERMIT INCLUSIONARY TOWNHOUSE DEVELOPMENT ON BLOCK
+2329 LOT 2 AND BLOCK 2110 LOT
+1 AND LOTS 6-11, INCREASE THE PERMITTED
+RESIDENTIAL DENSITY ON BLOCK 3202.01 LOT
+3 AND AMEND THE REQUIRED
+AFFORDABLE HOUSING SET-ASIDE FOR BLOCK 3405 LOT 1 INACCORDANCE WITH
+THE TOWNSHIP'S HOUSING ELEMENT AND FAIR SHARE PLAN.
+3.
+ORDINANCE NO. 26-03, AN ORDINANCE AMENDING CHAPTER 513
+ENTITLED “DEVELOPMENT FEES” OF THE ORDINANCES OF THE TOWNSHIP OF
+WASHINGTON.
+
+===== PAGE 2 =====
+Siobhan Spillane Bailey
+SSB/srm
+Enclosures
+
+===== PAGE 3 =====
+AN
+ORDINANCE
+AMENDING
+CHAPTER
+540,
+ARTICLE
+XXI
+ENTITLED
+“AFFORDABLE
+HOUSING”
+AND
+ARTICLE
+XXII
+ENTITLED
+“MANDATORY
+AFFORDABLE HOUSING SET-ASIDE”, OF THE CODE OF THE TOWNSHIP OF
+WASHINGTON
+NOW, THEREFORE, BE IT ORDAINED by the Mayor and Council of the
+Township of Washington, in the County of Bergen, and State of New Jersey as follows:
+Section 1. Chapter 540, Article XXI, entitled “Affordable Housing”, and Chapter 540,
+Article XXII entitled “Mandatory Affordable Housing Set-Aside”, of the Code of the
+Township of Washington are hereby deleted in their entirety and replaced with the
+following.
+Article XXI Affordable Housing
+§ 540-110 Purpose, Applicability & Interpretation
+This
+Chapter
+sets
+forth
+regulations
+regarding the
+creation,
+use, occupancy,
+administration and preservation of very low-, low- and moderate-income affordable
+housing units in the Township of Washington consistent with the Mount Laurel
+doctrine; the New Jersey Fair Housing Act, as amended by P.L. 2024, c.2, N.J.S.A.
+52:27D-301
+et seq.,
+(hereinafter the “Act,” “FHA” or FHA-2”);
+the regulations
+promulgated pursuant thereto by the New Jersey Department of Community Affairs,
+Division of Local Planning Services (“LPS”) at N.J.A.C. 5:99 et seq., (“Affordable
+Housing Rules”), and the Housing and Mortgage Finance Agency’s (HMFA) Uniform
+Housing Affordability Controls at N.J.A.C. 5:80-26.1 et seq.; and the municipality’s
+Fourth Round Housing Element and Fair Share Plan (“HEFSP’).
+This Chapter is intended to ensure that very low-, low- and moderate-income units
+(“affordable units”) are created with controls on affordability over time and that very
+low-, low- and moderate-income households shall occupy these units in accordance
+with applicable statutory and regulatory requirements. This Chapter shall apply to
+all inclusionary developments, individual affordable units, and 100% affordable
+housing developments except where inconsistent with applicable law.
+Low-Income
+Housing Tax Credit-financed developments shall adhere to the provisions set forth
+below in Section 114C below.
+The Township of Washington Planning Board has adopted a HEFSP pursuant to the
+Municipal Land Use Law at N.J.S.A. 40:55D-1, et seq. The Fair Share Plan describes
+the ways the municipality shall address its fair share of very low-, low- and moderate-
+income housing as approved by the Superior Court and documented in the Housing
+Element.
+1[Page
+Township Ordinance
+No.
+26-01
+
+===== PAGE 4 =====
+Except where specifically exempted hereinafter, the provisions of this Chapter shall
+apply to all affordable housing developments and affordable housing units that
+currently exist and that are proposed to be created pursuant to the municipality’s
+most recently adopted HEFSP.
+Except where specifically exempted hereinafter,
+this Chapter shall apply to
+all
+developments that contain very low-, low- and moderate-income housing units
+included in the Municipal HEFSP, as well as any unanticipated future development
+or redevelopment projects that will include, are proposed to provide or required by
+the municipality to provide very low-, low- and moderate-income housing units.
+Projects receiving federal Low Income Housing Tax Credit financing shall be required
+to follow the UHAC unless exempt pursuant to N.J.A.C. 5:80-26.1, including but not
+limited to developments with anticipated funding from the Federal Low-Income
+Housing Tax Credit (LIHTC) pursuant to Section 42 of the Internal Revenue Code.
+Developers, landlords and program sponsors shall be required to comply with
+administration and
+affirmative marketing of the
+affordable
+units within such
+developments.
+A waiver from any provision of this Chapter may be granted by the County-level
+Mount Laurel Judge, the Program or any trial court if it would advance the interests
+of low-and moderate-income households or if strict compliance would cause an
+unreasonable result.
+Interpretation
+In the event of any ambiguity, the provisions of this Chapter shall be interpreted and
+liberally construed in favor of the Municipality.
+For any subject matter that is not otherwise addressed hereinafter, or is not otherwise
+covered by the Act, the Affordable Housing Rules or the UHAC, the Municipality may
+rely upon the provisions of COAH’s prior round regulations at N.J.A.C. 5:93 and 5:97
+that were deemed valid by binding Court precedent and that are most favorable to
+the municipality.
+The provisions of the Mount Laurel doctrine; the Act; the regulations promulgated
+pursuant thereto by the
+New Jersey Department of Community Affairs, LPS; the
+Affordable Housing Rules; the HMFA Uniform Housing Affordability Controls at
+N.J.A.C. 5:80-26.1 et seq.; and the municipality’s Fourth Round HEFSP, as set forth
+in Subsection A 1 above, shall supersede and take precedence over the provisions of
+this Chapter.
+:
+2|Page Township Ordinance No. 26-01
+:
+
+===== PAGE 5 =====
+Affordability Controls at N.J.A.C. 5:80-26.1 et seq.; or the municipality’s Fourth
+Round HEFSP, as set forth in Subsection A above.
+§540-11 Definitions
+As used herein the following terms shall have the following meanings:
+“Accessory apartments” means a residential dwelling unit that provides complete
+independent living facilities with a private entrance
+for one or more persons,
+consisting of provisions for living, sleeping, eating, sanitation, and cooking, including
+a stove and refrigerator, and is located within a proposed preexisting primary
+dwelling, within an existing or proposed structure that is an accessory to a dwelling
+on the same lot, constructed in whole or part as an extension to a proposed or existing
+primary dwelling, or constructed as a separate detached structure on the same lot as
+the existing or proposed primary dwelling. Accessory apartments are also referred to
+as “accessory dwelling units”.
+“Act” means P.L. 2024, c. 2.
+“Adaptable” means constructed in compliance with the technical design standards of
+the barrier free subcode adopted by the Commissioner of Community Affairs
+pursuant to the “State Uniform Construction Code Act,” P.L.1975, c. 217 (C.52:27D-
+119 et seq.) and in accordance with the provisions of section 5 of P.L.2005, c. 350
+(C.52:27D-123.15).
+“Administrative agent” means the entity approved by the Division responsible for the
+administration of affordable units, in accordance with N.J.A.C. 5:99-7, and UHAC at
+N.J.A.C. 5:80-26.15.
+“Affirmative marketing” means a regional marketing strategy designed to attract
+buyers and/or renters of affordable units pursuant to N.J.A.C. 5:80-26.16.
+“Affirmative Marketing Plan” means the municipally adopted plan of strategies from
+which the administrative agent will choose to implement as part of the Affirmative
+Marketing requirements.
+“Affirmative Marketing Process” or “Program” means the actual undertaking of
+Affirmative Marketing activities in furtherance of each project with very low- low- and
+moderate-income units.
+“Affordability assistance” means the use of funds to render housing units more
+affordable to low- and moderate-income households and includes, but is not limited
+to, down payment assistance, security deposit assistance, low interest loans, rental
+3| Page Township Ordinance No. 26-01
+
+===== PAGE 6 =====
+at which restricted units in an affordable development are affordable to low- and
+moderate-income households.
+“Affordable” means, in the case of an ownership unit, that the sales price for the unit
+conforms to the standards set forth at N.J.A.C. 5:80-26.7 and, in the case of a rental
+unit, that the rent for the unit conforms to the standards set forth at N.J.A.C. 5:80-
+26.13.
+"Affordable housing delivery mechanisms" means any of the methods of creating or
+preserving actual housing units available to low- and moderate-income households
+or creating a realistic opportunity for the construction of such units, as permitted by
+the Act.
+“Affordable housing development” means a development included in a municipality’s
+housing element and fair share plan, and includes, but is not limited to, an
+inclusionary development, a municipally sponsored affordable housing project, or a
+100 percent affordable development.
+“Affordable Housing Dispute Resolution Program” or “the Program” refers to the
+dispute resolution program established pursuant to N.J.S.A. 52:27D-313.2.
+“Affordable Housing Monitoring System” or “AHMS’” means the Department’s cloud-
+based software application, which shall be the central repository for municipalities to
+use for reporting detailed information regarding affordable housing developments,
+affordable housing unit completions, and the collection and expenditures of funds
+deposited into the municipal affordable housing trust fund.
+“Affordable Housing Trust Fund” or “AHTF” means that non-lapsing, revolving trust
+fund established in DCA pursuant to N.J.S.A. 52:27D-320 and N.J.A.C. 5:43 to be
+the repository of all State funds appropriated for affordable housing purposes. All
+references
+to the “Neighborhood Preservation Nonlapsing Revolving Fund” and
+“Balanced Housing” mean the AHTF.
+“Affordable unit” means a housing unit proposed or developed pursuant to the Act,
+including units created with municipal affordable housing trust funds.
+“Age-restricted housing” means a housing unit that is designed to meet the needs of,
+and is exclusively for, an age-restricted segment of the population such that: 1. All
+the residents of the development where the unit is situated are 62 years or older; 2.
+At least 80 percent of the units are occupied by one person that is 55 years or older;
+or 3. The development has been designated by the Secretary of HUD as “housing for
+older persons” as defined in Section 807(b)(2) of the Fair Housing Act, 42 U.S.C. §
+3607.
+4[Page Township Ordinance No. 26-01
+
+===== PAGE 7 =====
+unrelated
+to the proprietor. Apartment units must
+offer,
+at a minimum, one
+unfurnished room, a private bathroom, a kitchenette, and a lockable door on the unit
+entrance.
+“Barrier-free escrow” means the holding of funds collected to adapt affordable unit
+entrances to be accessible in accordance with N.J.S.A. 52:27D-31lla et seq. Such
+funds shall be held in a municipal affordable housing trust fund pursuant to N.J.A.C.
+5:99-2.6.
+“Builder’s remedy” means court-imposed site-specific relief for a litigant who seeks to
+build affordable housing for which the court requires a municipality to utilize zoning
+techniques, such as mandatory set-asides or density bonuses, including techniques
+which provide for the economic viability of a residential development by including
+housing that is not for low- and moderate-income households in accordance with
+N.J.S.A. 52:27D-304.
+“Certified household” means a household that has been certified by an administrative
+agent as a very-low-income household, a low-income household, or a moderate-
+income household.
+“CHOICE” means the no-longer-active Choices in Homeownership Incentives for
+Everyone Program, as it was authorized by the Agency.
+“COAH” or the “Council” means the Council on Affordable Housing established in,
+but not of, DCA pursuant to the Act and that was abolished effective March 20, 2024,
+pursuant to section 3 at P.L. 2024, c. 2 (N.J.S.A. 52:27D-304.1).
+“Commissioner” means the Commissioner of the Department of Community Affairs.
+“Compliance certification” means the certification issued to a municipality by the
+Program pursuant to section 3 of P.L.2024,
+c.
+2, that provides a municipality
+immunity from exclusionary zoning litigation during the current round of present and
+prospective need and through July 1 of the year the next round begins, which is also
+known as a “judgment of compliance” resulting in an “order for repose.” “Compliance
+certification” shall include a judgment of repose granted in an action filed pursuant
+to section 13 of P.L.1985, c. 222 (C.52:27D-313).
+"Compliant municipality" means a municipality that is in the process of seeking
+compliance certification pursuant to the directives issued by the Administrative Office
+of the Courts, has obtained compliance certification, or who has filed for, or has
+obtained, a Judgment of Compliance, Order for Repose, or other court approval
+pursuant to the Act.
+5|Page Township Ordinance No.
+26-01
+:
+
+===== PAGE 8 =====
+“County-level housing judge” means a judge appointed pursuant to section 5 at P.L.
+2024, c. 2, to resolve disputes over the compliance of municipal fair share affordable
+housing obligations and municipal Fair Share plans and housing elements with the
+Act.
+“DCA” and “Department” mean the State of New Jersey Department of Community
+Affairs.
+“Deficient housing unit” means a housing unit with health and safety code violations
+that require the repair or replacement of a major system. A major system includes
+weatherization,
+roofing, plumbing (including wells), heating, electricity, sanitary
+plumbing (including septic systems), lead paint abatement and/or load bearing
+structural systems.
+“Department” means the New Jersey Department of Community Affairs.
+“Developer” means the legal or beneficial owner or owners ofa lot or of any land
+proposed to be included in a proposed development, including the holder of an option
+or contract to purchase, or other person having an enforceable proprietary interest
+in such land.
+“Development” means the division of a parcel of land into two or more parcels, the
+construction,
+reconstruction,
+conversion,
+structural
+alteration,
+relocation,
+or
+enlargement of any building or other structure, or of any mining, excavation, or
+landfill, and any use or change in the use of any building or other structure, or land
+or extension of use of land, for which permission may be required pursuant to the
+Municipal Land Use Law, N.J.S.A. 40:55D-1 et seq.
+"Development
+application" means
+the
+application
+form and
+all accompanying
+documents required by ordinance for approval of a subdivision plat, a site plan,
+planned development, conditional use, zoning variance, or direction of the issuance
+of a permit pursuant to N.J.S.A. 40:55D-34 or 40:55D-36.
+“Development
+fee”? means money paid by a developer for the improvement of
+residential and non-residential property as permitted pursuant to N.J.S.A. 52:27D-
+329.2 and 40:55D-8.1 through 40:55D-8.7 and N.J.A.C. 5:99-3.
+“Dispute Resolution Program” means the Affordable Housing Dispute Resolution
+Program, established pursuant to section 5 at P.L. 2024, c. 2 (N.J.S.A. 52:27D-313.2).
+“Division” means the Division of Local Planning Services within the Department of
+Community Affairs.
+6|Page Township
+Ordinance
+No.
+26-01
+
+===== PAGE 9 =====
+the property is situated, as determined in accordance with sections 1, 5, and 6 at P.L.
+1973, c. 123 (N.J.S.A. 54:1-35a, 54:1-35b,and 54:1-35c). Estimates at the time of
+building permit may be obtained by the tax assessor using construction cost
+estimates. Final EAV shall be determined at project completion by the municipal
+assessor.
+“Equity share amount” means the product of the price differential and the equity
+share, with the equity share being the whole number of years that have elapsed since
+the last non-exempt sale of a restricted ownership unit, divided by 100, except that
+the equity share may not be less than five percent and may not exceed 30 percent.
+“Excess RCA funds" means unspent money transferred prior to July 17, 2008,
+pursuant to a regional contribution agreement whose terms have been fulfilled.
+“Exit sale” means the first authorized non-exempt sale of a restricted unit following
+the end of the control period, which sale terminates the affordability controls on the
+unit.
+“Exclusionary zoning litigation” means litigation challenging the fair share plan,
+housing element, ordinances, or resolutions that implement the fair share plan or
+housing element of a municipality based on alleged noncompliance with the Act or
+the Mount Laurel doctrine, which litigation shall include, but shall not be limited to,
+litigation seeking a builder’s remedy.
+“Extension of expiring controls” means extending the deed restriction period on units
+where the controls will expire in the current round of a housing obligation, so that
+the total years of a deed restriction is at least 60 years.
+“Fair share obligation” means the total of the present need and prospective need as
+determined by the Affordable Housing Dispute Resolution Program, or a court of
+competent jurisdiction.
+“Fair share plan” means the plan or proposal, which may readily be adopted with
+accompanying ordinances and resolutions, pursuant to subsection f. of section 3 at
+P.L. 2024, c. 2 (N.J.S.A. 52:27D-304.1) by which a municipality proposes to satisfy
+its obligation to create a realistic opportunity to meet its fair share of low- and
+moderate-income housing needs of its region and which details the affirmative
+measures the municipality proposes to undertake to achieve its fair share of low- and
+moderate-income housing, as provided in the municipal housing element, and
+addresses the development regulations necessary to implement the housing element,
+including, but not limited to, inclusionary requirements and development fees, and
+7|Page Township Ordinance
+No. 26-01
+
+===== PAGE 10 =====
+municipality with a third party, sufficient proof of building or other permits, efforts
+concerning land acquisition or project development, or other documentation that
+demonstrates a commitment to spend trust fund monies in a manner consistent with
+the Act, the municipality's fair share plan, the Act, an approved spending plan, and
+all applicable regulations.
+“Green Building Strategies” means the strategies that minimize the impact of
+development on the environment, and enhance the health, safety and well-being of
+residents by producing durable, low-maintenance, resource-efficient housing while
+making optimum use of existing infrastructure and community services.
+“HMFA’ or “the Agency” means the New Jersey Housing and Mortgage Finance Agency
+established pursuant to P.L. 1983, c. 530 (N.J.S.A. 55:14K-1 et seq.).
+“Household income” means a household’s gross annual income calculated in a
+manner consistent with the determination of annual income pursuant to section 8 of
+the United States Housing Act of 1937 (Section 8), not in accordance with the
+determination of gross income for Federal income tax liability.
+“Housing element” means the portion of a municipality’s master plan adopted in
+accordance with the Municipal Land Use Law (MLUL) at N.J.S.A. 40:55D-28.b(3) and
+the Act consisting of reports, statements proposals, maps, diagrams, and text
+designed to meet the municipality’s fair share of its region’s present and prospective
+housing needs, particularly with regard to low- and moderate-income housing, which
+shall include the municipal present and prospective obligation for affordable housing,
+determined pursuant to subsection f. at N.J.S.A. 52:27D-304.1.
+"Housing project" means a project, or distinct portion of a project, which is designed
+and intended to provide decent, safe, and sanitary dwellings, apartments, or other
+living accommodations for persons of low- and moderate-income; such work or
+undertaking may include buildings, land, equipment, facilities, and other real or
+personal property for necessary, convenient, or desirable appurtenances, streets,
+sewers, water service, parks, site preparation, gardening, administrative, community,
+health, recreational, educational, welfare, or other purposes. The term "housing
+project" may also be applied to the planning of the buildings and improvements, the
+acquisition of property, the demolition of existing structures, the construction,
+reconstruction, alteration, and repair of the improvements, and all other work in
+connection therewith.
+“Housing region” means a geographic area established pursuant to N.J.S.A. 52:27D-
+304.2 for each round of low- and moderate-income housing obligations pursuant to
+the Act.
+8| Page Township Ordinance
+No.
+26-01
+
+===== PAGE 11 =====
+“Low-income household” means a household with a household income equal to 50
+percent or less of the regional median income.
+"Low-income
+housing"
+means
+housing
+affordable
+according
+to
+the
+Federal
+Department of Housing and Urban Development or other recognized standards for
+home ownership and rental costs and occupied or reserved for occupancy by
+households with a gross household income equal to 50 percent or less of the median
+gross household income for households of the same size within the housing region in
+which the housing is located.
+“Low-income unit” means a
+restricted
+unit that
+is affordable
+to a low-income
+household.
+“Major system” means the primary structural, mechanical, plumbing, electrical, fire
+protection, or occupant service components of a building which include but are not
+limited to, weatherization, roofing, plumbing (including wells), heating, electricity,
+sanitary plumbing (including septic systems), lead paint abatement or load bearing
+structural systems.
+“Mixed use development” means any development that includes both a non-
+residential development component anda residential development component, and
+shall include developments for which: (1) there is
+a common developer for both the
+residential development component and the non-residential development component,
+provided that for purposes of this definition, multiple persons and entities maybe
+considered a common developer if there is a contractual relationship among them
+obligating each entity to develop at least a portion of the residential or non-residential
+development, or both, or otherwise to contribute resources to the development; and
+(2) the residential and non-residential developments are located on the same lot or
+adjoining lots, including, but not limited to, lots separated by a street, a river, or
+another geographical feature.
+“Moderate-income household” means a household with a household income in excess
+of 50 percent but less than or equal to 80 percent of the regional median income.
+"Moderate-income housing" means housing affordable according to the Federal
+Department of Housing and Urban Development or other recognized standards for
+home ownership and rental costs and occupied or reserved for occupancy by
+households with a gross household income equal to more than 50 percent but less
+than 80 percent of the median gross household income for households of the same
+size within the housing region in which the housing is located.
+9|Page Township Ordinance
+No.
+26-01
+
+===== PAGE 12 =====
+is responsible for oversight and/or administration of the affordable units created
+within the municipality and oversight of the authorization of individuals being
+provided access to the AHMS.
+“Municipal
+affordable housing
+trust fund” means a separate,
+interest-bearing
+account held by a municipality for the deposit of development fees, payments in lieu
+of constructing affordable units on sites zoned for affordable housing, barrier-free
+escrow funds, recapture funds, proceeds from the sale of affordable units, rental
+income, repayments from affordable housing program loans, enforcement fines,
+unexpended RCA funds remaining from.a completed RCA project, application fees,
+and any other funds collected by the municipality in connection with its affordable
+housing programs, which shall be used to address municipal low- and moderate-
+income housing obligations within the time frames established by the Legislature and
+this chapter. As used in this chapter, "municipal affordable housing trust fund" shall
+also mean a "municipal development trust fund" and a "municipal development fee
+Trust fund."
+“Municipal development fee ordinance” means an ordinance adopted by the governing
+body of a municipality that authorizes the collection of development fees.
+“New construction” means the creation of a new housing unit under regulation by a
+code enforcement official regardless of the means by which the unit is created. Newly
+constructed units are evidenced by the issuance of a certificate of occupancy and
+may include new residences created through additions and alterations, adaptive
+reuse, subdivision, or conversion of existing space, and moving a structure from one
+location to another.
+“New Jersey Affordable Housing Trust Fund” means an account established pursuant
+to N.J.S.A. 52:27D-320.
+“New Jersey Housing Resource Center” or “Housing Resource Center” means the
+online affordable housing listing portal, or its successor, overseen by the Agency
+pursuant to N.J.S.A. 52:27D-321.3 et seq.
+“95/5 restriction” means a deed restriction governing a restricted ownership unit that
+is part of a housing element that received substantive certification from COAH
+pursuant to N.J.A.C. 5:93, as it was in effect at the time of the receipt of substantive
+certification, before October
+1, 2001, or any other deed restriction governing a
+restricted ownership unit with a seller repayment option requiring 95 percent of the
+price differential to be paid to the municipality or an instrument of the municipality
+at the closing of a sale at market price.
+10
+| Page Township Ordinance
+No.
+26-01
+
+===== PAGE 13 =====
+executor’s deed to a class A beneficiary; and the transfer of ownership by court order.
+“Nonprofit” means an organization granted nonprofit status in accordance with
+section 501(c)(3) of the Internal Revenue Code.
+“Non-residential development” means:
+Any building or structure, or portion thereof, including, but not limited to, any
+appurtenant improvements, which
+is designated to a use group other than a
+residential use group according to the State Uniform Construction Code, N.J.A.C.
+5:23, promulgated to effectuate the State uniform Construction Code Act, N.J.S.A.
+52:27D-119 et seq., including any subsequent amendments or revisions thereto;
+Hotels, motels, vacation timeshares, and child-care facilities; and
+The entirety of all continuing care facilities within a continuing care retirement
+community which
+is
+subject
+to
+the Continuing Care Retirement Community
+Regulation and Financial Disclosure Act, N.J.S.A.52:27D-330 et seq.
+“Non-residential development fee” means the fee authorized to be imposed pursuant
+to N.J.S.A. 40:55D-8.1 through 40:55D-8.7.
+“Order for repose” means the protection a municipality has from a builder’s remedy
+lawsuit for a period of time from the entry ofajudgment ofcompliance by the Superior
+Court. A judgment of compliance often results in an order for repose.
+“Payment in lieu of constructing affordable units” means the prior approval of the
+payment of funds to the municipality by a developer when affordable units are not
+produced ona site zoned for an inclusionary development.
+“Prospective need” means a projection of housing needs based on development and
+growth which is reasonably likely to occur in a region or a municipality, as the case
+may be, as a result of actual determination of public and private entities. Prospective
+need shall be determined by the methodology set forth pursuant to sections 6 and 7
+of P.L.2024, c. 2 (C.52:27D-304.2 and C.52:27D-304.3) for the fourth round and all
+future rounds of housing obligations.
+“Qualified Urban Aid Municipality” means a municipality that meets the criteria
+established pursuant to N.J.S.A. 52:27D-304.3.c(1).
+“Person with a disability” means a person with a physical disability, infirmity,
+malformation, or disfigurement which is caused by bodily injury, birth defect, aging,
+or illness including epilepsy and other seizure disorders, and which shall include,
+but not be limited
+to, any degree of paralysis, amputation, lack of physical
+11 [Page Township Ordinance
+No. 26-01
+
+===== PAGE 14 =====
+sale, the price differential is the difference between the controlled sale price of a
+restricted unit and the appraised value of the unit as if it were not subject to UHAC,
+determined as of the date of the appraisal. If the controlled sale price exceeds the
+contract price or, in the absence of a contract price, the appraised value, the price
+differential is zero dollars.
+“Prior round unit” means a housing unit that addresses a municipality’s fair share
+obligation from a round prior to the fourth round of affordable housing obligations,
+including any unit that: (1) received substantive certification from COAH; (2) is part
+of a third-round settlement agreement orjudgment of compliance approved by a court
+of competent jurisdiction, inclusive of units created pursuant to a zoning designation
+adopted as part of the settlement agreement or judgment of compliance to create a
+realistic opportunity for development; (3) is subject to a grant agreement or other
+contract with either the State or a political subdivision thereof entered into prior to
+July 1, 2025, pursuant to either item (1) or (2) above; or (4) otherwise addresses a
+municipality’s
+fair share obligation from a round prior to the fourth round of
+affordable housing obligations. A unit created after the enactment of P.L. 2024, c. 2
+(N.J.S.A. 52:27D-304.1) on March 20, 2024, is not a prior round unit unless: (1) it is
+created pursuant to a prior round development plan or zoning designation that
+received COAH or court approval on or before the cutoff date of June 30, 2025, or the
+date that the municipality adopts the implementing ordinances and resolutions for
+the fourth round of affordable housing obligations, whichever occurs sooner; and (2)
+its siting and creation are consistent with the form of the prior round development
+plan or zoning designation in effect as of the cutoff date, without any amendment or
+variance.
+“Program” means the Affordable Housing Dispute Resolution Program, established
+pursuant to section 5 of P.L.2024, c. 2 (C.52:27D-313.2).
+“Random selection process” means a lottery process by which currently income-
+eligible applicant-households are selected, at random, for placement in affordable
+housing units such that no preference is given to one applicant over another, except
+in the case of a veterans’ preference where such an agreement exists; for purposes of
+matching household income and
+size with an appropriately priced and sized
+affordable unit; or another purpose allowed pursuant to N.J.A.C. 5:80-26.7(k)3. This
+definition excludes any practices that would allow affordable housing units to be
+leased or sold ona first-come, first-served basis.
+“RCA administrator” means an appointed municipal employee who is responsible for
+oversight and/or administration of affordable units and associated revenues and
+12| Page Township Ordinance
+No.
+26-01
+
+===== PAGE 15 =====
+“Receiving municipality” means, for the purposes of an RCA, a municipality that
+contractually agreed
+to assume a portion of another municipality’s
+fair share
+obligation.
+“Reconstruction” means any project where the extent and nature of the work is such
+that the work area cannot be occupied while the work is in progress and where a new
+certificate of occupancy is required before the work area can be reoccupied, pursuant
+to the Rehabilitation Subcode of the uniform Construction Code, N.J.A.C. 5:23-6.
+Reconstruction shall not include projects comprised only of floor finish replacement,
+painting or wallpapering, or the replacement of equipment or furnishings. Asbestos
+hazard abatement and lead hazard abatement projects shall not be classified as
+reconstruction solely because occupancy of the work area is not permitted.
+“Recreational
+facilities and community centers’ means any indoor or outdoor
+buildings,
+spaces,
+structures,
+or improvements intended
+for active or passive
+recreation, including, but not limited to, ballfields, meeting halls, and classrooms,
+accommodating either organized or informal activity.
+:
+“Regional
+contribution
+agreement”
+or “RCA” means
+a
+contractual agreement,
+pursuant to the Act, into which two municipalities voluntarily entered into prior to
+July 18, 2008, to transfer a portion of a municipality’s affordable housing obligation
+to another municipality within its housing region.
+“Regional median income” means the median income by household size for an
+applicable housing region, as calculated annually in accordance with N.J.A.C. 5:80-
+26.3.
+“Rehabilitation” means the repair, renovation, alteration, or reconstruction of any
+building or structure, pursuant to the Rehabilitation Subcode, N.J.A.C. 5:23-6.
+“Rent” means the gross monthly cost of a rental unit to the tenant, including the rent
+paid to the landlord, as well as an allowance for tenant-paid utilities computed in
+accordance with allowances published by DCA for its Section 8 program. With respect
+to units in assisted living residences, rent does not include charges for food and
+services.
+“Residential development fee” means money paid by a developer for the improvement
+of residential property as permitted pursuant to N.J.S.A. 52:27D-329.2 and N.J.A.C.
+5:99-3.2.
+“Restricted unit” means a dwelling unit, whether a rental unit or ownership unit, that
+is subject to the affordability controls of this subchapter but does not include a
+market-rate unit that was financed pursuant to UHORP, MONI, or CHOICE.
+13
+| Page Township Ordinance No. 26-01
+
+===== PAGE 16 =====
+“Spending plan” means a method of allocating funds contained in an affordable
+housing trust fund account, which includes, but is not limited to, development fees
+collected and to be collected pursuant to an approved municipal development fee
+ordinance, or pursuant to N.J.S.A. 52:27D-329.1 et seq., for the purpose of meeting
+the housing needs of low- and moderate-income individuals.
+“State Development and Redevelopment Plan” or “State Plan” means the plan
+prepared pursuant to sections 1 through 12 of the “State Planning Act,” P.L.1985, c.
+398 (C.52:18A-196 et al.), designed to represent a balance of development and
+conservation objectives best suited to meet the needs of the State, and for the purpose
+of coordinating planning activities and establishing Statewide planning objectives in
+the areas of land use, housing, economic development, transportation, natural
+resource conservation, agriculture and farmland retention, recreation, urban and
+suburban redevelopment, historic preservation, public facilities and services, and
+intergovernmental coordination pursuant to subsection f. of section 5 of P.L.1985, c.
+398 (C.52:18A-200).
+“Supportive housing household” means a very
+low-,
+low-
+or moderate-income
+household certified as income eligible by an administrative agent in accordance with
+N.J.A.C. 5:80-26.14, in which at least one member is an individual who requires
+supportive services to maintain housing stability and independent living and who is
+part of a population identified by federal or state statute, regulation, or program
+guidance as eligible for supportive or special needs housing. Such populations
+include, but are not limited to: persons with intellectual or developmental disabilities,
+persons with serious mental illness, person with head injuries (as defined in Section
+2 of P.L.
+1977), persons with physical disabilities or chronic health conditions,
+persons who are homeless as defined by the U.S. Department of Housing and Urban
+Development at 24 C.F.R. Part 578, survivors of domestic violence, youth aging out
+of foster care, and other special needs populations recognized under programs
+administered by the U.S. Department of Housing and Urban Development, the Low-
+Income Housing Tax Credit Program, the McKinney-Vento Act, or the New Jersey
+Department of Human Services. A supportive housing household may include family
+members, unrelated individuals, or live-in aides, provided that the household meets
+the income eligibility requirements of this subchapter, except that in the case of
+unrelated individuals not operating as a family unit, income eligibility shall be tested
+on an individual basis rather than in the aggregate; the unit is leased or sold subject
+to the affordability controls established herein; and the supportive services available
+to the household are designed to promote housing stability, independent living, and
+community integration. The determination of whether unrelated individuals are
+14|[Page Township Ordinance
+No.
+26-01
+
+===== PAGE 17 =====
+34:1B-21.24, that is affordable to very low-, low- or moderate-income households and
+is reserved for occupancy by a supportive housing household. Supportive housing
+units are also referred to as permanent supportive housing units.
+“Transitional housing” means temporary housing that: (1) includes, but is not limited
+to,
+single-room
+occupancy
+housing
+or
+shared
+living
+and
+supportive
+living
+arrangements; (2) provides access to on-site or off-site supportive services for very
+low-income households who have recently been homeless or lack stable housing; (3)
+is licensed by the department; and (4) allows households to remain for
+a minimum of
+six months.
+“Treasurer” means the Treasurer of the State of New Jersey.
+“UHAC’ means the Uniform Housing Affordability Controls set forth at N.J.A.C. 5:80-
+26.
+“UHORP” means the Agency’s Urban Homeownership Recovery Program, as it was
+authorized by the Agency Board.
+“Unit type” means type of dwelling unit with various building standards including but
+not limited to single-family detached, single-family attached/townhouse, stacked
+townhouse (attached building containing 2 units each with separate entrances),
+duplex (detached building containing 2 units each with separate entrances), triplex
+(3 units each with separate entrance), quadplex (4 units each with separate entrance),
+multifamily / flat (2 or more units with a shared entrance). Inclusion of a garage, or
+not, shall not define the unit type.
+“Very-low-income household” means a household with a household income less than
+or equal to 30 percent of the regional median income.
+“Very-low-income housing” means housing affordable according to the Federal
+Department of Housing and Urban Development or other recognized standards for
+home ownership and rental costs and occupied or reserved for occupancy by
+households with a gross household income equal to 30 percent or less of the median
+gross household income for households of the same size within the housing region in
+which the housing is located.
+“Very-low-income unit” meansa restricted unit that is affordable to a very-low-income
+household.
+“Veteran” means a veteran as defined at N.J.S.A. 54:4-8.10.
+“Veterans’ preference” means the agreement between a municipality and a developer
+or residential development owner that allows for low- to moderate-income veterans to
+15| Page Township Ordinance
+No. 26-01
+:
+
+===== PAGE 18 =====
+§ 540-112 Monitoring and Report Requirements
+The
+municipality
+shall
+comply
+with
+the
+following
+monitoring
+and
+reporting
+requirements regarding the status of the implementation of its court-approved
+Housing Element and Fair Share Plan:
+The municipality shall provide electronic monitoring data with the Department
+pursuant to P.L 2024, Chapter 2 and N.J.A.C. 5:99 through the Affordable Housing
+Monitoring System (AHMS). All monitoring information required to be made public by
+the
+FHA
+shall
+be
+available
+to
+the
+public
+on
+the
+Department’s
+website
+at
+https: //www.ni.gov/dca/dlps/hss/MuniStatusReporting.shtml.
+On or before February 15 of each year, the municipality shall provide annual
+reporting of its municipal Affordable Housing Trust Fund activity to the Department
+on the AHMS portal. The reporting shall include an accounting of all municipal
+Affordable Housing Trust Fund activity, including the sources and amounts of funds
+collected and the amounts and purposes for which any funds have been expended,
+for the previous year from January 1st to December 31st.
+On or before February 15 of each year, the annual reporting of the status of all
+affordable housing activity shall be provided to the Department on the AHMS portal,
+for the previous year from January 1st to December 31st.
+§ 540-113 Municipality-wide Mandatory Set-Aside
+A development, other than single-family family detached, providing a minimum of five
+new housing units created through any municipal rezoning or Zoning Board action,
+use or density variance, redevelopment plan, or rehabilitation plan that provides for
+densities at or above six units per acre, is required to include an affordable housing
+set-aside of 20%.
+Any affordable units generated through such mandatory set-aside shall be subject to
+all other provisions of this ordinance.
+All such affordable units shall be governed by this ordinance, the controls on
+affordability, including bedroom distribution, and affirmatively marketed to the
+housing region in conformance with UHAC at N.J.A.C. 5:80-26.1
+et seq., any
+successor regulation, and all other applicable laws.
+No subdivision shall be permitted or approved for the purpose of avoiding compliance
+with this requirement. Developers cannot, for example, subdivide a project into two
+lots and then make each of them a number of units just below the threshold.
+16| Page Township Ordinance No.
+26-01
+
+===== PAGE 19 =====
+In the event that the inclusionary set-aside of 20% of the total number of residential
+units does not result in a full integer, the developer shall round the set-aside upward
+to construct a whole additional affordable unit.
+§ 540-114 New Construction (per N.J.A.C. 5:93 as may be updated per various
+sections in N.J.A.C. 5:97 and N.J.S.A. 52:27D-301 et seq.).
+Per the definition of “New Construction,” this section governs the creation of new
+affordable housing units regardless of the means by which the units are created.
+Newly constructed units may include new residences constructed or created through
+other means.
+The following requirements shall apply to all new or planned developments that
+contain very low-, low- and moderate-income housing units. To the extent possible,
+details related to the adherence to the requirements below shall be outlined in the
+resolution granting municipal subdivision or site plan approval of the project to assist
+municipal representatives, developers and Administrative Agents.
+Completion Schedule (previously known as phasing). Final site plan or subdivision
+approval shall be contingent upon the affordable housing development meeting the
+following completion schedule for very low-, low- and moderate-income units whether
+developed in a single-phase development, or in a multi-phase development:
+Maximum Percentage of Market- Minimum Percentage of Affordable
+Rate
+Units Issued a Temporary| Units Issued a Temporary or Final
+or Final Certificate of Occupancy | Certificate of Occupancy
+a
+a
+Design. The following design requirements apply to affordable housing developments,
+excluding prior round units.
+17| Page Township Ordinance
+No. 26-01
+
+===== PAGE 20 =====
+Each bedroom in each restricted unit must have at least one window.
+Restricted units must include adequate air conditioning and heating.
+Design of developments comprising market-rate rental units and restricted rental
+units. The following does not apply to prior round units, unless stated otherwise.
+Restricted units must use the same building materials and architectural design
+elements (for example, plumbing, insulation, or siding) as market-rate units of the
+same unit type (for example, flat or townhome) within the same development, except
+that restricted units and market-rate units may use different interior finishes. This
+shall apply to prior round units.
+Restricted units and market-rate units within the same affordable development must
+be sited such that restricted units are not concentrated in less desirable locations.
+Restricted units may not be physically clustered so as to segregate restricted and
+market-rate units within the same development or within the same building, but
+must be interspersed throughout the development, except that age-restricted and
+supportive housing units may be physically clustered if the clustering facilitates the
+provision of on-site medical services or on-site social services. Prior round affordable
+units shall be integrated with market rate units to the extent feasible.
+Residents of restricted units must be offered the same access to communal amenities
+as residents of market-rate units within the same affordable development. Examples
+of communal amenities include, but are not limited to, community pools, fitness and
+recreation centers, playgrounds, common rooms and outdoor spaces, and building
+entrances and exits. This shall apply to prior round units.
+Restricted units must include adequate air conditioning and heating and must use
+the same type of cooling and heating sources as market-rate units of the same unit
+type.
+This shall apply to prior round units.
+Each bedroom in each restricted unit must have at least one window.
+Restricted units must be of the same unit type as market-rate units within the same
+building.
+Restricted units and bedrooms must be no less than 90 percent of the minimum size
+prescribed by the Neighborhood Preservation Balanced Housing rules at N.J.A.C.
+5:43-2.4.
+18
+| Page Township Ordinance
+No.
+26-01
+
+===== PAGE 21 =====
+restricted units and market-rate units may use different interior finishes. This shall
+apply to prior round units.
+Restricted units may be clustered, provided that the buildings or housing product
+types containing the restricted units are integrated throughout the development and
+are not concentrated in an undesirable location or in undesirable locations. Prior
+round affordable units shall be integrated with market rate units to the extent
+feasible.
+Restricted units may be of different unit housing product types than market-rate
+units, provided that there is a restricted option available for each market rate housing
+type. Developments containing market-rate duplexes, townhomes, and/or single-
+family homes shall offer restricted housing options that also include duplexes,
+townhomes,
+and/or
+single-family
+homes.
+Penthouses
+and
+higher
+priced
+end
+townhouses shall be exempt from this requirement. The proper ratio for restricted to
+market-rate unit type shall be subject to municipal ordinance or, if not specified,
+shall be determined at the time of site plan approval.
+Restricted units must meet the minimum square footage required for the number of
+inhabitants for which the unit is marketed and the minimum square footage required
+for each bedroom, as set forth in the Neighborhood Preservation Balanced Housing
+rules at N.J.A.C. 5:43-2.4.
+Penthouse and end units may be reserved for market-rate sale, provided that the
+overall number, value, and distribution of affordable units across the development is
+_
+not negatively impacted by such reservation(s).
+Residents of restricted units must be offered the same access to communal amenities
+as residents of market-rate units within the same affordable development. Examples
+of communal amenities include, but are not limited to, community pools, fitness and
+recreation centers, playgrounds, common rooms and outdoor spaces, and building
+entrances and exits. This shall apply to prior round units.
+Each bedroom in each restricted unit must have at least one window; and
+Restricted units must include adequate air conditioning and heating.
+Utilities.
+Affordable units shall utilize the same type of cooling and heating source as market-
+rate units within the affordable housing development.
+19| Page Township Ordinance
+No.
+26-01
+
+===== PAGE 22 =====
+except that where there is an odd number of affordable housing units, the extra unit
+shall be a low-income unit.
+In each affordable housing development, at least 50% of the restricted units within
+each bedroom distribution rounded up to the nearest whole number shall be very
+low- or low-income units.
+Within rental developments, of the total number of affordable rental units, at least
+13%, rounded up to the nearest whole number, shall be affordable to very low-income
+households. The very low-income units shall be distributed between each bedroom
+count as proportionally as possible, to the nearest whole unit, to the total number of
+restricted units within each bedroom count, and counted as part of the required
+number of low-income units within the development.
+Affordable housing developments that are not age-restricted or supportive housing
+shall be structured such that:
+At a minimum, the number of bedrooms within the restricted units equals twice the
+number of restricted units;
+Two-bedroom and/or three-bedroom units compose
+at
+least 50 percent of all
+restricted units;
+The combined number of efficiency and one-bedroom units shall be no greater than
+20%, rounded up, of the total number of low- and moderate-income units.
+At least 30% of all low- and moderate-income units, rounded up shall be two-bedroom
+units.
+At least 20% of all low- and moderate-income units, rounded down shall be three-
+bedroom units.
+The remaining units may be allocated among two- and three- bedroom units at the
+discretion of the developer.
+Affordable housing developments that are age-restricted or supportive housing,
+except those supportive housing units whose sponsoring program determines the
+unit arrangements, shall be structured such that, at a minimum, the number of
+bedrooms shall equal the number of age-restricted or supportive housing low- and
+moderate-income units within the inclusionary development. Supportive housing
+units whose sponsoring program determines the unit arrangement shall comply with
+all requirements of the sponsoring program. The standard may be met by having all
+one-bedroom units or by having a two-bedroom unit for each efficiency unit. In
+affordable housing developments with 20 or more restricted units that are age-
+20|Page Township Ordinance
+No.
+26-01
+
+===== PAGE 23 =====
+section. In buildings without elevator service, only ground floor dwelling units shall
+be required to be constructed to conform with the technical design standards of the
+barrier free subcode.
+“Ground floor” means the first floor with a dwelling unit or
+portion of a dwelling unit, regardless of whether that floor is at grade. A building may
+have more than one ground floor.
+Notwithstanding the exemption for townhouse dwelling units in the barrier free
+subcode, the first floor of all townhouse dwelling units and of all other multifloor
+dwelling units that are attached to at least one other dwelling unit shall be subject to
+the technical design standards of the barrier free subcode and shall include the
+following features:
+An adaptable toilet and bathing facility on the first floor;
+An adaptable kitchen on the first floor;
+An interior accessible route of travel however an interior accessible route of travel
+shall not be required between stories;
+An adaptable room that can be used as a bedroom, with a door, or the casing for the
+installation of a door that is compliant with the Barrier Free Subcode, on the first
+floor;
+If not all of the foregoing requirements established above can be satisfied, then an
+interior accessible route of travel shall be provided between stories within an
+individual unit; and
+An accessible entranceway as set forth in P.L. 2005, c. 350 (N.J.S.A. 52:27D-311a et
+seq.) and the Barrier Free Subcode, N.J.A.C. 5:23-7, or evidence that the municipality
+has collected funds from the developer sufficient to make 10% of the adaptable
+entrances in the development accessible:
+Where a unit has been constructed with an adaptable entrance, upon the request of
+a disabled person who is purchasing or will reside in the dwelling unit, an accessible
+entrance shall be installed.
+To this end, the builder of restricted units shall deposit funds within the Affordable
+Housing Trust Fund sufficient to install accessible entrances in 10% of the affordable
+units that have been constructed with adaptable entrances.
+The funds deposited shall be expended for the sole purpose of making the adaptable
+entrance of an affordable unit accessible when requested to do so by a person with a
+disability who occupies or intends to occupy the unit and requires an accessible
+entrance.
+21| Page Township Ordinance No. 26-01
+
+===== PAGE 24 =====
+earmarked appropriately.
+Full compliance with the foregoing provisions shall not be required where an entity
+can demonstrate that it is “site-impracticable” to meet the requirements.
+If full
+compliance with this section would be site impracticable, compliance with this
+section for any portion of the dwelling shall be required to the extent that it is not site
+impracticable. Determinations of site impracticability shall comply with the Barrier
+Free Subcode at N.J.A.C. 5:23-7.
+§ 540-115 Affordable Housing Programs
+Pursuant to amended UHAC regulations at N.J.A.C.
+5:80-26.1
+et seq. and, in
+addition, pursuant to P.L. 2024, c.2 and specifically to the amended FHA at N.J.S.A.
+52:27D-311.m, “All parties shall be entitled to rely upon regulations on municipal
+credits, adjustments, and compliance mechanisms adopted by the Council on
+Affordable Housing unless those regulations are contradicted by statute, including
+but not limited to P.L. 2024, c.2, or binding court decisions.” The following are many
+of the main provisions of the COAH regulations at either N.J.A.C. 5:93 or 5:97 that
+have been upheld by the NJ Supreme Court. Municipalities should consult the cited
+full COAH regulations when preparing the HEFSP for required documentation, etc.
+Additional compliance details may also be included in the specific municipal program
+manual.
+Assisted Living Residence (per N.J.A.C. 5:97-6.11).
+An assisted living residence is a facility licensed by the New Jersey Department of
+Health to provide apartment-style housing and congregate dining and to assure that
+assisted living services are available. All or a designated number of apartments in the
+facility shall be restricted to low- and moderate-income households.
+The unit of credit shall be the apartment. However, a two-bedroom apartment shall
+be eligible for two units of credit if it is restricted to two unrelated individuals.
+A recipient of a Medicaid waiver shall automatically qualify as a low- or moderate-
+income household.
+Assisted living units are considered age-restricted housing in
+a HEFSP and shall be
+included with the maximum number of units that may be age-restricted.
+Low- and moderate-income residents cannot be charged any upfront fees.
+22|Page Township Ordinance No. 26-01
+
+===== PAGE 25 =====
+Low/moderate income split and affordability average (N.J.A.C. 5:80-26.4); only if all
+of the affordable units are affordable to households at
+a maximum of 60 percent of
+median income; and
+Tenant income eligibility (N.J.A.C. 5:80-26.14); up to 80 percent of an applicant’s
+gross income may be used for rent, food and services based on occupancy type and
+the affordable unit must receive the same basic services as required by the Agency’s
+underwriting guidelines and financing policies. The cost of non-housing related
+services shall not exceed one and two-thirds times the rent established for each unit.
+Supportive Housing and Group Homes (per N.J.A.C. 5:97-6.10).
+The following provisions shall apply to group homes, residential health care facilities,
+and supportive shared living housing:
+Units are subject to Affirmative Marketing requirements, household certification, and
+administrative agent oversight; and may, with the approval of the municipal housing
+liaison and the administrative agent, be leased either by the bedroom or to a single
+household in the case of multi-bedroom configurations, provided such arrangement
+is consistent with the Federal Fair Housing Act (Title VIII of the Civil Rights Act of
+1968).
+Units may, with the approval of the administrative agent, be subject to a master lease
+by an approved supportive housing operator, provided that all subleases are to be
+certified supportive housing households and remain fully subject to the affordability
+controls of this subchapter. Rents for supportive housing units shall not exceed the
+rent standards established and published by the New Jersey Department of Human
+Services.
+The unit of credit shall be the bedroom. However, the unit of credit shall be the unit
+if occupied by a single person or household.
+Housing that is age-restricted shall be included with the maximum number of units
+that may be age-restricted pursuant to the Act.
+Occupancy shall not be restricted to youth under 18 years of age.
+In affordable developments with 20 or more restricted units that are supportive
+housing, two-bedroom units must compose at least five percent of those restricted
+units.
+The bedrooms and/or units shall comply with UHAC with the following exceptions:
+23
+| Page Township Ordinance
+No.
+26-01
+
+===== PAGE 26 =====
+With the exception of units established with capital funding through a 20-year
+operating
+contract
+with
+the
+Department
+of
+Human
+Services,
+Division
+of
+Developmental Disabilities, group homes, residential health care facilities, supportive
+shared living housing and permanent supportive housing shall have the appropriate
+controls on affordability in accordance with the Act. In the event that a supportive
+housing provider is unable to record or execute a long-term deed restriction, the units
+shall be subject to annual recertification by the Municipal Housing Liaison to confirm
+continued occupancy and compliance with this Section.
+Objective standards shall be applied in the selection of tenants for supportive housing
+units and shall be designed to ensure that individuals are not excluded in an arbitrary
+or capricious manner.
+The following documentation shall be submitted by the sponsor to the municipality
+prior to marketing the completed units or facility:
+An Affirmative Marketing Plan in accordance with the regulations set forth herein;
+and
+If applicable, proof that the supportive and/or special needs housing is regulated by
+the New Jersey Department
+of Health and Senior
+Services,
+the New Jersey
+Department of Human Services or another State agency in accordance with the
+requirements of this section, which includes validation of the number of bedrooms or
+units in which low- or moderate-income occupants reside.
+The sponsor/owner shall complete annual monitoring as directed by the MHL.
+§ 540-116 Regional Income Limits.
+Administrative agents shall use the current regional income limits for the purpose of
+pricing affordable units and determining income eligibility of households.
+Regional income limits are based on regional median income, which is established by
+a regional weighted average of the “median family incomes” published by HUD. The
+procedure for computing the regional median income is detailed in N.J.A.C. 5:80-
+26.3.
+Updated regional income limits are effective as of the effective date of the regional
+Section 8 income limits for the year, as published by HUD, or 45 days after HUD
+publishes the regional Section 8 income limits for the year, whichever comes later.
+The new income limits may not be less than those of the previous year.
+24|Page Township Ordinance
+No.
+26-01
+
+===== PAGE 27 =====
+income.
+The maximum rent for restricted rental units within each affordable housing
+development shall be affordable to households earning no more than 60% of regional
+median income
+The developers and/or municipal sponsors of restricted rental units shall establish
+at least one rent for each bedroom type for both low-income and moderate-income
+units, provided that at least 13% of all low- and moderate-income rental units shall
+be affordable to households earning no more than 30% of median income. These very
+low-income units shall be part of the low-income requirement and very-low-income
+units should be distributed between each bedroom count as proportionally as
+possible, to the nearest whole unit, to the total number of restricted units within each
+bedroom count.
+The maximum sales price of restricted ownership units within each affordable
+housing development shall be affordable to households earning no more than 70% of
+median
+income, and
+each
+affordable
+housing development must achieve an
+affordability average that does not exceed 55% for all restricted ownership units. In
+achieving this affordability average, moderate-income ownership units must be
+available for at least three different prices for each bedroom type, and low-income
+ownership units must be available for at least two different prices for each bedroom
+type when the number of low- and moderate-income units permits.
+The master deeds and declarations of covenants and restrictions for affordable
+developments may not distinguish between restricted units and market-rate units in
+the calculation of any condominium or homeowner association fees and special
+assessments
+to
+be
+paid
+by
+low-
+and
+moderate-income purchasers and those to be paid by market-rate purchasers.
+Notwithstanding the foregoing sentence, condominium units subject to a municipal
+ordinance adopted
+before December 20,
+2004, which ordinance
+provides
+for
+condominium or homeowner association fees and/or assessments different from
+those provided for in this subsection are governed by the ordinance.
+In determining the initial sales prices and rents for compliance with the affordability
+average requirements for restricted family units, the following standards shall be met:
+A studio or efficiency unit shall be affordable to a one-person household;
+A one-bedroom unit shall be affordable to a one and one-half person household;
+A two-bedroom unit shall be affordable to a three-person household;
+25
+| Page Township Ordinance
+No. 26-01
+
+===== PAGE 28 =====
+and special needs and supportive housing developments, the following standards
+shall be met:
+A studio or efficiency unit shall be affordable to
+a one-person household;
+A one-bedroom unit shall be affordable to a one and one-half person household; and
+A two-bedroom unit shall be affordable to a two-person household or to two one-
+person households. Where pricing is based on two one-person households, the
+developer shall provide a list of units so priced to the Municipal Housing Liaison and
+the Administrative Agent.
+The initial purchase price for all restricted ownership units shall be calculated so that
+the monthly carrying cost of the unit, including principal and interest (based on a
+mortgage loan equal to 95 percent of the purchase price and the FreddieMac 30-Year
+Fixed Rate-Mortgage
+rate
+of interest), property
+taxes, homeowner and private
+mortgage insurance and condominium or homeowner association fees do not exceed
+30 percent of the eligible monthly income of the appropriate size household as
+determined pursuant to N.J.A.C. 5:80-26.7, as may be amended and supplemented;
+provided, however, that the price shall be subject to the affordability average
+requirement of N.J.A.C. 5:80-26.4, as may be amended and supplemented.
+The initial rent for a restricted rental unit shall be calculated so that the total monthly
+housing expense, including an allowance for tenant-paid utilities, does not exceed 30
+percent of the gross monthly income of a household of the appropriate size whose
+income is targeted to the applicable percentage of median income for the unit, as
+determined pursuant to N.J.A.C. 5:80-26.3, as may be amended and supplemented.
+The rent shall also comply with the affordability average requirement of N.J.A.C. 5:80-
+26.4, as may be amended and supplemented. The initial rent for a restricted rental
+unit shall be calculated so the eligible monthly housing expenses/income, including
+an allowance for tenant-paid utilities does not exceed 30 percent of gross income of
+and the appropriate household size as determined pursuant to N.J.A.C. 5:80-26.3,
+as may be amended and supplemented.
+At the anniversary date of the tenancy of the certified household occupying a
+restricted rental unit, following proper notice provided to the occupant household
+pursuant
+to N.J.S.A.
+2A:18-61.1.f,
+the rent may be increased
+to an amount
+commensurate with the annual percentage increase in the Consumer Price Index for
+All Urban Consumers (CPI-U), specifically U.S. Bureau of Labor Statistics Series
+CUUROI100SAH,
+titled “Housing in Northeast urban,
+all urban consumers, not
+seasonally adjusted.” Rent increases for units constructed pursuant to Low-Income
+26| Page Township Ordinance No. 26-01
+
+===== PAGE 29 =====
+amended and supplemented.
+The Affirmative Marketing Plan is a regional marketing strategy designed to attract
+buyers and/or renters of all majority and minority groups, regardless of race, creed,
+color, national origin, ancestry, marital or familial status, gender, affectional or
+sexual orientation, disability, age, or number of children, to housing units which are
+being marketed by a developer, sponsor or owner of affordable housing. The
+Affirmative Marketing Plan is intended to target those potentially eligible persons who
+are least likely to apply for affordable units in that region. It is a continuing program
+that directs all marketing activities toward Housing Region 1 and is required to be
+followed throughout the period of deed restriction.
+The Affirmative Marketing Plan provides the following preferences, provided that
+units that remain unoccupied after these preferences are exhausted may be offered
+to households without regard to these preferences.
+Where the municipality has entered into an agreement with a developer or residential
+development owner to provide a preference for very-low-,low-, and moderate-income
+veterans who served in time of war or other emergency, pursuant to N.J.S.A. 52:27D-
+311.j, there shall be a preference for veterans for up to 50 percent of the restricted
+rental units in a particular project.
+:
+There shall be a regional preference for all households that live and/or work in
+Housing Region 1 comprising Bergen, Hudson, Passaic, and Sussex Counties.
+Subordinate to the regional preference, there shall be a preference for households
+that live and/or work in New Jersey.
+With respect to existing restricted units undergoing approved rehabilitation for the
+purpose of preservation or to restricted units newly created to replace existing
+restricted units undergoing demolition, a preference for the very-low-, low-, and
+moderate-income households that are displaced by the rehabilitation or demolition
+and replacement.
+The
+municipality has
+the ultimate
+responsibility
+for adopting the Affirmative
+Marketing Plan and for the proper administration of the Affirmative Marketing
+Process, including the marketing of initial sales and rentals and resales and re-
+rentals. The Administrative Agent designated by the municipality shall implement the
+Affirmative Marketing Process to ensure the Affirmative Marketing of all affordable
+units, with the exception of affordable programs that are exempt from Affirmative
+Marketing as noted herein.
+27| Page Township Ordinance
+No.
+26-01
+
+===== PAGE 30 =====
+Building and/or the County Library for each county within the housing region; the
+municipal administration building and municipal library in the municipality in which
+the units are located; and the developer’s rental or sales office. The developer shall
+mail applications to prospective applicants upon request and shall make applications
+available through a secure online website address.
+In addition to other Affirmative Marketing strategies, the Administrative Agent shall
+provide specific notice of the availability of affordable housing units on the New Jersey
+Housing Resource Center website. Any other entities, including developers or persons
+or companies retained to implement the Affirmative Marketing Process, shall comply
+with this paragraph. The affirmative marketing shall include the following community
+and regional organizations: Fair Share Housing Center; the Latino Action Network;
+NAACP; State Chapter, NAACP; the Supportive Housing Association; and NAACP,
+NAACP of Bergen County.
+In implementing the Affirmative Marketing Process, the Administrative Agent shall
+provide a list of counseling services to low- and moderate-income applicants on
+subjects such as budgeting, credit issues, mortgage
+qualification, rental lease
+requirements, and landlord/tenant law.
+The Affirmative Marketing Process for available affordable units shall begin at least
+four months (120 days) prior to the expected date of occupancy.
+The cost to affirmatively market the affordable units shall be the responsibility of the
+developer, sponsor or owner, with the exception of Affirmative Marketing for resales.
+§ 540-119 Selection of Occupants of Affordable Housing Units.
+The Administrative Agent shall use a random selection process to select occupants of
+very low-, low- and moderate-income housing.
+A pool of interested households will be maintained in accordance with the provisions
+of N.J.A.C. 5:80-26.16.
+§ 540-120 Occupancy Standards.
+In referring certified households to specific restricted units, to the extent feasible, and
+without causing an undue delay in occupying the unit, the Administrative Agent shall
+strive to:
+Ensure each bedroom is occupied by at least one person, except for age-restricted
+and supportive and special needs housing units;
+Provide a bedroom for every two adult occupants;
+28| Page Township Ordinance No. 26-01
+
+===== PAGE 31 =====
+Mechanisms.
+Control periods for restricted ownership units shall be in accordance with N.J.A.C.
+5:80- 26.6, as may be amended and supplemented, and each restricted ownership
+unit shall remain subject to the controls on affordability for a period of at least 30
+years subject to the requirements of N.J.A.C. 5:80-26.6, as may be amended and
+supplemented.
+Rehabilitated housing units that are improved to code standards shall be subject to
+affordability controls for a period of not less than 10 years (crediting towards present
+need only).
+The affordability control period for a restricted ownership unit shall commence on
+the
+date
+the
+initial
+certified household
+takes
+title
+to
+the
+unit.
+The
+date
+of
+commencement shall be identified in the deed restriction.
+If existing affordability controls are being extended, the extended control period for a
+restricted ownership unit commences on the effective date of the extension, which is
+the end of the original control period.
+‘
+After the end of any control period, the restricted ownership unit remains subject to
+the affordability controls set forth in this subchapter until the owner gives notice of
+their intent to make an exit sale, at which point:
+If the municipality exercises the right to extend the affordability controls on the unit,
+no exit sale occurs and a new control period commences; or
+If the municipality does not exercise the right to extend the affordability controls on
+the unit, the affordability controls terminate following the exit sale.
+Prior to the issuance of any building permit for the construction/rehabilitation of
+restricted ownership units, the developer/owner and the municipality shall record a
+preliminary instrument provided by the Administrative Agent.
+Prior to the issuance of the initial certificate of occupancy for a restricted ownership
+unit and upon each successive sale during the period of restricted ownership, the
+Administrative Agent shall determine the restricted price for the unit and shall also
+determine the nonrestricted,
+fair market value of the unit based on either an
+appraisal or the unit’s equalized assessed value without the restrictions in place.
+At the time of the initial sale of the unit and upon each successive price-restricted
+sale, the initial purchaser shall execute and deliver to the Administrative Agent a
+recapture note obliging the purchaser, as well as the purchaser’s heirs, successors,
+and assigns, to repay, upon the first non-exempt sale after the unit’s release from the
+29| Page Township Ordinance No. 26-01
+
+===== PAGE 32 =====
+entry and enforcement of any judgment of foreclosure with respect to price-restricted
+ownership units.
+§ 540-122 Price Restrictions for Restricted Ownership Units and Resale Prices.
+Price restrictions for restricted ownership units shall be in accordance with N.J.A.C.
+5:80-26.7, as may be amended and supplemented, including:
+The initial purchase price and affordability percentage for a restricted ownership unit
+shall be set by the Administrative Agent.
+The Administrative Agent shall approve all resale prices, in writing and in advance of
+the resale, to assure compliance with the standards set forth in N.J.A.C 5:80-26.7.
+If the resale occurs prior to the one-year anniversary of the date on which title to the
+unit was transferred to a certified household, the maximum resale price for a is the
+most recent non-exempt purchase price.
+If the resale occurs on or after such anniversary date, the maximum resale price is
+the most recent non-exempt purchase price increased to reflect the cumulative
+annual percentage increases to the regional median income, effective as of the same
+date as the regional median income calculated pursuant to N.J.A.C. 5:80-26.3
+The owners of restricted ownership units may apply to the Administrative Agent to
+increase the maximum sales price for the unit on the basis of anticipated capital
+improvements. Eligible capital improvements shall be:
+Those that render the unit suitable for a larger household or the addition of a
+bathroom.
+The maximum resale price may be further increased by an amount up to the
+cumulative dollar value of approved capital improvements made after the last non-
+exempt sale for improvements and/or upgrades to the unit, excluding capital
+improvements paid for by the entity favored on the recapture note and recapture lien
+described at N.J.A.C. 5:80-26.6(d);
+No increase for capital improvements is permitted if the maximum resale price prior
+to adjusting for capital improvements already exceeds whatever initial purchase price
+the unit would have if it were being offered for purchase for the first time at the initial
+affordability percentage. All adjustments for capital improvements are subject to 10-
+year, straight-line depreciation.
+Upon the resale of a restricted ownership unit,
+all items of property that are
+permanently affixed to the unit or were included when the unit was initially restricted
+(for example, refrigerator, range, washer, dryer, dishwasher, wall-to-wall carpeting)
+30
+| Page Township Ordinance No. 26-01
+
+===== PAGE 33 =====
+price of the air conditioning equipment, which shall be subject to 10-year, straight-
+line depreciation, has been approved by the Administrative Agent. Unless otherwise
+approved by the Administrative Agent, the purchase of any property other than
+central air conditioning shall not be made a condition of the unit resale. The seller
+and the purchaser must personally certify at the time of closing that no unapproved
+transfer of funds for the purpose of selling and receiving property has taken place at
+the time of or as a condition of resale.
+§ 540-123 Buyer Income Eligibility.
+Buyer income eligibility for restricted ownership units shall be established pursuant
+to N.J.A.C. 5:80-26.17, as may be amended and supplemented, such that very low-
+income ownership units shall be reserved for occupancy by households with a gross
+household income less than or equal to 30% of median income, low-income
+ownership units shall be reserved for occupancy by households with a gross
+household income less than or equal to 50% of median income and moderate-income
+ownership units
+shall be reserved for occupancy by households with a gross
+household income less than 80% of median income.
+Notwithstanding the foregoing, the Administrative Agent may, upon approval by the
+municipality, and subject to the Division’s approval, permit a moderate-income
+purchaser to buy a low-income unit if and only if the Administrative Agent can
+demonstrate that there is an insufficient number of eligible low-income purchasers
+in the housing region to permit prompt occupancy of the unit and all other reasonable
+efforts to attract a low-income purchaser, including pricing and financing incentives,
+have failed. Any such low-income unit that is sold to
+a moderate-income household
+shall retain the required pricing and pricing restrictions for a low-income unit.
+Similarly, the administrative agent may permit low-income purchasers to buy very-
+low-income units in housing markets where, as determined by the Division, units are
+reserved for very-low-income purchasers, but there is an insufficient number of very-
+low-income purchasers to permit prompt occupancy of the units. In such instances,
+the purchased unit must be maintained as a very-low-income unit and sold at a very-
+low-income price point such that on the next resale the unit will still be affordable to
+very-low-income households and able
+to be purchased by a very-low-income
+household. A very-low-income unit that is seeking bonus credit pursuant to N.J.S.A.
+52:27D-311.k(9) must first be advertised exclusively as a very-low-income unit
+according to the Affirmative Marketing requirements at N.J.A.C. 5:80-26.16, then
+advertised as a very-low-income or low-income unit for at least 30 additional days
+prior to referring any low-income household to the unit.
+31
+| Page Township Ordinance No. 26-01
+
+===== PAGE 34 =====
+The Administrative Agent shall certify a household as eligible for a restricted
+ownership unit when the household is a low-income household or a moderate-income
+household, as applicable to the unit, and the estimated monthly housing cost for the
+particular unit (including principal, interest, property taxes, homeowner and private
+mortgage insurance and condominium or homeowner association fees, as applicable)
+does not exceed 35 percent of the household’s eligible monthly income; provided,
+however, that this limit may be exceeded if one or more of the following circumstances
+exists:
+The household currently pays more than 35% (40% for households eligible for age-
+restricted units) of its gross household income
+for housing expenses, and the
+proposed housing expenses will reduce its housing costs;
+The household has consistently paid more than 35% (40% for households eligible for
+age-restricted units) of eligible monthly income for housing expenses in the past and
+has proven its ability to pay; or
+The household is currently in substandard or overcrowded living conditions;
+The household documents the existence
+of assets, within the asset limitation
+otherwise applicable, with which the household proposes to supplement the rent
+payments
+§ 540-124 Limitations on Indebtedness Secured by Ownership Unit; Subordination.
+Prior to incurring any indebtedness to be secured by a restricted ownership unit, the
+owner shall apply to the Administrative Agent for
+a determination in writing that the
+proposed indebtedness complies with the provisions
+of this
+Section, and
+the
+Administrative Agent shall issue such determination prior to the owner incurring
+such indebtedness.
+With the exception of original purchase money mortgages, neither an owner nor a
+lender shall at any time during the control period cause or permit the total
+indebtedness secured by a restricted ownership unit to exceed 95% of the maximum
+allowable resale price of that unit, as such price is determined by the Administrative
+Agent in accordance with N.J.A.C. 5:80-26.7(c).
+§ 540-125 Control Periods for Restricted Rental Units.
+Control periods for units that meet the definition of prior round units shall be
+pursuant to the 2001 UHAC rules originally adopted October 1, 2001, 33 N.J.R. 3432,
+and amended December 20, 2004, 36 N.J.R. 5713 and shall remain subject to the
+requirements of this ordinance for a period of at least 30 years as applicable unless
+otherwise indicated.
+32| Page Township Ordinance No. 26-01
+
+===== PAGE 35 =====
+use period for a total of 45 years.
+The affordability control period for a restricted rental unit shall commence on the first
+date that a unit is issued a certificate of occupancy following the execution of the
+deed restriction or, if affordability controls are being extended, on the effective date
+of the extension, which is the end of the original control period.
+Rehabilitated renter-occupied housing units that are improved to code standards
+shall be subject to affordability controls for a period of not less than 10 years.
+Prior to the issuance of any building permit for the construction/rehabilitation of
+restricted rental units, the developer/owner and the municipality shall record a
+preliminary instrument provided by the Administrative Agent.
+Deeds of all real property that include restricted rental units shall contain deed
+restriction language. The deed restriction shall have priority over all mortgages on
+the property. The deed restriction shall be recorded by the developer with the county
+records office, and provided as filed and recorded, to the Administrative Agent within
+30 days of the receipt of a certificate of occupancy.
+A restricted rental unit shall remain subject to the affordability controls of this
+Ordinance despite the occurrence of any of the following events:
+Sublease or assignment of the lease of the unit;
+Sale or other voluntary transfer of the ownership of the unit;
+The entry and enforcement of any judgment of foreclosure on the property containing
+the unit; or
+The end of the control period, until the occupant household vacates the unit, or is
+certified as over-income and the controls are released in accordance with UHAC.
+§ 540-126 Rent Restrictions for Rental Units; Leases and Fees.
+The initial rent for a restricted rental unit shall be set by the Administrative Agent.
+A written lease shall be required for all restricted rental units, except for units in an
+assisted living residence, and tenants shall be responsible for security deposits and
+the full amount of the rent as stated on the lease. A copy of the current lease for each
+restricted rental unit shall be retained on file by the Administrative Agent.
+No additional fees, operating costs, or charges shall be added to the approved rent
+(except, in the case of units in an assisted living residence, to cover the customary
+33
+| Page Township Ordinance No. 26-01
+
+===== PAGE 36 =====
+half off-street parking spaces per unit, parking fees for one parking space per
+household.
+Any fee structure that would remove or limit affordable unit occupant access to any
+amenities or services that are required or included for market-rate unit occupants is
+prohibited.
+Application fees (including the charge for any credit check) shall not
+exceed 5% of the monthly rent of the applicable restricted unit to be applied to the
+costs of administering the controls applicable to the unit as set forth in this
+Ordinance.
+Fees for unit-specific, non-communal items that are charged to market-rate unit
+tenants on an optional basis, such as pet fees for tenants with pets, storage spaces,
+bicycle-share programs, or one-time rentals of party or media rooms, may also be
+charged to affordable unit tenants, if applicable.
+Pet fees may not exceed $30.00 per month and associated one-time payments for
+optional fees pertaining to pets, such asa pet cleaning fee, are prohibited.
+Fees charged
+to affordable unit tenants
+for other optional,
+unit-specific, non-
+communal items shall not exceed the amounts charged to market-rate tenants.
+For any prior round rental unit leased before December 20, 2024, elements of the
+existing fee structure that are consistent with prior rules, but inconsistent with 5:80-
+26.13(c)1, may continue until the occupant household’s current lease term expires
+or that occupant household vacates the unit, whichever occurs later.
+§ 540-127 Tenant Income Eligibility.
+Tenant income eligibility shall be determined pursuant to N.J.A.C. 5:80-26.14, as
+may be amended and supplemented, and shall be determined as follows:
+Very low-income rental units shall be reserved for households with a gross household
+income less than or equal to 30% of the regional median income by household size.
+Low-income rental units shall be reserved for households with a gross household
+income less than or equal to 50% of the regional median income by household size.
+Moderate-income
+rental units
+shall be
+reserved
+for households
+with a
+gross
+household income less than 80% of the regional median income by household size.
+The Administrative Agent shall certify
+a household as eligible for a restricted rental
+unit when the household is a very low-income, low-income or moderate-income
+household, as applicable to the unit, and the rent proposed for the unit does not
+exceed 35% (40% for age-restricted units) of the household’s eligible monthly income
+as
+determined
+pursuant
+to
+N.J.A.C.
+5:80-26.17,
+as may
+be
+amended
+and
+34
+| Page Township Ordinance
+No. 26-01
+
+===== PAGE 37 =====
+The household has consistently paid more than 35% (40% for households eligible for
+age-restricted units) of eligible monthly income for rent in the past and has proven
+its ability to pay;
+The household is currently in substandard or overcrowded living conditions;
+The household documents the existence of assets with which the household proposes
+to supplement the rent payments; or
+The household documents reliable anticipated third-party assistance from an outside
+source such as a family member in a form acceptable to the Administrative Agent and
+the owner of the unit.
+The applicant shall file documentation sufficient to establish the existence of any of
+the circumstances in b.1 through b.5 above with the Administrative Agent, who shall
+counsel the household on budgeting.
+§ 540-128 Municipal Housing Liaison.
+The Municipal Housing Liaison shall be approved by municipal resolution.
+The Municipal Housing Liaison shall be approved by the Division, or is in the process
+of
+getting
+approval,
+and
+fully
+or
+conditionally
+meets
+the
+requirements
+for
+qualifications, including initial and periodic training as set forth in in N.J.A.C. 5:99-
+1 et seq.
+The Municipal Housing Liaison shall be responsible for oversight and administration
+of the affordable housing program, including the following responsibilities, which may
+not be contracted out to the Administrative Agent:
+;
+Serving as the primary point of contact for all inquiries from the Affordable Housing
+Dispute Resolution Program, the State, affordable housing providers, administrative
+agents and interested households.
+The oversight of the Affirmative Marketing Plan and affordability controls.
+When applicable, overseeing and monitoring any contracting Administrative Agent.
+Overseeing the monitoring of the status of all restricted units listed in the Fair Share
+Plan.
+Verifying, certifying and providing annual information within AHMS at such time and
+in such form as required by the Division.
+35
+| Page Township Ordinance No. 26-01
+
+===== PAGE 38 =====
+5:80-26.1 for each affordable housing development.
+Coordinating with the Administrative Agent, municipal attorney and municipal
+Construction Code Official to ensure that permits are not issued unless the document
+required as set forth herein has been duly recorded.
+Listing on the municipal website contact information for the MHL and Administrative
+Agents.
+§ 540-129 Administrative Agent.
+All municipalities that have created or will create affordable housing programs and/or
+affordable units shall designate or approve, for each project within its HEFSP, an
+administrative agent to administer the affordable housing program and/or affordable
+housing units in accordance with the requirements of the FHA, NJAC 5:99-1 et seq.
+and UHAC.
+The fees for administrative agents shall be paid as follows:
+Administrative agent fees related to rental units shall be paid by the developer/owner.
+Administrative agent fees related to initial sale of units shall be paid by the developer.
+Administrative agent fees related to resales shall be paid by the seller of the affordable
+home.
+Administrative agent fees related to ongoing administration and enforcement shall be
+paid by the municipality.
+An Operating Manual for each affordable housing program shall be provided by the
+Administrative Agent(s). The Operating Manual(s) shall be available for public
+inspection in the Office of the Clerk and in the office(s) of the Administrative Agent(s).
+Operating manuals shall be adopted by resolution of the Governing Body.
+Subject to the role of the Administrative Agent(s), the duties and responsibilities as
+are set forth in N.J.A.C. 5:99-7and which are described in full detail in the Operating
+Manual, including those set forth in UHAC, include:
+Attending continuing education opportunities on affordability controls, compliance
+monitoring, and affirmative marketing as offered or approved by the Division;
+Affirmative marketing:
+36
+| Page Township Ordinance
+No. 26-01
+
+===== PAGE 39 =====
+qualification, rental lease requirements; and landlord/tenant law.
+Household certification.
+Soliciting, scheduling, conducting and following up on interviews with interested
+households.
+Conducting interviews and obtaining sufficient documentation of gross income and
+assets upon which to base a determination of income eligibility for a low- or moderate-
+income unit;
+Providing written notification to each applicant as to the determination of eligibility
+or non-eligibility within 5 days of the determination thereof.
+Requiring that
+all certified applicants for restricted units execute a certificate
+substantially in the firm, as applicable, of either the ownership or rental certificates
+set forth in the Appendices J and K of N.J.A.C. 5:80-26.1 et seq.
+Creating and maintaininga referral list of eligible applicant households living in the
+housing region, and eligible applicant households with members working in the
+housing region, where the units are located.
+Employing a random selection process as provided in the Affirmative Marketing Plan
+when referring households for certification to affordable units.
+Affordability controls.
+Furnishing to attorneys or closing agents forms of deed restrictions and mortgages
+for the recording at the time of conveyance of title of each restricted unit.
+Ensuring that the removal of the deed restrictions and cancellation of the mortgage
+note are effectuated and filed properly with the County Register of Deeds or County
+Clerk’s office after the termination of the affordability controls for each restricted unit
+in accordance with UHAC.
+Communicating
+with
+lenders
+and
+the
+Municipal
+Housing
+Liaison
+regarding
+foreclosures.
+Ensuring the issuance of Continuing Certificates of Occupancy or certifications
+pursuant to N.J.A.C. 5:80-26.11.
+Records retention.
+Creating and maintaininga file on each restricted unit for its control period, including
+the recorded deed with restrictions, recorded recapture mortgage, and note, as
+appropriate.
+37] Page Township Ordinance
+No.
+26-01
+
+===== PAGE 40 =====
+between owners and the Administrative Agent regarding the availability of restricted
+units for resale or re-rental.
+Instituting and maintaining an effective means of communicating information to very
+low-, low-, or moderate-income households regarding the availability of restricted
+units for resale or re-rental.
+Processing requests from unit owners.
+Reviewing and approving requests from owners of restricted units who wish to
+refinance or take out home equity loans during the term of their ownership to
+determine that the amount of indebtedness to be incurred will not violate the terms
+of this ordinance.
+Reviewing and approving requests to increase sales prices from owners of restricted
+units who wish to make capital improvements to the units that would affect the
+selling price, such authorizations to be limited to those improvements resulting in
+additional
+bedrooms
+or
+bathrooms
+and
+the
+depreciated
+cost
+of central
+air
+conditioning systems.
+Notifying the municipality of an owner’s intent to sell a restricted unit.
+Making determinations on requests by owners of restricted units for hardship
+waivers.
+Enforcement.
+Securing annually from the municipality a list of all affordable ownership units for
+which property tax bills are mailed to absentee owners, and notifying all such owners
+that they must either move back to their unit or sell it;
+Securing from all developers and sponsors of restricted units, at the earliest point of
+contact in the processing of the project or development, written acknowledgement of
+the requirement that no restricted unit can be offered, or in any other way committed,
+to any person, other than a household duly certified to the unit by the Administrative
+Agent;
+Sending annual mailings to all owners of affordable dwelling units reminding them of
+the notices and requirements outlined in N.J.A.C. 5:80-26.19(d)4;
+Establishing a program for diverting unlawful rent payments to the municipal
+Affordable Housing Trust Fund; and
+38
+| Page Township Ordinance
+No. 26-01
+
+===== PAGE 41 =====
+responsibilities, herein.
+§ 540-130 Responsibilities of The Owner of a development containing affordable
+units.
+The owner of all developments containing affordable units subject to this subchapter
+or the assigned management company thereof shall provide to the administrative
+agent:
+;
+Site plan, architectural plan, or other plan that identifies the location of each
+affordable unit, if subject to the site plan approval, settlement agreement, or other
+applicable document regulating the location of affordable units. The administrative
+agent shall determine the location of affordable units if not set forth in the site plan
+approval, settlement agreement, or other applicable document.
+The total number of units in the project and the number of affordable units.
+The breakdown of the affordable units by or identification of affordable unit locations
+by bedroom count and income level, including street addresses / unit numbers, if
+subject to the site plan approval, settlement agreement, or other applicable document
+regulating the breakdown
+of affordable
+units.
+The administrative agent shall
+determine the bedroom and income distribution if not set forth in the site plan
+approval, settlement agreement, or other applicable document.
+Floor plans of all affordable units, including complete and accurate identification of
+all rooms and the dimensions thereof.
+A projected construction schedule.
+The location of any common areas and elevators.
+The name of the person who will be responsible for official contact with the
+administrative agent for the duration of the project, which must be updated if the
+contact changes.
+In addition to A above, the owner of rental developments containing affordable rental
+units subject to this subchapter or the assigned management company thereof shall:
+Send to all current tenants in all restricted rental units an annual mailing containing
+a notice as to the maximum permitted rent and a reminder of the requirement that
+the unit must remain their principal place of residence, which is defined as residing
+in the unit at least 260 days out of each calendar year, together with the telephone
+number, mailing address, and email address of the administrative agent to whom
+complaints of excess rent can be issued.
+39 {| Page Township Ordinance No. 26-01
+
+===== PAGE 42 =====
+Provide to the administrative agent a proposed form of lease for any rental units.
+Ensure that the tenant selection criteria for the applicants for affordable units not be
+more restrictive that the tenant selection criteria for applicants for non-restricted
+units.
+Strive to maintain the continued occupancy of the affordable units during the entire
+restricted period.
+In addition to A, above, the owner of affordable for-sale developments containing
+affordable for-sale
+units subject to this subchapter or the assigned management
+company thereof shall provide the administrative agent:
+Proposed pricing for all units, including any purchaser options and add-on items.
+Condominium or homeowner association fees and any other applicable fees.
+Estimated real property taxes.
+Sewer, water, trash disposal, and any other utility assessments.
+Flood insurance requirement, if applicable.
+The State-approved planned real estate development public offering statement
+and/or master deed, where applicable, as well as the full build-out budget.
+§ 540-131 Enforcement of Affordable Housing Regulations
+Upon the occurrence of a breach of any of the regulations governing the affordable
+unit by an owner, developer or tenant, the municipality shall have all remedies
+provided at law or equity, including but not limited to foreclosure, tenant eviction,
+municipal fines, a requirement for household recertification, acceleration of all sums
+due under a mortgage, recoupment of any funds from a sale in the violation of the
+regulations, injunctive relief to prevent further violation of the regulations, entry on
+the premises, and specific performance.
+After providing written notice of a violation to an owner, developer or tenant of an
+affordable unit and advising the owner, developer or tenant of the penalties for such
+violations,
+the municipality may take
+the following action against the owner,
+developer or tenant for any violation that remains uncured for a period of 60 days
+after service of the written notice:
+The municipality may file a court action pursuant to N.J.S.A. 2A:58-11 alleging a
+violation, or violations, of the regulations governing the affordable housing unit. If the
+40
+| Page Township Ordinance No. 26-01
+;
+
+===== PAGE 43 =====
+violation continues or exists shall be considered a separate and specific violation of
+these provisions and not a continuation of the initial offense;
+In the case of an owner who has rented his or her low- or moderate-income unit in
+violation of the regulations governing affordable housing units, payment into the
+Affordable Housing Trust Fund of the gross amount of rent illegally collected;
+In the case of an owner who has rented his or her affordable unit in violation of the
+regulations governing affordable housing units, payment of an innocent tenant’s
+reasonable relocation costs, as determined by the Court.
+The municipality shall have the authority to levy fines against the owner of the
+development for instances of noncompliance with NJHRC advertising requirements
+(N.J.S.A. 52:27D-321.6.e.(2)), following written notice to the owner. The fine for the
+first offense of noncompliance shall be $5,000, the fine for the second offense of
+noncompliance shall be $10,000, and the fine for each subsequent offense of
+noncompliance shall be $15,000.
+The municipality may file a court action in the Superior Court seeking a judgment,
+which would result in the termination of the owner’s equity or other interest in the
+unit, in the nature of a mortgage foreclosure. Any judgment shall be enforceable as if
+the same were a judgment of default of the first purchase money mortgage and shall
+constitute a lien against the low- or moderate-income unit.
+Such judgment shall be enforceable, at the option of the municipality, by means of
+an execution sale by the Sheriff, at which time the affordable unit of the violating
+owner shall be sold at a sale price which is not less than the amount necessary to
+fully satisfy and pay off any first purchase money mortgage and prior liens and the
+costs of the enforcement proceedings incurred by the municipality
+, including
+attorney’s fees. The violating owner shall have the right to possession terminated as
+well as the title conveyed pursuant to the Sheriff's sale.
+The proceeds of the Sheriff's sale shall first be applied to satisfy the first purchase
+money mortgage lien and any prior liens upon the low- or moderate-income unit. The
+excess, if any, shall be applied to reimburse the municipality for any and all costs
+and expenses incurred in connection with either the court action resulting in the
+judgment of violation or the Sheriff’s sale. In the event that the proceeds from the
+Sheriff's sale are insufficient to reimburse the municipality in full as aforesaid, the
+violating owner shall be personally responsible for the full extent of such deficiency,
+in addition to any and all costs incurred by the municipality in connection with
+collecting such deficiency. In the event that a surplus remains after satisfying all of
+the above, such surplus shall be placed in escrow by the municipality for the owner
+and shall be held in such escrow for a maximum period of two years or until such
+41| Page Township Ordinance
+No.
+26-01
+
+===== PAGE 44 =====
+Foreclosure due to violation of the regulations governing affordable housing units
+shall not extinguish the restrictions of the regulations governing affordable housing
+units as they apply to the low- and moderate-income unit. Title shall be conveyed to
+the purchaser at the Sheriff's sale, subject to the restrictions and provisions of the
+regulations governing the affordable housing unit. The owner determined to be in
+violation of the provisions of this plan and from whom title and possession were taken
+by means of the Sheriff’s sale shall not be entitled to any right of redemption.
+If there are no bidders at the Sheriff’s sale, or if insufficient amounts are bid to satisfy
+the first purchase money mortgage and any prior liens, the municipality may acquire
+title to the affordable unit by satisfying the first purchase money mortgage and any
+prior liens and crediting the violating owner with an amount equal to the difference
+between the first purchase money mortgage and any prior liens and costs of the
+enforcement proceedings, including legal fees and the maximum resale price for
+which the affordable unit could have been sold under the terms of the regulations
+governing affordable housing units. This excess shall be treated in the same manner
+as the excess that would have been realized from an actual sale as previously
+described.
+Failure of the low- or moderate-income unit to be either sold at the Sheriff's sale or
+acquired by the municipality shall obligate the owner to accept an offer to purchase
+from any qualified purchaser that may be referred to the owner by the municipality,
+with such offer to purchase being equal to the maximum resale price of the low- or
+moderate-income unit as permitted by the regulations governing affordable housing
+units.
+:
+The affordable unit owner shall remain fully obligated, responsible and liable for
+complying with the terms and restrictions of governing affordable housing units until
+such time as title is conveyed from the owner.
+It is the responsibility of the municipal housing liaison and the administrative
+agent(s) to ensure that affordable housing units are administered properly. All
+affordable units must be occupied within a reasonable amount of time and be re-
+leased within a reasonable amount of time upon the vacating of the unit by a tenant.
+If an administrative agent or municipal housing liaison becomes aware of or suspects
+that a developer, landlord,
+or property manager has not complied with these
+regulations, it shall report this activity to the Division. The Division must notify the
+developer,
+landlord, or property manager, in writing, of any violation of these
+regulations and provide a 30-day cure period. If, after the 30-day cure period, the
+developer, landlord, or property manager remains in violation of any terms of this
+subchapter, including by keeping a unit vacant, the developer, landlord, or property
+42| Page Township Ordinance
+No.
+26-01
+
+===== PAGE 45 =====
+municipal housing liaison or the administrative agent to refer a certified tenant.
+Banks and other lending institutions are prohibited from issuing any loan secured
+by owner occupied real property subject to the affordability controls set forth in this
+subchapter if such loan would be in excess of amounts permitted by the restriction
+documents recorded in the deed or mortgage book in the county in which the property
+is located. Any loan issued in violation of this subsection is void as against public
+policy.
+The Agency and the Department hereby reserve,
+for themselves and for each
+administrative agent appointed pursuant to this subchapter, all of the rights and
+remedies available at law and in equity for the enforcement of this subchapter,
+including, but not limited to, fines, evictions, and foreclosures as approved by a
+county-level housing judge.
+Appeals
+Appeals from all decisions of an administrative agent appointed pursuant to this
+subchapter must be filed, in writing, with the municipal housing liaison. A decision
+by the municipal housing liaison may be appealed to the Division. A written decision
+of the Division Director upholding, modifying, or reversing an administrative agent’s
+decision is a final administrative action.
+§ 540-132 Development Fees.
+Purpose
+This section establishes standards for the collection, maintenance, and expenditure
+of development fees that are consistent with the amended Fair Housing Act (P.L.2024,
+c.2), N.J.A.C. 5:99, and the Statewide Non-Residential Development Fee Act (C.
+40:55D-8.1 through 8.7). Fees collected pursuant to this Ordinance shall be used for
+the sole purpose of providing very low-, low- and moderate-income housing in
+accordance with a Court-approved Spending Plan.
+Basic Requirements
+The municipality previously adopted a development fee ordinance, which established
+the Municipal Affordable Housing Trust Fund.
+The municipality shall not spend development fees until the court has approved a
+plan for spending such fees.
+Residential Development Fees
+Imposed fees
+43
+| Page Township Ordinance No. 26-01
+|
+
+===== PAGE 46 =====
+When an increase in residential density is permitted pursuant to a “d” variance
+granted under N.J.S.A. 40:55D-70d, developers shall be required to pay a “bonus”
+development fee of 6.0% of the equalized assessed value for each additional unit that
+may be realized, except that this provision shall not be applicable to a development
+that will include affordable housing. If the zoning on a site has changed during the
+two-year period preceding the filing of such a variance application, the base density
+for the purposes of calculating the bonus development fee shall be the highest density
+permitted by right during the two-year period preceding the filing of the variance
+application.
+Example: If an approval allows four units to be constructed ona site that was zoned
+for two units, the fees could equal 1.5% of the equalized assessed value on the first
+two units; and the specified higher percentage of 6% of the equalized assessed value
+for the two additional units, provided zoning on the site has not changed during the
+two-year period preceding the filing of such a variance application.
+Eligible exactions, ineligible exactions and exemptions for residential development
+Affordable housing developments, developments where the developer is providing for
+the construction of affordable units elsewhere in the municipality, and developments
+where the developer has made an eligible payment in lieu of on-site construction of
+affordable units, if permitted by ordinance, or by agreement with the municipality
+and if approved by a municipality prior to the statutory elimination of payments in-
+lieu on March 20, 2024 per P.L.2024, c.2, shall be exempt from development fees.
+Developments that have received preliminary or final site plan approval prior to the
+adoption of this ordinance and any preceding ordinance permitting the collection of
+development fees shall be exempt from the payment of development fees, unless the
+developer seeks a substantial change in the original approval. Where a site plan
+approval does not apply, the issuance of a zoning and/or building permit shall be
+synonymous
+with preliminary or
+final
+site plan approval
+for the purpose
+of
+determining the right to an exemption. In all cases, the applicable fee percentage shall
+be determined based upon the development fee ordinance in effect on the date that
+the construction permit is issued.
+Development fees
+shall be imposed and
+collected when an existing structure
+undergoes a change to a more intense use, is demolished and replaced, or is
+expanded,
+if the expansion
+is not otherwise exempt from the development fee
+requirement. The development fee shall be calculated on the increase in the equalized
+assessed value of the improved structure.
+44| Page Township Ordinance
+No.
+26-01
+
+===== PAGE 47 =====
+Within all zoning districts, non-residential developers, except for developers of the
+types of development specifically exempted, shall pay a fee equal to 2.5% of the
+equalized assessed value of the land and improvements, for all new non-residential
+construction on an unimproved lot or lots.
+Within all zoning districts, non-residential developers, except for developers of the
+types of development specifically exempted, shall also pay a fee equal to 2.5% of the
+increase
+in equalized assessed value resulting from any additions to existing
+structures to be used for non-residential purposes.
+Development fees shall be imposed and collected when an existing structure is
+demolished and replaced. The development fee of 2.5% shall be calculated on the
+difference between the equalized assessed value of the pre-existing land and
+improvements and the equalized assessed value of the newly improved structure; i.e.,
+land and improvements; and such calculation shall be made at the time a
+final
+certificate of occupancy is issued.
+If the calculation required under this section
+results in a negative number, the non-residential development fee shall be zero.
+Eligible
+exactions,
+ineligible
+exactions
+and
+exemptions
+for
+non-residential
+development
+The non-residential portion of a mixed-use inclusionary or market-rate development
+shall be subject to a 2.5% development fee, unless otherwise exempted below.
+The 2.5% fee shall not apply to an increase in equalized assessed value resulting from
+alterations, change in use within existing footprint, reconstruction, renovations and
+repairs.
+Non-residential developments shall be exempt from the payment of non-residential
+development fees in accordance with the exemptions required pursuant to the
+Statewide Non-Residential Development Fee Act (N.J.S.A. 40:55D-8.1 through 8.7),
+as specified in Form N-RDF “State of New Jersey Non-Residential Development
+Certification/Exemption.”
+Any
+exemption
+claimed
+by
+a
+developer
+shall
+be
+substantiated by that developer.
+A developer of a non-residential development exempted from the non-residential
+development fee pursuant to the Statewide Non-Residential Development Fee Act
+shall be subject to the fee at such time as the basis for the exemption no longer
+applies, and shall make the payment of the non-residential development fee, in that
+event, within three years after that event or after the issuance of the final certificate
+of occupancy of the non-residential development, whichever is later.
+45
+| Page Township Ordinance No. 26-01
+
+===== PAGE 48 =====
+Collection Procedures
+Upon the granting of a preliminary,
+final or other applicable approval
+for a
+development, the applicable approving authority shall direct its staff to notify the
+construction official responsible for the issuance of a building permit.
+For non-residential developments only, the developer shall also be provided with a
+copy
+of
+Form
+N-RDF,
+“State
+of New
+Jersey
+Non-Residential
+Development
+Certification/Exemption,” to be completed by the developer as per the instructions
+provided in the Form N-RDF. The construction official shall verify the information
+submitted by the non-residential developer as per the instructions provided on Form
+N-RDF. The tax assessor shall verify exemptions and prepare estimated and final
+assessments as per the instructions provided in Form N-RDF.
+The construction official responsible for the issuance of a building permit shall notify
+the tax assessor of the issuance of the first construction permit for a development
+that is subject to a development fee.
+Within 90 days of receipt of that notice, the tax assessor shall provide an estimate,
+based on the plans filed, of the equalized assessed value of the development.
+The construction
+official responsible
+for the issuance
+of a
+final certificate of
+occupancy shall notify the tax assessor of any and all requests for the scheduling of
+a final inspection on property that is subject to a development fee.
+Within 10 business days of a request for the scheduling of a final inspection, the tax
+assessor shall confirm or modify the previously estimated equalized assessed value
+of the improvements associated with the development; calculate the development fee;
+and thereafter notify the developer of the amount of the fee.
+Should the municipality fail to determine or notify the developer of the amount of the
+development fee within 10 business days of the request for final inspection, the
+developer may estimate the amount due and pay that estimated amount consistent
+with the dispute process set forth in Subsection b. of section 37 of P.L.2008, c.46
+(N.J.S.A. 40:55D-8.6).
+Fifty percent (50%) of the development fee shall be collected at the time of issuance
+of the construction permit. The remaining portion shall be collected at the time of
+issuance of the certificate of occupancy. The developer shall be responsible for paying
+the difference between the fee calculated at the time of issuance of the construction
+permit and that determined at the time of issuance of certificate of occupancy.
+Appeal of development fees
+46
+| Page Township Ordinance No. 26-01
+:
+
+===== PAGE 49 =====
+on amounts escrowed shall be credited to the prevailing party.
+A developer may challenge non-residential development fees imposed by filing a
+challenge with the director of the Division of Taxation. Pending a review and
+determination by the director, which shall be made within 45 days of receipt of the
+challenge, collected fees shall be placed in an interest-bearing escrow account by the
+municipality. Appeals from a determination of the director may be made to the Tax
+Court in accordance with the provisions of the State Tax Uniform Procedure Law, R.S.
+54:48-1 et seq., within 90 days after the date of such determination. Interest earned
+on amounts escrowed shall be credited to the prevailing party.
+Affordable Housing Trust Fund
+A separate, interest-bearing Municipal Affordable Housing Trust Fund shall be
+maintained by the chief financial officer of the municipality for the purpose of
+depositing development fees collected from residential and non-residential developers
+and proceeds from the sale of units with extinguished controls.
+The following additional funds shall be deposited in the Municipal Affordable Housing
+Trust Fund and shall at all times be identifiable by source and amount:
+Payments in lieu of on-site construction of an affordable unit, where previously
+permitted by ordinance or by agreement with the municipality and if approved by a
+municipality prior to the statutory elimination of payments in-lieu on March 20, 2024
+per P.L.2024, c.2;
+Funds contributed by developers to make 10% of the adaptable entrances in a
+townhouse or other multistory attached dwelling unit development accessible;
+Rental income from municipally operated units;
+Repayments from affordable housing program loans;
+Recapture funds;
+Proceeds from the sale of affordable units; and
+Any other funds collected in connection with the municipal affordable housing
+program including but not limited to interest earned on fund deposits.
+The municipality shall provide the Division with written authorization, in the form of
+a tri-party escrow agreement(s) between the municipality, the Division and the
+financial institution in which the municipal affordable housing trust fund has been
+established to permit the Division to direct the disbursement of the funds as provided
+for in N.J.A.C. 5:99-2.1 et seq.
+47
+| Page Township Ordinance
+No. 26-01
+
+===== PAGE 50 =====
+Failure to commit or expend development fees within four years of the date of
+collection in accordance with N.J.A.C. 5:99-5.5;
+Failure to comply with the requirements of the Non-Residential Development Fee Act
+and N.J.A.C. 5:99-3;
+Failure to submit accurate monitoring reports pursuant to this subchapter within
+the time limits imposed by the Act, this chapter, and/or the Division;
+Expenditure of funds on activities not approved by the Superior Court or otherwise
+permitted by law;
+Revocation of compliance certification or a judgment of compliance and repose;
+Failure of a municipal housing liaison or administrative agent to comply with the
+requirements set forth at N.J.A.C. 5:99-6, 7, and 8;
+Other good cause demonstrating that municipal affordable housing funds are not
+being used for an approved purpose.
+All interest accrued in the housing trust fund shall only be used on eligible affordable
+housing purposes approved by the Court.
+Use of Funds
+The expenditure of all funds shall conform to a Spending Plan approved by Superior
+Court. Funds deposited in the municipal Affordable Housing Trust Fund may be used
+for any activity approved by the Court to address the fair share obligation and may
+be set up as a grant or revolving loan program. Such activities include, but are not
+limited to: preservation or purchase of housing for the purpose of maintaining or
+implementing affordability controls; housing rehabilitation; new construction of
+affordable housing units and related costs; accessory apartments; a market-to-
+affordable program; conversion of existing non-residential buildings to create new
+affordable
+units; green building
+strategies designed
+to be cost-saving and
+in
+accordance with accepted national or state standards; purchase of land for affordable
+housing; improvement of land to be used for affordable housing; extensions or
+improvements of roads and infrastructure to affordable housing sites; financial
+assistance
+designed
+to
+increase
+affordability;
+administration
+necessary
+for
+implementation of the Housing Element and Fair Share Plan; and/or any other
+activity permitted by Superior Court and specified in the approved Spending Plan.
+Funds shall not be expended to reimburse the municipality or activities that occurred
+prior to the authorization of a municipality to collect development fees.
+48
+| Page Township Ordinance No. 26-01
+
+===== PAGE 51 =====
+Affordability assistance programs may include down payment assistance, security
+deposit assistance, low-interest loans, rental assistance, assistance with home-
+owners association or condominium fees and special assessments, infrastructure
+assistance, and assistance with emergency repairs. The specific programs to be used
+for affordability assistance shall be identified and described within the Spending Plan.
+Affordability assistance for very low-income households may include producing very
+low-income units or buying down the cost of low- or moderate-income units in the
+municipal Fair Share Plan to make them affordable to households earning 30% or
+less of median income.
+No more than 20% of all affordable housing trust funds, exclusive of those collected
+to fund an RCA prior to July 17, 2008,
+shall be expended on administration,
+including, but not limited to, salaries and benefits for municipal employees or
+consultants’ fees necessary to develop or implement a new construction program,
+prepare and implement a Housing Element and Fair Share Plan, administer an
+Affirmative Marketing Program and for compliance with the Superior Court and the
+Program including the costs to the municipality of resolving a challenge.
+Monitoring
+On or before February 15 of each year, the municipality shall provide annual
+electronic data reporting of trust fund activity for the previous year from January lst
+to December 31st through the AHMS Reporting System. This reporting shall include
+an accounting of all Municipal Affordable Housing Trust Fund activity, including the
+sources and amounts of all funds collected and the amounts and purposes for which
+any funds have been expended. Such reporting shall include an accounting of
+development
+fees
+collected
+from
+residential
+and
+non-residential
+developers,
+previously eligible payments in lieu of constructing affordable units on site
+(if
+permitted by ordinance or by agreement with the municipality prior to the March 20,
+2024 statutory elimination per P.L. 2024, c.4), funds from the sale of units with
+extinguished controls, barrier-free escrow funds, rental income from municipally-
+owned affordable housing units, repayments from affordable housing program loans,
+interest and any other funds
+collected
+in connection with municipal housing
+programs,
+as
+well
+as
+an
+accounting
+of
+the
+expenditures
+of revenues and
+implementation of the Spending Plan approved by the Court.
+Ongoing Collection of Fees
+The ability to impose, collect and expend development fees shall continue so long as
+the municipality retains authorization from the Court in the form of Compliance
+Certification or the good faith effort to obtain it.
+49
+| Page Township Ordinance
+No.
+26-01
+
+===== PAGE 52 =====
+Emergent Affordable Housing Opportunities. Requests to expend affordable housing
+trust funds on emergent affordable housing opportunities not included in the
+municipal fair share plan shall be made to the Division and shall be in the form of a
+governing body resolution. Any request shall be consistent with N.J.A.C. 5:99-4.1.
+Section 2. Severability
+If any
+section,
+sentence
+or any other
+part of this Ordinance
+is adjudged
+unconstitutional or invalid, such judgment shall not effect, impair, or invalidate the
+remainder of this Ordinance but shall be confined in its effect to the section, sentence,
+or other part of this Ordinance directly involved in the controversy which such
+judgment shall be rendered.
+Section 3. Inconsistent Ordinances Repealed.
+All other ordinances or parts of ordinances which are inconsistent with the provisions
+of this ordinance are hereby repeated, but only to the extent of such inconsistencies.
+Section 4. Effective Date
+This Ordinance shall take effect immediately upon final passage and publication as
+provided by law.
+ATTEST:
+APPROVED:
+TOWNSHIP COUNCIL OF THE
+TOWNSHIP OF WASHINGTON
+4byowneVeit 4p “
+By:
+Michael DeSena
+Susan Witkowski,
+Michael Desena,
+Township Clerk
+Council President
+50| Page Township Ordinance No. 26-01
+
+===== PAGE 53 =====
+[DeSena fT
+xT
+[Sears of xk Te PT
+fUlman fe PT
+[velez
+of
+Te
+Te PC
+ATTEST:
+APPROVED:
+TOWNSHIP COUNCIL OF THE
+TOWNSHIP(\ SHINGTON
+Susan Witkowski,
+Michael DeSena,
+Township Clerk
+Council President
+Adoption Date: March 16,
+2026
+[Cascio
+ff x Te
+[DeSena [Te
+[Sears of
+| xe
+JUlman fT
+[velez
+PE
+. ERTIFIED TO BE A TRUE COPY OF A
+RESOLUTION PASSED AT ATOWNSHIP
+“We. MEETINGON Bhieleoes,
+‘
+TOWNSHIP CLERK
+aa
+51|Page Township Ordinance
+No.
+26-01
+
+===== PAGE 54 =====
+TOWNSHIP CODE BY CREATING NEW AH-1 and AH-2 AFFORDABLE
+HOUSING DISTRICTS TO PERMIT INCLUSIONARY TOWNHOUSE
+DEVELOPMENT ON BLOCK 2329 LOT 2 AND BLOCK 2110 LOT 1 AND
+LOTS 6-11, INCREASE THE PERMITTED RESIDENTIAL DENSITY ON
+BLOCK 3202.01 LOT 3 AND AMEND THE REQUIRED AFFORDABLE
+HOUSING SET-ASIDE FOR BLOCK 3405 LOT 1 IN ACCORDANCE WITH
+THE TOWNSHIP'S HOUSING ELEMENT AND FAIR SHARE PLAN
+WHEREAS, in accordance with the New Jersey Supreme Court's "Mount
+Laurel I" decision (South Burlington County NAACP v. Mount Laurel, 67 N.J.
+151 (1975)) and progeny, as well as the 1985 New Jersey Fair Housing Act
+("FHA"), N.J.S.A. 52:27D-301 et seg., Washington Township (the "Township")
+has
+a constitutional obligation to provide for its fair share of its region's need for
+low- and moderate-income housing; and
+WHEREAS, on March 20, 2024, Governor Murphy signed into law P.L. 2024,
+c.2, which amended the 1985 New Jersey Fair Housing Act ("Amended FHA");
+and
+WHEREAS, in accordance with the requirements of the Amended FHA, the
+Washington Township Planning Board adopted a Housing Element and Fair
+Share Plan to address its Fourth Round affordable housing obligation
+adopted June 18, 2025; and
+WHEREAS, the Township's Housing Element and Fair Share Plan includes as
+a plan mechanism to address a portion of the Township's affordable housing
+obligation rezoning Block 2329 Lot 2 to permit inclusionary townhouse
+development; and
+WHEREAS, the Township's Housing Element and Fair Share Plan includes as
+a plan mechanism the rezoning of Block 2110 Lot 1 and Lots 6-11
+to permit
+inclusionary townhouse development; and
+4|Page Township OrdinanceNo. 26-02 ©
+
+===== PAGE 55 =====
+as a plan mechanism an amendment to the minimum affordable housing set-
+;
+aside for the existing Affordable Housing Overlay District on Block 3405 Lot 1
+to a minimum of 3 to 4 affordable units, of which shall be funded through a
+contribution from the Township's affordable housing trust fund.
+NOW THEREFORE, BE IT ORDAINED by the Mayor and Council of the
+Township of Washington, Bergen County, New Jersey as follows:
+Section
+1.
+§580-4, Classes
+of districts,
+of Article
+II, Districts and
+Boundaries, of Chapter 580, Zoning, of the Township of Washington Code
+shall be amended and supplemented to read as follows
+(additions are
+underlined and deletions are indicated with strikethroughs):
+§580-4
+Classes of districts.
+For the purpose of this chapter, the Township of Washington in the
+;
+County of Bergen, State of New Jersey, is hereby divided into the
+following classes of districts:
+A
+Residence District
+B
+Residence District
+AA
+Residence District
+AAA
+Residence District
+Cc
+Retail Business District
+O-R_
+Office Building and Research District
+PRTD
+Planned Residential Townhouse Development
+Inclusionary Multifamily Affordable Housing Overlay District
+AH-1
+Affordable Housing
+1 District
+AH-2 Affordable Housing 2 District
+Section 2. §580-5, Boundaries, of Article 11, Districts and Boundaries, of
+Chapter 580, Zoning, of the Township of Washington Code shall be
+amended and supplemented to read as follows (additions are underlined
+and deletions are indicated with strikethroughs):
+2[Page Township Ordinance No. 26-02
+|
+
+===== PAGE 56 =====
+chapter, which is entitled: "Zoning Map, Township of Washington,
+Bergen County, New Jersey, Revised Jub+22,1982 March 2006, by
+Azzolina Engineering Company, Consulting Engineer, Paramus, New
+Jersey." In case of uncertainty or disagreement as to the true location
+of any district or boundary line, the determination thereof shall lie
+with the Board of Adjustment, as provided by law.
+B. Zone boundaries are to be construed, except where obviously shown
+otherwise, as either following or being measured with reference to
+street lines, existing lot lines, streams or the line of railroad right-of-
+way. Where a boundary line does not follow sucha line or stream, its
+position is indicated by means of figures expressing distances in feet
+from an intersecting street line.
+Section 3. Chapter 580, Zoning, of the Township of Washington Code shall
+be amended and supplemented by creating a new §580-38.2, AH-1
+Affordable Housing District, establishing development regulations for Block
+2329 Lot 2, which shall read as follows:
+§580-38.2
+AH-1 Affordable Housing District
+A. Purpose.
+The purpose of the AH-1 Affordable Housing District is to
+address a portion of the Township's affordable housing obligation in
+accordance with the Township's Housing Element and Fair Share Plan
+and Mediation Agreement with Fair Share Housing Center executed on
+December 29, 2025. The AH-1 Zone is designed to permit inclusionary
+townhouse development of up to 72 total units including a minimum of
+15 affordable housing units on Block 2329 Lot 2.
+B. Permitted principal uses.
+No building or land shall be used and no
+building or other structure shall be built, altered or erected to be used
+for any other purpose than those specified as follows:
+(1) Townhouses.
+3|Page Township Ordinance No. 26-02.
+
+===== PAGE 57 =====
+All development in the AH-1 Zone shall comply with the following bulk
+requirements:
+(1) Min. lot area: 4.9 ac
+(2) Min. lot frontage Pascack Road: 300 ft
+(3) Max. Unit Count: 72 units
+(4) Min. affordable set-aside:
+15 units
+(5) Min. front yard setback: 65 ft
+(6) Min. side yard setback: 30 ft
+(7) Min. rear yard setback: 50 ft
+(8) Min. setback between buildings: 22 feet
+(9) Max. building coverage: 20%
+(10) Max. impervious coverage: 50%
+(11)Max. building height: 2.5 stories/35 feet
+(12) Min Buffer to Residential use: 20 feet
+(13)Min Buffer to non-residential use: 15 feet
+E. Parking and circulation.
+(1) The minimum required parking for the townhouse use shall
+comply
+with
+Residential
+Site
+Improvement
+Standards
+requirements.
+(2) Parking areas are prohibited in the front yard.
+(3) Driveways and parking areas shall have a minimum setback of 20
+feet from side and rear lot lines.
+F. Supplementary regulations.
+(1) Stormwater basins are permitted in front, side and rear yard areas.
+(2) There shall be a landscape buffer at least 20 feet in width along
+lot lines shared with residential uses and a minimum 15 foot
+wide buffer along lot lines shared with nonresidential uses.
+4|Page
+Township Ordinance
+No. 26-02
+SO
+
+===== PAGE 58 =====
+and
+wall mounted
+lighting
+fixtures
+shall have a maximum
+mounting height of 12 feet and maximum color temperature of
+3,000 Kelvin.
+(5) One ground identification sign shall be permitted at each driveway
+entrance on Pascack Road not to exceed 24 square feet in area and
+maximum height of 4 feet.
+Freestanding signs shall be externally
+jltuminated. Non-illuminated wayfinding or directional signage shall
+be permitted not to exceed 2 square feet each.
+Section 4. Chapter 580, Zoning, of the Township of Washington Code shall
+be amended and supplemented by creating a new §580-38.3, AH-2
+Affordable Housing District, establishing development regulations for Block
+2110 Lot 1 and Lots 6-11, which shall read as follows:
+§580-38.3
+AH-2 Affordable Housing District
+A. Purpose. The purpose of the AH-2 Affordable Housing District is to
+address a portion of the Township's affordable housing obligation in
+accordance with the Township's Housing Element and Fair Share Plan
+and Mediation Agreement with Fair Share Housing Center executed on
+December 29, 2025. The AH-2 Zone is designed to permit inclusionary
+townhouse development of up to 32 total units including a minimum of
+7 affordable housing units on Block 2110 Lot 1 and Lots 6-11.
+B. Permitted principal uses.
+No building or land shall be used and no
+building or other structure shall be built, altered or erected to be used
+for any other purpose than those specified as follows:
+(1) Townhouses.
+C. Permitted accessory uses.
+Uses customary and incidental to the
+principal use, including but not limited to meeting rooms, gyms, and
+other amenities for the sole use of residents and their guests, shall be
+permitted.
+&|Page Township OrdinanceNo.26-02
+
+===== PAGE 59 =====
+(1) Min. lot area: 2 ac
+(2) Min. lot frontage: 100ft
+(3) Max. density: 32 units
+(4) Min. affordable set-aside:
+7 units
+(5) Min. front yard setback: 60 ft
+(6) Min. setback from North lot line: 100 ft
+(7) Min. setback from all other side and rear lot lines: 50 ft
+(8) Max. building coverage: 20%
+(9) Max. impervious coverage: 55%
+(10) Max. building height: 2 stories/35 feet
+E. Parking and circulation.
+(10)
+The minimum required parking for the townhouse use shall
+comply
+with
+Residential
+Site
+Improvement
+Standards
+requirements.
+(1) Vehicular site access shall be provided by a single two-way driveway
+on Pascack Road no more than 150 feet from the northern side lot
+line.
+(2) Parking areas are prohibited in the front yard.
+(3) Driveways and parking areas shall have a minimum setback of 15 feet
+from side and rear lot lines excluding lot lines interior of the tract.
+(4) Garages must face the interior of the tract.
+F. Supplementary regulations.
+(11)
+Stormwater basins are permitted in front, side and rear yard areas.
+(12)
+There shall be a landscape buffer at least 15 feet in width alongside
+and rear lot lines.
+6|Page Township Ordinance No. 26-02
+
+===== PAGE 60 =====
+on adjacent properties and residential uses.
+Exterior freestanding
+and wall mounted lighting fixtures shall have
+a maximum mounting
+height of 12 feet and maximum color temperature of 3,000 Kelvin.
+(15)
+One ground identification sign shall be permitted at the driveway
+entrance on Pascack Road not to exceed 24 square feet in area and
+maximum height of 4 feet. Freestanding signs shall be externally
+illuminated. Non-illuminated wayfinding or directional signage shall
+be permitted not to exceed 2 square feet each.
+Section 5.
+§580-65, Affordable Housing Overlay District, of Article IX, Class O-
+R District, of Chapter 580, Zoning, of the Washington Township Code shall be
+amended and supplemented by increasing the maximum permitted residential
+density on Block 3202.01 Lot 3 from 15 dwelling units per acre to 18 dwelling
+units per acre as follows (additions are underlined and deletions are indicated with
+strikethroughs):
+§580-65.0(1) Maximum residential density: 18 dwelling units per acre.
+Section 6. §580-31, Affordable Housing Overlay District, of Article VI, Class AA
+District, of Chapter 580, Zoning, of the Washington Township Code shall be
+amended and supplemented by amending the minimum required affordable
+housing set aside for inclusionary development on Block 3405 Lot 1 as follows
+(additions are underlined and deletions are indicated with strikethroughs):
+§580-31.E. (1) A-minimum of 15% of rental units and 20% of for sale units-
+shall be reserved-as affordable units_A minimum affordable housing set-
+aside of 15% for rental units and 20% for sale units. resulting in at least 3-
+4 affordable units, respectively. at a density of 8 units/acre. shall be
+required for any inclusionary development. Additionally,
+1
+additional affordable unit shall be funded by a contribution from the
+Township's affordable housing trust fund.
+Section 7.
+All ordinances and resolutions or parts thereof inconsistent with
+this ordinance are hereby repealed as to such inconsistencies only.
+7|Page Township Ordinance No. 26-02
+ee
+
+===== PAGE 61 =====
+remaining paragraphs or sections hereof.
+Section 9.
+Following introduction and prior to adoption, the Township Clerk
+shall cause a copy of this ordinance to be referred to the Washington Township
+Planning Board for review pursuant to N.J.S.A. 40:55D-26.
+Section 10. This ordinance shall take effect 20 days after its final passage in
+accordance with N.J.S.A. 40:69A-181 and upon filing with the Bergen County
+Planning Board.
+ATTEST:
+APPROVED:
+TOWNSHIP COUNCIL OF THE
+TOWNSHIP OF WASHINGTON
+“
+Woh jute
+rf
+3
+Michael DeSena
+j
+sy:
+——
+“Susan Witkowski,
+Michael DeSena,
+Township Clerk
+Council President
+8|Page Township Ordinance No. 26-02.
+©”
+
+===== PAGE 62 =====
+/COUNCIL
+| MOTION [SECOND [AYES [NAYES | ABSTAIN [ABSENT [RECUSE |
+jcascio fT
+[Desena [
+[| x [x [
+|
+[COT TC
+a
+Oe
+[Uman fx
+[Velez
+oT
+x PO
+ATTEST:
+APPROVED:
+TOWNSHIP COUNCIL OF THE
+TOWNSHIP
+WASHINGTON
+|
+LaLEULLLOWA
+ay,
+Susan Witkowski,
+Michael DeSena,
+Township Clerk
+Council President
+Adoption Date:
+March 16,
+2026
+[COUNCIL
+_| MOTION [SECOND [AYES [NAYES | ABSTAIN | ABSENT] RECUSE |
+LS
+a
+eS
+[Desena [Te TUT
+[Sears of
+|e TeUTE
+Ullman Pe
+Velez Pe PT
+CoxTiFign TO BE A TRUE COPY OF A
+UTION PASSED A
+‘we MEETING ON. Bo.yee
+7
+TOWNSHIP CLERK
+‘
+9|Page Township Ordinance No. 26-02
+©
+
+===== PAGE 63 =====
+AN ORDINANCE AMENDING CHAPTER 513 ENTITLED “DEVELOPMENT
+FEES” OF THE ORDINANCES OF THE TOWNSHIP OF WASHINGTON
+BE IT ORDAINED by the Township Council of the Township of Washington
+that Chapter 513 of the ordinances of the Township of Washington entitled
+“Development Fees” is deleted and replaced with the following:
+Section 1.
+Chapter 513 is hereby deleted and replaced in its entirety with the following:
+RESERVED.
+Section 2.
+All ordinances of the Township of Washington which are inconsistent with the
+provisions
+of the Ordinance
+are hereby repealed
+to the extent
+of such
+inconsistency.
+Section 3.
+If any section, subsection, sentence, clause or phrase of this Ordinance is for
+.
+any reason held to be unconstitutional or invalid, such decision shall not affect
+the remaining portions of this Ordinance.
+Section 4.
+This Ordinance shall take effect immediately upon final passage, approval and
+publication as required by law.
+ATTEST:
+APPROVED:
+TOWNSHIP COUNCIL OF THE
+TOWNSHIP OF WASHINGTON
+{ tad)
+Michael DeSena
+‘Susan Witkowski,
+Michael DeSena,
+Township Clerk
+Council President
+1]Page Township Ordinance
+No. 26-03
+-
+oS
+
+===== PAGE 64 =====
+LS Po
+x lx |
+[Sears of
+|
+Te FCO
+[Velez fT
+x PO
+ATTEST:
+APPROVED:
+TOWNSHIP COUNCIL OF THE
+TOWNSHIP
+OF(WASHINGTON
+Wodat hhorsofe.
+vy
+/Susan Witkowski,
+Michael DeSena,
+Township Clerk
+Council President
+Adoption Date: March 16,
+2026
+Ee ee
+ES
+[Sears
+|
+|e UTeT
+es
+CERTIFIED TO BE A TRUE COPY OF A
+RESOLUTION PASSED AT_A,TOWNSHIP,
+COUNCIL MEETING ON 8leyee
+:
+&
+OWNSHIP CLERK —
+<
+2{[Page Township Ordinance
+No.
+26-03
+-

@@ -1,0 +1,109 @@
+{
+  "municipality": "Maywood",
+  "research_status": "done",
+  "obligation": {
+    "present_need": 12,
+    "prospective_need": 131,
+    "total_obligation": 143,
+    "rdp": 0,
+    "unmet_need": 131,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/maywood-boro/MaywoodRound4HEFSP011926.pdf?VersionId=XWbQM7BAtB0VBPw0ev2A3ZmoxzzxXAw3"
+  },
+  "compliance": {
+    "status": "certified",
+    "settlement_party": "Fair Share Housing Center",
+    "settlement_date": "2026-03-13",
+    "hefsp_status": "adopted with compliance certification",
+    "hefsp_adopted_date": "2026-01-19",
+    "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/maywood-boro/MaywoodRound4HEFSP011926.pdf?VersionId=XWbQM7BAtB0VBPw0ev2A3ZmoxzzxXAw3"
+  },
+  "notes": "Maywood is a nearly fully developed community. Fourth Round prospective need obligation confirmed at 131 units; VLA results in RDP of 0 and unmet need of 131. Compliance certification issued by court (filed May 2026, BER-L-699-25). HEFSP dated January 19, 2026; implementing ordinances adopted March 13, 2026. Three new Round 4 overlay districts created: (1) West Passaic Street Stacked Townhome Overlay - Block 87, Lots 2/3/4 (~2.95 acres, 18 du/ac, 20% set-aside, ~11 affordable); (2) Brook Avenue Stacked Townhome Overlay - Block 107, Lots 51-55 (~4.63 acres, 16 du/ac, 20% set-aside, ~15 affordable); (3) AH-1 Overlay - Block 3, Lot 1 (~2.5 acres, 24 du/ac, 20% set-aside, ~12 affordable). CORRECTION: Candidate snapshot had Brook Ave as Block 87 (same as West Passaic) - WRONG. HEFSP confirms Brook Avenue is Block 107, Lots 51-55. AH-1 overlay (Block 3, Lot 1) was missing from candidate snapshot entirely.",
+  "sources": [
+    {
+      "doc_type": "HEFSP",
+      "title": "Master Plan Housing Element and Fair Share Plan, Borough of Maywood, January 19, 2026",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/maywood-boro/MaywoodRound4HEFSP011926.pdf?VersionId=XWbQM7BAtB0VBPw0ev2A3ZmoxzzxXAw3",
+      "excerpt": "The calculated Prospective Need for the Borough in the Fourth Round is 131 units...Based upon the settlement agreement with Fair Share Housing Center the vacant land adjustment prepared for the Third Round has not changed and therefore the RDP for the Fourth Round is 0."
+    },
+    {
+      "doc_type": "settlement",
+      "title": "Consent Order Final Compliance Certification, BER-L-699-25",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/maywood-boro/IMOMaywoodOrdercertofcomp699255.18.26.pdf?VersionId=52vhR3s951rmwoatVNBTpK2rX._uZuHC",
+      "excerpt": "the Borough's Present Need or Rehabilitation Obligation is 12, the Borough's Prior Round Obligation (1987-1999) is 36, the Borough's Third Round Obligation (1999-2025) is 255, and the Borough's Fourth Round Prospective Need (2025-2035) is 131 units."
+    }
+  ],
+  "sites": [
+    {
+      "site_name": "West Passaic Street Stacked Townhome Overlay District",
+      "address": "West Passaic Street, Maywood, NJ",
+      "block": "87",
+      "lot": "2, 3, and 4",
+      "acreage": 2.95,
+      "mechanism": "inclusionary overlay",
+      "current_zoning": null,
+      "proposed_zoning": "Stacked Townhome Overlay",
+      "density": 18.0,
+      "total_units": null,
+      "affordable_units": 11,
+      "set_aside_pct": 20.0,
+      "tenure": null,
+      "adoption_status": "adopted-ordinance (March 13, 2026)",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/maywood-boro/MaywoodRound4HEFSP011926.pdf?VersionId=XWbQM7BAtB0VBPw0ev2A3ZmoxzzxXAw3",
+      "source_page": "Page 25 (HEFSP p. 25)",
+      "source_date": "2026-01-19",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "The West Passaic Street Stacked Townhome Overlay District applies to the combined properties identified as Block 87, Lots 2, 3, and 4, comprising approximately 2.95 acres. This overlay permits the development of stacked townhomes...Development within this overlay district is permitted at a maximum density of 18 dwelling units per acre and is subject to a minimum affordable housing set-aside of 20 percent. It is anticipated that 11 affordable housing units would be constructed in this zone.",
+      "notes": "Round 4 unmet need mechanism. Stacked townhomes permitted. The 11 affordable units are anticipated based on 20% set-aside at maximum density. Candidate snapshot confirmed Block 87, Lots 2/3/4 with 20% set-aside."
+    },
+    {
+      "site_name": "Brook Avenue Stacked Townhome Overlay District",
+      "address": "Brook Avenue, Maywood, NJ",
+      "block": "107",
+      "lot": "51, 52, 53, 54, and 55",
+      "acreage": 4.63,
+      "mechanism": "inclusionary overlay",
+      "current_zoning": null,
+      "proposed_zoning": "Stacked Townhome Overlay",
+      "density": 16.0,
+      "total_units": null,
+      "affordable_units": 15,
+      "set_aside_pct": 20.0,
+      "tenure": null,
+      "adoption_status": "adopted-ordinance (March 13, 2026)",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/maywood-boro/MaywoodRound4HEFSP011926.pdf?VersionId=XWbQM7BAtB0VBPw0ev2A3ZmoxzzxXAw3",
+      "source_page": "Page 25 (HEFSP p. 25)",
+      "source_date": "2026-01-19",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "The Brook Avenue Stacked Townhome Overlay District encompasses the properties identified as Block 107, Lots 51, 52, 53, 54, and 55, which together comprise approximately 4.63 acres. Similar to the West Passaic Street overlay, this district permits the development of stacked townhomes...The maximum permitted density within this overlay district is 16 dwelling units per acre, and all developments are required to provide a minimum 20 percent affordable housing set-aside. It is anticipated that 15 affordable housing units would be constructed in this zone.",
+      "notes": "CORRECTION vs. candidate snapshot: Block is 107 (Lots 51-55), NOT Block 87 as the candidate snapshot indicated. Brook Avenue and West Passaic Street are separate blocks. Candidate snapshot incorrectly listed both as Block 87."
+    },
+    {
+      "site_name": "Affordable Housing 1 Overlay District (AH-1) - Spring Valley Avenue",
+      "address": "Spring Valley Avenue, Maywood, NJ",
+      "block": "3",
+      "lot": "1",
+      "acreage": 2.5,
+      "mechanism": "inclusionary overlay",
+      "current_zoning": null,
+      "proposed_zoning": "AH-1 Overlay District",
+      "density": 24.0,
+      "total_units": null,
+      "affordable_units": 12,
+      "set_aside_pct": 20.0,
+      "tenure": null,
+      "adoption_status": "adopted-ordinance (March 13, 2026)",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/maywood-boro/MaywoodRound4HEFSP011926.pdf?VersionId=XWbQM7BAtB0VBPw0ev2A3ZmoxzzxXAw3",
+      "source_page": "Pages 25, 34 (HEFSP pp. 25, 34)",
+      "source_date": "2026-01-19",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "The Affordable Housing 1 Overlay District (AH-1) is located along Spring Valley Avenue and applies to Block 3, Lot 1, which has a lot area of approximately 2.5 acres. This overlay permits mid-rise apartment buildings...Development within the AH-1 District is permitted at a maximum density of 24 dwelling units per acre, and...A minimum of 20% affordable housing set-aside is required and it is anticipated that 12 affordable housing units would be constructed on this site.",
+      "notes": "MISSING from candidate snapshot entirely. Third new overlay district for Round 4. Mid-rise (up to 4 stories = 3 residential over podium parking). Block 3, Lot 1 (~2.5 acres) on Spring Valley Ave."
+    }
+  ]
+}

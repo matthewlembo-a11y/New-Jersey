@@ -1,0 +1,3654 @@
+
+===== PAGE 1 =====
+BER-L-000752-25
+06/24/2025 2:45:41 PM
+Pg1 of 40
+Trans ID: LCV20251839353
+4
+Engineering
+& Design
+ei
+Goa
+:
+Be Sol TA)
+>
+Ary
+Am
+Lo Laas Loa ho heme
+4]
+uf
+|
+ipa | 2 s“3i rare ANTANTAN rar \I
+|
+fs oe ees UNINC
+NVINIIN
+ieee
+2025 Housing Element &
+=
+i=
+Fair Share Plan
+Township of Mahwah
+June 9, 2025
+Prepared for:
+Prepared by: d
+Colliers Engineering & Design
+jaf
+Shelbourne at Hunterdon
+Township ofMahwah
+Cod Cv
+poe ata:
+License No, 33L10067 1400
+Main: 908.238.0900
+Colliersengineering.com
+Accelerating success. ———
+
+===== PAGE 2 =====
+2025 Housing Element & Fair Share Plan
+Township of Mahwah
+Bergen County, New Jersey
+Adopted by the Planning Board: June 23, 2025
+Endorsed by the Council: June 23, 2025
+The original of this report was signed and sealed in accordance with NJSA 45:14A-12.
+MWT-0031
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 2 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 3 =====
+ 
+Page ii 
+ 
+Table of Contents 
+I. 
+Introduction ................................................................................................................................................ 1 
+II. 
+Content of Housing Element .................................................................................................................... 8 
+III. 
+Mahwah’s Population Demographics ................................................................................................... 11 
+IV. 
+Mahwah’s Housing Demographics ........................................................................................................ 16 
+V. 
+Mahwah’s Employment Demographics ................................................................................................ 22 
+VI. 
+Projection of Housing Stock ................................................................................................................... 26 
+VII. Capacity for Fair Share ............................................................................................................................ 29 
+VIII. Multigenerational Family Continuity Evaluation.................................................................................. 39 
+IX. 
+State Development & Redevelopment Plan Consistency ................................................................... 40 
+X. 
+Fair Share Plan ......................................................................................................................................... 41 
+XI. 
+Mahwah’s Affordable Housing Obligation ............................................................................................ 44 
+XII. Mechanisms & Credits ............................................................................................................................ 49 
+XIII. Implementation Schedule ...................................................................................................................... 92 
+XIV. Implementing Documents ...................................................................................................................... 95 
+XV. Highlands Regional Master Plan Compliance ...................................................................................... 96 
+XVI. Appendix ................................................................................................................................................ 107 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 3 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 4 =====
+ 
+Page 1 
+ 
+I. 
+Introduction 
+According to the New Jersey Fair Housing Act, a Housing Plan Element shall be designed to meet the 
+municipality’s fair share of its region’s present and prospective housing needs, with particular 
+attention to low- and moderate-income housing. 
+Affordable housing in New Jersey has a long, convoluted history dating back to 1975, when the New 
+Jersey Supreme Court ruled that municipalities could not use their power to zone to exclude the 
+region’s low- and moderate-income households.  This landmark decision is commonly referred to as 
+Mount Laurel I, as the defendant was the Township of Mount Laurel.  In 1983 the New Jersey 
+Supreme Court decided what is commonly referred to as Mount Laurel II, wherein the Supreme 
+Court created a quota system for growing municipalities and invented the “Builder’s Remedy” as an 
+enforcement mechanism.  In response to the court decisions, the Fair Housing Act (“FHA”) was 
+adopted in 1985, which provided an administrative process for municipal compliance.  The FHA also 
+created the Council on Affordable Housing (“COAH”), which was responsible for promulgating 
+municipal obligations, adopting regulations, and administering the compliance process.  The first 
+round of affordable housing spanned from 1987 to 1993.  This was followed by the second round 
+from 1993 to 1999. 
+The third round of affordable housing commenced in 1999, but COAH failed to establish new 
+affordable housing obligations.  Several lawsuits were filed between 2008 and 2015 regarding the 
+obligation.  Ultimately, on March 10, 2015, the Supreme Court ruled that COAH failed to act and as a 
+result, the Courts assumed jurisdiction over the Fair Housing Act.  The decision and accompanying 
+Order divided municipalities into one of three categories – those that achieved Third Round 
+Substantive Certification, those that filed or petitioned COAH and those that had never participated 
+in the COAH process. 
+The transitional process created by the Supreme Court tracked the Fair Housing Act procedures for 
+compliance.  In this regard, the process permitted municipalities to file a Declaratory Judgment 
+Action during a 30-day window between June 8 and July 8, 2015, that sought an adjudication as to 
+their fair share.  This would enable the municipality to comply voluntarily with its constitutional 
+obligation to provide a realistic opportunity for the construction of its fair share of the regions’ low- 
+and moderate-income households.  
+On January 18, 2017, the Supreme Court ruled that municipalities are responsible for obligations 
+accruing during the so-called “gap period,” the period between 1999 and 2015.  However, the Court 
+stated that the gap obligation should be calculated as a never-before-calculated component of 
+Present Need (also referred to as Rehabilitation Obligation), which would serve to capture Gap 
+Period households that were presently in need of affordable housing as of the date of the Present 
+Need calculation (i.e. that were still income eligible, were not captured as part of traditional present 
+need, were still living in New Jersey and otherwise represented a Present affordable housing need). 
+Between 2015 and 2024, towns that elected to voluntarily comply with their constitutional obligation 
+participated in mediation sessions, reached settlement agreements, adopted Housing Element and 
+Fair Share Reports, and most towns concluded the process with a judgment of repose and 
+compliance.  As a result of COAH’s inability to function, the third round period spanned from 1999 to 
+2025. 
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 4 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 5 =====
+ 
+Page 2 
+ 
+Then, on March 20, 2024, Governor Murphy signed legislation that dramatically modified the State’s 
+affordable housing regulations.  The 75-page bill, known as A4, abolished COAH, modified the 
+process of affordable housing compliance, amended bonus credits, and, among other changes, set 
+forth several important deadlines.   P.L. 2024, c.2 (“Amended FHA”) charged the Department of 
+Community Affairs (“DCA”) with the preparation of fourth round obligations and set forth aggressive 
+timelines for compliance.  In October of 2024, DCA published a report on its calculations of regional 
+need and municipal present (Rehabilitation Obligation) and prospective (Fourth Round Obligation) 
+fair share obligations.  The Report is entitled “Affordable Housing Obligation of 2025-2035 (Fourth 
+Round) Methodology and Background”.  The DCA calculated Mahwah’s present need obligation as 36 
+and its prospective need obligation as 629.  Municipalities were required to adopt a binding 
+resolution outlining their present and prospective fair share obligations by January 31, 2025.  On 
+January 29, 2025, the Township Council adopted Resolution #091-25 accepting the DCA’s 
+calculations of the Township’s present need obligation, but providing an alternative prospective 
+obligation of 444, subject to vacant land, durational, and/or Highlands build-out adjustment.  The 
+Township of Mahwah also filed a Complaint for Declaratory Relief on January 30, 2025 as part of the 
+compliance certification process outlined in the Director of the Administrative Office of the Courts 
+Directive #14-24.   
+During the 30-day challenge window, four challenges were received from the New Jersey Builder’s 
+Association (“NJBA”), Mahwah Town Center Redevelopers (“MTCR”), Kenneth F. Cerullo, Esq. (an 
+attorney who is a resident of Mahwah), and Fair Share Housing Center (“FSHC”).  The Township 
+mediated with FSHC, which resulted with the Township agreeing to a present need obligation of 36 
+units and a prospective need obligation of 495.  NJBA, MTCR, and Mr. Cerullo indicated they would 
+not object to these obligations.  As a result, the Township Council adopted Resolution #159-25 on 
+March 24, 2025, which commits to a present need obligation of 36 and a prospective need obligation 
+of 495.  A “Decision and Order” was entered on May 13, 2025 fixing the Fourth Round Obligation at 
+495. 
+This is the Township of Mahwah’s Housing Element and Fair Share Plan (“HEFSP”) for the period 
+between 2025 and 2035, known as the Fourth Round.  Mahwah seeks to voluntarily comply with its 
+constitutional obligation to provide a realistic opportunity for affordable housing.  This HEFSP is 
+prepared utilizing the Prior Round Rules1 and the amendments implemented in P.L. 2024, c.2.  Each 
+municipality in the State has a four-part obligation:  
+1. Rehabilitation Obligation  
+2. Prior (First and Second Round) Obligations (1987-1999) 
+3. Third Round Obligation (1999 – 2025) 
+4. Fourth Round Obligation (2025-2035) 
+ 
+1 NJAC 5:91 (Procedural) and NJAC 5:93 (Substantive) Rules. They can be found at: 
+New Jersey Department of Community Affairs | Second Round Regulations 
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 5 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 6 =====
+ 
+Page 3 
+ 
+Affordable Housing History 
+The Township of Mahwah has been active in all four rounds of affordable housing.  A summary of 
+Mahwah’s historic affordable housing timeline is included below: 
+ 
+August 1, 1984 | Mahwah received a Judgment of Compliance and Repose from Judge Smith 
+for the First Round. 
+ 
+December 11, 1995 | Mahwah adopted a 1987-1999 HEFSP for the Second Round and filed 
+the plan with COAH without a petition. 
+ 
+September 25, 1997 | Mahwah petitioned COAH for Second Round Substantive 
+Certification. 
+ 
+July 1, 1998 | Mahwah received Second Round Substantive Certification. 
+ 
+June 7, 2010 | Mahwah petitioned COAH for Third Round Substantive Certification. 
+ 
+July 6, 2015 | Mahwah filed a Declaratory Judgment Action seeking to comply with its 
+constitutional mandate to provide affordable housing in accordance with the March 10, 2015 
+New Jersey Supreme Court Order. 
+ 
+March 29, 2018 | Mahwah signed a Settlement Agreement with intervenors Crossroads 
+Developers Associates and Garden Crossroads, LLC (collectively known as “Crossroads”). 
+ 
+March 30, 2018 | Mahwah signed a Settlement Agreement with John Merrill. 
+ 
+June 8, 2018 | Mahwah signed a Settlement Agreement with FSHC (see Appendix A.). 
+ 
+July 12, 2018 | Preliminary Judgment of Compliance and Repose issued by Judge Farrington. 
+ 
+July 30, 2018 | Amended Preliminary Judgment of Compliance and Repose issued by Judge 
+Farrington, which corrected minor errors in the initial document. 
+ 
+December 18, 2020 | Final Judgment of Compliance and Repose issued by Judge Farrington 
+(see Appendix B). 
+ 
+March 29, 2022 | Township signed a Memorandum of Agreement with Monarch 
+Development Company JV, LLC. 
+ 
+July 19, 2022 | Amended Memorandum of Agreement with Monarch Development 
+Company JV, LLC executed. 
+ 
+October 11, 2022 | Mahwah signed an Amended Settlement Agreement with FSHC (see 
+Appendix C). 
+ 
+November 10, 2022 | Mahwah signed an Amended Crossroads Project Settlement 
+Agreement. 
+ 
+January 2023 | Municipal Actions Settlement Agreement with Rio Vista Mahwah 
+Homeowners Association, Inc., Darlington Village Condominium Association, Inc., Township 
+of Mahwah, and Fyke Brook Estates, LLC executed. 
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 6 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 7 =====
+ 
+Page 4 
+ 
+ 
+February 17, 2023 | Order Approving Amendments to Settlement Agreements Between the 
+Township of Mahwah and FSHC and Crossroads issued by Judge Farrington. 
+ 
+July 19, 2023 | Order Resolving Location of Affordable Housing Units Associated With the 
+Crossroads Project issued by Judge Farrington. 
+ 
+February 20, 2024 | MTCR issues a letter indicating that Monarch (the operator of a multi-
+level senior care facility) had been “dissolved and divested” and that “MTCR cannot proceed 
+with the development of what is now an unfinanceable assisted living facility without an 
+operator, and the parties cannot agree on an alternative inclusionary development on the 
+property”. 
+ 
+May 30, 2024  | Mahwah files Motion for Relief from Settlement in relation to its Agreement 
+with Monarch/MTCR. 
+ 
+June 2024 | MTCR files Cross Motion for Relief from the same agreement noted above. 
+ 
+June 28, 2024 | Order issued by Judge Farrington granting the Township’s Motion for Relief 
+from Settlement. 
+ 
+July 23, 2024 | Second Amendment to the Fair Share Housing Center Settlement Agreement 
+executed  (see Appendix D). 
+ 
+November 27, 2024 | Amended Final Judgment of Compliance and Repose issued by Judge 
+Farrington (see Appendix E). 
+ 
+January 29, 2025 | Township Council adopted Resolution #091-25 Committing to Round 4 
+Present and Prospective Need Obligations (see Appendix F). 
+ 
+January 30, 2025 | Complaint for Declaratory Relief filed (see Appendix G). 
+ 
+February 26 – 28, 2025 | Challenges filed by NJBA, MTCR, Mr. Cerullo, and FSHC. 
+ 
+March 24, 2025 | Township Council adopted Resolution #159-25 Committing to Round 4 
+Present and Prospective Need Obligations in Agreement with FSHC (see Appendix H). 
+ 
+March 31, 2025 | Recommendation for “Decision and Order on Fair Share Obligation” 
+entered by the Court on behalf of Program Member Bookbinder (see Appendix I). 
+ 
+May 13, 2025 | County Level Housing Judge Order entered (see Appendix PP). 
+Municipal Summary 
+The Township of Mahwah is a suburban community located in the northwest corner of Bergen 
+County in northern New Jersey.  Mahwah is slightly over 26 square miles in size and is adjacent to 
+the New York border.  The Ramapo River flows through the Township’s midsection in a 
+northeasterly-southwesterly direction.  Interstate 287, US State Highway Route 202, and New Jersey 
+State Highway Route 17 all converge in the north-central part of the Township, just north of Ramapo 
+College of New Jersey.  Mahwah’s train station along Ramapo Avenue provides access via the 
+Main/Bergen County and Port Jervis Lines of New Jersey Transit to Hoboken and Newark and New 
+York City via Secaucus Junction.  Mahwah is most heavily developed on the eastern side of Interstate 
+287 (“I-287”), whereas the western portion of the Township is largely forested and contains the 
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 7 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 8 =====
+ 
+Page 5 
+ 
+Ramapo Valley County Reservation area.  The majority of lands west of I-287 are in the Highlands 
+Preservation Area where development is severely limited, while all the land east of I-287 is in the 
+Planning Area.  See the map on page 6 for the locations of the Preservation and Planning Areas 
+within Mahwah. 
+The Township of Mahwah is surrounded by Rockland County in New York to the north, the Boroughs 
+of Upper Saddle River, Ramsey, and Allendale to the east, Township of Wyckoff and Townships of 
+Franklin Lakes and Oakland to the south, and the Borough of Ringwood to the west.  See the map on 
+page 7. 
+Between 2010 and 2020, Mahwah’s population decreased slightly by 1.6% from 25,890 in 2010 to 
+25,487 in 2020.2  It should be noted that the 2023 American Community Survey (“ACS”), which is the 
+most recent Survey available, estimates Mahwah’s population at 25,375 residents, which represents 
+a loss of 112 residents since the 2020 Census.3  The North Jersey Transportation Planning Authority 
+(“NJTPA”) projects that the Township will grow to 34,216 residents by the year 2050.4 
+Affordable Housing Obligation 
+The Township of Mahwah has committed to a Rehabilitation Obligation of 36 units.  The Township’s 
+Prior Round Obligation (“PRO”), as confirmed by the 2018 FSHC Settlement Agreement (see 
+Appendix A) is 350.  Mahwah agreed to an 830-unit Third Round Obligation (“TRO”).  Finally, the 
+Township’s Fourth Round Obligation (“FRO”) is 495 (see Appendix H). 
+However, the Township is located within the Highlands Region and, in compliance with the Amended 
+FHA, this Housing Element and Fair Share Plan incorporates the results of the Highlands Build-out 
+analysis.  The results of the build-out are in Chapter XI. 
+The chart below illustrates the Township’s four-part obligation. 
+ 
+Township Goal 
+It is the overall goal of the HEFSP, in combination with the Land Use Plan, to provide the planning 
+context in which access to low- and moderate-income housing can be provided in accordance with 
+the requirements of the Amended Fair Housing Act and the laws of the State of New Jersey, while 
+respecting the character, scale, density, and utility constraints of the Township of Mahwah.  
+Furthermore, the Township’s goal is to provide affordable housing compliant with the Highlands 
+Regional Master Plan. 
+ 
+2 Information sourced from https://data.census.gov/, accessed May 19, 2025.  
+3 Ibid. 
+4 Information sourced from NJTPA Plan 2050, Appendix E, “Demographic Forecasts”, https://www.njtpa.org/plan2050, 
+accessed May 19, 2025. 
+Rehabilitation
+Prior Round
+1987 - 1999
+Third Round
+1999 - 2025
+Fourth Round
+2025 - 2035
+Obligation
+36
+350
+830
+495
+Highlands Build-Out
+--
+--
+--
+3
+Build-Out Unmet Need
+--
+--
+--
+492
+Affordable Housing Obligation
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 8 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 9 =====
+BER-L-000752-25
+06/24/2025 2:45:41 PM
+Pg9of40
+Trans ID: LCV20251839353
+~
+S
+Legend
+_
+SN
+Municipal Boundary
+S
+S
+Parcels
+s S
+| a | Highlands Planning Area
+o
+= ~
+[ mn | Highlands Preservation Area
+=
+SWS
+)
+“SS
+S
+!
+~
+)
+>
+/
+~
+~
+/
+~
+Borough of
+f
+7 ~
+iy
+~~
+Ringwood
+f
+SI
+™
+/
+S
+_
+/)
+%
+~
+&
+_
+/
+cn
+>
+/
+~
+f\e-—
+7
+/
+Oar
+oS
+r
+os {
+3
+£
+= 7.
+/
+j
+&
+®
+S
+&
+/
+é
+WN
+f
+VeRe
+ppl)
+f
+CaTepon®
+oy,
+——
+Se
+f
+8
+ay)
+I)
+3,
+f
+el
+J
+e
+Y
+%
+(
+pw
+!
+—
+}
+Borough of Upper
+=
+J
+=
+t2024
+j
+Borough
+‘
+Saddle River,
+og
+S
+3
+@
+ctf
+S
+é
+i
+ofRamsey.
+\
+Pay,
+S
+&
+~\
+‘J =
+S
+&
+rad
+mS)
+af
+3 Y
+g
+¢
+>}
+S
+\
+oe
+/
+=
+=
+BINS
+rm
+/
+~
+287,
+N
+ff
+SS
+>
+JN
+———
+ow
+if
+¥
+@
+=
+SY
+[]
+y,
+\ %
+os
+,
+of
+07]
+f
+y
+My
+S
+"Ue£
+M
+I
+@
+Borough of
+VY
+%
+$
+g
+Borough of
+e
+@
+&
+=
+Oakland
+MY
+Aen
+Allendale
+A
+Borough of
+f
+.
+PD a
+y
+Saddle River
+aa
+yo
+Laggee
+/
+4
+ONS
+\
+=
+Borough of
+oP
+=,
+T
+wu)
+2
+~
+"A
+Franklin Lakes
+oP
+y
+i
+2
+J
+i
+i]
+Q
+, @
+i
+a
+Borough of
+y
+y
+Township 7
+Waldwick
+__—
+‘
+of Wyckoff
+~
+§
+J
+SS a
+ee =
+\
+é
+ef
+7 Alea fact SA ca
+\
+Z
+i
+ent
+I]
+S
+HIGHLANDS PLANNING & PRESERVATION AREAS
+TOWNSHIP OF MAHWAH
+N
+Colli
+BERGEN COUNTY, NEWJERSEY
+0
+0.6
+4.2
+OUICKS
+—
+|
+ae
+1 inch = 1.2 miles
+A
+Engineering
+& Design
+This map was developed using GIS digital data from NJDEP, NJDOT, and NJGIN, but this
+May 27, 2025
+secondary product has not been verified and is not state-authorized.
+Mw70037
+
+===== PAGE 10 =====
+BER-L-000752-25
+06/24/2025 2:45:41 PM
+Pg 10of 40
+Trans ID: LCV20251839353
+S
+Putnam
+S Cee County
+exunby
+~
+Orange County
+f
+“~S
+New York Westchester
+S
+£
+County
+oa
+S
+new Yule
+Rockland
+/
+? ~
+County:
+|
+"i
+NN
+Rockland County
+/
+/
+SY
+f}
+oS
+]
+~
+p
+/
+T
+AK
+Bronk
+Borough
+of
+f
+-
+~
+of
+A
+Ringwood:
+}
+A
+1.
+Queens
+/
+|
+~ & ta
+Oe)
+/
+Mm
+—
+]
+Lp
+i
+Us
+Bs
+re
+]
+Oey,
+oo
+c?
+B) Vie
+P
+\
+y
+%
+tf
+Of Gay
+*
+|
+il
+\
+/
+=
+m= Fo
+\
+\ er
+y
+Borough ofUpper
+ey
+S
+:
+02
+a
+\
+\/ “JO
+saddie river
+|
+~~
+S
+(
+Borough
+\
+t
+se
+{
+>
+SS
+t
+of
+=
+= S M
+>» ~
+&
+pe
+ns
+hr.)
+/
+/
+{/
+\
+=
+\ =
+af
+2 LY Ss
+N ee
+y fs
+')
+=~,
+287,
+N
+ye
+/] Fs
+| aes = j
+si
+/
+\
+GON
+awd
+—
+a & ?
+\/
+/
+Yy
+N
+rey,
+ag
+i
+Yj
+ra
+MY
+><
+: Feng :
+aT
+| B
+-
+\
+}
+Borough of
+j
+i.
+%
+fo Borough of Phe
+:
+y,
+/
+a4
+!
+Allendale \
+x
+Oakland
+/
+Foresta
+Borough of ~~
+ey
+4
+.
+oe
+be
+.
+——]
+}
+esi gial
+Ea,
+is
+eee
+7
+he
+"Borough of
+a
+ae
+ee
+ne
+ee
+vA
+f Franklin
+takes
+|
+igs
+\
+AA
+|
+A
+2D
+4
+1
+\
+=
+|
+\
+f
+!
+Borough of
+= ah
+yn
+J
+~
+An
+f
+|
+oO
+Ugh
+O;
+\
+fof
+i
+i
+.
+[township —@ 4— a
+La)
+h
+Cg
+of nick
+~—
+oe
+£
+ee
+AY
+fos
+Nee
+tal
+7
+4
+>
+a
+ee
+\
+SZ
+Z
+\
+fai
+|
+\
+eS,
+I
+Ss
+zt
+REGIONAL LOCATION
+TOWNSHIP OF MAHWAH
+N
+Collier
+BERGEN COUNTY, NEW JERSEY
+0
+0.6
+1.2
+es ts
+|e
+|
+oe
+cE
+1 inch = 1.2 miles
+Engineering
+& Design
+This map was developed using GIS digital data from NJDEP, NJDOT, and NJGIN, but this
+May 27, 2025
+secondary product has not been verified and js not state-authorized.
+MWwT0031
+
+===== PAGE 11 =====
+ 
+Page 8 
+ 
+ 
+ 
+ 
+ 
+ 
+HOUSING ELEMENT 
+Township of Mahwah 
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 11 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 12 =====
+ 
+Page 9 
+ 
+II. Content of Housing Element 
+The Amended Fair Housing Act requires that “the housing element be designed to achieve the goal 
+of access to affordable housing to meet present and prospective housing needs, with particular 
+attention to low- and moderate-income housing”.  As per the Municipal Land Use Law (“MLUL”), 
+specifically NJSA 52:27D-310, a housing element must contain at least the following items: 
+a. An inventory of the municipality's housing stock by age, condition, purchase or rental value, 
+occupancy characteristics and type, including the number of units affordable to low- and 
+moderate-income households and substandard housing capable of being rehabilitated, and 
+in conducting this inventory the municipality shall have access, on a confidential basis for the 
+sole purpose conducting this inventory, to all necessary property tax assessment records 
+and information in the assessor’s office, including but not limited to the property record 
+cards; 
+b. A projection of the municipality's housing stock, including the probable future construction 
+of low- and moderate-income housing for the next ten years, taking into account, but not 
+necessarily limited to, construction permits issued, approvals of applications for 
+development and probable residential development of lands; 
+c. An analysis of the municipality's demographic characteristics, including but not necessarily 
+limited to, household size, income level and age; 
+d. An analysis of the existing and probable future employment characteristics of the 
+municipality; 
+e. A determination of the municipality’s present and prospective fair share for low- and 
+moderate-income housing and its capacity to accommodate its present and prospective 
+housing needs, including its fair share for low- and moderate-income housing, as stablished 
+pursuant to section 3 of P.L.2024, c.2 (C.52-27D-304.1); 
+f. 
+A consideration of the lands that are most appropriate for construction of low- and 
+moderate-income housing and of the existing structures most appropriate for conversion to, 
+or rehabilitation for, low- and moderate-income housing, including a consideration of lands 
+of developers who have expressed a commitment to provide low- and moderate-income 
+housing; 
+g. An analysis of the extent to which municipal ordinances and other local factors advance or 
+detract from the goal of preserving multi-generational family continuity as expressed in the 
+recommendations of the Multigenerational Family Housing Continuity Commission, adopted 
+pursuant to paragraph (1) of subsection f. of section 1 of P.L.2021, c.273 (C.52D-329.20); 
+h. For a municipality located within the jurisdiction of the Highlands Water Protection and 
+Planning Council, established pursuant to section 4 of P.L.2004, C.120 (C.13-20-4), an analysis 
+of compliance of the housing element with the Highlands Regional Master Plan of lands in 
+the Highlands Preservation Area, and lands in the Highlands Planning Area for Highlands-
+conforming municipalities.  This analysis shall include consideration of the municipality’s 
+most recent Highlands Municipal Build Out Report, consideration of opportunities for 
+redevelopment of existing developed lands into inclusionary or 100 percent affordable 
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 12 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 13 =====
+ 
+Page 10 
+ 
+housing, or both, and opportunities for 100 percent affordable housing in both the 
+Highlands Planning Area and Highlands Preservation Area that are consistent with the 
+Highlands regional master plan; and 
+i. 
+An analysis of consistency with the State Development and Redevelopment Plan, including 
+water, wastewater, stormwater, and multi-modal transportation based on guidance and 
+technical assistance from the State Planning Commission. 
+Chapters III. through IX. address a. through i. above except for the determination of the Township’s 
+affordable housing obligation (subsection e.) and the Highlands Council (subsection h.).  Mahwah’s 
+four-part obligation is discussed in Chapter XI.  Additionally, Mahwah is under the jurisdiction of the 
+Highlands Council and, as a result, Chapter XV. is dedicated to Highlands Council compliance.  
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 13 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 14 =====
+ 
+Page 11 
+ 
+III. Mahwah’s Population Demographics  
+The Township of Mahwah’s population has seen steady growth since 1900.  The population grew by 
+over 50% in the 1900s, 1920s, and 1950s.  Between 1940 and 2010, the Township grew by over 
+21,000 residents, or 662.5%, from 3,908 to 25,890.  It should be noted that the Township’s 
+population increased more than the average rate in the 1980s with 5,778 new residents, and in the 
+1990s with 6,157 new residents.  However, in the 2010s, Mahwah’s population shrunk for the first 
+time by 403 residents.  The 2023 ACS estimates the population of Mahwah to be 25,375, which is 112 
+less than reported in the 2020 Census. 
+ 
+The NJTPA projects that the Township’s population will grow to 34,216 residents by 2050 from their 
+baseline 2015 population of 26,289.  This represents an increase of 7,927 residents, or an average 
+increase of approximately 226 residents annually over 35 years.  However, as noted above, the 
+Township’s estimated population according to the 2023 ACS is 25,487, which is 8,841 less residents 
+than projected by the NJTPA.  This translates to an average annual increase of approximately 327 
+residents over the next 27 years. 
+ 
+Year
+Population
+Change
+Percent
+1900
+1,220
+--
+--
+1910
+1,881
+661
+54.2%
+1920
+2,081
+200
+10.6%
+1930
+3,536
+1,455
+69.9%
+1940
+3,908
+372
+10.5%
+1950
+4,880
+972
+24.9%
+1960
+7,376
+2,496
+51.1%
+1970
+10,800
+3,424
+46.4%
+1980
+12,127
+1,327
+12.3%
+1990
+17,905
+5,778
+47.6%
+2000
+24,062
+6,157
+34.4%
+2010
+25,890
+1,828
+7.6%
+2020
+25,487
+-403
+-1.6%
+Population Growth
+Source: Historical Population Trends in Bergen County, 1900-2020
+https://co.bergen.nj.us/planning-engineering-regional-planning-transportationdata-resources-and-
+technology/census-data
+Year
+Population
+Change
+Percent
+2015
+26,289
+---
+---
+2020
+25,487
+-802
+-3.1%
+2050
+34,216
+8,729
+34.2%
+Population Projection
+Source: NJTPA Plan 2050, Appendix E, 2050 Demographic Forecasts, 
+https://www.njtpa.org/plan2050; 2020 Census Table P1
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 14 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 15 =====
+Page 12
+Age Distribution of Population
+The 2023 ACS estimates 22.1% of Mahwah’s population was 65 years or older (5,600) and 19 years or 
+younger (5,616). The largest age cohort was estimated to be those aged 15 to 19 years, which 
+comprised 10.2% (2,587) of the Township’s population.  Residents aged 50 to 54 years comprised the 
+second-largest age cohort at 9.9% (2,518) of the population, followed closely by those aged 20 to 24
+years also at 9.9% (2,514) of the population.  The median age was estimated at 48.1 years in the 
+2023 ACS.  See the table and chart below for further details.
+Household Size & Type
+According to the 2023 ACS, Mahwah had 9,756 households.  Most were married-couple households, 
+which comprised over 57% of all households.  Of those married-couples, 1,939 households had 
+children under 18 years of age.  Female householders with no spouse present comprised a quarter 
+of all households, while male householders with no spouse present comprised only 14.4%.  Of all 
+households with no spouse present, 181 had children under the age of 18 (1.8%), while 3,159 were 
+living alone (32.4%).  See the table on the following page for complete details.
+Age
+Total
+Percent
+85 years and over
+565
+2.2%
+80 to 84 years
+698
+2.8%
+75 to 79 years
+830
+3.3%
+70 to 74 years
+1,170
+4.6%
+65 to 69 years
+2,337
+9.2%
+60 to 64 years
+2,086
+8.2%
+55 to 59 years
+1,742
+6.9%
+50 to 54 years
+2,518
+9.9%
+45 to 49 years
+1,459
+5.7%
+40 to 44 years
+1,103
+4.3%
+35 to 39 years
+1,215
+4.8%
+30 to 34 years
+672
+2.6%
+25 to 29 years
+850
+3.3%
+20 to 24 years
+2,514
+9.9%
+15 to 19 years
+2,587
+10.2%
+10 to 14 years
+1,317
+5.2%
+5 to 9 years
+911
+3.6%
+Under 5 years
+801
+3.2%
+Total 
+25,375
+100%
+Population by Age Cohort
+Source: 2023 ACS Table S0101
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 15 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 16 =====
+Page 13
+The most common household size in Mahwah was estimated to be one-person households, which 
+comprised 32.4% of households in 2023.  Two-person households comprised the second-largest 
+number of households at 32.3%.  Finally, three-person household comprised 15.7% of the 9,756
+households in Mahwah.  It should be noted that three households, contained seven or more people.  
+The table and pie chart below graphically illustrate the household size composition in Mahwah.  
+Additionally, the 2023 ACS estimated the average household size at 2.37 persons, which is less than 
+reported in the 2010 Census (2.42 persons).
+Income & Poverty Status
+The 2023 ACS estimated the median household income for the Township of Mahwah to be $128,125, 
+which is $4,410 more than Bergen County’s and over $27,000 more than the State’s.  Similarly, the 
+median family income for Mahwah was estimated at $171,825, which is over $21,000 more than the 
+County’s and nearly $48,000 greater than the State’s.  Finally, the Township’s per capita income was 
+Type
+Number
+Percent
+Married-couple
+5,576
+57.2%
+   with children under 18
+1,939
+19.9%
+Cohabitating couple
+332
+3.4%
+   with children under 18
+29
+0.3%
+Male householder, no spouse
+1,405
+14.4%
+   with children under 18
+21
+0.2%
+   living alone
+1,310
+13.4%
+Female householder, no spouse
+2,443
+25.0%
+   with children under 18
+160
+1.6%
+   living alone
+1,849
+19.0%
+Total
+9,756
+100%
+Household Type
+Source: 2023 ACS Table DP02
+Size
+Total
+Percent
+1-person
+3159
+32.4%
+2-person
+3,153
+32.3%
+3-person
+1535
+15.7%
+4-person
+1075
+11.0%
+5-person
+553
+5.7%
+6-person
+278
+2.8%
+7+ person
+3
+0.0%
+Total
+9,756
+100%
+Household Size
+Source: 2023 ACS Table B11016
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 16 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 17 =====
+Page 14
+estimated at $67,069, which is more than both the County’s and the State’s.  Based on this data, 
+residents of Mahwah are more well-off than the County and State as a whole.  This is reflected in the 
+poverty rates of individuals and families estimated in the 2023 ACS.  Mahwah’s poverty rate for 
+individuals was estimated at 2.6%, which is less than the County’s by 4.1% and less than the State’s 
+by 7.2%.  Similarly, the Township’s poverty rate for families was estimated at 1.5%, which is less than 
+a third of County’s and approximately 20% of the State’s.  The table and bar chart below provide a 
+comparison between income and poverty characteristics.
+According to the 2023 ACS, 27.6% of households in Mahwah (2,689) earn over $200,000 annually.  
+Households earning $100,000 or more annually were estimated to include 5,837 households or 
+59.8% of all households in Mahwah.  Bergen County has an estimated 59% of households earning at 
+least $100,000 annually, including 28.4% earning more than $200,000.  Households in New Jersey 
+earning $100,000 or more according to the 2023 ACS included 50.5% of households.  It should be 
+noted that 17.4% of households in Mahwah earned less than $50,000.  See the table on the following 
+page for additional details.
+Income Type
+Mahwah Township
+Bergen County
+New Jersey
+Median Household Income
+$128,125
+$123,715
+$101,050
+Median Family Income
+$171,825
+$150,475
+$123,892
+Per Capita Income
+$67,069
+$62,986
+$53,118
+Poverty Status (Percent of People)
+2.6%
+6.7%
+9.8%
+Poverty Status (Percent of Families)
+1.5%
+5.0%
+7.0%
+Income and Poverty Characteristics
+Source: 2023 ACS Table DP03
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 17 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 18 =====
+ 
+Page 15 
+ 
+ 
+Total
+Percent
+Total
+Percent
+Total
+Percent
+Less than $10,000
+290
+3.0%
+11,201
+3.2%
+140,262
+4.0%
+$10,000 to $14,999
+78
+0.8%
+7,234
+2.0%
+99,362
+2.9%
+$15,000 to $24,999
+337
+3.5%
+13,282
+3.8%
+175,402
+5.0%
+$25,000 to $34,999
+308
+3.2%
+15,240
+4.3%
+184,753
+5.3%
+$35,000 to $49,999
+681
+7.0%
+23,079
+6.5%
+276,601
+8.0%
+$50,000 to $74,999
+1,091
+11.2%
+39,916
+11.3%
+448,192
+12.9%
+$75,000 to $99,999
+1,134
+11.6%
+35,056
+9.9%
+397,939
+11.4%
+$100,000 to $149,999
+1,790
+18.3%
+62,751
+17.8%
+627,526
+18.0%
+$150,000 to $199,999
+1,358
+13.9%
+45,164
+12.8%
+407,723
+11.7%
+$200,000 or more
+2,689
+27.6%
+100,384
+28.4%
+720,595
+20.7%
+Total
+9,756
+100%
+353,307
+100%
+3,478,355
+100%
+Mahwah Township
+Bergen County
+Household Income
+New Jersey
+Income Range
+Source: 2023 ACS Table DP03
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 18 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 19 =====
+ 
+Page 16 
+ 
+IV. Mahwah’s Housing Demographics 
+Housing Type 
+The 2023 ACS estimated the Township’s housing stock at 10,058 units.  Single-family, detached 
+dwellings comprised a plurality of the housing stock with 4,743 units or 47.2% of all dwellings.  One-
+family attached dwellings (e.g. townhomes) comprised 2,189 units or 21.8% of the housing stock, 
+while dwellings in buildings containing ten to 19 units comprised 955 units or 9.5% of the housing 
+stock.  The Township contains 2,101 multi-family units (20.9%), which are buildings containing five or 
+more dwelling units.  See the table below for details.  Of the estimated 10,058 units in 2023, roughly 
+657 or 6.5% of the housing stock had been or was affordable.   
+ 
+Occupancy Status 
+Of the 10,058 residential units, 9,756 units, or 97% of the housing stock, was occupied.  This includes 
+7,934 owner-occupied units and 1,822 rental units.  The 302 vacant units only included properties 
+listed for rent, listed for sale, sold but not yet occupied, for seasonal use, and those classified as 
+“other”.  However, ACS Table B25005 categorized 11 of the vacant units as “vacant – current 
+residence elsewhere”.  See the table on the following page for details.  
+The 2023 ACS estimated the average household size in Mahwah was 2.37 persons, while the average 
+family size was 3.03 persons.  Comparing tenure, the average owner-occupied household was 2.46, 
+while the average renter-occupied household was 1.99 persons. 
+Structure
+Number of Units
+Percent 
+1-unit, detached
+4,743
+47.2%
+1-unit, attached
+2,189
+21.8%
+2 units
+209
+2.1%
+3 or 4 units
+658
+6.5%
+5 to 9 units
+662
+6.6%
+10 to 19 units
+955
+9.5%
+20 or more units
+484
+4.8%
+Mobile Home
+158
+1.6%
+Other (boat, RV, van, etc.)
+0
+0.0%
+Total
+10,058
+100%
+Housing Units in Structure
+Source: 2023 ACS Table DP04
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 19 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 20 =====
+ 
+Page 17 
+ 
+ 
+Value & Rent of Housing Stock 
+The 2023 ACS provides data regarding the value of owner-occupied housing units within Mahwah.  
+According to the data, a plurality of homes in the Township were worth between $500,000 and 
+$999,999 (45.2%).  Homes worth between $300,000 and $499,999 comprised 26.2% of the owner-
+occupied housing units, while 15.1% of homes were estimated to be valued over $1 million.  The 
+median home value estimated in the 2023 ACS was $590,400.  See the table below and chart on the 
+following page. 
+ 
+Status
+Units
+ Percent
+Occupied Total
+9,756
+97.0%
+   Owner Occupied
+7,934
+81.3%
+   Renter Occupied
+1,822
+18.7%
+Vacant Total
+302
+3.0%
+   For rent
+50
+16.6%
+   Rented, not occupied
+0
+0.0%
+   For Sale
+52
+17.2%
+   Sold, not occupied
+22
+7.3%
+   Seasonal
+34
+11.3%
+   For migrant workers
+0
+0.0%
+   Other
+144
+47.7%
+Total
+10,058
+100%
+Occupancy Status
+Source: 2023 ACS Tables DP04 & B25004
+Value 
+Number of Units
+Percent 
+Less than $99,999
+456
+5.7%
+$100,000 to $199,999
+102
+1.3%
+$200,000 to $299,999
+513
+6.5%
+$300,000 to $499,999
+2,078
+26.2%
+$500,000 to $999,999
+3,588
+45.2%
+$1,000,000 or more
+1,197
+15.1%
+Total 
+7,934
+100%
+Median Value
+Value of Owner Occupied Units
+Source: 2023 ACS Table DP04
+$590,400
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 20 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 21 =====
+Page 18
+The median rent in the Township was estimated at $2,301 per the 2023 ACS.  Looking at the rent 
+range for the Township, 499 rental units (27.4%) fell between $2,000 and $2,499 per month.  Units 
+that cost between $2,500 and $2,999 comprised 24.9% of rentals (454 units), while 22.7% (414 units) 
+cost between $1,500 and $1,999 per month.  Additionally, 20 units (1.1%) were estimated to cost less 
+than $1,000 per month.  It should be noted that 69 rental units (3.8%) were estimated to have no 
+rent.  See the table below and chart on the following page for more information.
+Cost
+Number of Units
+Percent 
+Less than $1,000
+20
+1.1%
+$1,000 to $1,499
+142
+7.8%
+$1,500 to $1,999
+414
+22.7%
+$2,000 to $2,499
+499
+27.4%
+$2,500 to $2,999
+454
+24.9%
+$3,000 or more
+224
+12.3%
+No rent paid
+69
+3.8%
+Total 
+1,822
+100%
+Median (in dollars)
+Cost of Rentals
+$2,301
+Source: 2023 ACS Table DP04
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 21 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 22 =====
+Page 19
+Condition and Age of Housing Stock 
+The Census does not classify housing units as standard or substandard, but it can provide an 
+estimate of the substandard housing units that are occupied by low- and moderate-income 
+households. However, most of the Census indicators available at the municipal level indicate a 
+sound housing stock.  Only six homes within Mahwah were estimated to lack complete plumbing 
+facilities.  Additionally, ten homes were estimated to lack complete kitchen facilities, while 18 homes 
+were estimated to have “no fuel used” for heating (gas, liquid propane, electricity, solar, etc.).
+Housing with 1.01 or more persons per room (excluding bathrooms and kitchens) is an index of 
+overcrowding as defined by the U.S. Department of Housing and Urban Development.5  According to 
+the 2023 ACS, of the Township’s 9,756 occupied housing units, only 50 (0.5%) contained 1.01 or more 
+persons per room.  
+5 https://www.hcd.ca.gov/planning-and-community-development/housing-elements/building-blocks/overpayment-payment-and-
+overcrowding#:~:text=The%20U.S.%20Census%20defines%20an,room%20are%20considered%20severely%20overcrowded. Accessed April 17, 
+2025.
+Condition
+Number of Units
+Percent 
+Lack of complete plumbing
+6
+0.0%
+Lack of complete kitchen
+10
+0.0%
+Lack of telephone service
+46
+0.5%
+Lack of adequate heat
+18
+0.2%
+Total Occupied Housing Units
+9,756
+0.7%
+Condition of Housing Stock
+Source: 2023 ACS Table DP04
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 22 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 23 =====
+ 
+Page 20 
+ 
+ 
+The table below and bar graph on page 21 provide the 2023 ACS estimates for the age of housing 
+units in Mahwah.  An estimated 2,429 units, or 24.2%, of the Township’s housing stock were 
+constructed prior to 1970.  Over 30% of housing units were constructed in the 1980s, while nearly a 
+quarter were constructed during the 1990s.  During these two decades, over 55% of the Township’s 
+housing stock was constructed.  Since 2000, residential development in the Township has declined 
+with only 263 units (2.6%) constructed in the 2010s.  See the table below and chart on the following 
+page for more details.  The Township’s Rehabilitation Obligation is 36 units, reflecting the relatively 
+good condition of these older homes. 
+It should be noted that the “2020 or later” line item may be inaccurate.  The New Jersey Department 
+of Community Affairs’ (“DCA”), Division of Codes and Standards website provides data on building 
+permits, certificates of occupancy, and demolition permits for both residential and non-residential 
+development.  We have reviewed the data from the State for 2020 through 2024 and only 19 
+certificates of occupancy have been issued for new residential units since the beginning of 2020.   
+ 
+Occupants
+Number of Units
+Percent 
+1.00 or less
+9,706
+99.5%
+1.01 to 1.50
+22
+0.2%
+1.51 or more
+28
+0.3%
+Total
+9,756
+100%
+Occupants Per Room
+Source: 2023 ACS Table DP04
+Year Built
+Number of Units
+Percent
+1939 or earlier
+816
+8.1%
+1940 to 1949
+199
+2.0%
+1950 to 1959
+670
+6.7%
+1960 to 1969
+744
+7.4%
+1970 to 1979
+1,037
+10.3%
+1980 to 1989
+3,045
+30.3%
+1990 to 1999
+2,494
+24.8%
+2000 to 2009
+759
+7.5%
+2010 to 2019
+263
+2.6%
+2020 or later
+31
+0.3%
+Total 
+10,058
+100%
+Age of Housing Stock
+Source: 2023 ACS Table DP04
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 23 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 24 =====
+BER-L-000752-25
+06/24/2025 2:45:41 PM
+Pg 24 of 40
+Trans ID: LCV20251839353
+Age of Housing Stock
+2020 or later
+9/31
+2010 to 2019
+263
+2000 to 2009
+759
+1990 to 1999
+2,494
+a
+1980 to 1989
+3,045
+%
+1970 to 1979
+1,037
+*
+4960 to 1969
+744
+1950 to 1959
+670
+1940 to 1949
+199
+1939 or earlier
+816
+0
+500
+1,000
+1,500
+2,000
+2,500
+3,000
+3,500
+Units
+Page 21
+
+===== PAGE 25 =====
+ 
+Page 22 
+ 
+V. Mahwah’s Employment Demographics 
+The 2023 ACS estimated that Mahwah had 14,290 residents over the age of 16 in the workforce.  Of 
+those, 13,500 (94.5%) were employed, which translates to a 5.5% unemployment rate.  A majority of 
+workers were private wage and salary worker (74.7%).  However, 13% were workers employed by 
+the government and 6.5% were self-employed.  See the table below for details.    
+ 
+Occupational Characteristics 
+The 2023 ACS estimated 7,663 workers were employed in the management, business, science, and 
+arts fields, which represents 56.8% of the Township’s employed residents.  Sales and office workers 
+totaled 23.5% of employed residents, while 9.2% were employed in service positions.  See the table 
+below for details. 
+ 
+Employment Projections 
+NJTPA’s Plan 2050 estimates that the number of available jobs in Mahwah will increase from 14,775 
+reported in 2015 to 17,273 in 2050.  This represents an increase of 2,498 jobs, or an average annual 
+increase of 71.4 jobs.  However, as detailed in the following section, the New Jersey Department of 
+Labor and Workforce Development estimated a total of 16,318 jobs in Mahwah in 2023, which is 955 
+less than projected by NJTPA.  This translates to an average annual increase of only 35.4 jobs. 
+Class
+Workers
+Percent
+Private wage and salary workers
+10,671
+74.7%
+Government workers
+1,856
+13.0%
+Self-employed workers
+922
+6.5%
+Unpaid family workers
+51
+0.4%
+Total employed residents
+13,500
+94.5%
+Total unemployed residents
+790
+5.5%
+Total residents in workforce
+14,290
+100%
+Class of Workers
+Source: 2023 ACS Table DP03
+Occupation
+Workers
+Percent
+Management, business, science, & arts
+7,663
+56.8%
+Service
+1,239
+9.2%
+Sales & office
+3,167
+23.5%
+Natural resources, construction, & maintenance
+633
+4.7%
+Production, transportation, & material moving
+798
+5.9%
+Total
+13,500
+100%
+Occupation of Employed Population
+Source: 2023 ACS Table DP03
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 25 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 26 =====
+ 
+Page 23 
+ 
+ 
+In-Place Employment By Industry 
+New Jersey’s Department of Labor and Workforce Development (“NJDLWD”) is the entity that reports 
+on employment and wages within the State of New Jersey through the Quarterly Census of 
+Employment and Wages (“QCEW”).  The latest Municipal Report was completed in 2023.  According 
+to the data, there were 9,772 private sector jobs within the Township, which were provided by an 
+average of 804 employers.  It should be noted that the Municipal Report redacted data from 
+multiple private-sector industries for not meeting publication standards (agriculture, utilities, 
+manufacturing, etc.)  The “Private Sector Total” row in the table on the following page provides the 
+totals for the reported data only.  However, the 2023 QCEW document reported that Mahwah had 
+an average of 14,641 private-sector jobs provided by 889 employers, including the redacted data.  
+Additionally, the QCEW data indicates there were 1,677 public sector jobs provided by 13 employers.  
+This totals 16,318 and 902 employers within the Township.  It should be noted that, the QCEW data 
+reflects employment within Mahwah, regardless of where the employee lives. 
+Based on the 2023 QCEW data provided, the wholesale trade industry contained the largest number 
+of jobs in the Township with an average of 2,241 jobs (19.6%).  These jobs were provided by 88 
+employers (third-highest).  The professional/technical industry had the largest number of employers 
+(132), but the fifth-highest number of average jobs (936).  The accommodations/food industry had 
+the second-highest number of jobs and eighth-highest number of employers with an average of 
+1,165 jobs (10.2%) and 59 employers (7.2%).  The retail trade industry had the third-highest number 
+of jobs with an average of 1,036 jobs provided by the seventh-highest number of employers (61).  In 
+the public sector, the 2023 QCEW Municipal Report indicated that there was one federal government 
+employer, which had an average of 87 employees and two state government employers, which had 
+an average of 876 jobs.  This included one state government education employer providing 874 jobs.  
+Additionally, there were ten local government employers providing an average of 714 jobs, including 
+seven local government education employers providing an average of 469 jobs.  See the table on the 
+following page for data on each industry sector.  
+Year
+Jobs
+Change
+Percent
+2015
+14,775
+---
+---
+2050
+17,273
+2,498
+16.9%
+Employment Projection
+Source: NJTPA Plan 2050, Appendix E, 2050 Demographic Forecasts, https://www.njtpa.org/plan2050
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 26 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 27 =====
+ 
+Page 24 
+ 
+ 
+Travel Time to Work 
+The 2023 ACS collected data regarding employed resident’s commute time.  The most common 
+commute time was between 30 and 34 minutes, which was made by 1,717 workers (17%).  A 
+commute between ten and 14 minutes followed close behind with 1,556 workers (15.4%).  Rounding 
+off the top three was a commute of 60 to 89 minutes, which was reported by 1,140 workers (11.3%).  
+The mean travel time was estimated at 30.7 minutes.  It should be noted that 1,587 workers (15.7%) 
+reported a commute of more than one hour.  Additionally, 2,903 workers, or 15.7% of the 
+Township’s employed residents, reported working from home.  See the table and chart on the 
+following page for additional details.  
+Total
+Percent
+Total
+Percent
+Agriculture
+-
+-
+-
+-
+-
+Utilities
+-
+-
+-
+-
+-
+Construction
+78
+9.5%
+523
+4.6%
+$74,049
+Manufacturing
+-
+-
+-
+-
+-
+Wholesale Trade
+88
+10.8%
+2,241
+19.6%
+$99,668
+Retail Trade
+61
+7.5%
+1,036
+9.0%
+$59,104
+Transportation/Warehousing
+29
+3.5%
+808
+7.1%
+$51,320
+Information
+-
+-
+-
+-
+-
+Finance/Insurance
+51
+6.2%
+602
+5.3%
+$104,176
+Real Estate
+31
+3.8%
+94
+0.8%
+$76,693
+Professional/Technical
+132
+16.2%
+936
+8.2%
+$138,535
+Management
+8
+1.0%
+290
+2.5%
+$146,385
+Admin/Waste Remediation
+67
+8.2%
+1,030
+9.0%
+$60,652
+Education
+13
+1.6%
+203
+1.8%
+$34,180
+Health/Social
+92
+11.3%
+536
+4.7%
+$38,161
+Arts/Entertainment
+-
+-
+-
+-
+-
+Accommodations/Food
+59
+7.2%
+1,165
+10.2%
+$34,815
+Other Services
+65
+8.0%
+283
+2.5%
+$36,948
+Unclassifieds
+30
+3.7%
+25
+0.2%
+$51,086
+Private Sector Total
+804
+98%
+9,772
+85%
+$98,020
+Federal Government
+1
+0.1%
+87
+0.8%
+$71,585
+State Government
+2
+0.2%
+876
+7.7%
+$80,423
+   State Government Education
+1
+0.1%
+874
+7.6%
+$80,351
+Local Government
+10
+1.2%
+714
+6.2%
+$82,200
+   Local Government Education
+7
+0.9%
+469
+4.1%
+$84,015
+Public Sector Total
+13
+1.6%
+1,677
+14.6%
+$79,715
+Source:  The table values above are sourced from the NJDLWD's QCEW 2023 Municipal Report.  It is noted that this Report has 
+redacted multiple private sector industries for not meeting the publication standard.  Therefore, the Private Sector Totals row 
+has been calculated by this office using the published numbers.
+Private and Public Sector Employment (2023)
+Industry
+Establishments
+Employees
+Annual 
+Wages
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 27 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 28 =====
+Page 25
+Travel Time (minutes)
+Workers
+Percent
+Less than 5
+120
+1.2%
+5 to 9
+1,070
+10.6%
+10 to 14
+1,556
+15.4%
+15 to 19
+904
+8.9%
+20 to 24
+959
+9.5%
+25 to 29
+770
+7.6%
+30 to 34
+1,717
+17.0%
+35 to 39
+344
+3.4%
+40 to 44
+444
+4.4%
+45 to 59
+647
+6.4%
+60 to 89 
+1,140
+11.3%
+90 or more
+447
+4.4%
+Total
+10,118
+100.0%
+Commute Time
+Source: 2023 ACS Table B08303
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 28 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 29 =====
+ 
+Page 26 
+ 
+VI. Projection of Housing Stock 
+As per the MLUL, specifically NJSA 52:27D-310, a housing element must contain a projection of the 
+municipality's housing stock, including the probable future construction of low- and moderate-
+income housing for the next ten years, taking into account, but not necessarily limited to, 
+construction permits issued, approvals of applications for development and probable residential 
+development of lands. 
+The DCA Division of Codes and Standards’ website provides data on building permits, certificates of 
+occupancy, and demolition permits for both residential and non-residential development through 
+the New Jersey Construction Reporter.  This database contains permit and certificate of occupancy 
+information that is submitted by municipal construction officials across the State each month.  The 
+Construction Reporter has information dating back to 2000, which can be used to show the 
+Borough’s historic development trends.  However, data from 2013 and onward was reviewed to 
+determine more recent trends.   
+As shown in the table below, the issuance of residential certificates of occupancy has fluctuated 
+between one and 19 certificates in the last 12 years.  However, a majority of the certificates of 
+occupancy (55.8%) were issued in 2016 through 2018.  Since 2020, the Township has issued 19 
+certificates of occupancy, including eight in 2023.  Since 2013, a total of 47 demolition permits were 
+issued, which equates to a net development of 39 residential units in the past 12 years.  
+ 
+As of the spring of 2025, the Township had 13 open building permits for residential construction, 
+which were all for single-family homes (which includes two group homes).  There are 83 units with 
+approvals, but do not have building permits issued yet.  There is one home with a pending 
+development application.  The Township estimates 95 units from future projects, all of which are 
+either inclusionary or 100% affordable.  Finally, looking at historic development patterns shown in 
+the previous table, the Township anticipates 33 single-family dwellings to be constructed between 
+now and 2025.  The table on the following page illustrates the projected development. 
+'13
+'14
+'15
+'16
+'17
+'18
+'19
+'20
+'21
+'22
+'23
+'24
+Total
+COs Issued
+1
+7
+9
+19
+17
+12
+2
+1
+1
+4
+8
+5
+86
+Demolitions
+5
+6
+9
+0
+2
+6
+3
+3
+2
+2
+7
+2
+47
+Net Development
+-4
+1
+0
+19
+15
+6
+-1
+-2
+-1
+2
+1
+3
+39
+Source:  NJDCA, Construction Reporter - Housing Units Certified and Demolition Permits, Yearly Summary Data
+Historic Trend of Residential Certificates of Occupancy & Demolition Permits (2013-2024)
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 29 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 30 =====
+ 
+Page 27 
+ 
+ 
+Of the 240 new residential units projected to be built between now and 2035, 119 are anticipated to 
+be reserved for low- and moderate-income households.  See the table on the following page. 
+'25
+'26
+'27
+'28
+'29
+'30
+'31
+'32
+'33
+'34
+'35
+Total
+Projected Development
+0
+2
+4
+3
+2
+3
+5
+2
+4
+3
+5
+33
+28
+   1 Bramshill Drive
+1
+1
+   7 Washington Lane
+1
+1
+   10 Tudor Road
+1
+1
+   15 North Hillside Avenue
+1
+1
+   17 North Hillside Avenue
+1
+1
+   24 Jahn Court (Group Home)
+1
+1
+   27 Avenue A
+1
+1
+   40 Peterson Place
+1
+1
+   42 Stag Hill Road (Group Home)
+1
+1
+   70 Island Road
+15
+15
+   76 Bramshill Drive
+1
+1
+   195 Stag Hill Road
+1
+1
+   796 Wyckoff Avenue
+1
+1
+   800 Wyckoff Avenue
+1
+1
+83
+   46 Strong Street (Group Home)
+1
+1
+   109 Cedar Hill Avenue
+   (Block 70, Lot 37)
+6
+6
+   191 Island Road
+1
+1
+   457 Ridge Road (Crossroads)
+37
+38
+75
+1
+   Forest Road (Block 161, Lot 5)
+1
+1
+95
+   1 Fyke Road
+25
+25
+   111 Cedar Hill Avenue
+   (Block 70, Lot 38)
+1
+1
+   111 Franklin Turnpike
+   (Block 70, Lot 40)
+20
+20
+   Block 82
+49
+49
+Total
+27
+5
+49
+61
+2
+3
+30
+2
+53
+3
+5
+240
+Pending Development Applications
+Future Projects
+Projection of Residential Development
+Approved Development with Permits Issued and Under Construction
+Approved Development, Permits Not Yet Issued
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 30 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 31 =====
+ 
+Page 28 
+ 
+ 
+ 
+'25
+'26
+'27
+'28
+'29
+'30
+'31
+'32
+'33
+'34
+'35
+Total
+17
+   24 Jahn Court (Group Home)
+1
+1
+   42 Stag Hill Road (Group Home)
+1
+1
+   70 Island Road
+15
+15
+81
+   46 Strong Street (Group Home) 
+1
+1
+   109 Cedar Hill Avenue
+   (Block 70, Lot 37)
+6
+6
+   457 Ridge Road (Crossroads)
+37
+37
+74
+21
+   1 Fyke Road
+5
+5
+   111 Cedar Hill Avenue
+   (Block 70, Lot 38)
+1
+1
+   111 Franklin Turnpike
+   (Block 70, Lot 40)
+4
+4
+   Block 82
+11
+11
+Total
+16
+2
+44
+41
+0
+0
+5
+0
+11
+0
+0
+119
+Approved Development, Permits Not Yet Issued
+Future Projects
+Projection of Affordable Units
+Approved Development with Permits Issued and Under Construction
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 31 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 32 =====
+ 
+Page 29 
+ 
+VII. Capacity for Fair Share 
+This chapter of the HEFSP provides the following information as required by the rules: 
+ 
+The Township’s capacity to accommodate its affordable housing needs. 
+ 
+A consideration of the lands that are most appropriate for construction of low- and 
+moderate-income housing and of the existing structures most appropriate for conversion to, 
+or rehabilitation for, low- and moderate-income housing. 
+ 
+Lands of developers who have expressed a commitment to provide low- and moderate-
+income housing. 
+ 
+The location and capacities of existing and proposed water and sewer lines and facilities 
+relevant to the proposed affordable housing sites. 
+Land Capacity 
+Mahwah’s capacity to accommodate its present and prospective affordable housing need is 
+determined by three components – available land, water availability/capacity, and sewer availability/ 
+capacity.  Note that land development is limited by parcel size, easements (conservation, sewer, 
+water, etc.), municipal regulations, and a variety of environmental features.  Additionally, the 
+Township is located within the Highlands Region and is a fully-conforming municipality.  Therefore, 
+development within Mahwah is also controlled and limited by the Highlands Regional Master Plan 
+(see Appendix J).  In total, 13,574.5 acres of Mahwah, or 81.95% of the Township’s 16,564.22 acres, 
+are encumbered by at least one environmentally sensitive area.  Environmental constrains within 
+the Township of Mahwah include: 
+ 
+Waterbodies – 383.76 acres (2.32% of the Township’s area), which includes various lakes and 
+ponds such as Bear Swamp Lake, Darlington Lake, Dators Pond, MacMillan Reservoir, Scarlet 
+Oak Pond, and Silver Lake and rivers such as the Mahwah River and Ramapo River. 
+ 
+300-foot Category 1 (“C1”) stream buffer – 1,742.25 acres (10.54% of the Township’s area) 
+ 
+Wetlands – 1,201.97 acres (7.26% of the Township’s area) 
+ 
+50-ft Wetlands Buffer (excluding wetlands area) – 107.87 acres (0.65% of the Township’s 
+area) 
+ 
+150-foot Wetlands Buffer (excluding wetlands area) – 2,327.41 acres (14.32% of the 
+Township’s area) 
+ 
+FEMA Special Flood Hazard Area Zones A and AE – 964.3 acres (5.82% of the Township’s 
+area), including 633.11 acres within the Floodway 
+ 
+Slopes greater than 15% - 6,218.33 acres (37.54% of the Township’s area) 
+ 
+State Threatened species habitat (Landscape Rank 3) – 78.66 acres (0.47% of the Township’s 
+area) 
+ 
+State Endangered species habitat (Landscape Rank 4) – 2,372.95 acres (14.33% of the 
+Township’s area) 
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 32 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 33 =====
+ 
+Page 30 
+ 
+ 
+Federal Listed species habitat (Landscape Rank 5) – 7,526.81 acres (45.44% of the Township’s 
+area) 
+ 
+Vernal Habitat – 447.47 acres (2.7% of the Township’s area) 
+ 
+Potential Vernal Habitat – 2,219.16 acres (13.4% of the Township’s area)  
+ 
+Highlands Open Water Protection Area (“OWPA”) – 7,526.81 acres (48.85% of the Township’s 
+area) 
+ 
+Highlands Riparian Area – 5,664.85 acres (34.2% of the Township’s area) 
+The maps on pages 31 and 32 illustrates these environmental constraints.  Furthermore, as 
+described in Chapter XI., the Township has prepared a Highlands Build-Out study and determined 
+the build-out to be 3 affordable units for the Township.   
+Utility Capacity 
+The Crossroads, Ridge Road, 1 Fyke Road, 70 Island Road, and the Block 70 affordable housing sites 
+have access to water and sewer utilities.  There is sufficient overall water and sewer capacity to 
+serve the proposed development for each of these sites.  However, to determine if infrastructure 
+upgrades are required, the Township would need to perform a detailed study of the affordable 
+housing sites and their surrounding utility infrastructure.  The study would need to include sanitary 
+sewer and water service reports for each development, the condition, size, location and existing 
+capacities and pressures would need to be determined.6  
+Block 82, Lots 1 and 3 through 30 have access to water and sewer utilities as well as the area 
+identified for an overlay zone along Franklin Turnpike.  46 Strong Street will be served by water and 
+sewer utilities as well. 
+42 Stag Hill Road will be served by a well and septic.  24 Jahn Court will be served by public water 
+and a septic system.   
+Appropriate Locations for Affordable Housing 
+Land that is most appropriate for the construction of low- and moderate-income housing includes 
+the following sites: 
+1. 1 Fyke Road – this site is comprised of Block 21, Lots 21, 22, and 23.  The Township adopted 
+Ordinance 2002 on March 20, 2023, which created the MF-1, Multi-Family-1, Zone District. 
+2. 70 Island Road – the Township adopted Ordinance 1870 on June 27, 2019, which rezoned the 
+property to the MF-2, Multi-Family-2, Zone District.  A 100% affordable development is 
+presently under construction. 
+3. 457 Ridge Road – this site is known as Block 139, Lot 41.  The Township adopted Ordinance 
+2003 on March 20, 2012, which created the MF-3, Multi-Family-3, Overlay, District.  This site 
+has received Board approval. 
+ 
+6 Email from Michael Kelly, Township Engineer on May 21, 2025. 
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 33 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 34 =====
+BER-L-000752-
+45:
+52-25
+06/24/2025 2:45:41 PM
+Pg 340f40
+Trans ID: LCV20251839353
+rs
+a
+| ne
+ata
+OS
+\
+B
+Q
+ry
+es
+ae
+\
+.
+Sw
+g
+€ &
+2
+ee
+“A
+‘
+3 | ie
+=
+\
+&
+\
+o
+{
+a]
+se
+\
+\
+© | eset
+c
+2$
+\
+)
+O |
+1
+\
+Ss
+\
+£
+m
+}
+\o
+A
+Ps
+TY
+i
+yy LA
+ea
+\
+33
+\
+1
+S
+\
+aa
+\
+gs
+gy
+Z
+iy
+ae
+1
+$s
+\,
+2
+<
+|
+=
+\ 7
+Vas
+ys
+3
+Af
+f
+\
+t
+1
+85
+\
+|
+\
+i
+ss
+1
+t
+\
+a
+It
+ox
+s
+I
+A
+_2\
+Ss
+\
+2
+&
+4
+y
+a
+|
+g=
+N
+fe
+f
+VY
+ea
+\
+‘2
+|
+ac
+(
+1
+\
+sk
+&
+eet
+a"
+A
+L.
+ie
+\ 25
+=
+PS icen|
+A?
+—I
+NS
+Te,
+<
+ss
+3
+par
+SeceeresRomer
+eree
+hee EH
+eeea
+Eeer QAR rsa.| \ ae Vey ele]
+AO gO
+ee eeeged
+2
+leurhe eee ar eeeSUI
+Lae
+=
+oe ey
+a
+OS Zee Ae
+:
+CN o. sem
+NINE
+{
+SEES IEP
+ES ee De
+ae
+aie
+sf
+,ge22
+NS
+lh
+AS
+een gh Re
+ISCEE BEBN
+Se
+FsaG
+(ep
+SP
+a
+any
+Fy
+peel,
+Nett gS
+2
+K
+ose yA
+RO
+ot en
+OL
+eel
+By a
+a
+ee
+Sg Bere
+eo
+rom: He SSS Ny we
+ea:
+BREE S
+Ri SS
+ie
+oe
+BE Sete Sap ne ae ial Gos
+Ns ey
+oes
+See
+a,
+"jones
+ss BS TEERe tee
+Wee
+SIS
+N
+the ae
+ee: Sk
+| Ley sao Af ae bres S|
+pe
+¢
+&§
+Sees
+ees -eee
+E inn 7OE RD
+i
+eee
+8
+&,
+2
+Sree eee Sytner: Pi mgt tsSe
+RN
+|
+3
+Sees
+Pat wake
+2 esen
+eteae UNee "
+ggeoge
+ji
+ry Rd
+Ab 0S) ee
+ee ea
+BA SS.
+x
+al
+ees
+3
+S 2)
+ea RO SeSee
+Ped ee in att SO
+me
+1
+= 3 ae
+A
+Ae
+POs CO
+es.goa
+2
+Ree
+OEE
+ee pi
+Om. ¥3/43
+phe ea
+2
+NEERs agla
+3 cael
+=
+Nh
+ saeey ageing*
+besseos ra
+=
+1
+~
+\
+GB
+5
+|
+BR
+me
+=
+I
+!
+25
+= Sh
+ae
+Ess
+1
+=]xs
+1
+ig ==
+us
+t
+=s=
+>
+ae
+C) Ss
+reg
+eel
+Ge Rate
+=
+ss
+=>
+bie]
+Es]
+ES <z
+ns
+6é
+S 23
+SN g
+J
+=
+>
+& 8
+35
+
+===== PAGE 35 =====
+BER-L-000752-25
+06/24/2025 2:45:41 PM
+Pg 35of40
+Trans ID: LCV20251839353
+Ts
+a
+a
+l
+y
+OO
+=
+E
+F
+a
+£
+|
+re
+\
+“\
+.
+3
+ge
+L g2 =
+1
+Bs
+\
+\
+"o | [Eta
+i
+a8
+= 2
+i
+y)
+1<) 5
+1
+\
+83
+\
+Sy
+\
+‘S
+\o\
+a
+GN
+s 3
+\
+t
+V
+“\
+°
+a
+\
+23
+1
+a
+\
+gee
+3
+g=
+a
+4
+s3
+\
+7
+X\
+FA
+{
+=r
+hi
+Lage
+\
+\
+zs
+\
+4
+7
+\
+t
+Ss
+{
+gS
+1
+1
+\
+&
+4
+1
+Se
+\
+g
+,
+1
+jj
+PI 3
+\
+#
+~~
+1
+J)
+ew
+|
+gs
+\
+2
+J\'\
+{
+a<
+\—
+}
+fw
+: ‘1
+\
+8
+1
+<A,
+\
+a
+\ $F
+s
+| cots
+a att
+rs
+eos
+cS
+a5
+alba
+Secesuuene a
+\
+—
+ISS
+Po
+PeritAWN = SAN
+ee
+1
+IESE
+=
+sear oss eeteulrae
+Ea
+4
+pT
+pander eet ee STS
+AEE
+Bo
+eh
+aoe)
+Bacb raiser
+Serrrip
+Pgheeeco
+grace
+Stat
+EL | EES
+Dea
+ieagaay
+ee bose? te
+Vic Pau
+Na
+eeetesee Shaseteuh cet
+sf
+Cceae
+ge
+en apa
+25
+Ve carey
+.
+her eagle
+ate
+elt Se bn \
+5
+Nierseessans iidi
+a 5
+EN
+.
+5
+ee eeoe
+Cerf
+«os =
+=}
+7"
+E>
+NS
+8 A
+ot
+4
+ferro
+<I
+aS
+a I
+ea a
+i
+my
+a
+ye
+“
+SS
+\0 Pas
+pe
+*
+Pe
+j
+\ af
+Gee
+NA
+3
+~<a
+Paes
+ie
+of
+-
+éebliinaoe
+& 5
+a
+¢8
+RY
+Val
+Pine”,
+fe
+aN
+ale
+<n
+e
+o
+re
+af
+-
+Bp
+NS gn ee
+ey
+$e2u0ea
+Meg
+SS
+(
+ff
+ee
+ll ®
+Zea
+7 ages”
+CYS
+s
+{
+dé
+\
+vA
+a
+\e
+q
+g SEG'S
+i
+¢
+f
+;
+/
+i
+aad
+p
+NL
+Nien
+we
+4
+Mapes ary
+&
+=
+Vay
+\l
+—
+|
+\ /
+“i
+==
+=
+5 2]
+4
+k
+)
+a
+~~
+oO
+Se
+Highs
+——
+ray
+299
+f
+ae
+La)
+i
+=_—
+=
+1
+ly
+\
+se]
+1a
+1
+4
+ot
+3
+xy
+1
+& 2
+= S5
+8
+Wire
+st
+Res
+a
+=
+|
+TSS
+wos
+1
+ica on
+1
+= Qe
+wo
+aas
+§ae
+x21
+lu 2s
+re
+ss
+|
+Qs
+pas
+és
+Soe
+>
+t
+=jRsE
+==
+
+===== PAGE 36 =====
+ 
+Page 33 
+ 
+4. Block 70, Lots 37 and 38 – these two properties are located along Cedar Hill Avenue.  The 
+Township adopted the Block 70 Redevelopment Plan via Ordinance 2028 on April 22, 2024, 
+which rezoned the properties to allow for 100% affordable housing development.  Lot 37 has 
+received Planning Board approval to construct a 100% affordable housing development. 
+5. Block 70, Lots 40 – this parcel is located at the intersection of Franklin Turnpike and Cedar 
+Hill Avenue.  The Township adopted the Block 70 Redevelopment Plan via Ordinance 2028 
+on April 22, 2024, which rezoned the property to allow for inclusionary housing development 
+and non-residential uses.   
+6. 42 Stag Hill Road - this site is known as Block 2, Lot 15.  The property will be used to create a 
+community residence (also known as a group home), which is permitted pursuant to the 
+Municipal Land Use Law.  This site has received Board approval and building permits. 
+7. 24 Jahn Court – this site is known as Block 152, Lot 68.01.  New Concepts for Living is in the 
+process of constructing a community residence (also known as a group home) on this site, 
+which is permitted pursuant to the Municipal Land Use Law. 
+8. 46 Strong Street – this site is known as Block 167, Lot 45.02.  Hope Christian will be building a 
+community residence (also known as a group home) on this site, which is permitted 
+pursuant to the Municipal Land Use Law. 
+9. Block 82, Lots 1 and 3 through 30.  The Township adopted the Redevelopment Plan for Block 
+82, Lots 1 and 3 through 30 via Ordinance 1985 on October 27, 2022.  The document was 
+amended via Ordinance 2009 on July 17, 2023 and via Ordinance 2039 on September 9, 
+2024.  This Redevelopment Plan permits commercial and multi-family uses at a maximum 
+density of 14 units per acre. 
+10. Franklin Turnpike – Block 71, Lots 6 through 22 have been identified by the Township as 
+appropriate for overlay zoning to permit mixed-use development with an affordable housing 
+set-aside.   
+The locations above are described in detail in Chapter XII. 
+Potential Affordable Housing Developers 
+Beyond the developments described above, three letters have been submitted by May 28, 2025 
+seeking inclusion in the Township’s HEFSP, the letters are summarized below: 
+1. On October 21, 2024, Antimo DelVecchio, Esq. submitted a letter on behalf of SHG Franklin 
+Lakes, LLC (“SHG”).  The letter indicates that SHG is the contract purchaser of property 
+located on Wyckoff Avenue known as Block 170, Lot 10.01 and Block 180, Lot 1.01, which are 
+located in the G180-General Industrial Zone.  The letter indicates the lots total 7.3 acres in 
+size.  The letter does not indicate what the contract purchaser seeks to build, it does not 
+indicate the total number of units requested, nor does it include a concept plan. 
+As shown by the map on page 35, these sites are located between Wyckoff Avenue and the 
+Hohokus Brook.  A tributary of the Brook flows through the center of Lot 10.01.  Areas 
+adjacent to the Brook contain wetlands, which have an associated 50-foot buffer.  
+Additionally, a majority of Lot 10.01 is within FEMA’s Special Flood Hazard Area, while the 
+flood zone encompasses the southern and western sides of Lot 1.01.  Slopes greater than 
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 36 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 37 =====
+ 
+Page 34 
+ 
+15% are present on both properties, primarily near the banks of the Hohokus Brook and the 
+right-of-way.  The Highlands OWPA and Riparian Area encompass the entirety of Lot 10.01 
+and over 99% of Lot 1.01.  See the map on page 35 to view the environmental constraints on 
+these sites.  It should be noted that GIS parcel data illustrates Block 170, Lot 11, which is 
+assessed with Lot 10.01 and Block 180, Lot 2, which is assessed with Lot 1.01. 
+Based on the significant environmental constraints present on both properties and the fact 
+that Mahwah is fully conforming with the Highlands RMP, it is unclear what could be built on 
+either of the sites. 
+Mahwah considered this site pursuant to its obligation to do so but, after consideration, 
+elected to comply in the manner described in this HEFSP. 
+2. On October 28, 2024, Peter Flannery, Esq. submitted a letter on behalf of MTCR.  The letter 
+indicates that MTCR owns 3.786 acres across Block 82, Lots 1 and 3 through 30.  According to 
+the letter, the existing 14 units to the acre has “proven to be insufficient to provide for an 
+economically feasible inclusionary development on the Property”.  As a result, the letter 
+indicates that a greater density is required to make an inclusionary development 
+economically feasible.  The letter does not indicate what the property owner seeks to build, it 
+does not specify the total number of units requested, nor does it include a concept plan.  
+Finally, no pro-forma was included to verify the claim that the existing density is not 
+economically viable.     
+Mahwah is committed to seeing this portion of the Township redeveloped.  In fact, on 
+November 7, 2024, the Township Council adopted a Redevelopment Area with 
+Condemnation: Determination of Need Study via Resolution 402-24.  The Study found that 
+Lots 1, 4, 8, 10, and 30 qualified as an Area in Need of Redevelopment and designated said 
+sites as a Condemnation Redevelopment Area.  MTCR has appealed the Council decision, 
+and it is anticipated that a trial will be held in the summer of 2025. 
+3. On May 27, 2025 Christopher Minks, Esq. emailed a letter on behalf of Russo Acquisitions, 
+LLC.  The letter indicates that Russo is a prospective contract vendee of Block 135, Lot 59 
+known as 997 MacArthur Boulevard.  The letter indicates the site contains 6.75 acres of 
+developable land.  According to the letter the developer seeks to build an inclusionary 
+development with a 20% set-aside.  The letter does not indicate the total number of units 
+requested, nor does it include a concept plan. 
+As shown by the map on page 36, the majority of the site is forested.  The Highlands Council 
+will not permit the site to be clear cut.   
+Without additional information from the property owner regarding the density and type of 
+units proposed and input from the Highlands Council on what amount of development could 
+be located on the site, Mahwah declines to include the site in this document. 
+ 
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 37 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 38 =====
+BER-L-000752-25
+06/24/2025 2:45:41 PM
+Pg 38 of 40
+Trans ID: LCV20251839353
+ras
+Wer oP
+eS eer <\- Wi: BWW Legend
+P
+fsSs
+bme wae
+D\ RI
+Oe ee
+Sar Sewe a \ a
+tae Sues
+Municipal Boundary
+Et Ne
+iN
+Aint
+KAYA
+y
+‘
+we
+.
+F
+Re i eee Ne i
+Ay sean) “| % eo
+Nyse
+Waterbodies
+rs 5, \ Ms agp feeta Sy “He 4 S PhS” PF =~ 300-f1 Water Buffer
+E = a ee Aeg a os ye
+\j y i A [\—} Highlands Open Water Protection Area
+tan
+~
+ee
+ae |Wr i VL Eh Be Polirke
+Ai!
+oe) \ ’ =
+:
+Highlands Riparian Area
+Tees re ce Pa
+864 4. 2
+= — gh dS
+>
+“fe tle eh
+A
+Wetlands
+‘i
+hoe es
+| Ve ie as wee —_ a
+oo
+eA
+. Ly Wee
+50-1 Wetlands Buffer
+Poe
+aeiS
+\\ pte
+F/ A “Sav
+HE 150-ft Wetlands Buffer
+,
+5
+ean, oe.
+lett
+ee 77 £3
+Paes (777) FEMA Special Flood Hazard Area
+P
+‘
+ay Se \e Ge Se gl
+-AG
+n | : i ™x HE slopes greater than 15%
+=
+—a
+De
+Gr
+wher,
+eo
+we
+ae
+a
+ao
+=
+-
+* 4
+i
+f *
+Vy
+“J” f.
+‘
+St
+-
+ek
+te|
+he
+|
+lus
+: Oe
+AS ff A oS
+ut Sethe
+ty ee
+ne
+'
+"
+bane
+ba
+¢
+<<
+~4
+° ie
+%
+‘
+i)
+ae
+le
+hey MA
+ws v4
+Se
+gh
+oo
+ene a» Se A
+"
+~~"
+_
+=_
+—_—
+—s wera \
+h
+>
+»
+|
+Rt
+a os eermG
+mA he oe Fy
+ey
+.
+;
+~~.
+ih
+lh
+TAS « ice =a &
+aS ty
+> ae
+ey
+ss
+\
+ies
+|
+SS
+z
+aN
+-.
+\.
+Ti BS
+ais et SEO
+a eng
+Me eS
+-
+~ Borough ofWA a
+2 SR Vo oe fe
+=. in \
+38
+SFranklin\Lakes
+of
+a
+Rs
+ee
+\
+Py
+D/A)
+Sole
+Nee
+ce
+ey
+WQS
+See
+G
+|
+\
+5
+— ant
+ahs
+Pe
+Po
+Sak
+on
+\\
+|
+:
+5
+\S<= Ba
+Meee
+ee
+NN
+ee
+eS
+OWS LS.
+en
+ae
+\})
+_
+eae
+RS cy ti te
+eS NSS
+‘ cay
+<=
+ag
+“J
+YP AS JY
+ee
+Se
+a Se
+y\
+J
+\
+,
+oe
+at)
+=
+[SD
+Sie
+N
+=
+Ta
+A
+ee
+:
+~
+aw
+YETI
+eS hI
+ON
+|
+4 S
+.
+AL a
+|
+aes
+“
+o4
+ay
+ay
+4
+x
+m
+>.
+\
+\\
+>
+v fs SS ee A
+ORS,
+Ree
+the. BN oe.
+Pal We:
+ee”
+ot
+eumenrs
+d\
+\e
+,
+VLD
+ASK
+/
+ee
+SE i RO
+RO
+ee
+ee
+a
+ee ee
+x
+ABS
+RON VE Ne
+)\
+>)
+—=—=—"s
+CIEE
+Dee
+\ 6 \\ . Mi
+iege
+ts
+SRE
+Re
+‘ i Fae Ne SER 3 Se
+eo
+os | Bi te ae
+. NOBEL IIE:
+2%
+Vahey
+»
+\ \ N
+Po) :
+BAS le ats) + he Od gw Ff S27 CSF
+eT So
+ee.
+Bhe
+es
+See
+©
+Ne
+ent
+WA
+\CbPIINGA
+by. "ToS bg howler,
+>
+here
+pe
+at. < aS Le Gee Loge Gans 1 Re
+eS
+ee
+PNG *
+A
+he
+\ols wai oes
+Rise
+Wes
+f COG ffi wp. tf
+:
+cot
+;
+ee
+—
+Ler
+Ny, MES Bee aE
+Toman
+6K +
+SA
+aa
+Se
+La whol Oe | we
+\WTRRS
+©
+teed
+eS ae
+mS
+ee Re
+NS
+(Ee
+PeSo
+ee. a
+a
+ee
+ENVIRONMENTAL CONSTRAINTS - SHG PROPERTY
+BLOCK 170, LOTS 10.01 & 11 AND BLOCK 180, LOTS 1.01
+&2
+N
+Colliers
+0
+60
+120
+CELE,
+TOWNSHIP OFMAHWAH
+—
+BERGEN
+COUNTY, NEW JERSEY
+Tinch = 120 feet
+Snsinesring
+esign
+This map was developed using GIS digital data from FEMA, Highlands Council, NJDEP, NJDOT, and NJGIN, but this secondary
+May 27, 2025
+product has not been verified and is not state-authorized. Aerial image sourced from NearMap, dated March 19, 2025,
+mwro031
+
+===== PAGE 39 =====
+(19Δ5210(17$/&21675$Δ1760$&$57+85%28/(9$5'
+%/2&./27
+72:16+Δ32)0$+:$+
+%(5*(1&2817<1(:-(56(<
+0D\
+0:7
+
+
+
+LQFK IHHW
+^]
+
+9R
+O
+YR 3
+ODFH
+0DF
+DUWKXU %RXOH
+Y
+DUG
+0DF$UWKXU%RXOHYDUG
+*
+UDQGYLHZ /DQH
+:RRGV5RDG
+/HJHQG
+0XQLFLSDO%RXQGDU\
+0DF$UWKXU%RXOHYDUG
+3DUFHOV
+&DWHJRU\&6WUHDPV
+1RQ&6WUHDPV
+:DWHUERGLHV
+IW&:DWHU%X΍HU
++LJKODQGV2SHQ:DWHU3URWHFWLRQ$UHD
++LJKODQGV5LSDULDQ$UHD
+:HWODQGV
+IW:HWODQGV%X΍HU
+IW:HWODQGV%X΍HU
+)(0$6SHFLDO)ORRG+D]DUG$UHD
+6ORSHVJUHDWHUWKDQ
+7KLVPDSZDVGHYHORSHGXVLQJ*Ζ6GLJLWDOGDWDIURP)(0$+LJKODQGV&RXQFLO1-'(31-'27DQG1-*Ζ1EXWWKLVVHFRQGDU\
+SURGXFWKDVQRWEHHQYHULȴHGDQGLVQRWVWDWHDXWKRUL]HG$HULDOLPDJHVRXUFHGIURP1HDU0DSGDWHG0DUFK
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 39 of 40   Trans ID: LCV20251839353 
+
+===== PAGE 40 =====
+ 
+Page 37 
+ 
+In addition to the three submitted letters, Crossroads Companies has verbally communicated their 
+desire to be included in the Township’s HEFSP.  Crossroads Companies is the contract purchaser of a 
+portion of Block 132, Lot 4.  The site currently contains a restaurant, which is to be retained.  
+Crossroads Companies seeks to cut clear the 2+/- acre forested portion of the property and has 
+submitted a concept plan for 118 units in a five-story building.  The site is adjacent to commercial 
+uses on three sides and single-family detached homes on the fourth side.  The proposed concept 
+translates to 59 units to the acre. 
+Mahwah considered this site pursuant to its obligation to do so but, after consideration, elected to 
+comply in the manner described in this HEFSP. 
+Anticipated Development Patterns 
+Anticipated land use patterns within the Township of Mahwah will follow the established zoning 
+map (shown on the following page).  The Township has a variety of zoning districts; including 
+residential districts, commercial districts, industrial and office districts, conservation and open space 
+districts, a public education district, a cemetery district, a mixed-use district, a mixed-use overlay 
+district, and three Redevelopment Areas. 
+The only change to the zoning map will be the creation of an overlay district on Block 71, Lots 6 
+through 22. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000752-25   06/24/2025 2:45:41 PM   Pg 40 of 40   Trans ID: LCV20251839353 

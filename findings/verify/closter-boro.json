@@ -1,0 +1,115 @@
+{
+  "municipality": "Closter",
+  "research_status": "done",
+  "obligation": {
+    "present_need": 16,
+    "prospective_need": 241,
+    "total_obligation": 257,
+    "rdp": 0,
+    "unmet_need": 241,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/closter-boro/PlanningBdResolutionHEFSP.pdf?VersionId=THCHDrR.p9RB7lOkAHMd5Md647glECF4"
+  },
+  "compliance": {
+    "status": "settled; Compliance Order entered; FSHC settlement history; VLA approved with RDP=0",
+    "settlement_party": "Fair Share Housing Center",
+    "settlement_date": null,
+    "hefsp_status": "adopted (Planning Board June 26, 2025; Governing Body endorsed June 26, 2025)",
+    "hefsp_adopted_date": "2025-06-26",
+    "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/closter-boro/PlanningBdResolutionHEFSP.pdf?VersionId=THCHDrR.p9RB7lOkAHMd5Md647glECF4"
+  },
+  "notes": "DCA assigned 16 units present need (accepted) and 251 units prospective need; Borough adjusted to 228, but settlement reached at 241 units prospective need. VLA analysis gives RDP=0; all 241 units are unmet need. The HEFSP (exhibit to Planning Board resolution) requires minimum zoning for 61 affordable units (25% of 241). Three overlay mechanisms proposed: (1) District 3A set-aside increase from 15% to 20% on 22 ac (11 additional units); (2) Addition of Block 1607 Lots 3, 3.01-3.33 (Closter Commons) to District 3A at 7 additional acres (14 additional units); (3) New District 4B overlay on ~22 ac comprising Block 1601 Lots 1-4/6/partial 5, and Blocks 1603 and 1604, at 14 du/ac (61 potential affordable units). Total new overlay potential = 86 affordable units, exceeding the 61-unit minimum. Village School Commons (511 Durie Avenue, Block 1316 Lot 6) is a Third Round RDP site now under construction. Candidate snapshot had RDP=0/unmet_need=241 correct but did not have correct block/lot data for the overlay sites.",
+  "sources": [
+    {
+      "doc_type": "HEFSP",
+      "title": "Housing Plan Element and Fair Share Plan – Round 4, Borough of Closter, Bergen County, NJ (June 15, 2025, adopted June 26, 2025)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/closter-boro/PlanningBdResolutionHEFSP.pdf?VersionId=THCHDrR.p9RB7lOkAHMd5Md647glECF4",
+      "excerpt": "DCA calculated a Round 4 present need obligation of 16 units and a prospective need obligation of 251 units for the Borough of Closter... A settlement was reached between the parties for a prospective need obligation of 241 units."
+    },
+    {
+      "doc_type": "resolution",
+      "title": "Resolution #2025-180 Endorsing 2025 HEFSP, June 26, 2025",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/closter-boro/MCClosterResolution2025180HousingElementFairSharePlan2025.pdf?VersionId=z9cNPZy2l2UGwUoBb978Gm5p8ZvQw51W",
+      "excerpt": "The Planning Board adopted the 'Housing Plan Element and Fair Share Plan, Round 4' for the Borough of Closter... prepared by Caroline Z. Reiter, P.P., AICP of T&M Associates"
+    },
+    {
+      "doc_type": "DCA",
+      "title": "DCA Bergen Obligations JSON",
+      "url": "sources/dca_bergen_obligations.json",
+      "excerpt": "Closter borough: present_need=16, quam=0, prospective_need=251 (DCA advisory; plan uses 241 per settlement)"
+    }
+  ],
+  "sites": [
+    {
+      "site_name": "Village School Commons (511 Durie Avenue) — Third Round RDP Site",
+      "address": "511 Durie Avenue, Closter, NJ",
+      "block": "1316",
+      "lot": "6",
+      "acreage": 1.57,
+      "mechanism": "100% affordable (adaptive reuse/redevelopment)",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": null,
+      "total_units": 35,
+      "affordable_units": 35,
+      "set_aside_pct": 100.0,
+      "tenure": "rental",
+      "adoption_status": "construction underway (asbestos abatement in progress as of June 2025)",
+      "developer": "Mastermind Development",
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/closter-boro/PlanningBdResolutionHEFSP.pdf?VersionId=THCHDrR.p9RB7lOkAHMd5Md647glECF4",
+      "source_page": "Page 28-29, Section on Third Round RDP",
+      "source_date": "2025-06-26",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Village School is a 100% affordable development that will contain 35 affordable units... located at Block 1316, Lot 6 or 511 Durie Ave. The site contains approximately 1.57 acres... The Borough has partnered with Mastermind to develop the site. Construction has started with the asbestos [abatement].",
+      "notes": "This is a Third Round RDP site (35 affordable rental credits toward Round 3 RDP). It is adaptive reuse of former Closter Village School. Financed with 4% LIHTC and tax-exempt bond financing through NJHMFA; Borough contributed $2M grant (Ordinance 2025-1352). This site satisfies Third Round RDP, not Fourth Round prospective need directly. Groundbreaking January 21, 2026 per news reports."
+    },
+    {
+      "site_name": "District 3A Overlay Zone — Set-Aside Increase and Closter Commons Addition",
+      "address": "Commercial/business district area, Closter, NJ",
+      "block": "1607",
+      "lot": "3, 3.01 to 3.33 (Closter Commons addition to District 3A); existing District 3A parcels TBD",
+      "acreage": 29.0,
+      "mechanism": "inclusionary overlay (set-aside increase + new parcels)",
+      "current_zoning": "District 3A Business Overlay Zone (existing; 15% rental / 20% sale)",
+      "proposed_zoning": "District 3A with 20% set-aside (regardless of tenure); plus 7 additional acres from Block 1607",
+      "density": 10.0,
+      "total_units": null,
+      "affordable_units": 25,
+      "set_aside_pct": 20.0,
+      "tenure": null,
+      "adoption_status": "proposed in Fourth Round HEFSP; implementing ordinance (Appendix E) pending adoption",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/closter-boro/PlanningBdResolutionHEFSP.pdf?VersionId=THCHDrR.p9RB7lOkAHMd5Md647glECF4",
+      "source_page": "Pages 31-32, Section on Round 4 Unmet Need",
+      "source_date": "2025-06-26",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "Revisions to the District #3A Overlay Zone Set-Aside... increase the required set-aside to 20%... results in the potential for 11 additional affordable units... Addition of Block 1607, Lots 3, and 3.01 to 3.33 to District #3A... results in approximately seven (7) additional acres added to District 3A... results in the potential for an additional 14 affordable units (7 acres × 10 units per acre = 70 potential total units, of which 14 would be affordable units).",
+      "notes": "Two combined changes: (1) Increasing set-aside from 15% to 20% for existing 22 ac of Zone 3A = 11 more units. (2) Adding Block 1607 Lots 3 and 3.01-3.33 (Closter Commons, ~7 ac) to District 3A at 10 du/ac 20% set-aside = 14 more units. Combined = 25 additional potential affordable units from these modifications. The 22 existing Zone 3A acres already zoned; Appendix E draft ordinance rezones Block 1607 into District No. 3A Business Overlay Zone."
+    },
+    {
+      "site_name": "District 4B New Overlay Zone",
+      "address": "Industrial/commercial area near Homans Ave/Vervalen Street, Closter, NJ",
+      "block": "1601, 1603, 1604",
+      "lot": "Lots 1-4, 6 and portion of Lot 5 (Block 1601); Blocks 1603 and 1604 in entirety",
+      "acreage": 22.0,
+      "mechanism": "inclusionary overlay (new zone designation)",
+      "current_zoning": "Industrial/commercial",
+      "proposed_zoning": "District 4B Overlay — residential at 14 du/ac with affordable set-aside",
+      "density": 14.0,
+      "total_units": 308,
+      "affordable_units": 61,
+      "set_aside_pct": 20.0,
+      "tenure": null,
+      "adoption_status": "proposed in Fourth Round HEFSP; implementing ordinance (Appendix E) pending adoption",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/closter-boro/PlanningBdResolutionHEFSP.pdf?VersionId=THCHDrR.p9RB7lOkAHMd5Md647glECF4",
+      "source_page": "Pages 32-33, Section on Round 4 Unmet Need",
+      "source_date": "2025-06-26",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "New Overlay Zoning on District #4B. This zone district consists of approximately 22 acres and includes the following: Block 1601, Lots 1-4, 6 and a portion of Lot 5; Blocks 1603 and 1604 in their entirety. The proposed overlay zone would permit residential development at 14 units per acre. Therefore, the new overlay zoning offers the potential for 308 total units (22 acres × 14 units per acre = 308), of which 61 would be affordable units.",
+      "notes": "This is the primary Fourth Round unmet need site providing 61 affordable units, meeting the 25% minimum zoning requirement (25% × 241 = 60.25, rounded up to 61). Combined with the District 3A modifications (25 units), total new overlay potential = 86 affordable units, exceeding the 61-unit minimum. The HEFSP states the proposed overlay zone revisions result in 86 potential affordable units total."
+    }
+  ]
+}

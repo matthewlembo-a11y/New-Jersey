@@ -1,0 +1,7405 @@
+SOURCE_URL: https://library.njcourts.gov/files/civil/affordable-housing/bergen/cresskill-boro/HousingElementFairSharePlanexecutedandPBapproved.pdf?VersionId=Sf4EcIDzzRVkqRJ0nTmQRqwu3E.n4wwB
+
+===== PAGE 1 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg1of91
+Trans ID: LCV20251405916
+aid CommunityPlanning
+Principals:
+Land Development and Design
+Joseph H. Burgis PP, AICP
+Landscape Architecture
+Edward Snieckus, Jr. PP, LLA, ASLA
+ee
+BURGIS
+ASSOCIATES,
+ING
+2025 HOUSING ELEMENT AND FAIR SHARE PLAN
+BOROUGH OF CRESSKILL
+BERGEN COUNTY, NEW JERSEY
+PREPARED FOR:
+MAYOR AND COUNCIL AND THE PLANNING BOARD OF THE BOROUGH OF CRESSKILL
+BA# 4135.01
+Approved May 13, 2025
+April 28, 2025
+25 Westwood Avenue
+Phone (201) 666-1811
+Westwood, New Jersey 07675
+Fax (201) 666-2599
+www.burgis.com
+jhb @burgis.com
+
+===== PAGE 2 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 2of91
+Trans ID: LCV20251405916
+2025 HOUSING ELEMENT AND FAIR SHARE PLAN
+BOROUGH OF CRESSKILL
+BERGEN COUNTY, NEW JERSEY
+PREPARED FOR:
+MAYOR AND COUNCIL AND THE PLANNING BOARD OF THE BOROUGH OF CRESSKILL
+BA# 4135.01
+The original document was appropriately signed and sealed on April 28, 2025 in accordance with Chapter 41
+of Title 13 of the State Board of Professional Planners.
+Steven M. Lydon, ?-P.,\AICP
+Professional Pla
+972
+i
+
+===== PAGE 3 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 3of91
+Trans ID: LCV20251405916
+MEMBERS OF THE BOROUGH OF CRESSKILL PLANNING BOARD
+;
+Simone Tsigounis, Chairperson
+Robert Rummell, Vice Chairperson
+Dr. John Morgan, Mayor
+Kathy Schultz-Rummel, Councilperson
+Bobbi Bauer, Secretary
+Cheryl Furio
+Elliott Malone
+Philip Philliou
+Robert Ross
+Robert Ulshoefer
+Planning Board Attorney
+Constantine “Dean” Stamos, Esq.
+Borough Planning Consultant
+Joseph H. Burgis, P.P., A.I.C.P.
+Steven M. Lydon, P.P., A.I.C.P.
+Burgis Associates, Inc.
+iif
+
+===== PAGE 4 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg4of91
+Trans ID: LCV20251405916
+TABLE OF CONTENTS
+Introduction
+1
+Section |: Housing Element
+5
+Section II: Fair Share Obligation
+23
+Section Ill: Fair Share Plan
+33
+Appendices
+A
+LIST OF TABLES
+Table 1: Existing Land Use
+6
+Table 2: Dwelling Units (1960 to 2024)
+8
+Table 3: Housing Units by Tenure and Occupancy Status (2000 to 2023)
+9
+Table 4: Units in Structure (2000 to 2023)
+9
+Table 5: Number of Bedrooms in Housing Units (2000 to 2023)
+10
+Table 6: Year Structure Built
+10
+Table 7: Occupants Per Room (2000 to 2023)
+1
+Table 8: Equipment and Plumbing Facilities (2000 to 2023)
+N
+Table 9: Gross Rent of Renter-Occupied Housing Units (2000 to 2023)
+12
+Table 10: Value of Owner-Occupied Housing Units (2000 to 2023)
+13
+Table 11: Population Growth (1920 to 2023)
+14
+Table 12: Age Characteristics (2000 to 2023)
+15
+Table 13: Average Household Size (1980 to 2023)
+16
+Table 14: Household Income (1999 to 2023)
+16
+Table 15: Housing Cost as Percentage of Income (1990 to 2023)
+7
+Table 16: Employment Status, Population 16 and Over (2000 to 2023)
+18
+Table 17: Employed Residents Age 16 and Over, By Occupation (2000 to 2023)
+18
+Table 18: Employed Residents Age 16 and Over, By Industry (2000 to 2023)
+19
+Table 19: Covered Employment Trends (2004-2023)
+20
+Table 20: Non-Residential Space Authorized by Building Permit (2014-2023)
+21
+Table 21: Trends in Residential Development Analysis (2014 to 2023)
+22
+Table 22: Vacant Land Assessment
+30
+Table 23: Completed Developments Contributing to Prior Round RDP
+36
+Table 24: Proposed Activities Contributing to Third Round RDP
+37
+Table 25: Plan Components to Address Unmet Need
+40
+iil
+
+===== PAGE 5 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg5of91
+Trans ID: LCV20251405916
+LIST OF MAPS
+Vacant Land Assessment Map
+Following 32
+APPENDICES
+A-1 Fully Executed Settlement Agreement Between Cresskill and FSHC.
+A-2 Final Unconditional Declaratory Judgement of Compliance and Repose
+A-3 Community Grants, Planning and Housing Monitoring Report
+A-4 Ordinance No. 18-23-1511 A creating the Affordable Housing Site II zone.
+A-5 Ordinance No. 19-21-1503 A rezones Block 181 Lot1as Townhouse Residence Zone.
+A-6 Ordinance No. 19-01-1533 allows for construction of deed-restricted accessory apartments.
+A-7 Ordinance No. 17-16-1510 creates mandatory setaside provisions in larger developments.
+A-8 Ordinance No. 18-22-1508A establishes Unmet Need Overlay provisions.
+iv
+
+===== PAGE 6 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg6of91
+Trans ID: LCV20251405916
+INTRODUCTION
+It has been over seven years since the Cresskill Planning Board adopted the Borough's Third Round
+Housing Element and Fair Share Plan. After adoption by the planning board, the Housing Element
+and Fair Share Plan was presented to the Mayor and Council, who subsequently endorsed the
+adopted master-plan element. Upon endorsement, the Housing Element and Fair Share Plan was
+the subject of a court hearing with the Honorable Gregg A. Padovano, J.S.C. presiding. After
+hearing all the testimony, including both a written and verbal report from the Special Adjudicator
+assigned to Cresskill’s case, on February 18, 2021, Judge Padovano granted Cresskill Final
+Unconditional Declaratory Judgement of Compliance and Repose for and to the locally adopted
+and endorsed Housing Element and Fair Share Plan.
+Significantly, the Final Unconditional Declaratory Judgement of Compliance and Repose issued by
+Judge Padovano endorsed and approved Cresskill vacant land adjustment analysis. The basis for
+this judicial finding was Cresskill lacked sufficient land resources to fully satisfy the Prospective Need
+obligation assigned to Cresskill. This was demonstrated to the Court through mapping and analysis
+which demonstrated that of the very few vacant parcels located in Cresskill, most were either very
+small, environmentally constrained, or both.
+In 2025, the affordable housing framework bears little resemblance to the Third Round framework
+Cresskill navigated to secure its Third Round Final Unconditional Declaratory Judgement which is
+continuing in full force and effect. The main change agent was the adoption of amendments to the
+Fair Housing Act. These amendments were signed into law by Governor Murphy in March 2024.
+The Borough’s Historic Response to Its’ Affordable Housing Obligations
+The Borough of Cresskill has prepared a number of Housing Elements and Fair Share Plans over the
+years to address its continuing affordable housing obligation. The Council on Affordable Housing
+("COAH"), had adopted first in 1987 and again in 1994a
+‘fair share’ methodology to determine
+housing-need numbers for all municipalities in the state, and then adopted, combined first and
+second round housing need numbers for Cresskill covering the years 1987-1999.
+The Borough Planning Board adopted its Second Round plan in June 1995 and received substantive
+certification from COAH in February of 2000. Cresskill subsequently received Third Round substantive
+certification from COAH on September 8, 2010.
+Cresskill’s fair share plan certified by COAH in 2010, detailed mechanisms to fully address the
+Borough's total 1987-2018 affordable housing obligation as that obligation had been determined by
+COAH.
+1
+
+===== PAGE 7 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg7of91
+Trans ID: LCV20251405916
+The Borough’s planning response to
+its affordable housing obligation was to designate the
+Hoke/Daibes Park site for production of 18 affordable rental units capable of generating 18 rental
+bonus credits. In addition, the Borough entered into and fully funded two Regional Contribution
+Agreements ("RCA"), one that transferred 8 units of new construction obligation to Weehawken, the
+second agreement transferred 26 units to the City of Bayonne. These actions fully satisfied Cresskill’s
+70-unit new construction affordable housing obligation.
+Cresskill also participated
+in the rehabilitation of 26 dwellings occupied by income qualified
+households, thus fully satisfying the rehabilitation portion of the Borough's affordable housing
+obligation.
+Cresskill also responded affirmatively to address COAH's Third Round housing cycle. To achieve
+compliance, Cresskill proposed a number of sites and activities to fully address the prospective need
+obligation. Cresskill Plaza, Sunrise Assisted Living, Wolfe, North Jersey Community Bank, accessory
+apartments and rental bonuses were all slated to fully satisfy the Third Round housing obligation as
+established pursuant to COAH's adopted regulations.
+The rules and regulations adopted by COAH in 2008 were challenged, and in an October 2010
+decision the Appellate Division invalided COAH’s growth share methodology. Further, the Court
+directed COAH to adopt Third Round rules consistent with the fair share methodology previously
+found acceptable by the Court as a way of determining and distributing affordable housing
+obligations among the municipalities.
+COAH ultimately failed to adopt Third Round regulations that could survive judicial review. This led
+to a March 2015 Supreme Court decision finding that COAH was effectively dysfunctional, and
+consequently, The Supreme Court returned jurisdiction over matters of affordable housing back to
+the trial courts where it had resided prior to the passage of the Fair Housing Act and the creation of
+COAH in 1986.
+On July 6, 2015, the Borough filed with the Court a Declaratory Judgement motion. One component
+of the motion was the recognition that
+a new HE&FSP, which was intended to address the Borough's
+third round affordable housing obligation through 2025, would be prepared.
+With the aid of a Special Adjudicator, Cresskill was able to successfully negotiate with the Fair Housing
+Center. This negotiation resulted in a Settlement Agreement which was presented to the Superior
+Court for its approval. This Court approved Settlement Agreement, formed the foundation upon
+which Cresskill prepared an updated Third Round affordable housing plan. A copy of this settlement
+agreement is attached as Appendix A-1.
+,
+;
+
+===== PAGE 8 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 8of91
+Trans ID: LCV20251405916
+Both Fair Share Housing Center and more importantly, the Superior Court reviewed and then agreed
+Cresskill did not have the land capacity to fully satisfy the affordable housing prospective need
+obligation established for the Borough in the Third Round. This continues to be true today and is the
+underlying basis as to why Cresskill has prepared an updated Vacant Land Adjustment for the Fourth
+Round affordable housing cycle.
+Fourth Round Affordable Housing Obligation
+Recognizing the Third Round affordable housing cycle was drawing to a close, the state legislature
+drafted, passed and sent Fair Housing Act amendments to the Governor. In March of 2024,
+Governor Murphy signed these amendments into law.
+The adopted amendments to the Fair Housing Act empowered and directed the Department of
+Community Affairs ("DCA") to calculate each municipality's affordable housing obligations for the
+Fourth Round. These numbers were published in October 2024. Each municipality was assigned a
+Present Need obligation which is sometimes called the rehabilitation component. DCA established
+Cresskill’s assigned Present Need obligation at zero (0) housing units.
+The remaining obligation established in the October DCA report addressed the municipal
+Prospective Need. DCA established Cresskill’s Prospective Need obligation as 155 affordable
+housing dwelling units.
+Pursuant to the Fair Housing Act amendments, prior to addressing the Fourth Round affordable
+housing obligation municipalities must review their past affordable housing efforts. The
+amendments require:
+As part of its housing element and fair share plan, the municipality shall include
+an assessment of the degree to which the municipality has met its fair share
+obligation from the prior rounds of affordable housing as established by prior court
+approval, or approval by the council, and determine to what extend this obligation
+is unfulfilled or whether the municipality has credits in excess of its prior round obligations.
+The remaining sections of this document will provide the mandatory components of a housing
+element and fair share plan. A wealth of information on Cresskill’s people, housing stock and
+employment characteristics will be detailed. Past affordable housing activities and mechanisms will
+be briefly discussed as will Cresskill's affordable housing status. The document will then provide a
+pathway by which Cresskill will demonstrate to both the affordable housing program and the
+county housing judge compliance with all Fourth Round affordable housing cycle requirements.
+This plan has been designed to achieve a compliance certification from the affordable housing
+program and continued immunity from builder's remedy lawsuits for the duration of the Fourth
+3
+
+===== PAGE 9 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg9of91
+Trans ID: LCV20251405916
+Round affordable housing cycle.
+4
+
+===== PAGE 10 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 10of91
+Trans ID: LCV20251405916
+SECTION |: HOUSING ELEMENT
+5
+
+===== PAGE 11 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 11 of 91
+Trans ID: LCV20251405916
+A.
+COMMUNITY OVERVIEW
+The Borough of Cresskill occupies an area of 2.1 square miles (1,200 acres) in the eastern portion of
+Bergen County.
+It is bordered by Demarest to the north, Alpine to the east, Tenafly to the south,
+and Dumont to the west.
+Cresskill is predominantly a residential community, with 2,812 residential parcels and just 70 vacant
+parcels in 2023 as reflected in Table 1 below. Most of the vacant parcels are either small,
+environmentally constrained or both. Cresskill’s development pattern consists primarily of detached
+single-family dwellings with three apartment developments. Residential development accounts for
+92,2% of the Borough's total assessed value. Commercial development is limited to just 74 parcels.
+There are only 2 industrial parcels in the Borough.
+Table 1: 2023 Land Use
+Cresskill, New Jerse
+;
+Source: NJDCA Division of Local Government Services, 2023 figures and values
+The 2024 amendments to the Fair Housing Act require each municipality to perform an analysis of
+:
+the extent to which municipal ordinances and other local factors advance or detract from the goal
+of preserving multigenerational family continuity as expressed in the recommendations of the
+Multigenerational Family Housing Continuity Commission.
+Regardless of our firm’s inability to find a report from, or recommendations of, the
+Multigenerational Family Housing Continuity Commission, we have examined Cresskill’s Zoning
+Ordinance. This review indicates the Borough's Zoning Ordinance neither specifically discourages
+nor encourages multigenerational family continuity. We do note that Cresskill’s Third Round
+affordable housing plan and this, the Fourth Round plan, do propose as one of several compliance
+mechanism, the creation of 9 (nine) accessory apartments. Accessory apartments represent a
+flexible mechanism to produce affordable housing and in fact, accessory apartments can be used
+to accommodate aging parents or even young adults in the family homestead. So, the use of
+accessory apartment as endorsed in this housing plan is one concrete implementation response to
+encourage multigenerational housing in the Borough.
+6
+
+===== PAGE 12 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 120f91
+Trans ID: LCV20251405916
+It is further noted however, that many dwellings in Cresskill are quite large and can and in fact do
+accommodate family members who might not necessarily fit within the modern definition of a
+nuclear family. There are many instances of retired parents living with a child and his or her family.
+There are also numerous examples of older adult children, some with children of their own, who
+continue to reside in the family home in Cresskill. In this regard multigenerational family continuity
+is occurring and continues to be practiced in Cresskill even in the absence of specific governmental
+steps, outside the accessory apartment program, to foster such an environment.
+7
+
+===== PAGE 13 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 130f91
+Trans ID: LCV20251405916
+B.
+INVENTORY OF MUNICIPAL HOUSING STOCK
+This section of the Housing Element provides an inventory of the Borough's housing stock, as
+required by the Municipal Land Use Law. The inventory details housing characteristics such as age,
+condition, purchase/rental value, and occupancy.
+It also details the number of affordable units
+available to low-and moderate-income households and the number of substandard housing units
+capable of being rehabilitated.
+1.
+Number of Dwelling Units. Beginning in the year 2020, Cresskill has experienced a significant
+reduction in construction activity as compared to construction activity recorded for earlier
+years. The housing stock has remained fairly static since 2020, as only 38 new dwelling units
+have received certificates of occupancy this decade.
+Table 2: Year Structure Constructed (1960 to 2024)
+Borough of Cresskill, New Jerse’
+ss
+=
+x
+|
+2024 (throughNov) | tT
+Sources: 2003 Bergen County Data Book, U.S. Census— 1990 & 2000,
+*American Community Survey 5-Year Estimates. 2020- 2024 DCA Construction Reporter.
+The following table provides additional detail regarding the tenure and occupancy of the
+Borough's housing stock.
+As shown below, nearly 81% of Cresskill’s housing stock was
+estimated to be owner-occupied in 2023, a slight decrease from the 84.8% recorded in 2010,
+and down from the 89.1% recorded in 2000. The number of rental units in the community
+has increased from 287 in 2000, increasing to 479 in 2010 before further increasing by 118 to
+597 dwelling units in 2023.
+8
+
+===== PAGE 14 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 140f91
+Trans ID: LCV20251405916
+Table 3: Housing Units by Tenure and Occupancy Status (2000 to 2023)
+;
+_
+Borough of Cresskill, New
+_
+eee th
+eee eee
+Category
+:
+F
+:
+Sources: U.S.Census
+— 1990 ¢
+2.
+Housing Characteristics.
+The following tables provide additional
+information on the
+characteristics of the Borough's housing stock, including data on the number of units in
+structures and the number of bedrooms. As shown below, the housing stock is predominantly
+characterized by single-family detached units, which represented nearly 80% of all dwelling
+units in 2023.
+This is a slight decrease from previous periods and reflects the creation of
+additional multi-family units in varied housing types since 2000. Nearly 70% of the dwellings
+in Cresskill contain either 3 or 4 bedrooms. An additional 10% of dwellings contain 5 or more
+bedrooms.
+Table 4: Units in Structure (2000 to 2023)
+:
+Borough of Cresskill, New Jerse’
+[Number | Percent | Number | Percent | Number | Percent
+|
+[icunit attached | tos| 39%]
+an] orm]
+tai]
+5.7%
+Punts
+Taf amor] om] a7]
+15%|
+Psor4unts
+fa] tom
+|
+osm] aa]
+15%]
+a
+ee
+eT
+Fworoiunts
+| of oom] 2|
+ee]
+sa |
+18%
+re ae
+TL A
+OC Pee
+| Mobilehome | 8 | osm]
+of oom]
+S| 2%
+Boa avivanetc. |
+of oom]
+of
+oom] |
+0.0%
+Sources: U.S, Census — 1990 & 2000, American Community Survey 5-Year Estimates
+9
+
+===== PAGE 15 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 15o0f91
+Trans ID: LCV20251405916
+Table 5: Number of Bedrooms in Housing Units (2000 to 2023)
+Borough of Cresskill, New Jersey
+_
+Bedrooms
+Sources: U.S. Census — 1990 & 2000, American Community Survey 5-Year Estimates
+3.
+Housing Age. The following table details the age of the Borough's housing stock. As shown,
+just 1.1% of the Borough’s housing units were constructed since 2020. The Census data reports
+44.2% of the Borough's housing stock was constructed prior to 1960.
+Table 6: Year Structure Built
+Borough
+of Cresskill,New Jerse
+_
+Twas
+| MEY |re
+Units
+|rssotors99
+|
+so]
+2.8 |
+Sources: U.S. Census — 2014 American Community Survey 5-Year Estimates.
+10
+
+===== PAGE 16 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 16o0f91
+Trans ID: LCV20251405916
+4.
+Housing Conditions. An inventory of the Borough's housing conditions is presented in the
+following tables. The first table identifies the extent of overcrowding in the Borough, defined
+as housing units with more than one occupant per room. The data indicates that the number
+of occupied housing units considered overcrowded is negligible (0.5%) but has fluctuated
+since 2000. It is noted in 2023, only 0.5% of the dwellings, representing just 14 housing units
+had more than 1.01 occupants per room.
+Table 7: Occupants Per Room (2000 to 2023)
+Borough of Cresskill, New Jerse
+Occupants Per
+2000
+2010
+2023
+age
+2,547|
+968%]
+3,137
+3,071]
+99.5%
+Pioviorso | ss] 2m] of oom] xa] __os
+| istormore | zat
+umf of osm]
+|
+0.0%]
+2,630|
+1000%|
+ 3,146|
+1000%|
+— 3,085|
+100.0%
+Sources: U.S. Census 2000, American Community Survey 5-Year Estimates.
+The table below presents other key characteristics of housing conditions, including the
+presence of complete plumbing and kitchen facilities and the type of heating equipment used.
+As shown, the percentage of units lacking complete kitchen and plumbing facilities has
+remained a nearly insignificant percentage of occupied housing units between 2000 and
+2023. All dwellings in Cresskill were equipped with standard heating systems.
+Table 8: Equipment and Plumbing Facilities (2000 to 2023)
+Borough
+of Cresskill, New Jerse
+a
+2000
+2010
+:
+2023
+Facilities
+Kitchen:
+0
+5
+With Complete Facilities
+2,621
+99.7%
+3,134
+99.6%
+3,064
+99.3%
+Lacking Complete Faciities
+| 9|
+03%ffm]
+at] 07%
+Plumbing:
+5
+°
+5
+With Complete Facilities
+2,630
+100%
+3,124
+99.3%
+3,085
+100%
+Lacking Complete Faciities
+|
+of oom]227%]
+| 00%
+Heating Equipment:
+A
+a
+Standard Heating Facilities
+2,630
+100%
+3,146
+100.0%
+3,085
+100%
+Other Means NofuelUsed [of ox]
+of oom]
+| _ 00
+Sources: U.S. Census -2000, American Community Survey 5-Year Estimates.
+1
+
+===== PAGE 17 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 17o0f91
+Trans ID: LCV20251405916
+5.
+Purchase and Rental Values. As shown in the following table, 24.2% of Cresskill’s rental
+housing stock had monthly rents under $1,000 in 2000. By 2023, only 1.2% of renters were
+paying less than $1,000 rent per month. In 2023, over 41% of renters were paying $3,000
+per month or more for rent. Interestingly, there has been a reported doubling in the
+number of households that paid no cash rent from 2010 to 2023.
+Table 9: Gross Rent of Renter-Occupied Housing Units (2000 to 2023)
+___
+Borough of Cresskill, New Jerse
+G
+nea
+2000
+2010
+2023
+en
+=
+§200t0$209
+|
+of 00%]
+a | _0.0% | $500-$999
+$1,000 to
+0;
+9
+0;
+$1,500 to
+9X
+9
+te)
+.| $2,000 to
+ie)
+Oy
+fe)
+$1,000 to
+o,
+| $2,500 to
+5
+$1,499
+59
+20.7%
+132
+28.3%
+$2,999
+0%
+100.0%
+tooo%||
+570] 100.0%
+$1,571
+$2,000
+$2,311
+Rent
+Bergen County
+Median Gross
+$872
+$1,236
+$2,455
+Rent
+Sources: U.S. Census -2000, American Community Survey 5-Year Estimates.
+Table 10 on the next page shows that less than 7% of Cresskill’s owner-occupied units had a
+value of $499,000 or less in 2023. By far the largest segment of Cresskill homes (72%) are
+worth between $500,000 and $999,999. Over 20% of owner-occupied dwellings in Cresskill
+were worth over $1,000,000 in 2023. This is by far the second largest value range in Cresskill.
+This is just around double the percentage of homes that were worth over $1,000,000 just 13
+years earlier in 2010, whereas in 2000, only slightly more than 11% of Cresskill's owner-
+occupied units had a value of $500,000 or more. This substantial increase is in part a function
+of the increase in values that occurred throughout the region prior to the recession in 2008.
+The median value of Cresskill’s owner-occupied housing stock is now significantly higher than
+12
+
+===== PAGE 18 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 18o0f91
+Trans ID: LCV20251405916
+Bergen County as a whole.
+,
+Table 10: Value of Owner-Occupied Housing Units (2000 to 2023)
+Borough of Cresskill, New Jerse
+Diet ee
+Value Range
+festranssomc0 |
+eo] —arm|
+aa] iam
+| oz
+sso000 io 399909 |
+| oaw] 7] omw| _o| 00%
+son o00 te swaaee |
+as[ ism]
+0] oom] _o| ou
+1sn000%0s9990 | wei] am]
+0] oom] _o| _oom
+Sources: U.S. Census 2000, American Community Survey 5-Year Estimates
+6.
+Number of Units Affordable to Low- and Moderate-Income Households.
+Cresskill is within
+affordable housing Region No. 1, which consists of Bergen, Passaic, Hudson and Sussex
+Counties.
+Based on generally recognized regional income limits updated on April 12, 2024,
+the median household income for a three-person household in Region 1, is $108,371. A three-
+person moderate-income household, defined as 80% of the median income, would have an
+income not exceeding $86,697.
+Pursuant to applicable New Jersey affordable housing regulations, N.J.A.C. 5:80-26.6 Price
+restrictions for ownership units,
+a moderate-income household should not be spending more
+than 28% of eligible monthly income on taxes, mortgage, homeowner association and private
+mortgage insurance fees. An affordable sales price for a three-person moderate-income
+household earning 80% of the median income is estimated at approximately $303,439.
+In
+2023, the last year for which data has been published, the percentage of housing units in the
+Borough valued at less than $300,000 was 0.6%. According to the data, there were 16 homes
+in Cresskill with a value of $300,000 or less.
+For renter-occupied housing, an affordable monthly rent for a three-person household is
+estimated at approximately $2,167, approximately 30% of the household's gross monthly
+B
+
+===== PAGE 19 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 19o0f91
+Trans ID: LCV20251405916
+income. According to the most recent U.S. Census data, just over 35.2% of the Borough's
+rental units had a gross rent less than $2,000. There were 201 rental units in Cresskill at or
+below this price point.
+7.
+Substandard Housing Capable of Being Rehabilitated. The number of units in a community
+that are in need of rehabilitation and are not likely to experience “spontaneous rehabilitation"
+has been provided by the New Jersey Department of Community Affairs in its October 2024
+report. Cresskill’s rehabilitation obligation has been estimated to be zero (0) units.
+C.
+POPULATION ANALYSIS
+The MLUL requires that
+a Housing Element provide data on the municipality's population, including
+population size, age and income characteristics.
+1.
+Population Size. As seen in the table below, the Borough experienced its greatest population
+growth in the 1950s and 1960s. Cresskills population then declined for twenty years before
+rebounding in 2000. Census data from 2020 indicates the Borough had 9,155 residents,
+representing a 6.8% increase over the 2010 Census figure, while the available estimated data
+for 2023 reveals this figure has decreased by 54 residents to 9,101 residents in 2023.
+Table 11: Population Growth (1920 to 2023)
+__Borough
+of Cresskill, New Jersey
+Population
+Population Change |
+Percent Change
+1930
+1960
+3,756
+1970
+8,298
+1,008
+13.82%
+1980
+7,609
+8.30%
+1990
+7,558
+2000
+7,146
+Sources: U.S. Census
+14
+
+===== PAGE 20 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 20 of 91.
+Trans ID: LCV20251405916
+2.
+Age Characteristics. The Borough's age characteristics are outlined in the table below. As
+shown, the Borough's population is growing older, consistent with suburban national trends.
+Cresskill’s median age has increased since 2000 from 40.9 to 43.7 years in 2010, before
+increasing to 45 years in 2023. The number of children under the age of 19 years of age
+increased between 2000 and 2010 before experiencing a minor drop by 2023. The under 19-
+age cohort has remained in the 20% of Cresskill’s population.
+Table 12: Age Characteristics (2000 to 2023)
+_
+Borough of Cresskill, New Jerse’
+A
+ee. oe
+eee
+Ags
+Number
+Percent
+Number
+Percent
+Number
+530
+68
+372
+43
+366
+4.0
+fssioa4yers | i365 [| v6 | 13a | sa | var] v6 _|
+festo7ayears | oa
+[| a3 | 63s [| 74 | 809 | a9
+[MedianAge
+[|
+4g
+|
+aa
+|
+Source: U.S. Census — 1990, 2000, 2010
+3.
+Average Household Size.
+The average household size for the Borough has declined in
+Cresskill as reflected in Table 13 below.
+In 1980, the average household size in Cresskill
+included 3.19 people. Since the 1990 census, the average household size has never exceeded
+2.95 and has often been slightly smaller. The American Community Survey data reflects an
+average household size of 2.90 for the year 2023.
+15
+
+===== PAGE 21 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 21 of 91
+Trans ID: LCV20251405916
+Table 13: Average Household Size (1980 to 2023)
+Borough
+of Cresskill, NewJerse
+_
+SaaSa
+Population
+Households
+Household Size
+Sources: U.S. Census
+— 1980, 2000, 2010 2023 American Community Survey 5-Year est.
+4.
+Household Income.
+Detailed household income figures are shown in the table below.
+As
+shown, nearly 60% of the Borough's households had an income of $150,000 or more in 2023
+which is a significant increase in median income reported for earlier years. The Borough's
+median household income in 2023 ($173,293) was substantially greater than the median
+household income of Bergen County ($116,709) as a whole.
+Table 14: Household Income (1999 to 2023)
+Boroughof
+Cresskill, New Jerse
+tie eng ae
+| Number | Percent | Number | Percent _| Number | Percent_|
+fesihensomoo | 7] 30%] rs] am]
+i] 108
+Ee
+fsasoo0toszao99 [wwe | 7s
+e2 [saw]
+or]
+35%
+Sources: U.S. Census — 1990 & 2000, American Community Survey 5-Year Estimates
+Note: 1990 Census Survey did not include categories for “$150,000 to $199,999” or “$200,000 or more”
+16
+
+===== PAGE 22 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 22 of 91
+Trans ID: LCV20251405916
+5. Housing cost-burden. Households that pay more than 30% of their income for housing are
+considered cost burdened and may have difficulty affording other necessities such as food,
+clothing, transportation and medical care. Data concerning 1999 from the census reveals that
+approximately 30.1% of owner-occupied households and 47.3% of rental households
+experienced housing costs of 30% or more. The percentage of cost-burden homeowners in
+2023, was estimated to be 38.6%, while for renters living in the Borough, the percentage who
+are cost burdened is rather high at 59.3%.
+Table 15: Housing Cost as Percentage of Income (1999 to 2023)
+Borough
+of Cresskill, New Jersey
+Pee ce a arene ae
+Income
+[Number | Percent | Number | Percent | Number | Percent | Number | Percent
+|
+percent
+47.3%
+3a6%|
+276| 59.3%|
+Occupied Units
+2,229|
+100.00%|
+__262| 100.00%|
+1,722 | 100.00%
+100.00%
+|
+Sources: U.S, Census ~ 2000, American Community Survey 5-Year Estimates
+D. EMPLOYMENT ANALYSIS
+The MLUL requires that the Housing Element include data on employment levels in the community.
+The following tables present information on the Borough’s employment characteristics.
+1.
+Employment Status. The following table provides information on the employment status of
+Borough residents aged 16 and over. Of those in the labor force in 2023, just 3.2% were
+unemployed. This figure represents
+a somewhat higher percentage of the workforce than
+were unemployed in 2000 or 2010 when the local unemployment rate was just 1.5% or even
+lower. The number of residents holding civilian employment has climbed steadily through the
+years, increasing by over 1,100 between 2000 and 2023.
+This data and the data addressing
+cost burdened residents identified in Table 15, might suggest that even as residents of Cresskill
+are experiencing fiigher salaries, these high salaries may in some instancésbe overshadowed
+by the dramatic increase in housing costs, especially for renters.
+7
+
+===== PAGE 23 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 23 0f 91
+Trans ID: LCV20251405916
+Table 16: Employment Status, Population 16 and Over (2000 to 2023)
+_
+Brough of Cresskill, NewJersey
+2000
+2010
+2023
+Employment Status
+|
+Percent | Number [Percent
+|
+In labor force
+62.7%
+65.2%|
+ 4812|
+67.8%
+Civilian labor force
+3,731
+62.7%
+4125
+65.2%
+4,812
+67.8%
+Employed
+4035 | 638%|
+4,582
+Unemployed
+[a7| tse[04m]
+230] 32%]
+% of civilian labor force ee
+3
+fArmedForces
+«| S|
+om]
+|
+om]
+|
+__0.0]
+Not in labor force
+2,223|
+37.3%
+34.8%
+32.2.0%
+|
+Total Population 16 and Over
+5,954
+6,327
+7,093
+|
+Sources: U.S. Census — 1990 & 2000, 2023 American Community Survey 5-Year Estimates.
+7
+2. Employment Characteristics of Employed Residents.
+The following two tables detail
+information on the employment characteristics of employed Cresskill residents.
+Table 17
+details occupation characteristics, while Table 18 details industry characteristics.
+Table 17: Employed Residents Age 16 and Over, By Occupation (2000 to 2023)
+_
+:
+Borough
+of Cresskill, New Jersey_
+——
+i
+| Number | Percent | Number | Percent | Number | Percent
+|
+y
+i
+|
+Management, Professional and related
+1955 | 53.6%
+57.1%
+2852
+63.9%
+occupations
+246
+10.2%
+\ | Sales and Office Occupations
+26.9% |
+1063 | 26.3%
+20.9%
+|
+Farming, ishing and forestry occupations
+[of oom | of ox} _of 0x]
+Construction, extraction andmaintenance | ait eow| 2| 4am | 90] 20%]
+Production, transportation and material moving wo] 2em| ami] 57m] 26| 40
+occupations
+ah
+[toa
+SS
+C™C~—“—*~—‘“—CSCSCSCSCS~*dCi8
+GA | 100.0%
+4,035]
+100.0%]
+4.463]
+100.0%}
+Sources: U.S. Census — 1990 & 2000, American Community Survey 5-Year Estimates
+18
+
+===== PAGE 24 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 24 of 91.
+Trans ID: LCV20251405916
+Table 18: Employed Residents Age 16 and Over, By Industry (2000 to 2023
+Borough of Cresskill, New Jerse
+_
+2000
+2010
+2023
+|
+Industry
+Percent_|
+Number
+and mining
+|
+Manufacturing
+«|_| 0m] aaa]
+sm] 399]
+are]
+Wholesale trade
+|
+2as[ 6am] 327] am] aia] 47%
+fRetaitrade —SSS*| CS
+| wwe
+sea | osm |
+ae | 538
+utilities
+.
+.
+I
+Finance, insurance, real estate and
+522
+14.3%
+ASB
+14%
+583
+27%
+rental and leasing
+|
+Professional, scientific, management,
+administrative and waste management
+335
+9.2%
+498
+12.3%
+740
+16.2%
+services
+|
+Educational, health and social services
+244%
+32.0%
+Arts, entertainment, recreation,
+179
+4.9%
+593
+55%
+307
+45%
+accommodation and food services
+|
+Public administration
+tooo% |
+4035|
+1000%|
+4582]
+100.0%
+Sources: U.S. Census ~ 1890 & 2000, American Community Survey 5-Year Estimates,
+E.
+HOUSING AND EMPLOYMENT PROJECTIONS
+The following section identifies the extent to which recent development has occurred in the
+community, to assist in the projection of future residential and employment projections.
+1.
+Probable.Future Employment and Regional or Community Factors Impacting Upon Future
+Municipal Employment.
+Employment has fluctuated over the past years in the Borough,
+between a low of 1,349 in the COVID-19 year of 2020 to a high of 2,273 in 2015. Generally
+speaking, Cresskill has experienced stable job growth through the years with COVID-19
+disrupting this pattern. It is noted in the 3 years since COVID, job growth has been positive
+every year. Table 19 displays the number of jobs between the years 2004 and 2023.
+19
+
+===== PAGE 25 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 250f91
+Trans ID: LCV20251405916
+Table 19: Covered Employment Trends 2004-2023
+Borough
+of Cresskill, New Jerse
+[20a | io [CT
+[2005 | aot |ce]
+[cor | t9s6 |
+we TH
+[208 [| aoa
+| 7 |e
+[2009 [ates
+| tse | 7%
+[aon | am [com
+pe | ae fe
+[ans | ears |e |
+[zor [| ams |
+|
+osm
+[oie [202
+| es]
+100%
+a
+[zor | tase |
+ws | cts
+[zoe |
+tase
+| os | tm
+[ooes [sess
+ts |
+Sources: Department of Labor and Workforce Development
+a.
+Probable Non-Residential Development of Lands. During the years studied, 0 square feet of
+office space was constructed. During the years studied and for which data is reported, Cresskill
+saw ‘O.square feet of retail space constructed. The Borough’ experienced an average of
+approximately 6,126 square feet of new non-residential space per year over the past decade.
+Two-thirds of this space was in the educational and dormitory/MF category. Cresskill
+anticipates a slower pace of non-residential growth to occur over the next ten-year period as
+there are few parcels to develop. Table 20 indicates in 7 of the years for which data is provided,
+there was 5,000 square feet of non-residential space or less added to the Borough's total
+amount of non-residential development. Truly, Cresskill has experienced very little non-
+residential development activity during the studied years.
+20
+
+===== PAGE 26 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 26 of 91
+Trans ID: LCV20251405916
+Table 20: Non-Residential Space Authorized by Building Permits (sq. ft.) (2014 to 2023)
+Cresskill, New Jerse
+[aoa fo fo
+[|o  [o [o |o
+[o
+fo |
+[25 [o jo [ojo
+[o
+[o
+{o
+Jo |
+2016
+Data not
+ae aee
+[27 [o |o
+|o
+{o |o
+Jo Jo
+[o |
+[208 [o |o |o [o | 26033 |o [o
+| 28033 |
+rz
+|o |o
+fo fo
+[fo
+Jo
+{o
+Jo |
+200 |o |o
+|o
+| weo fo  |o
+|o | 1620 |
+r 201 fo j|o
+jo
+jo
+|[o
+|o
+| 228 | 2208 |
+r 202 lo jo
+|o  |o | ao |o
+|o
+| ra00 |
+[203 }o |o
+jo
+jo
+jo
+Jo
+Jo
+fo |
+Tol |o lo  |o | 18620 | 40433 | 0
+| 2208 | 61261 _|
+Source: New Jersey Department of Community Affairs (OCA) Construction Reporter.
+2.
+Projection of the Municipality's Housing Stock.
+With limited acreage remaining in the
+municipality that may be developed for residential use, it is anticipated that the Borough's
+residential growth shall remain very modest, as reflected in the recent annual data shown
+below. The data reveal that in the last 15 years, the number of net new dwellings in Cresskill
+increased by double digits only in 2016. In most years, the number of dwellings increased by
+a handful, with some years experiencing a net reduction in the number of dwellings. It is
+noted that since 2010, the Borough's housing stock has increased by a total of 167 dwellings
+which has been partially offset by 128 demolitions of dwellings. Over the past 15 years, Cresskill
+has experienced a net increase of 39 new dwellings, on average less than 3 net dwellings per
+year.
+21
+
+===== PAGE 27 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 27 of 91.
+Trans ID: LCV20251405916
+Table 21: Trends in Residential Development
+Analysis of Certificates of Occupancy and Demolition Permits, 2005-2024
+Boroughof Cresskill, New Jerse’
+_
+|
+Demo
+|
+COs
+;
+Net
+|
+Pm |eS
+le
+|
+Issued
+fe Pm |
+(ee
+[209 | 1
+*+| o | 714
+[zon
+(ys
+ee
+[aos
+ee
+ee
+[ae
+|
+a2
+|
+9 |
+34 |
+|
+av | 9
+| tT
+(ry
+(ye
+(ee
+(a
+[2023 «|
+1&2FamysMA) | 5 |
+7
+| istrtotl |
+67 S| Sta | 39
+[iyRAverage |
+3 | 83 | 6
+|
+22
+
+===== PAGE 28 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 280f91
+Trans ID: LCV20251405916
+SECTION II: FAIR SHARE OBLIGATION
+23
+
+===== PAGE 29 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 29 of 91.
+Trans ID: LCV20251405916
+A. SUMMARY OF FAIR SHARE OBLIGATION FOR THE 4™ROUND AFFORDABLE HOUSING CYCLE
+As a result of the 2024 amendments to the Fair Housing Act, the Department of Community Affairs
+was empowered and directed to prepare a report to the Governor, Legislature and municipalities
+detailing the projected 10-year affordable housing obligation of each individual municipality
+comprising the various housing regions in the State. This ten-year timeframe begins on July 1, 2025
+and continues until June 30, 2035.
+This report was released in October 2024. With regard to the Borough of Cresskill the report
+established the Borough's 10-year affordable housing obligation as:
+Present Need
+0 Unit.
+Prospective Need
+155 Units.
+In addition to the two categories listed above, the 2024 Fair Housing Act amendments also
+directed municipalities to review the status of their Third Round housing plan. More specifically,
+municipalities when preparing Fourth Round housing plans are directed to:
+As part of its housing element and fair share plan, the municipality shall include
+an assessment of the degree to which the municipality has met its fair share
+obligation from the prior rounds of affordable housing established by prior court
+approvals, approval by the council, and determine to what extend this obligation
+is unfulfilled or whether the municipality has credits in excess of its prior round obligations.
+With regard to Cresskill’s Present Need obligation, the Department of Community Affairs has
+determined the Borough's obligation for the current ten-year period beginning July 1, 2025 is 0
+units. As such, Cresskill is not required to take any additional action addressing Present Need, also
+called the rehabilitation component, since there is a lack of demonstrated need in the community.
+Simply put, there is no Present Need affordable housing obligation to satisfy.
+Turning attention to Prospective Need, the October report indicates the Borough of Cresskill has a
+Fourth Round Prospective Need obligation of 155 affordable housing units. DCA came to this
+conclusion irrespective of the earlier judicial determination that Cresskill is
+a nearly fully built out
+community.
+B,
+EARLIER AFFORDABLE HOUSING ACHIEVEMENTS IN CRESSKILL
+In order to fully understand Cresskill’s approach and response to the 2025-2035 affordable
+housing obligation as established under the most recent amendments to the Fair Housing Act, it is
+necessary to examine Cresskill’s past efforts, strategies and achievements in meeting its earlier
+affordable housing obligations.
+24
+
+===== PAGE 30 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 30 of 91.
+Trans ID: LCV20251405916
+COAH's second round cycle included the years beginning in 1993 and ending in 1999, which
+coincides with the beginning of the Third Round housing cycle. Cresskill was active in producing
+affordable housing and as such has fully satisfied its affordable housing obligation from this
+housing cycle, including both the new construction obligation and the obligation to rehabilitate
+construction code deficient existing housing units occupied by income-qualified households.
+COAH, recognizing Cresskill affordable housing efforts, granted Cresskill substantive certification of
+its Housing Element and Fair Share Plan in February 2000. Substantive certification was based on
+Cresskill's June 1995 housing element.
+Likewise, Cresskill was also successful in securing substantive certification from COAH for its initial
+Third Round plan. The Third Round housing cycle included all the years from 1999-2025. It was of
+such a length so there would be not be a so-called ‘gap period! of affordable housing obligations,
+years in which affordable housing need that were overlooked.
+In 2015, the Supreme Court had an opportunity to issue yet another decision in the on-going
+affordable housing controversy. One immediate result of the Supreme Court's March 2015
+affordable housing decision was the voiding of all Third Round substantive certifications that had
+__
+been issued by COAH prior to the Supreme Court's decision. Cresskill was one ofjust a handful of
+municipalities that had their Third Round substantive certification voided by the Supreme Court's
+March 2015 decision.
+The previously mentioned 2015 Supreme Court decision created significant levels of uncertainty and
+confusion which took many years to resolve. Ultimately, a court approved methodology was
+generally accepted by most communities, including Cresskill. Pursuant to this methodology, Cresskill
+Third-Round affordable housing obligation was determined to include an assigned
+51-unit
+rehabilitation obligation, a fully implemented 70-unit Prior (Second) Round Obligation, and a 230-
+unit Prospective Need obligation. Cresskill filed the necessary Declaratory Judgement motion.
+Cresskill engaged with and negotiated a settlement agreement with the one intervenor in its
+declaratory judgement action. Fair Share Housing Center, Inc. a private advocacy entity was the only
+’ intervenor to Cresskill’s declaratory judgement action. Upon reaching a preliminary agreement with
+Fair Share Housing Center, the draft settlement agreement was presented to the Superior Court.
+After a noticed and open-to-the public court session, the Superior Court Judge assigned Cresskill’s
+case, the Honorable Gregg A. Napolitano, J.S.C., found the draft settlement agreement was fair and
+reasonable to lower income households in search of affordable housing, and approved the
+Settlement Agreement between the Borough of Cresskill and Fair Share Housing Center.
+Upon approval of the Settlement Agreement, Cresskill’s Planning Board approved the 2018
+25
+
+===== PAGE 31 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 31 of 91.
+Trans ID: LCV20251405916
+Housing Element and Fair Share Plan dated February 27, 2018. This plan was subsequently
+endorsed by the Governing Body. Once the HE&FSP was approved, the Council introduced and
+adopted the land use ordinances necessary to implement the plan. The Honorable Gregg A.
+Napolitano held an additional court hearing and at the conclusion issued a Final Unconditional
+Declaration Judgement of Compliance and Repose dated February 18, 2021. A copy of the Final
+Unconditional Declaratory Judgement of Compliance and Repose is included in the appendix as
+Appendix A-2.
+Cresskill’s judiciallyapproved Third Round plan included Table 24 and Table 25. Table 24 identified
+the four (4) inclusionary housing developments that were already complete and for which the
+Borough was claiming Third Round affordable housing credits.
+Table 25, in a sense, may have been more important than Table 24. Table 25 included a listing of
+three (3) proposed and uncompleted projects that Cresskill proposed would bridge the gap and
+produce the affordable housing credits necessary to achieve full compliance with the Judgement of
+Compliance and Repose issued by Judge Napolitano.
+Table 25 as found on page 33 of the approved Third Round Housing Element and Fair Share Plan
+is reproduced below;
+Third Round Proposed Affordable Housing Activities
+Contributing to Satisfaction of the Third Round RDP
+Borough of Cresskill, New Jerse
+Development
+Affordable Units
+Development
+Community
+Bank
+Pega]
+fee |
+Program
+[total S|
+|
+23
+** The proposed developments listed in Table 25 of the 2018 Cresskill Housing Plan, if fully
+ay
+implemented, would generate 23 affordable housing credits. Table 24, the completed
+developments, allowed Cresskill to claim 18 total credits. Summed, the number of credits in the two
+tables would allow Cresskill to claim forty-one (41) affordable housing credits which represented full
+compliance with and satisfaction of Cresskill’s entire Third Round RDP.
+Community Grants, Planning and Housing is Cresskill’s administrative agent. They provided an
+updated report on Cresskill’s progress in fulfilling the Borough's Third Round RDP obligation of 41
+26
+.
+
+===== PAGE 32 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 32 0f 91.
+Trans ID: LCV20251405916
+units. This report by Community Grants, Planning and Housing is attached as Appendix A-3.
+Although the Borough has not yet delivered the nine (9) units of accessory apartments anticipated
+and included in the Third Round’s Table 25, this affordable housing approach remains viable. The
+Borough will continue to seek nine (9) credits for this acceptable housing mechanism as part of its
+Fourth Round Housing Element and Fair Share Plan. As detailed in the earlier portion of this
+Housing Element, this type of affordable housing oftentimes affirmatively addresses
+multigenerational housing. Cresskill is convinced that given the proper support, this type of
+multigenerational housing will benefit both individual homeowners and the community at large.
+Cresskill's Third Round plan anticipated the construction of one rental affordable housing unit on
+the S & K Auto site (38 Broadway; Block 182 Lots 18-28). Although this affordable housing unit has
+not yet been produced, this site has been re-examined and continues to remain viable as an
+inclusionary housing site. Cresskill continues to support inclusionary housing to be developed on
+this site during the upcoming Fourth Round housing cycle. Ord. No. 18-23-1511 A, which rezoned
+this property to allow for a residential inclusionary development is included as Appendix A-4.
+The former North Jersey Community Bank site (1 Union Avenue; Block 74 Lot 47) now identified as
+Connect One Bank has been redeveloped. One rental affordable housing unit and a contribution
+to Cresskill’s affordable housing trust fund was generated from the redevelopment activities. The
+approved plan is one rental unit short and one bonus credit short of what the Third Round plan
+anticipated would be developed at this site. Cresskill understands and accepts this affordable
+housing shortfall and understands these two (2) credits must somehow be affirmatively addressed
+within the pending Fourth Round plan.
+C. IMPLEMENTED AFFORDABLE HOUSING ACTIVITIES TAKEN OUTSIDE THE HE & FSP.
+Cresskill took positive steps during the pendency of the Third Round Housing Cycle to generate
+additional affordable housing. These steps, although not within the approved affordable housing
+plan, proved to be very effective in creating realistic opportunities for the construction of additional
+affordable housing. These outside the plan activities allow the Borough to claim additional Third
+Round affordable housing credits and thus completely fulfill the Third Round affordable housing
+obligation.
+The two (2) credit shortfall from the now-constructed Noth Jersey Community Bank site will be
+affirmatively addressed by Cresskill, in full. Cresskill rezoned a fully developed site owned by
+Creston Electronics (101 Broadway; Block 181 Lot 1) allowing development of either 6 rental units or
+8 for-sale units affordable units on this 2.5-acre tract. This rezoning of the tract is at densities that
+creates realistic opportunities for the construction of affordable housing. Based on current market
+conditions, we anticipate this site will be developed with rental units, thus generating six (6) Third
+Round affordable housing credits and a like number of bonus credits that can be applied to both
+27
+
+===== PAGE 33 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 33 0f 91
+Trans ID: LCV20251405916
+the Third Round and future affordable housing cycles. Appendix A-5, is a copy of the rezoning
+ordinance that permits residential inclusionary development to be constructed on this site.
+In addition to the above rezoning, Cresskill sponsored a municipal 100% construction rental
+development with Bergen County United Way on a small and undeveloped property that was
+formerly owned by Cresskill and was subsequently donated to the sponsor for affordable housing
+purposes. This development is located along East Madison Avenue adjacent to the Borough's
+existing senior center. This completed 100% affordable development is comprised of three (3)
+apartments for developmentally disabled adults, two (2) unrestricted affordable apartments, and a
+four (4) bedroom rental group home for developmentally disabled adults. Nine credits (9) and an
+additional nine (9) bonus credits are available to Cresskill as all bedrooms in this development are
+rental. These credits can be applied as needed to the Third Round or future affordable housing
+cycles.
+Further, Cresskill can claim a total of one (1) additional unit as a result of the implementation of the
+mandatory setaside ordinance previously adopted by the Governing Body. This credit became
+available when 478 Knickerbocker Road was redeveloped through a subdivision of a formerly
+commercially developed property.
+A total of thirty-one (31) affordable housing credits and bonus credits are available to Cresskill
+which more than makes up for the 2-credit affordable housing shortfall generated from the
+Connect One Bank site.
+For the reasons as stated above, both with implementation methods included within the adopted
+Housing Element and Third Round Plan and those outside the plan, Cresskill has more than fully
+satisfied the Third Round RDP assigned the Borough by creating realistic opportunities for the
+construction of affordable housing.
+Turning attention to the current ten-year Prospective Need obligation, the Department of
+Community Affairs has estimated Cresskill has a Prospective Need obligation of 155 units. How this
+155-unit affordable housing obligation will be addressed by the Borough will be detailed in the
+balance of this Housing Element and Fair Share Plan.
+D. VACANT LAND ADJUSTMENT
+The Borough’s affordable housing obligation is also informed by a vacant land adjustment and the
+imposition of a realistic development potential (RDP) analysis that was undertaken pursuant to the
+amendments to the Fair Housing Act. As detailed within the amendments, when computing a
+municipal adjustment regarding lack of available land resources, the municipality shall confirm the
+following classifications of land were correctly excluded:
+28
+
+===== PAGE 34 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 34 0f 91.
+Trans ID: LCV20251405916
+(a) Any land that is owned by a local government entity for
+a public purpose other than housing;
+(b) Any land listed in Cresskill’s master plan as being dedicated for purposes of conservations,
+park lands or open space and which is owned, leased, licensed, or in any manner operated
+by a county, municipality or tax-exempt, nonprofit organization;
+(Q Any vacant contiguous parcels of land
+in private ownership of a size which would
+accommodate fewer than five housing units based on appropriate standards pertaining to
+housing density;
+(a) Historic and architecturally important sites listed on the State Register of Historic Places or
+National Register of Historic Places prior to the date of filing a housing element and fair share
+plan;
+(e) Agricultural lands when the development rights to these lands have been purchased or
+restricted by covenant;
+(f)
+Sites designated for active recreation that are designated for recreations purposes in the
+municipal master plan; and,
+(g) Environmentally sensitive lands where development is prohibited by any State or federal
+agency, including but not limited to, the Highlands Water Protection and Planning Act for
+lands in the Preservation Area and for lands in the Planning Area for Highlands conforming
+municipalities.
+The vacant land analysis identified all vacant sites of minimally 0.83 acres in size, imposed wetland,
+steep slope and flood plain information and deductions pursuant to the applicable regulations, and
+calculated the remaining unconstrained acreage that is to be utilized ta determine the Borough's
+RDP.
+Pursuant to the amended Fair Housing Act, no municipality shall be required to utilize for
+affordable housing purposes, land that is excluded from being designated as vacant land.
+At the conclusion of Burgis’ vacant land analysis, we have determined that there is no property in
+the Borough which can comply with the requirements for construction of an inclusionary
+development containing both affordable housing and market rate units. Stated another way, all the
+vacant land
+in the borough should be excluded from consideration as affordable housing
+construction sites. Thus, Cresskill’s Realistic Development Potential is 0 affordable housing units.
+Likewise, Cresskill's Unmet Need is established as 155 affordable housing units.
+The Borough’s vacant land assessment is presented in the accompanying map and table on the following
+pages.
+29
+
+===== PAGE 35 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 35 0f 91
+Trans ID: LCV20251405916
+Table 22: Vacant Land Assessment
+Borough of Cresskill, New Jersey
+4
+30
+
+===== PAGE 36 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 36 of 91
+Trans ID: LCV20251405916
+[S]S[e]818]2]
+2/218 )2]8)5 3)=)>] ]5|=]=]2]2]¢][fey
+[tele|
+2@
+j
+fc
+zlelelelsia
+ulalelslalalelelisialeleleisisisieisigigi2
+2S
+slele
+a
+vislelalalalelalslalelelels/s/slsizisiale
+5
+sl*|8lals|*
+=
+“lol
+[>
+e\3/817\8
+z
+fa
+Au
+ul-lelel-leinielzlelsleelel-l~lelale
+alalelaya
+wle
+|
+i?
+a3?
+i
+B25
+ae
+Z s/s I=
+zicigib|<)Ple|s/2/8|se(T]Slsizizlslzlzlalelelels
+aek
+Fal Fol oa
+Blais |e 18 lal2|=/Slalsis| zie sis /aisls|s lela 3 lg
+sé
+a)a lala
+BIS (4 F133 |B |SIS S|e/Slal
+Pla 3) S18) Sie |S)a 151s
+3
+S(S|3 le
+2) lclS|Sis
+ig l@laisiala|
+(Silela lsjols|=|2i<
+$
+zg 15/5
+S|")
+FS] ]SIRIS!
+[eigis|s
+9918
+2lal lalzizie
+a8 (2
+i
+|
+|@\a)2
+Zialslz}
+| |
+jol°
+SiS]
+|Slsisla
+ad ial ba
+2
+all
+a
+Fg
+x
+(rome)
+ha }opa)s.
+@
+a
+zla|
+|?
+sg
+g
+wo
+»
+oOo
+i
+ZR
+|
+2
+Cc
+2
+ot
+ala
+ot
+=
+a
+=|4
+ala
+SOLS Ols OlOlolP|
+FID
+81818
+}8]8]8
+1818/8
+18 18 181s
+818 )8 18/18 |S |8\s|slsl=/2/3)
+oo
+Slelelelelslelelsieiaiele
+SlelaleiSialZls/2/3/3]g
+e |e|e|e|e |e|e |e/ele|e
+[ele
+alle
+lele|ele/e|2|g|a|§|8i8)
+9
+z|
+lz]
+|S}
+]=
+gz,
+2/¢|=|8|=|$|3|3|3\3
+2
+S|
+||
+|e!
+|s
+ey
+5/2 (3/8 |$12/8|8(8 (8
+w
+4)
+|2]
+|3
+a
+4
+gidla|djaldalajaiai2
+Cay
+8)
+|8|
+|3|
+|8
+8
+82/18/39 |8/3 [8/8
+=
+re)
+fel
+(3!
+fe
+-
+eigieigrelgiel2
+&
+el
+je!
+jo}
+ie
+eS
+SISlSlsislalslo
+a
+S|
+18)
+|3|
+jg
+21818
+3/38\2
+<
+&)
+{e}
+|&|
+|B
+B
+R15 je 13/8/5135 15
+>
+“TU? )
+la}
+ie
+7
+€}
+le)
+Jgsel2
+fa)
+3|
+|&
+a)
+ja}
+‘jajaja
+z
+a]
+16
+=|
+|u|
+|alala
+4
+Fl
+fe
+Z}
+|S)
+|Sl<}8
+c
+o
+>
+8
+3
+Z
+io)
+>
+wu
+|
+a
+Hi
+m
+w
+wn
+|
+=
+.
+1
+m
+|
+z
+ia
+i
+mal
+elelslelslelelelelelsielsisiclelsisieisieieis!sS
+slalelele
+2)
+BI2/G|RalSis[SlSlalaelaiS|A|N/S/R/BlB/8/S/B/S/s
+2/2/1318
+a
+Pa
+|
+Bg)
+=
+|
+le
+z
+|
+g|
+g
+Zz
+2
+eloicic|s
+giele
+9
+Go
+3
+8/8/8}8/8
+3|3|8
+8)
+=z
+3}
+9
+8)
+&
+f>
+z
+3
+a
+=}
+2
+|
+“|
+8
+rm
+oO
+2
+&
+z\|z\8
+dy
+BF \F|FE S/F 155
+&
+BEE lF/ElE
+23/8
+si
+'
+i2
+|>
+g5
+ak
+bz
+a8
+i
+Be
+ae
+Sa
+23
+B55
+
+===== PAGE 37 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 37 of 91
+Trans ID: LCV20251405916
+Teleleleleiniclelelelslelelelelelelelaleleleleletelelelalelslele
+=lale
+a|S[8/RS/EIN
+Bl S/S) RIS |" S/S]R/S/S/SIS
+|S) el SlS]o ls el
+eyels/ojelols
+“ele
+I
+|
+slelelela
+~
+z
+wiela
+wir}
+nilalw
+saigiwirm[ryin
+wis
+wlale
+B/S /8/=/13/5 8/5
+a=
+S/B18/8/3
+Sigls aes
+Bla]
+B)e]sle
+|
+|
+ZIPlol[PlelslPl|aoilislS|lPiOl Ssl[9lslBiIF/ SIMS ZI F/FIZ
+ZyBiz
+mMmsiri3inm
+ms
+5/3 |§|3|5|=|8 | Slo 12 | 2/8 |s |S] |Sia|2/8|z|e (Sa |8 13/3 |o|8/8|8)=z|R|<lzl=<
+<|8
+5/8 Flo /5/2 (8 [ela ls iF PS [2 | o12|4/2 (8 (Ria [2 |e]ssf
+|
+)3/8/e/S/8/8 [8/8 a
+a
+BAL 18
+| 8.
+Ea Ei
+ea ai
+Slelsielslals
+Sis
+lvlzls|si
+ZSlslFlsle
+o13
+5 [4 ]e 12 |5
+a
+e|
+2/8/213812
+2|5
+5|2
+8
+S|216
+6
+<
+=
+Q
+5
+<izlal-ls}
+|2|
+|2]2]
+J2/°]
+Jal
+|® sale lPleiziai2| fsi®@ 2] (Pre rele
+218
+pio;
+e
+6
+Fake
+6
+if
+fy
+>
+&/Ela
+a
+=
+>
+2/8
+=
+=
+7
+>|
+|
+=
+a
+5
+oe
+2
+2
+i
+é
+s
+alalalalaleleielelolelelolslelelelslelelelelelelsletst
+slslale
+818 ]8 18181818
+181818 |S 1818 18
+1818/8
+[818
+8 1818/8138
+181318
+8/8
+g
+Slee leleleleicia(SlalelSlelalelaleleleleislaiels leis
+|a\3
+za |s|z/2/al2
+{elalyl2lzlo|2|2|2|e]a|ai2/2e|e)alae|e
+2|z/3|8
+peesampreinniene neem
+a
+id
+a
+=
+a
+S|
+|F
+of
+oS
+&)
+|8
+:
+ne
+ao
+pas
+a
+g|
+|8
+8)
+18
+{
+|
+ii
+|
+elelelelelelslelelslelelelslelelelelesisleisigisisieisis
+olzlelole|s|sla
+2/8]8/2]/2)2|=]8/°|8|4|-|3|)8/5/8]a/Sis/e]e)a/8/8)8]6/8)a/8)5/8)%)8)4)3/4))5
+i>
+|
+>
+i
+|g
+|g
+slo
+ele
+elols|eo
+elo
+als
+3|8
+sisisis
+sig
+¢
+2
+2
+3
+¢
+oaf
+g
+z
+om
+s
+75
+ZIZ|Z
+3
+Ry
+Fea Fog toa Foal alo Fea
+EFS
+|FlEF|S
+1515
+rats
+ElS\E|T|F/F\E/5
+g
+Pea
+&
+2g
+~
+ae
+a:
+gs
+2s
+esi
+gz
+Ze
+a8
+ao
+
+===== PAGE 38 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 38 0f 91
+Trans ID: LCV20251405916
+—T-lelelela
+a
+s]s]a
+B)R1B\R\S
+“toi nwinioininimictisiciclsisiziate
+slaleislelslelelelzlylsialelelslealalslsle
+DUA AMNAAANVAAVAAANNANAANANAUANONNOUANG
++
+=|
+x18
+wig
+glelelzlelyls/olalelyisl=[a/e]=]e/ylele]4|s]-|elele
+8
+S
+BIS
+a
+2
+=}
+oe I
+ig
+R
+2
+=
+o
+ale
+3
+2
+=
+al>
+vislalelelzlolelsioleloigizislziaigigis|el=/3/ elas islsisislz
+AROME
+SIS eB SlE al PlSislSialS Sis lSis/SisielZ|Fia/S19 /2)2) 48
+icy
+2/2
+z
+S18 /8)3)3/e/3| 8s |2/2/2/2 [21213 |2|2 12/5/43/8 8/2 18/35/43 |2|2
+8]3)
+018
+cy
+a]>/@2l>
+>
+BIS lalzye]"%
+S|a) a.|°
+=
+Sales S| |zlElRlz/8 [218 (8 1218 18 [slo i42slle
+@ | a:
+2S
+giz
+2.
+s
+O(T/G/QA\Flels
+<i) /2]2
+>
+faa
+3
+sie
+zllalalals|*|*/ol* lzl* |e
+ia\"|z)
+|sls|
+l2ls|*laje|a|<|
+|3|
+|2
+z=]
+{2/8
+®||Sliglg
+F
+x|
+|sif
+5
+.
+43\s
+a
+é
+&):
+2/8
+Q| |=
+2|
+jz
+Z\=
+a\2
+B\o
+8
+=T=Tololslolslolol=lslslolelsicisisisislalelsisislelslaialale
+oO
+3
+3
+ala
+alalsjalsialsials als
+alaleielaieisigisiaisigig
+isa 3is (318/218 |8(81818 18/8/8138
+/8\8
+8
+Ces sols lel8[SlalalalSlalelalalelslelalsielslelsleieiglals
+3/5 alol3]o|3lolo}3
+1513 [o13 1313 1313 133 )3 1212 [2 (313izl2\2lalz
+2
+BESS lalP RBS |S SBS |Sa/ela)e/aie/eele)e)ejalee/eyejsi=
+2
+8(Rle(Rl ela |s
+ol® lolalalolo
+z|s
+5
+a
+3
+RI-/-I818
+s|5
+#|
+|g
+all
+Wels eleds
+ares
+vl
+|e
+rary
+8]
+[8
+ge]
+eaels
+38
+a!
+lz
+e
+URIFISVEIB]
+|
+tele
+§
+a]
+18
+R18
+a}
+318
+ala
+a|o
+i
+z\o
+|
+ale
+/
+1
+oe ee}
+:
+ala
+L
+||
+H
+||
+elolslclelxielelalelelslalielelsjeieis
+2
+ele|o
+elelelelslelsicla
+3/5] 2) 2/2] a/R]
+S]©(a]Sla]Bl
+a)epajs]el=
+@
+elg|2
+S}a|e}3]5]S]3]/8/2=
+3
+8
+i
+iL
+i
+slololo|c
+eje
+slo
+eglelo
+|
+8'8/8/3/8
+8\8
+8\8
+8\8/3
+|a
+i3
+2
+>3
+|8
+z
+2
+ZIZiz
+ZiZ)|Z)Z)2)Z2)/2|Z
+ZIZiZ/2Z21Z
+zilz|zilziz|ziztz2|z|z)|z)zizlz|zlzizlg
+a
+ol|o|co
+O;O/OTO/O!1O/0/0
+O1G)/O}0}o
+OPOTS POH OW SES FS [SHO Ho oloTolatoye 1s
+|
+8
+i
+o
+z3
+Bo
+|
+EH
+ee
+Re
+Bs
+sé
+He&
+az
+$5
+3a
+$3
+
+===== PAGE 39 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 390f91
+Trans ID: LCV20251405916
+=
+3
+elelalala
+als|s|*|2|=[8/e]¥/elals]e
+i
+3
+e
+r
+&
+z
+g
+i
+el=[a)5)5)5)a/2/8/8/3|-|-
+[ae
+3
+a
+Li i
+t
+4
+s
+€
+mur)
+a
+2
+3
+BaelzEe e152
+| alole|
+Sle)
+Slals|
+elie
+g
+Rit]e|s/e\3/alsialal4|4|s
+3/F
+=
+ia
+SlulS/e|S/aloisigia
+S
+2/8
+ia
+al4leislajzlal2(=|8
+a)
+)8)2
+z
+9g
+glee sialalyel2
+a
+>
+#
+5
+S|
+[2lsisialziay*ie|
+|
+|e]
+12]
+g
+z
+g
+&
+=|
+\£
+2
+s
+|
+olalaisalaialalalyels
+ala}a
+ajala
+218/8/8/8 8|8|/8|3/8
+8:8|8
+818 |8
+m1 5)3)913915(3|3]4{3
+$)3|3
+3}3/3
+a
+eldld}eizia)a)sls]2
+al/a)e
+alale
+SIRE
+Bialele| jolslale| _
+“1€f0
+o| |=
+sek
+ele /3| ISIE
+lelo
+21
+3|
+|§
+o |e
+Z\Fl2|
+|2Io/Sl+
+gic
+al
+\s
+218
+a8\8|
+Sislsle
+gig
+8)
+|g
+2 |2 ie
+le
+SISIS§.
+R
+8
+8 |e Fe
+Sle]
+|s|Bisla
+aif
+8)
+|<
+SZ)
+a|o
+»
+a
+8
+8
+PIs 8
+pal fi
+Qe
+fe
+3
+g
+=
+a)e
+as
+a
+|Z
+iOlk
+¢
+aly
+ae
+&
+ale
+2/8
+g
+z
+a
+fey
+=
+=]
+S
+>
+=o
+|
+wlolols|ololojol=/olelelelols|s|elsisisieig
+Me
+elalale]
+ei 8/2] 2] S18] 8/8] 8/3] a)a)s)/s]3)3//e
+OS
+ey
+>
+aed
+g
+o 18
+ryo
+slo
+elolo
+slo
+3|8
+3\3\8
+3/8A
+3]
+>|
+18
+|z
+ist
+Veda |r
+oO
+?
+2®
+8
+Z
+zl\|zlz
+zizlz|z|z|zlzizlzlzizizls
+Zu
+coy
+a}|o|o
+SHOPS Popopayopoys foro) Ore
+ak
+>
+33
+gS
+ze
+gh
+ez
+3
+=
+$3
+
+===== PAGE 40 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 40 0f 91
+Trans ID: LCV20251405916
+oc
+als|ela]s|s|a|s/e/2|s]/ale/a]alale/s
+ele]els/e/s]2/sjais
+‘
+on
+8
+e|e
+B
+sg}
+}e/g]g}-}3]
+|
+rh rem
+2
+=
+|
+Ru
+SI71BlS
+A/S SSS SS lel] E|™|~ls
+|21814
+“aye
+ae
+8
+Pe
+eh
+|
+i
+age
+Ace
+gg
+=
+—
+zi2
+xt
+2
+3
+y
+=
+2
+z
+23o5
+ZlS/RIS|S|RIS|SIRS
+(El Fie SSS /S/S(C) SSiE FIs lelzlslelala| 3
+Ee?
+A/F 1B 3/2/20]
+2/318 |S IB isis lalelelei8
+1S |S/Z/E/S/2 /S1313| 8
+2:8
+elslelalelelzlal*(Flelaisisieiaisisia)
+isisiaiei2 (2 (82 isis| 3
+apa
+SSIS lelolslFl2)
+jelel2ZelslPlSiF/Sl3]
+|AolZiS
+leis sols la |=
+es
+Slal>l>]2|215
+2
+pis |=
+Al>|s
+QIX8]a/212/5 |2\|za\~| &
+£
+© lal |z (7 |S]
+@)
+12
+Is]
+|ZlR|3\|>
+ol S13}
+|Flele|
+3
+§
+a1
+Js
+x
+aa
+18a
+ls
+2)
+(eja}
+jajaja
+&
+-
+2
+| |@
+zla|
+|e
+3
+§g
+&
+alalisialalalalalajatalalayaiota
+alalalalolslolajolo
+z)\2)
+alow
+Q
+oO
+ole
+olojolo lo
+elo
+cel
+°
+i=}
+oa |e
+alae |e a alsa a isis SiS ie 12 1212/8 8 (SSIS esis ieielZle| Sl
+Soe lelelelelelelelalalslalalaleizlalalslaia(sis|slals
+,
+3/5 /3131313 13/3 ]3 1313 |3 [3 |3/3 |2
+3/3 /3is les laissez iala
+216
+PR
+A
+A
+OPUS /Blalwjasaja
+atslo
+2le
+BSS |S SESS SSS Se eee
+ee eee lel=lelaleizie|
+a
+z|
+lz]
+Isl
+|é
+z
+2/8 |2|3/z2/3|8/3\5 |s
+6
+S|
+15)
+je]
+|5
+eg
+3/3 /8/2 |5/2|8 (8 (2 (8
+=
+ry
+sa
+a
+fal
+pa
+wijaj4alalei/djajaj2i2
+#!
+ig]
+|8|
+18
+8
+Blo |S lols \ylals
+fe
+s|
+je}
+ja]
+js
+Slalslalslelela
+vs
+a
+if
+a
+rs
+alsSjulsjalsis]s
+a
+g|
+|g}
+|S]
+lg
+iS
+G12 \9)/8 9/9 |/2/8
+2
+re}
+|B]
+|&)
+|B
+re 2 le 2 BIS |S 15
+im
+a”
+he
+3
+ral
+Ye
+“138
+3
+S|sjia
+tA
+a|
+|
+5]
+ls}
+Sigls
+wi
+fe}
+a
+a
+a
+ajaja
+=
+a|
+{2
+zl
+|x|
+|alalz
+c
+an
+ie]
+ie]
+VIOIo
+oe
+s
+5S
+a
+addPl
+3
+<
+a
+:
+>
+3
+fa)>
+Zz
+a
+elslelolel[s|sle|s|o
+elolejojolols|s|co
+elo
+elelsialeiy|
+ate
+2/2/a|Nlalals|s]o]a]a
+ayes)
+S/R 3/88
+/Ss[e/S/B/S/spSl=/s)
+gyS
+215
+&alR
+LIA
+|
+fa
+wn
+{
+Ww
+<z
+Lot
+m
+sis
+slolo
+ele
+gio
+°
+>oalZ
+slo
+s\gis
+els
+gis
+=
+a ola
+sis
+c=)
+ols
+<=)
+S
+= 2a\m
+Sia
+<|4x
+9x
+210
+Sic
+B\z
+v4
+ZIZ|Z)Z2
+ZiZIZ
+Z1Z\Z|/2
+ZIZ|Z|Z/ZizZ
+BES \E\5
+BFF |F1F|F 1S |S |F| F513 15 (F515 |FE |F|FF |F| 515
+g|O
+Q\x
+°
+Cc
+a
+Zza
+a
+x
+aQ
+e
+2
+m
+7
+8
+as
+ak
+RZ
+z
+Be
+ai
+at
+2Bz
+as
+>
+ag
+i$a
+g2
+5%
+:zf
+2RF
+BRA
+aR
+
+===== PAGE 41 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 41 of 91.
+Trans ID: LCV20251405916
+Shelelclclslelaleleln
+»
+lelelelelelclelelelelalelelelelelelelslelalelelele)
+2
+2
+Ee
+ri
+alalslyl=lelalylelslyelelele(slylelsiele|
+isla
+B] 2)B/R/3|~)8
+BlS\e\e
+8
+8
+Ey hal bed
+&
+2
+zielelelzlaiziaizislelzlolelolalsia|zir/slzlzlzlslolslsizisicisiclsizl@iaizi
+2
+513 /5 (3 |S] 3/3 | SiS 2 | S18 18 |S
+Sz alelela teers els le (ele
+lclelalsieisteials|
+2
+Sele S$ [418 |elz(Sleis
+[2
+lelgielalsigiaisiels
+ars lslaleizislaieisielaieisial
+8
+Bal js |e
+Bl yatal Jsyelr ys
+wlBlalals |S (Slolalr|s|/2)a)]vlSleg
+bal =a) Ia
+oi 2
+BIRelsle|
+JA}
+jal8)
+|RlZy
+je]
+le|slzele|z|sl2l2j2/4/s/z/21°
+[8
+(8 (4iSls
+|S
+>
+>iP
+ple
+5
+B\8|alSlalvlelalzel’
+a|z
+$|9
+ail’
+S|
+5
+slz|al
+is}
+JZ)
+|2}2)
+(2
+B|A)s [3 |e |vlzlalz\"
+|<|e|S
+‘
+8
+ala |!
+a
+5
+Pare
+6
+B
+6
+>
+o
+6
+z
+Ss
+>
+z
+8
+2g
+2
+,
+S|
+is
+2|
+|@
+é
+a|
+&
+i]
+@
+Ff
+2
+3
+a
+olalslolslsielelelsisls'
+=l=l=|a}s| o!
+alelel
+¢@
+8|8
+18/8/8183 /8
+B/S 18 /g/8 18 )8
+8|8/8|8
+8|818|8/38/8
+8/818]§
+be
+[allele
+bets
+Cie 8 lelelelsledelele
+elalalelals
+viaiz|
+3
+8
+B
+<|
+|e
+a
+s|
+15
+a
+4
+B|
+|p
+g|
+|8
+as)
+oO
+a
+a
+S|
+|
+|
+|B
+|
+|
+elejele|jeisie
+olofelolololols|sls|sis|sje|scig
+elo
+elzle
+egisle
+3
+2|=|=|=/2]2/4
+R{2]*)S]x]Slsle/sla|g/e|s/e|s/els|e/a/s/s|N|slelalsials|
+§=
+FAg
+e
+is
+|
+|
+i
+ele
+eiolo
+2
+elslo
+2
+slolsiclol>o
+sls
+8/s|8
+8
+sj3is
+8
+s|3isis8
+83
+aE
+Fed2
+8
+ziziz
+Far
+ziz|zlz|z
+z
+z
+‘
+SSE |S (S13 (5 1F|FF
+FF) 5|
+&
+BSS
+|51F|5 FFF 5/5
+é
+gles) &
+|
+g
+i
+7
+8
+3%
+BR
+Higs
+=
+Fa
+az
+$5
+g3
+
+===== PAGE 42 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 42 0f 91
+Trans ID: LCV20251405916
+:
+fatal
+[ol
+otetore
+= Ips
+cle
+nintatctcloiciclcial
+2
+4
+&
+aivl@l-l-|-lelemlelelsielele
+~lslelelelsielelelelelel-lelal
+5
+Vil il rey
+;
+°
+T
+TEEELP
+:
+:
+Ss
+2
+=
+>
+slalz
+mi
+slalslolslelele|
+2
+S/S/8/8)2/3
+18 ls|3/2/3 (2 13/3 1512/3 1]2|/515 [Slo 3 3s lsi4laisisieizisisleizial
+8
+alsa |sle lelele izle (218 (8121s (sles l eles lsisielele) (sleisisl (sisal lg} <
+al 4
+SlE
+l/s iz 1215 [5/8 S21512(P ele lSlz(ZI2l4l
+212]
+lelelZlal
+less}
+|s
+ZS 18 [SlalPlPlolP
+lel"
+lelal”
+ial
+jale]
+[2/2 |? /alei<|=|
+ls}
+|2i7)
+|Py2Z|2|
+|3}
+8
+®Bloglglo
+7
+2p
+y
+.
+°
+i
+eg |e
+r
+°
+|:
+2)
+3
+YS ]8
+2]
+jz
+2/2
+|
+2
+ale
+3
+slololalolsalololsisialolalalslalalalalsiaisiaiala
+alslalatlalaisisiaials;
+9
+Sislsls8{s|8 {sts 8181818 18/818 18181818 1818/8 /818\8/818/8 1818 13/3 )3/8\sj3)3)g
+esos loi 8i8lelolelSlalalelslalelaleleialslelalelelsialslsisiei4i4isiy
+3/3
+2
+dleleldleldleleldielgie
+lai lelgleleg(gleeleleeleleleleleieletelelsiele,
+§
+ES
+a
+tals
+BESS
+SPSS iSlS/S/SPSiSS/SlSpSSiS/SpS/SlapSiSl=i=)=|
+2
+BIB/E/BlE/B IG
+QI lojalalgle
+2/8)
++)
+15
+8!
+[RHlZ/R/8
+Fala!
+a
+=
+al
+3)2)8)3]5
+aa
+icy
+s
+wl
+jolSlSilalo
+3]
+|S
+B)
+[EISiZIRI8
+SiS)i
+2|
+|e
+BY
+lai
+|" (818
+lel|
+sg}
+ls
+Sis)|
+a)
+pay
+bat
+|
+a |g
+|
+ala
+alta
+Paleg
+Ss 1S.
+ab
+elglelols
+alclololalololo
+ololo
+°
+elelelsisieleleleleieists
+ot
+3/8] 2/8) 3
+©13/3]3]e/%/8/8/3[4]=/8]2/8
+2igigfe|Slalela/a/sla)slsle|
+g
+:>
+I
+@
+i}
+|¢
+:£
+|
+e
+elelels
+egielelelslelejele
+ole
+eloicjoipa
+8
+8/3/8/8
+8]8/8/8]/8/8/8/8/s
+s8|s
+8)3/8/8\g 3
+ae
+es
+|§
+|
+2
+ZiZ|Z\|2
+Blels1515
+Z|
+Z/Z
+Zia
+Zz
+ZIZIZz
+ZizZ
+ZiZIzZ
+f=
+foe ho
+toe Ke}
+ojco!o
+Oo
+fe}
+com Ke}
+a|o
+oO
+o};o}o
+coe ko)
+clolo
+<3
+o
+8
+g
+| 3
+|
+|
+°
+8
+By
+Ss
+ag
+Re
+ie
+Bs
+st
+a
+gz
+$5
+as
+ae
+
+===== PAGE 43 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 43 0f 91
+Trans ID: LCV20251405916
+é
+8
+lea] a}e/s/s]s/e]sla]>/=[+]a/e]2]s/e]ale
+¢
+roy
+3S
+iS}
+H
+z
+3
+~l=lalulelale
+wjolwl|—|—lxlul~
+8
+BSR
+SS SS S/4Zisig
+“18
+8
+|
+id
+8
+~elataictcisleletslateleletel
+=
+=
+rs
+aol
+=
+%
+=
+8
+Sie | cz Sele es |e) SSF SFE BSS F/F 3) 3
+FS
+RIFFS
+Slssislalslei4isis|siSlel4ialsials|]
+8
+Fa
+S|nl8/F/Slalalalsys
+3
+215
+S|a|a18)
+8
+g
+el lsipl/alal2/alzis
+2
+al2
+al2(2|3| =
+“
+=]
+cad
+yw
+>
+f
+>
+i
+8
+21% |5)2|2|2|F]>
+=|
+|=|2
+s
+z\
+8
+Wie
+oad
+hal
+Fs
+|
+|e]!
+e|
+3
+bial
+S
+ES
+|
+olalalalsaistalalylalalaislalaisisttalalaiaial
+ao
+g/818/818(8/818/818)8|8/8/8/8/8/8/sjsi3aisisisg
+Sole ielcreleicisledelsisistelalatalsisisls))
+g
+Slalale/e|ei2lsleleia}slalals|elelaleiziele|
+3
+S(S(R/S/S/2/2/S/o/2)2/2/e/e)s/e/sjajzieiele)
+3
+Blalolz
+olel2l
+Zlo
+fe}
+=
+=/e/5|
+[R188]0
+218
+gl
+\2
+FlSa4
+BLDIOl4,
+Bla
+3
+&
+a
+wnje|e
+in
+wn
+gels]
+Higisie
+8g
+s|
+[8
+my —
+Sje|
+|a/BIBIF
+2ia
+s
+i
+Aaa
+alo
+a a
+s|*
+*!
+|o
+cee
+<|8
+Qo
+8
+3
+bara =
+8
+gle
+ae
+5
+B/S
+ce
+2
+Fea
+5
+3
+ap
+S
+>
+3
+a
+ss
+Bie
+elsl|s/elelojolzielele|slojeis|elsloiscieis|
+¢
+gc
+B/S 8) 2/8) ele] 4) SPS Slale
+Slalsls/slsisis)
+gs>
+a
+=
+=
+|
+$
+g
+113
+z
+Ea
+5
+2
+e|sic
+2°
+e}olojols
+Pael
+8
+slgls
+s/sisigisis/s
+iB a
+fs
+ae:
+bas
+On
+12]
+3
+BSS SSF) F135| FS) F| F/S|FF F|F|FFF
+3
+om
+By
+g<
+Be
+gs
+H
+ge
+$3
+
+===== PAGE 44 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 44 of 91
+Trans ID: LCV20251405916
+TY
+>
+Sayi a eesee
+>,
+*s
+eis at
+eT
+ip
+*
+5 OO
+ie
+a
+PiCel “PsaOn
+tah
+Tis
+WS
+er 3
+N Ng NES dot
+(C1 [2
+e VA.
+VOT OR y B pA
+<
+BEN, Sea Pint
+VE
+‘ es es 2eR Vib 2,4 G
+ot
+GTN
+Bree Tp Ly /
+Se. os “A
+ES
+ge
+LER
+FI
+SOS NAP
+EP
+3-
+555
+>
+~
+ier
+7
+3
+"thes yy ~
+=< >
+q
+5
+eX
+EB
+ALPES
+AS
+ED
+SA OA)
+OORTS ShGAS
+S Pe
+:
+SSF
+>
+es
+By
+ie
+IE: Se £2 Deas
+7
+g
+eS ieAt
+ey So
+Pa)
+Paes:)
+>
+b>
+Ney
+g
+: Slay ats,
+E
+S
+g
+8sa
+z
+Hiaed) ed
+fi
+O8M000;
+3
+see
+PTET
+PEygegcezs
+Boe |files
+ieee
+[Ea]
+fe
+esegegeds
+Gog
+|p ipge
+I
+;
+foes
+ae
+i
+gee”
+a
+|
+4
+Fir
+
+===== PAGE 45 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 45 of 91
+Trans ID: LCV20251405916
+SECTION III: FAIR SHARE PLAN
+33
+
+===== PAGE 46 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 46 of 91.
+Trans ID: LCV20251405916
+A.
+FOURTH ROUND PLAN SUMMARY
+The HE&FSP identifies the manner in which the Borough’s fair share affordable housing obligations
+~ inclusive of an assigned 0-unit rehabilitation obligation, a fully implemented 41-unit Prior Round
+obligation, and a 155-unit DCA assigned prospective need Fourth Round housing obligation — are
+to be addressed. This is summarized below.
+1.
+Rehabilitation Share.
+Cresskill has been assigned a zero (0) rehabilitation or Present Need
+obligation for the Fourth Round. Since there is no obligation to be met, Cresskill need not do
+anything to address Fourth Round Present Need.
+2.
+Prior Round Obligation. The Prior Round new construction affordable housing obligation
+assigned to Cresskill by means of the Court-approved Settlement Agreement was 230-units
+of new affordable housing. This affordable housing obligation was subsequently adjusted
+downward based on a Court-approved vacant land adjustment. After completing the vacant
+land adjustment, Cresskill’s Court approved Realistic Development Potential was forty-one
+(41) affordable housing units. The Borough has more than fully satisfied this affordable
+housing obligation through a combination of activities both within and outside its Court
+approved Housing Element and Fair Share Plan. These activities included construction of
+several
+inclusionary housing developments,
+a municipally sponsored 100% affordable
+development and implementation of the Borough’s mandatory setaside ordinance.
+Even though the accessory apartment program has not borne fruit yet, and one development
+produced one less affordable unit than projected, Cresskill still achieved compliance with its
+Court approved forty-one (41) unit RDP.
+Construction of a limited number of deed-restricted accessory apartments continues to
+remain a viable affordable housing option.
+In a community with as
+little vacant and
+developable
+land
+as
+Cresskill, new affordable housing construction
+opportunities
+are
+extremely limited. With this continuing and significant limitation in mind, Cresskill proposes to
+continue the accessory apartment program in the Fourth Round. The Borough will continue
+to earmark funds in its Spending Plan to continue this program. Cresskill continues to seek
+nine (9) units of affordable housing credits. The existing accessory apartment ordinance, Ord.
+No. 18-22-1508A which is to be continued is included as Appendix A-6 at the end of this
+document. Credits earned from the accessory apartment ordinance may be assigned to solve
+future affordable housing obligations.
+3.
+Fourth Round Prospective Need Housing Obligation. The October report generated by DCA
+assigned Cresskill
+a Prospective Need obligation of 155 affordable units for the next ten (10)
+34
+
+===== PAGE 47 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 47 of 91.
+Trans ID: LCV20251405916
+year housing cycle. In response to this affordable housing obligation, Burgis on behalf of the
+Borough prepared a Vacant Land Assessment in accordance with the applicable affordable
+housing regulations. Based on Cresskill's Vacant Land Assessment, the Borough's RDP is
+established at zero (0) units. This analysis also establishes the Borough's Unmet Need
+obligation to be 155 units.
+4.
+To fully comply with the Unmet Need obligation, Cresskill will fully maintain each of the
+programs established during the Third Round housing cycle. These include a mandatory
+setaside aside program requiring the establishment of deed restricted affordable dwellings
+whenever five (5) or more market-rate housing units are proposed. A copy of this adopted
+ordinance is included as Appendix A-8.
+5.
+The Borough will also continue the existing overlay zoning provisions drafted and adopted
+during the prior housing cycle. The previously adopted zoning ordinance, Ord. No.19-01-
+1533, is included as Appendix A-9 to this Housing Element and Fair Share plan.
+As detailed above, the HE&FSP can accommodate the entirety of the community's adjusted housing
+obligation through 2035 in
+a manner that affirmatively addresses affordable housing needs while at
+the same time maintaining the overall character and environment attributes of the community. Each
+of the mechanisms used to achieve compliance with the affordable housing obligation is identified
+below.
+It is recognized that the amendments to the Fair Housing Act are new and untested. These
+amendments establish new substantive and procedural requirements on how municipalities achieve
+constitutional compliance. Understanding the unsettled nature of affordable housing, this plan may
+require adjustment and refinement prior to the end of the Fourth Round housing cycle.
+C.
+PLAN COMPONENTS
+This section of the plan details the projects, mechanisms and funding sources which will be used to
+meet the Borough's affordable housing obligations, as discussed above.
+1.
+Rehabilitation Share. The Borough has been assigned a rehabilitation share or Present Need
+obligation by the Department of Community Affairs. This obligation
+is zero (0)
+units.
+Therefore, there is no Present Need obligation upon the Borough.
+2.
+Prior Round Obligation.
+As previously identified in this plan, a number of affordable
+developments were completed in accordance with the Borough's Third Round Plan.
+35
+
+===== PAGE 48 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 48 0f 91.
+Trans ID: LCV20251405916
+The existing and proposed plan components addressing the Borough’s 41-unit Prior Round
+RDP obligation are identified in the table below.
+3.
+Prior Round RDP Obligation. The Borough satisfied its 41-unit Prior Round RDP with a
+combination of completed and proposed
+projects. To
+date, four projects containing
+affordable housing dwellings have been completed and are listed in Table 24 below.
+Table 23:
+Completed Developments Contributing to
+Satisfaction of the Prior Round RDP
+Borough of Cresskill, New Jerse
+Development
+Affordable Units
+Development
+| CresskillPlaza_| 6 S| Complete — [|
+Pie ||
+comm |
+Associates
+1
+Complete
+1
+North Jersey
+Community Bank
+1
+Complete
+1
+(now Connect One
+Bank)
+Pe ce
+|
+Living
+10
+Complete
+10
+[total ft Pt
+To achieve 41 affordable housing credits during the Prior Round housing cycle, Cresskill
+proposed to rely upon proposed developments, bonus credits and an accessory apartment
+program. These authorized mechanisms are detailed in the table on the following page.
+36
+
+===== PAGE 49 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 49 0f 91
+Trans ID: LCV20251405916
+Table 24:
+Proposed Affordable Housing Activities
+Contributing to Satisfaction of The
+Third Round RDP
+Borough of Cresskill, New Jerse
+Development
+Affordable Units
+Development
+Accessory
+Apartment
+Pending
+Program
+rege |e | mm | a
+Credits
+11
+Pending
+1
+|
+total PP
+The S&K Auto site
+is a large and underutilized site that has been rezoned into a new
+Affordable Housing II zone. This zone will permit 15 dwelling units per acre, require a 15% or
+20% affordable housing setaside depending on ownership model and be structured so no
+more fewer than 50%ofthe affordable housing units are available to low-income households,
+with 13% of all affordable units being available to very low-income households. This rezoning
+represents a realistic opportunity to create on-site affordable housing. The Affordable
+Housing
+II zone will be retained as currently exists for the duration of the Fourth Round
+housing cycle.
+The Borough through its Administrative Agent will market and fund an accessory apartment
+program using a portion of its development fee money. Pursuant to N.J.A.C 5:93-5.9 (a)2,
+Cresskill will provide a minimum subsidy of $10,000 for each accessory apartment created
+under this program that is appropriately affirmatively marketed, appropriately priced and
+deed restricted for a minimum of 10 years. Cresskill’s Spending Plan earmarks $30,000 on
+average to fund the creation of accessory apartments.
+Due to the multiple factors that must be taken into account with each proposed accessory
+apartment, the Borough recognizes that while some apartments may be created at a lesser
+cost, some may require additional subsidy. The plan will provide spending flexibility, subject
+to the sound discretion of the Administrative Agent and Borough, to provide additional
+subsidy, if necessary and cost-effective. This accessory apartment program is projected to
+fund a maximum of nine (9) accessory apartments during the Fourth Round housing cycle.
+4.
+Unmet Need. Cresskill undertook several actions to address its affordable housing Unmet
+37
+
+===== PAGE 50 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 50 of 91
+Trans ID: LCV20251405916
+Need obligation as that obligation was determined for the Third Round. Cresskill adopted an
+amendment to
+its land use ordinance requiring
+all approved residential developments
+containing five or more dwelling units to reserve 20% of the development for deed restricted
+affordable housing. This mandatory setaside ordinance did effectuate the construction of a
+single affordable housing at 478 Knickerbocker Road. Without having the mandatory setaside
+ordinance in place, this affordable housing unit would not have been constructed. Cresskill
+will maintain this ordinance during the balance of the Fourth Round housing cycle. A copy of
+the approved ordinance is attached as Appendix A-7.
+To create additional realistic opportunities for the creation of affordable housing to be
+allocated toward fulfillment of its Unmet Need obligation, Cresskill rezoned several parcels
+for inclusionary development. Each of these parcels subject to an affordable housing rezoning
+are in or adjacent to Cresskill’s central business district and well-buffered from existing single-
+family neighborhoods. Further, future residents of these areas subject to rezoning will enjoy
+proximity and easy access to stores, restaurants, government services and other amenities of
+modern life likely minimizing the traffic generating potential and future parking needs of
+households occupying the affordable housing.
+Consistent with applicable rules, each of these selected sites proposed will have a maximum
+density of 15 units per acre and a uniform 20% affordable housing setaside for sale units and
+a 15% affordable housing setaside for affordable rental units. Affordable units will be deed
+restricted and affirmatively marketed throughout the region. Project sponsors will be required
+to comply with bedroom distribution ratios pursuant to the Uniform Housing Affordability
+Controls (N.J.A.C.5:80-26.1 et seq.). Table 25 below providesa list of the selected sites.
+In addition, to maximize opportunities to address the unmet need obligation, Cresskill will
+consider establishing a market-to affordable program or a municipally sponsored group
+home through either purchase of an existing dwelling(s) using affordable housing trust fund
+money for the purposes of conversion to a group home for special needs residents. At the
+time Cresskill uses affordable housing trust fund money to establish one or more group
+homes or implements a market-to-affordable program, full compliance with provisions of the
+New Jersey Barrier Free Subcode will be required prior to the issuance of a certificate of
+occupancy for the dwelling. All such programs will be run by the Borough’s Administrative
+Agent.
+Cresskill includes both mechanisms in this HE&FSP to better respond to local housing needs
+and local market conditions, recognizing that it may implement one or the other program or
+both or neither. Cresskill anticipates the market-to-affordable program will target existing
+apartments or condominium units for acquisition. If
+a group home is purchased a home with
+38
+
+===== PAGE 51 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 51 of 91.
+Trans ID: LCV20251405916
+three (3) or four (4) bedrooms will be targeted. Borough officials will consider a dwelling for
+group home purchase with fewer bedrooms if the property has expansion potential.
+The
+Spending Plan allocates $500,000 for supportive and special needs housing and an additional
+$600,000 for the potential market-to-affordable program. Cresskill recognizes it may spend
+more, it may spend less or it may not spend any development fee money in support of these
+programs. Cresskill reserves the right to fund one programorthe other and, upon motion to
+the Court, to amend the Spending Plan to shift funds among the two programs, if desirable.
+Funding for these potential programs will draw only from the affordable housing trust fund.
+The general revenues of the Borough will not be used to fund either a group home or market-
+to-affordable program.
+Cresskill has adopted various operating manuals to guide and regulate the accessory
+apartment program, the marketing of affordable housing units, tenant selection, price and
+rents levels and other aspects of implementing an affordable housing program. All of these
+approvals and adoptions will continue and be effective through the end ofthe Fourth Round.
+Cresskill
+will
+retain an Administrative Agent to ensure compliance with
+all applicable
+regulations. The Municipal Housing Liaison will also continue to have responsibilities for initial
+contact with affordable housing developers and potential occupants of affordable housing
+dwellings. The Municipal Housing Liaison is also responsible for the submission of annual
+reports.
+Cresskill’s affirmative marketing plan has been designed to reach income eligible households
+throughout the four counties comprising Region
+1. This regional marketing strategy will
+continue to be implemented by the Administrative Agent and is designed to target those
+potentially eligible households least likely to apply for affordable housing units in the region.
+It remains an on-going and continuing program. A multi-media approach to capture the
+attention of the targeted audience will be implemented.
+39
+
+===== PAGE 52 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 52 o0f91
+Trans ID: LCV20251405916
+Table 25: Plan Components to Address Unmet Need
+Borough
+of Cresskill, New Jerse
+["Property/ Approach | _—=——iotSize S| __—Density ~—'||_—Zone Type
+Commercial Zone
+Varies
+1SDU/Ac
+Amended zone,
+limited to 2°
+floor only.
+40
+
+===== PAGE 53 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 53 0f 91
+Trans ID: LCV20251405916
+Appendix 1: Settlement Agreement between Cresskill and Fair Share Housing Center
+41
+
+===== PAGE 54 =====
+,BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 54 0f 91
+Trans ID: LCV20251405916
+BER-L-006274-15
+07/03/2018 3:49:13 PM Pg 8 of 43 Trans ID: LCV20181164201
+THE BOROUGH
+OF
+CRESSKILL
+RE: In the Matfer of the Borough of Cresskill, County of Bergen
+Docket No. L-6274-15
+The following memorializes the terms of an agreement reached between the Borough of Cresskill
+(the “Borough” or “Cresskill"), the declaratory judgment plaintiff, and Fair Share Housing Center
+(FSHC), a Supreme Court-designated interested party in this matter in accordance with In re
+NAC. 5:96 and 5:97, 221 NI. 1, 30 (2015) (Moum Laurel IV) and, through this settlement, a
+defendant in this proceeding.
+Background
+Cresskill filed the above-captioned matter on July 6, 2015 seeking a declaration of its compliance
+with the Mount Laurel doctrine and Fair Housing Act of 1985, N.J.S.A, 52:27D-301 et seq. in
+accordance with InreN.J.A.C. 5:96 and_5:97, supra. The Honorable Menelaos W. Toskos, J.S.C.
+granted the Borough Initial immunity from builder remedy lawsuits and appointed Shirley M.
+Bishop, P.P., LLC to serve as Special Master. The Borough and FSHC agreed to settle the litigation
+and to present that settlement to the trial court with jurisdiction over this matter lo review,
+recognizing that the settlement of Mount Laurel litigation is favored because it avoids delays and the
+expense of trial aod results more quickly in the construction of homes for lower-income households.
+Settlement Terms
+:
+The Borough and FSHC hereby agrees to the following terms:
+1.
+Cresskill, through the adoption of a revised Housing Element and Fair Share Plan
+including a spending plan, an Affordable Housing Ordinance including other necessary
+ordinances, Affirmative Marketing Plan and Resolution of Intent to Bond within 120
+days, and the implementation of the Plan and this agreement, satisfies its obligations
+under the Mount Laure! doctrine and Fair Housing Act of 1985, N.J.S.A. 52:27D-301 et
+seq., for the Prior Round (1987-1999) and Third Round (1999-2025). The revised
+Housing Element and Fair Share Plan will delete the Townhouse Residence zone as
+applied to Block 88 Lots 2 & 3 and apply the former zone designation. The revised plan
+will take this action as these lots no longer represent a realistic opportunity for the
+construction of low-and moderate-income housing.
+2. At this time and at this particular point in the process resulting from the Supreme
+Court's Mount Laurel
+IV decision, when fair share obligations have yet to be
+definitively determined,
+it is appropriate for the parties to arrive at a settlement
+regarding a municipality’s Third Round present and prospective need instead of doing
+so through plenary adjudication of the present and prospective need.
+
+===== PAGE 55 =====
+_—
+_BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 55 o0f91
+Trans ID: LCV20251405916
+BER-L-006274-15
+07/03/2018 3:49:13 PM Pg 9 of 43 Trans ID: LCV20181164201
+3, FHSC and Cresskill hereby agree that Cresskill’s affordable housing obligations ate as
+follows:
+| Rehabilitation
+Share
+(per
+Structural
+Conditions | 7
+jSurvey)
+|
+| Prior Round Obligation (pursuant toNJAC. 5:93) |
+70 —-
+| Third Round Prospective Need (per Kinsey Report, as
+|
+|adjusted through this settlement agreement)
+_{
+230 |
+FHSC and Cresskill agree that Cresskil! does not accept the basis of the methodology or
+calculations proffered by FSHC’s consultant, David N. Kinsey PhD, P.P..F.A.LC.P. The
+parties agree to the terms in this Agreement solely for the purposes of settlement of the
+within action.
+Although Cresskill does not accept the basis of the methodology or
+calculations proffered by FSHC’s consultant, FHSC contends (and is free to take the
+position before the Court) that the 230 unit obligation should be accepted by the Court
+because it is based on the Prior Round methodology and reflects the 30% reduction of Dr.
+Kinsey’s calculation of Cresskill’s Third Round fair share obligation,
+4.
+For purposes of this agreement, the Third Round Prospective Need shall be deemed to
+include the Gap Period Present Need, which is
+a measure of households formed from
+1999-2015 that need affordable housing, that was recognized by the Supreme Court in
+its
+January 18, 2017 decision in In re DecluratoryJudzment
+Actions Filed By Various
+Municipalities,
+_ NJ.__, 2017 WL 192895 (Jan. 18, 2017).
+5. The Borough’s efforts to meet
+its present need through a municipally-sponsored
+rehabilitation program to rehabilitate existing, dilapidated dwellings occupied by low or
+moderate income households will be admimistered by an experienced rehabilitation
+consultant, the Borough will have an executed contract in place prior to the Compliance
+Hearing.
+Cresskill’s
+affordable
+housing
+trust
+fund has
+a
+current
+balance
+of
+$1,100,100.00 as of December 31, 2016. Cresskill understands and is aware it must
+spend or commit its affordable housing trust money within four (4) years of receiving a
+Judgement of Repose.
+The cost of implementing the rehabilitation program will be
+offset by the use of the affordable housing trust fund.
+6.
+As noted above, Cresskill has a Prior Round prospective need of 70 affordable housing
+units,
+It is noted that this obligation has been fully discharged.
+The mechanisms
+employed to fulfill this obligation include:
+Daibes Park/Hoke Site
+18 affordable dwellings
+Regional Contribution Agreement with the City of
+Bayonne
+26 units wansferred
+Regional Contribution Agreement with the Township
+of Weehawken
+8 units transferred
+Rental Bonus credits from Daibes/Hoke Site
+18
+
+===== PAGE 56 =====
+_BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 56 of 91
+Trans ID: LCV20251405916
+BER-L-006274-15
+07/03/2018 3:49:13 PM Pg 10 of 43 Trans ID: LCV20181164201
+TOTAL CREDITS FOR AFFORDABLE HOUSING
+ACTIVITY = 70
+7. The Borough will retain the services of an experienced Administrative Agent (AA) to
+handle the advertising, affirmative marketing and income qualifying of prospective
+households,
+In addition, the AA will update the CTM system and insure that all re-
+rentals have affordable rents.
+Copies of the deed restrictions for all restriction units
+should be included.
+8.
+Cresskill is a fully developed suburban community and has completed a vacant land
+analysis pursuant to Second Round COAH rules which determined that there are 8.62
+developable acres in the Borough. Vacant Land Inventory and Map are allached hereto
+as Exh A.
+To attempt to capture potential redevelopment activity and affordable
+housing activity undertaken since satisfaction of the Prior Round obligation, Cresskill
+has determined its Realistic Development Potential (“RDP”) is 41 affordable housing
+units.
+Cresskill will satisfy the RDP obligation by a combination of sites as detailed
+below:
+Name of Develapment
+# of Family Units
+Status of Site
+Cresskill Plaza
+6
+Complete
+Wolfer Mixed Use
+1
+Complete
+Riverview Associates
+1
+Complete
+North Jersey Community Bank
+2
+Pending
+S&K Auto
+1
+Pending
+Rental Bonus Credits
+Il
+Pending
+Accessory Apartments
+9
+Pending
+Sunrise Assisted Living
+10
+Complete
+TOTAL
+4t
+9, The RDP of 41 units, subtracted from the FSHC adjusted Third Round obligation of 230
+results in an Unmet Need obligation of 189 units. Cresskill will address its unmet need
+through:
+e
+P and L Professional
+Office and
+Research,
+Design, and Development
+Laboratories Zone (Block 182, Lots 29 and 30 — 1.29 acres)
+which will
+allow a density of 15 units per acre and a 15% set-aside for a rental project
+and a 20% set-aside in a for-sale project.
+e
+Hamrah’s Site — Block 184, Lots 1, 2-7 — This overlay zoning will allow a
+density of 15 units per acre and a 15% set-aside for a rental project and a
+20% set-aside in a for-sale project.
+e
+Downtown Commercial Zone -The Borough has rezoned much of the downtown
+(over 16 acres) to permit 2™and 3" Floor apartments over commercial space. The
+Borough is hopeful that the overlay zoning will incentivize the redevelopment of
+many storefronts in the downtown and create affordable housing opportunities.
+The parties agree that the standards and requirements in the current zoning,
+including
+mandatory
+patking
+requirements,
+may
+be
+cost-generative
+and
+
+===== PAGE 57 =====
+—
+_BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 57 of 91
+Trans ID: LCV20251405916
+BER-L-006274-15
+07/03/2018 3:49:13 PM Pg 11 of 43 Trans ID: LCV20181164201
+preventing affordable housing construction, New standards and requirements for
+this zoning will be provided with the adoption of the Housing Element and Fair
+Share Plan.
+*
+Crestron Electronics -The adoption of overlay zoning on Block 181 Lot 1 on the
+north side of Broadway. This lot totals 2.57 acres. The overlay zoning will permit
+15 units per acre and a 15% set-aside for rental units or 20% set-aside for for-sale
+units.
+e
+The parties recognize that the Borough currently holds $1,100,100.00
+in its
+affordable housing trust fund which needs to be committed or spent within four
+(4) years of receiving its final judgment. The Borough proposes to meet a portion
+of its unmet need through use of its trust funds to support additional affordable
+housing either through a market to affordable program, providing funds for a
+group home, or additional accessory apartments. The Borough's exact use of
+these funds will be provided with the adoption of the Housing Element and Fair
+Share Plan and Spending Plan.
+«
+Cresskill will seek to capture additional affordable housing opportunities by
+requiring through an amendment to its Affordable Housing ordinance, all future
+developments of greater than 5 units to include an affordable housing set aside of
+20% of the total dwelling count.
+The affordable units generated under this
+provision will be family style units. This provision does not give any developer
+the right to any rezoning, variance or other relief, or establish any obligation on
+the part of Cresskill or its Boards and agencies to grant such rezoning, variance or
+other relief to a developer.
+10. The parties agree that many standards and requirements included in the existing zoning
+ordinance need to be updated including; permitted densitics, affordable housing set-
+aside requirements, breakdown of affordable units, height limits, and mandatory parking
+requirements. These changes will be included im the adoption of the final Housing
+element and Fair Share Plan. Among the revisions to Cresskill's HE&FSP, will be a
+provision that the Very Low Income affordable housing obligation will be complied
+with as affordable units are created through the unmet need mechanisms detailed
+elsewhere herein.
+11. Cresskill agrees to require 13% of all units referenced in this plan, with the exception of
+units constructed as of July 1, 2008, and units subject to preliminary or final site plan
+approval, to be very low income units, with half of the very low income units being
+available to families. Cresskil] will meet this by requiring 13% of units as very low-
+income for any units created through the overlay zoning listed in Paragraph 8 and as
+further detailed in Paragraph 10 above.
+12. Cresskill shall meet its Third Round Prospective Need in accordance with the following
+standards as agreed to by the Parties and reflected in the table in paragraph 6 above.
+a.
+Third Round bonuses will be applied in accordance with N.J.A.C. 5:93-5.15(d)
+
+===== PAGE 58 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 58o0f 91
+Trans ID: LCV20251405916
+BER-L-006274-15
+07/03/2018 3:49:13 PM Pg 12 of 43 Trans ID: LCV20181164201
+b.
+Atleast 50 percent of the units addressing the Third Round Prospective Need shall be
+affordable to very-low income and low-income households
+with the remainder
+affordable to moderate-income households.
+c.
+At least twenty-five percent of the Third Round Prospective Need shall be met
+through rental units, including at least half in rental units available to families.
+d.
+At least half of the units addressing the Third Round Prospective Need in total must
+be available to families.
+e,
+The Borough agrees to comply with the age-restricted cap of 25% and to not request a
+waiver of that requirement. This shall be understood to mean that in no circumstance
+may the municipality claim credit toward its fair share obligation for age-restricted
+units that exceed 25% of all units developed or planned to meet its cumulative prior
+round and third round fair share obligation.
+13. The Borough shall add to the list of community and regional organizations in its
+affinnative marketing plan, pursuant to NJLA.C. 5:80-26,15(f(5), Fair Share Housing
+Center, the New Jersey State Conference of the NAACP, the Bergen County NAACP,
+Bergen Urban League, Bergen County Housing Coalition, and the Latino Action
+Network and shall, as part of its regional affirmative marketing strategies during its
+implementation of this plan, provide notice to those organizations of al) available
+affordable housing units.
+The Borough also agrees to require any other entities,
+including developers or persons or companies retained to do affirmative marketing, to
+comply with this paragraph.
+14, All units shall include the required bedroom distribution, be governed by controls on
+affordability and affirmatively marketed in conformance with the Uniform Housing
+Affordahility Contrals, N.LA.C. 5:80-26.1 et. seq. or any successor regulation, with the
+exception that in lieu of 10 percent of affordable units in rental projects being required
+to be at 35 percent of median income, {3 percent of affordable units in such projects
+shall be required to be at 30 percent of median income, and all other applicable law.
+Cresskill, as part of its HEFSP shall adopt and/or update appropriate implementing
+ordinances in conformance with standard ordinances and guidelines developed by
+COAH to ensure that this provision is satisfied.
+15. AJ new construction
+units
+shall be adaptable
+in conformance with P.L. 2005,
+¢.350/N.J.S.A, 52:27D-31
+1a and 311b and all other applicable law.
+16. As an essential term of this settlement, within one hundred and twenty (120) days of
+Court's approval of this Settlement Agreement, the Borough shall introduce an
+ordinance providing for the amendment of the Borough's Affordable Housing Ordinance
+and Zoning Ordinance to implement the terms of this settlement agreement and the
+zoning contemplated herein.
+
+===== PAGE 59 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 59 of 91.
+Trans ID: LCV20251405916
+BER-L-006274-15
+07/03/2018 3:49:13 PM Pg 13 of 43 Trans ID: LCV20181164201
+17. The parties agree that if a decision of a court of competent jurisdiction in Bergen
+County, or a determination by an administrative agency responsible for implementing
+the Fair Housing Act, or an action by the New Jersey Legislature, would result in a
+calculation of an obligation for the Borough for the period [999-2025 that would be
+lower by more than twenty (20%) percent that the total prospective Third Round need
+obligation established in this agreement, and if that calculation is memorialized in an
+unappealable final judgment, the Borough may seek to amend the judgment in this
+matter to reduce
+its fair share obligation accordingly.
+Notwithstanding any such
+reduction, the Borough shall be obligated to implement the fair share plan attached
+hereto, including by leaving in place any site specific zoning adopted or relied upon in
+connection with the Plan approved pursuant to this settlernent agreement; taking al] steps
+necessary to support the development of any 100% affordable developments referenced
+herein; maintaining all mechanisms 10 address unmet need; and otherwise fulfilling fully
+the fair share obligations as established herein.
+The reduction of the Borough’s
+obligation below that established in this agreement does not provide a basis for seeking
+leave to amend this agreement or seeking leave to amend an order or judgment pursuant
+to R. 4:50-1.
+If the Borough prevails in reducing its prospective need for the Third
+Round, the Borough may carry over any resulting extra credits to future rounds in
+conformance with the then-applicable law.
+18. Cresskill will prepare a spending plan which shall be included within the Housing
+Element and Fair Share Plan, which will be reviewed before adoption by FSHC and the
+Special Master. The parties to this agreement agree that this spending plan, will be
+prepared in accordance with accepted standards to be approved by the Court,
+and that
+the expenditures of funds contemplated under the agreement constitute “commitment”
+for expenditure pursuant to N.J.S.A. 52:270-329.2 and -329.3, with the four-year time
+period for expenditure designated pursuant to those provisions beginning to run with the
+entry of a final judgement approving this settlement in accordance with the provisions
+of Inve Tp. Of Monroe, 442 NJ. Super 565 (Law Div. 2015) (aff'd 442 NJ. Super 563).
+On the first anniversary of the execution of this agreement, and every anniversary
+thereafter through the end of this agreement, the Borough agrees to provide annual
+reporting of trust fund activity to the New Jersey Department of Community Affairs,
+COAH, or Local Govemment Services, or other entity designated by the State of New
+Jersey, with a copy provided to Fair Share Housing Center using forms developed for
+this purpose by the New Jersey Department of Community Affairs, COAH, or Local
+Government Services.
+The reporting shall include an accounting of all housing trust
+fund activity, including the source and amount of funds collected and the amount and
+purpose for which any funds have been expended.
+19, On the first anniversary of the execution of this agreement, and every anniversary
+thereafter through the end of this agreement, the Borough agrees to provide annual
+reporting of the status of all affordable housing activity within the municipality through
+posting on the municipal website with a copy provided to FSHC, using forms previously
+developed for this purpose by COAH or any other forms endorsed by the Special Master
+and FSHC.
+
+===== PAGE 60 =====
+_BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 60o0f91
+Trans ID: LCV20251405916
+‘
+BER-L-006274-15
+07/03/2018 3:49:13 PM Pg 14 of 43 Trans ID: LCV20181164201
+20. The Fair Housing Act includes two provisions regarding action to be taken by the
+Borough during the ten-year period of protection provided in this agreement. Cresskill
+agrees to comply with those provisions as follows:
+a.
+For the midpoint realistic opportunity review due on July
+1, 2020,
+as required
+pursuant to N.J.S.A. 52:270-313, the Borough will post on its municipal website, with
+a copy provided to Fair Share Housing Center, a status report as to its implementation
+of its Plan and an analysis of whether any unbuilt sites or unfulfilled mechanisms
+continue to present a realistic opportunity and whether any mechanisms to meet
+unmet need should be revised or supplemented.
+Such posting shall invite any
+interested party to submit comments to the municipality, with a copy to Fair Share
+Housing Center, regarding whether any sites no longer present a realistic opportunity
+and should be replaced and whether any mechanisms to meet unmet need should be
+tevised or supplemented.
+Any interested party may by motion request a hearing
+before the court regarding these issues.
+b. For the review of very low income housing requirements required by N.J.S.A.
+52:270-329.1, within 30 days of the third anniversary of this agreement, and every
+third year thereafter, the Borough will post ou its municipal website, with a copy
+provided to Fair Share Housing Center, a status report as to its satisfaction of its very
+low income requirements,
+including the family very low income requirements
+referenced herein. Such posting shall invite any interested party to submit comments
+to the municipality and Fair Share Housing Center on the issue of whether the
+municipality has complied with its very low income housing obligation under the
+terms of this setulement.
+‘
+21. FSHC is hereby deemed to have party status in this matter and to have intervened in this
+matter as a defendant without the need to file a motion to intervene or an answer or other
+pleading.
+The parties to this agreement agree to request the Court to enter an order
+declaring FSHC is an intervenor, but the absence of such an order shall not impact
+FSHC’s rights.
+22. This settlement agreement must be approved by the Court following a fairness hearing
+as required by Morris Cty. Fair Hous. Council v. Boonton Twp., 197 N.J. Super. 359,
+367-69 (Law Div. 1984), affd o.b., 209 NJ. Super. 108 (App. Div. 1986); East West
+Venture v. Borough
+of Fort Lec, 286 NJ. Super. 311, 328-29 (App. Div. 1996). The
+Borough shall present its planner as a witness at this hearing. FSHC agrees not to
+challenge the draft Plan) at the fairness hearing.
+In the event FSHC contends that the
+municipality should receive “the judicial equivalent of substantial certification and
+accompanying protection as provided under the FHA”, Cresskill contends that it is
+entitled to
+a Judgment of Compliance and Repose for a period of not less than ten (10)
+years. Both parties agree to let the trial judge make a final determination as to the form
+ofjudgment entered at the fairness hearing, which shall in either form extend Cresskill’s
+immunity from “builders remedy” lawsuits through July 1, 2025,
+and not appeal any
+determination.
+If this settlement agreement is rejected by the Court at a fairness hearing,
+it shall be null and void,
+
+===== PAGE 61 =====
+;
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 61 of 91
+Trans ID: LCV20251405916
+,
+BER-L-006274-15
+07/03/2018 3:49:13 PM Pg 15 of 43 Trans ID: LCV20181164201
+23. If an appeal is filed of the Court's approval or rejection of the Settlement Agreement, the
+Parties agree to defend the Agreement on appeal, including in proceedings before the
+Superior Court, Appellate Division and New Jersey Supreme Court, and to continue to
+implement the terms of the Settlement Agreement if the Agreement is approved before
+the trial court unless and until] an appeal of the trial court’s approval is successful at
+which point, the Parties reserve their right to rescind any action taken in anticipation of
+the trial court's approval.
+All Parties shal) have an obligation to fulfill the intent and
+purpose of this
+Agreement.
+24. This settlement agreement may be enforced through a motion to enforce ltigant's rights
+or a separate action filed in Superior Court, Bergen County.
+A prevailing movant or
+plaintiff in such a motion or separate action shal] be entitled to reasonable attomey's fees,
+25. Unless otherwise specified, it is intended that the provisions of this Agreement are ta be
+severable. The validity of any article, section, clause or provision of this Agreement shall
+not affect the validity of the remaining articles, sections, clauses or provisions hereof. If
+any section of this Agreement shall be adjudged by a court to be invalid, illegal, or
+unenforceable in any respect, such determination shall not affect the remaining sections,
+26. This Agreement shal] be governed by and construed by the laws of the State of New
+Jersey.
+27. This Agreement may not be modified, amended or altered in any way except by a writing
+signed by each of the Parties.
+28. This Agreement may be executed in any number of counterparts, each of which shall be
+an original and al] of which together shal! constitute but one and the same Agreement.
+29. The Parties acknowledge that each has entered into this Agreement on its own volition
+without coercion or duress after consulting with its counsel, that each party is the proper
+person and possess the authority to sign the Agreement, that this Agreement contains the
+entire understanding of the Parties and that there are no representations, warranties,
+covenants or undertakings other than those expressly set forth herein.
+30. Each of the Parties hereto acknowledges that this Agreement was not drafted by any one
+of the Parties, but was drafted, negotiated and reviewed by all Parties and, therefore, the
+presumption of resolving ambiguities against the drafter shall not apply.
+Each of the
+Parties expressly represents to the other Parties that: (i) it has been represented by counsel
+in connection with negotiating the terms of this Agreement; and (ii) it has conferred due
+authority for execution of this Agreement upon the persons executing it.
+31. Any and all Exhibits and Schedules annexed to this Agreement are hereby made a part of
+this Agreement by this reference thereto, Any and all Exhibits and Schedules now and/or
+in the future are hereby made or will be made a part of this Agreement with prior written
+approval of both Parties.
+
+===== PAGE 62 =====
+_ BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 62 of 91
+Trans ID: LCV20251405916
+BER-L-006274-15
+07/03/2018 3:49:13 PM Pg 16 of 43 Trans ID: LCV20181164201
+30. This Agreement constitutes the entire Agreement between the Parties hereto and
+supersedes all prior oral and written agreements between the Parties with respect to the
+subject matter hereof except as otherwise provided hercin.
+31. No member, official or employee of the Borough shall have any direct or indirect interest
+in this Settlement Agreement, nor participate in any decision relating to the Agreement
+which is prohibited by law, absent the need to invoke the rule of necessity.
+32. Anything herein contained to the contrary notwithstanding, the effective date of this
+Agreement shal! be the daté upon which all of the Parties hereto have executed and
+delivered this Agreement.
+33, All notices required under this Agreement (“Notice[s]”) shall be written and shall be
+served upon the respective Parties by certified mail, retum receipt requested, or by a
+recognized overnight or by a personal carrier.
+In addition, where feasible (for example,
+transmittals of less than fifty pages) shall be served by facsimile or e-mail, All Notices
+shal] be deemed received upon the date of delivery. Delivery shall be affected as follows,
+subject to change as to the person(s) to be notified and/or their respective addresses upon
+ten (10) days’ notice as provided herein:
+TO FSHC:
+Kevin D. Walsh, Esq.
+Fair Share Housing Center
+510 Park Boulevard
+Cherry Hill, NJ 08002
+Phone: (856) 663-8182
+Telecopier: (856) 663-8182
+TO CRESSKILL:
+Vincent M. Salvatore, Esq.
+260 Columbia Avenue
+P.O, Box 3240
+Fort Lee, NJ 07024
+Phone: (201) 224-0330
+Telecopier: (201) 224-0572
+E-mail: vsalvat740@aol.com
+WITH A COPY TO THE MUNICIPAL CLERK:
+
+===== PAGE 63 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 630f91
+Trans ID: LCV20251405916
+BER-L-006274-15
+07/03/2018 3:49:13 PM Pg 17 of 43 Trans ID: LCV20181164201
+Barbara A. Nasuto
+67 Union Avenue
+Cresskill, NJ 07626
+Phone: (201) 569-5400
+Telecopier: (201) 569-3714
+E-mail; bnastty@ eresskillbory.
+ore
+FAIR SHARE JiGUSING CENTER
+((hAP
+On behalfofthe Borough of Cresskill, with the authorization
+ofthe Governing Body and Planning Board.
+BOROUGH OF CRESSKILL
+BY:
+_ Ke
+i
+a
+i
+Benedict Romeo, Mayor
+
+===== PAGE 64 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 64 0f 91
+Trans ID: LCV20251405916
+Appendix 2: Final Unconditional Declaratory Judgement of Compliance and Repose
+42
+
+===== PAGE 65 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 65o0f91
+Trans ID: LCV20251405916
+,
+BER-L-006274-15 O44 SEED 24 -SeS eel -Rg otters ESvaO2 ea a
+Christine Gillen, Esq. —016551989
+F | L E D
+DIKTAS GILLEN, P.C.
+5
+596 Anderson Avenue, Suite 301
+FEB 1° 2021
+P.O. Box 2199
+.
+Cliffside Park, New Jersey 07010
+GREGG A, PADOVANO, 1.8.6.
+Attorneysfor Plaintiff/Petitioner
+Borough ofCresskill
+i
+a X
+SUPERIOR COURT OF NEW JERSEY
+:
+LAW DIVISION - BERGEN COUNTY
+IN THE MATTER OF THE
+:
+DOCKET NO.: BER-L-6274-15
+APPLICATION OF THE BOROUGH
+:
+OF CRESSKILL, a Municipal
+:
+CIVIL ACTION
+Corporation ofthe State ofNew Jersey,
+:
+(Mount Laurel)
+:
+FINAL UNCONDITIONAL
+Plaintiff/Petitioner.
+:
+DECLARATORY JUDGMENT OF
+X COMPLIANCE AND REPOSE
+THIS MATTER having been opened to the Court by Plaintiff/Petitioner Borough of
+Cresskill (Christine Gillen, Esq., ofDiktas Gillen, P.C. appearing), in the presence ofthe Court-
+appointed Special Master, Shirley M. Bishop, P.P., and Joshua D. Bauers, Esq., attorney for
+Intervenor/Defendant Fair Share Housing Center, Inc. ("FSHC"); and the parties having signed a
+Settlement Agreement on May 1, 2017 which permits Plaintiffto request that the Court enter a
+Judgment of Compliance and Repose with immunity through July 1, 2025 at a Compliance
+Hearing, in accordance with East/West Venture v. Borough of Fort Lee, 286 N.J. Super 311
+(App. Div. 1996); and the Court having conducted a Compliance Hearing on May 21, 2018, and
+having determined for the reasons set forth on the record onMay 21, 2018 that all criteria set
+forth in East/West Venture have been satisfied and that Plaintiff's compliance plan, Housing
+Element and Fair Share Plan, adopted by the Planning Board on February 27, 2018 and endorsed
+by the Mayor and Council on March 14, 2018 ("2018 HEFSP"), along with various attachments,
+as well as the various implementing ordinances and resolutions (all such documents together
+
+===== PAGE 66 =====
+Sooo nors oe 5/2025 11:06:59 AM Pg 66 of 91 Trans ID: LCV20251405916
+referred to as the "2018 Compliance Plan"), subject to the conditions set forth in the Special
+Master's Report, create the realistic opportunity to achieve PlaintiffBorough ofCresskill's
+Affordable Housing Obligations under theMount Laurel doctrine and specifically under the
+procedures set forth in In the Matter of the Adoption ofN.J.A.C. 5:96 and 5:97, 221 N.J. 30
+(2015) (Mount Laurel TV); and the Court having entered-a Declaratory Judgment ofCompliance
+and Repose With Conditions on March 19, 2019 (the “Conditional Judgment”); and the Court
+having entered aDeclaratory Judgment ofCompliance and Repose with Supplemental
+Conditions onMay 31, 2019 (the “Supplemental Conditional Judgment”); and in liew of the
+execution ofProfessional Services Agreement between the Borough’s Administrative Agentand
+the owner ofthe Subject Property identified in condition number 3 ofthe Supplemental
+Conditional Judgment, said condition has been satisfied by the certification conferred by Rutgers
+University upon staffemployed by the owner ofthe Subject Property which certification
+qualifies staff to serve as Administrative Agent ofthe Subject property; and the Special Master-
+having reported to the Court on December 15, 2020 that all conditions set forth in the
+Conditional Judgment and the Supplemental Conditional Judgment have been satisfied; and the
+Special Master having recommended in her December 15, 2020 report that a Final Judgment of
+Compliance andRepose without Conditions be entered; and the Courthaving considered the
+report and recommendation ofthe Special Master and for good cause shown;
+IT ISTHEREFORE, ON THISBN OF
+f2Bhvily 2021,
+ADJUDGED, DECLARED AND ORDERED that the Borough of Cresskill has fully
+satisfied the conditions imposed by the Conditional Judgment and the Supplemental Conditional
+|
+Judgment; and it is further
+2
+
+===== PAGE 67 =====
+Eaten
+1S, ROSSA E aAaSSOeTTTEZECYEEOOLAS
+ADJUDGED, DECLARED AND ORDERED that Final Unconditional Declaratory
+Judgment ofCompliance and Repose be and is hereby entered in favor ofBorough ofCresskill
+pursuant to thejudicial standards established in East/West Venture v. Borough ofFort Lee and
+the Mount Laurel line ofcases and shall remain in effectthrough July 1,Datehe“Judgment
+Period”; and is further
+ADJUDGED, DECLARED AND ORDERED that during the Judgment Period the
+Borough ofCresskill shall have repose and immunity from any and all exolusionary zoning
+lawsuits including but not limited to “constitutional compliance” lawsuits and “builder’s
+remedy” lawsuits; and it is further
+ORDERED that ifa court ofcompetentjurisdiction in Bergen County (i.e., the Law
+Division ofBergen County, the Appellate Division ofthe New Jersey Superior Court, or the
+New Jersey Supreme Court) or an administrative agency responsible for implementing the Fair
+Housing Act and COAH regulations makes a decision which, ifapplied to Cresskill would
+.
+reduce its obligation more than twenty (20%) percent ofthe total Prospective Need Number of
+\
+230, as agreed to in the Settlement Agreement, the Borough may move pursuant to the terms of
+the Settlement Agreement to amend this Final Unconditional Judgment to reduce its fair share
+|
+obligation. Notwithstanding any such reduction, the Borough of Cresskill shall be obligated to
+complete and leave in place any site-specific zone changes made in connection with the plan
+approved pursuant to the Settlement Agreement and otherwise continue to implement all aspects
+i
+ofthe planapproved pursuant to the Settlement Agreement and this Final Judgment. The
+|
+Boroughmay carry over any resulting extra credits to future rounds; and it is further
+|
+3
+|
+‘
+|
+
+===== PAGE 68 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pi
+:
+BER-L-006274-15
+0
+me
+g 68 of 91
+Trans ID: LCV20251405916
+ORDERED that a copy ofthis Final Unconditional Declaratory Judgment ofCompliance
+and Repose be served upon all interested parties via eCourts and upon the Special Master via
+electronic mail.
+HON.
+. PADOVANO, J.S.C.
+4
+
+===== PAGE 69 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 69o0f91
+Trans ID: LCV20251405916
+Appendix 3: Monitoring Report from Community Grants, Planning and Housing-4 Operating
+43
+
+===== PAGE 70 =====
+BER-L-000400-25
+05/15/2025 11:06:59
+AM
+Pg 70 of 91
+Trans ID: LCV20251405916
+0
+0
+at
+b
+3
+rs
+w
+z
+iH
+4
+z
+dys
+2
+z
+=
+&
+2]
+&
+g
+Mis
+2
+a
+2
+Es
+2
+&
+>| ae
+&
+a
+=
+>
+3
+=
+4
+g
+@
+3
+a =
+3
+a3
+al
+<3
+a
+2
+c
+3
+wc
+=
+ge
+S|
+3
+g
+z
+gs}
+£
+5
+cy
+ga
+=a
+é
+oa
+paa
+g
+ri.
+5
+e8
+a}
+&
+sf
+yl
+8
+=|
+eae)
+3
+c
+ad
+g
+2g
+z
+z
+4
+3
+Ee
+3|
+3
+$|
+82
+a|
+3
+q|
+ae
+a
+83
+a]
+@
+a)
+&
+8
+z
+ze
+5
+«e
+ee
+ee
+~ 4
+zp
+z
+=
+3
+3
+ee
+eS
+|
+S|
+8
+y=.
+@
+2a
+e
+a
+2
+=|
+Eee)
+a
+a8
+a|
+&|
+8
+S| Cee
+rn
+a3
+8
+a
+id
+z&
+|
+or
+2 |
+oan
+ae.
+ag
+£6
+3
+a
+8
+8
+¢
+[les
+‘
+Sy
+Rn
+<
+:
+i
+oa
+=
+bom
+aa
+~
+w
+°
+2
+2
+zi
+iad
+35
+a
+4
+rs
+S|)
+8
+>
+a]
+fyi»
+a3
+ie)
+>
+®
+S|
+3
+we
+aa
+=}
+8]
+=
+Alo
+38
+s|
+8]
+¢
+8
+53
+a
+&
+zie
+aa
+=
+_—
+3
+3
+s
+=
+8
+8
+sg
+¢3
+<
+ségagz
+z|
+=
+83°
+Ss}
+s|
+e
+=
+a
+=
+RZfar
+e|
+>
+%@& 3
+<
+=|
+3
+z
+5
+§
+bag se
+5
+B23
+o
+o|
+3
+2
+a
+a
+es
+=
+aS
+8
+2]
+2
+5
+5
+5
+aeaegose
+nc
+a
+uw
+2
+7
+n
+goog
+cs]
+Wgas
+=
+B
+335329
+p
+ava
+g
+Fy
+Py
+2723
+FA
+Smz
+B
+2
+w72§3
+Zz
+tay
+rd
+z
+eorp
+o
+aro
+a
+cv
+Sa es
+Z
+Res
+z
+?
+<2g8
+Fd
+S28
+g
+g
+gaac
+aI
+ae
+s
+3
+S25N
+3
+M22
+z
+3
+e288
+P
+ne
+2
+apes
+a
+38
+3
+aw
+S
+wn
+ccd
+a8
+&
+2¢
+3
+Son
+3
+“9
+gy
+saaP
+g
+fe)
+a
+ag
+pu
+5
+x
+eo
+samo
+e
+sl
+oz
+<
+5|
+zo
+Bee
+2
+BRES pS
+sg}
+2]
+8
+2)
+&
+a2
+aoe
+=
+Singe
+8
+8
+H
+5
+%
+S8e
+>
+a
+3ae3
+a
+a
+-
+32
+eae
+g
+$2855
+&
+8
+Fa
+eed
+3
+222386
+s)
+5
+2
+cae
+Fi
+elas
+8
+=
+8
+ao5
+=
+ager
+2
+Pi
+g
+seo
+AESek
+a
+3
+s
+s=8
+gso8
+=
+ed
+$a3
+aiay
+Pl
+>
+z398
+eSee
+8
+H
+3
+a’
+2s
+2
+Bo
+=
+2
+7
+3
+S28
+5
+22
+=
+pas
+z
+28
+3
+oags
+g
+ial
+=
+7
+88
+3
+ag
+&
+3
+E3
+=
+s
+>
+9
+z°2
+z|
+2
+37838)
+8&8
+$1
+8
+g}
+8
+8
+63
+3]
+>
+gguas
+<|
+=|
+8
+3
+g
+soa
+=
+=<FRNFB
+ay
+co]
+Ee
+g
+=
+o3
+=<
+aSlws
+s
+8
+”
+g
+=
+32
+>
+83-208
+a
+Q
+a
+al
+a=
+a
+s@8eec
+<<
+m7
+32
+FA
+32885
+y
+=
+Fy
+Se
+*
+aaS8
+Fe
+Fy
+z
+x8
+RES
+a
+3
+&
+gs
+giaovw
+2
+5
+3a
+atiguw
+a
+av
+Bema eo
+@
+>
+gz
+sSo¢
+8
+2
+34
+a
+53
+Z
+3
+as
+6
+=2
+|
+a
+ge
+zg
+28
+=
+o
+35S
+g
+8
+F
+>
+a
+2
+=
+
+===== PAGE 71 =====
+BER-L-000400-25
+05/15/2025 11:06:59
+AM
+Pg 71 of91 Trans ID: LCV20251405916
+3
+(2)
+=
+5
+2
+z
+§
+rc.
+8
+sg
+&
+3
+g
+dis
+¢
+=
+<
+yl
+>
+=
+>
+g
+~
+wo
+a
+§
+&
+ES
+cy
+8
+x
+>| Paes
+|
+P
+3|
+3
+|e|e
+lea
+a]
+3|
+8
+a|
+3
+|
+3}
+§iqz
+a
+z
+3
+2
+3
+<
+e/f)i\|22
+Z|
+3]
+3
+a]
+o¢
+S|
+2
+3) ae
+5
+|e
+|/2/e8
+es]
+es:
+a|
+2&
+g)
+3
+7| je
+Sg
+8
+aS
+I)
+s|
+=
+3 =
+rt
+=<
+Hl
+=
+x
+3
+|3
+5
+|
+3]
+8
+$2
+8|
+3
+2
+aja|a|s8
+7d
+a|
+&
+3
+3|
+ae
+s@
+2>
+>
+=
+zwescdal
+al
+z
+emo
+@
+al
+o
+2
+Ey
+ae
+g3e88
+a]
+<
+S22
+Ss
+BS]
+g
+Be
+a
+ra
+g
+o
+axa ga
+32]
+>
+Bae
+<
+S|
+3
+5a
+&
+&| oes
+a
+=
+~es8
+g
+ys}
+Ss
+zo
+ey
+°c
+Serea
+Y
+a
+z
+=
+Ss
+zz
+=
+Boas
+bag5e
+g
+a3
+‘
+5
+a
+F 5
+3
+= 2] a
+ageud
+3
+a8
+a
+go
+<
+a)
+su g3@
+z
+38
+2
+ss
+3
+so
+s
+3
+Son
+ov
+fe}
+pL
+oS
+ao]
+GEESE
+seg
+52
+3
+3 3)
+)
+B2ces
+Sa
+z|
+=
+§
+2)
+22588
+gé
+ex
+5
+i)
+gar Sh
+2s
+ior)
+ed
+> *| hae
+Ro
+oy
+4
+an2o
+pg
+>
+a
+3
+Sees
+S82
+a
+s
+= 3
+Poa
+Bs
+ny
+<
+4
+&
+@~
+za3
+&
+S
+2
+su
+,
+IN
+ES
+=
+om
+w
+pl
+oo
+of
+s|
+22+!
+i
+a)
+=
+8a9
+ts}
+S|
+8
+2a
+2|
+5351 y
+3]
+>
+aa et
+<
+B|
+3
+ial
+=|
+388) ir
+=
+2a
+iy
+S|
+3
+act
+os)
+FAs
+=
+ge
+s
+nl
+@
+ge
+Ss}
+2 §
+zi
+2
+aS
+“)
+3)
+Es
+os]
+£3
+g
+a8
+S|
+3
+2S)
+3|
+&F
+>| hg
+Fa
+zs
+gy|
+3] 223|i
+4
+=
+im
+ae
+3
+Ei
+af
+ay
+og
+=
+=
+zs
+S¢é
+=
+3
+a
+zp
+8 =
+88
+=
+2
+aS
+Bs
+"
+=&8
+g
+zo
+o
+5
+ag
+&
+_
+wb
+7
+wo
+>
+se
+2oz2
+zB!
+2
+pze
+®
+S|
+aa
+a
+£5
+wWoa
+2
+>
+os
+=
+~~
+3
+ae
+2
+a5
+— eo
+a
+a
+es
+Uo
+Nn
+ge
+e
+3 5)
+238
+ry
+E32
+B
+SB)
+s
+ar
+5
+ee
+Nes
+3
+35 8
+|
+3S]
+&
+26
+3
+8
+Plo
+gos
+Pm 9
+Es
+s|
+3
+a8
+a
+®
+oy;
+4
+Pag
+=
+eka
+B)
+8
+Pe
+3
+Bs
+se
+=
+BAO
+z
+3
+2
+a
+Bo8
+9
+&
+ge
+BO
+E
+&
+a
+Sa
+ga
+=
+an
+Zz)
+4 2
+3
+a
+=|
+22
+qe
+p
+&
+>
+se
+Zw
+r
+>
+o3
+ae
+|
+a
+c
+rf
+ga
+zo
+<
+a
+ga
+Se
+&
+&
+&
+ES
+3
+a
+a=
+7
+o
+i]
+a
+Pa
+eS
+a
+a
+we!
+oO
+eo
+=
+=e
+g
+o|
+2
+@®2828
+6
+S|
+og
+ey
+a
+eu
+2
+3)
+>
+Seea8
+s|
+3
+é
+Sel
+§
+£8
+is
+=
+Bshesz
+3
+a]
+2
+sé
+S
+gs
+BR
+al
+B
+Bae:
+a
+al
+&
+ZN
+3
+35
+e
+i
+g
+BESRE
+a
+ss
+g
+aS
+=
+z
+S22e0
+>|
+a
+8&3
+a
+om
+R2RER
+a
+7
+Zz?
+f
+8s
+5
+A
+sos
+5 *
+2
+28
+|
+gas
+3
+5
+Q
+SSee
+8
+4
+3
+a”
+2s
+2
+2
+3
+22
+5
+Ni
+3
+=
+2
+g
+Fs
+8
+3
+a@
+=
+a
+za
+a&
+x
+w2z222
+w
+pl
+oo
+wu @
+=
+w
+Qg
+z|
+Zz
+S3828
+Ss}
+S|
+3
+ne
+a
+Co
+a
+3)
+>
+BEMSs
+<
+yn}
+32
+gu
+[|
+a
+2
+=
+24nfe
+2
+G]
+3
+ar
+&
+3
+Fs
+=
+sinc
+g
+x]
+=
+=
+S
+5
+8
+2
+8 Bae:
+a
+8
+3 8
+3
+a
+b
+8
+2
+SiSF5
+S|
+8
+se
+Ey
+3
+a
+3
+228276
+x}
+>
+oh
+<
+a
+3
+z
+s2o5
+a
+5
+2
+2
+Eaep
+2
+z
+=
+=
+OER
+3
+z
+8
+zens
+2
+2
+a
+aNoa
+-
+8
+S
+sas o
+2
+<
+nv
+sSsee
+Fo
+=
+S
+g
+gs
+z
+‘
+ie)
+a
+22
+2
+=
+oe §
+a
+a
+=
+
+===== PAGE 72 =====
+BER-L-000400-25
+05/15/2025 11:06:59
+AM
+Pg 72 0f91
+Trans ID: LCV20251405916
+7
+Oo
+5
+xz
+os
+ry
+z
+o
+rae.8
+Ff
+a
+io
+_
+ea
+2
+r=J
+s
+~
+Oo
+z
+<
+5
+>
+5
+&
+OS
+x:
+i}
+ro)
+a
+Rs
+=
+5
+2?
+o
+=
+3
+§
+s|
+a
+2
+>
+=
+bd
+Sic
+=
+3
+§|938
+a|
+3
+3
+=
+Bs]
+3
+31h
+a
+a
+c|
+3
+3
+3
+&
+&
+soo
+§
+3?
+(|3¢e
+gl
+3
+8)
+9a
+|
+8
+3) Ea
+z
+a
+|Z
+c|
+¢
+2¢&
+3
+a
+?| ha
+8
+B
+leg
+g|
+$| 3
+s|
+3
+Fi;=
+©
+z
+a|33
+q|
+@
+3)
+a2
+8
+3
+i
+=
+F
+32S
+ae
+SE
+apwpoty
+wl
+za
+zz2zq9
+w
+x!
+9
+m
+s
+fall
+Oo
+e3acer
+sl}
+<
+Hage
+o
+|
+8
+z
+a
+3| ae
+Ragas
+B|
+>
+288
+=|
+8
+3
+Fs
+=
+faa
+=.
+Su GeR
+=
+2,88
+gs}
+os}
+2B
+a}
+2
+=| ao
+Satiae
+S
+S8ea
+a
+S|
+8
+3
+s
+=| Cee
+ms
+3Ra 05
+s
+8858
+gS]
+8
+a
+>
+B2RaRBa
+©
+e=fse
+.
+>
+<
+Fan:
+o
+ges
+a
+Bons
+9
+3
+a
+«
+5
+SSaaa
+=
+Z2a22
+8
+2
+3
+Ale
+S32284
+a
+suas
+&
+5
+5.
+aps
+0
+aa 520
+2
+es NE
+2
+a
+o
+°
+woetem
+3
+Sune
+2
+2
+=)
+gegee
+*
+gees
+4
+F
+3
+5
+z2RES
+Sigs
+a
+a
+| Raed
+as428
+= Be 5
+2
+a
+8
+o8ann
+sigs
+s
+2
+*|
+aes
+eee 49
+Rsen
+8
+3°
+ag
+ase
+3
+af
+a
+x)
+a
+“SS
+&
+s
+B
+=~
+2
+nl
+z
+Bwz822
+w
+a}
+2
+ge
+>
+=]
+id
+2
+g|
+=
+SaReS
+So}
+Bl
+8
+eel
+2
+3
+|
+BS
+3
+3)
+>
+agrag
+w
+vo]
+8
+sé
+5
+a3)
+S
+=
+Bari
+a
+°
+g
+ar
+i
+3
+C7)
+8
+aAstus
+Fe]
+g
+a
+3
+3 8
+oO
+zp
+fo}
+aE
+«
+eI
+=I
+a
+&
+Fa
+2G5e
+&
+g &
+Fy
+2
+Zim
+9
+3
+22355
+y
+2x
+2
+2 s| hs
+x
+a
+zw
+g
+=
+a
+os
+2
+RSE R
+FA
+3)
+7a
+ta
+Shoe
+=
+z
+S
+sass
+2
+2
+5
+sSee
+8
+&
+a.
+ES
+2
+3
+3
+=2
+=
+®
+3
+26
+g
+2
+g
+**
+°
+Px
+g
+-—
+w
+Po
+a
+ia}
+22
+s| Z
+S@z8238
+Ss}e8]
+2
+si
+Fi
+3
+Ba
+3)
+>
+8328s
+a/ 33] 3
+se!
+&
+g
+Bo
+=
+EA2nEE
+8)
+3S]
+¢
+on
+ai
+3
+ai
+Bias
+a}
+as]
+@
+ze)
+8
+3
+po
+a
+ZBEORE
+els
+=
+y
+m
+@za
+és
+a
+ema
+~
+Nn
+a
+<
+2
+38
+a
+zw
+}
+%
+mn
+Ba
+a3
+=
+Bess
+a}
+2
+ry
+a3
+BRR
+3|
+8
+3
+g
+viele
+ao
+FFn8
+a
+2
+3,
+8s
+atau
+a
+=|
+a
+c=
+i=}
+2
+ao
+SSeé&
+8
+8
+cy
+o
+cs
+3
+o
+nn
+a
+S$
+5
+2
+a
+ga
+os
+=2
+a
+ao
+g
+2s
+2
+oo
+3
+S
+iid
+2g
+a
+bo
+=!
+.
+z|
+=
+SREB
+3)
+8)
+§
+ex|
+2
+ae
+3]
+>
+ge8RS
+=}
+S|
+2
+gx
+a
+3
+=
+Z2nSe
+8}
+x}
+8
+gc
+6
+23
+3
+Bsae=]
+3]
+Bl
+of
+Esl
+8]
+of
+£4]
+32375
+op)
+3
+BS
+8
+35
+s
+S220°
+€/]
+&
+33
+<
+338
+=
+a age
+Be]
+¢
+5 @
+z
+eg
+P
+Ss
+=
+een38
+a|
+&
+=
+Z
+zi
+agua
+2)
+6S
+5
+<
+a
+Gage
+oy
+5
+x
+oF
+2
+3
+FS]
+a
+a¢
+gere
+3
+o
+3
+2
+a”
+2S
+2
+2
+FA
+za
+ee
+2
+22
+a
+=
+2
+g
+zg
+28
+Fy
+g
+8
+Ey
+a
+o
+z
+Es
+>b
+d3
+—
+z
+zo
+>
+OoOOoN
+a|
+=
+SREB
+S}z8
+F
+ae
+al
+¢€o
+3]
+>
+aS2aa
+a| 33] 3
+a&
+5|
+23e
+=<
+SSRCE
+81
+2S)
+2
+S5|
+8]
+284
+z
+Seat:
+“)
+2s)
+a
+aes
+a]
+ge2
+Fa
+_
+Be
+FA
+2
+Baas
+A
+22875
+S|
+ps}
+68S]
+OS]
+BS8
+a
+Ea.
+nm}
+3
+ay
+os]
+235
+egee
+3]
+3
+|g]
+SSF
+FxEeS
+2]
+28
+3]
+335
+guyaqgew
+2
+=
+Neg
+a
+u53 4
+FJ
+e
+saga g
+Fs
+>
+a¢
+Seog
+8
+s
+a4
+a”
+Es
+3
+Fa
+z8
+3
++2
+2
+=
+ez
+3
+25
+"
+as
+ean
+3
+p
+a
+a
+o
+g
+FY
+>
+oD
+=
+=
+=
+=
+
+===== PAGE 73 =====
+BER-L-000400-25
+05/15/2025 11:06:59
+AM
+Pg 73 0f91
+Trans ID: LCV20251405916
+2)
+Gyo
+Fy
+2]
+&§
+a
+|
+aan
+|
+&
+Zz
+3
+HH
+~| Pao
+z
+<
+3
+>
+5
+iy)
+3
+§
+8
+Ey
+=
+g
+e
+| ae
+&
++
+FI
+gs);
+3
+FI
+F4
+el
+2
+3|
+3
+|e
+|
+3
+2
+z
+gs}
+3s
+3
+iy
+flee
+S|
+§
+S|
+o8
+rad
+e
+3| a
+>
+Slee
+a
+7
+8 a
+7)
+a
+2| Roe
+3
+a
+cl
+c
+&
+2c
+g
+a
+Fa
+x
+3
+gie8
+g|
+=
+|
+35
+a|
+3
+3) es
+a
+$3
+g|
+&
+a|
+w2
+g
+B
+3
+&
+=
+5
+3
+a]
+z
+e222
+wlan]
+2
+Zo
+5
+° o| IE
+ag
+3| $
+geees]
+</28/8)
+32]
+2]
+23)
+EaY
+=
+2
+Bape
+|e
+2
+&
+= *| (Ea
+zs
+7
+esses]
+8/28]
+#}
+8]
+§]
+<5) Fa
+s2
+zp
+SFBEL
+So}
+&
+-
+Ff
+N
+e
+24
+2
+BESRFE
+-
+a
+-
+eg
+ss
+3
+22885
+go]
+8
+g|
+<
+3 2]
+Ba
+a
+Ease
+gal
+3
+3
+ey
+3| ae
+Pag
+SEER
+@e)
+a
+a
+3.
+mic
+©
+3a
+guge
+2
+8
+=
+ai
+=
+os
+aNtgua
+nu
+rm
+<
+5|
+.
+aaa
+i)
+a
+2
+<
+8
+SSE
+Kn
+¥
+¢
+a”
+2s
+ed
+By
+Fy
+wo
+3
+s
+S
+Sf
+5
+Fa
+a
+216
+*
+o
+coy
+x2
+a
+2
+3
+3
+ns
+3
+2s
+>
+3
+aly
+a
+R
+=e
+2
+a]
+Rey
+&
+7
+3
+&
+Bb
+a
+>
+z
+pi
+a
+§
+=
+b
+=~
+z
+z|
+2
+eze73]
+s/ee}
+3]
+Bel
+gl ogc
+3
+2)
+>
+8e2ag
+s| 3a] =
+ae)
+5|
+88 31
+3
+2
+Ss2e2]
+823]
+3]
+ssl
+3)
+2385/0
+2
+ge
+Sage
+vy)
+eel
+3
+38
+3]
+3 =
+3/58
+5
+o
+32885
+sls
+ard
+<|
+329)he
+2 ~u*
+Z|
+6
+gz
+“|
+ZBe
+g
+%2BER
+3]
+*
+.
+$3]
+S#s
+=
+gens
+2
+2]
+Fae
+c
+stage
+®
+Pr
+oe
+2
+gSee
+3
+es)
+68 8
+a
+ge”
+§sF
+a
+Ze
+8
+=2
+2
+26
+3
+25
+Es
+gos
+a
+o
+3
+zs]
+z
+Fal
+8}
+gl
+Fz
+zeal
+g
+3
+3)
+>
+5}
+g|
+3]
+8}
+Fe]
+2
+z
+=
+>
+a
+.
+>
+gh
+<
+2
+a
+3
+8&8
+z
+3
+Q
+@
+g
+g
+cs
+a
+2H
+aJ]
+z
+F;8
+a
+a
+eo
+
+===== PAGE 74 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 74 0f 91
+Trans ID: LCV20251405916
+Appendix 4: Ordinance No. 18-23-1511A creating AH Site Ii zone.
+44
+
+===== PAGE 75 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 75o0f91
+Trans ID: LCV20251405916
+f
+’
+BOROUGH OF CRESSKILL
+ORDINANCE NO. 18-23-1511A
+AN ORDINANCE TO CREATE AN AFFORDABLE HOUSING SITE Il ZONE AND APPLY
+SAID ZONE TO BLOCK 182 LOTS 18-28 AND TO AMEND THE ZONING MAP OF THE
+BOROUGH OF CRESSKILL, BERGEN COUTY, NJ
+BE IT ORDAINED by the Mayor and Council of the Borough of Cresskill in the County of
+Bergen and State of New Jersey, as follows:
+SECTION I:
+Cresskill,
+as a municipality that received Substantive Certification from COAH, has been
+determined to be a “participating municipality” pursuant to In re Adoption of the N.J.A.C. 5:96 &
+5:97 by
+N.J. Council on Affordable Housing,
+221 NJ. 1 (2015) (Mount Laurel IV).
+Cresskill is desirous of securing a Judgement of Compliance and Repose through 2025 and has
+prepared a Housing Element and Fair Share Plan (“FSP”) to achieve this goal. Cresskill lacks
+adequate land resources to fully satisfy its estimated affordable housing obligation of 230 affordable
+housing units, According to the Superior Court approved Settlement Agreement, Cresskill’s
+Realistic Development Potential is 41 affordable housing units and its Unmet Need obligation is
+189 affordable housing units.
+SECTION II.
+Section I: Cresskiil is constitutionally obligated to provide a reasonable opportunity to comply with
+its affordable housing obligation. Creating an new affordable housing zone and applying said zone
+to Block 182 Lots 18-28 creates a reasonable opportunity for the construction ofaffordable housing.
+SECTION II:
+Article II. §275-4. Zones established is hereby revised to include:
+Affordable Housing Site II Zone
+Article X. is hereby amended by the inclusion ofthe following sections and subsections.
+§275-40.8. AFFORDABLE HOUSING SITE II ZONE.
+§275-40.9 Permitted Uses.
+Nobuilding or premises shall be used and no building or part of a building shall be erected which is
+arranged, intended or designed to be used, in whole or in part, for any purpose, except the following.
+Such approval shall also be required for the erection or enlargement of all related accessory
+structures and prior to issuance of certificates of occupancy for a change of use. Permitted uses are
+as follows:
+A. Residential market rate and affordable dwelling units specifically including multi-family
+buildings at the density, height and bulk prescribed below. Affordable housing units shall be
+constructed, marketed and deed restricted in strict conformance to Cresskill’s Affordable
+Housing Ordinance, Council on Affordable Housing regulations and all requirements contained
+|
+within the Uniform Housing Affordability Controls as these documents may be amended,
+revised and supplemented.
+§275-40.10 Storage permitted.
+No person in the Affordable Housing Site zone shall store, place, deposit, or permit the continuation
+of storage, placement, or deposit of, upon any premises, any unregistercdmotor vehicle or any
+
+===== PAGE 76 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 76 of 91
+Trans ID: LCV20251405916
+t
+5
+machinery, equipment, lumber, building materials or supplies or parts thereof; provided, however,
+that unless otherwise prohibited, it shall not be unlawful to store, place or deposit the foregoing
+items in a fully enclosed structure upon such premises. Nothing herein contained shall be deemed to
+authorize the erection of a structure or structures not otherwise authorized to be so erected.
+§275-40.11 Prohibited uses.
+All uses not listed in §275-40.9 are prohibited.
+§275-40.12 Performance standards.
+All uses are subject to performance standards as set forth in Article XIV.
+§275-40.13 Site development plan approval.
+Site development plan approval, in accordance with Chapter 218, Site Development Plan, shall be
+required prior to the issuance of construction permits for the erection or enlargement of all structures
+and related accessory structures. Such approval shall also be required prior to the issuance of
+certificates of occupancy for a change of use.
+§275-40.14 The following area and bulk standards are applicable in the Affordable Housing Site IT
+zone:
+A. Regulations
+Inclusionary Developments
+Lot area
+10,000 square feet
+Lot frontage
+100 feet
+Lot depth
+100 feet
+Minimum required
+Front Yards
+15 feet
+Side Yards
+6 feet
+Rear Yard
+15 feet
+Parking
+Not permitted in req. front yard
+Maximum Permitted
+Building Height
+Stories
+3 stories
+Feet
+41
+Building Coverage (%)
+40
+B. Additional Regulations
+:
+(1) In recognition of the requirement to minimize or remove unnecessary development cost-
+generating requirements, the following minimum parking standards are applicable in the
+Affordable Housing Site II zone.
+Affordable Dwelling Unit
+1.25 parking spaces per dwelling.
+Market rate Dwelling Unit
+RSIS requirements apply
+(2) All developments constructed within the Affordable Housing Site II zone shall be
+structured so that no less than twenty (20) percent of the entire development are COAH
+credit-worthy units if these units are to be offered for sale. A rental community shall be
+required to have a fifteen (15) percent affordable housing setaside. No less than fifty
+(50) percent of all COAH credit-worthy units shall be affordable to low-income
+households, with 13% of all affordable units available to very low-income family
+households. The balance can be affordable to moderate-income households.
+(3) Affordable housing in the zone shall be structured so no more than twenty (20) percent
+of the units are studio or one-bedroom units, at least thirty (30) percent are two
+
+===== PAGE 77 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 77 o0f91
+Trans ID: LCV20251405916
+’
+,
+bedrooms and no fewer than twenty (20) percent are three-bedroom units. Bedroom
+count for the remainder of the affordable units is at the discretion of the developer.
+(4) Density for the Affordable Housing Site II zone shall be no greater than fifteen (15)
+units per acre.
+(5) All affordable dwelling units shall be constructed and maintained in compliance with the
+requirements of the New Jersey Council on Affordable Housing, and the Uniform
+Housing Affordability Controls before certificates of occupancy will be issued. The
+developer shall include
+all facilities required by law which are necessary to be
+maintained as part of an inclusionary development so that COAH restrictions are legally
+enforceable. ‘Furthermore,
+all such developments
+shall conform to Article XXIX,
+Special Mount Laurel Requirements, of the Borough of Cresskill Municipal Code.
+SECTION IV:
+The Zoning Map of the Borough of Cresskill is and shall be amended to depict and reflect Block
+182 Lots 18-28 are and shall be in the Affordable Housing Site II zone.
+SECTION
+V:
+All Ordinances of the Borough of Cresskill which are inconsistent with the provisions of this
+Ordinance, are hereby repealed to the extent of such conflict.
+SECTION VI
+;
+If any section, subsection, sentence, clause or phrase of this Ordinance is for any reason held to
+be unconstitutional or invalid such decision shall not affect the remaining of this Ordinance.
+SECTION VII
+This Ordinance shall take effect upon final passage, approval and publication as provided by law.
+
+===== PAGE 78 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 78o0f91
+Trans ID: LCV20251405916
+Appendix 5: Ordinance No. 19-21-1503A establishes the Townhouse Residence Zone
+45
+
+===== PAGE 79 =====
+‘OG:
+: LCV20251405916
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 79 o0f91
+Trans ID
+BOROUGH OF CRESSKILL
+ORDINANCE NO, 18-21-1503A
+AN ORDINANCE TO REZONE BLOCK 181, LOT 1 AND AMEND THE ZONING MAP OF
+THE BOROUGH OF CRESSKILL, BERGEN COUNTY, NJ
+BE IT ORDAINED by the Mayor and Council of the Borough of Cresskill in the County of
+Bergen and State of New Jersey, as follows:
+SECTION I
+Cresskill, as a municipality that received Substantive Certification from COAH, has been
+determined to be a “participating municipality” pursuant to In re Adoption of the N.I.A.C.5-96 &
+5:97 by N.J. Council on Affordable Housing, 221 NJ. 1 (2015) (Mount Laurel IV),
+Cresskill is desirous of securing a Judgment ofCompliance and Repose through 2025 and has
+Prepared a Housing Element and Fair Shae Plan (“FSP”) to achieve this goal. Cresskill lacks
+adequate land resources to fully satisty its estimated affordable housing obligation of 230
+affordable housing units. According to the FSP’s Vacant Land Analysis, the Borough's Realistic
+Development Potential is 41 affordable housing units and its Unmet Need obligation is 189
+affordable housing units.
+SECTION II
+Cresskill is constitutionally obligated to provide a reasonable Opportunity to comply with its
+affordable housing obligation. Rezoning Block 181, Lot 1 to the Townhouse Residence Zone
+(“TR”) creates a reasonable Opportunity for the construction of affordable housing in the
+Borough.
+SECTION III
+The Zoning Map of the Borough of Cresskill is and shall be amended to depict and reflect Block
+181, Lot 1 as being in the Townhouse ResidenceZone,
+SECTION IV
+All ordinances of the Borough ofCresskill which are inconsistent with the provisions of this
+Ordinance are hereby repealed to the extent ofsuch inconsistency.
+SECTIONV
+Ifany section, subsection, sentence, clause or phrase of this Ordinance is for any reason held to
+be unconstitutional or invalid, such decision shall not affect the remaining portions of this
+Ordinance,
+SECTION VI
+This Ordinance shall take effect immediately upon final Passage, approval and publication
+according to law.
+i
+ab!
+;J
+is
+es
+
+===== PAGE 80 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 80 of 91.
+Trans ID: LCV20251405916
+Appendix 6: Ordinance No. 19-01-1533 provides opportunities for deed restricted accessory
+apartments.
+46
+
+===== PAGE 81 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 81 of 91.
+Trans ID: LCV20251405916
+BOROUGH OF CRESSKLL
+——
+ORDINANCE NO. 19-01-1533
+AN ORDINANCE TO AMEND CHAPTER 275 TO REPEAL AND REPLACE
+THEPROVISIONS OF ARTICLE XXXV OF ORDINANCES RELATING TO THE
+ACCESSORY APARTMENT PROGRAM OF THE BOROUGH OF CRESSKILL
+BEIT ORDAINED by the Mayor and Council of the Borough of Cresskill in the County
+of Bergen, State of New Jersey:
+Article XXXV of the Ordinances of the Borough of Cresskill is hereby repealed in its
+entirety and replaced with the following provisions:
+§ 275-153 Purpose.
+The purpose of this article is to assist the Borough in meeting its state-mandated
+affordable housing obligation by creation of opportunities to provide for very low, low-
+and moderate-income housing.
+§ 275-154 Definitions.
+For the purpose of this article, the following terms shall have the meanings indicated:
+ACCESSORY APARTMENT
+A second dwelling unit on a lot containing a single-family dwelling, which existed at the
+time ofthe adoption of this article, which second unit may be located within a principal
+structure, added to a principal structure or located in a separate accessory building. The
+creation of such a dwelling unit shall be clearly incidental to the primary use of the
+property as a single-family dwelling and shall in no way confer upon the property owner
+any future rights to subdivide the existing lot in order to place each unit on a separate lot
+such a subdivision and the structures involved could conform to all municipal zoning
+standards. Accessory apartments shall conform to the requirements of the New jersey
+Council on Affordable Housing.
+§ 275-155 Development Standards.
+All accessory apartments shall comply with the following:
+A.
+Accessory apartments shall be permitted accessory use in the R-10 Zone only.
+
+===== PAGE 82 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 82o0f91
+Trans ID: LCV20251405916
+B.
+Accessory apartments shall conform to all of the bulk requirements of the R-190
+zone. For the purposes of this article, detached accessory apartments shall be
+considered structures and accessory apartments attached to a principal dwelling
+shall be considered a principal structure.
+Cc.
+The minimum lot size for accessory apartments shall be 10,000 square feet,
+except that where a property which is less than 10,000 square feet already
+contains an existing accessory structure which can be converted into an otherwise
+conforming accessory apartment without increase in its building footprint, such a
+unit can be counted as a qualifying accessory apartment, subject to all of the
+provisions and limitations specified herein.
+D.
+Accessory apartments shall comply with all applicable codes and standards of the
+State of New Jersey and the Borough of Cresskill. Each apartment shall contain at
+least 500 square feet of gross floor area, a minimum oftwo rooms and shall also
+contain a bathroom and kitchen facilities. Accessory apartments shall also have a
+separate entrance and, where attached to a principal structure, shall not have direct
+internal access between the dwelling units.
+E.
+At the time of initial occupancy, accessory apartments shall be rented only to a
+household which is either a very low, low- or moderate-income household in
+accordance with the rules and definitions of the New Jersey Council on
+Affordable Housing (COAH). Rents shall be affordable to very low, low- and
+moderate-income households and include appropriate utility allowances, in
+accordance with COAH regulations. Cresskill Borough’s current obligation is
+nine accessory apartments.
+F.
+Properties containing accessory apartments shall be deed-restricted to ensure that
+the accessory apartment shall be rented only to an income eligible household for a
+period of at least 10 years from issuance of a certificate ofoccupancy for the
+accessory apartment. Said deed restriction shall run with the land and shall be
+assignable to all successors or heirs.
+G.
+Each accessory apartment shall be connected to adequate potable water and
+sewage disposal systems.
+H.
+Accessory apartments shall be affirmatively marketed in accordance with the
+.
+Uniform Housing Affordability Controls (UHAC) regulations and Cresskill’s
+Affirmative Marketing Plan. Within the housing region of the Borough of
+Cresskill.
+L
+The maximum height of any detached accessory structure containing an accessory
+apartment shall not exceed the maximum height permitted for accessory structures
+in the zone. However, if the detached accessory structure lies fully within the
+legal building envelope (i.e., not within any yard setback) for a principal structure
+
+===== PAGE 83 =====
+.
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 83 0f91
+Trans ID: LCV20251405916
+then its maximum height shall not exceed the maximum height permitted for
+principal structures in the zone.
+J.
+The Borough of Cresskill accessory apartment program shall not restrict the
+number of bedrooms in any accessory apartment. [Amended 7-13-2011 by Ord.
+No. 11-08-1410]
+K.
+In no case shall a detached accessory structure be located closer to a public street
+than the principal structure, except in the case of the existing accessory structure
+where no expansion is required.
+L.
+A minimum of one off-street parking space shall be provided for an accessory
+apartment, in addition to the off-street parking already provided on site for the
+principal structure.
+M.
+_Noaccessory apartment created asa result of this article or these regulations shall
+exceed the gross floor area of the existing principal dwelling on the lot.
+§ 275-156 Administrative requirements.
+A.
+The Borough of Cresskill hereby designates its administrative agent to administer
+the accessory apartment program.
+(1)
+The Borough or its assignee shall administer the accessory apartment
+program, including advertising, income-qualifying prospective renters,
+setting rents and annual rent increases, maintaining a waiting list,
+distributing the subsidy, securing certificates of occupancy, qualifying
+properties, handling application forms, filing deed restrictions and
+monitoring reports and affirmatively marketing the accessory apartment
+program. These activities shall conform to the Borough of Cresskill
+affirmative marketing plan and the accessory apartment operating manual.
+(2)
+The Borough shall only deny an application for an accessory apartment if
+the project is not in conformance with the applicable regulations, the
+municipal development ordinance or this article.
+(@)
+In accordance with N.J.A.C. 5:97-6.8 of the COAH regulations, the
+Borough shall provide $20,000 to subsidize the physical creation of a
+moderate-income accessory apartment, and $25,000 to subsidize the
+physical creation of a low-income accessory apartment, and $35,000 to
+subsidize the physical creation of a very low-income accessory apartment,
+provided they conform to the requirements of this section and all other
+applicable requirements. Prior to the grant of such a subsidy and prior to
+
+===== PAGE 84 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 840f91
+Trans ID: LCV20251405916
+the issuance of a building permit, the owner shall enter into a written
+agreement with the Borough of Cresskill insuring that the subsidy will be
+used to create the accessory apartment and/or provide a subsidy for the
+reduced rental rate and that the apartment shall meet the requirements of
+this article and applicable regulations.
+B.
+Applicants seeking to create an accessory apartment shall submit the following
+documents prior to the issuance of a building permit:
+(1)
+Asketch showing floor plans depicting the size and location of the rooms
+within the accessory structure and its relationship to the principal
+structure.
+(2)
+ Asite plan on a current survey depicting the location of all existing and
+proposed structures on site, parking and driveways, and clearly indicating
+all dimensions.
+(3)
+Building elevations showing all exterior building modifications proposed,
+including specifying materials, colors and window locations.
+§ 275-157 Sunset clause.
+The provisions ofthis article accessory apartments shall become null and void, having no
+further force or effect, upon the issuance of a building permit for the ninth accessory
+apartment within the Borough of Cresskill, provided at least one of those units is rented
+to a very-low income household. The administrative provisions shall remain in full force
+and effect, unless otherwise modified, until the last deed restriction expires.
+SECTION I
+All other Ordinances of the Borough, or parts thereof, which are in conflict with this Ordinance,
+are hereby repealed to the extent of such conflict.
+SECTION II
+If any section, subsection, paragraph, subdivision, or sentence of this Ordinance is adjudged
+unconstitutional or invalid by a court of competent jurisdiction, such decision shall apply only to
+the section, subsection, paragraph, subdivision, sentence, clause, phrase or provision so
+adjudged, and the remainder of this Ordinance shall be deemed valid and effective.
+SECTION
+IT
+
+===== PAGE 85 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 850f91
+Trans ID: LCV20251405916
+This Ordinance shall take effect immediately upon final passage and publication according to
+law.
+BOROUGH OF CRESSKILL
+RESOLUTION
+BE IT RESOLVED by the Mayor and Council of the Borough of Cresskill in the County
+of Bergen and State ofNew Jersey, that Ordinance No. 19-01-1533, entitled:
+AN ORDINANCE TO AMEND CHAPTER 275 TO REPEAL AND REPLACE
+THEPROVISIONS OF ARTICLE XXXV OF ORDINANCES RELATING TO THE
+ACCESSORY APARTMENT PROGRAM OF THE BOROUGH OF CRESSKILL
+does now pass on first reading and remain on file with the Borough Clerk for public
+inspection until public hearing thereon and further consideration thereof.
+Such hearing shall be held at the Borough Hall in Cresskill on Wednesday, February 6,
+2019 at 7:30 P.M., or as soon thereafter as it can be reached, at which time and place all
+persons interested in said ordinance will be heard.
+The Borough Clerk is hereby directed to publish said ordinance in full, with the notice of
+hearing thereon, in an official newspaper according to law, also to mail copies of said
+ordinance when and as required by law.
+January 16, 2019
+
+===== PAGE 86 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 86 of 91
+Trans ID: LCV20251405916
+A-7 Ordinance No. 17-16-1510 requires in large developments mandatory setasides of affordable
+housing dwellings.
+47
+
+===== PAGE 87 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 87 of 91.
+Trans ID: LCV20251405916
+.
+BOROUGH OFCRESSKILL
+Hl GE q YE
+ORDINANCE NO. 17-16-1510
+wu
+8y.==
+AN ORDINANCE TO AMEND, SUPPLEMENT AND REVISE THE CODE OF THE
+BOROUGH OF CRESSKILL, LAND USE, CHAPTER 275 ENTITLED “ZONING
+ORDINANCE OF THE BOROUGH OF CRESSKILL”
+|
+BE IT ORDAINED by the Mayor and Council of the Borough of Cresskill in the County of
+Bergen and State of New Jersey, that the following amendments and revisions are made to the
+Revised General Ordinances of the Borough of Cresski!l, Chapter 275 entitled “Zoning
+Ordinance of the Borough of Cresskill”.
+SECTIONI
+ARTICLE III Zones and Zoning Map is hereby amended and supplemented by inserting the
+following provision:
+Section 275-7. Effect of Establishment of Zones.
+E. Every new development that creates or generates five (5) or more residential units shall deed
+restrict at least 20% of the total number of housing units in a for-sale development as housing
+affordable eiienees moderate-income households as these terms are defined in N.J.A.C.5:93.
+The affordable housing rental setaside is hereby established at 15% of the total number of
+housing units. This requirement is unwaivable. Any effort on the part of a developer to produce
+|
+less than a 20% affordable housing setaside for future developments not in the Settlement
+|
+Agreement or Fair Share Plan is contrary to the public good and is a prima facie basis for the
+reviewing board to deny the development application in full. All such affordable housing
+generated pursuant to this provision shall fully comply with Cresskill’s Affordable Housing
+Ordinance and the Uniform Housing Affordability Controls mules (N.J.A.C. 5:80-26.1 et seq.)
+with the understanding that 13% of all affordable units must be offered to households earning
+30% or less af regional median income. This provision does not give any developer the right to
+any rezoning, variance or other relief, or establish any obligation on the part ofCresskill or its
+Boards or agencies to grant such rezoning, variance or other relief to a developer,
+SECTION II
+All other Ordinances of the Borough, or parts thereof, which are in conflict with this Ordinance,
+are hereby repealed to the extent of such conflict.
+SECTION
+If any section, subsection, paragraph, subdivision, or sentence of this Ordinance is adjudged
+unconstitutional or invalid by a court of competent jurisdiction, such decision shall apply only to
+the section, subsection, paragraph, subdivision, sentence, clause, phrase or provision so
+adjudged, and the remainder of this Ordinance shall be deemed valid and effective.
+SECTIONIV,
+This Ordinance shall take effect immediately upon final passage and publication according to
+law.
+ATTEST:
+BOROUGH OF CRESSKILL
+COUNTY OF BERGEN
+STATE OF NEW JERSEY
+Barbara A. Nasuto, Borough Clerk
+Benedict Romeo, Mayor
+
+===== PAGE 88 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 88 0f91
+Trans ID: LCV20251405916
+Appendix 8: Ordinance N. 18-22-1508 A UnMet Need Overlay ordinance
+48
+
+===== PAGE 89 =====
+__
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 89 of 91
+Trans ID: LCV20251405916
+BOROUGH OF CRESSKILL
+ORDINANCE NO, 18-22-1508A
+AN ORDINANCE TO AMEND ORDINANCE PROVISIONS RELATING TO THE
+COMMERCIAL ZONE AND ARTICLE VII AND X —- AFFORDABLE HOUSING,
+BOROUGH OF CRESSKILL, BERGEN COUNTY, NI
+BE IT ORDAINED by the Mayor and Council of the Borough of Cresskill in the County of
+Bergen and State of New Jersey,
+-
+SECTION I:
+Cresskill, as a municipality that received Substantive
+Certification from COAH, has been
+determined to be a “participating municipality” pursuant to In re Adoption of the N.JLA.C. 5:96 &
+5:97 by N.J. Council on Affordable Housing, 221 N.J. 1 (2015) (Mount Laurel TV).
+Cresskill is desirous of securing a Final Judgement of Compliance and Repose through 2025 and
+has prepared a Housing Element and Fair Share Plan (“FSP”) to achieve this goal. Cresskill lacks
+adequate land resources to fully satisfy its estimated affordable housing obligation of 230 affordable
+housing units. According to the Superior Court approved Settlement Agreement, Cresskill’s
+Realistic Development Potential is 41 affordable housing units and its Unmet Need obligation is
+189 affordable housing units.
+SECTION
+TI:
+Article VIL. §275-19 Commercial Zone is and shall be amended in the following particulars only.
+§275-19. Permitted Uses
+H.
+Multi-family dwellings, both market rate and affordable restricted to the second and third
+floors only. Within the Commercial Zone, only permitted non-residential uses shall occupy the
+ground level or first floor in a mixed-use building.
+§275-23.1. Conditional uses.
+This subsection is and shall be deleted in its entirety.
+SECTION III:
+Article X. §275-38 Commercial Zone is and shall be amended in the following particulars only.
+§275-38. Commercial Zone.
+In the Commercial Zone, the following regulations shall apply:
+B.
+Regulations
+Applicable to mixed-use
+multi-family buildings only
+Minimum required
+Lot area
+7,500 square feet
+Lot frontage
+75 feet
+Lot depth
+100 feet
+Front Yard
+10 feet
+Rear Yard
+10 feet
+Maximum Permitted
+Building Height
+Stories
+3 stories
+Feet
+41
+Building Coverage (%)
+50
+’
+
+===== PAGE 90 =====
+BER-L-000400-25
+05/15/2025 11:06:59 AM
+Pg 90 0f 91
+Trans ID: LCV20251405916
+(on
+Additional regulations
+1.
+Parking shall not be developed or constructed in the front yard. Off-street parking
+requirements apply to both the residential and non-residential portions of all mixed-use
+developments. Parking standards listed elsewhere in the ordinance shall apply to the
+non-residential portion of a mixed-use development. In recognition of the requirement to
+minimize or remove unnecessary development cost-generating
+requirements,
+the
+H
+following minimum parking standards are applicable to the residential component of a
+mixed-use development in the Commercial zone.
+j
+Dwelling Unit
+1.25 parking spaces per dwelling.
+2.
+All residential developments constructed within the Commercial zone shall be structured
+.
+so that COAH credit-worthy dwellings comprise no less than twenty (20) percent of the
+|
+residential development
+if residential units are to be offered for sale. A rental
+|
+community shall be required to havea fifteen (15) percent affordable housing setaside.
+|
+No less than fifty (50) percent of all COAH credit-worthy units shall be affordable to
+|
+low-income households, with 13% of the affordable housing units offered to very low-
+|
+income family households. The balance can be
+affordable to moderate-income
+|
+households.
+|
+|
+3.
+Affordable housing proposed in the Commercial zone shall be structured so no more
+H
+than twenty (20) percent of the units are studio or one-bedroom units, at least thirty (30)
+|
+percent are two bedrooms and no fewer than twenty (20) percent are three-bedroom
+H
+units. Bedroom count for the remainder of the affordable units is at the discretion of the
+developer.
+}
+4.
+Residential density in the Commercial zone shall be no greater than fifteen (15) units per
+|
+acre.
+|
+|
+5.
+All affordable dwelling units shall be constructed and maintained in compliance with the
+|
+requirements of the New Jersey Council on Affordable Housing and the Uniform
+|
+Housing Affordability Controls before certificates of occupancy will be issued. The
+|
+developer shall include all
+facilities required by law which are necessary to be
+|
+maintained as a Superior Court or COAH certifiable rental or sales unit included as part
+|
+of an inclusionary development so that COAH restrictions are legally enforceable.
+|
+Furthermore, all such developments shall conform to Article XXIX, Special Mount
+Laurel Requirements of the Borough of Cresskill Municipal Code.
+§275-38.1 Storage permitted.
+No person in the Commercial zone shall store, place, deposit, or permit the continuation of storage,
+placement, or deposit of, upon any premises, any unregistered motor vehicle or any machinery,
+equipment, lumber, building materials or supplies or parts thereof; provided, however, that unless
+otherwise prohibited, it shall not be unlawful to store, place or deposit the foregoing items in a fully
+enclosed structure upon such premises. Nothing herein contained shall be deemed to authorize the
+erection of a structure or structures not otherwise authorized to be so erected.
+§275-38.2 Prohibited uses.
+All uses not listed in §275-19 are prohibited.
+§275-38.3 Performance standards.
+All uses are subject to performance standards as set forth in Article XIV.
+§275-38.4 Site development plan approval.
+
+===== PAGE 91 =====
+7
+BER-L-000400-25 05/15/2025 11:06:59 AM
+Pg 91 of 91
+Trans ID: LCV20251405916
+Site development plan approval, in accordance with Chapter 218, Site Development Plan, shall be
+required prior to the issuance of construction permits for the erection or enlargement of all structures
+and related accessory structures. Such approval shall also be required prior to the issuance of
+certificates of occupancy for a change of use.
+SECTION IV
+All Ordinances of the Borough of Cresskill which are
+inconsistent with the provisions of this
+Ordinance, are hereby repealed to the extent of such inconsistency.
+SECTION V
+,
+If any section, subsection, sentence, clause or phrase of this Ordinance is for any reason held to
+be unconstitutional or invalid, such decision shall not affect the remaining portions of this
+Ordinance..
+SECTION
+VI
+This Ordinance shall take effect upon final passage, approval and publication as provided by law.
+ATTEST:
+BOROUGH OF CRESSKILL
+COUNTY OF BERGEN
+STATE OF NEW JERSEY
+|
+—E
+By:
+|
+Francesca Maragliano, Borough Clerk
+Benedict Romeo, Mayor

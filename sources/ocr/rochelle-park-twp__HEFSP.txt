@@ -1,0 +1,2709 @@
+
+===== PAGE 1 =====
+ 
+ 
+2025 
+Housing Element 
+& Fair Share Plan  
+ 
+ 
+ 
+ 
+ 
+ 
+PREPARED FOR: 
+Township of Rochelle Park Land Use Board 
+BA: 4295.01 
+JUNE 12, 2025 
+APPROVED: JUNE 25, 2025 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 1 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 2 =====
+BER-L-000583-25
+06/26/2025 1:51:56 PM
+Pg 2of43
+Trans ID: LCV20251860298
+1
+
+===== PAGE 3 =====
+b a 
+B
+U
+R
+G
+I
+S 
+A S S O C I A T E S,  I N C. 
+Community Planning 
+Principals: 
+Land Development and Design 
+Joseph H. Burgis PP, AICP 
+Landscape Architecture 
+Edward Snieckus, Jr. PP, LLA, ASLA 
+ 
+David Novak PP, AICP  
+i 
+ 
+ 
+ 
+ 
+ 
+2025 Housing Element and 
+Fair Share Plan 
+ 
+Township of Rochelle Park 
+Bergen County, New Jersey 
+ 
+ 
+Prepared for the Rochelle Park 
+Land Use Board 
+BA# 4295.01 
+ 
+The original document was appropriately signed and sealed on June 12, 2025 in accordance with 
+Chapter 41 of Title 13 of the State Board of Professional Planners 
+ 
+ 
+ 
+ 
+Joseph H. Burgis, AICP, PP 
+Professional Planner #2450 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 3 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 4 =====
+ 
+ii 
+ 
+Members of the Township of Rochelle Park Land Use Board 
+Teresa Judge Cravello, Class 1 
+Michael Warren, Class 2 
+Matt Trawinski, Class 3 
+Christina Holz, Class 4 
+Krupen Dudhia, Class 4 
+Christine Mueller, Class 4 
+Andrew Mattson, Class 4 
+Adib Abboud, Class 4 
+William Coleman, Class 4 
+ 
+Alternates 
+Sean Smyth 
+Deborah Kodyrah 
+Robert White 
+Lew Mazzone 
+ 
+Board Secretary 
+Michael Juliano 
+ 
+Board Attorney 
+Ronald Mondello, Esq. 
+ 
+Planning Board Planning Consultant 
+Joseph H. Burgis PP, AICP 
+Burgis Associates, Inc. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 4 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 5 =====
+ 
+iii 
+ 
+Table of Contents 
+ 
+Executive Summar………………………………………………………………………………………………….3 
+Prior Round Obligation ............................................................................................................... 4 
+Third Round Obligation .............................................................................................................. 4 
+Fourth Round Obligation ........................................................................................................... 5 
+Section 1: Introduction…………………………………………………………………………………………..8 
+1.1: What is Affordable Housing? ........................................................................................... 8 
+1.2: What is the History of Affordable Housing in New Jersey? .................................. 9 
+1.3: What is a Housing Element and Fair Share Plan? .................................................. 11 
+Section 2: Housing Element…………………………………………………………………………………13 
+2.1: Community Overview ....................................................................................................... 14 
+2.2: Demographic and Population Data ............................................................................ 17 
+2.3: Inventory of Housing Stock ............................................................................................... 20 
+2.4: Housing and Employment Projection ............................................................................ 23 
+Section 3: Fair Share Obligation…………………………………………………………………………..25 
+3.1: Summary of Fair Share Obligation .............................................................................. 25 
+3.2: Realistic Development Potential (RDP) ...................................................................... 26 
+Section 4: Fair Share Plan……………………………………………………………………………………..31 
+4.1: Prior Round Obligation .................................................................................................... 31 
+4.2: Third Round Obligation ................................................................................................... 31 
+4.3: Fourth Round Obligation ................................................................................................ 32 
+4.4: Consistency with State Planning Initiatives .............................................................. 39 
+Appendix……………………………………………………………………………………………………………… 8 
+ 
+ 
+ 
+Executive Summary 
+The 2025 Township of Rochelle Park Housing Element and Fair Share Plan (HE&FSP) is designed to address the 
+way the Township will fulfill its affordable housing obligations. These obligations and the manner in which they 
+are addressed are derived from a variety of sources, including regulatory provisions from the Council on 
+Affordable Housing (COAH), prior settlement agreements with Fair Share Housing Center (FSHC), and the most 
+recent legislation on the 4th Round of the affordable housing issue and associated calculations by the 
+Department of Community Affairs (DCA). 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 5 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 6 =====
+ 
+~ 4 ~ 
+These obligations are summarized as follows: 
+Table 1: Affordable Housing Obligation Summary 
+Category 
+Obligation 
+First & Second Round Obligation 
+(1987-1999) 
+64 
+Third Round Obligation (1999-2025) 
+165 
+Fourth Round Obligation (2025-2035) 
+109 
+Present Need (Rehabilitation) 
+Obligation 
+10 
+First and Second Round Obligations 
+The Township was assigned a 1st and 2nd Round Obligation of 64 units. The Township had received a First 
+Round Judgment of Compliance and repose in 1991 resulting from a builder’s remedy lawsuit.  This Judgment 
+included a vacant land adjustment indicating that the lawsuit’s site (known as the Koziel property) was the only 
+developable site in the Township.  The result was the First Round obligation was reduced from 118 units to a 9 
+unit realistic development potential (RDP), which was to be satisfied on the Koziel property.  The concept of 
+unmet need did not exist as part of this 1st Round of affordable housing ..   
+During the pendency of the 2nd Round, Koziel approached the Township with a revised plan, resulting in the 
+provision of 4 affordable units to be placed on-site, with the developer funding a payment-in-lieu of affordable 
+housing that would go to either a will receiving municipality through a Regional Contribution Agreement or to 
+a housing trust fund. The projects was subsequently completed and a monetary payment of $100,000 was 
+made to the Township.   
+Third Round Obligation 
+The Township’s 3rd Round HE&FSP indicates the Township had 3rd Round obligation of 109 units that was 
+reduced to a combined prior round and 3rd Round realistic development potential (RDP) of 43 units, resulting in 
+a combined 2nd Round/3rd Rund unmet need of 186 units.  The projects identified in the 3rd Round Plan to 
+meet this 43 unit RDP are summarized in the accompanying table.   
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 6 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 7 =====
+ 
+~ 5 ~ 
+Table 2: 2ND/3RD Round Plan Components 
+Plan Component 
+Total AH 
+Credits 
+Type of Affordable 
+Unit/Credits 
+Status 
+Northern Park 
+4 
+Age-restricted rental  
+Completed 
+120 W. Passaic St 
+Redevelopment Plan 
+24 
+Inclusionary 
+redevelopment plan, 
+w/15% set-aside 
+Redeveloper 
+designated; 
+amended 
+redevelopment 
+plan adopted 
+Mercury Rising 
+4 
+Group Home 
+Ct-approved 
+Agreement 
+Rental Bonuses: 
+     Mercury Rising 
+     120 Passaic St 
+  
+ 
+3 
+8 
+ 
+ 
+ 
+ 
+Total 
+43 
+ 
+ 
+ 
+ 
+Fourth Round Obligation 
+1. 
+The Township will satisfy its 10 unit RDP obligation and a portion of its unmet need through the 
+designation of the following sites: 
+ 
+a. 
+29 Fairfield Dr/70 West Passaic Street:  This property is located on the northwest corner of W. 
+Passaic Street and Fairfield Drive, and extends northward to Plaza Way.  It occupies an area of 
+1.3 acres and is irregular in shape.  The tract is developed with a dwelling and two detached 
+garages.  It is located in an area with a variety of uses, including low density residential 
+development to the north in Paramus above Plaza Way and to the west along Fairfield Drive, a 
+mix of commercial, office and residential development along W. Passaic Street, business uses to 
+the east uses and to the south. 
+ 
+This Plan calls for the site to be developed at 15 units per acre, which would result in a total of 
+19 units on site.  A 20 percent set-aside would result in 4 affordable housing units being 
+constructed on-site. 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 7 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 8 =====
+ 
+~ 6 ~ 
+It is noted that there was a request to allow a total of 300 units on this 1.3 acre property which 
+would be built within the construction of a 13 story building.  The plans called for a total of 310 
+parking spaces to serve its residents and visitors to the site, which represents 1.03 spaces per 
+unit which does not appear to be consistent with RSIS standards.  It is also noted that the 
+request for 300 units on 1.3 acres represents a density of 228 units per acre, which is extremely 
+inconsistent, and not reflective at all, with the character of the area and community at large. 
+ 
+This proposal is therefore rejected by the Township, as it does not reflect the established 
+residential development pattern in the immediate vicinity of the site, which is typified by low-
+rise construction adjacent to and across the street from this property.  While it is acknowledged 
+there is a tall structure across the street along W. Passaic Street, this is a non-residential building 
+with very few employees due to the nature of its occupancy, and it doesn’t preclude the 
+Township from acknowledging the low density residential land use pattern to the immediate 
+east and north.     
+ 
+b. 
+210 & 222 Rochelle Ave:  This property is on the easterly side of Rochelle Ave at Central Ave.  It 
+occupies an area of 1.45 acres and is irregular in shape.  It is developed with a bank and a diner.   
+ 
+This site was the subject of an approved non-condemnation Area In Need of Redevelopment 
+(AINR) designation in 2019, as well as an updated evaluation indicating that, while the site has 
+not been redeveloped, for mixed use at-grade retail with apartments above as contemplated in 
+a redevelopment plan, the site continues to be meet the standards of the AINR designation. 
+ 
+This Plan thus calls for the site to be developed for mixed-use with at-grade retail and 
+apartments above at a density of 20 units per acre, resulting in 29 apartments.  This would 
+include a 20 percent for affordable units, resulting in 6 of the units being deed-restricted for 
+income-qualified affordable households.   
+ 
+Based on the above, these two above-noted developments would address the ten unit RDP obligation 
+of the Township.  The following site would be utilized to address a portion of the Township’s unmet 
+need. 
+ 
+c. 
+375 West Passaic Street:  This property occupies an area of 3.89 acres.  It is currently occupied 
+by a Ramada Inn.  The Township has been in preliminary discussions to facilitate this site’s 
+redevelopment.  It is the Township’s understanding that the site may become available in 2028 
+for redevelopment.  Thus, this Plan calls for the site to be designated for an inclusionary 
+development at 30 units per acre within a maximum 4 story building configuration, resulting in a 
+total of 116 units on site inclusive of 23 of the units being set-aside for affordable housing (a 20 
+percent set-aside).    
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 8 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 9 =====
+ 
+~ 7 ~ 
+Structure of Report 
+This 2025 HE&FSP is divided into the following sections: 
+❖ Section 1: Introduction 
+The first section of the 2025 HE&FSP provides an introduction to affordable housing. It summarizes 
+what affordable housing is, offers an overview of the history of affordable housing in the state, and 
+explains the role of a housing element and fair share plan. 
+❖ Section 2: Housing Element 
+Section 2 contains the Housing Element for the Township. It offers an overview of the community, with 
+information on the Township’s population, housing, and employment characteristics. It also provides a 
+projection of the Township’s housing stock and employment projections through the 4th Round period.   
+❖ Section 3: Fair Share Obligation 
+Next, Section 3 provides an overview of the Township’s fair share obligation. It includes a brief history of 
+the methodologies utilized to calculate affordable housing obligations throughout the state. 
+❖ Section 4: Fair Share Plan 
+Finally, Section 4 details the manner in which the Township has addressed its prior obligations and how 
+it will address its 4th Round prospective need obligations.  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 9 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 10 =====
+ 
+~ 8 ~ 
+Section 1: Introduction 
+The following section introduces the issue of affordable housing. It summarizes what affordable housing is, 
+offers an overview of the history of affordable housing in the state, and explains the role of a housing element 
+and fair share plan. 
+1.1: What is Affordable Housing? 
+Affordable housing is income-restricted housing that is available for sale or for rent. Generally speaking, it is 
+defined as housing for very-low, low-, and moderate-income households (noted below), although there are 
+exception, such as specific types of special-needs housing  . These categories are derived from the state’s 
+median regional income limits.  
+New Jersey is segmented into six different affordable housing regions. The Township is located in Region 1 
+which includes Bergen, Hudson, Passaic, and Sussex Counties.  
+Moderate-Income 
+Households 
+Earn 80% of the region’s 
+median income 
+Low-Income Households 
+Earn 50% of the region’s 
+median income 
+Very Low-Income 
+Households 
+Earn 30% of the region’s 
+median income 
+Regional income limitations are typically updated every year, with different categories established for varying 
+household sizes. The table below identifies the 2024 regional income limits by household size for Region 1. As 
+shown, a three-person family with a total household income of no greater than $86,697 could qualify for 
+affordable housing in the Township’s region. 
+Table 3: 2024 Affordable Housing Region 1 Income Limits by Household Size 
+Income Level 
+2 Person 
+3 Person 
+4 Person 
+5 Person 
+Median 
+$96,329 
+$108,371 
+$120,412 
+$130,045 
+Moderate 
+$77,064 
+$86,697 
+$96,329 
+$104,036 
+Low 
+$48,165 
+$54,185 
+$60,206 
+$65,022 
+Very-Low 
+$28,899 
+$32,511 
+$37,568 
+$39,013 
+One of the most common forms of affordable housing is inclusionary development, in which a certain 
+percentage of units within a multifamily development are reserved for affordable housing. Nevertheless, 
+affordable housing can be found in a variety of other forms, including but not limited to one hundred percent 
+affordable housing developments, deed-restricted accessory apartments, assisted living facilities, alternating 
+arrangements such as supportive housing or group homes, and age restricted housing. 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 10 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 11 =====
+ 
+~ 9 ~ 
+1.2: What is the History of Affordable Housing in New Jersey? 
+The history of affordable housing in New Jersey can be traced back to 1975, 
+when the Supreme Court first decided in So. Burlington Cty. NAACP v. 
+Township of Mount Laurel (known as Mount Laurel I) that every developing 
+municipality throughout New Jersey had an affirmative obligation to provide 
+for its fair share of affordable housing. In a subsequent decision in 1983 
+(known as Mount Laurel II), the Court acknowledged that the vast majority of 
+municipalities had ignored their constitutional obligation to provide 
+affordable housing.  
+As such, the Court refined this obligation to establish that every municipality 
+had an obligation, although those within the growth area of the State 
+Development and Redevelopment Plan (SDRP) had a greater obligation. The 
+Court also called for the state legislature to enact legislation that would save 
+municipalities from the burden of having the courts determine their 
+affordable housing needs. The result of this decision was the adoption of the 
+Fair Housing Act in 1985 as well as the creation of the New Jersey Council on 
+Affordable Housing (COAH), which became the state agency responsible for 
+overseeing the manner in which New Jersey’s municipalities address their low 
+and moderate income housing needs. 
+COAH proceeded to adopt regulations for the First Round obligation, which 
+covered the years 1987 to 1993. It also established the Second Round 
+housing-need numbers that cumulatively covered the years 1987 through 
+1999. Under both the First and Second Rounds, COAH utilized what is 
+commonly referred to as the “fair share” methodology. COAH utilized a 
+different methodology, known as “growth share,” beginning with its efforts 
+to prepare Third Round housing-need numbers. The Third Round substantive 
+and procedural rules were first adopted in 2004.  
+ 
+ 
+2015: Mount Laurel IV
+COAH defunct and moribund. All 
+affordable housing matters to be heard 
+by courts
+1986: Mount Laurel III
+Every municipality has an obligation if 
+any portion of municipality was within 
+the “Growth Share Area” of the State 
+Development and Redevelopment Plan
+1983: Mount Laurel II
+Every municipality has an obligation if 
+any portion of municipality was within 
+the “Growth Share Area” of the State 
+Development and Redevelopment Plan
+1975: Mount Laurel I
+Every developing municipality has an 
+affordable housing obligation
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 11 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 12 =====
+ 
+~ 10 ~ 
+These regulations were challenged and in January 2007, the Appellate 
+Division invalidated various aspects of these rules and remanded 
+considerable portions of the rules to COAH with the directive to adopt 
+revised regulations. 
+In May 2008, COAH adopted revised Third Round regulations which were 
+published and became effective on June 2, 2008. Coincident to this adoption, 
+COAH proposed amendments to the rules they had just adopted, which 
+subsequently went into effect in October 2008. These 2008 rules and 
+regulations were subsequently challenged, and in an October 2010 decision 
+the Appellate Division invalidated the Growth Share methodology, and also 
+indicated that COAH should adopt regulations pursuant to the Fair Share 
+methodology utilized in Rounds One and Two. The Supreme Court affirmed 
+this decision in September 2013, which invalidated much of the third 
+iteration of the Third Round regulations and sustained the invalidation of 
+growth share. As a result, the Court directed COAH to adopt new regulations 
+pursuant to the methodology utilized in Rounds One and Two. 
+Deadlocked with a 3-3 vote, COAH failed to adopt newly revised Third Round 
+regulations in October 2014. The Fair Share Housing Center, who was a party 
+in both the 2010 and 2013 cases, responded by filing a motion in aid of 
+litigants’ rights with the New Jersey Supreme Court. The Court heard the 
+motion in January 2015, and issued its ruling on March 20, 2015. The Court 
+ruled that COAH was effectively dysfunctional, and consequently returned 
+jurisdiction of affordable housing issues back to the trial courts where it had 
+originally been prior to the creation of COAH in 1985. 
+This 2015 Court decision created a process in which municipalities may file a 
+declaratory judgment action seeking a declaration that their HE&FSP is 
+constitutionally compliant and receive temporary immunity from affordable 
+housing builders’ remedy lawsuits while preparing a new or revised HE&FSP to ensure their plan continues to 
+affirmatively address their local housing need as may be adjusted by new housing-need numbers promulgated 
+by the court or COAH. 
+ 
+ 
+2024: A-4/S-50
+New Jersey adopts new legslation which 
+overhauls the FHA. COAH is elimianted, 
+and its duties are split between the DCA 
+and the AOC. 
+2018: Jacobson Decision
+Established methodology in Mercer 
+County for determining housing 
+obligation. Being utilized outside of 
+Mercer County for settlement purposes
+2017: Gap Period
+Finds that gap period (1999-2015) 
+generates an affordable housing 
+obligation
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 12 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 13 =====
+ 
+~ 11 ~ 
+Subsequently, the Supreme Court ruled on January 18, 2017 that municipalities are also responsible for 
+obligations accruing during the so-called “gap period,” the period of time between 1999 and 2015. However, 
+the Court stated that the gap obligation should be calculated as a never-before calculated component of 
+Present Need, which would serve to capture Gap Period households that were presently in need of affordable 
+housing as of the date of the Present Need calculation (i.e. that were still income eligible, were not captured as 
+part of traditional present need, were still living in New Jersey and otherwise represented a Present affordable 
+housing need). 
+On March 20, 2024, the State of New Jersey adopted a package of affordable housing bills which overhauled 
+the Fair Housing Act. This legislation ultimately eliminated COAH and split its duties and functions between the 
+Department of Community Affairs (DCA) and the Administrative Office of the Courts (AOC). 
+The DCA was designated by the legislation as the entity responsible for calculating the state’s regional needs as 
+well as each municipality’s present and prospective fair share obligations pursuant to the Jacobson Decision. 
+However, the legislation makes clear that these numbers are advisory and that each municipality must set its 
+own obligation number utilizing the same methodology. Meanwhile, the Affordable Housing Dispute 
+Resolution Program (the “Program”) within the AOC is tasked to handle any disputes regarding affordable 
+housing obligations and plans. 
+ 
+1.3: What is a Housing Element and Fair Share Plan? 
+A Housing Element and Fair Share Plan (HE&FSP) serves as the blueprint for how a municipality will address its 
+fair share of affordable housing. It is designed to help a community broaden the accessibility of affordable 
+housing.  
+While technically a discretionary component of a municipal 
+master plan, a HE&FSP is nevertheless an effectively obligatory 
+plan element. As established by NJSA 40:55D-62.a of the 
+Municipal Land Use Law (MLUL), a municipality must have an 
+adopted HE&FSP in order to enact its zoning ordinance. Thus, 
+from a public policy perspective, a HE&FSP is an essential 
+community document. Moreover, without a HE&FSP, a 
+municipality may be susceptible to a builder’s remedy lawsuit in which a developer could file suit to have a 
+specific piece of property rezoned to permit housing at higher densities than a municipality would otherwise 
+allow, provided a certain percentage of units are reserved as affordable. 
+The Fair Housing Act (FHA), which was adopted in 1985 and has been amended multiple times since then, 
+establishes the required components of a HE&FSP. These are summarized as follows: 
+1. 
+An inventory of the municipality’s housing stock by age, condition, purchase or rental value, occupancy 
+characteristics, and type, including the number of units affordable to low- and moderate-income 
+households and substandard housing capable of being rehabilitated; 
+The Municipal Land Use Law (MLUL) is 
+the enabling legislation for municipal 
+land use and development, planning, 
+and zoning for the State of New Jersey.  
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 13 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 14 =====
+ 
+~ 12 ~ 
+2. 
+A projection of the municipality’s housing stock, including the probable future construction of low- and 
+moderate-income housing, for the next ten years, taking into account, but not necessarily limited to, 
+construction permits issued, approvals of applications for development and probable residential 
+development of lands; 
+3. 
+An analysis of the municipality’s demographic characteristics, including but not necessarily limited to, 
+household size, income level and age; 
+4. 
+An analysis of the existing and probable future employment characteristics of the municipality; 
+5. 
+A determination of the municipality’s present and prospective fair share for low- and moderate-income 
+housing and its capacity to accommodate its present and prospective housing needs, including its fair 
+share for low- and moderate-income housing; 
+6. 
+A consideration of the lands that are most appropriate for construction of low- and moderate-income 
+housing and the existing structures most appropriate for conversion to, or rehabilitation for, low- and 
+moderate-income housing, including a consideration of lands of developers who have expressed a 
+commitment to provide low- and moderate-income housing; 
+7. 
+An analysis of the extent to which municipal ordinances and other local factors advance or detract from 
+the goal of preserving multigenerational family continuity as expressed in the recommendations of the 
+Multigenerational Family Housing Continuity Commission; 
+8. 
+For a municipality located within the jurisdiction of the Highlands Water Protection and Planning 
+Council, an analysis of compliance of the housing element with the Highlands Regional Master Plan of 
+lands in the Highlands Preservation Area, and lands in the Highlands Planning Area for Highlands 
+conforming municipalities; 
+9. 
+An analysis of consistency with the State Development and Redevelopment Plan, including water, 
+wastewater, stormwater, and multi-modal transportation based on guidance and technical assistance 
+from the State Planning Commission. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 14 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 15 =====
+ 
+~ 13 ~ 
+Section 2: Housing Element 
+The following section provides the housing element for the Township of Rochelle Park. It offers an overview of 
+its community, as well as back information regarding its population, housing, and employment characteristics. 
+It also provides a projection of the Township’s housing stock and its employment projections. 
+ 
+1. United States Decennial 
+Census 
+The US Census is described in Article I, Section 2 of the 
+Constitution of the United States, which calls for an 
+enumeration of the people every ten years for the 
+apportionment of seats in the House of Representatives. 
+Since the time of the first Census conducted in 1790, it 
+has become the leading source of data about the 
+nation’s people and economy. Please note that all 
+incomes reported in the Census are adjusted for 
+inflation. 
+4. New Jersey Department of 
+Community Affairs (DCA) 
+The New Jersey Department of Community Affairs is a 
+governmental agency of the State of New Jersey. Its 
+function is to provide administrative guidance, 
+financial support, and technical assistance to local 
+governments, community development organizations, 
+businesses, and individuals to improve the quality of 
+life in New Jersey. 
+ 
+2. American Community Survey (ACS) 
+The American Community Survey is a nationwide 
+ongoing survey conducted by the US Census Bureau. The 
+ACS gathers information previously contained only in the 
+long form version of the decennial census, such as age, 
+ancestry, educational attainment, income, language 
+proficiency, migration, disability, employment, and 
+housing characteristics. It relies upon random sampling 
+to provide ongoing, monthly data collection. Please note 
+that all incomes reported in the ACS are adjusted for 
+inflation. 
+5. New Jersey Department of Labor 
+and Workforce Development 
+The New Jersey Department of Labor and Workforce 
+Development is a governmental agency of the State 
+of New Jersey. One of its roles is to collect labor 
+market information regarding employment and wages 
+throughout the state.  
+ 
+3. New Jersey Department of Health 
+The New Jersey Department of Health is a governmental 
+agency of the State of New Jersey. The department 
+contains the Office of Vital Statistics and Registry, which 
+gathers data regarding births, deaths, marriages, 
+domestic partnerships, and civil unions. 
+ 
+ 
+ 
+ 
+Information Regarding Data Sources 
+The information contained in Section 2.2 entitled “Population Demographics,” Section 2.3 entitled 
+“Inventory of Housing Stock,” Section 2.4 entitled “Employment Demographics,” and Section 2.5 entitled 
+“Housing & Employment Projections” was obtained from a variety of publicly available data sources. 
+These are summarized below: 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 15 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 16 =====
+ 
+~ 14 ~ 
+2.1: Community Overview 
+The Township of Rochelle Park is located in the central portion of Bergen County. It is bordered by four 
+municipalities, including Paramus to the north; Maywood to the east, Lodi to the south, and Saddle Brook to 
+the west.  
+Access to the Township is provided by several County and state roadways.  These include State Highway 17, 
+Interstate 80, State Route 46, and the Garden State Parkway.  Residents also have access to nearby transit 
+stations and bus lines. 
+The Township is a fully developed community with very little vacant land remaining for development.  Most 
+vacant lands are characterized by either environmental constraints or are public open space lands. 
+Rochelle Park occupies a land area of 1.1 square miles.  This equates to 704 acres, of which 126 acres are roads 
+and public rights of way.  The majority of the Township is characterized by residential development, with single-
+family residential accounting for the bulk of this use, Multi-family residential development, assisted 
+Living/Nursing Home use, and two-family dwellings also account or a portion of the community’s overall 
+development pattern. 
+Commercial land uses account for less than 20% percent of the Township’s total land use area, while public and 
+semi-public uses account for another 20 percent of the community.  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 16 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 17 =====
+BER-L-000583-25
+06/26/2025 1:51:56 PM
+Pg 17 of 43
+Trans ID: LCV20251860298
+Map 1: Community Overview
+| y
+R
+eae
+“,
+Housing Element
+Ne
+rN
+ne
+by
+and Fair Share
+Plan
+So
+_
+~15~
+
+===== PAGE 18 =====
+BER-L-000583-25
+06/26/2025 1:51:56 PM
+Pg 18 of 43
+Trans ID: LCV20251860298
+Map 2: Existing Land Use
+{
+a
+a
+AS
+Housing Element
+bee
+NON
+see
+Se
+and Fair Share Plan
+ye
+Ce
+ey.
+‘Ke
+oN
+- Legend
+wy ba
+oe es S
+‘
+i
+\
+&%
+|
+fy
+/
+\
+~16~
+
+===== PAGE 19 =====
+ 
+~ 17 ~ 
+ 
+2.2: Demographic and Population Data 
+Analyzing demographic and population data is a necessary and integral step in planning for the 
+future needs and demands of a community. This section outlines the demographic changes 
+experienced by the Township over the past several decades and provides projections with respect to 
+anticipated changes to community demographics. 
+The analysis of demographic information is from the 2010 Decennial Census as well as American 
+Community Survey (ACS) 5-year estimates. The ACS data consists of estimates based upon data 
+averages across a five-year span, otherwise known as “period” estimates. They are not actual counts, 
+rather they are representative of data collected over a period of time and thus may not be directly 
+comparable to decennial census figures. For example, 2023 ACS includes data collected annually from 
+2019 through 2023. The following provides assessments of population size, rate of growth, age 
+characteristics, as well as household size and income levels. Each of these items is described below. 
+This information is vital for the Township to carefully plan for the current and future needs of its 
+residents and the community.  
+Population Changes 
+The following table indicates the changes in local population going back to 1950. It highlights how the 
+Township experienced significant increases in population during the 1950s and 60s and then declined 
+from 1970 through to 2000. There was a slight increase between 2000 and 2020. 
+Table 4: Population Growth, 1950-2023 
+Year 
+Population 
+Population Change 
+Percent Change 
+1950 
+4,483 
+- 
+- 
+1960 
+6,119 
+1636 
+36.5% 
+1970 
+6,380 
+261 
+4.3% 
+1980 
+5,603 
+-777 
+-12.2% 
+1990 
+5,587 
+-16 
+-0.3% 
+2000 
+5,528 
+-59 
+-1.1% 
+2010 
+5,530 
+2 
+0.0% 
+2020 
+5,584 
+54 
+1.0% 
+2023 
+5,820 
+236 
+4.2% 
+Source: U.S. Census; 2010 & 2023 American Community Survey 5-Year Estimates 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 19 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 20 =====
+ 
+~ 18 ~ 
+Age Characteristics 
+As shown in the table below, the Township’s age characteristics show an increase in median age from 
+43.6 years in 2010 to 48.3 according to the 2023 ACS 5-year estimate data. The largest age cohorts in 
+2023 represented 14% of the population (65-74 age group). The largest age cohort in 2010, 
+representing 14.2%, was age 25-34. The age groups showing the greatest declines between the 2010 
+census and the 2023 ACS data included the 5-9, 45-54 and 25-34 groups. 
+Table 5:  Age Characteristics, 2010-2023 
+  
+Age 
+Group 
+2010 
+2023 
+Pop 
+% 
+Pop 
+% 
+Under 5 
+208 
+3.8% 
+255 
+4% 
+5 to 9  
+524 
+9.5% 
+197 
+3% 
+10 to 14  
+210 
+3.8% 
+207 
+4% 
+15 to 19  
+381 
+6.9% 
+355 
+6% 
+20 to 24 
+122 
+2.2% 
+513 
+9% 
+25 to 34 
+781 
+14.2% 
+640 
+11% 
+35 to 44 
+641 
+11.7% 
+628 
+11% 
+45 to 54 
+748 
+13.6% 
+556 
+10% 
+55 to 59 
+260 
+4.7% 
+531 
+9% 
+60 to 64 
+425 
+7.7% 
+526 
+9% 
+65 to 74 
+512 
+9.3% 
+820 
+14% 
+75 to 84 
+433 
+7.9% 
+370 
+6% 
+85 + 
+252 
+4.6% 
+222 
+4% 
+Total 
+5,497 
+100% 
+5,820 
+100% 
+ Median 
+Age 
+43.6 
+48.3 
+Sources: 2010 & 2023 American Community Survey 5-Year Estimates. 
+ 
+Household Tenure and Occupancy 
+The data shown on the following table indicates that the breakdown between the share of owner-
+occupied and renter-occupied units has remained relatively the same since 2010 with the majority of 
+units being owner-occupied. Housing vacancies experienced a slight decrease from 4.3% in 2010 to 
+2.9% in 2023. Renter-occupied units also decreased from 27.7% in 2010 to 19.3% in 2023. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 20 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 21 =====
+ 
+~ 19 ~ 
+Table 6: Owner-Occupied and Renter-Occupied Units, 2010-2023 
+Category 
+2010 
+2023 
+# of Units 
+% 
+# of Units 
+% 
+Owner Occupied 
+1,516 
+68.0% 
+1,850 
+77.8% 
+Renter Occupied 
+618 
+27.7% 
+459 
+19.3% 
+Vacant Units 
+95 
+4.3% 
+68 
+2.9% 
+Total 
+2,229 
+100.0% 
+2,377 
+100.0% 
+Source: 2010 & 2023 American Community Survey 5-Year Estimates 
+Average Household Size 
+Census and ACS data shown below indicate the Township’s average household size has hovered 
+around 2.5 since 2000. This is similar to Bergen County’s average household size which remained 
+somewhat steady at 2.66 over the same time period. The number of households increased from 5,528 
+in 2000 to 5,820 in 2023. 
+Table 7: Average Household Sizes, 2010-2023 
+Year 
+Total Population 
+# of Households 
+Avg. Household Size 
+2000 
+5,528 
+2,061 
+2.54 
+2010 
+5,497 
+2,229 
+2.47 
+2023 
+5,820 
+2,377 
+2.45 
+Source: U.S. Census; 2010 & 2023 American Community Survey 5-Year Estimates 
+Household Income 
+Data from ACS indicates median household income increased 78% from 2010 to 2023. 
+Table 8: Household Incomes, 2010-2023 
+Income Category 
+2010 
+2023 
+Number  
+% 
+Number 
+% 
+less than $10,000 
+114 
+5% 
+124 
+5.4% 
+$10,000 to $14,999 
+112 
+5% 
+101 
+4.4% 
+$15,000 to $24,999 
+232 
+11% 
+9 
+0.4% 
+$25,000 to $ 34,999 
+222 
+10% 
+202 
+8.7% 
+$35,000 to $ $49,999 
+137 
+6% 
+144 
+6.2% 
+$50,000 to $74,999 
+402 
+19% 
+135 
+5.8% 
+$75,000 to $99,999 
+336 
+16% 
+283 
+12.3% 
+$100,000 to $149,999 
+336 
+16% 
+424 
+18.4% 
+$150,000 to $199,000 
+165 
+8% 
+354 
+15.3% 
+$200,000 or more 
+78 
+4% 
+533 
+23.1% 
+Total Households 
+2,134 
+100% 
+2,309 
+100.0% 
+Median Income (Household) 
+$66,341  
+$118,259 
+Source: 2010 & 2023 American Community Survey 5-Year Estimates 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 21 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 22 =====
+ 
+~ 20 ~ 
+2.3: Inventory of Housing Stock 
+This section of the analysis provides an inventory of the Township’s housing stock. The inventory 
+details housing characteristics such as age, condition, purchase/rental value and occupancy. It also 
+details the number of affordable units available to low- and moderate-income households and the 
+number of substandard housing units capable of being rehabilitated. As previously noted, the latest 
+information from the American Community Survey consists of five-year estimates by the Census 
+Bureau, not actual counts and may not be directly comparable to census figures.  
+Number of Housing Units 
+As illustrated in the table below, the overall number of housing units within the Township has 
+continued to increase from 2000 through 2023.  
+Table 9: Housing Units, 2000-2023 
+Year 
+Housing 
+Units 
+Numerical 
+Change 
+% Change 
+2000 
+2,061 
+- 
+- 
+2010 
+2,229 
+168 
+8% 
+2023 
+2,377 
+148 
+7% 
+Source: US Census Bureau, 2023 ACS Five-Year Estimate 
+Units in Structure for Occupied Units 
+Information regarding the number of dwelling units in housing structures provides insights into the 
+types of housing which exist throughout the Township. The following table offers insights into the unit-
+composition of the Township’s structures since 2010. 
+The Township’s housing stock has historically been comprised of single-family detached and attached 
+dwellings. The 2023 ACS estimate data provided in the table below shows a total of 2,377 single-
+family detached dwellings which amounts to 78 percent of all housing units in the Township. This is an 
+increase from 2010 when single-family dwellings accounted for approximately 75 percent.  
+  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 22 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 23 =====
+ 
+~ 21 ~ 
+Table 10: Units in Structure, 2010-2023 
+Units in Structure 
+2010 
+2023 
+No. 
+% 
+No. 
+% 
+Single Family, Detached 
+1689 
+75.8% 
+1854 
+78.0% 
+Single Family, Attached 
+0 
+0.0% 
+18 
+0.8% 
+2 
+218 
+9.8% 
+164 
+6.9% 
+3 or 4 
+38 
+1.7% 
+20 
+0.8% 
+5 to 9 
+47 
+2.1% 
+0 
+0.0% 
+10 to 19 
+48 
+2.2% 
+100 
+4.2% 
+20 + 
+189 
+8.5% 
+221 
+9.3% 
+Mobile Home 
+0 
+0.0% 
+0 
+0.0% 
+Source: 2010 & 2023 American Community Survey 5-Year Estimates 
+Purchase and Rental Value of Housing Units 
+The following two tables identify purchase values and rental values for the specified owner-occupied 
+and renter-occupied units in the Township. Over the past thirteen years, the median value of the 
+Township’s owner-occupied housing stock is estimated to have increased approximately 16%, from 
+$404,800 in 2010 to $470,200 in 2023. This represents a much lower percentage increase than that of 
+the County (23%) and the State (19.78%). 
+Table 11: Value of Owner-Occupied Units, 2010-2023 
+Value Range 
+2010 
+2023 
+Number Percent Number Percent 
+Less than $50,000 
+16 
+1.1% 
+55 
+3.0% 
+$50,000 to $99,999 
+0 
+0.0% 
+0 
+0.0% 
+$100,000 to $149,999 
+42 
+2.8% 
+15 
+0.8% 
+$150,000 to $199,999 
+26 
+1.7% 
+0 
+0.0% 
+$200,000 to $299,999 
+117 
+7.7% 
+33 
+1.8% 
+$300,000 to $499,999 
+991 
+65.4% 
+1,024 
+55.4% 
+$500,000 to $999,999 
+314 
+20.7% 
+723 
+39.1% 
+$1,000,000 or More 
+10 
+0.7% 
+0 
+0.0% 
+Total 
+1,516 
+100.0% 
+1,850 
+100.0% 
+Median Value  
+$404,800 
+$470,200 
+Source: 2010 and 2023 American Community Survey Five-Year Estimates 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 23 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 24 =====
+ 
+~ 22 ~ 
+Table 12: Specified Renter Occupied Housing Units by Rent, 2010-2023 
+Gross Rent 
+2010 
+2023 
+Number Percent Number Percent 
+Less than $500 
+0 
+0% 
+0 
+0.0% 
+$500 to $999 
+95 
+16% 
+0 
+0.0% 
+$1,000 to $1,499 
+301 
+50% 
+173 
+37.7% 
+$1,500 to $1,999 
+208 
+34% 
+170 
+37.0% 
+$2,000 to $2,499 
+31 
+6.8% 
+$2,500 to $2,999 
+25 
+5.4% 
+$3,000 or more 
+60 
+13.1% 
+53XNo Cash Rent 
+91 
+X 
+0 
+X 
+Total Occupied Units paying Rent 
+65 
+100.0% 
+459 
+100.0% 
+Total Occupied units paying rent 
+604 
+100% 
+459 
+100.0% 
+Median Gross Rent 
+1,244 
+$1,666 
+Source: US Census Bureau; 2010 and 2023 American Community Survey Five-Year Estimates. 
+ 
+Deficient Housing Units 
+Neither the Census nor the ACS classify housing units as deficient. However, the Fair Housing Act 
+defines a “deficient housing unit” as housing which is over fifty years old and overcrowded; lacks 
+complete plumbing, or lacks complete kitchen facilities.  
+Accordingly, the following tables are intended to provide insights into the extent to which the 
+Township has deficient housing units. The table below examines the extent to which there is 
+overcrowding in the Township’s housing stock. Overcrowding is typically associated with housing units 
+with more than one occupant per room. As shown, the estimated number of occupied housing units 
+considered to be overcrowded is negligible. 
+Table 13: Occupants Per Room (2023) 
+Occupants Per 
+Room 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+1.00 or less 
+2,120 
+99.3% 
+2,289 
+99.1% 
+1.01 to 1.50 
+14 
+0.7% 
+20 
+0.9% 
+1.51 or more 
+0 
+0.0% 
+0 
+0.0% 
+Total 
+2,134 
+100% 
+2,309 
+100.0% 
+Source: 2023 American Community Survey Five-Year Estimates. 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 24 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 25 =====
+ 
+~ 23 ~ 
+The table below identifies housing units with complete plumbing and kitchen facilities. As shown, all 
+occupied units in the Township were identified as having complete plumbing and kitchen facilities in 
+2010. In 2023, the estimate shows that approximately two percent of occupied units used a fuel other 
+than standard fuel as a heating source. 
+Table 14: Plumbing and Kitchen Facilities (2023) 
+Facilities 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Kitchen:                              
+Complete Facilities 
+2,134 
+100.0% 
+2,309 
+100.0% 
+Lacking Complete 
+Facilities 
+0 
+0.0% 
+0 
+0.0% 
+Plumbing:                          
+Complete Facilities 
+2,134 
+100.0% 
+2,309 
+100.0% 
+Lacking Complete 
+Facilities 
+0 
+0.0% 
+0 
+0.0% 
+Heating Equipment:  
+Standard Heating 
+Facilities 
+2,134 
+100.0% 
+2,255 
+97.7% 
+Other Means, No Fuel 
+Used 
+0 
+0.0% 
+54 
+2.3% 
+Source: 2023 American Community Survey Five-Year Estimates. 
+ 
+2.4: Housing and Employment Projection 
+The following section identifies the extent to which redevelopment housing and economic 
+development has occurred in the community, which can assist in the determination of future 
+residential and employment projections. 
+Recent Residential Development Activity 
+One way of examining the stability of a community’s housing stock is by comparing the number of 
+residential building permits issued for new construction as well as demolition permits issued every 
+year. Since 2014, the Township has annually issued an average of 6 building permits over the past 
+decade and an average of 1.3 demolition permits over the same time frame. This results in an average 
+net growth of 4.7 permits annually. This is reflective of the Township’s established development 
+pattern. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 25 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 26 =====
+ 
+~ 24 ~ 
+Table 15: Residential Building Permits and Demolition Permits 
+Year 
+Issued 
+Building Permits 
+Demos 
+Net 
+Growth 
+1 & 2 Family 
+Multifamily 
+Mixed Use 
+Total 
+2014 
+0 
+0 
+0 
+0 
+0 
+0 
+2015 
+1 
+0 
+0 
+1 
+0 
+1 
+2016 
+1 
+0 
+0 
+1 
+0 
+1 
+2017 
+2 
+0 
+0 
+2 
+1 
+1 
+2018 
+1 
+0 
+0 
+1 
+1 
+0 
+2019 
+2 
+24 
+1 
+27 
+1 
+26 
+2020 
+0 
+0 
+0 
+0 
+8 
+-8 
+2021 
+2 
+0 
+0 
+2 
+1 
+1 
+2022 
+0 
+24 
+0 
+24 
+1 
+23 
+2023 
+2 
+0 
+0 
+2 
+0 
+2 
+Total 
+11 
+48 
+1 
+60 
+13 
+47 
+Source: Department of Community Affairs 
+Covered Employment 
+The table below provides data on the Township’s covered employment trends between 2014 and 
+2023, as reported by the New Jersey Department of Labor and Workforce Development. “Covered 
+employment” refers to any employment covered under the Unemployment and Temporary Disability 
+Benefits Law. Generally, nearly all employment in the state is considered “covered employment.”  
+Employment levels have decreased every year over the past decade except for during 2019 and 2022 
+through 2023. Similar to the municipalities throughout the State, Employment in the Township 
+decreased the most in 2020 due to excessive job loss during the COVID Pandemic. Since 2021, 
+employment in the Township has slightly increased. As of 2023, the Township’s reported covered 
+employment was 3,777 individuals. 
+Table 16: Average Covered Employment (2014 to 2023) 
+Year 
+Number of 
+Jobs 
+Change in 
+Number of Jobs 
+Percent 
+Change (%) 
+2014 
+4,502 
+- 
+- 
+2015 
+4,447 
+-55 
+-1.2% 
+2016 
+4,172 
+-275 
+-6.6% 
+2017 
+4,112 
+-60 
+-1.5% 
+2018 
+3,973 
+-139 
+-3.5% 
+2019 
+4,016 
+43 
+1.1% 
+2020 
+3,491 
+-525 
+-15.0% 
+2021 
+3,462 
+-29 
+-0.8% 
+2022 
+3,597 
+135 
+3.8% 
+2023 
+3,777 
+180 
+4.8% 
+Source: Department of Labor and Workforce Development  
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 26 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 27 =====
+ 
+~ 25 ~ 
+Section 3: Fair Share Obligation 
+The following section provides an overview of the Township’s fair share obligation. It includes a 
+brief overview of the methodology utilized to calculate affordable housing obligations 
+throughout the state. 
+3.1: Summary of Fair Share Obligation 
+On March 20, 2024, the State of New Jersey adopted a package of affordable housing bills which 
+overhauled the Fair Housing Act (FHA). 
+The FHA now designates the Department of Community Affairs (DCA) as the entity responsible 
+for calculating the state’s regional needs. Specifically, NJSA 52:27D-304.2 establishes the 
+methodology to be utilized by the DCA to determine the state’s regional prospective needs of 
+low- and moderate-income housing for the ten-year period spanning from July 1, 2025 to June 
+30, 2035. In summary, the projected household change for this period is estimated by 
+establishing the household change experienced in each region between the most recent federal 
+decennial census and the second-most recent decennial census. This household change, if 
+positive, is then to be divided by 2.5 to estimate the number of low- and moderate-income 
+homes needed to address low- and moderate-income household change in the region for the 
+next ten years. This methodology resulted in a statewide prospective need of 84,698 low- and 
+moderate-income units. 
+Furthermore, the DCA is also the entity responsible for calculating each municipality’s present 
+and prospective fair share obligations. However, the FHA makes clear that these calculations are 
+advisory and that each municipality must set its own obligation number utilizing the same 
+methodology. 
+In January 2025, the Township adopted a Resolution which accepted the DCA’s present and 
+prospective fair share obligation calculations for the Township (se Appendix). These obligations 
+are summarized below. That same resolution also noted that the Township reserves the right to 
+conduct a vacant land adjustment (VLA) to determine its realistic development potential (RDP). 
+This is discussed in greater detail in the next subsection. 
+Table 2: Summary of Fair Share Obligation 
+Affordable Obligation 
+Units 
+Present (Rehabilitation Need) 
+Obligation 
+10 
+Fourth Round Obligation (2025-2035) 
+109 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 27 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 28 =====
+ 
+~ 26 ~ 
+3.2: Realistic Development Potential (RDP) 
+The Township is a fully developed community and is therefore entitled to adjust its obligation in 
+accordance with a procedure set forth in the FHA. Specifically, NJSA 52:27D-310.1 permits 
+municipalities perform a realistic development potential (RDP) analysis by seeking a vacant land 
+adjustment (VLA).  
+An RDP analysis is intended to determine which sites in a municipality are most likely to develop 
+for low- and moderate-income housing. Municipalities may present documentation that 
+eliminates a site or part of a site from its inventory of vacant land. Such eliminating factors 
+include: lands dedicated for public uses other than housing since 1997; park lands or open 
+space; vacant contiguous parcels in private ownership of a size which would accommodate 
+fewer than five housing units; historic and architecturally important sites listed on the State 
+Register of Historic Places or the National Register of Historic Places; preserved architectural 
+lands; sites designated for active recreation; and environmentally sensitive lands. 
+A VLA was previously conducted for the Township’s 2020 HE&FSP which indicated that the 
+Township’s 3rd Round RDP was 43 units.  That analysis is shown in the accompanying table. 
+A new VLA for the 4th Round has been prepared. For the sake of continuity, it identifies those 
+properties which were analyzed in the 2020 HE&FSP as well as additional properties which have 
+been included in the new 4th Round RDP.  These include 3 lots shown in bold at the end of the 
+accompanying table. The 4th Round RDP analysis reveals the Township’s RDP is 10 RDP units, 
+consisting of the following: 
+1. 29 Fairfield Dr/70 West Passaic St:  This property occupies an area of 1.3 acres.  For RDP 
+calculation purposes we assigned it a minimum presumptive density of 8 units per acre, 
+resulting in 2.08 RDP units.  As detailed in the Plan section of this report, this property is 
+included as an inclusionary development property at a higher density yield. 
+ 
+2. 210 & 222 Rochelle Ave:  This property occupies an area of 1.45 acres.  It is occupied by 
+a bank and a diner.  For RDP calculation purposes we assigned it a minimum 
+presumptive density of 6 units per acre, resulting in 1.74 RDP units.  As detailed in the 
+Plan section of this report, this property is included as an inclusionary development 
+property at a higher density yield. 
+ 
+3. 375 West Passaic Street:  This property occupies an area of 3.89 acres.  It is occupied by a 
+Ramada Inn.  For RDP calculation purposes we assigned it a minimum presumptive 
+density of 8 units per acre, resulting in 6.22 RDP units.  As detailed in the Plan section of 
+this report, this property is included as an inclusionary development property at a higher 
+density yield. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 28 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 29 =====
+ 
+~ 27 ~ 
+Table 3: Vacant Land Adjustment 
+ID # 
+Block 
+Lot 
+Address 
+Developable Area 
+(ac) 
+Comments 
+1 
+110.01 
+2 
+RAILROAD 
+0.00 
+Class 5A 
+2 
+19.01 
+1 
+REAR ROCHELLE AVE 
+2.07 
+Class 15C. No longer exists. 
+3 
+20.01 
+1 
+REAR ROCHELLE AV 
+1.76 
+Class 15C. No longer exists. 
+4 
+109.04 
+3 
+PLAZA WAY 
+0.00 
+Class 4A 
+5 
+2 
+20 
+LEXINGTON AVE. 
+1.11 
+Class 15C. Part of public park. 
+6 
+102 
+7.04 
+WEST PASSAIC ST 
+1.10 
+Not applicable Building on property. 
+7 
+18.02 
+1 
+REAR GROVE ST 
+0.98 
+Class 15C, no longer exists. 
+8 
+20.02 
+1 
+REAR GROVE ST 
+0.90 
+No longer exists, now is block 114, lot 22. 
+9 
+8 
+1.01 
+MIDLAND ST 
+0.62 
+No longer exists, now block 101. 
+10 
+18.02 
+2.02 
+REAR GROVE ST 
+0.54 
+Class 15C 
+11 
+110.01 
+1 
+RAILROAD 
+0.50 
+Class 5A 
+12 
+18.02 
+2.01 
+REAR GROVE ST 
+0.36 
+No longer exists. 
+13 
+90 
+2.02 
+FAIRFIELD AVE REAR 
+0.32 
+No longer exists. 
+14 
+55.01 
+1 
+REAR PASSAIC ST 
+0.29 
+Too small to count towards RDP. 
+15 
+32 
+12.01 
+ROUTE 17 
+0.26 
+No longer exists. 
+16 
+102 
+2 
+374 W PASSAIC ST 
+0.24 
+No longer exists. 
+17 
+70 
+9 
+18 TERRACE AVE 
+0.23 
+Class 15D 
+18 
+25.02 
+9 
+ROUTE 17 
+0.23 
+Class 15C 
+19 
+101.02 
+19.02 
+PLAZA WAY 
+0.14 
+Class 15C 
+20 
+32 
+6 
+80 LINCOLN DR 
+0.14 
+No longer exists. 
+21 
+110.02 
+1 
+RAILROAD 
+0.14 
+Class 5A 
+22 
+14 
+10.02 
+PARKWAY 
+0.14 
+No longer exists. 
+23 
+14 
+23.02 
+ST ANN PL 
+0.14 
+No longer exists. 
+24 
+101.02 
+1.02 
+PLAZA WAY 
+0.13 
+Class 15C 
+25 
+46.01 
+4 
+OLDIS ST 
+0.12 
+No longer exists. 
+26 
+32 
+7 
+76 LINCOLN DR 
+0.12 
+No longer exists. 
+27 
+32 
+12.02 
+ROUTE 17 
+0.11 
+No longer exists. 
+28 
+90 
+3 
+70 W PASSAIC ST. 
+0.11 
+Class 4A 
+29 
+13 
+14 
+ST ANN PL 
+0.10 
+No longer exists. 
+30 
+11 
+58 
+ROCHELLE AV 
+0.09 
+No longer exists. 
+31 
+8 
+1.02 
+REAR OF ROUTE 17 
+0.07 
+Class 15F 
+32 
+2 
+11 
+LEXINGTON AV 
+0.07 
+No longer exists. 
+33 
+4 
+12 
+33 LEXINGTON AV 
+0.07 
+No longer exists. 
+34 
+1 
+18 
+136 ESSEX ST 
+0.06 
+Class 15F 
+35 
+21 
+99 
+OAK ST 
+0.06 
+No longer exists. 
+36 
+33 
+1.02 
+REAR ROUTE 17 
+0.06 
+No longer exists. 
+37 
+37 
+160 
+41 CHESTNUT AVE 
+0.06 
+No longer exists. 
+38 
+27 
+260 
+15 SUSQUEHANNA AVE 
+0.06 
+No longer exists. 
+39 
+13 
+5 
+PARKWAY 
+0.05 
+No longer exists. 
+40 
+105.05 
+24 
+PASSAIC ST 
+0.05 
+No longer exists. 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 29 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 30 =====
+ 
+~ 28 ~ 
+41 
+4 
+1 
+ROCHELLE & LEXINGTON 
+0.04 
+No longer exists. 
+42 
+55.02 
+2 
+PASSAIC ST 
+0.03 
+Class 15C 
+43 
+25.01 
+5 
+CENTRAL AV 
+0.03 
+No longer exists. 
+44 
+88 
+1.02 
+ALONG PLAZA WAY 
+0.02 
+Class 15C 
+45 
+64 
+7 
+REAR ROCHELLE AVE 
+0.02 
+Class 15C 
+46 
+107.01 
+11 
+HOWARD AVE 
+0.02 
+No longer exists. 
+47 
+64 
+6 
+ROCHELLE AVE 
+0.02 
+Class 15C 
+48 
+68 
+49.01 
+TERRACE AV 
+0.01 
+No longer exists. 
+49 
+56.02 
+2 
+PLEASANT AV 
+0.01 
+Too small to count towards RDP. 
+50 
+93.01 
+1.01 
+120 W PASSAIC ST. 
+0.00 
+No longer exists. 
+51 
+93.01 
+1.02 
+W PASSAIC ST. 
+0.00 
+No longer exists. 
+52 
+93.01 
+1.03 
+W PASSAIC ST. 
+0.00 
+No longer exists. 
+53 
+93.01 
+1.04 
+W PASSAIC ST. 
+0.00 
+100-Year Floodplain 
+54 
+106 
+22 
+50 LEXINGTON AVE 
+X 
+ Lot is Municipal land, not to be mapped. 
+54 
+101 
+2 
+1 MIDLAND STREET 
+X 
+Too small to count towards RDP. Not mapped. 
+55 
+114 
+40 
+REAR GROVE ST 
+X 
+Not fronted. Used to be block 20.02, lot 1. 
+55 
+102 
+6 
+LEXINGTON AV 
+X 
+Too small to count towards RDP. Not mapped. 
+56 
+104 
+1 
+ROCHELLE & LEXINGTON 
+X 
+Too small to count towards RDP. Not mapped. 
+57 
+104 
+4 
+33 LEXINGTON AV 
+X 
+Too small to count towards RDP. Not mapped. 
+58 
+107 
+1 
+ROCHELLE AV 
+X 
+Too small to count towards RDP. Not mapped. 
+59 
+108 
+10.01 
+ROUTE 17 
+X 
+Located in Maywood. Not mapped. 
+60 
+111 
+20 
+PARKWAY 
+X 
+Too small to count towards RDP. Not mapped. 
+61 
+111 
+4 
+ST ANN PL 
+X 
+Too small to count towards RDP. Not mapped. 
+62 
+112 
+12 
+ST ANN PL 
+X 
+Too small to count towards RDP. Not mapped. 
+63 
+115 
+4 
+REAR GROVE ST 
+X 
+Too small to count towards RDP. Not mapped. 
+64 
+201 
+8 
+OAK ST 
+X 
+Too small to count towards RDP. Not mapped. 
+65 
+203 
+13 
+41 CHESTNUT AVE 
+X 
+Too small to count towards RDP. Not mapped. 
+66 
+207 
+30 
+15 SUSQUEHANNA AVE 
+X 
+Too small to count towards RDP. Not mapped. 
+67 
+211 
+1 
+171 ROUTE 17 
+X 
+Too small to count towards RDP. Not mapped. 
+68 
+211 
+19 
+ROUTE 17 
+X 
+Too small to count towards RDP. Not mapped. 
+69 
+211 
+20 
+ROUTE 17 
+X 
+Too small to count towards RDP. Not mapped. 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 30 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 31 =====
+ 
+~ 29 ~ 
+70 
+212 
+6 
+CENTRAL AVENUE 
+X 
+Located in Maywood. Not mapped. 
+71 
+213 
+5 
+CENTRAL AV 
+X 
+Too small to count towards RDP. Not mapped. 
+72 
+214 
+11 
+PROSPECT AVE (REAR) 
+X 
+Too small to count towards RDP. Not mapped. 
+73 
+214 
+2 
+REAR ROUTE 17 
+X 
+Too small to count towards RDP. Not mapped. 
+74 
+214 
+6 
+MARINUS ST 
+X 
+Too small to count towards RDP. Not mapped. 
+75 
+214 
+9 
+OLDIS ST 
+X 
+Too small to count towards RDP. Not mapped. 
+76 
+214 
+9.01 
+PROSPECT AVE (REAR) 
+X 
+Located in Maywood. Not mapped. 
+77 
+409 
+4 
+PROSPECT AVE 
+X 
+Located in Maywood. Not mapped. 
+78 
+413 
+8 
+REAR PASSAIC ST 
+X 
+Originally blk 55.01, lot 1. Steep slopes cause the 
+lot to be below .83 threshold. 
+79 
+502 
+11 
+TERRACE AV 
+X 
+Too small to count towards RDP. Not mapped. 
+80 
+605 
+42 
+87 PASSAIC STREET 
+X 
+Not mapped, common area for development. 
+81 
+608 
+10 
+70 W PASSAIC ST.  
+x 
+Too small to count towards RDP.  Not mapped 
+82 
+608 
+16 
+FAIRFIELD AVE REAR 
+X 
+Too small to count towards RDP. Not mapped. 
+83 
+609 
+10 
+120A W PASSAIC ST. 
+X 
+Too small to count towards RDP. Not mapped. 
+84 
+609 
+11 
+W PASSAIC ST. 
+X 
+Too small to count towards RDP. Not mapped. 
+85 
+609 
+8 
+W PASSAIC ST. 
+X 
+Too small to count towards RDP. Not mapped. 
+86 
+609 
+9 
+120B W PASSAIC ST. 
+X 
+Class 15F. 
+87 
+800 
+1 
+WEST OF GARDEN STATE 
+PKWY 
+X 
+Too small to count towards RDP. Not mapped. 
+ 
+90 
+91.01 
+2.02 & 3 
+1-5 & 9 
+29 Fairfield Dr/ 70 W. 
+Passaic St 
+1.3 ac 
+Calculated for RDP at 8 du/ac = 2.08 RDP units 
+ 
+23 
+24.01 
+ 
+2.03 
+1, 2 & 3 
+210 & 222 Rochelle Ave 
+1.45 ac 
+Site dev as bank & diner.  Calculated at for RDP 
+at 6 du/ac = 1.74 RDP units. 
+ 
+103.01 
+1.01 & 2 
+375 W.Passaic St 
+3.89 ac 
+Site dev w/Ramada Inn.  Calculated for RDP at 
+8 du/ac = 6.2 RDP units 
+ 
+ 
+ 
+Total RDP for 4th Round 
+ 
+10.02 RDP units 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 31 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 32 =====
+BER-L-000583-25
+06/26/2025 1:51:56 PM
+Pg 32 of 43
+Trans ID: LCV20251860298
+Map 3: Vacant Land Adjustment
+‘
+Sx.
+and Fair Share Plan
+oo
+De oe
+=
+fioSS
+sc .
+SS A Seopa
+fj
+~30~
+
+===== PAGE 33 =====
+ 
+~ 31 ~ 
+ 
+Section 4: Fair Share Plan 
+The following Fair Share Plan outlines the components and mechanisms the Township will utilize 
+to address its affordable housing obligations. These obligations are summarized as follows: 
+Table 4: Affordable Housing Obligation Summary 
+Category 
+Obligation 
+1st and 2nd Round Obligation (1987-1999) 
+64 
+3rd Round Obligation (1999-2025) 
+165 
+4th Round Obligation (2025-2035) 
+109 
+Present Need (Rehabilitation) Obligation 
+10 
+4.1: 1st and 2nd Round Obligations 
+The Township was assigned a 1st and 2nd Round Obligation of 64 units. As noted in an earlier 
+section of this report the Township had received a First Round Judgment of Compliance and 
+repose in 1991 resulting from a builder’s remedy lawsuit.  This Judgment included a vacant land 
+adjustment indicating that the lawsuit’s site (known as the Koziel property) was the only 
+developable site in the Township.  The result was the 1st Round obligation was reduced from 
+118 units to a 9 unit realistic development potential (RDP), which was to be satisfied on the 
+Koziel property.  The concept of unmet need did not exist as part of this 1st Round of affordable 
+housing.   
+During the pendency of the 2nd Round, Koziel approached the Township with a revised plan, 
+resulting in the provision of 4 affordable units to be placed on-site, with the developer funding a 
+payment-in-lieu of affordable housing that would go to either a will receiving municipality 
+through a Regional Contribution Agreement or to a housing trust fund. The project was 
+subsequently completed and a monetary payment of $100,000 was made to the Township.   
+ 
+4.2: Third Round Obligation 
+The Township’s 3rd Round HE&FSP indicates the Township had 3rd Round obligation of 109 units, 
+reduced to a combined prior round and 3rd Round realistic development potential (RDP) of 43 
+units, resulting in a combined 2nd Round/3rd Rund unmet need of 186 units.  The projects 
+identified in the 3rd Round Plan to meet this 43 unit RDP are summarized in the accompanying 
+table.   
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 33 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 34 =====
+ 
+~ 32 ~ 
+Table 16: 2ND/3RD Round Plan Components 
+Plan Component 
+Total 
+Units 
+Total AH 
+Credits 
+Type of Affordable 
+Unit/Credits 
+Status 
+Northern Park 
+102 Terrace Ave 
+57 
+4 
+Age-restricted rental. 
+$100,000 contribution 
+ot Trust Fund in lieu of 
+5 AH units  
+Completed 
+120 W. Passaic St 
+Redevelopment Plan 
+160 
+24 
+Inclusionary 
+redevelopment plan, 
+w/15% set-aside.  
+Design included 
+retention pond in 
+front of site 
+Redeveloper 
+designated; 
+amended 
+redevelopment 
+plan adopted 
+Mercury Rising 
+47 Central Ave 
+ 
+4 
+4 
+Group Home 
+Completed 
+Rental Bonuses: 
+     Mercury Rising 
+     120 Passaic St 
+  
+ 
+ 
+3 
+8 
+ 
+ 
+ 
+ 
+Total 
+ 
+43 
+ 
+ 
+ 
+ 
+4.3: Fourth Round Obligation 
+This section identifies the manner in which the Township shall address its 4th Round RDP 
+obligations and unmet need, as well as its rehabilitation obligations.  
+2. 
+Rehabilitation Obligation.    As noted in a previous section of this plan, Rochelle Park’s 
+Rehabilitation obligation is 10 units. The Township plans to address this obligation 
+through participation in the Bergen County Housing Rehabilitation Program and/or, as 
+determined to be necessary, the establishment of a municipal Rehabilitation Program to 
+rehabilitate at least 10 units in the Township and utilize funds from its affordable housing 
+trust fund. 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 34 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 35 =====
+ 
+~ 33 ~ 
+In order to fully satisfy its rehabilitation obligation, the Township will commit $10,000 per 
+unit. This will require a total contribution of $50,000. Pursuant to COAH’s rules that allow 
+municipalities to utilize money collected from development fees for this purpose, the 
+Township shall set aside the required funds from its affordable housing trust fund 
+account to be made available to income-qualified households to participate in the 
+program, one-third of which will be made available within the first year following 
+approval of this plan. The Spending Plan included in the Appendix of this document 
+demonstrates sufficient funding to satisfy the Borough’s 10-unit Rehabilitation 
+obligation.  
+ 
+3. 
+Prospective Obligation/Unmet Need.  The Township will satisfy its 10 unit RDP obligation 
+and a portion of its unmet need through the designation of the following sites: 
+ 
+a. 
+29 Fairfield Dr/70 West Passaic Street:  This property is located on the northwest 
+corner of W. Passaic Street and Fairfield Drive, and extends northward to Plaza 
+Way.  It occupies and area of 1.3 acres and is irregular in shape.  The tract is 
+developed with a dwelling and two detached garages.  It is located in an area 
+with a variety of uses, including low density residential development to the north 
+in Paramus above Plaza Way and to the west along Fairfield Drive, a mix of 
+commercial, office and residential development along W. Passaic Street, business 
+uses to the east uses and to the south. 
+ 
+This Plan calls for the site to be developed at 15 units per acre, which would 
+result in a total of 19 units on site.  A 20 percent set-aside would result in 4 
+affordable housing units being constructed on-site. 
+ 
+It is noted that there was a request to allow a total of 300 units on this 1.3 acre 
+property which would be built within the construction of a 13 story building.  The 
+plans called for a total of 310 parking spaces to serve its residents and visitors to 
+the site, which represents 1.03 spaces per unit which does not appear to be 
+consistent with RSIS standards.  It is also noted that the request for 300 units on 
+1.3 acres represents a density of 228 units per acre, which is extremely 
+inconsistent, and not reflective at all, with the character of the area and 
+community at large. 
+ 
+This proposal is therefore rejected by the Township, as it does not reflect the 
+established residential development pattern in the immediate vicinity of the site, 
+which is typified by low-rise construction adjacent to and across the street from 
+this property.  While it is acknowledged there is a tall structure across the street 
+along W. Passaic Street, this is a non-residential building with very few employees 
+due to the nature of its occupancy, and it doesn’t preclude the Township from 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 35 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 36 =====
+ 
+~ 34 ~ 
+acknowledging the low density residential land use pattern to the immediate east 
+and north.     
+ 
+b. 
+210 & 222 Rochelle Ave:  This property is on the easterly side of Rochelle Ave at 
+Central Ave.  It occupies an area of 1.45 acres and is irregular in shape.  It is 
+developed with a bank and a diner.   
+ 
+This site was the subject of an approved non-condemnation Area In Need of 
+Redevelopment (AINR) designation in 2019, as well as an updated evaluation 
+indicating that, while the site has not been redeveloped, for mixed use at-grade 
+retail with apartments above as contemplated in a redevelopment plan, the site 
+continues to be meet the standards of the AINR designation. 
+ 
+This Plan thus calls for the site to be developed for mixed-use with at-grade retail 
+and apartments above at a density of 20 units per acre, resulting in 29 
+apartments.  This would include a 20 percent for affordable units, resulting in 6 of 
+the units being deed-restricted for income-qualified affordable households.   
+ 
+Based on the above, these two above-noted developments would address the ten unit 
+RDP obligation of the Township.  The following site would be utilized to address a 
+portion of the Township’s unmet need. 
+ 
+c. 
+375 West Passaic Street:  This property occupies an area of 3.89 acres.  It is 
+currently occupied by a Ramada Inn.  The Township has been in preliminary 
+discussions to facilitate this site’s redevelopment.  It is the Township’s 
+understanding that the site may become available in 2028 for redevelopment.  
+Thus, this Plan calls for the site to be designated for an inclusionary development 
+at 30 units per acre within a maximum 4 story building configuration, resulting in 
+a total of 116 units on site inclusive of 23 of the units being set-aside for 
+affordable housing (a 20 percent set-aside).    
+ 
+Pursuant to the applicable COAH regulations as set forth in N.J.A.C 5:93-1.3, an analysis was 
+undertaken to determine that this tract addresses the applicable ‘approvable’, ‘available’, 
+‘developable’, and ‘suitable’, criteria, as follows, and as detailed below: 
+ 
+“Approvable site” means a site that may be developed for low and moderate income housing in 
+a manner consistent with the rules or regulations of all agencies with jurisdiction over the site. A 
+site may be approvable although not currently zoned for low and moderate income housing. 
+ 
+“Available site” means a site with clear title, free of encumbrances which preclude development 
+for low and moderate income housing.  
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 36 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 37 =====
+ 
+~ 35 ~ 
+ 
+“Developable site” means a site that has access to appropriate water and sewer infrastructure, 
+and is consistent with the applicable areawide water quality management plan (including the 
+wastewater management plan) or is included in an amendment to the areawide water quality 
+management plan submitted to and under review by DEP.  
+ 
+“Suitable site” means a site that is adjacent to compatible land uses, has access to appropriate 
+streets and is consistent with the environmental policies delineated in N.J.A.C. 5:93-4. 
+ 
+These criteria are all affirmed by the sites’ location and physical characteristics, as noted below. 
+ 
+1. 
+Available:  These sites are free of encumbrances which would otherwise preclude its 
+development for low and moderate income housing.  There are no known encumbrances 
+that would adversely impact the ability to develop the sites as contemplated herein.  
+Additionally, in all cases developers or property owners have expressed interest in 
+developing these sites for inclusionary development.  It is our understanding that there is 
+clear title to the properties. 
+ 
+2. 
+Approvable: These sites are approvable, as reflected in their locations and relationship to 
+their surrounding development patterns.   A review of site conditions reveals the lots are 
+readily developable to accommodate the number of units projected for the lots.  
+ 
+3. 
+Developable:  These sites are developable, as reflected in the fact in some instances the 
+property was already deemed developable.   
+ 
+4. 
+Suitable: The sites are also suitable for the intended development.  As previously noted, 
+they are in areas near to multi-family housing, or commercial business districts, or 
+accessible to mass transit or with direct access to the regional road network  
+ 
+With respect to issues of land use compatibility, it is noteworthy that often, compatibility is 
+viewed as consisting of the same land uses and densities as the surrounding development 
+pattern.   However, in the context of affordable housing, issues of compatibility and density 
+must be viewed more broadly than that.  The reason for this is simple.  The New Jersey Supreme 
+ruled in Mt Laurel II that every municipality has a constitutional obligation to provide affordable 
+housing within its community, and that parenthetically requires higher density development.  
+Without accepting this construct, if compatibility was limited to the same land uses and 
+densities, those municipalities whose development pattern historically was limited to large lot 
+single-family development would be allowed to continue to impose what the Court has deemed 
+to be exclusionary zoning practices.  And that is precisely what the Courts have struck down. 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 37 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 38 =====
+ 
+~ 36 ~ 
+COAH addressed this when they adopted regulations that stated that they shall consider both 
+the character of the area and the need to provide affordable housing when determining the 
+suitability of a site and identified densities of six to eight dwelling units per acre as a minimum 
+presumptive density for affordable housing. 
+ 
+In summary, the analysis reveals the applicable criteria are met for all sites under consideration. 
+An aerial map of the sites is provided below. 
+ 
+The following identifies preliminary area and bulk requirements for this sites’ development.  
+These regulations are preliminary and may be modified as developers participate with the 
+Township for the individual site developments.  
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 38 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 39 =====
+ 
+~ 37 ~ 
+Table 17: Preliminary Draft Zoning Regulations for 4th Round Sites 
+ 
+Requirement 
+29 Fairfield Dr/70 
+W. Passaic St 
+210/222 
+Rochelle Ave  
+370 W. Passaic 
+St 
+Min. Lot Area 
+1.25 ac 
+1.4 ac 
+3.75 ac 
+Min. Setback from External Lot 
+lines: 
+     Front Yard 
+     Side  Yard 
+     Rear Yard 
+ 
+ 
+35 feet 
+15 feet 
+20 feet 
+ 
+ 
+ 
+50 feet 
+20 feet 
+25 feet 
+ 
+ 
+50 feet 
+35 feet 
+30 feet 
+Min. Setback to Internal 
+Roadways 
+ 
+20 feet 
+ 
+20 feet 
+ 
+20 feet 
+Min. Dist Between Bldgs 
+20 feet 
+20 feet 
+20 feet 
+Min. Open Space 
+40 percent 
+35 percent 
+40 percent 
+Min. Acc Bldg Setback to: 
+     Principal Bldg 
+     Street Lines 
+     Other Lot Lines 
+ 
+15 feet 
+25 feet 
+15 feet 
+ 
+15 feet 
+25 feet 
+15 feet 
+ 
+15 feet 
+50 feet 
+20 feet 
+Max. Density 
+15 du/ac 
+20 du/ac 
+30 du/ac 
+Max. Bldg Coverage 
+25 percent 
+30 percent 
+35 percent 
+Max. Impervious Coverage 
+60 percent 
+65 percent 
+65 percent 
+Max Bldg Height 
+2.5 stories/35 feet 
+3 stories/38 feet 
+4 stories/50 feet  
+Max. Bldg Length 
+175 feet 
+180 feet 
+180 feet 
+Min Parking Standards 
+Per RSIS 
+Per RSIS 
+Per RSIS 
+ 
+ 
+All of the sites identified above are shown on the accompanying map on the following page. 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 39 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 40 =====
+ 
+~ 38 ~ 
+Map 4: Site 1: 29 Fairfield Dr/ 70 W. Passaic St: 
+ 
+Source: NJ GeoWeb 2024 
+Map 567: Site 210 & 222 Rochelle Ave: 
+ 
+Source: NJ GeoWeb 2024 
+ 
+Block 90, Lots 2.02 & 3 
+Block 91.01.1, Lots 1-5 & 9 
+Block 23, Lot 2.03      
+Block 24.01, Lots 1, 2 & 3  
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 40 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 41 =====
+ 
+~ 39 ~ 
+Map 6: Site 375 West Passaic St. 
+ 
+Source: NJ GeoWeb 2024 
+ 
+4.4: Consistency with State Planning Initiatives 
+As noted in Section 1, a Housing Element and Fair Share Plan must also include: 
+❖ An analysis of the extent to which municipal ordinances and other local factors advance 
+or detract from the goal of preserving multigenerational family continuity as expressed 
+in the recommendations of the Multigenerational Family Housing Continuity 
+Commission, and; 
+❖ An analysis of consistency with the State Development and Redevelopment Plan, 
+including water, wastewater, stormwater, and multi-modal transportation based on 
+guidance and technical assistance from the State Planning Commission. 
+Accordingly, the following subsection analyzes the consistency of this HE&FSP to the above 
+referenced state planning initiatives. 
+Multigenerational Family Housing Continuity Commission 
+The Multigenerational Family Housing Continuity Commission was established by the State of 
+New Jersey in 2021. As noted in NJSA 52:27D-329.20, one of the primary duties of the 
+Commission is to “prepare and adopt recommendations on how State government, local 
+government, community organizations, private entities, and community members may most 
+Block 103.01, Lot 1.01, 2  
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 41 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 42 =====
+ 
+~ 40 ~ 
+effectively advance the goal of enabling senior citizens to reside at the homes of their extended 
+families, thereby preserving and enhancing multigenerational family continuity, through the 
+modification of State and local laws and policies in the areas of housing, land use planning, 
+parking and streetscape planning, and other relevant areas.” 
+As of the date of this HE&FSP, the Multigenerational Family Housing Continuity Commission has 
+not yet adopted any recommendations. 
+State Development and Redevelopment Plan 
+As established by NJSA 52:18A-200(f), the purpose of the State Development and 
+Redevelopment Plan (SDRP) is to “coordinate planning activities and establish Statewide 
+planning objectives in the following areas: land use, housing, economic development, 
+transportation, natural resource conservation, agriculture and farmland retention, recreation, 
+urban and suburban redevelopment, historic preservation, public facilities and services, and 
+intergovernmental coordination.” 
+As such, the SDRP establishes a number of goals and strategies related to a number of different 
+topics, including economic redevelopment. One such goal is to revitalize existing urban centers 
+by directing growth and development to those areas. Specifically, the SDRP seeks to revitalize 
+the State’s cities and towns by protecting, preserving, and developing the valuable human and 
+economic assets in cities, towns, and other urban areas. 
+As indicated by the SDRP’s Policy Map, the entirety of the Township is located in the PA-1 
+Metropolitan Planning Area, wherein development and redevelopment is intended to be 
+directed. The intent of this Planning Area is to: 
+❖ Provide for much of the state’s future redevelopment; 
+❖ Revitalize cities and towns; 
+❖ Promote growth in compact forms; 
+❖ Stabilize older suburbs; 
+❖ Redesign areas of sprawl; and; 
+❖ Protect the character of existing stable communities. 
+Accordingly, this HE&FSP is consistent with the intents of the PA-1. Specifically, it is designed to 
+encourage redevelopment and growth in a compact form, while also protecting the character of 
+the existing community. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 42 of 43   Trans ID: LCV20251860298 
+
+===== PAGE 43 =====
+ 
+~ 41 ~ 
+Additional Comment:   
+It is noted that a letter was received regarding additional development abutting the 120 W. 
+Passaic Street Redevelopment Plan area which is developed with 160 dwelling units.   The lot in 
+question is 1.82 acres.  It is entirely within a 100 year flood plain.   
+The proposal is to develop this 1.82 acre area with 130 dwelling units, which represents a density 
+of 71.4 units per acre.  As this site is within the 100 year flood plain, along with the excessive 
+density, this prospective additional development is not being considered at this time. 
+                                                                                                                                                                                              
+BER-L-000583-25   06/26/2025 1:51:56 PM   Pg 43 of 43   Trans ID: LCV20251860298 

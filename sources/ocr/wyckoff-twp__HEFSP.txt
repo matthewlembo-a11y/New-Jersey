@@ -1,0 +1,4340 @@
+
+===== PAGE 1 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg1of70
+Trans ID: LCV20251857468
+RESOLUTION OF THE PLANNING BOARD OF THE TOWNSHIP OF WYCKOFF ADOPTING A
+FOURTH ROUND HOUSING ELEMENT AND FAIR SHARE PLAN
+WHEREAS,
+the Township
+of Wyckoff
+(hereinafter the
+“Township”
+or “Wyckoff”)
+has
+a
+demonstrated history of voluntary compliance as evidenced by its Third Round record; and
+WHEREAS, pursuant to In re N.J.A.C. 5:96 and 5:97, 221 NJ. 1 (2015) (Mount Laurel IV), on July 2,
+2015, the Township of Wyckoff filed a Declaratory Judgment Complaint in Superior Court, Law Division
+seeking, among other things, a judicial declaration that its Third Round Housing Element and Fair Share
+Plan, to be amended as necessary, satisfied its “fair share” of the regional need for low and moderate
+income housing pursuant to the “Mount Laurel doctrine;” and
+WHEREAS, that culminated in a Court-approved Third Round Housing Element and Fair Share Plan
+and a Judgment of Compliance and Repose, dated March 4, 2021 by the Hon. Gregg A. Padovano, J.S.C.,
+which precludes all Mount Laurel lawsuits, including builder’s remedy lawsuits, until July 1, 2025; and
+WHEREAS, the Township continues to actively implement
+its Court-approved Third Round
+Housing Element and Fair Share Plan; and
+WHEREAS, on March 20, 2024, Governor Murphy signed into law P.L. 2024, c.2, which amended
+the 1985 New Jersey Fair Housing Act (hereinafter the “Amended FHA”); and
+WHEREAS, the Township adopted a resolution on January 29, 2025 committing to a present need
+obligation of 40 and Round 4 prospective need obligation of 277 and thereafter filing
+a declaratory
+-
+judgment action within 48 hours of the adoption of the Resolution; and
+WHEREAS, in accordance with the Amended FHA and the Administrative Office of the Court’s
+Directive No. 14-24, the Township filed a timely Fourth Round Declaratory Judgment complaint (“DJ
+Complaint”) with the Affordable Housing Dispute Resolution Program (“the Program”), along with its
+binding resolution, on January 30, 2025; and
+WHEREAS, the Township received objections from Fair Share Housing Center and New Jersey
+Builders Association to its Prospective by February 28, 2025; and
+WHEREAS, on March 24, 2025 the Township and Fair Share Housing Center executed a mediation
+agreement setting forth the present need obligation of 40 and a Round 4 Prospective Need obligation of
+344; and
+.
+WHEREAS, on May 30, 2025 the Hon. Lina P. Corriston, J.S.C. executed an Order Fixing the
+Municipal Obligations for the Township of Wyckoffat 40 for the present need obligation 344 for the Round
+4 Prospective Need obligation, consistent with the Mediation Agreement; and
+WHEREAS, now that the Township has its Fourth Round Obligations, the Amended FHA requires
+the municipality to adopt and endorse a Fourth Round Housing Element and Fair Share Plan by June 30,
+2025; and
+
+===== PAGE 2 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg2of70
+Trans ID: LCV20251857468
+WHEREAS, in accordance with the Amended FHA, the Township ’s affordable housing planner
+drafted a Fourth Round Housing Element and Fair Share Plan; and
+WHEREAS, upon notice duly provided pursuant to N.J.S.A. 40:55D-13, the Planning Board held a
+public hearing on the Fourth Round Housing Element and Fair Share Plan on June 25, 2025; and
+WHEREAS, the Planning Board determined that the attached Fourth Round Housing Element and
+Fair Share Plan is consistent with the goals and objectives of the Township ’s current Master Plan, and
+that adoption and implementation of the Fourth Round Housing Element and Fair Share Plan is in the
+public interest and protects public health and safety and promotes the general welfare.
+NOW, THEREFORE, BE IT RESOLVED by the Planning Board of the Township of Wyckoff, County
+of Bergen, State of New Jersey, that the Planning Board hereby adopts the Fourth Round Housing Element
+and Fair Share Plan.
+a
+Chair of the Planning Board
+CERTIFICATION
+| certify that the foregoing Resolution was duly adopted by the Planning Board of Township of
+Wyckoff at a special meeting/public hearing held on June 25, 2025.
+lanning Board Secretary
+2
+
+===== PAGE 3 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg3of 70
+Trans ID: LCV20251857468
+2025 FOURTH ROUND
+CK.
+HOUSING PLAN
+VS
+AN
+Ny
+: SON
+aA ee
+HOUSING ELEMENT & FAIR SHARE PLAN
+NE Li
+N
+WYCKOFF TOWNSHIP
+2
+ee)
+EY
+YS
+got.
+JEW
+BERGEN COUNTY
+We
+ceY
+ba
+K
+P
+New JERSEY
+Ra,
+1926 I
+Czy
+ADOPTED BY THE PLANNING BOARD
+JUNE 25, 2025
+PREPARED BY:
+ELIZABETH MCMANUS, PP, AICP, LEED AP
+New JERSEY PROFESSIONAL PLANNER LICENSE 5915
+KyLe + McManus Associates
+A SIGNED AND SEALED ORIGINAL IS ON FILE WITH THE TOWNSHIP CLERK
+cha_|
+
+===== PAGE 4 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg4of70
+Trans ID: LCV20251857468
+cha _|
+,
+TOWNSHIP PLANNING BOARD
+Robert Fortunato, Chairman
+Sarah Caprio, Vice Chairwoman
+Rudolf E. Boonstra, Mayor
+Mae Y. Bogdansky, Township Committee
+Joseph Vander Plaat
+Joseph R. Haftek
+Robert Kaufman
+Frank Sedita
+Mike Tode'
+William Santala
+Michael Homaychak
+Mark A. DiGennaro, Township Engineer
+.
+Peter Ten Kate, Boswell Engineering
+Kevin Hanly, Planning Board Attorney
+Maureen Mitchell, Board Secretary/Land Use Administrator
+TOWNSHIP COMMITTEE
+Rudolf E. Boonstra, Mayor
+.
+Mae Y. Bogdansky
+Roger J. Lane
+ThomasJ. Madigan
+PeterJ.Melchionne
+Matthew A. Cavallo, Township Administrator
+David Becker, Township Attorney
+FourTtH ROUND HOUSING PLAN.
+‘
+
+===== PAGE 5 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg5of70
+Trans ID: LCV20251857468
+TABLE OF CONTENTS
+Introduction & Executive SUMMALYwisestd
+Affordable Housing in New Jersey...ssessssessesssesesssssesssssessseessesssusssssssvsssessueerssssssasssasssesereseeasseeseseasesseneesD
+The Compliance Process..sssssscccserscsessecseseveesssssesscececsaeesesesesssesssesseeessseseessesesseesaeseeeseeessseesO
+Affordability Requirements ...ccssceccsecssssessssseeessessesrenessseseasvsseseassecssesessersisnsassesessaseueseetststssesnssesesee 7
+Overview of Compliance RequireMents ....c.ccscecesceseeresssesssesssessnssecsseseesseersseessserssesssnsseseseeeneeeeeeseene
+Affordable Housing in WYCKOff .....cccsscsessssssssecssecssssseccnsscsesesssusessscasseesseseasetsesssasseerescassusisersssneeeeseaesLO
+Consideration of Lands Most Appropriate for Affordable HOUSING... bb
+Opportunity for Multigenerational HOUSING ....cccseseesescssesssesssescesseecsesesseseessssesesessscsssessseetsesesssssessesteesesLZ
+Demographic, Housing & Employment Analysis ....c..sccccsccsesssesessstesestscsssrecessssearsssssssessseseessssetsessseeesseLO
+Affordable Housing Obligation & Satisfaction...cscsesesssseessesssessesssscessseusesseeucsssesesasesensucseaeetserseeseseeLd
+Rehabilitation Obligation & Satisfaction occ. ccssssesesesereeseseeesseestsseseesessessseseneeseeerseeseeseesesetsereeeLS
+First & Second Rounds Obligation .....ccscssssstessesssreeeeesetstsnseesssesessessteessserseseessssessssesseassesscesesseLA
+Third Round Obligation ......csscssssscstsvsssecseeccssssescsstsesssessensseeessesscenstessereessessssssersesesssetessssesaseeseserseesLO
+Fourth Round Obligation .....ccsccssccvssesssseesseesetscsssesceeeestesseeesescseseasessussersesecsscsesessessseseseesseeeeLD
+Vacant Land AdjUStMe Nt .......cecssseresetetensetssstsessseseteecsesssessesssssssssseecsssestesseesssssesssasesesssasseseaesessserssLO
+Satisfaction Of the RDP ....cccssseeessessesssssssssssssssssssesescsssssessessssuersesssessssssessussseeeesessrsesaeeteLO
+Satisfaction of the Unmet N@@d ...ccccsccssreceesseessesssesescseessssstessssssscersssssssesssnsessesesseeetesieareraeseenesens2d
+Consistency with the State Development and Redevelopment Plan ......esesscscsesseserersrensseseeasscteteneesSO
+Affordable Housing Administration & Affirmative Marketing......ccsessrssessecsssesssssersssssesesssseeeeSO
+j
+Affordable Housing Trust FUNC wsccesssesccstsesssessssstecsssseresessscescessstesssssesnesscseteceseessesesssasercsseseecsesssaseassseseseSL
+Appendices
+1.
+Housing, Demographic & Employment Analysis
+FourtH ROUND HOUSING PLAN
+
+===== PAGE 6 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg6of70
+Trans ID: LCV20251857468
+KMA
+|
+RE EAU ASOCIES
+INTRODUCTION & EXECUTIVE SUMMARY
+Since the 1975 New Jersey Supreme Court decision known as “Mount Laurel |,” New Jersey municipalities
+have had a constitutional obligation to provide opportunities for creation of low and moderate housing
+units. This 1975 decision led to a body of case law, legislative changes and rulemaking by a state agency
+that, collectively, is now referred to as the “Mount Laurel Doctrine”. Through these actions, New Jersey
+municipalities have been assigned a specific number of affordable units that must be created or planned
+for creation to have “satisfied” their constitutional obligation, referred to as their affordable housing
+obligation. The purpose of this Housing Element and Fair Share Plan (hereinafter
+the “Plan”) is to present
+how Wyckoff Township will satisfy its constitutional obligation.
+Affordable housing in New Jersey is defined as units that are reserved for households with incomes not
+more than 80% of the regional median income. Each affordable unit, depending on the age and type of
+housing, must remain reserved for low and moderate income households for up to 40 years and it is
+:
+typically enforced by a deed restriction. Each affordable unit is eligible for one “credit” against the
+:
+obligation and certain units are eligible for “bonus credits,” which provide more than one credit per unit.
+|
+In addition to providing the minimum number of credits, municipalities must ensure diversity in the unit
+j
+type (at least half of the units must be available to families and the remaining may be reserved for seniors
+:
+and those with special needs), diversity in the level of affordability (very low, low and moderate income
+units), and diversity in the size of affordable units (one, two and three bedroom units).
+vs
+:
+Participation in this process, and therefore satisfaction of the affordable housing obligation, can be
+achieved
+voluntarily
+or
+involuntarily.
+However,
+voluntary
+compliance
+is
+heavily
+incentivized.
+Municipalities that do not successfully participate may be vulnerable to exclusionary zoning litigation,
+which is defined as litigation based on alleged noncompliance with the Fair Housing Act, or the Mount
+'
+Laurel doctrine, and includes builder’s remedies. A builder's remedy is a
+litigation tool that grants a
+developer the right to construct what is typically a multi-family development on land that was not zoned
+to permit the use or the residential density desired by the developer, provided a “substantial” percentage
+of the units are reserved for low and moderate income households. Wyckoff seeks to avoid this possibility
+and has already taken substantial steps to do so.
+This Plan supersedes
+all previously adopted housing plans and will serve as the foundation for the
+Township’s application filing with the New Jersey Affordable Housing Dispute Resolution Program and the
+request for
+a Compliance Certification.
+FourTH ROUND HoUusING PLAN
+Pace 1
+:
+Apoprep June 25, 2025
+
+===== PAGE 7 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg/7of70
+Trans ID: LCV20251857468
+EMA coco |
+As detailed in this Plan, Wyckoff —like all New Jersey municipalities — has four components of its affordable
+housing obligation. Each component of the Township’s obligation is identified below.
+=
+Rehabilitation Obligation: 40
+The rehabilitation obligation can be defined as an estimate of the number of deteriorated units
+existing in Wyckoff that are occupied by low- and moderate-income households. This component
+is also referred to as the “present need”.
+"
+First & Second Rounds Obligation: 221
+The first and second rounds obligation can be defined as the cumulative 1987 through 1999 new
+construction affordable housing obligation. This component is also referred to as the “prior
+round” obligation.
+"Third Round Obligation: 640
+The third round obligation can be defined as the 1999 through 2025 new construction affordable
+housing obligation.
+=
+Fourth Round Obligation: 334
+The fourth round obligation can be defined as the 2025-2035 new construction affordable housing
+obligation. The current round of affordable housing, now the fourth round, is also referred to as
+the “prospective need”.
+The Township’s rehabilitation obligation will be satisfied through continuation of the Interlocal Services
+Agreement with Bergen County Department of Community Development (BCCD).
+The Township satisfied the first and second rounds obligation with a variety of family, senior and special
+needs units that offer for sale and for rent opportunities.
+Vacant land adjustments are a compliance tool for municipalities whose obligations are outsized as
+compared to the availability of developable land. The Township received a vacant land adjustment for the
+previous rounds and continues the adjustment in the fourth round. The adjustment results in a realistic
+development potential (hereinafter “RDP”) and an unmet need. The RDP represents the portion of the
+new construction affordable housing obligation that can theoretically be addressed with inclusionary
+development (defined as a mix of market and affordable units) on lots identified as being developable in
+the vacant land analysis. The unmet need is calculated as the difference between the total obligation and
+the RDP.
+The Township’s vacant land adjustment for the third round has an RDP of 46. There is no additional RDP
+attributable to the fourth round.
+The Township’s RDP is satisfied with
+a combination of existing and planned inclusionary development.
+The unmet need is satisfied with overlay zoning throughout the Township that promotes inclusionary
+development.
+TOwnsuir OF WycKoFF, BERGEN COUNTY
+FourtH ROUND HousING.PLAN
+PAGE 2
+AbopPTEDIUNE 25, 2025
+
+===== PAGE 8 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 8of 70
+Trans ID: LCV20251857468
+cha]
+Adoption of this Housing Element and Fair Share Plan and complete implementation of the strategies
+described above to meet the affordable housing obligation will yield
+a Compliance Certification and
+protect the Township from builder’s remedy litigation through July 2035, the maximum time available.
+AFFORDABLE HOUSING IN NEW JERSEY
+In its landmark 1975 decision, now referred to as “Mount Laurel |,” the NJ Supreme Court ruled that
+developing municipalities have a constitutional obligation to provide variety and choice of housing types
+affordable to low- and moderate-income households. In its 1983 “Mount Laurel I!” decision, the NJ
+Supreme Court extended the regional fair share obligation to all municipalities with any “growth area” as
+designated in the State Development Guide Plan (NJDCA 1978) and determined that each municipality
+would have to establish
+its fair share obligation and provide zoning strategies to create a realistic
+opportunity for fulfilment of the fair share obligation. Mount Laurel
+II also gave developers, under
+appropriate circumstances, the opportunity to secure a builder’s remedy. A builder’s remedy isa litigation
+tool that grants a developer the right to develop what is typically a multi-family development on land that
+was not zoned to permit the use or the residential density desired by the developer, provided a
+“substantial” percentage of the units are reserved for low and moderate income households. Wyckoff
+seeks to avoid this possibility and has already taken substantial steps to do so.
+In 1985, the Legislature enacted the Fair Housing Act in response to Mount Laurel Ii. The Fair Housing Act
+created the Council on Affordable Housing (hereinafter “COAH”) as an administrative alternative to
+compliance in a court proceeding. The Legislature conferred “primary jurisdiction” on COAH and charged
+COAH with promulgating regulations to establish housing regions, to estimate the state’s low- and
+moderate-income housing needs, set criteria and guidelines for municipalities to determine and satisfy
+their affordable housing obligation, and to create a process for the review and approval of appropriate
+housing elements and fair share plans. Approval of a municipal housing element and fair share plan by
+COAH was referred to as “substantive certification” and it provided protection from builder’s remedy
+litigation during the period which the housing element and fair share plan addresses (i.e. the round).
+COAH created the criteria and guidelines for municipalities to determine and address their respective
+affordable housing obligation. COAH originally established a formula for determining municipal affordable
+housing obligation for the six-year period between 1987 and 1993 (N.J.A.C. 5:92-1 et seq.), which became
+known as the “first round.” These rules established the first round rehabilitation obligation (also referred
+to as the “present need”) and the first round new construction obligation.
+The first round formula was superseded by COAH regulations in 1994 (N.J.A.C, 5:93-1.1 et seq.). The 1994
+regulations recalculated a portion of the first round 1987-1993 affordable housing obligations for each
+municipality and computed the additional municipal affordable housing need from 1993 to 1999 using
+1990 U.S. Census data. The regulations COAH adopted in 1994 to identify a municipality's “cumulative”
+obligations for the first and second rounds are known as “the second round” regulations. Under
+FourTH Round Housine PLAN
+PAGE 3
+:
+Aooprep JUNE 25, 2025
+.
+
+===== PAGE 9 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg9of 70
+Trans ID: LCV20251857468
+MA ecu |
+regulations adopted for the third round, the obligation of municipalities to create new affordable housing
+for the first and second rounds was referred to as the “prior round” obligation.
+On December 20, 2004, COAH’s first version of the third round rules became effective some five years
+after the end of the second round in 1999. At that time, the third round was defined as the time from
+1999 to 2014 but condensed into an affordable housing delivery period from January 1, 2004 through
+January 1, 2014. The third round rules marked a significant departure from the methods utilized in COAH’s
+earlier rounds by creating a “growth share” approach that linked the production of affordable housing to
+residential and non-residential development within a municipality.
+The growth share approach and the rules in which it was created, was the subject to significant litigation
+and was ultimately overturned by the New Jersey Appellate Court. On January 25, 2007, the New Jersey
+Appellate Court decision, In re Adoption of N.J.A.C. 5:94 and 5:95, 390 NJ. Super. 1, invalidated key
+elements of the first version of the third round rules, including the growth share approach. COAH issued
+revised rules on June 2, 2008 (as well as a further rule revision effective on October 20, 2008). Included in
+the 2008 rules was a recalculation of the cumulative first and second rounds obligation to account for
+updated data addressing secondary sources (filtering, demolitions, and residential conversions). Just as
+various parties challenged COAH’s initial third round regulations, parties challenged COAH’s 2008 revised
+third round rules. On October 8, 2010, the Appellate Division issued its decision, In re Adoption of N.J.A.C.
+5:96 and 5:97, 416 N.J. Super. 462, with respect to the challenge to the second iteration of COAH’s third
+round regulations, The Appellate Division upheld the COAH regulations that assigned rehabilitation and
+first and second rounds obligations to each, municipality but invalidated the regulations by which the
+agency assigned housing obligations in the third round, finding that the Agency continued to utilize a
+growth share approach, albeit an amended approach.
+COAH sought a stay from the NJ Supreme Court ofthe deadline to issue new third round housing rules set
+forth by the Appellate Division. Additionally, there were various challenges to the Appellate Division’s
+2010 decision. On September 26, 2013, the NJ Supreme Court upheld the Appellate Court decision in1In
+re Adoption of N.J.A.C. 5:96 and 5:97 by New Jersey Council On Affordable Housing, 215 N.J. 578 (2013),
+and ordered COAH to prepare the necessary rules. Subsequent delays in COAH’s rule preparation and
+ensuing litigation led to the NJ Supreme Court, on March 14, 2014, setting forth a schedule for adoption.
+Although ordered by the NJ Supreme Court to adopt revised new rules on or before October 22, 2014,
+COAH deadlocked 3-3 at its October 20th meeting and failed to adopt the draft rules it had issued on April
+30, 2014. In response, Fair Share Housing Center (hereinafter “FSHC”) filed a motion in aid of litigant’s
+rights with the NJ Supreme Court.
+On March 10, 2015, the NJ Supreme Court issued a ruling on the Motion In Aid of Litigant’s Rights (Inre
+Adoption of N.J.A.C. 5:96 & 5:97, 221 NJ 1, aka “Mount Laurel IV”). This long-awaited decision provided a
+new direction for how New Jersey municipalities were to comply with the constitutional requirement to
+provide their fair share of affordable housing. The Court transferred responsibility to review and approve
+housing elements and fair share plans from COAH to designated Mount Laurel trial judges. The implication
+was that municipalities were required to apply to Superior Court with a Declaratory Judgement Action,
+FourtH Rounp Housine PLAN.
+PaGe 4
+Aoopreo JUNE 25, 2025
+
+===== PAGE 10 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg10of 70
+Trans ID: LCV20251857468
+KMA
+|
+INE Means AOU
+instead of to COAH, if they wished to be protected from exclusionary zoning litigation, including builder’s
+remedy. These trial judges, with the assistance of an appointed Special Adjudicator to the Court, reviewed
+municipal plans much in the same manner as COAH previously did.
+While the NJ Supreme Court’s decision set a process in motion for towns to address their third round
+obligations,
+it did not assign those obligations. Instead, the task was completed by the trial courts.
+However, the NJ Supreme Court did direct that the method of determining municipal affordable housing
+obligations were to be “similar to” the methodologies used in the first and second round rules and
+municipalities should rely on COAH’s 1993 second round rules (N.J.A.C. 5:93) and certain components of
+COAH’s 2008 regulations that were specifically), as well as the Fair Housing Act (N.J.S.A. 52:27D — 301 et
+seq.), in their preparation of third round housing elements and fair share plans.
+FSHC, a public interest advocacy organization
+in New Jersey devoted exclusively to promoting the
+production of housing affordable to low and moderate income households, was permitted to serve as an
+interested party in every municipal Declaratory Judgment Action. In this role the organization calculated
+municipal affordable housing obligations and offered to settle with municipalities. Such settlements
+addressed the municipal affordable housing obligation, compliance strategies and other terms intended
+to promote affordable housing production. Most municipalities that filed
+a Declaratory Judgment Action
+settled with FSHC, finding it to be in their best interest. The typical alternative to settlement with FSHC
+was conducting a trial in Superior Court to determine the municipal affordable housing obligation.
+In addition to the State agency activity and judicial decisions through 2015, the New Jersey Legislature
+amended the Fair Housing Act in 2008 (P.L. 2008, c. 46, often referred to as the “Roberts Bill”, or “A500”).
+This amendment established a statewide 2.5% nonresidential development fee, prohibited new regional
+contribution agreements (hereinafter “RCAs”), required that 13% of all new affordable units be restricted
+to very low income households (30% of median income), and added a requirement that municipalities
+had to commit to spend development fees within four (4) years of the date of collection. Additionally, the
+Fair Housing Act was amended in 2013 (P.L. 2013, c. 6) to permit municipalities to enter into an agreement
+with a developer or development owner to provide a preference for veterans who served in time of war
+or other emergency to occupy up to 50% of the affordable units in a particular development. The
+preference is applicable to the first 90 of the 120 days of initial marketing and thereafter may ona
+special
+waiting list for future available affordable units in the development. These amendments to the Fair
+Housing Act are not promulgated in any valid COAH regulations.
+On March 20, 2024, an amendment to the Fair Housing Act was adopted (P.L. 2024, c.2.), This amendment
+creates significant changes to the fourth round of affordable housing, and all subsequent rounds. Such
+changes include the process in which municipalities obtain protection from builder’s remedy litigation —
+including but not limited to the elimination of COAH and the creation of the Affordable Housing Dispute
+Resolution Program, the methodology to calculate municipal prospective need obligations, and the
+administration of affordable units. However, the Fair Housing Act does not create or direct the creation
+of new rules that would provide further guidance, instead it states municipalities shall rely on rules
+adopted by COAH, unless contradicted by statute or binding court decisions, for municipal crediting,
+FourtH ROUND HOUSING PLAN
+-
+Pace 5
+Aooprep June 25, 2025
+
+===== PAGE 11 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg11of 70
+Trans ID: LCV20251857468
+KMA
+|
+IE eeAUrws SSOCAES
+adjustments and compliance strategies. One notable example of contradiction is the generation of and
+use of bonus credits. See the sections that follow for additional information regarding this amendment to
+the Fair Housing Act.
+The Affordable Housing Dispute Resolution Program (hereinafter the “Program”) is
+a program within the
+judiciary made up of an odd number ofJudges with a minimum of 3 and not to exceed 7. The Program,
+in its discretion and in accordance with Rules of Court, may consult or employ services of one or more
+special adjudicators or staff to assist it in rendering determinations, resolving disputes, and facilitating
+communication among municipalities and interested partes. The Program is responsible for reviewing
+municipal affordable housing obligations, housing plans, and conducting mediation. However, final
+determinations of compliance, disputes, and other issues, as well as Court orders may only be issued by a
+County-level housing judge.
+In addition to changes addressing the compliance process and elimination of COAH, the amendment also
+revised minimum affordability controls for rental units from 30 years to 40 years and those for extension
+of affordability controls from 30 years to as little as 20 years, provided the total control period is not Jess
+than 60 years. It also created new roles for the Department of Community Affairs (hereinafter “DCA”),
+including calculation of non-binding rehabilitation and prospective need affordable housing obligations,
+oversight and adoption of rules regulating municipal affordable housing trust funds, municipal housing
+liaisons and affordable housing administrative agents, as well as oversight of affordable housing
+administration. The amendment also directed the New Jersey Housing and Mortgage agency to revise the
+Uniform Housing Affordability Control Rules (N.J.A.C. 5:80-26.1 et seq.).
+The Compliance Process
+The first step in
+a municipality’s compliance process is to establish the affordable housing obligation. The
+first, second and third round obligations are already established by COAH or Superior Court, as applicable.
+Only the rehabilitation obligation and current prospective need, the fourth round obligation, are subject
+to the determination.
+The methodology and formulas each municipality must rely upon to determine its rehabilitation, and
+fourth round obligation (as well as subsequent round obligations) are set forth within N.J.S.A. 52:27D-
+304.1 thru -304.3 of the Fair Housing Act. The March 8, 2018 unpublished decision of the Superior Court,
+Law Division, Mercer County, In re Application of Municipality of Princeton (“Jacobson Decision”) is also
+to be referenced as to datasets and methodologies that are not explicitly addressed in N.J.S.A. 52:27D-
+304.3. Notwithstanding the methodology set forth in the Fair Housing Act, the Act also required the DCA
+to release a non-binding report calculating obligations for each municipality in the State.
+The following provides an overviewof the process and deadlines associated with the fourth round.
+=
+Establishing the Affordable Housing Obligation
+=
+October 20, 2024: DCA Regional and Municipal Fair Share Obligation Report Issued.
+TOWNSHIP OF WycKoFF, BERGEN COUNTY
+FourtH Rounb Housine PLAN
+PAGE 6
+Apopreo JUNE 25, 2025
+
+===== PAGE 12 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg12of 70
+Trans ID: LCV20251857468
+*ha.
+steve
+aocatts
+=
+January 31, 2025: Deadline for municipalities to adopt a binding resolution committing
+to the affordable housing obligation and seeking a Compliance Certification through
+participation in the Program.
+=
+February 28, 2025: Deadline for an interested party to challenge the municipality's
+determination of its obligation to the Program.
+It shall apply “an objective assessment
+standard”.
+«March 1, 2025: The municipality’s determination of its obligation will be established by
+default if no challenge.
+=
+March 31, 2025: The Program must issue a decision on the obligation challenge.
+"Obtaining a Compliance Certification
+=
+June 30, 2025: Municipality shall adopt a Housing Plan and propose drafts of ordinances
+and resolutions to implement the plan.
+l
+=
+August 31, 2025: Deadline for an interested party to file
+a challenge of the Housing Plan
+with the Program.
+If no challenge by this date the Program will begin review of the
+Housing Plan for consistency with the FHA.
+=~
+December 31, 2025: Deadline for a municipality to settle any challenge or provide an
+explanation as to why it will not make all, or some of the changes brought by the
+challenge.
+=
+March 15, 2026: Municipality to amend the Housing Plan and implement the agreed upon
+revisions resulting from a challenge and adopt all pertinent ordinances. The Housing Plan
+and adopted ordinances shall be immediately filed with the Program.
+"Ongoing Compliance
+"
+Midpoint (2030):
+Action by municipality or interested party filed to seek a realistic
+opportunity review of any developments that have not moved forward.
+Affordability
+Requirements
+Affordable housing is defined under New Jersey’s Fair Housing Act as a dwelling, either for sale or rent,
+that is within the financial means of households of low- or moderate-income, as is measured within each
+housing region. Wyckoff is
+in Region
+1, which includes Bergen, Passaic, Hudson, Sussex counties.
+Moderate-income households are those with annual incomes greater than 50%, but less than 80% of the
+regional median income. Low-income households are those with annual incomes that are 50% or less than
+the regional median income. Very low-income households are a subset of “low-income” households and
+are defined as those with incomes 30% or less than the regional median income.
+TOWNSHIP OF WycKoFe, BERGEN COUNTY
+.
+FourTH ROUND Housine PLAN
+PAGE 7
+Abopreo
+June 25,2025
+
+===== PAGE 13 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg13o0f 70
+Trans ID: LCV20251857468
+:
+*|
+Desa anitverestn
+The Uniform Housing Affordability Controls (hereinafter “UHAC”) at N.J.A.C. 5:80-26,3(d) and (e) requires
+that the maximum rent for a qualified unit be affordable to households with incomes 70% or less than the
+median income for the region, provided the development includes 13% or more very low income units.
+The average rent must be affordable to households with incomes no greater than 52% of the median
+income. The maximum sale prices for affordable units must be affordable to households with incomes
+70% or less than the median income. The average sale price must be affordable to a household with an
+income of 55% or less than the median income.
+The regional median income is defined using the federal income limits established by Department of
+Housing and Urban Development (hereinafter “HUD”) on an annual basis. In the spring of each year, HUD
+releases updated regional income limits, and it is from these income limits that the rents and sale prices
+for affordable units are derived. The following table reflects the 2025 affordable housing regional income
+limits for Region 1.
+2025 Income Limits for Region 1 (Bergen, Passaic, Hudson, Sussex counties)
+Household Income
+1-Person
+2-Person
+3-Person
+4-Person
+5-Person
+Levels
+Household
+Household
+Household
+Household
+Household
+$89,100
+$101,800
+$114,500
+$127,200
+$137,400
+s742e0 | $8140 | $91,600 | s101760 | $109.20
+$44,550
+$50,900
+$57,250
+$63,600
+$68,700
+$26,730
+$30,540
+$34,350
+$38,160
+$41,220
+Source: UHAC 2025 Affordable Housing Regional Income Limits by Household Size, Last updated May 5, 2025, by New Jersey Housing and
+Mortgage Finance Agency (NJHMFA).
+Overview of Compliance Requirements
+There are extensive requirements that municipalities must ensure their affordable housing strategies
+satisfy to be eligible for
+a Compliance Certification. Furthermore, those requirements vary by round. The
+following provides a brief and summarized overviewofthe requirements.
+«Rental Obligation. Not less than 25% of the affordable units addressing
+the obligation of a round
+must be for rent.
+=
+Family Obligation. Not less than 50% of affordable units addressing
+the obligation ofa round must
+be available to families, meaning they are not restricted to a particular population. This obligation
+does not apply to the first and second rounds.
+Towwsuip of WyckofF, BERGEN COUNTY
+FourTH ROUND HOuSsING PLAN
+Pace &
+Apopreo June 25, 2025,
+
+===== PAGE 14 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 14of 70
+Trans ID: LCV20251857468
+KMA
+|
+mnbewons asocans
+=
+Family Rental Obligation. Not less than 50% of the units meeting the rental obligation of
+a round
+must be available to families, meaning they are not restricted to a particular population. This
+obligation does not apply to the first and second rounds.
+=
+Senior Maximum. Up to 30% of affordable units addressing the obligation of a round may be
+reserved for seniors. The maximum was 25% for the first, second and third rounds.
+=
+Income Distribution of Affordable Units
+=
+Very Low Income Obligation. Not less than 13% of affordable units created or approved
+on or after July 1, 2008 must be reserved for very low income households (30% or less
+than the regional median income). Very low income units are a subset of low income
+units,
+=
+Family Very Low Income Obligation. Not less than 50% of the units meeting the very low
+income obligation must be available to families, meaning they are not restricted to a
+particular population.
+:
+=
+Low Income Obligation. Not less than 50% of affordable units in any development must
+be reserved for low income households (50% or less than the regional median income,
+which includes very low income units). The remaining may be available to moderate
+income households (51-80% of regional median income).
+="
+Bedroom Distribution of Affordable Units
+=
+The total bedrooms within the affordable units in any development must be not less than
+twice the number of affordable units. This requirement does not apply to the first, second
+or third round.
+"Studio and 1-bedroom Units. Not more than 20% of units in any development.
+«
+ 2-bedroom Units. Not less than 30% of units in any development.
+=
+3-bedroom Units. Not less than 20% of units in any development.
+=
+The above requirements do not apply to special needs housing or senior housing.
+=
+Senior developments are subject to a modified bedroom distribution such that the total
+bedrooms within the affordable units must be not less than the number of affordable
+units.
+=
+Senior and supportive housing developments with 20 or more affordable units shall have
+not less than 5% 2-bedroom and 3-bedroom affordable units. This requirement does not
+apply to the first, second or third round.
+=
+Bonus Credits
+="
+No more than 25% of the obligation for each round.
+TOWNSHIP OF WYCKOFF, BERGEN COUNTY
+Fourtu ROUND HOUusING PLAN
+Pace 9.
+Aoopreo June 25, 2025
+
+===== PAGE 15 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg15of 70
+Trans ID: LCV20251857468
+MA cu |
+=
+Only one type of bonus credit may be applied to a unit.
+«Rental bonus credits (1.0) are only applicable to the first, second and third rounds.
+=
+The following unit types are eligible for 1.0 bonus credit in the fourth round.
+=
+Supportive and special needs. Note that special needs often receive credit for
+each bedroom.
+=
+Market to affordable (conversion ofa market rate unit to an affordable unit).
+="
+100% affordable developments: Units within 100% development provided the
+municipality the land or a minimum of 3% of the development costs.
+«The following affordable unit types are eligible for 0.5 bonus credit in the fourth round.
+=
+Partnership with non-profit.
+=
+Proximity to transit: units within % mile of transit (rail, bus, ferry).
+=
+Senior: limited to 10% of the affordable age-restricted units provided which is
+capped at 30%ofthe obligation.
+«Units with at least three bedrooms above the minimum number required by the
+bedroom distribution.
+=
+Redevelopment for units on land that was previously utilized for retail, office or
+commercial use.
+=
+Extension
+of
+affordability
+controls
+on
+rental
+housing
+only,
+provided
+the
+municipality funds the cost for the preservation.
+=
+Very Low-Income units above the 13% required.
+AFFORDABLE HOUSING IN WYCKOFF
+In October of 1992, Wyckoff was granted a six year Judgment of Repose against further Mount Laurel
+litigation as a result of its settlement of a lawsuit brought against the Township by the owner (Cervino) of
+what is now Turtle Creek and the preparation of a Housing Element and Fair Share Plan addressing all of
+the Township's affordable housing obligation that could not be met in the Turtle Creek development.
+As part of the first round compliance plan, a vacant land analysis was conducted and later approved by
+Superior Court in 1992. The initial six-year Judgment of Repose was due to expire in October of 1998.
+Wyckoff prepared, adopted and submitted to COAH a new Housing Element and Fair Share Plan covering
+the Township's second round fair share obligation in July of 1998, before the expiration of its first round
+Judgment of Repose.
+TOWNSHIP oF WyckoFF, BERGEN COUNTY
+FourtH Rouno Housine PLAN
+Pace 10
+Aooprep
+June 25, 2025
+
+===== PAGE 16 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 16of70
+Trans ID: LCV20251857468
+MA cus |
+The second round plan addressed COAH’s entire second round allocation. There was no need in the
+second round plan to invoke the first round vacant land adjustment, since the second round number was
+achievable without
+it. The Township’s second round certification was extended by COAH through
+December 20, 2005, and Wyckoff adopted and submitted a Third Round Plan to COAH in November of
+2005.
+COAH reviewed Wyckoff’s Third Round Plan and requested additional information, which was
+provided to them, but did not complete the process of granting Substantive Certification to Wyckoff.
+As a result of the September, 2008, amendments to COAH’s Rules as well as the amendments to the Fair
+Housing Act adopted by the Legislature in June of 2008 and signed into law by the Governor in July of
+2008, the Township revised its Third Round Housing Plan once again and resubmitted it to COAH by the
+December 31, 2008 deadline. Wyckoff twice petitioned COAH for substantive certification of its third
+round Housing Element and Fair Share Plan, once in December of 2005 and once in December of 2008. In
+both instances, the Rules on which the Township’s plan was based were invalidated before COAH could
+act on Wyckoff’s petition.
+.
+Wyckoff filed a request for a Declaratory Judgment on July 2, 2015, within the requisite period set by the
+Supreme Court. The Hon. Menelaos Toskos, J.S.C. granted Wyckoff immunity from builder’s remedy
+lawsuits so that the Township could attempt to settle with FSHC on the extent of the Township’s fair share
+obligation, as no methodology existed then for determining third round obligations. With the guidance
+of the Special Master, the settlement discussions were successfully concluded, resulting in an executed
+settlement agreement between Wyckoff and FSHC. A Fairness Hearing was conducted by Judge Toskos on
+July 18, 2018, following which, on July 23, 2018, Hon. Menelaos Toskos, J.S.C entered an Order approving
+the settlement, subject to several conditions, including the adoption of a revised third round Housing Plan.
+The Township adopted a revised third round Housing Plan and submitted supplemental information to
+Superior Court. A Final Judgment of Compliance and Repose was issued on March 4, 2021 by the Hon.
+Gregg A. Padovano, J.S.C.
+The Township adopted a resolution committing to the rehabilitation and fourth round obligations on
+January 21, 2025. The resolution committed to the DCA-calculated rehabilitation obligation but reduced
+the DCA-calculated fourth round obligation. The Township’s submission received objections from the New
+Jersey Builder’s Association and FSHC; however, the Township was able to settle with these parties on the
+fourth round obligation. On May 30, 2025, the Hon. Lina P. Corriston, J.S.C. issued an order establishing
+the Township’s rehabilitation and fourth round obligations of 40 and 334, respectively.
+CONSIDERATION OF LANDS IVlosT APPROPRIATE FOR AFFORDABLE HOUSING
+As part of this Plan, the Township considered land that is appropriate for the construction of low- and
+moderate-income housing. Wyckoff has limited capacity for future development due to its built-out
+conditions. Notwithstanding, one developer requested inclusion the Township’s fourth round housing
+plan:
+Fourth Rounp HousinG PLAN
+PAGE 11
+Aooprep June 25, 2025
+
+===== PAGE 17 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg17of70
+Trans ID: LCV20251857468
+ca__|
+=
+Squaw Brook Church (Block 437, Lots 18, 19, 20.02): The developerofthis vacant house of worship
+property contacted the Township seeking amended zoning to permit inclusionary townhouse
+development. The Township worked with this developer to amend the bulk standards; the site is
+included the Township’s unmet need.
+A portion of Township’s housing stock may be appropriate for conversion or rehabilitation for affordable
+housing. Such conversions are most appropriate for Township units that are moderate in size, as opposed
+to those Township units that are very significant in size, to enable building and site maintenance costs
+that are proportionate to the household’s income. Group units and accessory apartments are also
+appropriate for many of Wyckoff’s single-family units, and attached and multi-family affordable housing
+developments may be appropriate where opportunities for such development or redevelopment arises
+(in addition to those areas which are already zoned for inclusionary development). The Township’s
+mandatory set-aside ordinance will capture such opportunities.
+OPPORTUNITY FOR MULTIGENERATIONAL HOUSING
+The Fair Housing Act requires “an analysis of the extent to which municipal ordinances and other local
+factors advance ordetract from the goal of preserving multigenerational family continuity as expressed
+in the recommendations of the Multigenerational Family Housing Continuity Commission”. As of the date
+of this Housing Plan there have been no recommendations by the Multigenerational Family Housing
+Continuity Commission in which to provide an analysis. However, the Commission has the primary goal of
+enabling senior citizens to reside at the units of their extended families, thereby preserving and enhancing
+multigenerational family continuity.
+Township land use policies are not in conflict with this goals and
+much of the Township’s housing stock is large enough to accommodate multigenerational living.
+DEMOGRAPHIC, HOUSING & EMPLOYMENT ANALYSIS
+See Appendix 1 to the Housing Plan for this analysis.
+AFFORDABLE HOUSING OBLIGATION & SATISFACTION
+Fourth round housing plans must address four components of a municipality's affordable housing
+obligation. These include the rehabilitation obligation to improve substandard housing occupied by low-
+and moderate-income households, the first and second round obligation of new construction from 1987
+to 1999, third round obligation of new construction from 1999 to 2025, and the fourth round obligation
+of new construction from 2025 to 2035.
+Towwnsuip oF WyckorF, BERGEN COUNTY
+FourtH Round HousinG PLAN
+Pace 12
+Aoopreo June 25, 2025
+
+===== PAGE 18 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 18of 70
+Trans ID: LCV20251857468
+EMA secs |
+Rehabilitation Obligation & Satisfaction
+The rehabilitation obligation can be defined as an estimate of the number of deteriorated units existing
+in Wyckoff that are occupied by low- and moderate-income households. The Fair Housing Act, N.J.S.A.
+52:27D-304.3.b., describes present need as being determined by “estimating the existing deficient
+housing units currently occupied by low- and moderate-income households within the municipality,
+following a methodology comparable to the methodology used to determine third round present need,
+through the use of datasets made available through the federal decennial census and the American
+Community Survey, including the Comprehensive Housing Affordability Strategy dataset thereof.” The
+DCA calculated municipal present need obligations in Affordable Housing Obligations for 2025-2035
+(Fourth Round) Methodology and Background, released on or about October 18, 2024. The Township
+adopted a resolution committing to the rehabilitation obligation on January 21, 2025. The resolution
+committed to the DCA-calculated rehabilitation obligation. On May 30, 2025, the Hon. Lina P. Corriston,
+J.S.C. issued an order establishing the Township’s rehabilitation of 40.
+The Township will address this obligation through continuation of Interlocal Services Agreement with
+Bergen County Department of Community Development (BCCD), which provides a no-interest loan to
+income-eligible homeowners to repair major systems in their home. The Township will address this
+obligation of 40 through participation
+in the Bergen County Housing Improvement Program, which
+provides a no-interest loan to income-eligible homeowners to repair major systems in their home. This
+County program
+is funded by the federal Community Development Block Grant (CDBG) program. The
+loans need not be repaid until the unit is sold or the title is transferred. Additionally, the Township will
+create a supplementary program that is available to rental units. This program will be operated by the
+Township’s administrative agent. All rehabilitated units will comply with the definition of
+a substandard
+unit in N.J.A.C. 5:93-5.2(b), which states, “a unit with health and safety code violations that require the
+repair or replacement of a major system.” Major systems include weatherization, roofing, plumbing,
+heating, electricity, sanitary plumbing, lead paint abatement and/or load bearing structural systems. All
+rehabilitated units shall meet the applicable construction code. Additionally, all rehabilitated units shall
+be occupied by low- or moderate-income households and subject to 10-year affordability controls, which
+shall be placed on the property in the form of a lien or deed restriction. The average hard cost will be at
+least $10,000.
+Wyckoff seeks relief from the rental component of the rehabilitation obligation, as set forth in N.J.A.C.
+5:97-6.2(b)6. The request for relief is supported by the following:
+e
+Extensive rental affordable housing constructed and permitted in the housing plan.
+e
+9,1% of the Township’s occupied housing units are for rent. This low percentage of units for rent
+will reduce demand for the program.
+¢
+The median income of renter households is $93,523. These high incomes will also further reduce
+demand for the program as well as reduce eligibility.
+,
+FourTH ROUND HousiNnG PLAN
+Pace 13
+Aooprep June 25, 2025
+
+===== PAGE 19 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 19of 70
+Trans ID: LCV20251857468
+RMA cus |
+First & Second Rounds Obligation & Satisfaction
+Wyckoff Township’s first and second rounds new construction obligation, also referred to as the prior
+round obligation, is 221. This obligation is defined as the cumulative new construction obligation from
+1987 through 1999 (1987-1993
+is the first round; 1993-1999
+is the second round). The Township’s
+obligation was published by COAH in 2008 and originally calculated in 1993-1994 pursuant to N.J.A.C 5:93.
+The Township satisfied the first and second rounds obligation with a wide variety of housing types,
+including family, senior and special needs. The entire 221 obligation has been satisfied with constructed
+development, except for the Abma Farm tract. This tract has not yet developed for inclusionary residential
+development despite the existence of favorable zoning since the 1990's. This is because the Abma Farm
+property is still in active use as a family farm with
+a community-based commercial recreation function. At
+some point, when the family farm ceases to operate as such, it is expected that this property will develop
+in accordance with its zoning, but this may take some time.
+;
+Satisfaction of the 221-unit First & Second Rounds Obligation
+.
+Affordable
+Bonus
+Total
+Development
+Housing Type
+Units
+Credits
+Credits
+Status
+Family Sale or | 8 |r| constructed
+RCA Payment pos foo | os | Completed
+Snyder Farms
+RCA Payment fs | o | 9 | Completed
+Fieldstone Manor (Moss
+Family Rental
+13
+13
+26
+Constructed
+Type)
+Turtle Creek (Cervino}
+Family Sale Pt [oft | constects
+Windmill Farms
+Passaro Sheep Farm)
+" Peynent pe fio | | compres
+Wyckoff Commons (Jones)
+Family Sale PF 2 foo | 2 | Constructed
+Wyckoff Commons (Jones)
+RCA Payment PF 2 | o | 2 | Completed
+Abma Farm
+Family
+36
+36
+Zoned
+Rental or Sale
+Townsuip oF WycKoFF, BERGEN COUNTY
+FourTH Rounb Housine PLAN
+Pace 14
+AvoprepJUNE 25, 2025
+
+===== PAGE 20 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 20 of 70
+Trans ID: LCV20251857468
+i
+Satisfaction of the 221-unit First & Second Rounds Obligation
+.
+Affordable
+Bonus
+Total
+Development
+Housing Type
+Units
+Credits
+Credits
+Status
+Boulder Run
+Family Rental
+|
+cHee- Evergreen Court senior sentt | ae | oo
+| a4 | constuctes
+CHEE Longview
+Assisted tingPe | 0 | 2 {contre
+ECR Holly Lodge
+Special Needs pe | 8 | 8 {contre
+FCCR Oak Lodge
+Special Needs 4 | 8 | 8 {contruces
+ECCR = Willow Lodge
+Special Needs 8 | 4] 8 [contd
+Total
+180
+41
+221
+Third Round Obligation
+This obligation of 640 is defined as the new construction obligation for 1999-2025. The third round
+obligation was established by the Township’s 2018 Settlement Agreement with FSHC and was confirmed
+via an Order issued on July 23, 2018 by the Hon. Menelaos Toskos, J.S.C. ). This number reflects a 30%
+reduction in the third round fair share obligation of 914 units calculated by the expert for FSHC, David
+Kinsey, PhD, PP, FAICP, in May of 2016.
+The settlement number includes both the new construction
+obligation generated during the gap period (1999 to 2015) in addition to the prospective need for the
+period from 2015 to 2025.
+Fourth Round Obligation
+Wyckoff’s fourth round obligation (also referred to as the prospective need) is 334. This obligation is
+defined as the new construction obligation for 2025-2035. The Fair Housing Act, N.J.S.A. 52:27D-304.3.b.,
+describes the obligation as a “projection of housing needs based on development and growth which is
+reasonably likely to occur in a region or a municipality, as the case may be, as a result of actual
+:
+determination of public and private entities. Prospective need shall be determined by the methodology
+set forth pursuant to sections 6 and 7 of P.L.2024, c, 2 (C.52:27D-304.2 and C.52:27D-304.3) for the fourth
+round and all future rounds of housing obligations”. The methodology to calculate the obligation begins
+with determining the need for affordable housing in which the municipality is located. That regional need
+TOWNSHIP-OF WycKOFE, BERGEN:COUNTY
+FourtH Rounb HousinG PLAN
+Page 15
+Apoprep June 25, 2025
+
+===== PAGE 21 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 21 of 70
+Trans ID: LCV20251857468
+ta]
+ib epaunus soca
+is then allocated to each municipality in the region, excluding qualified urban aid municipalities, based on
+an average of three factors: 1) equalized nonresidential valuation factor, which serves as a proxy for the
+municipal share of the region’s change in employment during the previous affordable housing round, 2)
+income capacity factor, which is the municipal share of the region’s median household income, and 3)
+land capacity factor, which is the municipal share of the region’s developable land.
+The Township adopted a resolution committing to the rehabilitation and fourth round obligations on
+January 21, 2025. The resolution committed to a reduced DCA-calculated fourth round obligation. The
+Township’s submission received objections from the New Jersey Builder’s Association and FSHC; however,
+the Township was able to settle with these parties on the fourth round obligation. On May 30, 2025, the
+Hon. Lina P. Corriston, J.S.C. issued an order establishing the Township’s fourth round obligations of 334.
+Vacant Land Adjustment
+A vacant land adjustment is available to those municipalities, such as Wyckoff, that cannot satisfy their
+entire affordable housing obligation using inclusionary housing due to a lack of vacant and developable
+land. The adjustment process is set forth in COAH's rules and is supplemented by related case law. More
+specifically, it is
+a downward adjustment of the obligation to reflect the number of affordable units a
+municipality could theoretically create through new inclusionary development on vacant or underutilized
+land, presuming a density and set-aside consistent with COAH's rules.
+The downward adjusted obligation is known as the realistic development potential, or "RDP". Requesting
+this adjustment does not require the municipality to zone or build on the land identified as developable.
+Notwithstanding, the municipality's Housing Plan must identify compliance strategies that can produce
+enough affordable units and bonus credits to satisfy the RDP. The difference between the RDP and the
+calculated new construction obligation is referred to as the unmet need. COAH’s rules, N.J.A.C. 5:97-5.4(b)
+or N.J.A.C. 5:93-4.2(h), do not require any specific unmet need strategy. Instead, they state one or any
+combination of strategies may be required and do not provide a required quantity of strategies or
+affordable units. The strategies cited include accessory apartments, market to affordable, overlay zoning,
+redevelopment with affordable housing and adoption of a development fee ordinance. Unlike the RDP,
+the unmet need does not need to be fully satisfied; instead, the Township must create adequate
+opportunities for future affordable housing.
+Third Round Vacant Land Adjustment
+The Township’s third round vacant land analysis was initially prepared in 2015.
+It was later amended and
+updated in response to comments received from counsel for the intervenor in the Township's Declaratory
+Judgment action. This vacant land analysis resulted in an RDP of 32.6. However, the Township evaluated
+additional developed or partially developed parcels of land that, if favorably zoned, might redevelop (with
+a small "r") for inclusionary residential purposes and yield affordable housing. These additional parcels
+:
+increased the third round RDP to 46. It should be recognized that this vacant land adjustment is unusual
+in that
+it is partially generated by developed parcels and reflects the bonus credits that might be
+FourTH Rounb:Housine PLAN
+PaGe 16
+Apopteo
+June 25, 2025
+
+===== PAGE 22 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 22 of 70
+Trans ID: LCV20251857468
+sha
+sens sos
+generated. This unusual process was set forth in the 2018 Settlement Agreement with FSHC as well as the
+Order approving that Settlement Agreement, the Township’s third round Housing Plans and the 2021 Final
+Judgment of Repose. See also the Township’s 2018 third round Housing Plan and 2018 Settlement
+Agreement with FSHC for more information.
+Those parcels and the RDP that might be generated by each site are described below.
+«Block 259, Lot 2, located on Franklin Avenue. This lot is occupied by a gas station but is adjacent
+toa
+larger parcel that is included in the RDP calculation and appears on the "short list" (Block 259,
+Lot 1). While Block 259, Lot 2, is small (about one quarter acre), it adds valuable street frontage
+and a small additional amount of unconstrained acreage to Block 259, Lot 1. Together, these two
+lots encompass 3.35 acres, of which 1.85 acres are free of environmental constraints (in this case,
+wetlands).
+Block 259, Lot 2, if developed at a density of 12 units per acre (the same density assigned in the
+RDP analysis to Block 259, Lot 1), would add less than one additional affordable unit to the RDP
+(0.6 units), but if developed in conjunction with Block 259, Lot 1, the overall affordable housing
+yield might be increased by a whole unit. Block 259, Lot 2 was thus added to the RDP calculation,
+increasing the RDP by one (1) unit.
+=
+Block 216, Lots 17.01, 18 and 19, all located on Greenwood Avenue. These lots are all in separate
+ownership and total 23,400 square feet or .537 acres of land.
+Recently, the owners of two of
+these lots have inquired about the possibility of a rezoning as they are isolated from other single-
+family residential development.
+If these lots were to be rezoned so that, when assembled, they
+could be developed as one site with apartments at a density of 12 units per acre (along with a
+small commercial component), as many as 6 total apartments would be possible, of which one
+would be an affordable unit.
+Block 216, Lots 17.01, 18 and 19 was thus added to the RDP
+calculation, increasing the RDP by one (1) unit.
+Fourth Round Vacant Land Adjustment
+The Township continues
+its vacant land adjustment into the fourth round since the fourth round
+obligation, as well as the previous rounds’ obligations, exceeds the vacant and developable land available.
+Review of approvals issued by the Planning Board and Zoning Board, anticipated development and
+construction permits indicate there is no development activity that generates a fourth round RDP since
+the Township’s third round RDP was last calculated. As such, the Township’s RDP remains 46.
+Towwnsuie oF WycKOFF, BERGEN COUNTY
+FourtH Rouno Housine PLan
+PAGE 17
+Aooptep JUNE 25, 2025
+
+===== PAGE 23 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 23 0f 70
+Trans ID: LCV20251857468
+ca _|
+Satisfaction of the RDP
+The Township satisfies its RDP with a mix of family, special needs and senior units, the majority of which
+are constructed and provide rental housing.
+Satisfaction of the 46-unit RDP
+Development
+Housing Type
+Affordable
+Bonus
+Total
+Status
+P
+8 lyP
+Units
+Credits
+Credits
+Block 259,
+| Family Rental pa foo | a | tenet |
+Turtle Creek Condos
+Extensions:
+2
+2
+Completed
+Family Sale
+Block 216,
+.
+Lots 17.01, 18, 19
+remy rentalfe
+| tat
+Block 216,
+.
+Lots 13.08, 13.09, 13.10
+Family Rentafo
+| aon |
+ECCR Group Home
+Special Needs
+Constructed
+Maple Lake (Sarna),
+.
+Block 320, Lots 10.02, 11
+Family Rental
+1
+10
+Zoned
+CHCC Evergreen Court
+Senior Rental
+6 (of 24) Fo | 6 | Constructed |
+Total
+34
+12
+46
+Block 259,
+Lots 1, 2
+Wyckoff addresses a portion of its 46 unit RDP through inclusionary residential development at a density
+of up to 12 units per acre on Lots 1 and 2 in Block 259. Development of Lots 1 and 2 in Block 259 will also
+includea first floor retail component, with the residential portion of the development confined to the
+upper level. At a 15% set-aside for rental affordable units, these two lots would yield approximately 22
+total units, of which 3 would be affordable rental units. While the development is not yet built, the site
+conditions are unchanged from when the zoning was put in place. The density remains appropriate for
+when the property redevelops.
+The affordable units will be restricted, regulated and administered consistent with the Township’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+TOWNSHIP OF WycKoFF, BERGEN COUNTY
+FourtH RouNb HousinG PLAN
+Pace 18
+Apopreb JUNE 25, 2025
+
+===== PAGE 24 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 24o0f 70
+Trans ID: LCV20251857468
+ca_|
+seq.) and the New Jersey
+Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and. This strategy was approved in the
+Township’s third round Judgment of Repose.
+Turtle Creek Condos
+The Township successfully extended the affordability controls on 2 units of affordable family (for sale)
+housing in the Turtle Creek Condominium development, earning it 2 affordable units/credits.
+The affordable units are restricted, regulated and administered consistent with the Township’s affordable
+housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the
+New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq. This strategy was approved in the Township’s
+third round Judgment of Repose.
+Block 216, Lots 17.01,
+18, 19
+The Township will address a portion of its 46 unit RDP through the rezoning of Block 216, Lots 17.01, 18
+and 19, on Greenwood Avenue. These lots, which are currently in separate ownership, total 23,400 square
+feet or .537 acres of land, with no environmental constraints. The zoning allows, if assembled, the lots
+could be developed with apartments at a density of 12 units.per acre (perhaps along with a small
+commercial component), yielding a total of six (6) apartments, of which one (1) would be an affordable
+rental unit, based on a 15 percent set-aside rate for rental affordable units. While the development is not
+yet built, the site conditions are unchanged from when the zoning was put in place. The density remains
+appropriate for when the property redevelops.
+The affordable units will be restricted, regulated and administered consistent with the Township’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing. This strategy was approved
+in the Township’s third round Judgment of Repose.
+Block 216, Lots 13.08,
+13.09, 13.10
+Wyckoff will address a portion of its 46 unit RDP through the rezoning of Block 216, Lots 13.08, 13.09 and
+13.10 (formerly Block 216, Lots 12.01 and 13.04), encompassing a total of 2.39 acres of land. The original
+two lots were assembled and then re-subdivided for single-family residential development as a result of
+a 2008 settlement agreement with their owner, who was, at least at the time, also the owner of the
+Boulder Run Shopping Center. That settlement agreement resulted in 16 affordable family rental units
+being developed on the Boulder Run Shopping Center property (Block 216.01, Lot 24.01). The single-
+family lots across the street have remained undeveloped. The Township rezoned the lots to allow
+;
+apartments to be developed above an appropriately sized commercial component, instead ofthe single-
+family homes for which they are currently zoned. The lots have no environmental constraints, but the
+permitted residential density will be subject to the limitations imposed by the commercial use and its
+TOwnsuip of WyckoFF, BERGEN COUNTY
+FourTH Round HoustnG PLAN
+Pace 19
+Abopteo JUNE 25,2025
+
+===== PAGE 25 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 25of 70
+Trans ID: LCV20251857468
+i
+RMA cis |
+parking demands, which will constrain the overall size of the building that can be built, and this will
+determine how many apartments can be provided.
+It is currently anticipated that the yield would be
+about 12-18 apartment units, in addition to the ground floor commercial component, thus producing at
+least two (2) and perhaps as many as three (3) affordable rental units, using the 15 percent set-aside rate
+for affordable rental units. While the development is not yet built, the site conditions are unchanged from
+when the zoning was put in place. The density remains appropriate for when the property redevelops.
+The affordable units will be restricted, regulated and administered consistent with the Township’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing. This strategy was approved
+in the Township’s third round Judgment of Repose.
+ECCR Group Home
+A five (5) bedroom group home is at 832 Mountain Avenue.
+It is operated by Eastern Christian Children's
+Retreat (ECCR), which also operates three (3) other group homes in Wyckoff (that were credited to the
+Prior Round). Despite its name, all the occupants of the ECCR facilities are aged 18 and over. This group
+home will yield 5 credits, one for each bedroom.
+The group home will be restricted, regulated and administered consistent with the Township’s affordable
+housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the
+New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to affordability
+controls, income distribution, bedroom distribution and phasing. This strategy was approved in the
+Township’s third round Judgment of Repose. Construction is complete.
+United Way/Madeline
+The Township has been working with United Way/Madeline Corporation to fund the establishment of a
+new six (6) bedroom group home on Block 238, Lot 2, a lot located at 370 Clinton Avenue and owned by
+the Township of Wyckoff. The development is constructed. The Township receives 6 credits, one for each
+bedroom, from this development.
+The group home will be restricted, regulated and administered consistent with the Township’s affordable
+housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the
+New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to affordability
+controls, income distribution, bedroom distribution and phasing. This strategy was approved in the
+Township’s third round Judgment of Repose. Construction is complete.
+Maple Lake (Sarna)
+As a result of a settlement with the Intervenor, a portion of the two lots owned by the intervenor (Block
+320, Lots 10.02 and 11) will be rezoned to permit the construction of sixty (60) family luxury apartments
+or condominium units plus one (1) additional unit for the building superintendent. Of the sixty (60) units
+TOWNSHIP OF WYCKOFF, BERGEN COUNTY
+FourTH RounbD Housine PLAN.
+PaGe 20
+Avoprep June 25, 2025
+
+===== PAGE 26 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 26of 70
+Trans ID: LCV20251857468
+RMA con |
+to be sold or rented, 15% or 9 will be affordable family rental units (2 very low, 3 low and 4 moderate,
+distributed as evenly as possible among the required bedroom mix of 2 three-bedroom units, 1 one-
+bedroom unit and 6 two-bedroom units). The balance ofthe site will be acquired by Wyckoff Township
+as
+public open space. While the development is not yet built, the site conditions are unchanged from when
+the zoning was put in place. The density remains appropriate for when the property redevelops.
+The affordable units will be restricted, regulated and administered consistent with the Township’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing. This strategy was approved
+in the Township’s third round Judgment of Repose.
+CHCC Evergreen Court
+The Township has negotiated with Christian Health Care Center (CHCC) to place new UHAC-compliant 30
+year deed restrictions on 24 units of independent living senior citizens housing on which the prior HUD
+contract has expired. This
+is in exchange for allowing CHCC to develop additional market-rate age
+restricted housing elsewhere on the CHCC campus (Vista project). Not all these credits will be eligible for
+inclusion in meeting the current fair share obligation, however, as they would exceed the 25 percent cap
+on age-restricted housing. Based on a 46 unit RDP, a maximum of 11 ofthese units could be credited, but
+the Township will be claiming credit for only 6 age-restricted units to maintain the required ratio of family
+and non-family (age-restricted and group home) units in its Plan. The remaining units will help to address
+the Unmet Need.
+The affordable units are restricted, regulated and administered consistent with the Township’s affordable
+housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et seq.) and the
+New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to affordability
+controls and income distribution. This strategy was approved in the Township’s third round Judgment of
+Repose. Construction is complete.
+Satisfaction of the Unmet Need
+COAH’s rules, N.J.A.C. 5:97-5.4(b) or N.J.A.C, 5:93-4.2(h), do not require any specific unmet need strategy.
+Instead, they state one or any combination of strategies may be required and do not provide a required
+quantity of strategies or affordable units. The strategies cited include accessory apartments, market to
+affordable, overlay zoning, redevelopment with affordable housing and adoption of a development fee.
+Wyckoff relies upon 7 overlay zones, as well as the mandatory set-aside ordinance.
+The Fair Housing Act,
+N.J.S.A. 52:27D-310.1, now states municipalities that receive a vacant land
+adjustment shall identify sufficient parcels to likely to redevelop during the current round to address at
+least 25% of the prospective need obligation that has been adjusted with realistic zoning or demonstrate
+why the municipality is unable to do so. Given the 334 fourth round obligation, this 25% requirement calls
+for 84 affordable units (.25(334)=83.5, rounded up to 84). The Township’s fourth round unmet need
+Towwsnip of WrcxoFF, BERGEN COUNTY
+FourTH Round Housine PLAN
+Pace 21
+AvopreDJUNE 25, 2025
+
+===== PAGE 27 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 27 of 70
+Trans ID: LCV20251857468
+EMA ns |
+strategies provide realistic zoning that exceeds this requirement. The strategies permit 93 affordable
+units, well more than the 84 required, assuming the required 20% set-aside except for those strategies
+that permit a 15% set-aside.
+The Township adopted 7 overlay zone zones and a mandatory set-aside ordinance to address the third
+round unmet need. The Township provides another 8 zoning strategies to meet the fourth round unmet
+need.
+’
+Third Round Unmet Need Strategies
+Development
+Housing Type
+:
+Density
+West Main Street
+Family, multi-family
+12 du/ac
+Sale or rental
+Bergen Brick and Tile
+Family, multi-family, mixed use
+15 du/ac
+Sale or rental
+Chevrolet Dealership and Adjacent
+Family, multi-family, mixed use
+16 du/ac
+Sale or rental
+.
+Family, multi-family, mixed use
+Abma Farm Excess Credits
+Family
+n/a
+Sale or rental
+.
+Senior
+West Main Street
+Overlay zoning on several lots (Block 224, Lots 1.01, 2.01, 3, 4, 6.01, and 7, which are all developed, and
+Block 224, Lot 5.01, which is vacant), all located along the south side of West Main Street. The developed
+lots contain small industrial uses and parking that, in combination with Lot 5.01, might well be ready for
+privately initiated inclusionary residential redevelopment assuming the assemblage of the parcels. The
+lots to the west of these parcels are all residentially developed.
+These lots together total 4.0 net
+developable acres (nearly half of Lot 5.01 is constrained).
+If consolidated and redeveloped at a density of
+12 units per acre, the total yield of all these lots, taken together, would be about 48 units, 10 of which
+would be affordable (based on a 20 percent set-aside, rounded up). To achieve this development and
+accommodate required parking, it may be necessary to permit parking within the building on the ground
+floor level with two stories of apartments above.
+It is intended that the third story be created within the
+Towwnsuip.oF WycKoFF, BERGEN COUNTY:
+FourTH ROUND HousiNG PLAN
+PAGE 22
+ApopreD JUNE 25, 2025
+
+===== PAGE 28 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 28o0f 70
+Trans ID: LCV20251857468
+EMA can |
+roof space over the second floor to reduce the appearance of height without sacrificing roof pitch, in
+consideration of the single-family homes to the west.
+The affordable units will be restricted, regulated and administered consistent with the Township’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing. This strategy was approved
+in the Township’s third round Judgment of Repose.
+Bergen Brick and Tile
+Overlay zoning on the Bergen Brick and Tile Property (Block 202, Lot 78.01) that would permit mixed use
+development, with ground floor retail uses plus one story of apartments above that facing Wyckoff
+Avenue, and one level of parking within the building plus two stories of apartments in the rear. At a gross
+residential density of 15 units per acre,
+it is anticipated that this 2.0 acre site will yield a total of 30
+apartments, of which 6 will be affordable, based on a 20 percent set-aside.
+The affordable units will be restricted, regulated and administered consistent with the Township’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing. This strategy was approved
+in the Township’s third round Judgment of Repose.
+Chevrolet Dealership and Adjacent
+Overlay zoning on three properties, including a Chevrolet dealership and two large industrial properties
+located in the southwest corner of the Township (Block 517, Lot 3.01, and Block 516, Lots 6.03 and 6.04).
+Currently, the two industrial lots are actively used for industrial purposes (they are owned by Maarten's
+Farm, LLC, and Precision Multiple Controls), but in the future, they may no longer be so.
+If these sites
+were to be redeveloped for inclusionary residential development at a gross residential density of 16 units
+per acre, it is estimated that they would yield up to 270 total units, of which 54 would be affordable, based
+on a 20 percent set-aside.
+Wyckoff adopted an overlay zone on these properties to ensure that when
+redevelopment of these properties does occur, inclusionary development with family affordable housing
+will be produced.
+It is intended that Block 517, Lot 3.01, will include non-residential development on the
+ground floor facing Goffle Road. The building heights within the overlay zone are varied such that two or
+two and a
+half story buildings will be constructed adjacent to existing single-family dwellings at the
+perimeter of the overlay zone and that three story buildings will be constructed internally to the overlay
+zone, Intrinsic to the ability to redevelop these sites without undermining the surrounding single-family
+residential neighborhoods will be a strong set of buffering standards and a prohibition against access
+through any of the abutting residential cul-de-sac streets.
+The affordable units will be restricted, regulated and administered consistent with the Township’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+TOwnsuip oF WYckoFF, BERGEN COUNTY
+FourTH Rounb HousinG PLAN
+PaGe 23
+Apopred June 25, 2025
+
+===== PAGE 29 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 29 of 70
+Trans ID: LCV20251857468
+RMA ecw |
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing. This strategy was approved
+in the Township’s third round Judgment of Repose.
+Wyckoff Shopping Center
+Overlay zoning on the Wyckoff Shopping Center property (Block 235, Lot 3). The rear of this 2.42 acre site
+is committed for use as parking for the adjacent park.
+If this property were permitted to have a full second
+story added to its roughly 28,000 square foot ground floor, with such second floor to be used only for
+apartments, it is estimated that 22 apartments could be created on the second floor, keeping the ground
+floor
+for the retail and service businesses that are currently permitted. A total of 22 apartments translates
+to a gross residential density of 10 units per acre calculated on just the 2.16 acre portion of the site that
+is used for commercial purposes (i.e., excluding the public parking area). An affordable housing yield of 5
+affordable units is anticipated (based on a 20 percent set-aside, and rounding up). Wyckoff adopted an
+overlay zone on this property to ensure that should the owner/developer decide to add a full second story
+to the existing building or to a replacement building of similar size, inclusionary residential development
+with family affordable housing will be produced.
+The affordable units will be restricted, regulated and administered consistent with the Township’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing. This strategy was approved
+in the Township’s third round Judgment of Repose.
+Abma Farm Excess Credits
+Excess credits from the eventual development of the Abma Farm site under its current inclusionary zoning.
+The Abma Farm (Block 202, Lot 4)
+is a 27.5 acre family-owned working farm that was zoned for
+inclusionary residential development as part of the Township's first round Housing Element and Fair Share
+Plan.
+It has sewer and water service. The property has retained its inclusionary residential zoning through
+the second round to this day, although
+it has not yet developed for this purpose.
+The Abma Farm
+encompasses
+farmland,
+a
+nursery
+and
+greenhouses
+and
+provides
+popular
+farm-related
+family
+entertainment opportunities throughout the year. The property has some environmental constraints to
+its development, in the form of wetlands and some steep slopes.
+Nevertheless, it can accommodate a
+substantial amount of inclusionary residential development, and when the owner is ready to develop it,
+the inclusionary zoning is in place. Any excess units created on this site that are not needed to fulfill the
+balance of the prior round obligation, will be applied to the Unmet Need.
+The affordable units will be restricted, regulated and administered consistent with the Township’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing. This strategy was approved
+in the Township’s third round Judgment of Repose.
+FourTH ROUND HousinG PLAN
+Pace 24
+Apoprep JUNE 25, 2025
+
+===== PAGE 30 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 30 of 70
+Trans ID: LCV20251857468
+cha]
+CHCC Evergreen Court excess units
+Eighteen (18) units of the 24 age-restricted units at CHCC that are not being used to address the RDP are
+available to address the unmet need, provided the number of age-restricted units applied against the
+Unmet Need does not exceed 25 percent of the portion of the Unmet Need that will be satisfied with
+other units and credits.
+The affordable units will be restricted, regulated and administered consistent with the Township’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing. This strategy was approved
+in the Township’s third round Judgment of Repose.
+Mandatory Set-aside Ordinance
+This ordinance requires all multi-family residential development which is not currently permitted but
+receives approval for construction or new zoning to provide a 15% affordable housing set-aside where the
+affordable units are for rent and a 20% affordable housing set-aside where the affordable units are for
+sale. All affordable units shall be restricted, regulated and administered consistent with the Township’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C, 5:80-26.1 et
+seq.) and the New Jersey
+Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This shall include but is not limited
+to income distribution, bedroom distribution, and phasing.
+Fourth Round Unmet Need Strategies
+Development
+Housing Type
+Density
+Squaw Brook Church
+Family, townhouse and single-family
+3 du/ac
+Sale or rental
+168 & 174 Franklin Avenue
+Family, townhouse and single-family
+4.5 du/ac
+Sale or rental
+B-1 District along
+Family, mixed-use, multi-family and townhouses
+10 du/ac
+Godwin Ave. and Franklin Ave.
+Sale or rental
+B-2 District along
+Family, mixed-use, multi-family and townhouses
+10 du/a
+Godwin Ave. and Crescent Ave.
+Sale or rental
+c
+825 Wyndham Court
+Family, multi-family and townhouses
+10 du/ac
+Sale or rental
+439 Franklin Avenue
+Family, townhouse and single-family
+8 du/ac
+Sale or rental
+TOWNSHIP OF WYCKOFF, BERGEN COUNTY
+FourTH ROUND HousinG PLAN
+Pace 25
+Aoopreo June 25, 2025:
+
+===== PAGE 31 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 31 of 70
+Trans ID: LCV20251857468
+ca__|
+Fourth Round Unmet Need Strategies
+Development
+Housing Type
+Density
+Goffle Road Expanded Area
+Family, mixed-use, multi-family and townhouses
+10 du/ac
+Sale or rental
+500 West Main Street
+Family, multi-family and townhouses
+10 du/ac
+Sale or rental
+475 Lafayette Avenue
+Family, townhouse and single-family
+8 du/ac
+Sale or rental
+Squaw Brook Church
+This 6 ac. (approximately) property along Squaw Brook road is occupied by a vacant church (Block 437,
+Lots 18, 19, 20.02. The Township will rezone the property to permit townhouses and limited single-family
+homes at a density of 3 du/ac and an affordable housing set-aside of 20% set-aside for for-sale units and
+a 15% set-aside for rental units. The site has significant environmental constraints, including wetlands and
+flood hazard area, which constrain the development potential. The developer contacted the Township for
+inclusion in this Housing Plan and through those discussions, the ordinance (including the density) has
+been crafted to accommodate the requested inclusionary development.
+The affordable units will be restricted, regulated and administered consistent with the Township’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (NJ.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing.
+168 & 174 Franklin Avenue
+This 2.5 ac. (approximately) area along Franklin Avenue is occupied by single-family homes in disrepair
+and is in a single-family neighborhood. While wetlands and flood hazard area impact the rear of the
+property, the property can accommodate inclusionary townhouses and single-family homes at a density
+of 4.5 du/ac and an affordable housing set-aside of 20% set-aside for for-sale units and a 15% set-aside
+for rental units.
+The affordable units will be restricted, regulated and administered consistent with the Township’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing.
+TOWNSHIP OF WYCKOFF, BERGEN COUNTY
+Fourth Round HousinG: PLAN
+Pace 26
+Aoopreo June 25, 2025
+
+===== PAGE 32 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 32 of 70
+Trans ID: LCV20251857468
+!
+ca _|
+B-1 District along Godwin Ave. and Franklin Ave.
+This 7.2 ac. (approximately) portion of the B-1 commercial district is occupied by various commercial uses
+and is proximate to other inclusionary districts as well as residential uses. Zoning will permit mixed-use
+inclusionary townhouses and multi-family development at a density of 10 du/ac and an affordable housing
+set-aside of 20% set-aside.
+The affordable units will be restricted, regulated and administered consistent with the Township’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing.
+B-2 District along Godwin Ave. and Crescent Ave.
+This 4.64 ac. (approximately) portion of the B-2 commercial district is occupied retail and commercial uses
+and
+is adjacent to single-family homes as well as commercial uses. Zoning will permit mixed-use
+inclusionary townhouses and multi-family development at a density of 10 du/ac and an affordable housing
+set-aside of 20% set-aside.
+The affordable units will be restricted, regulated and administered consistent with the Township's
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing.
+825 Wyndham Court (Block 203, Lot 3.04):
+This 4.0 ac. (approximately) area is occupied by a commercial use but is adjacent to townhouses and
+single-family homes. While the northern portion modestly impacted by flood hazard area, the property
+can accommodate townhouse and multi-family development and will be zoned to permit a density of 10
+du/ac and an affordable housing set-aside of 20% set-aside.
+The affordable units will be restricted, regulated and administered consistent with the Township's
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing.
+139 Franklin Avenue (Block 208, Lots 76, 77):
+This 6.55 ac. (approximately) site is occupied by Wyckoff Assembly of God. It is adjacent to single family
+development. Zoning will permit townhouses and single-family development at a density of 8 du/ac and
+an affordable housing set-aside of 20% set-aside.
+The affordable units will be restricted, regulated and administered consistent with the Township's
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+TowwsuiP oF WycKore, BERGEN COUNTY
+FourTH ROUND HOUSING PLAN
+PAGE 27
+AoopreD JUNE 25, 2025
+
+===== PAGE 33 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 33 0f 70
+Trans ID: LCV20251857468
+MA cu |
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing.
+Goffle Road Expanded Area
+This is a 4.27 ac. (approximately) area that is adjacent to an existing third round unmet need strategy. The
+property is occupied by various commercial and industrial uses. Zoning will permit mixed-use inclusionary
+townhouses and multi-family development at a density of 10 du/ac and an affordable housing set-aside
+of 20% set-aside.
+The affordable units will be restricted, regulated and administered consistent with the Township's
+affordable housing regulations, the Uniform Housing Affordability Controls rules (NJ.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing.
+500 West Main Street
+(Block 222,
+Lot 1.01
+This 13.7 ac. (approximately) area is occupied by various commercial and industrial uses, but adjacent
+uses include single-family homes, townhouses and industrial
+uses.
+Zoning will permit mixed-use
+inclusionary townhouses and multi-family development at a density of 10 du/ac and an affordable housing
+set-aside of 20% set-aside.
+The affordable units will be restricted, regulated and administered consistent with the Township's
+affordable housing regulations, the Uniform Housing Affordability Controls rules (NJ.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing.
+475 Lafayette Avenue
+(Block 483,
+Lots 38.01, 46
+This 6.23 ac. (approximately) property is occupied by Abundant Life Reformed Church and parsonage and
+is surrounded by single-family homes. Zoning will permit inclusionary townhouses and single-family
+development at a density of 8 du/ac and an affordable housing set-aside of 20% set-aside.
+The affordable homes will be restricted, regulated and administered consistent with the Township’s
+affordable housing regulations, the Uniform Housing Affordability Controls rules (N.J.A.C. 5:80-26.1 et
+seq.) and the New Jersey Fair Housing Act (N.J.S.A. 52:27D-301 et seq.). This includes but is not limited to
+affordability controls, income distribution, bedroom distribution and phasing.
+TOWnsuiP OF WycKOFF, BERGEN COUNTY
+FourtH ROUND HOUSING PLAN
+PAGE 28
+ApvopreD JUNE 25,2025
+
+===== PAGE 34 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 34o0f 70
+Trans ID: LCV20251857468
+KMA
+|
+mbsneivausssocuts
+Distribution of Affordable Units
+In addition to meeting the total 46 RDP, the Township must also meet a rental obligation, maximum senior
+units, family obligation, and the very low income obligation.
+Maximum Bonus
+«Maximum bonus credits = equal to the rental obligation
+| 12 (see below)
+=
+Maximum bonus credits for any increased RDP will be limited to 25%ofthe increased RDP. Bonus
+credits equal to the rental obligation are applicable because the RDP was generated in the second
+and third rounds.
+=
+The RDP is satisfied with 12 bonus credits.
+Minimum Rental
+=
+Minimum rental units = 25% (units meeting the RDP)
+|
+.25 (46) = 11.5, rounded to up to 12
+=
+The Township exceeds this requirement. None of the Township’s unmet need strategies are
+restricted to for-sale units.
+Maximum Senior
+=
+Maximum age-restricted units = 30% (units meeting the RDP) (25% of the RDP the third round)
+|
+.25 (46) = 11.5, rounded down to 11.
+=
+Only 6 units from the CHCC Evergreen Court development are reserved for seniors. None of the
+Township’s unmet need strategies are restricted to seniors.
+Minimum Family
+=
+Minimum family units = 50% (units meeting the RDP)
+| .5 (33) =17
+=
+The Township exceeds this requirement. None of the Township’s unmet need strategies, except
+for carryover credits, are restricted to non-family units.
+Minimum Family Rental
+«Minimum family rental = 50% (rental obligation)
+| .5 (12) = 6
+=
+The Township exceeds this requirement. None of the Township’s unmet need strategies are
+restricted to owner-occupied units and none are restricted to non-family units, except for
+carryover credits.
+TOwnsuip oF WycKOoFF, BERGEN COUNTY
+|
+FourtH Rounb Housine PLAN
+PAGE 29.
+Apoprep JUNE 25, 2025
+
+===== PAGE 35 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 35of 70
+Trans ID: LCV20251857468
+ca _|
+Minimum Very Low Income
+=
+Minimum very low income units = 13% (fourth round units created or approved on orafter July
+1, 2008)
+| .13 (32) = 4.16, rounded up to 5
+=
+This requirement is satisfied. All the developments contributing to this requirement will also
+satisfy it.
+Minimum Family Very Low Income
+=
+Minimum family very low income units = 50% (very low income obligation)
+| .5 (5) = 2.5, rounded
+up to3
+=
+This requirement is exceeded. All the developments contributing to this requirement will also
+satisfy it.
+CONSISTENCY WITH THE STATE DEVELOPMENT AND REDEVELOPMENT PLAN
+The Township is in Planning Area 1, the Metropolitan Planning Area. Development and redevelopment
+with affordable housing is consistent with the goals and policies of the 2001 State Development and
+Redevelopment Plan. In fact, Planning Area 1 is a preferred location for affordable housing pursuant to
+5:93-5.4.
+;
+AFFORDABLE HOUSING ADMINISTRATION & AFFIRMATIVE MARKETING
+Wyckoff Township’s Affordable Housing Ordinance and affirmative marketing plan is in part, but will be
+further amended to be, consistent with the Fair Housing Act , the Uniform Housing Affordability Control
+Rules, N.J.A.C. 5:80-26.1 et seq., and the Division of Local Planning Services Fair Housing Act Rules, N.J.A.C.
+5:99. As of the adoption of this Housing Plan, the latter two are in the process of being amended.
+The Township’s Affordable
+Housing Ordinance,
+Section
+77
+of the Township
+Code, governs the
+establishment of affordable units in the Township as well as regulating the occupancy of such units. The
+Township’s Affordable Housing Ordinance addresses the phasing of affordable units, the low/moderate
+income split, bedroom distribution, occupancy standards, affordability controls, establishing rents and
+prices, affirmative marketing, income qualification, etc. All newly created affordable units, with limited
+exceptions, will comply with the affordability control period of 30 years for sale units or
+40 years for rental
+units, as required by the Fair Housing Act and the Uniform Housing Affordability Control Rules.
+The Township created the position of the Municipal Housing Liaison and appointed a staff member to the
+position.
+The
+consultant
+affordable
+housing
+administrator
+overseeing
+any
+affordable
+housing
+development will conduct the administration and affirmative marketing of the applicable affordable
+TOwnsuHiP OF WYCKOFF, BERGEN COUNTY
+Fourth RounD HousinG PLAN
+Pace 30
+Aooprep June 25, 2025
+
+===== PAGE 36 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 36 of 70
+Trans ID: LCV20251857468
+MAA sca |
+housing sites. The affirmative marketing plan will be designed to attract buyers and/or renters of all
+majority and minority groups, regardless of race, creed, color, national origin, ancestry, marital or familial
+status, gender, affectional or sexual orientation, disability, age or number of children to the affordable
+units located in the Township. Additionally, the affirmative marketing plan is intended to target those
+potentially eligible persons who are least likely to apply for affordable units and who reside in the
+Township’s housing region, Region 1 consisting of Bergen, Passaic, Hudson, Sussex counties.
+The affirmative marketing plan provides regulations for qualification of income eligibility, price and rent
+restrictions, bedroom distribution,
+affordability control periods, and marketing in accordance with
+N.J.A.C. 5:80-26.1 et seq. This plan must be adhered to by all private, non-profit, and municipal developers
+of affordable housing and must cover the period of deed restriction or affordability controls on each
+affordable unit.
+AFFORDABLE HOUSING TRUST FUND
+A development fee ordinance creating a dedicated revenue source for affordable housing was approved
+by COAH on February 28, 2006 and adopted by the municipality on June 5, 2006 An amended ordinance
+(Ordinance No. 1866) was most recently adopted by the Township on November 20, 2018 and was subject
+to the July 23, 2018 Order Granting Conditional Compliance. The ordinance, which is Section 113 of the
+Township Code, creates a dedicated revenue source for affordable housing in the form of residential and
+nonresidential development fees and establishes and regulates the affordable housing trust fund. The
+ordinance requires residential development fees in the amount of 1.5% of the equalized assessed value
+of
+the residential development and nonresidential development fees in the amount of 2.5% of the
+equalized assessed value of the nonresidential development.
+The Township’s Spending Plan discusses anticipated revenues, collection of revenues, and the use of
+revenues. Collected revenues are placed in the Township’s Affordable Housing Trust fund and may
+dispensed for the use of eligible affordable housing activities including, but not limited to:
+=
+Rehabilitation program activities.
+«New construction of affordable housing units and related development costs.
+=
+Extension of expiring affordability controls.
+*
+Purchase market rate units for conversion to affordable housing units.
+=
+Extensions or improvements of roads and infrastructure directly serving affordable housing
+development sites.
+=
+Acquisition and/or improvement of land to be used for affordable housing.
+=
+Maintenance and repair of affordable housing.
+Towwnsuip oF WycxoFF, BERGEN COUNTY
+FourTH Rounb HousinG PLAN
+Pace 31
+Aooprep JUNE 25, 2025
+
+===== PAGE 37 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 37 of 70
+Trans ID: LCV20251857468
+MA ce |
+«Repayment of municipal bonds issued to finance low- and moderate-income housing activity.
+=
+Any other activity as specified in the approved spending plan.
+As required by the Fair Housing Act, the Township will expend a portion of its collected development fees
+on affordability assistance to enhance affordability of affordable units. Additionally, no more than 20% of
+the revenues collected from development fees shall be expended on administration, including, but not
+limited to, salaries and benefits for municipal employees or consultant fees necessary to prepare or
+implement a rehabilitation program, a new construction program, a housing element and fair share plan,
+and/or an affirmative marketing program.
+.
+TOwNsH!P.OF WyckoFF, BERGEN COUNTY
+FourTH RounD HousinG PLAN
+PAGE 32
+Aooprep JUNE 25, 2025
+
+===== PAGE 38 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 38 of 70
+Trans ID: LCV20251857468
+KEY, 1ST & 2ND ROUND
+ff
+1- Abma
+oS. \
+2 - Fieldstone Manor
+fi
+PN
+3 - Residences at Boulder Run
+ie ve Ss
+4 - Wyckoff Commons
+OC CTE
+“MERKEN ea
+5 - Turtle Creek
+cian alias
+an paecicesnunincee
+S
+LSASK]
+(ay
+XY
+ny
+‘ OUTATTESTED AG parrett:-Lane, SI
+6
+- CCHC - Evergreen
+Fe
+icesmeenn
+eetee,
+Court/Longview
+ey
+1 15
+pee
+Ae Je saganibaner EAH
+7
+- Easter Christian Children's
+Tiffs, lioseg oreeree oe NOTTS SU
+Retreat: Willow Lodge, Oak
+a)”hy Es Cg
+Poo a
+Lodge, Holly Lodge
+EELPP nfLTeT cat nie eragd
+ats
+Lf
+TT
+beAEE
+SINCACHE
+Ty
+8 - Barrister Run
+SHUNT ACI
+SURG TEN
+RESONOfFei
+one
+is
+SHIM atoneTEINS
+Searceontn oeay
+lky
+By
+HePUCOIEN
+Geisieocallay
+KEY, THIRD ROUND RDP
+iss)vasees fas: DON
+EN
+ON
+Tn
+1 - B216, L17.01,18,19
+PES elsio
+an _ Sy
+COSsnes
+2.-
+B216, L13.08,13.09,13.10
+feces Missfhei
+ace cw
+) SUSAN
+S|
+7
+Ry
+CFE OSC
+YSER,
+pO
+AYES
+38238 L
+HTTies,PeRQ’
+4 - B259, L1,2
+.
+ETE
+NRO RN
+aN
+SISOS
+MKS
+és
+Hors wity
+CVO SLING ON —SENCAS
+5 - B293, L16.02
+ES) PITS RR COIR
+CEREROLVOWNL RAP
+‘
+See
+aity
+hes er SIO ORTON
+NP SENSORY,
+COREL
+6 - B320, L10.02,11
+Pa %, LTRS Seeepee:OSS
+9
+BAR7
+LO TIT
+Ta
+te ROR
+ROS QOOOQEIN OOS
+7 - B437, L2
+%, UTETe
+TONKS
+SINGS
+8 - B443, L49.03
+aEi nual Y REL
+YD ONG
+EGE
+SC? WIA
+|
+LIMO
+Te
+£7
+DENIER
+OSS)
+DOTY
+QOH
+KEY, THIRD ROUND
+Hee isha)Bes
+UNMET NEED
+RESTIONETRE ILI RON IRON
+CORSRIEL TA, RTI ORBLE RETRES
+FIRES IER OR
+BLT LIES UO IR
+eS
+EESSSS
+NS
+IESGGSS
+1 - B202, LA
+PIS)A IRON PR
+bo ROM GORY
+SOR
+nal SONS PSONS OS
+2 - B202, L78.01
+Beek
+ee
+LO
+ROUT REM,
+RORREEE Sig
+,
+L101,
+Rg
+»
+‘
+Sui
+5 - B443, L49,03
+NOS
+LI MARE NORIO
+ey
+Sel,
+6 - BS16, L.6.03,6.04,
+EHROSoe 4 Roe Ue
+y
+Fe
+1% \
+Bet
+OR
+CNS>
+sa
+iver
+B517,
+13.01
+es Oe
+RVC 8 Sag
+|
+OO a 5
+ONG
+DG
+Wc en
+ROL
+TTI
+QW
+OX AM
+PE STEE
+Yes
+BRONTE)
+EN NG Mea
+Re/7 TY? Me TOR 8
+SX BBC ERR SCoees Col
+DUES SASS
+RW, CERES e PROSE
+*
+in SENS OS RUSSO
+wegReTRYpee
+Legend
+CRY
+BoyRosyxy
+(J First and Second Round Strategies
+KEY, FOURTH ROUND UNMET NEED
+<x
+(EJ Third Round RDP Strategies
+4 - 825 Windam Court
+wd)
+CJ Third Round Unmet Need Strategies
+; "Godwin Ave semont Ave B-1 District
+(£2) Fourth Round Unmet Need
+4 - 168, 174 Franklin Ave
+icipal
+d
+5 - 139 Franklin Ave
+CJ Municipal Boundary
+6 - Godwin Ave & Crescent Ave B-2 District
+Wetlands
+7 - Squaw Brook Road Church
+8 - 475 Lafayette Ave Road
+EJ
+Flood Hazard Areas
+9 - Goffle Ave Area
+AFFORDABLE HOUSING STRATEGIES
+KMA
+FOURTH ROUND HOUSING PLAN
+0
+05
+mi
+.
+mi
+LAINE cocunts | TOWNSHIP OF WYCKOFF | BERGEN COUNTY
+o
+DATA SOURCES: Flood Zones, FEMA;
+Other GIS Data, NJ DEP
+
+===== PAGE 39 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 39 of 70
+Trans ID: LCV20251857468
+APPENDIX 1.
+HOUSING, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+2025 FOURTH ROUND HOUSING PLAN
+HOUSING ELEMENT & FAIR SHARE PLAN
+TOWNSHIP OF WYCKOFF
+BERGEN COUNTY
+NEW JERSEY
+ta
+
+===== PAGE 40 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 40of 70
+Trans ID: LCV20251857468
+ca]
+TABLE
+OF CONTENTS
+Table 1: Population Trends (1920-2020)..ccclesssesseecesesesesssesseeteassestsrsarssessscsrsesesssassessssseseenseaeestee L
+Table 2: Population by Age and Sex .cscsscssseseersssessesssesessseesesssessstsseseeesussesssessecesessesstsesaeseessssssesesesessecatae2
+Table 3: Population Change by Age, 2013 to 2023 ....cccssssesccsssensesesreestsesrssssesesesusssssasseseseeesessesssnessteee2
+Table 4: Household Size ..cccecsesesesssesssseseesssssssesseasssesesssevescssessverssesssesussessensssesssesusaneussesesssaeenseneaennesseeed
+Table 5: Family and Nonfamily HOUSCHOIS .......ccsssesssessessseesserssessesscssenesecsesessessesssuessessssssesussusetussneesseeee d
+Table 6: Educational AttainMent......ccccscesssesssstcssesssessessecesesasseensssasseersesstseneseseseseessseessncassssassnsssssessecesesel
+Table 7: Race and Ethnicity
+0... ssscsnesscesssesesseccsnssscenscessescsssessssesssssseeeensecsssscsseessseesssesssesesseesesses
+Table 8: Household INCOME....c.ccssesseesssrerststesesesessesesesesssssssssssessesesusesseetsssesenesensueeeasesesieersusseseetsneseeeseeD
+Table 9: Poverty Rate ..cccccsessssesecssssssscseacsssesenesssessetstsesssssssenesesssesssssesesessessecssacssecssseessssesesesessseesseeresO
+Table 10: Unemployment Rate...csssscccesssseesssssesssetsssesecsesessssscsssassssstsessesssacseessssessessssessrsaeseseeeO
+Table 11: Class Of WOrkeriocsssssscssssssssessessersesrscsssvasesseecssseseesssssseessesssessscssssasasssssssssusaesessseneasseasssarseasseeseee7
+Table 12: OCCUPATION oo... eecsceetsestccseseseseseessescatscssscerseesssacsesensseecesssevsssessesseaeassesesesseesesesesessecsesssestecassressae7
+Table 13: INGUStry...sseseseetssesescestsesssesssesssetssecssscssstesseesssseessenesstscessessassessssscaesssesssassesacessssessecsssssestessessesese
+Table 14: Quarterly Census of Employment and Wages, 2023, WYCKOff ........ccsesscesseeceseseseteseeerseseseneeD
+Table 15: MeansofTransport to Work ...scsesessessssenerescestecsesessassecersenssesesnecstscsssersscssseesesseesscassesesceeeeLO
+Table 16: Travel Time to Work vc csesessssesessesseessrsnsecansessssesesseceeeucaesseuessseseensscseseeneseatseesssassusssseeaserssseseeesLO
+Table 17: Total Vehicles Available .......sssssesssessssssessessesesssssssssessssesessssssssssvssesssssessssesssesusesesesseeaeeebd
+Table 18: Total Population in Occupied Units by Tenure vc cccscsssessensesescssetsssssessecsssssscserseasesseeeeeLL
+Table 19: Occupancy Status .....cccecrccserereeeecsssessesssnssesssscsesssesssesssessesessassrsesessessssaseeeeneseetseeeereeed
+Table 20: Vacancy Status....ssseresersssserscescsessssressssesssssssessssesscsssseesssssesussssessssssssessussesesrssesesssseaeeeee
+Table 21: Units in Structure...c.cccecesssssssseccsssssssssrssssssssrserssesssssecssssesesasssansesssesessesenssnsesaesseceeeseeeLD
+Table 22: Units in Structure by TEnure....ccccsesseeesesssenesesessssescnsssseetsssssessenssseeeseeseseesssussessesessesseesLS.
+Table 23: Year Structure BUIIt.
+cesses ssssestessssssseassessssscseasssseersusscersensassessteseerseesstueseesseseseesLA
+Table 24: Number of Bedrooms, HOUSING StOCK.....c.ccsesecesetstetessecssescssssassesessseesesesscssseseesseeecsesssssseaessessLD
+Table 25: Rooms Per HOUSING UNit....ccscesecessecsecssseseseetestesseecsssssssesssssesssssssseessssessesseascseescsseaeeseesLD
+Table 26: Housing Quality INdicatOrs....c.cssccessesteseseeeetetseceseerseneaserstsnsaesneessesesesrsssesseseseeseseeeseesLO
+Table 27: Year Moved In.s.sessesssssessssesssvessessssseessssesssssssesssvsssesesveesssessssesssessvasevsssssessssssssssessssessssesesssseenseeeLZ
+Table 28: Mortgage Status ..csssessscssesseessescsssescseserstssnssssseasessecscsstecsssssssssessensssesesssssecsesseeneesesseL7
+Housing, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+Drart May.29, 2025
+
+===== PAGE 41 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 41 of 70
+Trans ID: LCV20251857468
+cha]
+Table 29: Home ValUeS......secesessesseesesseseseersssesissssescsessssesssesseesssssvsssessssesvssvssersessessseeaesesssersessseesLB
+Table 30: Home Sales v..eseeseeesecsnssessessnssnsesnersecsnecnecnneesecsersecsenecsessnesnesiessnessneasessseesnesseessees18
+Table 31: Residential Tax ASSCSSMENHS ...ccsscscecssesesesessersesssesssesseesesereseseecnssssesneesucasserasesesesesesseeeesLO
+Table 32: Burden of Housing Costs, All HOUSCHOIAS.....cscsceccssstserstetsterscsssseesrensesteeseesesesssscseescssesseasses LO
+Table 33: Burden of Housing Costs, Owner-Occupied HOUSING ....ssecescessesesstessseescsssssesssssesssesssessssesseees20
+Table 34: Monthly Costs, Homeowners with a Mortgage...cssccsssssscecseessetesssreneseesesseessesenssessesssseaveses20
+Table 35: Monthly Costs, Homeowners Without a Mortgage v...ssseccsessccssssesssenssesssesssesessesessessscscasses2M
+Table 36: Burden of Housing Costs, Renter-Occupied HOUSING .....ssescsesscsesesesseessessseseecssteesserssseeseees2h
+Table 37: Gross RENE .c.cscssssssssssssssseeseessscesesessssssesssvesssersesesssessessassessessssssseassssssssseesssssssseesesassesssssarsesnsererenes22,
+Table 38: Total Housing Permits Issued Per Year, 2004-2023... ssscsseesccsesesecssecsescserscssserssseseesesassesessees22
+Table 39: Total Housing Permits Issued by Type, 2004-2023 ...cesssssessrsseseseecssstsesssscssssesstsesesescsesesen23
+Table 40: Certificates of Occupancy, 2014-2023 ..scssecsscseserecseeeteresesteesesseaseesssesneesssacstssssseeresnesessseesQA
+Table 41: Demolition Permits, 2004-2023 .....ccssssecsseresssssserssessesseeserseessessesssessssassusessessasueeessessaeeees2D
+Table 42: Net Housing Permits, 2004-2023 .....cusccescsssessceeeressesssecssecsscesccsesssecsesecssssesscsenrerevseessesssaresssees20
+Table 43: Building Permits, Nonresidential Construction, 2004-2023 .o....csesscsscecssseserseseerssteessesesesen27
+Table 44: Long-term Population, Household and Employment Forecasts ......scssscsessseeseseseseesesesresseeeees28
+HousinG, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+Drart May 29, 2025
+
+===== PAGE 42 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 42 of 70
+Trans ID: LCV20251857468
+!
+EMA cca |
+DEMOGRAPHIC ANALYSIS
+The largest population increases in Wyckoff’s history came in the middle of the twentieth century. The
+number of residents jumped in the 1940s, increasing by 45.3%. Growth accelerated even more during the
+1950s, when the population of the community doubled, rising to 11,205 persons, a 100.4% increase.
+Population growth continued during the 1960s, with the community added residents at an 43.1% clip. The
+influx of residents suddenly came to an end in the 1970s. At this time, an exodus of residents occurred
+from Bergen County, which experienced a population decline of 5.9%. For its part, Wyckoff’s population
+dropped by 8.5% during the 1970s and 0.8% in the 1980s. The population rebounded in the 1990s, when
+it grew by 7.4%, before stagnating once again, with a tepid increase of 1.1% in the first decade of the
+twenty-first century followed by a net decrease of residents in the 2010s, when the number of residents
+slipped by 0.7%. This put the population of the municipality at 16,585 persons.
+It should be noted here that, although the total population data in Table 1 is drawn from the Decennial
+U.S. Census survey, all subsequent Census Bureau data contained herein comes from the 2019-2023
+American Community Survey (ACS), which is calculated as a 5-year estimate.
+Table 1: Population Trends (1920-2020)
+Wyckoff
+Bergen County
+New Jersey
+Year
+Total
+% Change,
+Total
+% Change,
+Total
+% Change,
+Population
+P&CAde-OM-
+po itation
+Pecade-on-
+portation
+Decade-on-
+P
+Decade
+P
+Decade
+P
+Decade
+40 | 3ea7 || ages || ansos ||
+1950
+5,590
+45.3%
+539,139
+31.6%
+4,835,329
+16.2%
+1960
+11,205
+100.4%
+780,255
+44.7%
+6,066,782
+25.5%
+1970
+16,039
+43.1%
+898,012
+15.1%
+7,171,112
+18.2%
+1980
+15,500
+845,385
+7,365,011
+1990
+15,372
+825,380
+7,730,188
+2000
+16,508
+884,118
+8,414,350
+2010
+16,696
+905,116
+8,791,894
+2020
+16,585
+955,732
+9,288,944
+Source: Census Bureau, Decennial Census; NJ State Data Center, NJ Dept. of Labor and Workforce Development
+Table 2 shows the population cohorts for Wyckoff as of 2023. There are more women living in Wyckoff
+than men, with the former comprising 52.0% of the population to 48.0% for the latter (Table 2). The
+median resident is 47.4 years of age. The 35-to-54 age group, those most likely to be raising children, is
+the largest age group, accounting for almost a quarter of the population, or 24.6%. Interestingly, younger
+adults, those between the ages of 20 and 34, make up only 9.6% of the population. The community has
+an appreciable number of children and youths. Persons 5 to 19 years of age comprise 21.3% of the
+population while children under the age of 5 total 4.7% of residents. The second-largest cohort are
+TOWNSHIP OF WycKOFF, BERGEN COUNTY
+PAGEL
+HousinG, DEMOGRAPHIC& EMPLOYMENT ANALYSIS
+
+===== PAGE 43 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 43 of 70
+Trans ID: LCV20251857468
+MA cca |
+persons 65 years of age and older, who number 21.4% of persons living in Wyckoff. Persons 55 to 64 years
+of age make up the remaining 18.4% of residents.
+Table 2: Population by Age and Sex
+Total Population
+Male
+Female
+Age Group
+9
+9
+9
+Number
+% of
+Number
+% of
+Number
+% of
+Population
+Population
+Population
+Under 5 years of age
+5 to 19 years of age
+3,599
+21.3%
+1,737
+21.5%
+1,862
+21.2%
+20 to 34 years of age
+1,617
+9.6%
+852
+10.5%
+35 to 54 years of age
+4,141
+24.6%
+1,853
+22.9%
+2,288
+26.1%
+55 to 64 years of age
+3,106
+18.4%
+1,456
+18.0%
+1,650
+18.8%
+65+ years of age
+3,604
+21.4%
+1,681
+20.8%
+1,923
+21.9%
+16,866 |
+100.0%
+8,085
+100.0%
+8,781
+100.0%
+Median Age
+47.4
+45.6
+48.6
+Source: Census Bureau, 2019-2023 5-Year American Community Survey
+Population trends show an aging community. Table 3 illustrates the changes among the various cohorts
+between 2013 and 2023. During that time, the two oldest cohorts increased by 1,510 persons. At the same
+time, the rest of the population decreased by 1,431 persons. The population of 35-to-54 year old
+population has actually fallen since 2013, decreasing by 17.6%, while the number of persons between 20
+and 34 years of age dropped by 13.1%, At the same time, the population of persons 5 to 19 years of age
+sank by 8.6%. The upshot ofthese shifts is that the median age increased from 44.0 to 47.4 years of age.
+Table 3: Population Change by Age, 2013 to 2023
+2013
+2023
+Change, 2013 to 2023
+Age Group
+%, Total
+%, Total
+Total
+a
+a
+9
+2013
+Population
+2023
+Population
+Change
+% Change
+Under
+5 years of age
+5 to 19 years of age
+3,936
+23.4%
+3,599
+21.3%
+20 to 34 years of age
+1,861
+11.1%
+1,617
+-13.1%
+35 to 54 years of age
+5,028
+30.0%
+4,141
+24.6%
+-17.6%
+55 to 64 years of age
+2,394
+14.3%
+3,106
+18.4%
+29.7%
+65+ years of age
+2,806
+16.7%
+3,604
+21.4%
+28.4%
+Median age
+44.0
+47.4
+3.4
+7.7%
+Source: 2009-2013, 2019-2023 5-Year American Community Survey
+Wyckoff is home to 5,897 households in all. Households in Wyckoff are relatively large compared to the
+rest of the state. The average household size for the community is 2.79 persons, eclipsing the respective
+TOWNSHIP OF WycKOFF, BERGEN COUNTY
+.
+PaGE2
+HousinG, DEMOGRAPHIC& EMPLOYMENT ANALYSIS
+
+===== PAGE 44 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 44of 70
+Trans ID: LCV20251857468
+KAA cus |
+averages for Bergen County and New Jersey, 2.67 and 2.61 persons (Table 4). All told, 11.2% of households
+consist of five persons or more. By comparison, only 10.2% of households in Bergen County and New
+Jersey alike have so many persons. Three- and four-person households make upa relatively large portion
+of the community, or 35.4% of households. The community has an ample number of two-person
+households as well, totaling 34.5% in all. One-person households, though, are relatively uncommon,
+accounting for only 19.0% of all households, compared to 24.0% in Bergen County overall.
+Table 4: Household Size
+Wyckoff
+Bergen County
+New Jersey
+Household Size
+Total
+%
+Total
+%
+Total
+%
+1,121
+19.0%
+84,720 | 24.0% | 918,897 | 26.4%
+2,033
+34.5%
+107,385 | 30.4% | 1,081,842 | 31.1%
+16.0% | 65,235 | 18.5% | 594,946 | 17.1%
+1,144
+19.4%
+60,083 |
+17.0% |
+530,520 | 15.3%
+24,662
+218,492
+[éperson||
+ka | 7,815
+79,678
+7-person household or more
+} 46 |
+038% |
+3,407
+53,980
+Total households
+5,897
+100.0%
+353,307
+100.0%
+3,478,355
+100.0%
+Average household size
+2.79
+2.67
+2.61
+‘
+Source: 2019-2023 5-Year American Community Survey
+Wyckoff is a place rich in family, with family households accounting for 78.9% of all households in the
+township (Table 5). Statewide, family households constitute only 67.8% of households. In Wyckoff, family
+households consist of 3.22 persons on average, marginally higher than the county and state average, 3.19
+persons for each. The average nonfamily household, though, consists of only 1.11 persons, smaller than
+the average nonfamily household in Bergen County or New Jersey.
+Table 5: Family and Nonfamily Households
+Bergen
+Household Type
+Wyckoff
+County
+New Jersey
+Total family households
+78.9%
+71.5%
+67.8%
+Total nonfamily households
+21.1%
+28.5%
+32.2%
+Average household size, family households
+Average household size, nonfamily households
+Source: 2019-2023 5-Year ACS
+Wyckoff residents have exceptionally high rates of educational attainment. Of all residents at least 25
+years of age, 67.3% have at least a bachelor’s degree while 28.0% have a graduate or professional degree
+(Table 6). These figures surpass those of Bergen County, where 52.6% and 21.3% of residents have at least
+TOWNSHIP OF WYCKOFF, BERGEN COUNTY
+Pace3
+Housine, DEMOGRAPHIC & EmPLoyMeNT ANALYSIS
+
+===== PAGE 45 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 45of 70
+Trans ID: LCV20251857468
+cha_|
+a bachelor’s degree and graduate degree, respectively. In all, 97.5% have earned a high school diploma.
+Given the strong relationship between educational attainment and income, the high levels of education
+play a major role in shaping the township’s economy.
+Table 6: Educational Attainment
+Highest level of education
+Wyckoff
+Bergen
+New Jersey
+County
+Less than 9th grade
+ath to 12th grade, no diploma
+High school graduate (includes equivalency)
+14.5%
+20.1%
+25.7%
+Some college, no degree
+13.5%
+15.3%
+Bachelor's degree
+39.3%
+31.3%
+25.8%
+Graduate or professional degree
+28.0%
+21.3%
+17.1%
+High school graduate or higher
+97.5%
+92.9%
+90.7%
+Bachelor's degree or higher
+67.3%
+52.6%
+42.9%
+.
+Source: 2019-2023 5-Year ACS
+Most residents are white, but not Hispanic, or 85.5% of the population (Table 7). This is well in excess of
+the comparable figure for Bergen County, where 52.5% of the population is white and not Hispanic.
+Another 1.3% of the community is Hispanic and white. Overall, 6.8% of the community is Hispanic, a
+relatively low percentage for a state where 21.9% of residents are Hispanic. Asian-Americans comprise
+5.3% of residents, just over half the share statewide, 9.8%%. Black residents only total 0.8% of the
+community, a fraction of the population share statewide, 13.0%. Persons of multiple races make up 6.6%
+of residents.
+Table 7: Race and Ethnicity
+Race and Ethnicity
+Wyckoff
+county
+New Jersey
+Non-Hispanic (All Races)
+93.2%
+77.9%
+78.1%
+85.5%
+52.5%
+51.9%
+12.3%
+16.6%
+.
+Other Race Alone
+Hispanic (All Races)
+22.19%
+21.9%
+Hispanic, White
+Hispanic, Black
+TOWNSHIP OF WycKoFF, BERGEN COUNTY
+Pace4
+HousinG, DEMOGRAPHIC & EMPLOYMENT ANALYSIS.
+
+===== PAGE 46 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 46 of 70
+Trans ID: LCV20251857468
+ME cu |
+os
+Bergen
+Race and Ethnicity
+Wyckoff
+County
+New Jersey
+Hispanic, Other
+Hispanic, Two or More Races
+.
+Source: 2019-2023 5-Year ACS
+SOCIOECONOMIC ANALYSIS
+Household incomes are relatively high compared to other communities. According to the most recent
+American Community Survey, 49.0% of households have an income of at least $200,000 (Table 8). As such,
+the median household income is $196,632, almost double the figure for New Jersey, $101,050. For its
+part, the mean household income for households in the township is 268,613. Given the upward skew of
+the mean, it’s reasonable to conclude that Wyckoff is home to a small number of extraordinarily high-
+earning households. Another 28.9% of households have an income between $100,000 and $199,999,
+Altogether, 77.9% of households have an income of $100,000 or greater. As for those with fewer means,
+10.6% of households have an income less than $50,000. This is well below the figure in the larger county
+and state, 19.8% and 25.2%, respectively.
+Table 8: Household Income
+Household Income
+~
+Wyckoff
+Bergen
+New Jersey
+County
+Less than $25,000
+11.9%
+$25,000-$50,000
+10.8%
+13.3%
+$50,000-$100,000
+11.5%
+21.2%
+24.3%
+$100,000-$200,000
+28.9%
+30.6%
+29.7%
+More than $200,000
+49.0%
+28.4%
+20.7%
+| Median Household Income
+$196,632
+123,715
+$101,050
+Mean Household Income
+$268,613
+169,191
+$140,299
+Source: 2019-2023 5-Year ACS
+The poverty rate for Wyckoff is only 2.4% (Table 9). This is well below the county poverty rate of 6.7%.
+Seniors in Wyckoff havea slightly higher risk of poverty, with a poverty rate of 3.0%. The poverty rate for
+seniors is even higher in the county as a whole, 8.3%. The community fares better on child poverty, with
+only 1.5% of persons under the age of 18 living in poverty, compared to 7.5% for Bergen County and 13.3%
+for New Jersey.
+TOWNSHIP OF WYCKOFF, BERGEN CounTY
+Paces
+HousinG, DEMOGRAPHIC & EMPLOYMENT ANALYSIS.
+
+===== PAGE 47 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 47of70
+Trans ID: LCV20251857468
+ca]
+Table 9: Poverty Rate
+:
+Bergen
+Poverty Status
+Wyckoff
+County
+New Jersey
+Poverty Rate, Overall
+Poverty Rate, Under 18 years of age
+13.3%
+Poverty Rate, Seniors
+Source: 2019-2023 5-Year ACS
+Over the past decade, the municipal unemployment rate stayed consistently below the state- and
+countywide rates. The unemployment rate trended downward throughout the 2010s, reaching a low of
+2.3% in 2019. The unemployment rate subsequently shot up to 7.4% in 2020, with the advent of Covid,
+before tapering back down to 3.0% in 2022. Even then, Wyckoff withstood the economic disruption from
+the pandemic far better than the rest of the county and state, where the unemployment rate spiked
+respectively to 9.2% and 9.4% in 2020. The data indicate that employment and, by extension, household
+finances are relatively stable.
+Table 10: Unemployment Rate
+Bergen
+Year
+Wyckoff
+County
+New Jersey
+;
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Source: NJ Dept. of Labor and Workforce Development
+For-profit companies employ 64.0% of the township’s working population, higher than the share at the
+state- or county-level (Table 11). The municipality also has a high percentage of self-employed residents,
+15.7% in all. By comparison, only 11.5% of the employed population in Bergen County and 9.0% in New
+Jersey is self-employed. The relatively high share of self-employed residents suggests the presence of
+entrepreneurs and workers with specialized talent who can work for themselves. An additional 12.4% of
+employed residents are government workers. Non- and not-for-profit employees account for 7.9% of
+working residents.
+TOWNSHIP‘OF WyckoFe, BERGEN COUNTY
+Pace6
+HousinG, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+
+===== PAGE 48 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 48of 70
+Trans ID: LCV20251857468
+ita]
+Ines HeNURS assoCAtES
+Table 51: Class of Worker
+Class of Worker
+Wyckoff
+Bergen
+New Jersey
+County
+For-profit company employee
+64.0%
+67,9%
+69.2%
+Not-for-profit employee
+Government Worker
+12.4%
+12.5%
+14.2%
+Self-employed, business owner
+Source: 2019-2023 5-Year ACS
+Data for various occupation types reinforces how relatively skilled the Wyckoff workforce is compared to
+overall population. Irrespective of the industry, 64.2% of the employed population of Wyckoff works in a
+management, business, science, or arts position (Table 12). These are individuals who possess the
+specialized level of skills and knowledge required for these roles. Workers in positions that require fewer
+skills compose a relatively small share of the working population. Only 4.7% of Wyckoff workers work in
+production, transportation, and moving, compared to 8.6% in Bergen County and 11.3% in New Jersey.
+Similarly, 3.6% of residents work in
+natural resources, construction, and maintenance, below the
+respective shares for the county and state, 5.2% and 6.9%. Workers in service occupations comprise 8.5%
+of the employed population, which is, again, below the figures for Bergen County and New Jersey
+Table 62: Occupation
+.
+Bergen
+Occupation
+Wyckoff
+County
+New Jersey
+Management, business, science, and arts
+64.2%
+53.3%
+46.9%
+12.4%
+14.8%
+Sales and office occupations
+19.0%
+20.4%
+20.0%
+occupations
+Production, transportation, and material moving
+11.3%
+Source: 2019-2023 5-Year ACS
+Wyckoff residents are employed in all of the major industrial sectors, but the professional, scientific, and
+management sector is especially critical to the local economy. This sector employs 17.3% of Wyckoff’s
+employed population, significantly higher than the county- and statewide rates, 16.4% and 15.4%,
+respectively. (Table 13) According to the US Bureau of Labor Statistics, these are “activities that require a
+high degree of expertise and training” and encompass professions as disparate as the law, accounting,
+and engineering. The financial sector also figures prominently. Of working residents, 13.9% work in the
+finance, insurance, and real estate sector, compared to 10.3% statewide. The community also has a
+higher-than-average share of residents who work in the educational services and information sectors,
+13.0% and 3.2%. Significantly, a large number of residents work in the healthcare sector, a
+critical
+TOWNSHIP.OF WYCKOFF, BERGEN COUNTY
+PAGE 7
+HousinG, DEMOGRAPHIC& EMPLOYMENT ANALYSIS
+
+===== PAGE 49 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 49 of 70
+Trans ID: LCV20251857468
+EMP cs |
+component of the twenty-first century. In all, 15.3% of the employed population work in the healthcare
+sector, compared to 13.3% statewide.
+Table 73: Industry
+Bergen
+New
+Ind
+Ww
+ndustry
+yckoff
+County
+Jersey
+Agriculture, forestry, fishing and hunting, and mining
+Transportation and warehousing, and utilities
+Finance and insurance, and real estate and rental and leasing
+13.9%
+12.0%
+10.3%
+Professional, scientific, and management, and administrative
+17.3%
+16.4%
+15.4%
+and waste management services
+Educational services
+13.0%
+8.9%
+Health care and social assistance
+15.9%
+14.4%
+13.3%
+Arts, entertainment, and recreation, and accommodation
+4.6%
+1.9%
+4.8%
+and food services
+Other services except public administration
+Source: 2019-2023 5-Year ACS
+As of 2023, 5,853 persons worked in Wyckoff, according to the US Department of Labor’s Quarterly Census
+of Employment and Wages (Table 14). Of this, 5,365 persons worked for private sector employers while
+488 persons worked in the public sector. Healthcare and social assistance account for a significant share
+ofjobs, with 1,384 healthcare workers based in Wyckoff. The community is also home to a large number
+of retail jobs as well, accounting for 872 workers in all.
+Accommodations and food services is the third
+largest sector by employment, representing 500 workers, but paying far lower wages, with an average
+annual income of $29,339. The construction sector is also integral to the economy, with an estimated 361
+workers based in the municipality at an average salary of $76,026. Most public sector workers work for
+the school district and local government agencies, which employ an estimated 454 workers.
+TOwwnsuip of WycxoFr, BERGEN COUNTY
+Paces
+HousinG, DEMOGRAPHIC& EMPLOYMENT ANALYSIS.
+
+===== PAGE 50 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 50 of 70
+Trans ID: LCV20251857468
+RMA cus |
+Table 84: Quarterly Census of Employment and Wages, 2023, Wyckoff
+Sector
+Total Workers
+Average Annual
+Income
+FEDERAL GOVT
+34
+$79,526
+|
+LOCAL GOVT AND EDUCATION
+454
+$74,432
+[Agriculture
+jutlities
+35
+| Unclassified
+PRIVATE SECTOR TOTALS.
+5,365
+$58,090
+Source: QCEW, NJ Dept. of Labor and Workforce Development
+Most Wyckoff residents travel to work by car. Approximately 62.8% of the working population drives to
+work alone while another 4.4% carpool. A sizable segment of the labor force, 6.3%, uses public
+transportation to get to work. Even so, this is less than the comparable figure for Bergen County, a place
+well-served by mass transit and where 11.2% of workers commute via public transportation. Critically, a
+quarter of employed residents telecommute, or 25.1%, and far surpassing the respective state- and
+countywide shares, 15.0% and 16.1%. Work from home is feasible for the many self-employed residents
+of Wyckoff, not to mention the many professional and management workers who inhabit the township.
+A small percentage of workers, 1.2%, walk to work, so presumably some businesses are located within
+walking distance of residential neighborhoods.
+HousinG, DEMOGRAPHIC& EMPLOYMENT ANALYSIS
+
+===== PAGE 51 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 51 of 70
+Trans ID: LCV20251857468
+ca]
+Table 15: Means of Transport to Work
+Bergen
+Means of Transport
+Wyckoff
+County
+New Jersey
+62.8%
+60.6%
+63.7%
+Carpooled
+Public transportation
+11.2%
+Walked
+Taxicab, motorcycle, or other means
+Worked from home
+25.1%
+16.3%
+15.0%
+Source: 2019-2023 5-Year ACS
+Many workers who do commute have slightly longer trips than persons commuting from other New Jersey
+communities. The mean travel time for commuters living in the township is 31.6 minutes, higher than the
+New Jersey mean, 30.9 minutes (Table 15). In general, commuters in Bergen County tend to have slightly
+longer commutes, with a mean travel time of 31.3 minutes. All told, 46.5% of Wyckoff commuters have a
+commute of at least a half hour.
+A comparatively low percentage of Wyckoff residents have a commute
+of less than 15 minutes, 18.3%, less than in either Bergen County or New Jersey. Another 35.1% of Wyckoff
+have a commute of between 15 and 30 minutes while a further 19.6% have a commute lasting between
+30 and 45 minutes. Just over a tenth of commuters, 10.8% havea trip to work of between 45 and 59
+minutes, while 16.1% of commuters have a trip to work of an hour or more.
+Table 16: Travel Time to Work
+Travel Time
+Wyckoff
+Bergen
+New Jersey
+County
+Less than 10 minutes
+10.0%
+10.2%
+10 to 14 minutes
+11.6%
+11.5%
+15 to 19 minutes
+16.1%
+12.1%
+13.1%
+20 to 24 minutes
+14.0%
+12.4%
+12.9%
+25 to 29 minutes
+30 to 34 minutes
+11.0%
+13.2%
+13.7%
+35 to 44 minutes
+45 to 59 minutes
+10.8%
+16.1%
+16.7%
+14.2%
+Mean travel time to work (minutes)
+31.6
+31.3
+30.9
+Source: 2019-2023 5-Year ACS
+TOWNSHIP OF WycKOoFF, BERGEN COUNTY
+Pace 10
+HousinG, DEMOGRAPHIC & EMPLOYMENT ANALYSIS.
+
+===== PAGE 52 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 52 of 70
+Trans ID: LCV20251857468
+cha]
+Roughly three in eight households in Wyckoff, 37.5%, have three or more cars (Table 17). This percentage
+is significantly higher than the comparable figures for the county and state, 29.7% and 30.3%. An
+additional 48.8% of households have two automobiles. In other words, 86.3% of households possess two
+or more cars. By comparison, only 72.0% of Bergen County households and 70.2% in New Jersey as a
+whole have two cars or more. As for the remaining households in the community, approximately one-
+eight, 12.7%, have one motor vehicle while 1.0% do not have a car at all.
+Table 17; Total Vehicles Available
+.
+Bergen
+Total Vehicles
+Wyckoff
+County
+New Jersey
+12.7%
+24.0%
+23.3%
+48.8%
+42.3%
+39.9%
+37.5%
+29.7%
+30.3%
+Source: NJ.2019-2023 5-Year ACS
+HOUSING ANALYSIS
+Homeownership is the predominant form of tenure in Wyckoff. That is, 93.3% of residents live in owner-
+occupied housing units (Table 18). The remaining 6.7% ofthe populace are rental tenants. The tenure data
+for Wyckoff stand in stark contrast to Bergen County and New Jersey, where only 65.4% and 63.7% of the
+population lives in owner-occupied housing.
+Table 18: Total Population in Occupied Units by Tenure
+Bergen
+Tenure
+Wyckoff
+County
+New Jersey
+Owner-Occupied
+93.3%
+65.4%
+63.7%
+Renter-Occupied
+34.6%
+36.3%
+Source: 2019-2023.5-Year ACS
+There are relatively few vacant housing units in Wyckoff. To be precise, 6.1% of housing units in the
+municipality are vacant (Table 19). The community actually has a higher percentage of vacant housing
+than Bergen County, where 4.1% of units are vacant. The statewide rate, 7.9%, is appreciably higher than
+the respective municipal and county figures.
+TOWNSHIP OF WYCKOFF, BERGEN COUNTY
+Pace 11
+HousinG, DEMOGRAPHIC& EMPLOYMENT ANALYSIS
+
+===== PAGE 53 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 53 of 70
+Trans ID: LCV20251857468
+KMA
+|
+ti Men
+oC
+Table 19: Occupancy Status
+Bergen
+Occupancy Status
+Wyckoff
+County
+New Jersey
+93.9%
+95.9%
+92.1%
+|
+Source: 2019-2023 5-Year ACS
+Houses for sale account for an estimated 7.6% of housing vacancies while 15.2% of vacant homes have
+been sold (Table 20). The latter in particular is indicative of
+a hot housing market. In addition, 5.0% of
+vacant units are for rent while 7.0% have already been leased, but have not yet been occupied. Housing
+units used for recreational or seasonal use also account for 5.8% of vacant units, close to the percentage
+in Bergen County, 4.9%. The remaining 58.5% of units are vacant for other reasons.
+Table 20: Vacancy Status
+Bergen
+Vacancy Status
+Wyckoff
+County
+New Jersey
+29.4%
+16.0%
+For sale only
+12.5%
+Sold, not occupied
+15.2%
+10.2%
+For seasonal, recreational, or occasional use
+43.7%
+58.5%
+38.2%
+27.1%
+Source: 2019-2023 5-Year ACS
+The housing stock in Wyckoff is composed predominantly of single-family homes. To be exact, 85.9% of
+homes are detached one-family residences, with a further 7.2% of units single-family attached (Table 21).
+This is a far greater share of the housing stock than elsewhere in Bergen County, where one-family
+detached units represent a narrow majority of the total housing stock, or 53.2%. Attached one-family
+units account for an even greater share of the statewide housing stock, with 10.0% of all units.
+Two-family residences account for 2.5% of homes while 0.3% are in buildings with 3 or 4 dwellings. The
+remainder of the housing stock is situated in multifamily buildings, typically defined in New Jersey as a
+building with five or more housing units. Of this, 1.5% of housing in Wyckoff is in buildings between 5 and
+20 units; 1.9% is located in multifamily buildings of between 20 and 49 units; and 0.8% is comprised of
+units in apartment buildings with 50 units or more. Multifamily housing makes up a far larger share
+countywide, accounting for 22.1% of housing in Bergen County.
+Towwnsuip OF WyckOFE, BERGEN COUNTY
+Page 12
+HousinG, DEMOGRAPHIC& EMPLOYMENT ANALYSIS
+
+===== PAGE 54 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 54of 70
+Trans ID: LCV20251857468
+EMP cu |
+Table 21: Units in Structure
+;
+Bergen
+Housing Type
+Wyckoff
+County
+New Jersey
+1, detached
+85.8%
+53.2%
+52.7%
+1, attached
+10.0%
+12.6%
+20 to 49
+105%
+Mobile home
+Source: 2019-2023 5-Year ACS
+The scarcity of multifamily housing is
+a major reason why so few renters live in Wyckoff. Buildings with
+five or more housing units provide for 50.6% of the state’s rental housing (Table 22). Single-family
+residences account for a smaller percentage of rental housing in New Jersey, with 11.7% of rental units
+located
+in one-family attached residences and 8.4% in one-family attached residences. The split
+is
+different for Wyckoff, where detached one-family homes account for a majority of renter-occupied units,
+51.3%. Two-unit structures contain 14.0% of rental housing in the township. Approximately a third of the
+rental units in Wyckoff are in multifamily buildings. Building of between 5 and 9 units account for 9.6% of
+rental homes while structures with 10 to 19 units comprise 3.4% of the rental stock. As for larger
+apartment buildings, buildings with 20 to 49 units constitute almost a fifth ofall rental units, 19.3%, while
+buildings with 50 units or more comprise only a small share, 2.4%.
+Table 92: Units in Structure by Tenure
+Wyckoff
+Bergen County
+New Jersey
+Housing Type
+Owner-
+Renter-
+= Owner-
+Renter-
+| Owner- _ Renter-
+Occupied
+Occupied
+Occupied
+Occupied
+Occupied
+Occupied
+1, detached
+92.1%
+40.1%
+75.9%
+12.3%
+77.1%
+11.7%
+1, attached
+11.2%
+10.2%
+14.0%
+22.4%
+15.5%
+13.4%
+13.8%
+10 to 19
+11.4%
+20 to 49
+19.3%
+5.2% |
+19.5%
+18.4%
+Township of WycKoFe, BERGEN COUNTY
+Pace 13
+HousinG, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+
+===== PAGE 55 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 55of 70
+Trans ID: LCV20251857468
+:
+ca.
+Wyckoff
+Bergen County
+New Jersey
+Housing Type
+Owner-
+Renter-
+— Owner-
+Renter-
+| Owner-
+_Renter-
+Occupied
+Occupied
+Occupied
+Occupied
+Occupied
+Occupied
+Mobile home
+Source: 2019-2023 5-Year ACS
+As mentioned above, much of Wyckoff’s historical population growth came in the middleofthe twentieth
+century. It should be no surprise, then, that a majority of Wyckoff homes were constructed between 1940
+and 1970 (Table 23). While 5.3% of homes were built in the 1940s, development did not begin in earnest
+until the 1950s, when 20.8% of residences were erected. The 1960s left the largest legacy in terms of
+housing as over a quarter of Wyckoff homes were built in that decade. Housing construction occurred
+steadily in the subsequent decades of the twentieth century, with 8.3% of homes built in the 1970s, 9.8%
+in the 1980s, and 7.1% in the 1990s. As for the twenty-first century, 11.5% of housing units have been
+built since 2000.
+Table 103: Year Structure Built
+.
+Year Structure Built
+Wyckoff
+Bergen
+New Jersey
+County
+Built 2020 or later
+Built 2010 to 2019
+Built 2000 to 2009
+Built 1990 to 1999
+Built 1980 to 1989
+8.2%
+11.9%
+Built 1970 to 1979
+9.4%
+12.4%
+Built 1960 to 1969
+25.6%
+14.1%
+13.0%
+Built 1950 to 1959
+20.8%
+21.0%
+14.1%
+Built 1940 to 1949
+10.7%
+Built 1939 or earlier
+11.6%
+19,4%
+17.5%
+Source; 2019-2023 5-Year ACS
+Homes in Wyckoff are large relative to the housing stock in the rest of the county and state. Overall,
+almost three-fifths of homes in the township, or 59.2%, have four bedrooms or more (Table 24). This
+figure easily eclipses the respective shares for New Jersey and Bergen County, 25.6% and 27.2%. Another
+28.7% of Wyckoff homes have three bedrooms. Only 12.1% of residences have two bedrooms or less. In
+contrast, 41.8% of homes in Bergen County have two bedrooms or less, while statewide, the figure is
+42.7%,
+TOWNSHIP OF WyckoFF, BERGEN COUNTY
+. Pace 14
+Housing, DEMOGRAPHIC& EMPLOYMENT ANALYSIS.
+
+===== PAGE 56 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 56of 70
+Trans ID: LCV20251857468
+ca]
+Table 24: Number of Bedrooms, Housing Stock
+Total Bedrooms
+Wyckoff
+Bergen
+New Jersey
+County
+.
+15.9%
+14.2%
+22.9%
+25.5%
+28.7%
+31.0%
+31.8%
+44.7%
+19.9%
+19.7%
+14.5%
+5.9%
+Source: 2019-2023 5-Year ACS
+The bevy of large houses in Wyckoff also shows up in the rooms per housing unit data. Almost two-fifths
+of homes in Wyckoff, 39.3%, have nine rooms or more (Table 25). Overall, the median home in Wyckoff
+has 8 rooms. Countywide, the median number of rooms is 6.4, with only 16.1% of residences having 9
+units or more. At the state level, the median number of rooms is 5.7 while only 15.2% of housing units
+have 9 rooms or more. The data do indicate a scarcity of homes of moderate size. Homes with five rooms
+or less account for just 12.5% of units in the township compared to 45.3% of units countywide. The
+community’s single-family character and high incomes surely contribute to the expansiveness of the
+homes built in the township.
+Table 25: Rooms Per Housing Unit
+Total Rooms
+Wyckoff
+Bergen
+New Jersey
+County
+11.3%
+10.5%
+14.0%
+15.2%
+13.7%
+15.8%
+11.3%
+15.7%
+15.4%
+15.3%
+12.5%
+12.0%
+21.6%
+10.4%
+10.4%
+39.3%
+16.1%
+15.2%
+Median rooms
+8.0
+6.4
+5.7
+Source; 2019-2023 5-Year ACS
+Some households occupy homes in substandard condition. For instance, 1.0% of residential units lack
+complete kitchen facilities, slightly higher than the percentage in Bergen County (Table 26). Meanwhile,
+0.3% of homes lack telephone service while 0.2% lack complete plumbing facilities. Moreover, no homes
+in Wyckoff lack complete plumbing facilities. Still, few households, 0.1% in
+all, live in overcrowded
+TOWNSHIP OF WyckoFF, BERGEN:-COUNTY
+Page 15
+HousinG, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+
+===== PAGE 57 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg57of 70
+Trans ID: LCV20251857468
+ca]
+conditions, with more than one occupant per room. Moreover, no households lack fuel to heat their
+home, according to the American Community Survey. Natural gas supplied by a utility is the most widely
+used heating fuel, warming 91.9% of homes. Electricity is used by 5.2% of households while oil heats 2.1%
+of homes.
+Table 26: Housing Quality Indicators
+Home Heating Fuel
+Wyckoff
+county
+New Jersey
+Lacking facilities
+Occupants Per Room
+Source: 2019-2023 5-Year ACS
+Long-time residents form a sizable segment of the community (Table 26). A noteworthy 35.9% of
+householders moved
+into their residence before 2000, compared to 25.8% in Bergen County. By
+extension, 64.1% of householders in Wyckoff moved into their home in the twenty-first century, less than
+the 73.7% for Bergen County. While a sizable number of householders have moved into their homes in
+the last 15 years, 39.1%, this is below the respective percentages for New Jersey and Bergen County,
+57.5% and 54.6% of householders have moved into their homes in the last fifteen years.
+HousinG, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+
+===== PAGE 58 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 58of 70
+Trans ID: LCV20251857468
+EMA cnn |
+Table 27: Year Moved In
+B
+Year Moved In
+Wyckoff
+ergen
+New Jersey
+County
+Moved in 2024 or later
+Moved in 2018 to 2020
+14.1%
+18.1%
+20.6%
+Moved in 2010 to 2017
+20.3%
+28.8%
+28.6%
+Moved in 2000 to 2009
+25.0%
+19.6%
+19.2%
+Moved in 1990 to 1999
+18.3%
+~
+12.0%
+11.4%
+Moved in 1989 and earlier
+17.6%
+13.8%
+11.9%
+Source; 2009-2013 5-Year ACS
+HOUSING MARKET ANALYSIS
+Approximately 63.6% of Wyckoff homeowners have a mortgage while 36.4% do not (Table 28). The
+percentage of homeowners who have a mortgage is slightly higher than the share countywide, where
+62.2% of homeowners have a mortgage.
+Table 28: Mortgage Status
+Bergen
+Mortgage Status
+Wyckoff
+County
+New Jersey
+With a mortgage
+63.6%
+62.2%
+64.4%
+Without a mortgage
+36.4%
+37.8%
+35.6%
+Source: 2019-2023 5-Year ACS
+Home values in Wyckoff
+are steep compared to most other communities in New Jersey (Table 29). Overall,
+39.3% homes are valued in excess of $1,000,000, approximately three times the share for Bergen County,
+13.2%, and roughly six times the statewide share of 6.6%. An additional 29.2% are valued at $750,000 or
+above, In other words, 68.5% of owner-occupied residences are valued at $750,000 or above. By
+comparison, only 28.0% of owner-occupied homes in Bergen County havea value of at least $750,000.
+Another 25.4% of Wyckoff homes have a value between $500,000 and $749,999, Only one in ten homes
+have a value of less than $500,000, well below the corresponding figures for the county and state, 37.0%
+and 61.8%, respectively. Needless to say, the median home value in Wyckoff, $908,900, far outstrips the
+median in county and state alike, $593,200 and $427,600.
+TOWNSHIP OF WycKOFF, BERGEN COUNTY
+PaGe17
+HousinG, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+
+===== PAGE 59 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 59of 70
+Trans ID: LCV20251857468
+EMA ecu |
+Table 29: Home Values
+.
+Bergen
+Vi
+Home
+Value
+Wyckoff
+County
+New Jersey
+Less than $100,000
+$100,000 to $299,999
+23.6%
+$300,000 to $499,999
+26.9%
+33.8%
+$500,000 to $749,999
+21.4%
+35.0%
+23.0%
+$750,000 to $999,999
+29.2%
+14.8%
+$1,000,000 or more
+39.3%
+13.2%
+Median home value
+$908,900
+$593,200
+$427,600
+Source: 2019-2023 5-Year ACS
+In the five years preceding the pandemic, the price of homes remained steady, fluctuating between
+$749,772 and $812,283 (Table 30). That changed with the onset of Covid and the mass adoption of
+telecommuting, as demand for homes in Bergen County surged. While home sales in Wyckoff rose after
+2020, they did not soar to the extent it did in other communities. All the same, the surge in home prices
+affected Wyckoff as well. In a five-year period, the average sales price in Wyckoff climbed from $770,169
+in 2019 to $941,272 in 2024, a 24.9% gain. Over the same period, the average sales price in Bergen County
+jumped by 40.1%.
+Table 30: Home Sales
+Wyckoff
+Bergen County
+Year
+TotalSales
+AvgSalesPrice
+TotalSales
+Avg Sales Price
+2015
+$749,772
+6,659
+$531,621
+2016
+$760,051
+7,240
+$542,180
+2017
+$812,283
+7,478
+$551,413
+2018
+$755,726
+7,220
+$557,781
+2019
+$770,169
+7,134
+$564,353
+2020
+$776,961
+6,078
+$576,109
+2021
+$818,684
+8,976
+$632,342
+2022
+$885,195
+8,254
+$710,852
+2023
+$935,468
+5,998
+$745,400
+2024
+$941,272
+4,914
+$790,381
+Source: NJ Division of Taxation, NJ Treasury
+TOwnsuiP.oFf WycKorF, BERGEN COUNTY
+PAGE 18
+HousinG, DEMOGRAPHIC& EMPLOYMENT ANALYSIS
+
+===== PAGE 60 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 60 of 70
+Trans ID: LCV20251857468
+MA os |
+In spite of home prices skyrocketing, homeowners have not yet been hit with higher property tax bills. As
+of 2024, the average assessed value of for residential lots in Wyckoff was $810,110 This marks a net
+increase of $31,769, a relatively modest increase. Over the same period, the average home assessment in
+Bergen County increased from $466,051 to $550,530.
+Table 111: Residential Tax Assessments
+Year
+Total Lots,
+Average
+Total Lots,
+Average
+Wyckoff
+Assessment
+Bergen County
+Assessment
+2016
+5,543
+$778,341
+250,060
+$466,051
+2020
+5,535
+$794,026
+251,684
+$489,055
+2024
+5,535
+$810,110
+253,254
+$550,530
+Source: NJ Division of Taxation, NJ Treasury
+Wyckoff residents are somewhat better situated to meet the cost of housing than their peers in the rest
+of Bergen County. The share of households that are deemed cost-burdened, those spending 30% or more
+of household income on housing costs, is below the share in the wider county, with 27.6% of Wyckoff
+households cost-burdened compared to 34.5% in Bergen County (Table 32). Another 19.6% of households
+spend between 20% and 29% of their income on housing. More than half of the households in the
+community, 50.5%, expend less than 20% of their income on housing, surpassing the countywide figure
+of 41.9%. Given how steep home values in Wyckoff ate, the comparatively lighter cost burden is surely
+due to the high incomes earned by residents in the community.
+Table 32: Burden of Housing Costs, All Households
+Housing Costs as % of Household Income
+Wyckoff
+Bergen
+New Jersey
+County
+Less than 20% of household income
+50.5%
+41,9%
+39.3%
+20 to 29% of household income
+19.6%
+21.6%
+22.9%
+30% or more of household income
+27.6%
+34.5%
+35.7%
+Source: 2019-2023 5-Year ACS
+Homeowners are under less financial strain than renters. Of all homeowners, 25.5% spend at least 30% of
+their income on housing (Table 33). Of the remaining households, 53.3%, spend less than 20% of their
+income on housing, somewhat more than in Bergen County as a whole, while an additional 20.2% of
+Wyckoff homeowners allocate between 20% and 29% of their income towards the cost of housing.
+Towwsuip of Wycxorr, BERGEN COUNTY
+PaGe 19
+Housin, DEMOGRAPHIC & EMPLOYMENT ANALYSIS
+
+===== PAGE 61 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 61 of 70
+Trans ID: LCV20251857468
+i
+Ka_|
+Table 123: Burden of Housing Costs, Owner-Occupied Housing
+Housing Costs as % of Household Income
+Wyckoff
+Bergen
+New Jersey
+County
+:
+Less than 20% of household Income
+53.3%
+47.6%
+48.1%
+20 to 29% of household income
+20.2%
+22.3%
+22.7%
+30% or more of household income
+25.5%
+29.5%
+28.5%
+Source: 2019-2023 5-Year ACS
+In terms of monthly costs, 83.4% of households with a mortgage pay $3,000 or more on housing (Table
+34). This exceeds the rate for Bergen County, or 66.3%. Housing costs are so steep that the Census simply
+lists
+a median monthly cost of ‘$4,000+’ by default. Housing is expensive throughout the Garden State,
+where the median monthly cost for homeowners with a mortgage is $2,767. In Bergen County, the median
+cost for homes with a mortgage is $3,470 per month.
+-
+Table 34: Monthly Costs, Homeowners with a Mortgage
+.
+Bergen
+Monthly housing costs.
+Wyckoff
+County
+New Jersey
+Less than $500
+$500 to $999
+$1,000 to $1,499
+$1,500 to $1,999
+13.7%
+$2,000 to $2,499
+9.8%
+17.7%
+$2,500 to $2,999
+14.8%
+17.0%
+$3,000 or more
+83.4%
+66.3%
+42.7%
+Median monthly housing cost
+$4,000+
+$3,470
+$2,787
+Source: 2019-2023 5-Year ACS
+Monthly housing costs are necessarily lower for those households without a mortgage. Still, housing costs
+are relatively high for these households as well. These expenditures go towards taxes, insurance
+payments, utilities, and other fees.
+In all, 93.0% of Wyckoff households without a mortgage pay $1,000
+per month or more in housing costs (Table 35). This exceeds the countywide share of 83.9% and the
+statewide share of 67.1%. Here, too, the median cost per month for Wyckoff is the Census assigned
+default, ‘$1,500+’. Of remaining households, 3.8% of spend between $800 and $1,000 per month on
+housing, 1.3% spend between $600 and $800 a month, while 3.1% spend less than $600 a month on
+housing. The latter figure contrasts greatly with the county and state, where the comparable rates are
+6.8% and 9.5%, respectively.
+Towwnsuip of WycxoFF, BERGEN COUNTY
+PaGe20
+HousinG, DEMOGRAPHIC& EMPLOYMENT ANALYSIS
+
+===== PAGE 62 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 62 of 70
+Trans ID: LCV20251857468
+RMA cus |
+Table 35: Monthly Costs, Homeowners without a Mortgage
+:
+Bergen
+Monthly housing costs
+Wyckoff
+County
+New Jersey
+Less than $250
+$250
+to $399
+$400 to $599
+$800 to $999
+3.8%
+14.6%
+$1,000 or more
+93.0%
+83.9%
+67.1%
+Median monthly housing costs
+$1,500+
+$1,475
+$1,205
+Source: 2019-2023 5-Year ACS
+Housing costs put a greater financial strain on renters, with 48.7% of households in renter-occupied
+housing spending at least 30% oftheir income on housing (Table 36). Even so, renters in Wyckoff can more
+comfortably bear the cost of housing than their peers elsewhere in Bergen County, where 54.8% of renters
+are cost-burdened. Another 18.8% of households spend between 20% and 29%oftheir income on housing
+while a further 22.8% spending less than 20% of their income on housing costs.
+Table 36: Burden ofHousing Costs, Renter-Occupied Housing
+Housing Costs as. % of Household Income
+Wyckoff
+Bergen
+New Jersey
+County
+Less than 20% of household income
+22.8%
+18.9%
+23.8%
+20 to 29% of household income
+13.3%
+18.8%
+23.1%
+30% or more of household income
+48.7%
+54.8%
+48.3%
+15.2%
+Source: 2019-2023 5-Year ACS
+Relative to other communities, the gross rent for units in Wyckoff is quite high. To be precise, 28.0% of
+renting households pay $3,000 or more in rent, more than twice the percentage in Bergen County, 13.2%
+(Table 37). Moreover, 24.3% of households pay between $2,000 and $2,999 in rent per month.
+In other
+.
+words, over half of households in renter-occupied housing have a rent of at least $2,000. In comparison,
+only 40.9% of households in Bergen County have a rent of $2,000 or more.
+Hence, the median rent in
+Wyckoff is relatively high, $2,092, whereas countywide, the median is $1,863, which, in turn, is higher
+than the median in New Jersey, $1,653.
+TOWNSHIP OF WYCKOFF, BERGEN COUNTY
+PAGE 21
+HousinG, DemoGrapHic & EmPLoyMENT ANALYSIS
+
+===== PAGE 63 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 63 of 70
+Trans ID: LCV20251857468
+RMA ccs |
+Table 37: Gross Rent
+Bergen
+Gross Rent
+Wyckoff
+County
+New Jersey
+Less than $500
+$500 to $999
+11.5%
+$1,000 to $1,499
+25.8%
+18.3%
+26.3%
+$1,500 to $1,999
+10.4%
+33.3%
+28.5%
+$2,000 to $2,499
+12.6%
+18.3%
+15.9%
+$2,500 to $2,999
+11.7%
+$3,000 or more
+28.0%
+13.2%
+Median rent
+$2,092
+$1,863
+$1,653
+Source: 2019-2023 5-Year ACS
+DEVELOPMENT TRENDS
+;
+In the last 20 years, Township staffers have approved building permits on average for the construction of
+21 housing units annually (Table 38). On an average basis at least, the rate at which permitting has
+occurred has picked up in the last decade, with building permits for 27 housing units approved per year.
+The average, however, is inflated by the permitting of 207 homes in 2019. Since 2014, the median number
+of building permits approved in a year is for 8 housing units.
+Table 38: Total Housing Permits Issued Per Year, 2004-2023
+Year
+Wyckoff
+Bergen
+New Jerse’
+y
+County
+v
+2003
+|8| 291
+35,165
+2004
+2,334
+39,238
+2005
+2,765
+39,688
+2006
+1,689
+32,048
+2007
+2,745
+25,948
+2008
+16,338
+2009
+11,145
+2010
+11,885
+2011
+1,903
+11,882
+2012
+| 8
+[|
+2,054
+15,270
+TOWNSHIP OF WYCKOFF, BERGEN COUNTY
+,
+Pace 22.
+HousinG, DEMOGRAPHIC & EMPLOYMENT ANALYSIS.
+
+===== PAGE 64 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 64of 70
+Trans ID: LCV20251857468
+ha]
+Year
+Wyckoff
+Bergen
+New Jersey
+County
+[2020
+| 6 | 1609 | 26,680 _|
+|
+orn
+|
+588 | 30,044 |
+10-Year Average
+27
+2,262
+25,304
+20-Year Average
+21
+1,997
+24,617
+Source: NJ Dept. of Community Affairs
+Altogether, 424 housing units have been permitted in Wyckoff since 2004 while 40,675 units have been
+permitted countywide (Table 39). A similar number of one-to-two-family homes and multifamily units
+have been permitted since 2004. On average, 10 one- and two-family units and 10 multifamily units were
+permitted annually in the last twenty years in addition to 1 mixed-use unit per year. Since 2014, more
+multifamily homes have been permitted, with an average of 20 units permitted annually since 2014,
+compared to 8 one-and two-family homes per year. These metrics, however, are heavily skewed by the
+large number of multifamily homes permitted in 2019. If these units were excluded, there would have
+been no multifamily buildings constructed in the township. In contrast, multifamily development has been
+responsible for most of the housing production in Bergen County, accounting for 58.6% of all units
+permitted countywide.
+Table 39: Total Housing Permits Issued by Type, 2004-2023
+Wyckoff
+Bergen County
+New Jersey
+Year
+Uaats
+Multifamily mined
+Vans
+Multifamily vines
+Uns
+Multifamily Mixed
+F200 [as fo [a | ams | roa | 26s | azaoa | anaea | 752
+[2008 [a2 [0 | a7 [a9 | 196 [25 | aas0 | 702 | 276 |
+F200 fs | 0 | o | a7 | as | 2 | 6ms | aa | 0 |
+HousinG, DEMOGRAPHIC& EMPLOYMENTANALYSIS
+
+===== PAGE 65 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg65of 70
+Trans ID: LCV20251857468
+KMA
+|
+Tonteneantnd SSCS
+Wyckoff
+Bergen County
+New Jersey
+Year
+1-2
+ie,
+6Mixed- = 4-2
+ve
+=6Mixed- = 1-2
+,,
+Mixed-
+Units
+Multifamily
+Use
+Units
+Multifamily
+Use
+Units
+Multifamily
+Use
+aos
+[| wm | oo | oo | saz | or | | 9666 |
+8998
+220 | 6 | oo | o | 632 | 69 | 8 | 2673 |
+17,950
+Total
+204
+199
+21
+15,351
+23,854
+1,440
+227,496
+248,942
+5,345
+Year
+. .
+20
+0
+767
+1,495
+70
+908
+16,274
+276
+Average
+_—
+a
+20-Year
+19
+10
+1
+768
+1,193
+72
+14,375
+12,447
+267
+Average
+Source: NJ. Dept. of Community Affairs
+A similar pattern can be seen in the certificate of occupancy data (Table 40). As with building permits,
+certificates of occupancy were given more frequently for multifamily housing than they were for 1- and
+2-bedroom units. On average, 20 multifamily units and 7 one- and two-family residential units have been
+certified annually in the last decade.
+Table 40: Certificates of Occupancy, 2014-2023
+Wyckoff
+Bergen County
+New Jersey
+Year
+;
+;
+H
+1-2
+c.,,
+Mixed-
+1-2
+shawn
+Mixed-
+1-2
+sears
+Mixed-
+Units
+Multifamily
+Use
+Units
+Multifamily
+Use
+Units
+Multifamily
+Use
+Townsnip oF WycKore, BERGEN COUNTY
+PaGe 24
+HousinG, DEMOGRAPHIC& EMPLOYMENT ANALYSIS
+
+===== PAGE 66 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 66 of 70
+Trans ID: LCV20251857468
+RMA ec |
+Wyckoff
+Bergen County
+New Jersey
+Year
+42
+ie,
+Mixed-
+1-2
+ac.
+ay,
+Mixed-
+1-2
+ie,
+Mixed-
+Units
+Multifamily
+Use
+Units
+Multifamily
+Use
+Units
+Multifamily
+Use
+| zug | 9 | oo
+| oo | 563 | 4504 | mt | 7164| 9,861 | 293 |
+F209 [ao | o | 0 | 465 | sis | #3 _| 500] soa | 200 |
+Fa [1 [0 | 0 [sv] a2 | 0 [sas] s050 | oo |
+F208 Po | 0 | 0 | si5 | 730 | 1 _| 6003] s3500 | 17_|
+10-Year
+5
+20
+0
+510
+950
+16
+6,705
+~—9,371
+127
+Average
+Source: NJ Dept. of Community Affairs
+Table 41 contains the data for demolition permits for the last two decades. Since 2004, the Township has
+approved demolition permits for 9.15 housing units per year on average, or 183 units in total. Of this,
+demolition permits were approved for 174 one- and two-family homes in addition to 9 mixed-use homes.
+The rate of demolition permits has ticked downward in the last ten years, reaching a yearly average of 7.3
+units.
+Table 131: Demolition Permits, 2004-2023
+Year
+1-2 Family
+Multifamily
+Mbced-
+Total
+Use
+EC
+205 | ow
+| oT
+ts
+206 | a8 | tT|
+aoo7 | te |
+a
+zoos | ou |
+|tt
+zoo | 2
+| o | o | 2 |
+aio | i
+| io | o | |
+ui | oat |tt
+vz | os
+| oT
+2g | ow
+| oT
+a {|
+au | o fo | a |
+ais | 7 |
+zie | 2 |
+|
+a7 | ot |lt
+EE
+aio | 9
+|ol
+8
+TOWNSHIP:OF WYCKOFF, BERGEN COUNTY
+PaGe 25.
+HousinG, DEMOGRAPHIC& EMPLOYMENT ANALYSIS
+
+===== PAGE 67 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 67 of 70
+Trans ID: LCV20251857468
+cha]
+Year
+1-2 Family
+Multifamily
+mbie
+Total
+Use
+2024
+10
+7a
+2023 |
+ts
+Total
+174
+0
+9
+183
+10-Year
+7.3
+0
+0
+73
+Average
+20-Year
+8.7
+0
+045
+9.15
+Average
+Source: NJ Dept of Community Affairs
+Adjusting for demolition, the municipality has permitted, on net, an average of 12.05 housing units
+annually since 2004 and 20.8 housing units annually since 2014 (Table 42). Excluding the multifamily
+‘
+project approved in 2018, the Township permitted a net increase of 42 housing units.
+Table 142; Net Housing Permits, 2004-2023
+Year
+1-2 Family
+Multifamily
+Mixed
+sotal
+Use
+aos | 5
+| o
+| 3 | 2 |
+aoe | a |
+|
+oor | a |
+|
+at
+|
+aos | 1 |
+| a
+| ts
+209 | 3 | o | 0 | 3_|
+aio |
+2? |
+|
+zur | -4 | io | o | 4 |
+aziz | 3 |
+zis | 2 | lf
+ais
+[| 2 |
+|
+mie | 2 | 0 | 0 | 2,
+TO
+aie
+| 4
+| of
+2019
+azo | 4
+| oT
+201 |
+| 0 | 0 | 4_|
+TOWNSHIP OF WycKOFE, BERGEN COUNTY
+Page 26
+HousinG, DEMOGRAPHIC& EMPLOYMENT ANALYSIS
+
+===== PAGE 68 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 68of 70
+Trans ID: LCV20251857468
+KMA
+|
+misvbadsasiocates
+5
+.
+Mixed-
+Year
+1-2 Family
+Multifamily
+Use
+Total
+azz
+{| oa
+|
+oF | lt |
+2023 [oo
+Total
+30
+199
+12
+241
+10-Year
+0.6
+19.9
+03
+«208
+Average
+.
+20-Year
+1.5
+9.95
+0.6
+= 12.05
+Average
+Source: NJ Dept of Community Affairs
+Wyckoff has seen a steady stream of office construction has occurred in Wyckoff since 2004. On average,
+Township staffers have permitted the construction of 2,535 square feet of office space on average per
+year (Table 43). In total, more retail space has been constructed in the community
+than office space in the
+last twenty years, with an average of 11, 016 square feet of retail space permitted annually. The retail
+data, however,
+is distorted by a few large projects. In seventeen of the last twenty years, no retail
+construction
+has
+occurred. A
+sizable
+amount
+of construction
+has
+occurred
+for other types
+of
+nonresidential uses. To be precise, an average of 17,051 square feet of nonresidential construction has
+been permitted, not including office, retail, and multifamily development.
+Table 153: Building Permits, Nonresidential Construction, 2004-2023
+Wyckoff
+Bergen County
+Year
+Office
+Retail
+Other
+Office
+Retail
+Other
+2004 | 6683 | 0 |59,242| 667,773 | 44,912 | 1,353,273
+2005 | 7,264 | 0 |
+68,546 | 1,098,512 | 713,712 | 1,916,750
+2006
+5,813
+5,536
+47,081
+897,543
+194,868 | 1,477,442
+| 2007 | 245 | 0 | 34,542 | 965,896
+1,566,882
+2008 | 0 | 112,395
+1,041,289 | 208,089 | 1,167,252
+2oo9 | 3410 | o |5,274| 237,494 | 228,352 | 552,581
+3,848 | 40,302 | 27,955 | 242,640 | 268,097 | 611,511
+o
+| o |
+21566 | 951,488 | 125,069 | 499,599
+2012 | 1877 | 0 |2,189| 460,202 | 64,699 | 918,843
+2013 | o | o | 4,319 | 4g7,125 | 216,651 | 599,116
+2,880 | 0
+|
+18,103 | 536,266 | 507,398 | 1,171,882
+2016 | 3488 | o |
+6639 | 647,791 | 125,966 | 2,919,099
+7,433 | 62,089 |
+4,785 | 1,036,690 | 279,629 | 1,061,228
+TOwnsuip oF Wyckort, BERGEN COUNTY
+PaGe 27
+HousinG, DEMOGRAPHIC& EMPLOYMENT ANALYSIS
+
+===== PAGE 69 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 69 of 70
+Trans ID: LCV20251857468
+a_|
+Wyckoff
+Bergen County
+Year
+Office
+Retail
+Other
+Office
+Retail
+Other
+[2020 100_| 0 | aaza | a77.oe0
+| ,087]| 134088 |
+| 201 | o | 0 | 8681 | sae22 | 25,434 | 1,805,067 |
+| 2022 | o | 0 | 2434 | 757,070 | 20,869 | 1,984,125 |
+3,380 | 0 | 9.851 | 490,857 | 15,246 | 1,905,338 |
+20-Year
+5535
+11,016
+«17,051
+«609,356
+«192,497
+1,417,238
+Average
+Source: NJ Dept. of Community Affairs
+PLANNING PROJECTIONS
+Bergen County is served by the North Jersey Transportation Planning Authority (NJTPA), one of New
+Jersey’s three metropolitan planning organizations. NJTPA calculates population and employment
+projections to anticipate the long-range planning needs of the North Jersey portion of the New York
+metropolitan area.
+The agency expects Wyckoff’s growth to follow a similar trajectory as Bergen County and the state. That
+is, the agency presently forecasts Wyckoff’s population to grow at a 0.36% annual rate between 2015 and
+2050, somewhat below the 0.45% and 0.42% forecast for the county and for NJTPA’s jurisdiction overall
+(Table 44). Should this transpire, 19,321 persons will live in Wyckoff by 2050. NJTPA anticipates that
+households will grow at the same pace, 0.36%, with 6,436 households living in the municipality by 2050.
+Again, the MPO expects household growth in Wyckoff to occur at a slower pace compared to the county
+and NJTPA region
+as a whole, 0.44% and 0.46%,
+respectively.
+Interestingly, the agency expects
+employment growth to be significantly faster, 0.51%, eclipsing Bergen County and the greater NJTPA
+region, which are forecast to grow by 0.39% and 0.42%, respectively.
+Table 44: Long-term Population, Household and Employment Forecasts
+‘
+Wyckoff
+Bergen
+NJTPA
+County
+Population, 2015
+17,020
+926,330 | 6,688,013
+Population, 2050
+19,321 | 1,083,869 | 7,743,120
+Annualized % Population Change 2015-2050
+0.36%
+0.45%
+0.42%
+TOWNSHIP OF Wvckorr, BERGEN COUNTY
+PAGE 28
+HousinG, DEMOGRAPHIC& EMPLOYMENT ANALYSIS
+
+===== PAGE 70 =====
+BER-L-000756-25
+06/26/2025 10:28:21 AM
+Pg 70of 70
+Trans ID: LCV20251857468
+!
+EMA ea |
+Wyckoff
+Bergen
+NJTPA
+County
+Households, 2015
+5,678
+339,063 | 2,444,799
+Households, 2050
+6,436
+395,182 | 2,868,943
+Annualized % Household Change 2015-2050
+0,36%
+0.44%
+0.46%
+Employment, 2015
+5,165
+421,284 | 2,910,458
+Employment, 2050
+6,165
+483,298 | 3,375,651
+Annualized % Employment Change 2015-2050
+0.51%
+0.39%
+0.42%
+Source: NITPA
+TOWNSHIP OF WYCKOFF, BERGEN: COUNTY
+Page 29
+HousinG, DEMOGRAPHIC& EMPLOYMENT ANALYSIS

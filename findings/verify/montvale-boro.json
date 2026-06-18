@@ -1,0 +1,121 @@
+{
+  "municipality": "Montvale",
+  "research_status": "done",
+  "obligation": {
+    "present_need": 30,
+    "prospective_need": null,
+    "total_obligation": null,
+    "rdp": 3,
+    "unmet_need": null,
+    "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/montvale-boro/61725MontvaleAdoptedRd4PlanAppendixforProgramXxPart1.pdf?VersionId=PZqbu6b1jPmF9JfYwFbJwhzj.5QBIkpB"
+  },
+  "compliance": {
+    "status": "litigating",
+    "settlement_party": "Fair Share Housing Center (FSHC) (Third Round, 2017); S. Hekemian Group LLC (intervenor, 2017); Hornrock Properties MPR LLC (intervenor, 2017); 2 Paragon Drive LLC (intervenor, 2017)",
+    "settlement_date": "2017-11-14",
+    "hefsp_status": "adopted (contested)",
+    "hefsp_adopted_date": "2025-06-04",
+    "hefsp_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/montvale-boro/61725MontvaleAdoptedRd4PlanAppendixforProgramXxPart1.pdf?VersionId=PZqbu6b1jPmF9JfYwFbJwhzj.5QBIkpB"
+  },
+  "notes": "HEFSP filed June 18, 2025 (BER-L-000750-25). Plan adopted June 4, 2025 per filing metadata. FSHC-challenged: As of June 4, 2025 (draft date), no final court order on Fourth Round obligation. DCA prospective need = 348. Borough recalculated to 237 units; Program Member Mendez recommended 237 on April 30, 2025. Credible range 180-237 per document; borough uses 237 as placeholder. Present need = 30 confirmed. RDP = 3 confirmed (VLA). Worst-case Unmet Need = 234 (based on 237 prospective need). Third Round: Settlement with FSHC November 14, 2017; Judgment of Compliance and Repose October 3, 2018. Third Round obligation ~255 units; RDP = 181; Unmet Need = 361 (per court order). Third Round unmet need addressed through overlay zones and set-aside ordinance per 2017 Settlement. Fourth Round Fair Share Plan (Chapter X) starts at page 40 of the full HEFSP but the only OCR'd document available is Part 1 (32 pages, Housing Element only). The sites for Chapters X-XII are NOT in the available OCR. From the Housing Element text we can confirm: (1) Nouvelle LLC 6-unit 100% affordable project approved by Planning Board December 2024 [site not further specified in Part 1]; (2) 42 units at 1 Glenview Road; (3) 18 units projected at 7 E. Grand Avenue. Candidate sites (Mercedes-Benz/Hekemian, Glenview, Sony/Hornrock, 2 Paragon Drive, KPMG overlay) are from Third Round settlement and cannot be verified at block/lot level from available documents. The GB Reso of June 24, 2025 endorsing the HEFSP was filed separately. Site block/lot data BLOCKED — Fair Share Plan section not available in filed OCR.",
+  "sources": [
+    {
+      "doc_type": "HEFSP",
+      "title": "Montvale Adopted Rd4 Plan Appendix for Program Xx Part 1 (Housing Element)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/montvale-boro/61725MontvaleAdoptedRd4PlanAppendixforProgramXxPart1.pdf?VersionId=PZqbu6b1jPmF9JfYwFbJwhzj.5QBIkpB",
+      "excerpt": "Montvale remains a land-constrained town and thus conducted a Vacant Land Adjustment analysis using tax data and environmental data to determine an RDP of 3 for the Fourth Round. The RDP subtracted from the FRO results in a worst-case Unmet Need of 234."
+    },
+    {
+      "doc_type": "resolution",
+      "title": "Resolution No. 64-2025 (January 28, 2025) — Fourth Round Obligation Commitment",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/montvale-boro/ResoPart1.pdf?VersionId=pBXcAf2UzHi9qoYMgVS.EPWdeQiBRIuF",
+      "excerpt": "Resolution No. 64-2025 Committing to the Fourth Round Obligation approved by Council"
+    },
+    {
+      "doc_type": "resolution",
+      "title": "Governing Body Resolution endorsing Rd4 HEFSP (June 24, 2025)",
+      "url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/montvale-boro/62425MontvaleGBResoendorseRd4HEFSP.pdf?VersionId=_l4Hj_AEMRi_cESsjS4RXPEEHgT48C6M",
+      "excerpt": "Governing Body Resolution endorsing Fourth Round Housing Element and Fair Share Plan"
+    },
+    {
+      "doc_type": "DCA",
+      "title": "DCA Bergen County Fourth Round Obligations",
+      "url": null,
+      "excerpt": "Montvale borough: present_need=30, prospective_need=348, quam=0"
+    }
+  ],
+  "sites": [
+    {
+      "site_name": "Nouvelle LLC 100% Affordable Project",
+      "address": null,
+      "block": null,
+      "lot": null,
+      "acreage": null,
+      "mechanism": "100% affordable",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": null,
+      "total_units": 6,
+      "affordable_units": 6,
+      "set_aside_pct": 100,
+      "tenure": "rental",
+      "adoption_status": "approved (Planning Board December 2024)",
+      "developer": "Nouvelle LLC",
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/montvale-boro/61725MontvaleAdoptedRd4PlanAppendixforProgramXxPart1.pdf?VersionId=PZqbu6b1jPmF9JfYwFbJwhzj.5QBIkpB",
+      "source_page": "Housing Element section, page 17 area",
+      "source_date": "2025-06-04",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "affordable rental project by Nouvelle, LLC received approval from the Planning Board on December [2024]",
+      "notes": "6-unit 100% affordable rental project. Approved by Montvale Planning Board in December 2024. Block/lot not stated in Part 1 Housing Element section. Full site details expected in Chapter X (Fair Share Plan), which is not in the available OCR file."
+    },
+    {
+      "site_name": "1 Glenview Road (Third Round / S. Hekemian Settlement Site)",
+      "address": "1 Glenview Road",
+      "block": null,
+      "lot": null,
+      "acreage": null,
+      "mechanism": "inclusionary overlay",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": null,
+      "total_units": 42,
+      "affordable_units": null,
+      "set_aside_pct": null,
+      "tenure": "rental",
+      "adoption_status": "approved (Third Round settlement; status unknown for Fourth Round credit)",
+      "developer": "S. Hekemian Group LLC",
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/montvale-boro/61725MontvaleAdoptedRd4PlanAppendixforProgramXxPart1.pdf?VersionId=PZqbu6b1jPmF9JfYwFbJwhzj.5QBIkpB",
+      "source_page": "Housing Element section (housing projections)",
+      "source_date": "2025-06-04",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "42 units at 1 Glenview Road",
+      "notes": "42-unit development referenced in housing stock projections. Part of 2017 Third Round settlement with S. Hekemian Group. Address confirmed; block/lot not in Part 1. Fourth Round credit status unknown from available documents."
+    },
+    {
+      "site_name": "7 E. Grand Avenue (Projected Development)",
+      "address": "7 East Grand Avenue",
+      "block": null,
+      "lot": null,
+      "acreage": null,
+      "mechanism": "inclusionary overlay",
+      "current_zoning": null,
+      "proposed_zoning": null,
+      "density": null,
+      "total_units": 18,
+      "affordable_units": null,
+      "set_aside_pct": null,
+      "tenure": "rental",
+      "adoption_status": "projected",
+      "developer": null,
+      "source_url": "https://library.njcourts.gov/files/civil/affordable-housing/bergen/montvale-boro/61725MontvaleAdoptedRd4PlanAppendixforProgramXxPart1.pdf?VersionId=PZqbu6b1jPmF9JfYwFbJwhzj.5QBIkpB",
+      "source_page": "Housing Element section (housing projections)",
+      "source_date": "2025-06-04",
+      "confidence": "high",
+      "verification_status": "verified",
+      "quote": "The Borough also projects 18 units at 7 E. Grand Avenue.",
+      "notes": "18-unit projected development. Address confirmed; block/lot not in Part 1. Mechanism and affordable unit count not specified in Part 1. Details expected in Fair Share Plan (Chapter X), not in available OCR."
+    }
+  ]
+}

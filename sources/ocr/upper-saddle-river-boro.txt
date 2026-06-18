@@ -1,0 +1,5084 @@
+SOURCE_URL: https://library.njcourts.gov/files/civil/affordable-housing/bergen/upper-saddle-river-boro/61225USRHousingElementandFairSharePlanADOPTED61125.pdf?VersionId=eBgLqLtAjq3Ae2HAxUhvJLg5dtUstaB1
+
+===== PAGE 1 =====
+ 
+2025 
+Housing Element 
+& Fair Share Plan  
+ 
+ 
+ 
+ 
+ 
+ 
+PREPARED FOR: 
+Borough of Upper Saddle River Planning Board 
+BA: 4170.03 
+MAY 30, 2025  
+ADOPTED: JUNE 11, 2025 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 1 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 2 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg2of72
+Trans ID: LCV20251747593
+1
+
+===== PAGE 3 =====
+Community Planning 
+Principals: 
+Land Development and Design 
+Joseph H. Burgis PP, AICP 
+Landscape Architecture 
+Edward Snieckus, Jr. PP, LLA, ASLA 
+ 
+David Novak PP, AICP  
+i 
+ 
+b a 
+B
+U
+R
+G
+I
+S 
+A S S O C I A T E S,  I N C. 
+ 
+ 
+ 
+ 
+2025 Housing Element and 
+Fair Share Plan 
+ 
+ 
+Borough of Upper Saddle River 
+Bergen County, New Jersey 
+ 
+Prepared for the Upper Saddle River 
+Planning Board 
+BA# 4170.03 
+ 
+The original document was appropriately signed and sealed on May 30, 2025 in accordance 
+with Chapter 41 of Title 13 of the State Board of Professional Planners. 
+ 
+ 
+_______________________________ 
+_____________________________ 
+Joseph H. Burgis, AICP, PP 
+Allison J. Fahey, AICP, PP 
+ 
+Professional Planner #2450 
+Professional Planner #6406 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 3 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 4 =====
+ 
+ii 
+Members of the Borough of Upper Saddle River  
+Joseph Donato - Chairman 
+Robert Richardi - Vice Chairman 
+Arman Fardanesh - Mayor 
+Councilwoman - Sarah Drennan 
+Theodore Preusch - Borough Administrator 
+Todd Bakal 
+Daria Fox 
+Robert Jacobs 
+Christian Wiederholz 
+Michael Putrino - Alternate I 
+ 
+Planning and Zoning Board Clerk 
+Linda Marmora 
+Planning Board Attorney 
+Mark Madaio Esq 
+ 
+Planning Board Engineer 
+Ken DeGennaro PE, CME  
+Colliers Engineering Design Inc. 
+Planning Board Planning Consultant 
+Joseph H. Burgis PP, AICP 
+Burgis Associates, Inc. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 4 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 5 =====
+ 
+iii 
+Contents 
+EXECUTIVE SUMMARY ........................................................................................................................................ 5
+First and Second Round Obligations ...................................................................................................... 5
+Third Round Obligation ............................................................................................................................... 6
+Fourth Round Obligation ............................................................................................................................ 7
+SECTION 1: INTRODUCTION............................................................................................................................. 9
+1.1: What is Affordable Housing? ................................................................................................................. 9
+1.2: What is the History of Affordable Housing in New Jersey? ........................................................ 10
+1.3: What is a Housing Element and Fair Share Plan? ......................................................................... 13
+SECTION 2: HOUSING ELEMENT ................................................................................................................... 15
+2.1: Community Overview ........................................................................................................................... 15
+2.2: Demographic and Population Data .................................................................................................. 19
+SECTION 3: FAIR SHARE OBLIGATION ......................................................................................................... 33
+3.1: Summary of Fair Share Obligation .................................................................................................... 33
+3.2: Realistic Development Potential (RDP) ............................................................................................ 34
+SECTION  4: FAIR SHARE PLAN ..................................................................................................................... 37
+4.1: Prior (3rd Round) Obligation .............................................................................................................. 37
+4.2: Fourth Round Obligation .................................................................................................................... 41
+4.3: Consistency with State Planning Initiatives ..................................................................................... 45
+APPENDICES ........................................................................................................................................................ 47
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 5 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 6 =====
+ 
+iv 
+List of Tables 
+Table 1: Affordable Housing Obligation Summary ................................................................................... 5
+Table 2: 1987-1999 First and Second Round Affordable Housing Components ............................... 6
+Table 3: 2015-2025 Third Round Affordable Housing Components ................................................... 7
+Table 4: 2024 Affordable Housing Region 1 Income Limits by Household Size ............................... 9
+Table 5: Existing Land Uses .......................................................................................................................... 16
+Table 6: Dwelling Units (1980-2023) ........................................................................................................... 19
+Table 7: Housing Units by Tenure and Occupancy Status (1990 to 2023) ....................................... 20
+Table 8: Units in Structure (1990 to 2023) ................................................................................................. 20
+Table 9: Number of Bedrooms in Housing Units (1990 to 2023) ........................................................ 21
+Table 10: Year Structure Built ....................................................................................................................... 21
+Table 11: Occupants Per Room (1990 to 2023) ........................................................................................ 22
+Table 12: Equipment and Plumbing Facilities (190 to 2023) ................................................................. 22
+Table 13: Gross Rent of Renter-Occupied Housing Units (1990 to 2023) ......................................... 23
+Table 14: Value of Owner-Occupied Housing Units (1990 to 2023) .................................................. 24
+Table 15: Population Growth (1920 to 2023) ............................................................................................ 25
+Table 16: Age Characteristics (1990 to 2023) ........................................................................................... 26
+Table 17: Average Household Size (1960 to 2023) ................................................................................. 26
+Table 18: Household Income (2010 & 2023) ............................................................................................ 27
+Table 19: Housing Cost as Percentage of Income (2010 & 2023) ....................................................... 28
+Table 20: Employment Status, Population 16 and Over (1990 to 2023) ............................................ 28
+Table 21: Employed Residents Age 16 and Over, By Occupation (1990 to 2023) ........................... 29
+Table 22: Employed Residents Age 16 and Over, by Industry (1990 to 2023) ................................. 29
+Table 23: Covered Employment Trends 2014 to 2023 .......................................................................... 31
+Table 24: Trend in Residential Development ........................................................................................... 32
+Table 25: Summary of Fair Share Obligation ........................................................................................... 33
+Table 26: 2020 Vacant Land Adjustment .................................................................................................. 35
+Table 27: Affordable Housing Obligation Summary .............................................................................. 37
+Table 28: 1987-1999 First and Second Round Affordable Housing Components .......................... 38
+Table 29: 3rd Round Affordable Housing Components ......................................................................... 38
+Table 30: Preliminary Draft Zoning Regulations for 10 Mountainview Road ................................... 44
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 6 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 7 =====
+ 
+5 
+EXECUTIVE SUMMARY 
+The 2025 Borough of Upper Saddle River Housing Element and Fair Share Plan (HE&FSP) of the Master 
+Plan is designed to address how the Borough will fulfil its affordable housing obligations. These 
+obligations and the way they are addressed are derived from a variety of sources, including regulatory 
+provisions from the Council on Affordable Housing (COAH), prior settlement agreements with Fair Share 
+Housing Center (FSHC), and the most recent New Jersey legislation on the 4th Round of the affordable 
+housing issue and associated calculations provided by the Department of Community Affairs (DCA). 
+These obligations are summarized as follows: 
+Table 1: Affordable Housing Obligation Summary 
+Category 
+Obligation 
+First & Second Round Obligation (1987-1999) 
+206 units; reduced to 107 units 
+through VLA/RDP 
+Third Round Obligation (1999-2025) 
+526 units; reduce to 78 units through 
+VLA/RDP 
+Fourth Round Present Need (Rehabilitation) Obligation 
+0 
+Fourth Round Prospective Need  (Future) Obligation (2025-2035) 
+233 units reduced to 0 units through 
+VLA/RDP 
+ 
+First and Second Round Obligation 
+Upper Saddle River has prepared a number of Housing Elements and Fair Share Plans over the years to 
+affirmatively address its affordable housing obligations. The Borough adopted a combined 1st and 2nd 
+Round HE&FSP in 1998, which was prepared to address the Borough’s 1987-1999 pre-credited housing-
+need obligation of 206 units. The Plan indicated the Borough was entitled to a Vacant Land Adjustment 
+(VLA), but did address a significant portion of its affordable housing obligation through a regional 
+contribution agreement with Jersey City, development of 106 affordable units in five different projects 
+in the Borough, and 41 rental bonus credits for a total of 164 units of credit.  The plan components are 
+set forth in the accompanying Table 2. All components have been completed.    Additionally, to address 
+the Borough’s unmet need of 42 units, the Borough adopted the following ordinances: 
+1. 
+Block 1301 Lot 3 – Overlay Zone.  The Borough adopted an overlay zone that established a 
+maximum gross density of 20 units per acre on the 2.9-acre site developed with an office 
+building in 1986.  The Zone permits a maximum building height of 3 stories and requires an 
+affordable housing set-aside of 20%. 
+ 
+2. 
+Marron and Company Site (Block 1304 Lots 6, 9 and 10) – Overlay Zone.  The Borough adopted 
+an overlay zone that permits a gross density of 22 units per acre on this 4.9-acre tract.  The 
+Zone permits a maximum building height not to exceed 2 ½ stories and requires an affordable 
+housing set-aside of 20%. 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 7 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 8 =====
+ 
+6 
+ 
+3. 
+Block 1304 Lot 7.01 – Overlay Zone.  The Borough adopted an overlay zone that permits a 
+maximum gross density of 20 units per acre.  The Zone permits a maximum building height of 
+2 ½ stories and requires a 20% affordable housing set-aside. 
+ 
+4. 
+Block 1301 Lots 1.04, 1.11, 1.15, 1.16, 1.18, 1.19, 1.20, 1.21, 1.22, 1.23, 1.24 and 1.25.  The Borough 
+adopted an overlay zone that permits a maximum gross density of 20 units per acre and 25 
+units per acre for tracts greater than 3 acres in area.  The Zone requires a 20% affordable 
+housing set-aside. 
+ 
+5. 
+Mandatory Set-Aside Ordinance.  The Borough adopted a mandatory affordable housing set-
+aside ordinance requiring new multifamily residential development of five units or more to 
+include a minimum 20% affordable housing set-aside. 
+COAH granted substantive certification of the Plan in 2000.  
+Table 2: 1987-1999 First and Second Round Affordable Housing Components 
+Component 
+Affordable Units 
+Status 
+Regional Contribution Agreements: 
+ 
+     Jersey City RCA  
+      
+ 
+ 
+17 
+  
+ 
+ 
+Completed 
+ 
+Inclusionary Development 
+ 
+     Crescent Village 
+     Pinnacle Properties 
+     Lancaster 
+     Porcelanosa 
+     160-168 E. Crescent Ave 
+     Rental Bonus Credits 
+ 
+ 
+24 
+18  
+7 
+52 of 69  
+5 of 25 
+41 
+ 
+ 
+Completed 
+Completed 
+Completed 
+Completed 
+Completed 
+Completed 
+ 
+Total 
+Prior Round Unmet Need 
+164 
+   42 
+-- 
+ 
+ 
+Third Round Obligation 
+Pursuant to a Settlement Agreement signed with FSHC, the Borough had a Third Round affordable 
+housing obligation of 526 units which, through the result of a vacant land adjustment, resulted in a 
+Realistic Development Potential (RDP) of 78 units and a total Unmet Need of 444 units. The Borough’s 
+approved 3rd Round Plan notes that the unmet need mechanisms noted above reflect the Borough’s 
+unmet need policy for both the Prior Round and the Third Round. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 8 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 9 =====
+ 
+7 
+Table 3: 2015-2025 Third Round Affordable Housing Components 
+Component 
+Affordable Units 
+Status 
+Inclusionary Development: 
+ 
+     Mack-Cali/Toll Brothers 
+     172-176 E. Crescent Ave 
+     160-168 E. Crescent Ave 
+     Porcelanosa 
+     Rental Bonus Credits 
+ 
+ 
+ 
+22 
+  3 
+20 of 25 
+17 of 69 
+20 
+ 
+ 
+ 
+Completed 
+Completed 
+Completed 
+Completed 
+     Total Units 
+     Third Round Unmet Need 
+82* 
+444 
+ 
+With crediting the Borough has achieved 4 more credits than called for through its RDP calculation. 
+Fourth Round Obligation 
+The Borough has a 4th Round rehabilitation obligation of zero and a prospective need of 233 affordable 
+housing units.  A vacant land adjustment analysis undertaken for the 4th Round indicates the Borough 
+has a zero-unit RDP.  Irrespective of that, the Borough shall designate a site at 10 Mountainview Road 
+as an inclusionary development site.  This 18.8-acre parcel is presently developed with an office building.  
+The Borough intends to pursue a non-condemnation Area in Need of Redevelopment designation for 
+this site and prepare a redevelopment plan calling for the site’s redevelopment for inclusionary 
+development at a density of 7 units per acre which is consistent with the surrounding multi-family 
+residential densities.  This would result in a total of 132 dwelling units on-site including 26 affordable 
+units.  Details associated with this site’s redevelopment as an inclusionary development with a 20 percent 
+set-aside for affordable housing are set forth in the body of this report.      
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 9 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 10 =====
+ 
+8 
+STRUCTURE OF REPORT 
+This 2025 HE&FSP is divided into the following sections: 
+ 
+Section 1: Introduction 
+The first section of the 2025 HE&FSP introduces what constitutes affordable housing. identifies 
+what affordable housing is, offers an overview of the history of affordable housing in the state, 
+and explains the role of a housing element and fair share plan as a component of the municipal 
+master plan. 
+ 
+Section 2: Housing Element 
+Section 2 contains the Housing Element for the Borough. It offers an overview of the community, 
+with information regarding the Borough’s existing land use, population, housing, and 
+employment characteristics. It also provides a projection of the Borough’s housing stock and 
+employment projections through the 4th Round period.   
+ 
+Section 3: Fair Share Obligation 
+Next, Section 3 provides an overview of the Borough’s fair share obligation. It includes a brief 
+history of the methodologies utilized to calculate affordable housing obligations throughout 
+the state. 
+ 
+Section 4: Fair Share Plan 
+Finally, Section 4 details the manner in which the Borough has addressed its prior obligations 
+and how it will address its 4th Round prospective need obligations.  
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 10 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 11 =====
+9 
+SECTION 1: INTRODUCTION 
+The following section introduces what constitutes affordable housing. It identifies what affordable 
+housing is, offers an overview of the history of affordable housing in the state, and explains the role of 
+a housing element and fair share plan as a component of the municipal master plan. 
+1.1: What is Affordable Housing? 
+Affordable housing is income-restricted housing that is available for sale or for rent. Generally speaking, 
+it is defined as housing for very-low, low-, and moderate-income households (noted below), although 
+there are exceptions, such as specific types of special-needs housing. The categories are derived from 
+the state’s median regional income limits (which for the current year are noted in the table below).  
+New Jersey is segmented into six different affordable housing regions. Upper Saddle River is located in 
+Region 1 which includes Bergen, Hudson, Passaic, and Sussex Counties.  
+ 
+ 
+ 
+Moderate-Income 
+Households 
+Earn 80% of the region’s 
+median income 
+Low-Income Households 
+Earn 50% of the region’s 
+median income 
+Very Low-Income Households 
+Earn 30% of the region’s 
+median income 
+Regional income limitations are typically updated annually by the state, based on household size. The 
+table below identifies the 2024 regional income limits by household size for Region 1. As an example, 
+as shown, a three-person family with a household income of up to $86,697 could qualify for affordable 
+housing in region. 
+Table 4: 2024 Affordable Housing Region 1 Income Limits by Household Size 
+Income Level
+2 Person 
+3 Person 
+4 Person 
+5 Person 
+Median 
+$96,329 
+$108,371 
+$120,412 
+$130,045 
+Moderate 
+$77,064 
+$86,697 
+$96,329 
+$104,036 
+Low 
+$48,165 
+$54,185 
+$60,206 
+$65,022 
+Very-Low 
+$28,899 
+$32,511 
+$37,568 
+$39,013 
+One of the most common forms of affordable housing is inclusionary development, in which a certain 
+percentage of units within a multifamily or townhouse development are reserved for affordable housing. 
+Nevertheless, affordable housing can be found in a variety of other forms, including but not limited to 
+one hundred percent affordable housing developments, deed-restricted accessory apartments, assisted 
+living facilities, alternating arrangements such as supportive housing or group homes, and age restricted 
+housing. 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 11 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 12 =====
+10 
+1.2: What is the History of Affordable Housing in New Jersey? 
+The history of affordable housing in New Jersey can be traced back 
+to 1975, when the Supreme Court first decided in So. Burlington 
+Cty. NAACP v. Township of Mount Laurel (known as Mount Laurel 
+I) that every developing municipality in New Jersey had an 
+affirmative obligation to provide for its fair share of affordable 
+housing. In a subsequent decision in 1983 (known as Mount Laurel 
+II), the Court acknowledged that the vast majority of municipalities 
+had ignored their constitutional obligation to provide affordable 
+housing.  
+As such, the Court refined this obligation to establish that every 
+municipality had an obligation, although those within the growth 
+area of the State Development and Redevelopment Plan (SDRP) 
+had a greater obligation. The Court also called for the state’s 
+legislature to enact legislation that would save municipalities from 
+the burden of having the courts determine their affordable 
+housing needs. The result of this decision was the adoption of the 
+Fair Housing Act (FHA) in 1985 as well as the creation of the New 
+Jersey Council on Affordable Housing (COAH), which became the 
+state agency responsible for overseeing the manner in which New 
+Jersey’s municipalities address their low and moderate income 
+housing needs. 
+COAH proceeded to adopt regulations for the First Round 
+obligation, which covered the years 1987 to 1993. It also 
+established the Second Round housing-need numbers that 
+cumulatively covered the years 1987 through 1999. Under both the 
+First and Second Rounds, COAH utilized what is commonly 
+referred to as the “fair share” methodology. COAH utilized a 
+different methodology, known as “growth share,” beginning with its 
+efforts to prepare Third Round housing-need numbers. The Third 
+Round substantive and procedural rules were first adopted in 
+2004.  
+ 
+2015: Mount Laurel IV
+COAH defunct and moribund. All 
+affordable housing matters to be heard 
+by courts
+1986: Mount Laurel III
+Every municipality has an obligation if 
+any portion of municipality was within 
+the “Growth Share Area” of the State 
+Development and Redevelopment Plan
+1983: Mount Laurel II
+Every municipality has an obligation, with 
+a particulkar emphasis on towns in the 
+“Growth Share Area” of the State 
+Development and Redevelopment Plan
+1975: Mount Laurel I
+Every developing municipality has an 
+affordable housing obligation
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 12 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 13 =====
+11 
+These regulations were challenged and in January 2007, the 
+Appellate Division invalidated various aspects of these rules and 
+remanded considerable portions of the rules to COAH with the 
+directive to adopt revised regulations. 
+In May 2008, COAH adopted revised Third Round regulations 
+which were published and became effective on June 2, 2008. At the 
+same time, COAH proposed amendments to the rules they had just 
+adopted, which subsequently went into effect in October 2008. 
+These 2008 rules and regulations were subsequently challenged, 
+and in an October 2010 decision the Appellate Division invalidated 
+the Growth Share methodology and indicated that COAH should 
+adopt regulations pursuant to the Fair Share methodology utilized 
+in Rounds One and Two. The Supreme Court affirmed this decision 
+in September 2013, which invalidated much of the third iteration of 
+the Third Round regulations and sustained the invalidation of 
+growth share. As a result, the Court directed COAH to adopt new 
+regulations pursuant to the methodology utilized in Rounds One 
+and Two. 
+Deadlocked at a 3-3 vote, COAH failed to adopt newly revised 
+Third Round regulations in October 2014. FSHC, who was a party 
+in both the 2010 and 2013 cases, responded by filing a motion in 
+aid of litigants’ rights with the New Jersey Supreme Court. The 
+Court heard the motion in January 2015 and issued its ruling on 
+March 20, 2015. The Court ruled that COAH was effectively 
+dysfunctional and consequently returned jurisdiction of affordable 
+housing issues back to the trial courts where it had originally been 
+prior to the creation of COAH in 1985. 
+This 2015 Court decision created a process in which municipalities may file a declaratory judgment 
+action seeking a declaration that their HE&FSP is constitutionally compliant and receive temporary 
+immunity from affordable housing builders’ remedy lawsuits while preparing a new or revised HE&FSP 
+to ensure their plan continues to affirmatively address their housing need as adjusted by new housing-
+need numbers promulgated by the court or COAH. 
+ 
+2024: A-4/S-50
+New Jersey adopts new legslation which 
+overhauls the FHA. COAH is elimianted, 
+and its duties are split between the DCA 
+and the AOC. 
+2018: Jacobson Decision
+Established methodology in Mercer 
+County for determining housing 
+obligation. Utilized statewide for 
+settlement purposes
+2017: Gap Period
+Finds that gap period (1999-2015) 
+generates an affordable housing 
+obligation
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 13 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 14 =====
+ 
+12 
+The Supreme Court subsequently ruled on January 18, 2017 that municipalities are also responsible for 
+obligations accruing during the so-called “gap period,” the period between 1999 and 2015 when COAH 
+was not able to adopt 3rd Round regulations.  The Court stated that the gap obligation should be 
+calculated as a never-before calculated component of Present Need, which would serve to capture Gap 
+Period households that were presently in need of affordable housing as of the date of the Present Need 
+calculation (i.e. that were still income eligible, were not captured as part of traditional present need, 
+were still living in New Jersey and otherwise represented a Present affordable housing need). 
+On March 20, 2024, the State of New Jersey adopted a package of affordable housing bills which 
+overhauled the Fair Housing Act. This legislation ultimately eliminated COAH and split its duties and 
+functions between the Department of Community Affairs (DCA) and the Administrative Office of the 
+Courts (AOC). 
+DCA was designated by the legislation as the entity responsible for calculating the state’s regional needs 
+as well as each municipality’s present and prospective fair share obligations pursuant to the Jacobson 
+Decision. However, the legislation makes clear that these numbers are advisory and that each 
+municipality must set its own obligation number utilizing the same methodology. Meanwhile, the 
+Affordable Housing Dispute Resolution Program (the “Program”) within the AOC was directed to handle 
+any disputes regarding affordable housing obligations and plans as part of the first step in the new 
+process. 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 14 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 15 =====
+ 
+13 
+1.3: What is a Housing Element and Fair Share Plan? 
+A Housing Element and Fair Share Plan (HE&FSP) serves as the blueprint for how a municipality will 
+address its fair share of affordable housing. It is designed to help a community broaden the accessibility 
+of affordable housing.  
+While technically a discretionary component of a municipal 
+master plan, a HE&FSP is nevertheless effectively an 
+obligatory plan element. As established by NJSA 40:55D-
+62a of the Municipal Land Use Law (MLUL), a municipality 
+must have an adopted HE&FSP to enact a zoning ordinance. 
+Thus, from a public policy perspective, a HE&FSP is an 
+essential document that also ensures that the municipality 
+has the right to zone. Moreover, without a HE&FSP, a municipality may be susceptible to a builder’s 
+remedy lawsuit in which a developer could file a lawsuit to have a specific piece of property rezoned to 
+permit housing at higher densities than a municipality would otherwise allow, provided a certain 
+percentage of units are reserved as affordable units. 
+The Fair Housing Act (FHA), which was adopted in 1985 and has been amended multiple times since 
+then, establishes the required components of a HE&FSP. These are summarized as follows: 
+1. 
+An inventory of the municipality’s housing stock by age, condition, purchase or rental value, 
+occupancy characteristics, and type, including the number of units affordable to low- and 
+moderate-income households and substandard housing capable of being rehabilitated. 
+ 
+2. 
+A projection of the municipality’s housing stock, including the probable future construction of 
+low- and moderate-income housing, for the next ten years, taking into account, but not 
+necessarily limited to, construction permits issued, approvals of applications for development 
+and probable residential development of lands. 
+ 
+3. 
+An analysis of the municipality’s demographic characteristics, including but not necessarily 
+limited to, household size, income level and age. 
+ 
+4. 
+An analysis of the existing and probable future employment characteristics of the municipality. 
+ 
+5. 
+A determination of the municipality’s present and prospective fair share for low- and moderate-
+income housing and its capacity to accommodate its present and prospective housing needs, 
+including its fair share for low- and moderate-income housing. 
+ 
+6. 
+A consideration of the lands that are most appropriate for construction of low- and moderate-
+income housing and the existing structures most appropriate for conversion to, or rehabilitation 
+The Municipal Land Use Law (MLUL) 
+is the enabling legislation for municipal 
+land use and development, planning, 
+and zoning for the State of New Jersey.  
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 15 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 16 =====
+ 
+14 
+for, low- and moderate-income housing, including a consideration of lands of developers who 
+have expressed a commitment to provide low- and moderate-income housing. 
+ 
+7. 
+An analysis of the extent to which municipal ordinances and other local factors advance or 
+detract from the goal of preserving multigenerational family continuity as expressed in the 
+recommendations of the Multigenerational Family Housing Continuity Commission. 
+ 
+8. 
+For a municipality located within the jurisdiction of the Highlands Water Protection and Planning 
+Council, an analysis of compliance of the housing element with the Highlands Regional Master 
+Plan of lands in the Highlands Preservation Area, and lands in the Highlands Planning Area for 
+Highlands conforming municipalities. 
+ 
+9. 
+An analysis of consistency with the State Development and Redevelopment Plan, including 
+water, wastewater, stormwater, and multi-modal transportation based on guidance and 
+technical assistance from the State Planning Commission. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 16 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 17 =====
+ 
+15 
+SECTION 2: HOUSING ELEMENT 
+The following section represents the Borough’s housing element of the Borough master plan. It offers 
+an overview of the community’s characteristics regarding existing land use, population, housing, and 
+employment. It also provides a projection of the local housing stock and its employment projections. 
+ 
+United States Decennial 
+Census 
+The US Census is described in Article I, Section 2 of 
+the Constitution of the United States, which calls for 
+an enumeration of the people every ten years for the 
+apportionment 
+of 
+seats 
+in 
+the 
+House 
+of 
+Representatives. Since the time of the first Census 
+conducted in 1790, it has become the leading source 
+of data about the nation’s people and economy. 
+Please note that all incomes reported in the Census 
+are adjusted for inflation. 
+New Jersey Department of 
+Community Affairs (DCA) 
+The New Jersey Department of Community Affairs is 
+a governmental agency of the State of New Jersey. Its 
+function is to provide administrative guidance, 
+financial support, and technical assistance to local 
+governments, 
+community 
+development 
+organizations, businesses, and individuals to improve 
+the quality of life in New Jersey. 
+ 
+American Community Survey (ACS) 
+The American Community Survey is a nationwide 
+ongoing survey conducted by the US Census Bureau. 
+The ACS gathers information previously contained 
+only in the long form version of the decennial census, 
+such as age, ancestry, educational attainment, 
+income, language proficiency, migration, disability, 
+employment, and housing characteristics. It relies 
+upon random sampling to provide ongoing, monthly 
+data collection. Please note that all incomes reported 
+in the ACS are adjusted for inflation. 
+New Jersey Department of Labor and 
+Workforce Development 
+The New Jersey Department of Labor and Workforce 
+Development is a governmental agency of the State 
+of New Jersey. One of its roles is to collect labor 
+market information regarding employment and 
+wages throughout the state.  
+ 
+New Jersey Department of Health 
+The New Jersey Department of Health is a 
+governmental agency of the State of New Jersey. The 
+department contains the Office of Vital Statistics and 
+Registry, which gathers data regarding births, deaths, 
+marriages, domestic partnerships, and civil unions. 
+
+ 
+2.1: Community Overview 
+Upper Saddle River occupies an area of 5.26 square miles (3,366 acres in the northernmost portion of 
+Bergen County. It is bordered by New York State to the north and five New Jersey municipalities 
+including the Boroughs of Montvale and Woodcliff Lake to the east; Saddle River to the south, and 
+Information Regarding Data Sources 
+The information contained in Section 1.2 entitled “Population Demographics,” Section 1.3 entitled “Inventory of 
+Housing Stock,” Section 1.4 entitled “Employment Demographics,” and Section 1.5 entitled “Housing & Employment 
+Projections” was obtained from a variety of publicly available data sources. These are summarized below: 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 17 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 18 =====
+ 
+16 
+Ramsey and the Township of Mahwah to the west. The Borough is essentially a fully developed 
+community with scant vacant land remaining for development. 
+The Borough is predominantly a residential community, with a development pattern that consists 
+primarily of detached single-family dwellings along with a number of townhouse and multi-family 
+developments.  Residential development accounts for 92 percent of the Borough’s total land area. 
+Commercial and industrial development, accounting for 3 percent of the Borough’s land area, is 
+concentrated for the most part along the Route 17 corridor in the southwesterly portion of the Borough. 
+There are also nearly 2 percent of the land area devoted to municipal, public school, and church and 
+charitable use.  The following Table 4 and the Borough’s accompanying Existing Land Use Map further 
+illustrate the Borough’s distribution of land uses.  
+Regional access to the community is provided by several county and state roadways. Route 17 extends 
+through the Borough and provides immediate access to Route 287 to the north as well as to the New 
+York State Thruway.  It also provides quick access to the central and southerly portions of the County.  
+East and West Saddle River Roads provide north-south access to nearby municipalities, and Lake Street 
+provides a regional east-west link to surrounding areas. 
+Table 5: Existing Land Uses 
+Land Use 
+Acres 
+% of Total Acres 
+Parcels 
+% of Total Parcels 
+Residential 
+Low Density 
+1136.22 
+56.98% 
+1884 
+74.9% 
+Multifamily 
+6.20 
+0.31% 
+426 
+16.9% 
+Multifamily Assisted 
+Living 
+10.64 
+0.53% 
+1 
+0.0% 
+Commercial 
+Commercial 
+24.36 
+1.22% 
+41 
+1.6% 
+Farm/Nursery/Golf 
+Course 
+25.86 
+1.30% 
+9 
+0.4% 
+Public/Semi-
+Public 
+Municipal Property 
+241.15 
+12.09% 
+37 
+1.5% 
+Public School 
+64.01 
+3.21% 
+6 
+0.2% 
+Church & Charitable 
+21.77 
+1.09% 
+6 
+0.2% 
+Other 
+Vacant 
+25.30 
+1.27% 
+65 
+2.6% 
+Industrial 
+104.40 
+5.24% 
+24 
+1.0% 
+Rail 
+21.18 
+1.06% 
+9 
+0.4% 
+Other Exempt  
+2.06 
+0.10% 
+7 
+0.3% 
+Source: ArcGIS Calculations
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 18 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 19 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 19o0f72
+Trans ID: LCV20251747593
+H
+yy
+ae
+6 64ha
+FY
+“
+a
+#
+a1G
+5
+Os
+eg
+2
+;
+ees,
+ihe
+2
+a
+oe
+Cet
+f
+>
+%
+ra
+i
+4
+=
+i3
+F
+penned
+LO
+eee
+TTT
+hes
+SY
+chm
+feeshane
+solsceer fens Seets=ar cnAMSesse
+ae
+PRA eg Cee Pre ap a
+papas Et] aH eat Hl ee
+pls
+a
+Shale
+pre ees Sees co
+eee eee eee els
+é
+ell
+ip Sgstec sr crmecd aes ee ic2 jac, Shere
+ce
+S|
+ral ei pS EEee
+PurPreestt roe pnd me arpL PUT| at "aya
+pater ats
+tarballs PA Het,
+« (eee
+=
+Ladaeee chen spa Saesat.Coemptannncumissniinote
+SeaN
+©
+Pye
+AB Be OR!
+Ay Mirna asi oo Hanser
+may stn
+S|
+aipee
+CITSes
+Paths
+Nope eee TT
+SSH
+slag
+Serer eT TE
+ITT netleess wali
+a-sneee
+ie Pele Er SUN epee
+| CIE Eee
+eg
+2 SSS
+Ep hreny tec cee ense Lal FAIRER herger
+FraSEErT [] o SS
+e PSP
+;
+SU Ses ea ete ceepDT
+Trt
+aa
+F
+;
+pinesneeataericamee
+sees aa ice am a
+{
+secon
+ieee.S =\)(\-
+oe se
+:
+=
+rats
+fi | iz
+Pim)
+es
+ier
+~\
+(and
+&
+i
+|
+a)
+a
+i
+;
+CWhanscenienel?
+862
+ge
+5
+ABHGRESCEUIINR
+Sg
+2
+“wu
+{
+i
+\
+|
+@
+8
+vs
+g
+g
+r
+}
+a
+=
+g
+H
+E
+%
+
+===== PAGE 20 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 20 of 72
+Trans ID: LCV20251747593
+s
+*
+=
+i
+n
+S
+4
+gi
+:
+4
+gi:
+F
+eo
+»aaad
+H
+=
+\
+|
+==
+i
+=f
+MET.
+Somes
+bee
+wet
+Se ee resets Sanaa:
+is Rocea hese Si tH
+REECE ieee
+SG.
+SNC MN
+SM
+Gamba
+suite sidan
+Tease
+¥
+asa ceNT a
+CSS Tce {
+=)
+its
+tt
+i"
+ua
+‘ (Satta ALS aed
+—
+H
+Oh
+eae
+rit
+v4
+{
+|
+NE
+|
+T Rasa
+— =I
+mR
+AEG
+eal 1
+ieee
+ilyte
+2
+Re
+ey CE Tad
+: i seanes rite ise
+ay
+fein hrs TERE
+see
+Seca
+e ate Ne
+ESTER get
+on
+4
+Pie u,
+Eee
+ee EEE
+>
+faeces cients sen
+cetc ae marian ae]zeesapeesencye™
+py
+#0 Be eH ilies events retnes™
+_
+PESOS Eee
+eC ae et Te
+‘
+‘
+i
+fsnd eooe cates maetatasv ine
+esti “a \ j 4
+i
+SU RUTRRL AIS
+ore
+Ese”
+Bade
+a Z
+:
+5
+a
+let)
+i
+AZ
+il
+:
+| Re
+| &
+EE
+i
+4
+£8
+=
+=
+i
+s
+2
+g
+o3
+i
+j
+§
+=
+3
+_
+x é >
+$32
+3
+ERS82
+¢
+g
+ZEEE
+_ $
+,25_28%4£4
+3
+GY
+és
+®
+az
+gwgeego
+Ae
+S3SBG
+GEL SSL east Sx gS
+g)
+Peseg¢aotssee¢eecosgeos
+ei mT
+i
+
+===== PAGE 21 =====
+ 
+19 
+2.2: Demographic and Population Data 
+Analyzing demographic and population data is a necessary and integral step in planning for the future 
+needs and demands of a community. As such, the following section outlines the demographic changes 
+experienced by the Borough over the past several decades. 
+This section provides demographic and socio-economic information for Upper Saddle River. This data 
+is obtained from Decennial Census data as well as the 2010 and 2023 American Community Survey 
+(ACS) 5-year estimates. The ACS data consists of estimates based upon data averages across a five-
+year span, otherwise known as “period” estimates. These are not actual counts, rather they are 
+representative of data collected over a period of time and thus may not be directly comparable to 
+decennial census figures. The information set forth below regards an assessment of population size, 
+rate of population growth, age characteristics, as well as household size and income levels and related 
+information. Each of these items is described in detail below. This information is vital for the Borough to 
+carefully plan for the current and future needs of its residents and the community.  
+Inventory of Housing Stock 
+This section of the Housing Element provides an inventory of the Borough’s housing stock, as required 
+by the Municipal Land Use Law and the new legislation regarding affordable housing. The inventory 
+details housing characteristics such as age, condition, purchase/rental value, and occupancy. It also 
+details the number of affordable units available to low- and moderate-income households and the 
+number of substandard housing units capable of being rehabilitated. 
+1. Number of Dwelling Units and Related Housing Data 
+As shown in the table below, the Borough’s housing stock grew by more than 6 percent between 1990 
+and 2000, from 2,410 units to 2,560 units. However, the rate of growth has slowed recently. Estimates 
+for 2023 suggest that Upper Saddle River’s housing stock increased by only 2% since 2010.  
+Table 6: Dwelling Units (1980-2023) 
+Year 
+Total Dwelling Units 
+Numerical 
+Change 
+Percentage 
+Change 
+1980 
+2,330 
+280 
+13.7% 
+1990 
+2,410 
+80 
+3.4% 
+2000 
+2,560 
+150 
+6.2% 
+2010 
+2,668 
+108 
+4.2% 
+2023 
+2,715 
+47 
+2% 
+Sources: 2003 Bergen County Data Book, U.S. Census – 1980, 1990 & 2000, 2010 & 2023 American Community Survey 5-Year Estimates. 
+The following table provides additional detail regarding the tenure and occupancy of the Borough’s 
+housing stock. As shown below, 87.4% of the Borough’s housing stock was estimated to be owner-
+occupied in 2023, down from more than 94.4% in 2000. This reduction is a function of multi-family 
+rentals that have been built in the community over the last decade. The number of rental units increased 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 21 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 22 =====
+ 
+20 
+from 81 units in 2000 to an estimated 251 units in 2023, representing an increase in terms of the total 
+housing stock from 3.2% to 9.2%. 
+Table 7: Housing Units by Tenure and Occupancy Status (1990 to 2023) 
+Category 
+1990 
+2000 
+2010 
+2023 
+No. Units 
+Percent 
+No. Units 
+Percent 
+No. Units 
+Percent 
+No. Units 
+Percent 
+Owner-Occupied Units 
+2,224 
+92.3% 
+2,416 
+94.4% 
+2,279 
+85.4% 
+2,372 
+87.4% 
+Renter-Occupied Units 
+100 
+4.1% 
+81 
+3.2% 
+221 
+8.3% 
+251 
+9.2% 
+Vacant Units 
+86 
+3.6% 
+63 
+2.5% 
+168 
+6.3% 
+92 
+3.4% 
+Total Units 
+2,410 
+100.0% 
+2,560 
+100.0% 
+2,668 
+100.0% 
+2,715 
+100.0% 
+Sources: U.S. Census – 1990 & 2000 2010 & 2023 American Community Survey 5-Year Estimates. 
+2. Housing Characteristics 
+The following tables provide additional information on the characteristics of the Borough’s housing 
+stock, including data on the number of units in structures and the number of bedrooms. As shown 
+below, the housing stock is predominantly characterized by single-family detached units, which 
+represented nearly 88.9% of all dwelling units in 2023. This is a decrease from previous periods and 
+reflects the creation of additional multi-family units of varied housing types since 2000. 
+Table 8: Units in Structure (1990 to 2023) 
+Units in Structure 
+1990 
+2000 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+  1-unit, detached 
+2,386 
+99.0% 
+2,493 
+97.4% 
+2,440 
+91.5% 
+2414 
+88.9% 
+  1-unit, attached 
+5 
+0.2% 
+8 
+0.3% 
+64 
+2.4% 
+191 
+7.0% 
+  2 units 
+11 
+0.5% 
+29 
+1.1% 
+84 
+3.1% 
+0 
+0.0% 
+  3 or 4 units 
+2 
+0.1% 
+15 
+0.6% 
+0 
+0.0% 
+29 
+1.1% 
+  5 to 9 units 
+1 
+0.0% 
+8 
+0.3% 
+24 
+0.9% 
+18 
+0.7% 
+  10 to 19 units 
+1 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+49 
+1.8% 
+  20 or more units 
+0 
+0.0% 
+0 
+0.0% 
+19 
+0.7% 
+14 
+0.5% 
+  Mobile home 
+0 
+0.0% 
+7 
+0.3% 
+37 
+1.4% 
+0 
+0.0% 
+  Boat, RV, van, etc. 
+4 
+0.2% 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+Total 
+2,410 
+100.0% 
+2,560 
+100.0% 
+2,668 
+100.0% 
+2,414 
+88.9% 
+Sources: U.S. Census – 1990 & 2000; 2010 & 2023 American Community Survey 5-Year Estimates. 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 22 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 23 =====
+ 
+21 
+Table 9: Number of Bedrooms in Housing Units (1990 to 2023) 
+Number of 
+Bedrooms 
+1990 
+2000 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Zero 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0% 
+One 
+8 
+0.3% 
+8 
+0.3% 
+62 
+2.3% 
+0 
+0% 
+Two 
+115 
+4.8% 
+88 
+3.4% 
+126 
+4.7% 
+147 
+5% 
+Three 
+546 
+22.7% 
+643 
+25.1% 
+478 
+17.9% 
+636 
+23% 
+Four 
+1,198 
+49.7% 
+1,090 
+42.6% 
+1,141 
+42.8% 
+1,080 
+40% 
+Five or More 
+543 
+22.5% 
+731 
+28.6% 
+861 
+32.3% 
+852 
+31% 
+Total 
+2,410 
+100.0% 
+2,560 
+100.0% 
+2,668 
+100.0% 
+      2,715  
+100.0% 
+Sources: U.S. Census – 1990 & 2000; 2010 & 2023 American Community Survey 5-Year Estimates. 
+3. Housing Age 
+The following table details the age of the Borough’s housing stock. As shown, two-thirds of the 
+Borough’s housing units were constructed prior to 1980; only 34.7% were built between 1980 and 2023. 
+Table 10: Year Structure Built 
+Year Built 
+Number of Units 
+Percent 
+2020 or Later 
+102 
+3.8% 
+2010 to 2019 
+108 
+4.0% 
+2000 to 2009 
+359 
+13.2% 
+1990 to 1999 
+208 
+7.7% 
+1980 to 1989 
+164 
+6.0% 
+1970 to 1979 
+352 
+13.0% 
+1960 to 1969 
+752 
+27.7% 
+1950 to 1959 
+455 
+16.8% 
+1940 to 1949 
+25 
+0.9% 
+1939 or earlier 
+190 
+7.0% 
+Total 
+2,715 
+100.0% 
+Sources: U.S. Census – 2023 American Community Survey 5-Year Estimates. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 23 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 24 =====
+ 
+22 
+4. Housing Conditions 
+An inventory of the Borough’s housing conditions is presented in the following tables. The first table 
+identifies the extent of overcrowding in the Borough, defined as housing units with more than one 
+occupant per room. The data indicates that the number of occupied housing units considered 
+overcrowded in 2023 is zero. 
+Table 11: Occupants Per Room (1990 to 2023) 
+Occupants Per Room 
+1990 
+2000 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+1.00 or less 
+2,320 
+99.8% 
+2,497 
+100.0% 
+2,500 
+100.0% 
+2,623 
+100.0% 
+1.01 to 1.50 
+3 
+0.1% 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+1.51 or more 
+1 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+Total 
+2,324 
+100.0% 
+2,497 
+100.0% 
+2,500 
+100.0% 
+2,623 
+100.0% 
+Sources: U.S. Census – 1990 & 2000; 2010 & 2023 American Community Survey 5-Year Estimates. 
+The table below presents other key characteristics of housing conditions, including the presence of 
+complete plumbing and kitchen facilities and the type of heating equipment used. As shown, all units 
+in the Borough have complete kitchen facilities. No dwelling unit was determined to be lacking plumbing 
+facilities, and every unit utilized standard heating facilities. 
+Table 12: Equipment and Plumbing Facilities (190 to 2023) 
+Facilities 
+1990 
+2000 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Kitchen:                       
+Complete Facilities 
+2,316 
+99.7% 
+2,497 
+100.0% 
+2,618 
+98.1% 
+2,623 
+100.0% 
+Lacking Complete 
+Facilities 
+8 
+0.3% 
+0 
+0.0% 
+50 
+1.9% 
+0 
+0.0% 
+Plumbing:                    
+Complete Facilities 
+2,316 
+99.7% 
+0  
+0.0% 
+2,618 
+98.1% 
+2,623 
+100.0% 
+Lacking Complete 
+Facilities 
+8 
+0.3% 
+0 
+0.0% 
+50 
+1.9% 
+0 
+0.0% 
+Heating Equipment:  
+Standard Heating 
+Facilities 
+2,316 
+99.7% 
+2,497 
+100.0% 
+2,500 
+100.0% 
+2,623 
+100.0% 
+Other Means, No 
+Fuel Used 
+8 
+0.3% 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+Sources: U.S. Census – 1990 & 2000; 2010 & 2023 American Community Survey 5-Year Estimates. 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 24 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 25 =====
+ 
+23 
+5. Purchase and Rental Values 
+As shown in the following table, 15.9% of Upper Saddle River’s rental housing stock had monthly rents 
+under $1,000 in 2000. By 2023, 95.6% of rents are greater than $1,500, with the median rent reported 
+at $3,500+. There was a significant decrease in the percentage of households that paid no cash rent 
+from 2010 to 2023; 18.1% in 2010 compared to 0.0% in 2023. The Borough’s median rent is higher than 
+the median monthly rent of Bergen County as a whole ($1,863).  
+Table 13: Gross Rent of Renter-Occupied Housing Units (1990 to 2023) 
+Gross Rent 
+1990 
+2000 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Less than $200 
+8 
+8.7% 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+$200 to $299 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+$300 to $499 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+$500 to $749 
+8 
+8.7% 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+$750 to $999 
+17 
+18.5% 
+13 
+15.9% 
+0 
+0.0% 
+$1,000 to $1,499 
+59 
+64.1% 
+7 
+8.5% 
+53 
+24.0% 
+11 
+4.4% 
+$1,500 or More 
+---  
+0.0% 
+62 
+75.6% 
+128 
+57.9% 
+240 
+95.6% 
+No Cash Rent 
+0 
+0.0% 
+0 
+0.0% 
+40 
+18.1% 
+0 
+0.0% 
+Total 
+92 
+100.0% 
+82 
+100.0% 
+221 
+100.0% 
+251 
+100.0% 
+Median Gross Rent  
+$1,220  
+$1,929  
+$2,000+ 
+$3,500+ 
+Bergen County Median Gross Rent 
+$662  
+$872  
+$1,236 
+$1,863 
+Sources: 
+U.S. 
+Census 
+– 
+1990 
+& 
+2000; 
+2010 
+& 
+2023 
+American 
+Community 
+Survey 
+5-Year 
+Estimates. 
+Note: 1990 US Census did not include a “$1,500 or More” gross rent category 
+The table below shows that approximately 66.2% of Upper Saddle River’s owner-occupied units had a 
+value of $1,000,000 or more in 2023. The Borough’s median value in 2023 was 4 times the County’s 
+median value in 2000, and 2 times higher than the County median in 2023. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 25 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 26 =====
+ 
+24 
+Table 14: Value of Owner-Occupied Housing Units (1990 to 2023) 
+Value Range 
+1990 
+2000 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Less than $50,000 
+3 
+0.1% 
+11 
+0.5% 
+0 
+0.0% 
+10 
+0.4% 
+$50,000 to $99,999 
+1 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+$100,000 to $149,999 
+9 
+0.4% 
+8 
+0.3% 
+40 
+1.8% 
+20 
+0.8% 
+$150,000 to $199,999 
+10 
+0.5% 
+15 
+0.6% 
+15 
+0.6% 
+0 
+0.0% 
+$200,000 to $299,999 
+119 
+5.7% 
+106 
+4.6% 
+12 
+0.5% 
+0 
+0.0% 
+$300,000 to $499,999 
+1011 
+48.8% 
+639 
+27.6% 
+104 
+4.6% 
+24 
+1.0% 
+$500,000 to $999,999 
+919 
+44.4% 
+1,383 
+59.7% 
+1195 
+52.4% 
+748 
+31.5% 
+$1,000,000 or More 
+ --- 
+0.0% 
+155 
+6.7% 
+913 
+40.1% 
+1,570  
+66.2% 
+Total 
+2,072 
+100.0% 
+2,317 
+100.0% 
+2,279 
+100.0% 
+2,372  
+100.0% 
+Median Value  
+$479,200 
+$603,900 
+$938,000 
+$1,101,800 
+Bergen County Median Value 
+$227,700 
+$250,300 
+$482,300 
+$593,200  
+Sources: 
+U.S. 
+Census 
+– 
+1990 
+& 
+2000; 
+2010 
+& 
+2023 
+American 
+Community 
+Survey 
+5-Year 
+Estimates. 
+Note: 1990 US Census did not include a “1,000,000 or More” Value Range 
+6. Number of Affordable to Low- and Moderate-Income Households 
+Upper Saddle River is placed in COAH Housing Region 1, which is comprised of Bergen, Passaic, Hudson 
+and Sussex counties. Based on the current regional income limits prepared by Affordable Housing 
+Professionals of New Jersey, the median household income for a three-person household is 
+approximately $85,637. A three-person moderate-income household, defined as 80% of the median 
+income, would have an income not exceeding $68,510. 
+An affordable sales price for a three-person moderate-income household earning 80% of the median 
+income is estimated at approximately $150,000. This estimate is based on the UHAC affordability 
+controls outlined in N.J.A.C. 5:80-26.3. In 2023, the percentage of housing units in the Borough valued 
+at less than $150,000 was 0.12%. For renter-occupied housing, an affordable monthly rent for a three-
+person household is estimated at approximately $1,890. According to the most recent ACS data, 
+approximately 4.4% of the Borough’s rental units had a gross rent less than $1,500. 
+7. Substandard Housing Capable of Being Rehabilitated 
+The number of units in a community that are in need of rehabilitation and are not likely to experience 
+“spontaneous rehabilitation” has been provided by the Mercer County Trial. Upper Saddle River’s 
+rehabilitation share is zero units.  
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 26 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 27 =====
+ 
+25 
+Population Analysis 
+The MLUL requires that Housing Element provides data on the municipality’s population, including 
+population size, age and income characteristics. 
+1. Population Size 
+As seen in the table below, the Borough experienced its greatest population growth in the 1960s and 
+1970s. Between 1980 and 1990, the Borough’s population shrank by nearly 10%. Nevertheless, since that 
+time the Borough has experienced a continual population increase. By 2023, the Borough’s population 
+was estimated to be approximately 8,354 persons. 
+Table 15: Population Growth (1920 to 2023) 
+Year 
+Population 
+Population Change 
+Percent Change 
+1920 
+251 
+- 
+- 
+1930 
+347 
+96 
+38.2% 
+1940 
+510 
+163 
+47.0% 
+1950 
+706 
+196 
+38.4% 
+1960 
+3,570 
+2,864 
+405.7% 
+1970 
+7,949 
+4,379 
+122.7% 
+1980 
+7,958 
+9 
+0.1% 
+1990 
+7,198 
+-760 
+-9.6% 
+2000 
+7,741 
+543 
+7.5% 
+2010 
+8,208 
+467 
+6.0% 
+2023 
+8,354 
+146 
+1.8% 
+Sources: U.S. Census; 2023 American Community Survey. 
+2. Age Characteristics  
+The Borough’s age characteristics are outlined in the table below. As shown, the age of Borough’s 
+population has relatively remained consistent since 1990. Upper Saddle River’s median age has 
+increased slightly since 1990 from 40.1 to 41.7 years in 2023. The number of children under the age of 
+19 years has been increasing since 1990 from 19% of the Borough’s population to more than 28.6% in 
+2023.  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 27 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 28 =====
+ 
+26 
+Table 16: Age Characteristics (1990 to 2023) 
+Age 
+1990 
+2000 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Under 5 years 
+420 
+5.8% 
+579 
+7.5% 
+417 
+5.1% 
+598 
+7.2% 
+5 to 19 years 
+948 
+13.2% 
+1,449 
+18.7% 
+2,251 
+27.4% 
+1,792 
+21.5% 
+20 to 24 years 
+959 
+13.3% 
+566 
+7.3% 
+281 
+3.4% 
+506 
+6.1% 
+25 to 34 years 
+700 
+9.7% 
+494 
+6.4% 
+345 
+4.2% 
+755 
+9.0% 
+35 to 44 years 
+1,234 
+17.1% 
+1,491 
+19.3% 
+1,135 
+13.8% 
+882 
+10.6% 
+45 to 54 years 
+1,277 
+17.7% 
+1,358 
+17.5% 
+1,664 
+20.3% 
+1,432 
+17.1% 
+55 to 64 years 
+998 
+13.9% 
+884 
+11.4% 
+1,037 
+12.6% 
+1,260 
+15.1% 
+65 to 74 years 
+464 
+6.4% 
+585 
+7.6% 
+627 
+7.6% 
+713 
+8.5% 
+75 to 84 years 
+172 
+2.4% 
+260 
+3.4% 
+335 
+4.1% 
+276 
+3.3% 
+85 years and over 
+26 
+0.4% 
+75 
+1.0% 
+116 
+1.4% 
+140 
+1.7% 
+Total 
+7,198 
+7,741 
+8,208 
+8,354 
+Median Age 
+40.1 
+40.1 
+42.9 
+41.7 
+Source: U.S. Census – 1990, 2000, 2010; 2023 American Community Survey. 
+3. Average Household Size 
+The average household size for the Borough has remained stable at 3.1 persons per household over 
+the past few decades. 
+Table 17: Average Household Size (1960 to 2023) 
+Year 
+Total Population 
+Number of 
+Households 
+Average Household 
+Size 
+1960 
+3,570 
+960 
+3.72 
+1970 
+7,949 
+2,002 
+3.97 
+1980 
+7,958 
+2,277 
+3.49 
+1990 
+7,198 
+2,324 
+3.1 
+2000 
+7,741 
+2,497 
+3.1 
+2010 
+8,208 
+2,639 
+3.1 
+2023 
+8,354 
+2,623 
+3.18 
+Sources: U.S. Census – 1990, 2000, 2010; 2023 American Community Survey 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 28 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 29 =====
+ 
+27 
+4. Household Income 
+Detailed household income figures are shown in the table below. As shown, 82.8% of the Borough’s 
+households had an income of $100,000 or more in 2023, which represents a slight increase from 2010. 
+The Borough’s median household income in 2023 of $246,713 was nearly double the median household 
+income of Bergen County as a whole. 
+Table 18: Household Income (2010 & 2023) 
+Income Category 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Less than $10,000 
+19 
+1% 
+59 
+2.2% 
+$10,000 to $14,999 
+14 
+1% 
+11 
+0.4% 
+$15,000 to $24,999 
+44 
+2% 
+17 
+0.6% 
+$25,000 to $34,999 
+80 
+3% 
+10 
+0.4% 
+$35,000 to $49,999 
+86 
+3% 
+90 
+3.4% 
+$50,000 to $74,999 
+109 
+4% 
+167 
+6.4% 
+$75,000 to $99,999  
+240 
+10% 
+96 
+3.7% 
+$100,000 to $149,999 
+468 
+19% 
+358 
+13.6% 
+$150,000 to $199,999 
+325 
+13% 
+316 
+12.0% 
+$200,000 or more 
+1,115 
+45% 
+1,499 
+57.1% 
+Total 
+2,500 
+100.0% 
+2,623 
+100.0% 
+Median Household Income 
+$175,399 
+$246,713 
+Bergen County Median 
+$81,004 
+$123,715 
+Sources: 2010 & 2023 American Community Survey 5-Year Estimates. 
+ 
+5. Housing Cost-Burden 
+Households that pay more than 30% of their income for housing are considered cost burdened and 
+may have difficulty affording necessities such as food, clothing, transportation and medical care. Despite 
+Upper Saddle River’s affluence, the data from the 2023 ACS reveals that approximately 33.9% of owner-
+occupied households and 59.36% of rental households had housing costs of 30% or more. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 29 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 30 =====
+ 
+28 
+Table 19: Housing Cost as Percentage of Income (2010 & 2023) 
+Percentage of Income 
+2010 
+2023 
+Owner-occupied 
+Renter 
+Owner-occupied 
+Renter 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Less than 20 percent 
+896 
+39.32% 
+77 
+34.84% 
+1,251 
+52.7% 
+67 
+26.69% 
+20 to 29 percent 
+466 
+20.45% 
+70 
+31.67% 
+318 
+13.4% 
+35 
+13.94% 
+   30 percent or more 
+917 
+40.24% 
+34 
+15.38% 
+803 
+33.9% 
+149 
+59.36% 
+Occupied Units 
+2,279 
+100.0% 
+221 
+100.0% 
+2,372 
+100.0% 
+251 
+100.0% 
+Sources: 2010 & 2023 American Community Survey 5-Year Estimates. 
+2.3 
+Employment Analysis 
+The MLUL requires that the Housing Element includes data on employment levels in the community. 
+The following tables present information on the Borough’s employment characteristics. 
+1. Employment Status 
+The following table provides information on the employment status of Borough residents age 16 and 
+over. The unemployment rate in 2023 was 5.1%. This was equal to twice the 2023 unemployment rate 
+of Bergen County (3.9%). 
+Table 20: Employment Status, Population 16 and Over (1990 to 2023) 
+Employment Status 
+1990 
+2000 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+In labor force 
+3,679 
+64.5% 
+3,523 
+62.7% 
+3,457 
+60.3% 
+4,220 
+64.3% 
+Civilian labor force 
+3,668 
+64.3% 
+3,523 
+62.7% 
+3,457 
+60.3% 
+4,220 
+64.3% 
+              Employed 
+3,568 
+62.5% 
+3,376 
+60.1% 
+3,359 
+58.6% 
+3,887 
+59.2% 
+              Unemployed 
+100 
+1.8% 
+147 
+2.6% 
+98 
+1.7% 
+333 
+7.9% 
+% of civilian labor force 
+- 
+2.7% 
+- 
+4.2% 
+- 
+2.8% 
+- 
+- 
+Armed Forces 
+11 
+0.2% 
+0 
+0.0% 
+0 
+0.0% 
+0 
+0.0% 
+Not in labor force 
+2,029 
+35.5% 
+2,096 
+37.3% 
+2,278 
+39.7% 
+2,345 
+35.7% 
+Total Population 16 and Over 
+5,708 
+5,619 
+5,735 
+6,565 
+Sources: U.S. Census – 1990 & 2000; 2010 & 2023 American Community Survey 5-Year Estimates. 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 30 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 31 =====
+ 
+29 
+ 
+2. Employment Characteristics of Employed Residents 
+The following two tables detail information on the employment characteristics of employed Upper 
+Saddle River residents. Table 21 details occupation characteristics, while Table 22 details industry 
+characteristics. 
+Table 21: Employed Residents Age 16 and Over, By Occupation (1990 to 2023) 
+Occupation 
+1990 
+2000 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Management, Professional and 
+related occupations 
+1,886 
+52.9% 
+2,057 
+60.9% 
+1,817 
+54.1% 
+2661 
+68.5% 
+Service Occupation 
+249 
+7.0% 
+123 
+3.6% 
+208 
+6.2% 
+308 
+7.9% 
+Sales and Office Occupations 
+1,125 
+31.5% 
+986 
+29.2% 
+1,184 
+35.2% 
+713 
+18.3% 
+Farming, fishing and forestry 
+occupations 
+56 
+1.6% 
+0 
+0.0% 
+89 
+2.6% 
+134 
+3.4% 
+Construction, extraction and 
+maintenance 
+152 
+4.3% 
+127 
+3.8% 
+Production, transportation and 
+material moving occupations 
+100 
+2.8% 
+83 
+2.5% 
+61 
+1.8% 
+71 
+1.8% 
+Total 
+3,568 
+100.0% 
+3,376 
+100.0% 
+3,359 
+100.0% 
+3,887 
+100.0% 
+Sources: U.S. Census – 1990 & 2000; 2010 & 2023 American Community Survey 5-Year Estimates. 
+Table 22: Employed Residents Age 16 and Over, by Industry (1990 to 2023) 
+Industry 
+1990 
+2000 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Agriculture, forestry, fishing, 
+hunting and mining 
+56 
+1.6% 
+0 
+0.0% 
+17 
+0.5% 
+0 
+0.0% 
+Construction 
+123 
+3.4% 
+156 
+4.6% 
+123 
+3.7% 
+182 
+4.7% 
+Manufacturing 
+182 
+5.1% 
+318 
+9.4% 
+366 
+10.9% 
+122 
+3.1% 
+Wholesale trade 
+118 
+3.3% 
+314 
+9.3% 
+225 
+6.7% 
+213 
+5.5% 
+Retail trade 
+194 
+5.4% 
+295 
+8.7% 
+377 
+11.2% 
+309 
+7.9% 
+Transportation 
+and 
+warehousing, and utilities 
+87 
+2.4% 
+51 
+1.5% 
+47 
+1.4% 
+92 
+2.4% 
+Information 
+0 
+0.0% 
+162 
+4.8% 
+94 
+2.8% 
+200 
+5.1% 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 31 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 32 =====
+ 
+30 
+Industry 
+1990 
+2000 
+2010 
+2023 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Number 
+Percent 
+Finance, insurance, real estate 
+and rental and leasing 
+324 
+9.1% 
+588 
+17.4% 
+686 
+20.4% 
+491 
+12.6% 
+Professional, 
+scientific, 
+management, 
+administrative 
+and 
+waste 
+management 
+services 
+1,220 
+34.2% 
+564 
+16.7% 
+560 
+16.7% 
+1151 
+29.6% 
+Educational, health and social 
+services  
+484 
+13.6% 
+654 
+19.4% 
+553 
+16.5% 
+637 
+16.4% 
+Arts, 
+entertainment, 
+recreation, 
+accommodation 
+and food services 
+83 
+2.3% 
+113 
+3.3% 
+196 
+5.8% 
+376 
+9.7% 
+Other services 
+683 
+19.1% 
+91 
+2.7% 
+46 
+1.4% 
+55 
+1.4% 
+Public administration  
+14 
+0.4% 
+70 
+2.1% 
+69 
+2.1% 
+59 
+1.5% 
+Total 
+3,568 
+100.0% 
+3,376 
+100.0% 
+3,359 
+100.0% 
+3,887 
+100.0% 
+Sources: U.S. Census – 1990 & 2000; 2010 & 2023 American Community Survey 5-Year Estimates. 
+2.4: Housing and Employment Projections 
+The following section identifies the extent to which recent development has occurred in the community, 
+to assist in the determination of future residential and employment projections. 
+1. Probable Future Employment and Regional or Community Factors Impacting Upon Future 
+Municipal Employment 
+Employment has fluctuated over the past ten years in the Borough, between a high of 4,938 in 2015 
+and a low of 2,319 in 2021 in the midst of the COVID pandemic. The number of jobs in the Borough has 
+remained low since that time. As of 2023, there were a reported 2,743 jobs in the Borough, which 
+represents a decrease of 44% since 2015. This is the result of both Pearson Education vacating its offices 
+at One Lake Street the vacation of the building at 10 Mountainview Road as well as the devastating 
+effects of the COVID-19 pandemic. Assuming the current climate continues and recognizing the limited 
+availability of vacant land for new non-residential development, only minor changes in employment 
+characteristics are anticipated. 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 32 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 33 =====
+ 
+31 
+Table 23: Covered Employment Trends 2014 to 2023 
+Year 
+Number of Jobs 
+Change 
+in 
+Number of Jobs 
+Percent Change 
+2014 
+4,917 
+- 
+- 
+2015 
+4,938 
+21 
+0.4% 
+2016 
+4,695 
+-243 
+-5.2% 
+2017 
+4,081 
+-614 
+-15.0% 
+2018 
+3,733 
+-348 
+-9.3% 
+2019 
+3,148 
+-585 
+-18.6% 
+2020 
+2,648 
+-500 
+-18.9% 
+2021 
+2,319 
+-329 
+-14.2% 
+2022 
+2,579 
+260 
+10.1% 
+2023 
+2,743 
+164 
+6.0% 
+Sources: Department of Labor and Workforce Development 
+ 
+2. Projection of the Municipality’s Housing Stock 
+With limited acreage remaining in the municipality that may be developed for residential use, it is 
+anticipated that the Borough’s residential growth shall remain modest, as reflected in the recent annual 
+data shown on the following table.  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 33 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 34 =====
+ 
+32 
+Table 24: Trend in Residential Development 
+Analysis of Certificates of Occupancy and Demolition Permits, 2004 to 2023 
+Year 
+COs  Issued 
+Demo Permits 
+Issued 
+Net Growth 
+2004 
+22 
+33 
+-11 
+2005 
+15 
+35 
+-20 
+2006 
+14 
+24 
+-10 
+2007 
+14 
+16 
+-2 
+2008 
+8 
+8 
+0 
+2009 
+11 
+7 
+4 
+2010 
+7 
+9 
+-2 
+2011 
+3 
+4 
+-1 
+2012 
+2 
+5 
+-3 
+2013 
+6 
+16 
+-10 
+2014 
+3 
+19 
+-16 
+2015 
+6 
+3 
+3 
+2016 
+8 
+0 
+8 
+2017 
+5 
+0 
+5 
+2018 
+5 
+6 
+-1 
+2019 
+3 
+5 
+-2 
+2020 
+0 
+0 
+0 
+2021 
+0 
+6 
+-6 
+2022 
+47 
+8 
+39 
+2023 
+50 
+8 
+42 
+20 YR Total 
+229 
+212 
+17 
+20 YR Average 
+11.45 
+10.6 
+               - 
+ Yearly Average 
+  
+0.85 
+Sources: New Jersey Department of Community Affairs 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 34 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 35 =====
+ 
+33 
+SECTION 3: FAIR SHARE OBLIGATION 
+The following section provides an overview of the Borough’s fair share obligation. It includes a brief 
+overview of the methodology utilized to calculate affordable housing obligations throughout the state. 
+3.1: Summary of Fair Share Obligation 
+On March 20, 2024, the State of New Jersey adopted a package of affordable housing bills which 
+overhauled the FHA.  The FHA now designates the Department of Community Affairs (DCA) as the 
+entity responsible for calculating the state’s regional needs. Specifically, NJSA 52:27D-304.2 establishes 
+the methodology to be utilized by the DCA to determine the state’s regional prospective needs of low- 
+and moderate-income housing for the ten-year period spanning from July 1, 2025 to June 30, 2035. In 
+summary, their projected household change for this period is estimated by establishing the household 
+change experienced in each region between the most recent federal decennial census and the second-
+most recent decennial census. This household change, if positive, is then divided by 2.5 to estimate the 
+number of low- and moderate-income homes needed to address low- and moderate-income 
+household change in the region for the next ten years. This methodology resulted in a statewide 
+prospective need of 84,698 low- and moderate-income units. 
+DCA is also the entity responsible for calculating each municipality’s present and prospective fair share 
+obligations. However, the FHA makes clear that these calculations are advisory and that each 
+municipality must set its own obligation number utilizing the same methodology. 
+On January 23, 2025, the Borough adopted Resolution #47-25 (see Appendix for copy) which accepted 
+DCA’s present need number but sought to reduce its prospective fair share obligation need number to 
+201. These obligations are summarized below. That same resolution also noted that the Borough 
+reserved the right to conduct a vacant land adjustment to determine its realistic development potential. 
+This is discussed in greater detail in the next subsection. 
+ 
+Table 25: Summary of Fair Share Obligation 
+Affordable Obligation 
+Units 
+Present (Rehabilitation Need) Obligation 
+0 
+Fourth Round Obligation (2025-2035) 
+DCA: 233; USR sought adjustment to 201  
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 35 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 36 =====
+ 
+34 
+3.2: Realistic Development Potential (RDP) 
+Upper Saddle River is a fully developed community and is therefore entitled to adjust its obligation in 
+accordance with a procedure set forth in the FHA. Specifically, NJSA 52:27D-310.1 permits municipalities 
+to perform an RDP analysis by preparing a VLA.  
+An RDP analysis is intended to determine which sites in a municipality are most likely to develop for 
+low- and moderate-income housing. Municipalities may present documentation that eliminates a site 
+or part of a site from its inventory of vacant land .Such eliminating factors include: lands dedicated for 
+public uses other than housing since 1997; park lands or open space; vacant contiguous parcels in 
+private ownership of a size which would accommodate fewer than five housing units; historic and 
+architecturally important sites listed on the State Register of Historic Places or the National Register of 
+Historic Places; preserved agricultural lands; sites designated for active recreation; and environmentally 
+sensitive lands. 
+The Borough’s 2020 Third Round affordable housing obligation is informed by a VLA and the imposition 
+of an RDP analysis, which was undertaken pursuant to COAH’s Second Round Rules, N.J.A.C. 5:93-4.2.  
+In accordance with those regulations, the VLA first identified all vacant parcels of minimally .83 acres in 
+size based on COAH’s minimum presumptive density of 6 units per acre. Next, environmental constraints 
+were imposed such as wetlands, steep slopes, and flood plains pursuant to the applicable regulations. 
+The remaining developable acreage was then calculated in determining the Borough’s RDP.  
+The vacant land analysis revealed that there are 45.47 total acres of qualifying developable land in the 
+Borough which meet the minimum criteria to be considered as a site contributing to RDP.  It was 
+therefore concluded that the Borough has an RDP of 78 units, and this was agreed to by the Borough, 
+Court Special Master and FSHC following a thorough review of property in the Borough.  This VLA is 
+shown on an accompanying table.  
+A new VLA has been conducted for the Borough. The analysis revealed that there are no newly vacant 
+properties which meet the aforementioned 0.83 acre threshold. Therefore, the Borough’s RDP for the 
+4th Round is zero affordable units.  
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 36 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 37 =====
+ 
+35 
+Table 26: 2020 Vacant Land Adjustment 
+Block 
+Lot 
+Property 
+Address 
+Owner 
+Comments 
+Area (ac) 
+Developable 
+Area (ac) 
+RDP (du/ac) 
+RDP (units) 
+203 
+1 
+29 HILLSIDE AVE 
+WOHRLE 
+(TRSTE), 
+ROGER J 
+Three lots with common owner combined. Some 
+steep slopes on Lot 2. Infill site in single-family 
+detached housing neighborhood on the New York 
+State border. 
+1.64 
+0.60 
+6.0 
+1 
+203 
+2 
+31 HILLSIDE AVE 
+203 
+3 
+39 HILLSIDE AVE 
+503 
+6 
+39 PARKER PL 
+GUEMBEL, HEIDI & 
+LONGO, JAMES 
+Qualifies for RDP Analysis. Infill site in single-family 
+detached housing neighborhood. 
+1.74 
+1.70 
+6.0 
+2 
+601 
+1.01 
+1-15 LAKE ST 
+TOLL BROS 
+Former Mack-Call site under development by Toll 
+Bros., with 5.3 acres of constrained land {wetlands 
+and stream). Site Is sufficiently large to establish its 
+own land use character. Adjacent to Orchard Hill 
+townhouses across Lake Street to the south 
+developed at about 6 units/acre in early 2000's and 
+inclusionary Pinnacle Properties East and West 
+developed at 7.8 units/acre. Office and residential 
+uses to the northwest fronting on E. Crescent 
+Avenue. Skymark Court inclusionary townhouse 
+development to the north developed at 9.4 
+units/acre in mid-2000's.  Single-family detached 
+houses to the north and east buffered by woods and 
+wetlands. 
+38.65 
+31.35 
+8.0 
+50 
+805 
+1.02 
+430 
+WEST 
+SADDLE RIVER RD 
+MAC 
+DONALD, 
+RAYMOND & HELEN 
+Qualifies for RDP Analysis. (Borough analysis found 
+0.91 acre of developable area, illogically larger than 
+the lot area; developed area adjusted to match lot 
+area) 
+Surrounded 
+by 
+single-family 
+detached 
+residential land uses. 
+0.86 
+0.86 
+6.0 
+1 
+810 
+8.08 
+443 EAST SADDLE 
+RIVER RD 
+ROSENTHAL, KAREN 
+Qualifies for RDP Analysis. Surrounded by single-
+family detached residential land uses. 
+0.88 
+0.85 
+6.0 
+1 
+901 
+3 
+382 EAST SADDLE 
+RIVER RD 
+JMN 
+INVESTMENTS 
+LLC 
+Qualifies 
+for 
+RDP 
+Analysis. 
+Environmental 
+Constraints: Steep Slopes. Approximately 458 
+square feet are constrained. Surrounded by single-
+family detached residential land uses. 
+0.86 
+0.86 
+6.01 
+1 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 37 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 38 =====
+ 
+36 
+Block 
+Lot 
+Property 
+Address 
+Owner 
+Comments 
+Area (ac) 
+Developable 
+Area (ac) 
+RDP (du/ac) 
+RDP (units) 
+906 
+8 
+25 PEACH TREE PL 
+VOSKIAN, MICHAEL J 
+Qualifies for RDP Analysis. Surrounded by single-
+family detached residential land uses. 
+1.04 
+0.93 
+6.0 
+1 
+919 
+1.02 
+ASH RD 
+WASKO, JOSEPH P & 
+PAULINE E 
+Qualifies for RDP Analysis. Surrounded by single-
+family detached residential land uses. 
+0.93 
+1.03 
+6.0 
+1 
+1211 
+10.03 
+3 STEVENSON CT 
+THIE, CHARLES H. 
+Qualifies 
+for 
+RDP 
+Analysis. 
+Environmental 
+Constraints: Steep Slopes. Approximately 1,170 
+square feet are constrained. Surrounded by single-
+family detached residential land uses. 
+0.88 
+0.84 
+6.0 
+1 
+1301 
+1.11 
+PARK WAY 
+TRIANGLE 
+LAND 
+DEVELOPMENT 
+Qualifies for RDP analysis. Commercial uses to the 
+west, north and east. Developable vacant wooded 
+lot to the south. 
+1.91 
+1.91 
+16.0 
+6 
+1301 
+1.15 
+23 PARK WAY 
+FOCKE & CO, INC. 
+Qualifies for RDP analysis. Commercial uses to the 
+west and east. Developable vacant wooded lot to 
+the north.  Small-lot single-family detached 
+residential uses to the south in Ramsey Borough. 
+1.86 
+1.86 
+16.0 
+6 
+1304 
+7.01 
+100 ROUTE 17 
+ATRIMEC 
+REALTY 
+CORP 
+Qualifies for RDP Analysis. (Developed area adjusted 
+to 2.0 acres as Borough did not Identify any 
+environmental constraints and none are shown by 
+the Remaining Lands app). Fronts on northbound 
+Route 17. Commercial uses to the north and west. 
+Hotel to the south. Single- family detach house to 
+the east, buffered by woods. 
+2.00 
+1.73 
+16.0 
+6 
+1306 
+1.03 
+20 PLEASANT AVE 
+GANZHORN, ARTHUR 
+S & ELIZABETH M 
+Qualifies. Constrained by floodplain and slopes. 
+41,271 s.f. remain unconstrained. Surrounded by 
+single-family detached residential land uses. 
+1.73 
+0.95 
+6.0 
+1 
+TOTAL 
+54.98 
+45.47 
+110.01 
+78 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 38 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 39 =====
+ 
+37 
+SECTION  4: FAIR SHARE PLAN 
+The following Fair Share Plan outlines the components and mechanisms the Borough will utilize to 
+address its affordable housing obligations. These obligations include are summarized in the following 
+table. 
+Table 27: Affordable Housing Obligation Summary 
+Category 
+Obligation 
+First & Second Round Obligation (1987-1999) 
+206 units; reduced to 107 units 
+through VLA/RDP 
+Third Round Obligation (1999-2025) 
+526 units; reduce to 78 units 
+through VLA/RDP 
+Fourth Round Present Need (Rehabilitation) Obligation  
+0 
+Fourth Round Prospective Need Obligation (2025-2035) 
+233 units reduce to 0 units 
+through VLA/RDP 
+ 
+4.1: Prior (3rd Round) Obligation 
+As noted above, the Borough was assigned a 3rd Round RDP Obligation of 78 units. This obligation was 
+affirmatively addressed as noted above and as summarized in the accompanying table.  
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 39 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 40 =====
+ 
+38 
+Table 28: 1987-1999 First and Second Round Affordable Housing Components 
+1987-1999 First and Second Round 
+Affordable Housing Components 
+Affordable Units 
+Status 
+Regional Contribution Agreement with 
+Jersey City RCA       
+17 
+  
+Completed 
+ 
+Inclusionary Development 
+     Crescent Village 
+     Pinnacle Properties 
+     Lancaster 
+     Porcelanosa 
+     160-168 E. Crescent Ave 
+     Rental Bonus Credits 
+ 
+24 
+18  
+7 
+52 of 69  
+5 of 25 
+41 
+ 
+Completed 
+Completed 
+Completed 
+Completed 
+Completed 
+Completed 
+Total 
+Prior Round Unmet Need 
+164 
+   42 
+-- 
+ 
+ 
+Table 29: 3rd Round Affordable Housing Components 
+3rd Round Components 
+Affordable Units 
+Status 
+Inclusionary Development: 
+    Mack-Cali/Toll Brothers 
+     172-176 E. Crescent Ave 
+     160-168 E. Crescent Ave 
+     Porcelanosa 
+     Rental Bonus Credits 
+ 
+22 
+  3 
+20 of 25 
+17 of 69 
+20 
+ 
+Completed 
+Completed 
+Completed 
+Completed 
+Completed 
+     Total Units 
+     Third Round Unmet Need 
+82* 
+444 
+ 
+ 
+With crediting the Borough has achieved 4 more credits than called for through its RDP calculation.   
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 40 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 41 =====
+ 
+39 
+The legislation requires that the 4th Round Plan must identify the status of prior rounds’ plans and, the 
+municipality shall “demonstrate how any sites that were not built in the prior rounds continue to present 
+a realistic opportunity, which may include proposing changes to the zoning on the site to make its 
+development more likely, and which may also include the dedication of municipal affordable housing 
+trust fund dollars or other monetary or in-kind resources.” 
+While all of the above noted sites to address RDP have been developed, it is noted that none of the 
+overlay zones designed to address unmet need have yet been constructed with affordable units.  
+Irrespective of that, they all still represent a realistic opportunity for development and are being retained 
+in the Borough’s plan for affordable housing to address unmet need.  Specifically, these sites remain: 
+1. 
+Approvable. The Borough has already approved overlay zoning for these sites permitting 
+inclusionary multifamily development. 
+2. 
+Available. There are no known title issues which would prohibit the development of these sites.  
+3. 
+Developable. The sites are located in a water and sewer service area 
+4. 
+Suitable. The sites are located in close proximity to the Borough’s commercial shopping centers, 
+other multifamily uses, and numerous NJ Transit bus stops and train station in the surrounding 
+area. 
+ 
+Additionally, the zones include reasonably high permitted densities that are attractive to developers, 
+and the related ordinance regulatory controls are sufficient to accommodate development and do not 
+serve to impede or discourage potential developers to the area. 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 41 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 42 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 42 of 72
+Trans ID: LCV20251747593
+ACCS ee At epee
+he LE bg
+had
+ig
+a anes
+ae ee
+eel =
+pom eaters se
+Seay
+gee ee eae
+te
+nie
+trot
+Bee DSi
+2
+same
+| pTLA ac —_—_
+E
+same
+Are LEN Ge)
+eiwoped
+2
+roqaene|
+Te] Ae trae!
+as as
+PLIGG
+ae
+Shes
+=p ET mete Bas.
+cae fa
+25
+area
+ese cae
+nny
+katie
+an
+: Eta
+les Ena aie PEED
+>
+Aetictmmme Trane
+|
+SOS
+HE  lebNippa erEPRICE
+He
+e
+cia a
+AAT
+Tg
+Pee ame eRe ace Ny
+ry
+SB
+eens ciitaiNie@ccens oececkgee!
+fe)
+Clay.
+St Lt
+tly lees a
+as Pe
+2 ee Ean
+=
+z
+5 Peeetemeiawe el? | LE}
+Hea,|
+2a
+n
+e|
+faet
+§
+Zo
+an
+a
+eee
+2
+iTS Ss
+sf
+Bs
+EASE
+eet
+\
+i
+3
+5
+8
+a
+FS
+g
+5
+gi
+H
+%
+é]
+/$\\<
+5.
+
+===== PAGE 43 =====
+ 
+41 
+ 
+4.2: Fourth Round Obligation 
+Present Need Obligation 
+The Borough was assigned a Present Need (Rehabilitation) Obligation of zero units. As such, the 
+Borough is not required to provide any mechanisms to address this component of its obligations. 
+Prospective Need Obligations 
+While the Borough has a zero RDP for its 4th Round, it remains interested in encouraging additional 
+affordable housing construction.  The Borough is also aware that the FHA-2 includes language which 
+requires VLA municipalities to satisfy at least 25 percent of their 4th Round RDP obligation through 
+redevelopment.  Specifically, amended Section 1 of P.L.1995, c.231 (C.52:27D-310.1) of FHA-2 states: 
+Any municipality that receives an adjustment of its prospective need obligations for the fourth 
+round or subsequent rounds based on a lack of vacant land shall as part of the process of 
+adopting and implementing its housing element and fair share plan identify sufficient parcels 
+likely to redevelop during the current round of obligations to address at least 25 percent of the 
+prospective need obligation that has been adjusted, and adopt realistic zoning that allows for 
+such adjusted obligation, or demonstrate why the municipality is unable to do so. 
+For the 4th Round, Upper Saddle River’s “prospective need obligation that has been adjusted“ (i.e., its 
+RDP obligation) is 0 units. As such, this indicates this section does not apply to the Borough.  However, 
+the Borough does have a developed site that it proposes as a potential inclusionary development parcel.   
+The property in question is at 10 Mountainview Road.  The site is located along the east (north-bound) 
+side of Route 17, on the southerly side of Mountainview Road. It occupies an area of 18.85-acres.  The 
+property has a significant amount of street frontage along Mountainview Road and has limited frontage 
+on Route 17. The site’s locational context within the Borough is shown on the accompanying map.  
+The property is developed with a now dilapidated, deteriorating and vacant multistory office building. 
+Bordering the property on the north is an inclusionary townhouse community developed by the 
+Pinnacle Co. Bordering the property on the southeast is a multi-story, multifamily inclusionary housing 
+complex. To the east and fronting Pine Hill Drive and Secor Road are single-family dwellings generally 
+on wooded lots.  
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 43 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 44 =====
+ 
+42 
+Map 4: Aerial of 10 Mountainview Road 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 44 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 45 =====
+ 
+43 
+A draft Non-Condemnation Area in Need of Redevelopment Report is being prepared to commence 
+the process to redevelop this property.  The analysis of compliance with the applicable statutory criteria 
+focuses on the deteriorating nature of the site’s building.  The information from the Borough revealed 
+the substantive nature of code violations that exist on-site.  Significantly, the analysis finds the site 
+satisfies, at a minimum, criterion “a” and “b” of the Local Redevelopment and Housing Law (LRHL). The 
+property is developed with a building that exhibits characteristics indicating the building is substandard, 
+unsafe, unsanitary, and dilapidated to such a degree as to be conducive to unwholesome working 
+conditions.  Additionally, the fact that utilities have been cut off to the building, and the fact the building 
+is and has been vacant, indicates there has been a discontinuance of the use of the building, and its 
+abandonment has resulted in it being allowed to fall into so great a state of disrepair as to be 
+untenantable.  In support of these conclusions is a report from the Borough of Upper Saddle River Fire 
+Prevention Bureau, enumerating twenty-nine code violations that details the magnitude of the building’s 
+deficiencies which have resulted in the building‘s utilities being cut off, and the building being boarded 
+up, all reflecting characteristics that warrant the ‘area in need’ designation. The Fire Prevention Bureau’s 
+Notice of Violations and Order to Correct are provided in the appendix of this report. 
+The plan for this site would allow the site to be developed for an inclusionary development at 7 dwelling 
+units per acre.  A preliminary draft set of area and bulk standards has been prepared and set forth in 
+the accompanying table.  It identifies a minimum lot size consistent with the property’s lot area, notes 
+specified setbacks from external lot lines and internal building setbacks, provides building and 
+impervious coverage standards, permitted building heights, and related design standards, all consistent 
+with the manner in which the Borough has regulated other similar developments in the immediate 
+vicinity of the site.  
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 45 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 46 =====
+ 
+44 
+Table 30: Preliminary Draft Zoning Regulations for 10 Mountainview Road 
+Requirements 
+Proposed 
+Standard 
+Min. Lot Area (ac) 
+18 
+Minimum Setback from External Lot Lines (ft): 
+     Front Yard 
+     Side Yard 
+     Rear Yard 
+   
+50 
+40  
+40 
+ 
+Minimum Setback from Internal Roadways (ft) 
+25 
+Minimum Distance between buildings (ft): 
+     Front-to-Front 
+     Front-to-Rear 
+     Front-to-Side 
+     Side-to-Side 
+     Side-to-Rear 
+     Rear-to-Rear 
+ 
+75 
+60 
+50 
+50 
+50 
+75 
+Minimum Open Space (%) 
+50 
+Minimum Accessory Building Setback (ft) to: 
+     Principal Building  
+     Front Lot Line 
+     Other Lot Lines 
+ 
+40 
+75 
+40 
+Maximum Density (units/ac) 
+7 
+Maximum Building Coverage (%) 
+25 
+Maximum Impervious Coverage (%) 
+50 
+Maximum Building Length (ft) 
+180 
+Minimum Parking Standards 
+Pe RSIS 
+Maximum Number of units in structure 
+8 
+Maximum Building Height (st/ft)* 
+3/38 
+ 
+ 
+*Affordable units shall be interspersed amongst the townhouse buildings and shall not be allocated to a separate building. 
+Affordable units in any individual townhouse row shall be limited to two units, which may be designed as one-over-one flats.  
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 46 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 47 =====
+ 
+ 
+45 
+ 
+4.3: Consistency with State Planning Initiatives 
+As noted, state regulations require HE&FSP’s to also include: 
+ 
+An analysis of the extent to which municipal ordinances and other local factors 
+advance or detract from the goal of preserving multigenerational family 
+continuity as expressed in the recommendations of the Multigenerational 
+Family Housing Continuity Commission, and; 
+ 
+An analysis of consistency with the State Development and Redevelopment 
+Plan, including water, wastewater, stormwater, and multi-modal transportation 
+based on guidance and technical assistance from the State Planning 
+Commission. 
+Accordingly, the following subsection analyzes the consistency between this HE&FSP to 
+the above referenced state planning initiatives. 
+Multigenerational Family Housing Continuity Commission 
+The Multigenerational Family Housing Continuity Commission was established by the 
+State of New Jersey in 2021. As noted in NJSA 52:27D-329.20, one of the primary duties 
+of the Commission is to “prepare and adopt recommendations on how State 
+government, local government, community organizations, private entities, and 
+community members may most effectively advance the goal of enabling senior citizens 
+to reside at the homes of their extended families, thereby preserving and enhancing 
+multigenerational family continuity, through the modification of State and local laws and 
+policies in the areas of housing, land use planning, parking and streetscape planning, 
+and other relevant areas.” 
+As of the date of this HE&FSP, the Multigenerational Family Housing Continuity 
+Commission has not yet adopted any recommendations. 
+State Development and Redevelopment Plan 
+As established by NJSA 52:18A-200(f), the purpose of the State Development and 
+Redevelopment Plan (SDRP) is to “coordinate planning activities and establish Statewide 
+planning objectives in the following areas: land use, housing, economic development, 
+transportation, natural resource conservation, agriculture and farmland retention, 
+recreation, urban and suburban redevelopment, historic preservation, public facilities 
+and services, and intergovernmental coordination.” 
+As such, the SDRP establishes a number of goals and strategies related to a number of 
+different topics, including economic redevelopment. One such goal is to revitalize 
+existing urban centers by directing growth and development to those areas. Specifically, 
+the SDRP seeks to revitalize the State’s cities and towns by protecting, preserving, and 
+developing the valuable human and economic assets in cities, towns, and other urban 
+areas. 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 47 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 48 =====
+ 
+ 
+46 
+As indicated by the SDRP’s Policy Map, the entirety of the Borough is located in the PA-
+1 Metropolitan Planning Area, wherein development and redevelopment is intended to 
+be directed. The intent of this Planning Area is to: 
+ 
+Provide for much of the state’s future redevelopment. 
+ 
+Revitalize cities and towns. 
+ 
+Promote growth in compact forms. 
+ 
+Stabilize older suburbs. 
+ 
+Redesign areas of sprawl; and, 
+ 
+Protect the character of existing stable communities. 
+Accordingly, this HE&FSP is consistent with the intents of the PA-.1.  Specifically, it is 
+designed to encourage redevelopment and growth in a compact form, while also 
+protecting the character of the existing community. 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 48 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 49 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 49 of 72
+Trans ID: LCV20251747593
+APPENDICES
+47
+
+===== PAGE 50 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 50 of 72
+Trans ID: LCV20251747593
+Upper Saddle River Fire Prevention Bureau
+376 W Saddle River Rd
+Upper Saddle River,NJ,07458
+Phone# (201) 932-0350
+a:
+en
+SystemID#:
+204
+Local ID:
+State Reg#:
+0263
+To:
+Viewstar LL, NJ
+10 Mountainview Rd
+Upper Saddle River, NJ 07458
+NOTICE OF VIOLATIONS
+and
+ORDER TO CORRECT
+Municipality:
+| Upper Saddle River Fire Prevention
+Inspected on:
+September 27, 2022
+‘
+Inspected by:
+Darryl J.DeMott
+Premises:
+Viewstar LL, NJ
+Inspection Type: _— Periodic
+10 Mountainview Rd
+LHU Classification:
+Upper Saddle River, NJ 07458
+Use Group:
+Phone: (201) 934-0695
+OWNER
+AGENT
+TENANT/OPERATOR
+Gold, Moshe
+Gold, Moshe
+Abraham, Yoel
+228 East Route 59, Suite 60
+26 Heyward Street
+Nanuet, NY 10954
+Brooklyn, NY 11239
+‘
+Phone: (917) 359-8324
+YOU ARE HEREBY NOTIFIED THAT an inspection by the Bureau of Fire Prevention disclosed violations of the Uniform
+Fire Code (N.J.A.C. 5:70-1 et. seq.) promulgated pursuant to the New Jersey Uniform Fire Safety Act (N.J.S.A. 52:27D-192 et.
+seq.). The violations are specified on the accompanying "Violations Report" page(s).
+YOU ARE HEREBY ORDERED by the FIRE OFFICIAL to correct the violations listed on the accompanying "Violations
+Report" page(s) within the time, or by the date specified.
+If a re-inspection discloses that violations have not been corrected,
+and an extension has NOT been requested and granted, you will be subject to penalties of up to $5,000 per violation per day, or
+as otherwise authorized by the Act and Bureau Regulations.
+IN ADDITION, the ACT imposes liability on the owner for the actual costs of fire suppression wherea violation directly or
+indirectly results in fire.
+If you do not understand this order, need assistance, or desire further information, please call the Bureau of Fire Prevention at
+(201) 327-4343
+Inspector: fd]
+Z
+#)
+t&
+By:rd)
+a
+ra)
+Z_&
+Darryl! J.DeMott, Fire Official
+Darryl J.DeMott, Fire Official
+Signature of Owner or Representative
+Printed Name of Owner or Representative
+Date
+APPEALS RIGHTS-EXTENSIONS: See the attached page of information concerning your administrative appeal rights, authorized penalties
+and the procedure for requesting an extension of time in which to correct violations.
+Page#: 1
+
+===== PAGE 51 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 51 of 72
+Trans ID: LCV20251747593
+Violations
+Premises:
+Viewstar LL, NJ
+Local ID:
+Address:
+10 Mountainview Rd
+State Regi:
+0263
+Upper Saddle River, NJ 07458
+SystemID#:
+204
+Owners
+Abraham Yoe!
+Initial Inspected on: 09/27/22
+biel IES)
+Last Inspected on:
+09/27/22
+.
+Initial Inspector:
+DeMott, Darryl J
+Mail:
+management@theapexnj.com
+The Violations cited on the above premises are as follows:
+Number |Description
+Floor
+| Abate By
+U/A
+U/A
+U/A
+|
+Location: throughout
+ii -
+|
+2
+Category/ Nature: Fire Protection Systems / Fire alarm annual testing
+|
+10/12/22
+|
+required, must be witnessed by fire inspector
+|
+|
+Code Section: N.J.A.C. 5:70-3, 907.20.2
+}
+Description: fire alarm system shall be tested and inspected with
+|
+a fire inspector to witness the test
+|
+|
+Location: throughout
+:
+—
+3
+Category / Nature: Fire Protection Systems / Fire protection systems
+| 10/12/22
+|
+|
+shall be maintained in an operative condition
+Code Section: N.J.A.C. 5:70-3, 901.6
+Description: failure to provide fire alarm testing and inspection
+|
+|
+documents
+|
+|
+=
+Location: throughout
+|
+|
+4
+Category/ Nature: Fire Protection Systems / Fire alarm system must be | 10/12/22
+maintained as installed
+|
+|
+Code Section: N.J.A.C. 5:70-3, 907.20.1
+|
+Description: all required fire alarm system components shall be
+replaced as required at time of initial occupancy
+|
+|
+Location: throughout
+|
+|
+5
+‘category / Nature: Fire Protection Systems/ Fire alarm circuit breaker
+10/12/22
+shall be labeled in red and locked wilisted device
+|
+Code Section: N.J.A.C: 5:70-3, 907.20.1
+|
+|
+Description: must label breaker
+|
+|
+|i
+Location: throughout
+6
+Category / Nature: Fire Protection Systems / Building with fire alarm and)
+10/12/22
+|
+|
+|
+sprinkler system shall be monitored in accordance
+|
+|
+with NFPA 72
+|
+|
+Code Section:
+Description: sprinkler system must be tested and inspected.
+additionally, a five year internal investigation shall be
+completed.
+Location: throughout
+‘|
+|
+7
+Category/ Nature: Sprinklers, Standpipes, Pumps / Sprinkler system
+10/12/22
+|
+annual testing required, must be witnessed by fire
+|
+inspector
+Code Section: N.J.A.C. 5:70-3, 901.6
+|
+Description: required
+|
+Page#: 2
+
+===== PAGE 52 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 52 of 72
+Trans ID: LCV20251747593
+Location: throughout
+8
+Category/ Nature: Sprinklers, Standpipes, Pumps / Sprinkler system
+10/12/22
+|
+must be maintained as installed (modification to
+|
+structure)
+|
+|
+Code Section: N.J.A.C. 5:70-3, 901.4
+Description: all required components of the sprinkler system shall
+|
+be replaced as required at the time of the first
+occupancy.
+|
+[
+Location: throughout
+|
+9
+|Category / Nature: Sprinklers, Standpipes, Pumps / Escutcheon plate
+10/12/22
+missing from sprinkler head assembly - replace
+|
+Code Section: N.J.A.C. 5:70-3, 901.6.1
+Description: replace all escutcheon rings throughout building that
+|
+are missing
+ee|
+ee
+—E_
+=
+Location: throughout
+10
+Category/ Nature: Sprinklers, Standpipes, Pumps / Standpipe annual
+10/12/22
+testing require as per NFPA 25
+|
+|
+Code Section: N.J.A.C. 5:70-3, 914.1
+|
+Description: annual standpipe and five year inspection must be
+|
+|
+done
+|
+]
+Location: throughout
+|
+= |
+|
+11
+Category / Nature: Sprinklers, Standpipes, Pumps / Fire Department
+10/12/22
+|
+Connection sign required, reading: FDC in 6 inch
+high letters
+|
+Code Section: N.J.A.C. 5:70-3, 912.3
+Description: sign must be placed so as to be read from the street
+|
+side of the building, if addidtional signage is needed
+to accomplish that, then additional signs shall be
+|
+discussed with the fire official.
+|
+|
+|
+Location: throughout
+a
+-
+|
+12
+Category / Nature: Portable Fire Extinguishers / Fire extinguisher need
+10/12/22
+|
+to be inspected, maintained and tested in
+|
+|
+accordance with NFPA 10
+|
+Code Section: N.J.A.C. 5:70-3, 906.2
+|
+Description: all fire extinguishers shall be tested and hung in
+accordance with the manufacturers requirements.
+|
+Location: throughout
+|
+|
+|
+13
+Category / Nature: Portable Fire Extinguishers / Fire extinguisher needs | 10/12/22
+to be mounted in a visible location for occupant
+|
+access
+|
+|
+Code Section: N.J.A.C. 5:70-3, 906.2
+|
+|
+|
+Description: all fire extinguishers shall be hung with the
+|
+|
+manufacturers hanger
+|
+j
+Location:
+|
+|
+14
+Category / Nature: Means of Egress / Means of egress must be
+10/12/22
+illuminated
+Code Section: N.J.A.C. 5:70-3, 1006.1
+|
+|
+Description: all exterior exit doors shall have proper illumination
+outside the door for exiting purposes.
+|
+|
+Location:
+|
+15
+|Category / Nature: Key Boxes / Key box (Knox Box) shall be installed to | 10/12/22
+gain necessary access as required by the Fire
+Official
+|
+|
+|
+Code Section: N.J.A.C. 5:70-3, 506.1
+|
+Description: a knox box shall be installed at the main entrance of
+|
+the building.
+|
+|
+Page#: 3
+
+===== PAGE 53 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 53 of 72
+Trans ID: LCV20251747593
+Location:
+|
+|
+16
+|Category / Nature: Key Boxes / Tenant must provide new tenant key for | 10/12/22
+|
+Fire Department Key box (Knox Box)
+|
+|
+|
+Code Section: N.J.A.C. 5:70-3, 506.2
+Description: all keys required by the fire official shall be placed in
+|
+|
+the knox box
+|
+Location:
+ii
+|
+7
+|
+-
+17
+|Category / Nature: Doors and Labeling / Label service equipment area
+10/12/22
+|
+|
+doors (HVAC, Electrical, etc.)
+Code Section: N.J.A.C. 5:70-3, 510.1
+Description: all doors shall be properly marked with regard to
+|
+thier prospective occupancy.
+|
+|
+Location:
+|
+|
+18
+Category/ Nature: Doors and Labeling / Access to fire protection
+10/12/22
+|
+equipment must be labeled
+Code Section: N.J.A.C. 5:70-3, 510.1
+|
+Description: must label all doors according to the fire protection
+|
+equipment inside
+|
+|
+Location:
+iz
+_
+19 |Category / Nature: Illumination and Signs / Emergency lighting must be
+| 10/12/22
+|
+maintained
+|
+Code Section: N.J.A.C. 5:70-3, 604.3
+Description: monthly and annual testing of emergency lighting
+and exit signs are due
+}
+|
+|
+Location:
+|
+|
+|
+1
+20
+(Category/ Nature: Illumination and Signs / Exit signs must be
+|
+10/12/22
+illuminated
+|
+|
+Code Section: N.J.A.C. 5:70-3, 1011.1
+|
+Description: all exit signs need to be illuminated
+|
+|
+Location:
+oo
+|
+|
+21
+Category / Nature: Illumination and Signs/Emergency lighting and exit | 10/12/22
+|
+sign
+testing required
+|
+|
+|
+Code Section: N.J.A.C. 5:70-3, 604.3
+Description:
+|
+|
+Location:
+|
+. |
+22
+ |Category / Nature: Elevators / Sign required: "IN FIRE EMERGENCY,
+|
+10/12/22
+|
+DO NOT USE ELEVATOR. USE EXIT STAIRS"
+|
+Code Section: N.J.A.C. 5:70-3, 607.2
+|
+|
+Description: must be outside all elevators in the lobby area
+|
+|
+|
+|
+|
+Location:
+|
+23
+Category/ Nature: Elevators / Elevator recall shall be tested annually
+10/12/22
+Code Section: N.J.A.C. 5:70-3, 915.1
+|
+Description: either a certificate from the NJ division of elevators
+|
+|
+or a certified document from a NJ approved elevator
+inspection company indicating the the phase 1 and
+|
+|
+phase2 are functional
+|
+|
+Location:
+|
+|
+|
+24
+ |Category / Nature: Local Fees and LHUs/ Failure to pay
+|
+10/12/22
+registration/inspection fee
+|
+Code Section:
+|
+Description: both local and state fees are due
+Location:
+|
+|
+Page#: 4
+
+===== PAGE 54 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 54 of 72
+Trans ID: LCV20251747593
+25
+Category / Nature: Local Fees and LHUs / Life Hazard Use (LHU)
+|
+10/12/22
+|
+|
+|
+Registration Certificate must be posted in a
+|
+conspicuous area
+|
+.
+|
+Code Section:
+Description: failure to provide a certificate for TWO Ihu atriums
+|
+Location:
+26
+Category/ Nature: Local Fees and LHUs / Annual Inspection Certificate | 10/12/22
+|
+shall be posted in a conspicuous location
+Code Section:
+|
+Description: failure to pay local registration fee
+Location:
+|
+|
+|
+27
+Category / Nature: Local Fees and LHUs/ Failure to register building,
+10/12/22
+|
+|
+use and premises with the Fire Marshals Office
+|
+|
+Cade Section:
+|
+Description: failure to register all occupants
+|
+|
+Location:
+|
+28
+~|Category/ Nature: Local Fees and LHUs/ File for a Life Hazards Use
+10/12/22
+|
+Registration with the Division of Fire Safety
+|
+Code Section:
+|
+Description: failure to have filed for a LHU certificate for the
+atrium in building
+Location:
+|
+|
+29
+Category / Nature: Retrofit Code / Unit needs a Carbon Monoxide
+09/27/22
+Ww
+Detector installed and mounted
+|
+Code Section:
+|
+|
+Description:
+|
+|
+Key: The numbering of violations is for identification purposes only and shall not be construed as bearing in any way on the
+seriousness of any violation.
+"U" Unabated - Violation uncorrected
+"A" Abated - Violation corrected
+"W" - Violation is withdrawn
+"R" - Violation is Recommended
+"Vv" - Void
+"TE" - Time Extension
+*RV* denotes recurring violation.
+Page#: 5
+
+===== PAGE 55 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 55 of 72
+Trans ID: LCV20251747593
+Premises:
+Viewstar LL, NJ
+Local ID:
+Address:
+10 Mountainview Rd
+State Reg#:
+0263
+Upper Saddle River, NJ 07458
+tnitial Inspected on:
+09/27/22
+Last Inspected on:
+09/27/22
+ADDITIONAL EXPLANATION
+—_
+Violation#: 2
+Fire alarm annual testing required, must be witnessed by fire inspector
+CHAPTER 9 FIRE PROTECTION SYSTEMS
+SECTION 907 FIRE ALARM AND DETECTION SYSTEMS
+907.20 Inspection, testing and maintenance. The mainte- nance and testing
+schedules and procedures for fire alarm and fire detection systems shall be in
+accordance with this section and Chapter 10 of NFPA 72.
+907.20.2 Testing. Testing shall be performed in accordance with the schedules in
+Chapter 10 of NFPA 72 or more fre- quently where required by the fire code
+official. Where automatic testing is performed at least weekly by a remotely
+monitored fire alarm control unit specifically listed for the application, the manual
+testing frequency shall be permitted to be extended to annual. Exception: Devices
+or equipment that are inaccessible for safety considerations shall be tested during
+scheduled shutdowns where approved by the fire code official, but not less than
+every 18 months.
+Violation#: 3
+Fire protection systems shall be maintained in an operative condition
+_
+CHAPTER 9 FIRE PROTECTION SYSTEMS
+SECTION 901 GENERAL
+901.6 Inspection, testing and maintenance. Any installed fire detection, alarm and
+extinguishing systems, smoke con- trol, smoke and heat vents whether in a
+permanent structure or a mobile enclosed unit shail be maintained in an operative
+condi- tion at all times, and shall be replaced or repaired where defec- tive.
+901.6.1 Standards. Fire protection systems shall be inspected, tested and
+maintained in accordance with the referenced standards listed in Table 901.6.1.
+901.6.2 Records. Records of all system inspections, tests and maintenance
+Tequired by the referenced standards shall be maintained on the premises for a
+minimum of three years and shall be copied to the fire code official upon request.
+901.6.3 Carbon monoxide alarms. Carbon monoxide alarms shall be maintained in
+accordance with NFPA 720 and the manufacturer's instructions.
+CHAPTER 9 FIRE PROTECTION SYSTEMS
+SECTION 907 FIRE ALARM AND DETECTION SYSTEMS
+907.20 Inspection, testing and maintenance. The mainte- nance and testing
+schedules and procedures for fire alarm and fire detection systems shall be in
+accordance with this section and Chapter 10 of NFPA 72.
+907.20.1 Maintenance required. Whenever or wherever any device, equipment,
+system, condition, arrangement, level of protection or any other feature is required
+for com- pliance with the provisions of this code, such device, equip- ment,
+system, condition, arrangement, level of protection or other feature shall thereafter
+be continuously maintained in accordance with applicable NFPA requirements or
+as directed by the fire code official.
+Violation#: 5
+Fire alarm circuit breaker shall be labeled in red and locked wilisted device
+:
+Page#: 6
+
+===== PAGE 56 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 56 of 72
+Trans ID: LCV20251747593
+CHAPTER 9 FIRE PROTECTION SYSTEMS
+SECTION 907 FIRE ALARM AND DETECTION SYSTEMS
+907.20 Inspection, testing and maintenance. The mainte- nance and testing
+schedules and procedures for fire alarm and fire detection systems shall be in
+accordance with this section and Chapter 10 of NFPA 72.
+907.20.1 Maintenance required. Whenever or wherever any device, equipment,
+system, condition, arrangement, level of protection or any other feature is required
+for com- pliance with the provisions of this code, such device, equip- ment,
+system, condition, arrangement, level of protection or other feature shall thereafter
+be continuously maintained in accordance with applicable NFPA requirements or
+as directed by the fire code official.
+Violation#: 6
+Building with fire alarm and sprinkler system shall be monitored in accordance with
+NFPA 72
+Violation#: 7
+Sprinkler system annual testing required, must be witnessed by fire inspector
+CHAPTER 9 FIRE PROTECTION SYSTEMS
+SECTION 901 GENERAL
+901.6 Inspection, testing and maintenance. Any installed fire detection, alarm and
+extinguishing systems, smoke con- trol, smoke and heat vents whether in a
+permanent structure or a mobile enclosed unit shall be maintained in an operative
+condi- tion at all times, and shall be replaced or repaired where defec- tive.
+901.6.1 Standards. Fire protection systems shall be inspected, tested and
+maintained in accordance with the referenced standards listed in Table 901.6.1.
+901.6.2 Records. Records of all system inspections, tests and maintenance
+required by the referenced standards shall be maintained on the premises for a
+minimum of three years and shall be copied to the fire code official upon request.
+901.6.3 Carbon monoxide alarms. Carbon monoxide alarms shall be maintained in
+accordance with NFPA 720 and the manufacturer's instructions.
+Violation#: 8
+Sprinkler system must be maintained as installed (modification to structure)
+CHAPTER 9 FIRE PROTECTION SYSTEMS
+SECTION 901 GENERAL
+901.4 Installation. Fire protection systems shall be maintained in accordance with
+the original installation standards for that system. Before any fire alarm, detection
+or fire suppression system is installed, enlarged or extended, a permit shall be
+obtained from the construction official.
+901.4.1 Fire protection systems. All fire protection sys- tems shall be maintained in
+an operative condition at all times. An owner or occupant shall not reduce the
+effective- ness of the protection so required. This requirement shall not prohibit the
+owner or occupant from temporarily reduc- ing or discontinuing the protection
+where necessary to make tests, repairs, alterations or additions. The fire official
+shall be notified before disconnection or interruption of protec- tion and when tests,
+repairs, alterations or additions are started and upon completion of such work. The
+fire official shall be advised of the extent of and reason for such work, and the
+restoration of the protection shall be diligently pur- sued.
+901.4.2 Fire protection system removal. Any fire protec- tion system providing
+partial or redundant protection origi- nally installed to protect a special hazard that
+no longer exists and that is not required in accordance with the current Uniform
+Construction Code, is allowed to be removed with the approval of the fire subcode
+official and fire official. All disconnected equipment and devices, such as pull
+stations, nozzles, detectors, sprinklers, sensors, panels and hose con- nections,
+shall be removed so as not to givea false indication that the structure, area or
+space is protected.
+:
+901.4.3. Deleted.
+901.4.4 Appearance of equipment. Any device that has the physical appearance of
+life safety or fire protection equip- ment but that does not perform that life safety or
+fire protec- tion function, shall be prohibited.
+Violation#: 9
+Escutcheon plate missing from sprinkler head assembly - replace
+Page#: 7
+
+===== PAGE 57 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 57 of 72
+Trans ID: LCV20251747593
+CHAPTER 9 FIRE PROTECTION SYSTEMS
+SECTION 901 GENERAL
+901.6 Inspection, testing and maintenance. Any installed fire detection, alarm and
+extinguishing systems, smoke con- trol, smoke and heat vents whether in a
+permanent structure or a mobile enclosed unit shall be maintained in an operative
+condi- tion at all times, and shall be replaced or repaired where defec- tive.
+901.6.1 Standards. Fire protection systems shall be inspected, tested and
+maintained in accordance with the referenced standards listed in Table 901.6.1.
+Violation#: 10
+Standpipe annual testing require as per NFPA 25
+CHAPTER 9 FIRE PROTECTION SYSTEMS
+SECTION 914 PRIVATE WATER TANKS AND FIRE SERVICE MAINS
+914.1 Inspection, testing, maintenance. Private water tanks and water service
+mains shall be periodically inspected, tested and maintained in accordance with
+NFPA 25.
+Violation#: 11
+Fire Department Connection sign required, reading: FDC in 6 inch high letters
+CHAPTER 9 FIRE PROTECTION SYSTEMS
+SECTION 912 FIRE DEPARTMENT CONNECTIONS
+912.3 Access. Immediate access to fire department connec- tions shall be
+maintained at all times and without obstruction by fences, bushes, trees, walls or
+any other object for a mini- mum of 3 feet (914 mm).
+912.3.1 Locking fire department connection caps. The fire code official is
+authorized to require locking caps on fire department connections for water-based
+fire protection sys- tems where the responding fire department carries appropri-
+ate key wrenches for removal.
+Violation#: 12
+Fire extinguisher need to be inspected, maintained and tested in accordance with
+NFPA 10
+CHAPTER 9 FIRE PROTECTION SYSTEMS
+SECTION 906 PORTABLE FIRE EXTINGUISHERS
+906.2 General requirements. Portable fire extinguishers shall be selected, installed
+and maintained in accordance with this section and NFPA 10. Exceptions:
+1. The travel distance to reach an extinguisher shall not apply to the spectator
+seating portions of Group A-5 occupancies.
+2. Thirty-day inspections shall not be required and maintenance shall be allowed to
+be once every three years for dry-chemical or halogenated agent portable fire
+extinguishers that are supervised bya listed and approved electronic monitoring
+device, provided that all of the following conditions are met:
+Violation#: 13
+Fire extinguisher needs to be mounted in a visible location for occupant access
+CHAPTER 9 FIRE PROTECTION SYSTEMS
+SECTION 906 PORTABLE FIRE EXTINGUISHERS
+906.2 General requirements. Portable fire extinguishers shall be selected, installed
+and maintained in accordance with this section and NFPA 10. Exceptions:
+1. The travel distance to reach an extinguisher shall not apply to the spectator
+seating portions of Group A-5 occupancies.
+2. Thirty-day inspections shall not be required and maintenance shall be allowed to
+be once every three years for dry-chemical or halogenated agent portable fire
+extinguishers that are supervised bya listed and approved electronic monitoring
+device, provided that all of the following conditions are met:
+Violation#: 14
+Means of egress must be illuminated
+CHAPTER 10 MEANS OF EGRESS
+SECTION 1006 MEANS OF EGRESS ILLUMINATION
+1006.1 Illumination required. The means of egress, including the exit discharge,
+shall be illuminated at all times the building space served by the means of egress
+is occupied. Exceptions:
+1. Occupancies in Group U.
+2. Aisle accessways in Group A.
+3. Dwelling units and sleeping units.
+Page#: 8
+
+===== PAGE 58 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 58 of 72
+Trans ID: LCV20251747593
+Violation#: 15
+Key box (Knox Box) shall be installed to gain necessary access as required by the
+Fire Official
+CHAPTER 5 FIRE SERVICE FEATURES
+SECTION 506 KEY BOXES
+506.1 Where required. Where access to or within a structure or an area is
+restricted because of secured openings or where immediate access is necessary
+for life-saving or fire-fighting purposes, the fire code official is authorized to require
+a key box to be installed in an approved location. The key box shall be of an
+approved type and shall contain keys to gain necessary access as required by the
+fire code official.
+506.1.1 Locks. An approved lock shall be installed on gates or similar barriers
+when required by the fire code official.
+Violation#: 16
+Tenant must provide new tenant key for Fire Department Key box (Knox Box)
+CHAPTER 5 FIRE SERVICE FEATURES
+SECTION 506 KEY BOXES
+506.2 Key box maintenance. The operator of the building shall immediately notify
+the fire code official and provide the new key whena lock is changed or rekeyed.
+The key to such lock shall be secured in the key box.
+Violation#: 17
+Label service equipment area doors (HVAC, Electrical, etc.)
+CHAPTER 5 FIRE SERVICE FEATURES
+SECTION 510 FIRE DEPARTMENT ACCESS TO EQUIPMENT
+510.1 Identification. Fire protection equipment shall be iden- tified in an approved
+manner. Rooms containing controls for air-conditioning systems, sprinkler risers
+and valves, or other fire detection, suppression or control elements shall be identi-
+fied for the use of the fire department. Approved signs required to identify fire
+protection equipment and equipment location, shall be constructed of durable
+materials, permanently installed and readily visible.
+Violation#: 18
+Access to fire protection equipment must be labeled
+CHAPTER 5 FIRE SERVICE FEATURES
+SECTION 510 FIRE DEPARTMENT ACCESS TO EQUIPMENT
+510.1 Identification. Fire protection equipment shall be iden- tified in an approved
+manner. Rooms containing controls for air-conditioning systems, sprinkler risers
+and valves, or other fire detection, suppression or control elements shall be identi-
+fied for the use of the fire department. Approved signs required to identify fire
+protection equipment and equipment location, shall be constructed of durable
+materials, permanently installed and readily visible.
+Violation#: 19
+Emergency lighting must be maintained
+CHAPTER 6 BUILDING SERVICES AND SYSTEMS
+SECTION 604 EMERGENCY AND STANDBY POWER SYSTEMS
+604.3 Maintenance. Emergency and standby power systems shall be maintained
+in accordance with NFPA 110 and NFPA 111 such that the system is capable of
+supplying service within the time specified for the type and duration required.
+604.3.1 Schedule. Inspection, testing and maintenance of emergency and standby
+power systems shall be in accor- dance with an approved schedule established
+upon comple- tion and approval of the system installation.
+604.3.2 Written record. Written records of the inspection, testing and maintenance
+of emergency and standby power systems shail include the date of service, name
+of the servic- ing technician,
+a summary of conditions noted anda detailed
+description of any conditions requiring correction and what corrective action was
+taken. Such records shall be kept on the premises served by the emergency or
+standby power system and be available for inspection by the fire code official.
+604.3.3 Switch maintenance. Emergency and standby power system transfer
+switches shall be included in the inspection, testing and maintenance schedule
+required by Section 604.3.1. Transfer switches shall be maintained free from
+accumulated dust and dirt. Inspection shall include examination of the transfer
+switch contacts for evidence of deterioration. When evidence of contact
+deterioration is detected, the contacts shall be replaced in accordance with the
+transfer switch manufacturer's instructions.
+Page#: 9
+
+===== PAGE 59 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 59 of 72
+Trans ID: LCV20251747593
+Violation#: 20
+Exit signs must be illuminated
+CHAPTER 10 MEANS OF EGRESS
+SECTION 1011 EXIT SIGNS
+1011.1 Exit signs. All means of egress shall be indicated with approved “Exit”
+signs where required by the construction code in effect at the time of first
+occupancy or N.J.A.C. 5:70-4 et seq., as applicable. All “Exit” signs shall be
+maintained visible, and all illuminated exit signs shall be illuminated at all times the
+structure is occupied. Supplemental internally illuminated directional signs, when
+necessary, shall be installed in accor- dance with the technical requirements of the
+Uniform Con- struction Code indicating the direction and way of egress.
+Violation#: 21
+Emergency lighting and exit sign testing required
+CHAPTER 6 BUILDING SERVICES AND SYSTEMS
+SECTION 604 EMERGENCY AND STANDBY POWER SYSTEMS
+604.3 Maintenance. Emergency and standby power systems shall be maintained
+in accordance with NFPA 110 and NFPA 111 such that the system is capable of
+supplying service within the time specified for the type and duration required.
+604.3.1 Schedule. Inspection, testing and maintenance of emergency and standby
+power systems shall be in accor- dance with an approved schedule established
+upon comple- tion and approval of the system installation.
+604.3.2 Written record. Written records of the inspection, testing and maintenance
+of emergency and standby power systems shall include the date of service, name
+of the servic- ing technician,
+a summary of conditions noted and a detailed
+description of any conditions requiring correction and what corrective action was
+taken. Such records shall be kept on the premises served by the emergency or
+standby power system and be available for inspection by the fire code official.
+604.3.3’Switch maintenance. Emergency and standby power system transfer
+switches shall be included in the inspection, testing and maintenance schedule
+required by Section 604.3.1. Transfer switches shall be maintained free from
+accumulated dust and dirt. Inspection shall include examination of the transfer
+switch contacts for evidence of deterioration. When evidence of contact
+deterioration is detected, the contacts shall be replaced in accordance with the
+transfer switch manufacturer's instructions.
+Violation#: 22
+Sign required: "IN FIRE EMERGENCY, DO NOT USE ELEVATOR. USE EXIT
+STAIRS"
+CHAPTER 6 BUILDING SERVICES AND SYSTEMS
+SECTION 607 ELEVATOR RECALL AND MAINTENANCE
+607.2 Emergency signs. An approved pictorial sign of a stan- dardized design shall
+be posted adjacent to each elevator call station on ail floors instructing occupants
+to use the exit stair- ways and not to use the elevators in case of fire. The sign
+shall read: IN FIRE EMERGENCY
+, DO NOT USE ELEV ATOR. USE EXIT
+STAIRS. The emergency sign shall not be required for elevators that are part of an
+accessible means of egress com- plying with Section 1007.4.
+Violation#: 23
+Elevator recall shall be tested annually
+CHAPTER 9 FIRE PROTECTION SYSTEMS
+SECTION 915 ELEVATOR RECALL
+915.1 Testing. Elevators shall be tested annually in accordance with Sections
+915.1.1 and 915.1.2. The fire official shall accept a current Certificate of
+Compliance issued in accordance with the Uniform Construction Code as evidence
+of compliance
+with this section.
+915.1.1. Upon simulated activation of an elevator lobby detector, the elevator
+controller shall cause all elevator cars that serve that lobby to return nonstop to the
+designated lobby, and prevent further operation of the elevators without the use of
+an emergency service key.
+915.1.2. The emergency service keys shall be utilized to place the recalled
+elevators into emergency operation and to verify proper functioning of the elevator
+for fire service operation.
+Violation#: 24
+Failure to pay registration/inspection fee
+Page#: 10
+
+===== PAGE 60 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 60 of 72
+Trans ID: LCV20251747593
+Violation#:25
+—_—Lifle Hazard Use (LHU) Registration Certificate must be postedina conspicuous
+Violation#:26
+~~ Annual Inspection Certificate shall be posted inaconspicuouslocation=
+‘Violation#: 27
+Failure to register building, use and premises with the Fire Marshals Office
+=
+Violation#:28
+—_File fora Life Hazards Use Registration with the Division of Fire Safety
+Page#: 11
+
+===== PAGE 61 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 61 of 72
+Trans ID: LCV20251747593
+ADMINISTRATIVE APPEAL RIGHTS
+GENERAL
+YOU MAY CONTEST THESE ORDERS by filing an appeal.
+The request for an appeal must be made in writing within 15 days after receipt of
+this order and addressed
+to:
+Bergen Construction Board of Appeals
+150
+River
+St.
+Hackensack,
+NJ 07601
+The notification of Appeals must include the appellant's registration number, the address of the premises involved, the reference numbers of the violation cited, the
+argument with regard to each and specific code section of other authority the Appellant will rely on in support of his position.
+You are advised that the appeal must be accompanied by the fee of $100.00 payable to “County of Bergen" unless fee has been established by the local or county
+governing body.
+Appeals will not be deemed as received until payment of fee is made. Note: fees are waived if appeal is based on the Local Enforcing Agency's failure to act within a
+required time frame.
+EXTENSIONS
+If a specified time has been given to abate a violation,
+YOU MAY REQUEST AN EXTENSION OF TIME by submitting a written request to
+the Upper Saddle River Fire Prevention Bureau Bureau of Fire
+Prevention.
+To be considered,
+the
+request must be made before the
+compliance date specified and must set forth the work accomplished,
+the work remaining,
+the reason why an extension of time is
+necessary,
+and the date by which all work will be completed.
+TAKE NOTICE THAT,
+pursuant to N.J.A.C.
+5:70-2.10(d),
+an application for an extension constitutes an admission that the violation notice
+is factually and procedurally correct and that
+the violations
+do or did exist.
+In addition,
+the request for an extension constitutes
+a
+waiver of the right to a hearing as to those violations for which an extension is applied.
+PENALTIES
+Violation of the Code is punishable by monetary penalties of not more than $5,000 per day for each violation. Except while an
+appeal is pending,
+each day a violation continues,
+an additional separate violation exists. Specific penalties are as follows:
+a.
+Failure to install required protection equipment after having been given written notice of the requirement to do so: A
+maximum of $2,500 per violation per day.
+b.
+Failure to abate any violation after having been given notice of the violation: A maximum of $5,000 per violation per day.
+c.
+Storage of any material in violation of this Code or the conduct of any process in violation of the Code: A maximum of
+$5,000 per violation per day.
+d.
+Blocking,
+locked,
+or obstructing required exits:
+i.
+In a place of public assembly: A maximum of $5,000 per occurrence.
+ii.
+In any other place;
+A maximum of $1,000 per occurrence.
+e. Disabling or vandalizing any fire suppression or alarm device or systemthis
+i.
+In a place of public assembly: A maximum of $5,000 per occurrence.
+ii.
+In any other place: A maximum of $1,000 per occurrence.
+£.
+Failure to obey a Notice of Imminent Hazard and Order to Vacate: A maximum of $5,000 per day for each day that
+the failure
+continues.
+g.
+Failure to obey an Order to Close for a fixed period of time: A maximum of $5,000 per day that the failure continues.
+h. Obstructing the entry into a premise or interfering with the duty of an authorized inspector: A maximum of $2,500 for each
+occurrence.
+i. Any willfully false application for a Permit or Registration:
+A maximum of $1,000 for each occurrence.
+j. Any other act or omission prohibited by the Act or the Regulations: A maximum of $5,000 per violation per day.
+Claims arising out of penalty assessments can be compromised or settled if it shall be likely to result in compliance. Moreover, no such disposition can be finalized while the
+violation continues to exist.
+Any penalties assessed are in addition to others previously assessed. Penalties must be paid in full within 30 days after an order to pay. If full payment is not made within 30
+days, the matter will be referred for summary collection pursuant to the Penalty Enforcement Law ( N.J.S.A. 2A:58-10 et. seq.).
+_NOTICE: If you require guidance or advice concerning your legal rights, obligations or the course of action you should follow, consult your own advisor.
+Page#: 12
+
+===== PAGE 62 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 62 of 72
+Trans ID: LCV20251747593
+ZoningCode
+From:
+ZoningCode
+Sent:
+Wednesday, March 29, 2023 2:28 PM
+To:
+Jaimee Katz Sussner; Patrick Rotella; Scott Levenson
+Cc:
+Gina Demott; Darryl DeMott; rtregan@rtreganlaw.com; Gerry Falotico; Building;
+ZoningCode
+Subject:
+RE: 10 Mountainview Road, Upper Saddle River, NJ
+Attachments:
+Board Up Procedure USFA.pdf; Vacant Premises IFCNJ 2015 10 Mountain View
+Road.pdf; Fire Notice of Violations 3-29-2023.pdf
+.
+Good afternoon Miss Katz-Sussner,
+In reply to your emails:
+1.
+The Receiver is making arrangements to address the downed trees and debris. Thank you, please provide a time
+frame.
+2.
+It is my understanding that the dumpster will be removed. There is also debris around the dumpsters,
+| believe
+there are 3 or 4, please provide a time frame.
+3.
+The Receiver will be installing “No Trespassing” signs at either end of the Property. Thank you, please provide a
+time frame.
+4.
+Unless Mr. Levenson expresses an objection, the Receiver agrees to board up the Property and to terminate all
+utilities. Please provide us with the Borough’s requirements to do so. Please see below details and attachments.
+As per N.J.A.C. 5:70-3, 311.1; Temporarily unoccupied buildings shall be safeguarded and maintained accordingly.
+And as per 311.2, 311.2.1, 311.2.2, and 311.2.4; Temporarily unoccupied structures shall be secured by the following
+means:
+e
+Alloperable doors that provide access to the building shall be boarded up in accordance with the
+attached document “Board up Procedures”.
+e
+Fire suppression shall be drained and left available as a dry system for the fire department use if
+needed.
+e
+Fire alarm shall discontinue central station monitoring.
+©
+Utilities shall be disconnected at their source by the utility companies with documentation to and from
+the utility companies.
+And as per 311.5, 311.5.1, 311.5.2, 311.5.3, 311.5.4; The following placards shall be posted at all boarded locations in
+accordance with the applicable Uniform Fire Code citations.
+e
+Placard symbol 3; “This symbol shall mean that structural or interior hazards exist to a degree that
+consideration should be given to limit fire fighting to exterior operations only, with entry only occurring
+for known life hazards.”
+And as per 311.5.3; Prior to any placards being placed on the building an inspection must be conducted by the Upper
+Saddle River Bureau of Fire Code Enforcement.
+.
+Please find attached a Notice of Violations and Order to Correct, and Board up procedures also for your review copies of
+page 38 and 39 of the International Fire Code 2015, New Jersey Edition with details referencing the citations.
+Sincerely,
+Gerald Falotico
+Zoning Official
+Code Enforcement Officer
+1
+
+===== PAGE 63 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 63 of 72
+Trans ID: LCV20251747593
+
+===== PAGE 64 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 64 of 72
+Trans ID: LCV20251747593
+DRAFT AFFIRMATIVE MARKETING PLAN
+§54-46.1 Affirmative Marketing Plan.
+The Borough’s Affirmative Marketing Plan is a regional marketing strategy designed to attract buyers
+and/or renters of all majority and minority groups, regardless of race, creed, color, national origin,
+ancestry, marital or familial status, gender, affectional or sexual orientation, disability, age or number of
+children to housing units which are being marketed by a developer or sponsor of affordable housing. The
+affirmative marketing plan is intended to target those potentially eligible persons who are least likely to
+apply for affordable units in that region. It is a continuing program that directs all marketing activities
+toward the COAH Housing Region in which the municipality is located and covers the period of deed
+restriction. The Plan will address the requirements ofN.J.A.C. 5:80-26.15. In addition, the Plan prohibits
+discrimination in the sale, rental, financing or other services related to housing on the basis of race, color,
+sex, religion, handicap, age, familial status/size or national origin. The Borough of Upper Saddle River is
+in the housing region consisting of Bergen, Passaic, Hudson, and Sussex Counties.
+The affirmative
+marketing program is a continuing program and will meet the following requirements:
+§54-46.2 Newspapers.
+a. All newspaper articles, announcements and requests for application for low and moderate income units
+will appear in the following newspapers/publications: The Record.
+b.
+The primary marketing will take the form of at least one (1) press release sent to the above
+publications and a paid display advertisement to each of the above newspapers.
+Additional advertising
+and publicity will be on an “as needed” basis.
+c,
+The advertisement will include a description of the street address of units, direction to housing units,
+number of bedrooms per unit, range of prices/rents, size of units, income information, and location of
+applications including business hours, where/how applications may be obtained and application fees, if
+any.
+d.
+All newspaper articles, announcements and requests for applications for low and moderate income
+housing will appear in publications such as the Suburbanite weekly newspaper, religious publications and
+organizational newsletters within the region.
+§54-46.3 Brochures and Posters.
+The following is the location of brochures, signs and/or posters used as part of the Affirmative
+Marketing Program including specific employment centers within the region: posting of notices
+in the Borough Hall and delivery of notices to the municipal clerks of all municipalities in the
+region.
+§54-46.4 Community Contacts and Organizations.
+The following is a listing of community contact persons and/or organizations in Upper Saddle
+River and Bergen County that will aid in the Affirmative Marketing Program with particular
+emphasis on contacts that will reach out to groups that are least likely to apply for housing within
+the region: Land Use Administrator, County Housing Office, and houses of worship.
+§54-46.5 Agencies.
+
+===== PAGE 65 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 65 of 72
+Trans ID: LCV20251747593
+Quarterly fliers and applications will be sent to each of the following agencies for publication in
+their journals and for circulation among their members: Board of Realtors in Bergen, Hudson,
+Passaic, and Sussex Counties.
+§54-46.6 Applications.
+Applications will be mailed to prospective applicants upon request.
+§54-46.7 Random Selection Method.
+A random selection method will be used to select occupants of low and moderate income
+housing.
+§54-46.8 Administration.
+The administration of the Affirmative Marketing Program shall be done by the municipality
+and/or the designated administrative agency of affordable housing. The administration hereunder
+shall address the requirements of N.J.A.C. 5:94-7.3. Costs and expenses arising out of the
+implementation of activities provided under this section whether performed by the municipality
+or an administrative agency shall be the sole responsibility of the individual developer(s)
+constructing
+units
+governed
+by
+this
+section.
+The
+municipality
+and/or
+the
+designated
+administrative agency has the responsibility to income qualify lower income households, to place
+income eligible households in lower income units upon initial occupancy, to provide for the
+initial occupancy of lower income units with income qualified households, to continue to qualify
+households for reoccupancy of units as they become vacant during the period of affordability
+controls, to assist with the advertising and outreach to lower income households, to enforce the
+terms of the deed restriction and mortgage loan as per N.J.A.C. 5:80-26.
+§54-46.9 Regional Preference.
+Households who live or work in the COAH-established housing region may be given preference
+for sales and rental units constructed within that housing region. Applicants living outside the
+housing region will have an equal opportunity for units after regional applicants have been
+initially serviced.
+§54-46.10 Developer Assistance.
+All developers of lower income housing will be required to assist in the marketing of the
+affordable units in their respective developments.
+§54-46.11 Commencement of Affirmative Marketing Program.
+The marketing program will commence at least one hundred twenty (120) days before the
+issuance of either temporary or permanent certificates of occupancy. The marketing program will
+continue until all lower income units are initially occupied and for as long as affordable units are
+deed restricted and occupancy or reoccupancy of units to be necessary.
+
+===== PAGE 66 =====
+BER-L-000586-25
+06/12/2025 4:21:53 PM
+Pg 66 of 72
+Trans ID: LCV20251747593
+§54-46.12 Monitoring.
+The Borough will comply with monitoring and reporting requirements as per N.J.A.C. 5:94-
+9.2(b)9. The Borough, in its discretion, shall delegate the monitoring and reporting tasks set forth
+hereunder to a person or persons and/or department of its choice. Length of service hereunder
+shall be at the discretion of the Borough Council.
+
+===== PAGE 67 =====
+1 
+ 
+ 
+BOROUGH OF UPPER SADDLE RIVER 
+BERGEN COUNTY, NEW JERSEY 
+ 
+RESOLUTION ADOPTING AN AFFIRMATIVE MARKETING PLAN  
+FOR THE BOROUGH OF UPPER SADDLE RIVER 
+ 
+ 
+WHEREAS, in accordance with applicable Council on Affordable Housing (“COAH”) 
+regulations, the New Jersey Uniform Housing Affordability Controls (“UHAC”)(N.J.A.C. 5:80-
+26., et seq.), and the terms of a Settlement Agreement between the Borough of Upper Saddle River 
+and Fair Share Housing Center (“FSHC”), which was entered into as part of the Borough’s 
+Declaratory Judgment action entitled  “In the Matter of the Borough of Upper Saddle River, 
+County of Bergen, Docket No. BER-L-6121-15, which was filed in response to Supreme Court 
+decision In re N.J.A.C. 5:96 and 5:97,  221 N.J. 1, 30 (2015) (“Mount Laurel IV”), the Borough 
+of Upper Saddle River is required to adopt by resolution an Affirmative Marketing Plan to ensure 
+that all affordable housing units created, including those created by rehabilitation, are affirmatively 
+marketed to very low, low and moderate income households, particularly those living and/or 
+working within Housing Region 1, which encompasses the Borough of Upper Saddle River; and 
+ 
+NOW, THEREFORE, BE IT RESOLVED, that the Mayor and Council of the Borough 
+of Upper Saddle River, County of Bergen, State of New Jersey, do hereby adopt the following 
+Affirmative Marketing Plan: 
+Affirmative Marketing Plan 
+A. 
+All affordable housing units in the Borough of Upper Saddle River shall be marketed in 
+accordance with the provisions herein unless otherwise provided in N.J.A.C. 5:93-1, et seq. 
+B. 
+The Borough of Upper Saddle River has a Gap (1999-2015) and Prospective Need (2015-
+2025) affordable housing obligation. This Affirmative Marketing Plan shall apply to all 
+developments that require an Affirmative Marketing Plan or will contain very low, low and 
+moderate-income units, including those that are part of the Borough’s current Housing 
+Element and Fair Share Plan, and those that may be constructed in future developments not 
+contemplated in the Borough’s Housing Element and Fair Share Plan. This Affirmative 
+Marketing Plan shall also apply to any rehabilitated rental units that are vacated and re-
+rented during the applicable period of controls for identified rehabilitated rental units. 
+C. 
+The Affirmative Marketing Plan shall be implemented by the Administrative Agent under 
+contract to the Borough of Upper Saddle River. All of the costs of advertising and 
+affirmatively 
+marketing 
+affordable 
+housing 
+units 
+shall 
+be 
+borne 
+by 
+the 
+developer/seller/owner of the affordable unit(s). 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 67 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 68 =====
+2 
+ 
+D. 
+In implementing the Affirmative Marketing Plan, the Administrative Agent, acting on 
+behalf of the Borough, shall undertake all of the following strategies: 
+1. Publication of one advertisement in a newspaper of general circulation within the 
+housing region. 
+2. Broadcast of one advertisement by a radio or television station broadcasting 
+throughout the housing region. 
+3. At least one additional regional marketing strategy using one of the other sources 
+listed below. 
+E. 
+The Affirmative Marketing Plan is a regional marketing strategy designed to attract buyers 
+and/or renters of all majority and minority groups, regardless of race, creed, color, national 
+origin, ancestry, marital or familial status, gender, affectional or sexual orientation, 
+disability, age or number of children to housing units which are being marketed by a 
+developer or sponsor of affordable housing. The Affirmative Marketing Plan is also 
+intended to target those potentially eligible persons who are least likely to apply for 
+affordable units in that region. It is a continuing program that directs all marketing activities 
+toward Housing Region 1 in which the Borough is located and covers the entire period of 
+deed restriction for each restricted housing unit.  
+F. 
+The Affirmative Marketing Plan is a continuing program intended to be followed 
+throughout the entire period of restrictions and shall meet the following requirements: 
+1. All newspaper articles, announcements and requests for application for very low, 
+low and moderate-income units shall appear in the Star Ledger. 
+2. The primary marketing shall take the form of at least one press release and a paid 
+display advertisement in the above newspaper during the first week of the 
+marketing program.  Additional advertising and publicity shall be on an “as needed” 
+basis. The developer/owner shall disseminate all public service announcements and 
+pay for display advertisements. The developer/owner shall provide proof of 
+publication to the Administrative Agent. All press releases and advertisements shall 
+be approved in advance by the Borough’s Administrative Agent. 
+3. The advertisement shall include a description of the: 
+i. Location of the units; 
+ii. Direction of the units; 
+iii.  Range of prices for the units; 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 68 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 69 =====
+3 
+ 
+iv. Size, as measured in bedrooms, of units; 
+v. Maximum income permitted to qualify for the units; 
+vi. Location of applications; 
+vii. Business hours when interested households may obtain an application; and 
+viii. Application fees. 
+4. Newspaper articles, announcements and information on where to request 
+applications for very low, low and moderate income housing shall appear in at  least 
+three locally oriented weekly newspapers within the region, one of which shall be 
+circulated primarily in Bergen County and the other two of which shall be circulated 
+primarily outside of Bergen County, but within the housing region. 
+5. Advertisements will be broadcast on Spectrum Cable.  
+6. Applications, brochure(s), sign(s), and/or poster(s) used as part of the affirmative 
+marketing program shall be available/posted in the following locations: 
+i. Borough Municipal Building 
+ii. Borough Public Library 
+iii. Borough Website 
+iv. Developer’s Sales/Rental Office 
+v. Bergen County Administration Building 
+Applications shall be mailed by the Administrative Agent to the prospective 
+applications upon request. Locations of applications, brochures, and flyers to 
+affirmatively market the program are listed in the attached Appendix. 
+7.  Also, applications shall be made available at the developer’s sales/rental office and 
+shall be mailed to prospective applicants upon request.  When on-line preliminary 
+applications are utilized, if prospective applicants do not have internet access they 
+will be given a phone number to call the Administrative Agent, who will then enter 
+all pre-application information online during the phone call. The Administrative 
+Agent shall develop, maintain and update a list of community contact person(s) 
+and/or organization(s) in Bergen, Hudson, Passaic and Sussex Counties that will 
+aid in the affirmative marketing program with particular emphasis on contacts that 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 69 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 70 =====
+4 
+ 
+will reach out to groups that are least likely to apply for housing within the region, 
+including major regional employers.   
+i. Quarterly informational flyers and applications shall be sent to each of the 
+following agencies for publication in their journals and for circulation 
+among their members: 
+Eastern Bergen County Board of Realtors (411 Rte. 17 South, Hasbrouck 
+Heights, NJ 07604) 
+Sussex County Association of Realtors (115 DeMarest Rd., Sparta, NJ 
+07871) 
+Passaic County Board of Realtors (204 Berdan Ave., Wayne, NJ 07470) 
+Hudson County Board of Realtors (110a Meadowlands Pkwy., Ste. 103, 
+Secaucus, NJ 07094) 
+ii. Quarterly informational circulars and applications shall be sent to the 
+administrators of each of the following agencies in the counties of  Bergen, 
+Hudson, Passaic and Sussex: 
+Welfare or Social Service Board 
+Office on Aging or Division of Senior Services 
+Housing Authority 
+Community Action Agencies 
+Community Development Departments 
+iii. Quarterly informational circulars and applications shall be sent to the chief 
+personnel administrators of all the major employers within the region as 
+listed in the attached Appendix in accordance with the Region 1 Affirmative 
+Marketing Plan. 
+iv. The Administrative Agent will also provide specific direct notice to the 
+following community and regional organizations whenever affordable 
+housing units become available in the Borough to the organizations listed 
+in the attached Appendix, including those listed below: 
+Fair Share Housing Center (510 Park Boulevard, Cherry Hill, NJ 08002) 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 70 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 71 =====
+5 
+ 
+New Jersey State Conference of the NAACP (4326 Harbor Beach Blvd. 
+#775, Brigantine, NJ 08203) 
+The Latino Action Network (P.O. Box 943, Freehold, NJ 07728) 
+The Bergen County NAACP (P.O. Box 1136, Englewood, NJ 07631) 
+Bergen County Urban League (12 Tenafly Rd., Ste. 104, Englewood, NJ 
+07631) 
+Bergen County Housing Coalition (389 Main St., Hackensack, NJ 07601) 
+8. A random selection method to select occupants of very low, low and moderate 
+income housing will be used by the Administrative Agent in conformance with 
+N.J.A.C. 5:80-26.16(l). The Affirmative Marketing Plan shall provide a regional 
+preference for all households that live and/or work in Housing Region 1 comprised 
+of Bergen, Hudson, Passaic and Sussex Counties. 
+9. The Administrative Agent shall administer the Affirmative Marketing Plan. The 
+Administrative Agent has the responsibility to income qualify very low, low and 
+moderate income households; to place income eligible households in very low, low 
+and moderate income units upon initial occupancy; to provide for the initial 
+occupancy of very low, low and moderate income units with income qualified 
+households; to continue to qualify households for re-occupancy of units as they 
+become vacant during the period of affordability controls; to assist with outreach 
+to very low, low and moderate income households; and to enforce the terms of the 
+deed restriction and mortgage loan as per N.J.A.C. 5:80-26.1, et seq. 
+10. Whenever appropriate, the Administrative Agent shall provide or direct qualified 
+very low, low and moderate income applicants to counseling services on subjects 
+such as budgeting, credit issues, mortgage qualifications, rental lease requirements 
+and landlord/tenant law and shall develop, maintain and update a list of entities and 
+lenders willing and able to perform such services. 
+11. All developers/owners of very low, low and moderate income housing units shall 
+be required to undertake and pay the costs of the marketing of the affordable units 
+in their respective developments, subject to the direction and supervision of the 
+Administrative Agent. 
+12. The implementation of the Affirmative Marketing Plan for a development that 
+includes affordable housing shall commence at least 120 days before the issuance 
+of either a temporary or permanent certificate of occupancy. The implementation 
+of the Affirmative Marketing Plan shall continue until all very low, low and 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 71 of 72   Trans ID: LCV20251747593 
+
+===== PAGE 72 =====
+6 
+ 
+moderate income housing units are initially occupied and for as long as affordable 
+units exist that remain deed restricted and for which the occupancy or re-occupancy 
+of units continues to be necessary.  Please note that in addition to complying with 
+this Borough-wide Affirmative Marketing Plan that the Administrative Agent shall 
+also review and approve a separate Affirmative Marketing Plan for every new 
+affordable development in River Edge that is subject to N.J.A.C. 5:80-26.1 et seq.  
+That document shall be completed by the owner/developer and will be compliant 
+with the Borough’s Affirmative Marketing Plan as presented herein, and 
+incorporate development specific details and permitted options, all subject to the 
+Administrative Agent’s review and approval.  The development specific 
+affirmative marketing plans will use the standard form for Region 1, which is 
+included in the attached Appendix. 
+ 
+13. The Administrative Agent shall provide the Affordable Housing Liaison with the 
+information required to comply with monitoring and reporting requirements 
+pursuant to N.J.A.C.5:80-26-1, et seq. and the Order granting the Borough a Final 
+Judgment of Compliance and Repose. 
+ 
+ 
+BE IT FURTHER RESOLVED that the appropriate Borough officials and professionals 
+are authorized to take all actions required to implement the terms of this Resolution. 
+ 
+BE IT FURTHER RESOLVED that this Resolution shall take effect pursuant to law. 
+ 
+APPROVED this _____ day of ____, 2020. 
+ 
+ 
+ATTEST: 
+ 
+ 
+________________________________ 
+  Joy Convertini, Borough Clerk 
+ 
+                                                                                                                                                                                              
+BER-L-000586-25   06/12/2025 4:21:53 PM   Pg 72 of 72   Trans ID: LCV20251747593 
